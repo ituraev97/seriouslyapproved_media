@@ -68,7 +68,7 @@ let TL,FIGS={},cur=-1,state={};
 async function init(tl,figs){TL=tl;FIGS=figs;if(tl.fmt==='long')document.body.classList.add('long');await document.fonts.ready;
  for(const f of ['Slab','Mono','Inter']) await document.fonts.load(`40px ${f}`); return true}
 const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;');
-function hookHTML(s){return (s||'').replace(/\[(.+?)\]/g,'<i>$1</i>')}
+function hookHTML(s){return (s||'').replace(/\[(.+?)\]/g,'<i>$1</i>').replace(/\|/g,'<br>')}
 function figHTML(key,vb){const s=FIGS[key];if(!s)throw new Error('missing fig '+key);return `<div class="fig">${vb?s.replace(/viewBox="[^"]+"/,`viewBox="${vb}" preserveAspectRatio="xMidYMid meet"`):s}</div>`}
 function svgMap(c){const svg=c.querySelector('svg');const r=svg.getBoundingClientRect(),cr=c.getBoundingClientRect();const vb=svg.getAttribute('viewBox').split(' ').map(Number);
  const sc=Math.min(r.width/vb[2],r.height/vb[3]),ox=r.left-cr.left+(r.width-vb[2]*sc)/2,oy=r.top-cr.top+(r.height-vb[3]*sc)/2;return (x,y)=>[ox+(x-vb[0])*sc,oy+(y-vb[1])*sc]}

@@ -1,0 +1,29 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Slab;src:url(node_modules/@fontsource/alfa-slab-one/files/alfa-slab-one-latin-400-normal.woff2)}
+@font-face{font-family:Inter;font-weight:800;src:url(node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2)}
+@font-face{font-family:Mono;font-weight:600;src:url(node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-600-normal.woff2)}
+:root{--bp:#123A6B;--paper:#F4EFE2;--ink:#1B1B1B;--red:#D7263D;--hl:#F5D547}
+*{margin:0;padding:0;box-sizing:border-box}html,body{width:1280px;height:720px;overflow:hidden}
+.t{position:relative;width:1280px;height:720px;overflow:hidden;background:
+ radial-gradient(120% 120% at 50% 40%,rgba(255,255,255,.06),rgba(0,0,0,.28)),
+ linear-gradient(rgba(255,255,255,.075) 2px,transparent 2px) 0 0/144px 144px,linear-gradient(90deg,rgba(255,255,255,.075) 2px,transparent 2px) 0 0/144px 144px,
+ linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px) 0 0/28.8px 28.8px,linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px) 0 0/28.8px 28.8px,var(--bp)}
+.stamp{display:inline-flex;flex-direction:column;align-items:center;color:var(--red);border:var(--b) solid var(--red);outline:calc(var(--b)*.45) solid var(--red);outline-offset:calc(var(--b)*.7);padding:.18em .38em .1em;transform:rotate(-7deg);
+ -webkit-mask-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' seed='4'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -9 7.3'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");mask-size:220px}
+.stamp .s1{font:600 .27em Mono;letter-spacing:.42em;margin-right:-.42em}.stamp .s2{font:1em/0.95 Slab;letter-spacing:.02em}
+.stamp.light{color:var(--paper);border-color:var(--paper);outline-color:var(--paper)}
+.paper{position:absolute;right:44px;top:36px;width:560px;height:560px;background:var(--paper);box-shadow:0 20px 60px rgba(0,0,0,.45);transform:rotate(2.5deg);padding:30px}
+.paper img{width:100%;height:100%;object-fit:contain}
+.paper .stamp{position:absolute;right:26px;top:34px;font-size:56px;--b:5px}
+.words{position:absolute;left:56px;top:150px;width:600px;font:104px/1 Slab;color:var(--paper);text-transform:uppercase;text-shadow:0 6px 0 rgba(0,0,0,.35)}
+.words i{font-style:normal;color:var(--hl)}
+.hook{position:absolute;left:56px;top:70px;background:var(--hl);color:var(--ink);font:800 40px Inter;padding:8px 20px;transform:rotate(-2deg);box-shadow:0 6px 0 rgba(0,0,0,.3)}
+.logo{position:absolute;left:52px;bottom:40px}.logo .stamp{font-size:44px;--b:4px;transform:rotate(-6deg)}
+.pn{position:absolute;left:58px;bottom:160px;font:600 30px Mono;color:rgba(244,239,226,.85);letter-spacing:.06em}
+</style></head><body><div class="t" id="t"></div>
+<script>
+function draw(v){document.getElementById('t').innerHTML=`<div class="paper"><img src="${v.figsrc}">${v.stamp!==false?`<div class="stamp"><span class="s1">${v.stamp||''}</span><span class="s2">APPROVED</span></div>`:''}</div>
+<div class="hook">${v.hook}</div><div class="words" style="font-size:${v.size||104}px">${v.words.replace(/\[(.+?)\]/g,'<i>$1</i>').replace(/\|/g,'<br>')}</div>
+<div class="pn">${v.num}</div><div class="logo"><div class="stamp light"><span class="s1">SERIOUSLY</span><span class="s2">APPROVED</span></div></div>`;
+ return Promise.all([...document.images].map(i=>i.complete?1:new Promise(r=>i.onload=r)))}
+</script></body></html>
