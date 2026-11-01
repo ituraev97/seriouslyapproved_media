@@ -1,0 +1,479 @@
+{
+ "T": 46.93,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.184,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.23
+    ],
+    [
+     3.63,
+     4.633
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask12",
+   "figno": "1 & 2"
+  },
+  {
+   "t0": 5.184,
+   "t1": 10.489,
+   "i": 1,
+   "segs": [
+    [
+     5.184,
+     6.826
+    ],
+    [
+     7.106,
+     8.578
+    ],
+    [
+     8.858,
+     10.138
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask12",
+   "figno": "1 & 2",
+   "draw": false
+  },
+  {
+   "t0": 10.489,
+   "t1": 17.079,
+   "i": 2,
+   "segs": [
+    [
+     10.489,
+     11.215
+    ],
+    [
+     11.715,
+     12.397
+    ],
+    [
+     12.897,
+     13.665
+    ],
+    [
+     14.165,
+     14.848
+    ],
+    [
+     15.348,
+     16.628
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask12",
+   "figno": "1 & 2",
+   "draw": false,
+   "vb": "462 0 462 636"
+  },
+  {
+   "t0": 17.079,
+   "t1": 21.723,
+   "i": 3,
+   "segs": [
+    [
+     17.079,
+     17.911
+    ],
+    [
+     18.191,
+     19.748
+    ],
+    [
+     20.028,
+     21.372
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask4",
+   "figno": "4"
+  },
+  {
+   "t0": 21.723,
+   "t1": 26.228,
+   "i": 4,
+   "segs": [
+    [
+     21.723,
+     25.777
+    ]
+   ],
+   "g": "quote",
+   "q": "by blowing through the pipe the feature will be protruded",
+   "hit": "protruded",
+   "src": "US 885,802 \u00b7 description"
+  },
+  {
+   "t0": 26.228,
+   "t1": 30.165,
+   "i": 5,
+   "segs": [
+    [
+     26.228,
+     27.828
+    ],
+    [
+     28.108,
+     29.814
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask4",
+   "figno": "4",
+   "draw": false
+  },
+  {
+   "t0": 30.165,
+   "t1": 32.884,
+   "i": 6,
+   "segs": [
+    [
+     30.165,
+     32.533
+    ]
+   ],
+   "g": "quote",
+   "q": "The uses of the device for purposes of amusement will be obvious.",
+   "hit": "will be obvious",
+   "src": "US 885,802 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 32.884,
+   "t1": 37.716,
+   "i": 7,
+   "segs": [
+    [
+     32.884,
+     37.215
+    ]
+   ],
+   "g": "quote",
+   "q": "The uses of the device for purposes of amusement will be obvious.",
+   "hit": "will be obvious",
+   "src": "US 885,802 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 37.716,
+   "t1": 40.03,
+   "i": 8,
+   "segs": [
+    [
+     37.716,
+     39.529
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOY|MASK",
+   "filed": "JULY 18, 1906",
+   "date": "APR. 28, 1908",
+   "big": true,
+   "at": 0.4
+  },
+  {
+   "t0": 40.03,
+   "t1": 46.93,
+   "i": 9,
+   "segs": [
+    [
+     40.03,
+     43.977
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask12",
+   "figno": "1 & 2",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.939,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.939,
+   "t1": 2.183,
+   "txt": "real invention from"
+  },
+  {
+   "t0": 2.183,
+   "t1": 3.23,
+   "txt": "nineteen oh six."
+  },
+  {
+   "t0": 3.63,
+   "t1": 4.633,
+   "txt": "A toy mask."
+  },
+  {
+   "t0": 5.184,
+   "t1": 5.942,
+   "txt": "On the left,"
+  },
+  {
+   "t0": 5.942,
+   "t1": 6.826,
+   "txt": "a normal face."
+  },
+  {
+   "t0": 7.106,
+   "t1": 7.815,
+   "txt": "On the right,"
+  },
+  {
+   "t0": 7.815,
+   "t1": 8.578,
+   "txt": "the same mask."
+  },
+  {
+   "t0": 8.858,
+   "t1": 9.734,
+   "txt": "A few seconds"
+  },
+  {
+   "t0": 9.734,
+   "t1": 10.138,
+   "txt": "later."
+  },
+  {
+   "t0": 10.489,
+   "t1": 11.215,
+   "txt": "Eyes."
+  },
+  {
+   "t0": 11.715,
+   "t1": 12.397,
+   "txt": "Ears."
+  },
+  {
+   "t0": 12.897,
+   "t1": 13.665,
+   "txt": "Nose."
+  },
+  {
+   "t0": 14.165,
+   "t1": 14.848,
+   "txt": "Lips."
+  },
+  {
+   "t0": 15.348,
+   "t1": 16.308,
+   "txt": "They all pop"
+  },
+  {
+   "t0": 16.308,
+   "t1": 16.628,
+   "txt": "out."
+  },
+  {
+   "t0": 17.079,
+   "t1": 17.911,
+   "txt": "Here's how."
+  },
+  {
+   "t0": 18.191,
+   "t1": 18.918,
+   "txt": "There's a pipe"
+  },
+  {
+   "t0": 18.918,
+   "t1": 19.748,
+   "txt": "behind the mask."
+  },
+  {
+   "t0": 20.028,
+   "t1": 20.588,
+   "txt": "You put it"
+  },
+  {
+   "t0": 20.588,
+   "t1": 21.372,
+   "txt": "in your mouth."
+  },
+  {
+   "t0": 21.723,
+   "t1": 21.973,
+   "txt": "And,"
+  },
+  {
+   "t0": 21.973,
+   "t1": 22.347,
+   "txt": "quote:"
+  },
+  {
+   "t0": 22.347,
+   "t1": 23.469,
+   "txt": "by blowing through"
+  },
+  {
+   "t0": 23.469,
+   "t1": 24.218,
+   "txt": "the pipe the"
+  },
+  {
+   "t0": 24.218,
+   "t1": 25.153,
+   "txt": "feature will be"
+  },
+  {
+   "t0": 25.153,
+   "t1": 25.777,
+   "txt": "protruded."
+  },
+  {
+   "t0": 26.228,
+   "t1": 26.868,
+   "txt": "Don't want a"
+  },
+  {
+   "t0": 26.868,
+   "t1": 27.508,
+   "txt": "pipe in your"
+  },
+  {
+   "t0": 27.508,
+   "t1": 27.828,
+   "txt": "mouth?"
+  },
+  {
+   "t0": 28.108,
+   "t1": 28.961,
+   "txt": "There's a pocket"
+  },
+  {
+   "t0": 28.961,
+   "t1": 29.814,
+   "txt": "bellows version."
+  },
+  {
+   "t0": 30.165,
+   "t1": 30.994,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 30.994,
+   "t1": 31.882,
+   "txt": "ends with total"
+  },
+  {
+   "t0": 31.882,
+   "t1": 32.533,
+   "txt": "confidence."
+  },
+  {
+   "t0": 32.884,
+   "t1": 33.653,
+   "txt": "The uses of"
+  },
+  {
+   "t0": 33.653,
+   "t1": 34.631,
+   "txt": "the device for"
+  },
+  {
+   "t0": 34.631,
+   "t1": 36.097,
+   "txt": "purposes of amusement"
+  },
+  {
+   "t0": 36.097,
+   "t1": 37.215,
+   "txt": "will be obvious."
+  },
+  {
+   "t0": 37.716,
+   "t1": 38.967,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 38.967,
+   "t1": 39.529,
+   "txt": "oh eight."
+  },
+  {
+   "t0": 40.03,
+   "t1": 40.753,
+   "txt": "A hundred and"
+  },
+  {
+   "t0": 40.753,
+   "t1": 41.92,
+   "txt": "eighteen years later,"
+  },
+  {
+   "t0": 41.92,
+   "t1": 42.699,
+   "txt": "it's still the"
+  },
+  {
+   "t0": 42.699,
+   "t1": 43.699,
+   "txt": "scariest toy we've"
+  },
+  {
+   "t0": 43.699,
+   "t1": 43.977,
+   "txt": "seen."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.184
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 10.489
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.079
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.723
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 26.228
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 30.165
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 32.884
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 37.716
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 40.03
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [MASK] DOES",
+ "hook2": "THE [POP-OUT]|FACE \u00b7 1908",
+ "hookSwitch": 3,
+ "num": "US 885,802"
+}

@@ -1,0 +1,460 @@
+{
+ "T": 43.31,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.962,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     2.947
+    ],
+    [
+     3.347,
+     4.115
+    ],
+    [
+     4.515,
+     5.411
+    ]
+   ],
+   "g": "fig",
+   "fig": "catbird",
+   "figno": "1 & 2"
+  },
+  {
+   "t0": 5.962,
+   "t1": 11.177,
+   "i": 1,
+   "segs": [
+    [
+     5.962,
+     10.826
+    ]
+   ],
+   "g": "quote",
+   "q": "Collar for a cat for warning a bird of the presence of the cat",
+   "hit": "warning a bird",
+   "src": "US 5,952,925 \u00b7 title"
+  },
+  {
+   "t0": 11.177,
+   "t1": 16.102,
+   "i": 2,
+   "segs": [
+    [
+     11.177,
+     12.564
+    ],
+    [
+     12.984,
+     13.923
+    ],
+    [
+     14.343,
+     15.601
+    ]
+   ],
+   "g": "fig",
+   "fig": "catbird",
+   "figno": "1 & 2",
+   "draw": false
+  },
+  {
+   "t0": 16.102,
+   "t1": 17.819,
+   "i": 3,
+   "segs": [
+    [
+     16.102,
+     17.318
+    ]
+   ],
+   "g": "stamp",
+   "title": "COLLAR FOR A CAT FOR|WARNING A BIRD OF THE|PRESENCE OF THE CAT",
+   "filed": "MAY 28, 1998",
+   "date": "SEP. 14, 1999",
+   "at": 0.6
+  },
+  {
+   "t0": 17.819,
+   "t1": 22.888,
+   "i": 4,
+   "segs": [
+    [
+     17.819,
+     19.526
+    ],
+    [
+     19.806,
+     22.537
+    ]
+   ],
+   "g": "quote",
+   "q": "which are only audible to the bird 14.",
+   "hit": "only audible to the bird",
+   "src": "US 5,952,925 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 22.888,
+   "t1": 25.067,
+   "i": 5,
+   "segs": [
+    [
+     22.888,
+     24.616
+    ]
+   ],
+   "g": "quote",
+   "q": "which are only audible to the bird 14.",
+   "hit": "only audible to the bird",
+   "src": "US 5,952,925 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 25.067,
+   "t1": 29.41,
+   "i": 6,
+   "segs": [
+    [
+     25.067,
+     26.645
+    ],
+    [
+     26.925,
+     29.059
+    ]
+   ],
+   "g": "quote",
+   "q": "inoperative when there is not enough light.",
+   "hit": "not enough light",
+   "src": "US 5,952,925 \u00b7 claim 11"
+  },
+  {
+   "t0": 29.41,
+   "t1": 33.563,
+   "i": 7,
+   "segs": [
+    [
+     29.41,
+     29.986
+    ],
+    [
+     30.266,
+     31.61
+    ],
+    [
+     31.89,
+     33.212
+    ]
+   ],
+   "g": "fig",
+   "fig": "catbird",
+   "figno": "1 & 2",
+   "draw": false
+  },
+  {
+   "t0": 33.563,
+   "t1": 38.717,
+   "i": 8,
+   "segs": [
+    [
+     33.563,
+     35.547
+    ],
+    [
+     36.047,
+     38.266
+    ]
+   ],
+   "g": "stamp",
+   "title": "COLLAR FOR A CAT FOR|WARNING A BIRD OF THE|PRESENCE OF THE CAT",
+   "filed": "MAY 28, 1998",
+   "date": "SEP. 14, 1999",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 38.717,
+   "t1": 43.31,
+   "i": 9,
+   "segs": [
+    [
+     38.717,
+     40.21
+    ]
+   ],
+   "g": "fig",
+   "fig": "catbird",
+   "figno": "1 & 2",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 2.947,
+   "txt": "A cat."
+  },
+  {
+   "t0": 3.347,
+   "t1": 4.115,
+   "txt": "A bird."
+  },
+  {
+   "t0": 4.515,
+   "t1": 5.411,
+   "txt": "And a collar."
+  },
+  {
+   "t0": 5.962,
+   "t1": 7.147,
+   "txt": "The official title:"
+  },
+  {
+   "t0": 7.147,
+   "t1": 7.895,
+   "txt": "Collar for a"
+  },
+  {
+   "t0": 7.895,
+   "t1": 8.831,
+   "txt": "cat for warning"
+  },
+  {
+   "t0": 8.831,
+   "t1": 9.392,
+   "txt": "a bird of"
+  },
+  {
+   "t0": 9.392,
+   "t1": 10.327,
+   "txt": "the presence of"
+  },
+  {
+   "t0": 10.327,
+   "t1": 10.826,
+   "txt": "the cat."
+  },
+  {
+   "t0": 11.177,
+   "t1": 12.148,
+   "txt": "It's a burglar"
+  },
+  {
+   "t0": 12.148,
+   "t1": 12.564,
+   "txt": "alarm."
+  },
+  {
+   "t0": 12.984,
+   "t1": 13.923,
+   "txt": "For birds."
+  },
+  {
+   "t0": 14.343,
+   "t1": 15.071,
+   "txt": "Worn by the"
+  },
+  {
+   "t0": 15.071,
+   "t1": 15.601,
+   "txt": "burglar."
+  },
+  {
+   "t0": 16.102,
+   "t1": 16.742,
+   "txt": "And it was"
+  },
+  {
+   "t0": 16.742,
+   "t1": 17.318,
+   "txt": "approved."
+  },
+  {
+   "t0": 17.819,
+   "t1": 18.795,
+   "txt": "The collar sends"
+  },
+  {
+   "t0": 18.795,
+   "t1": 19.526,
+   "txt": "out a sound."
+  },
+  {
+   "t0": 19.806,
+   "t1": 20.602,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 20.602,
+   "t1": 21.513,
+   "txt": "is very specific"
+  },
+  {
+   "t0": 21.513,
+   "t1": 22.309,
+   "txt": "about who it's"
+  },
+  {
+   "t0": 22.309,
+   "t1": 22.537,
+   "txt": "for."
+  },
+  {
+   "t0": 22.888,
+   "t1": 23.968,
+   "txt": "Only audible to"
+  },
+  {
+   "t0": 23.968,
+   "t1": 24.616,
+   "txt": "the bird."
+  },
+  {
+   "t0": 25.067,
+   "t1": 25.735,
+   "txt": "It even has"
+  },
+  {
+   "t0": 25.735,
+   "t1": 26.645,
+   "txt": "a light sensor."
+  },
+  {
+   "t0": 26.925,
+   "t1": 27.636,
+   "txt": "It switches off"
+  },
+  {
+   "t0": 27.636,
+   "t1": 28.253,
+   "txt": "when there is"
+  },
+  {
+   "t0": 28.253,
+   "t1": 29.059,
+   "txt": "not enough light."
+  },
+  {
+   "t0": 29.41,
+   "t1": 29.986,
+   "txt": "Why?"
+  },
+  {
+   "t0": 30.266,
+   "t1": 31.142,
+   "txt": "The patent does"
+  },
+  {
+   "t0": 31.142,
+   "t1": 31.61,
+   "txt": "not say."
+  },
+  {
+   "t0": 31.89,
+   "t1": 32.52,
+   "txt": "The cat is"
+  },
+  {
+   "t0": 32.52,
+   "t1": 33.212,
+   "txt": "not asking."
+  },
+  {
+   "t0": 33.563,
+   "t1": 34.688,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 34.688,
+   "t1": 35.547,
+   "txt": "ninety-eight."
+  },
+  {
+   "t0": 36.047,
+   "t1": 37.434,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 37.434,
+   "t1": 38.266,
+   "txt": "ninety-nine."
+  },
+  {
+   "t0": 38.717,
+   "t1": 39.464,
+   "txt": "The bird has"
+  },
+  {
+   "t0": 39.464,
+   "t1": 40.21,
+   "txt": "been warned."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.962
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.177
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.102
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 17.819
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 22.888
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 25.067
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 29.41
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 33.563
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 38.717
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [COLLAR] DOES",
+ "hook2": "A [WARNING]|FOR BIRDS \u00b7 1999",
+ "hookSwitch": 3,
+ "num": "US 5,952,925"
+}

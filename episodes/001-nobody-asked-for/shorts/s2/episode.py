@@ -5,7 +5,6 @@ HOOK = "GUESS WHAT|THIS [MASK] DOES"
 HOOK2 = "THE [POP-OUT]|FACE · 1908"
 HOOK_SWITCH = 3
 TAIL = 2.6
-MIN_T = 61.5   # > 60 s so the same file qualifies on TikTok
 LINES = [
  ("This is a real invention from nineteen oh six. A toy mask.", dict(g="fig", fig="mask12", figno="1 & 2"), "question"),
  ("On the left, a normal face. On the right, the same mask. A few seconds later.", dict(g="fig", fig="mask12", figno="1 & 2", draw=False), "calm"),

@@ -28,7 +28,7 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:var(--bp)}
 .dot{position:absolute;width:22px;height:22px;border-radius:50%;border:5px solid var(--red);background:rgba(215,38,61,.15);transform:translate(-50%,-50%)}
 #doc{position:absolute;inset:0;padding:64px 60px}
 .dk{font:600 26px Mono;color:#6b665b;letter-spacing:.08em}
-.dt{font:96px/1 Slab;color:var(--ink);margin-top:22px}
+.dt{font:96px/1 Slab;color:var(--ink);margin-top:22px;white-space:nowrap}
 .dl{height:4px;background:var(--ink);margin:30px 0}
 .dm{font:600 32px Mono;color:var(--ink);line-height:1.6}
 .stamp{position:absolute;font:900 98px Slab;color:var(--red);border:10px solid var(--red);padding:10px 34px;letter-spacing:.04em;transform-origin:50% 50%;mix-blend-mode:multiply;opacity:.92}
@@ -72,6 +72,7 @@ function hookHTML(s){return (s||'').replace(/\[(.+?)\]/g,'<i>$1</i>').replace(/\
 function figHTML(key,vb){const s=FIGS[key];if(!s)throw new Error('missing fig '+key);return `<div class="fig">${vb?s.replace(/viewBox="[^"]+"/,`viewBox="${vb}" preserveAspectRatio="xMidYMid meet"`):s}</div>`}
 function svgMap(c){const svg=c.querySelector('svg');const r=svg.getBoundingClientRect(),cr=c.getBoundingClientRect();const vb=svg.getAttribute('viewBox').split(' ').map(Number);
  const sc=Math.min(r.width/vb[2],r.height/vb[3]),ox=r.left-cr.left+(r.width-vb[2]*sc)/2,oy=r.top-cr.top+(r.height-vb[3]*sc)/2;return (x,y)=>[ox+(x-vb[0])*sc,oy+(y-vb[1])*sc]}
+function fitDt(c){const d=c.querySelector('.dt');if(!d)return;const doc=c.querySelector('#doc');const maxW=doc.clientWidth-120;let fs=96;d.style.fontSize=fs+'px';while(d.scrollWidth>maxW&&fs>36){fs-=2;d.style.fontSize=fs+'px';}}
 function buildShot(s){
  const c=document.getElementById('card'); state={s}; const num=s.num||TL.num||'';
  document.getElementById('disc').textContent=num&&s.g!=='title'?`Drawing/text: U.S. Patent ${num.replace('US ','')} (public record)`:'';
@@ -91,11 +92,11 @@ function buildShot(s){
   c.innerHTML=`<div id="doc"><div class="dk">UNITED STATES PATENT</div><div class="dt">${esc(s.title).replace(/\|/g,'<br>')}</div><div class="dl"></div>
    <div class="dm">${esc(num)}<br>FILED&nbsp;&nbsp;${esc(s.filed)}<br>ISSUED ${esc(s.date)}</div></div>
    <div class="stamp" style="left:${s.big?80:110}px;top:${s.big?600:620}px;font-size:${s.big?96:76}px">APPROVED</div>`;
-  state.stamp=c.querySelector('.stamp');
+  state.stamp=c.querySelector('.stamp');fitDt(c);
  } else if(s.g==='title'){
   c.innerHTML=`<div id="doc">${s.numeral?`<div class="num">${esc(s.numeral)}</div>`:''}<div class="dk">${esc(s.kicker||'')}</div><div class="dt">${esc(s.title).replace(/\|/g,'<br>')}</div><div class="dl"></div>
    <div class="dl2">${(s.lines||[]).map(esc).join('<br>')}</div></div>${s.stamp?`<div class="stamp" style="left:110px;top:${s.stampTop||600}px;font-size:84px">APPROVED</div>`:''}`;
-  state.stamp=c.querySelector('.stamp');
+  state.stamp=c.querySelector('.stamp');fitDt(c);
  } else if(s.g==='quote'){
   const q=s.q, hit=s.hit||'', at=hit?q.indexOf(hit):-1;
   const pre=at>=0?q.slice(0,at):q, mid=at>=0?hit:'', post=at>=0?q.slice(at+hit.length):'';
