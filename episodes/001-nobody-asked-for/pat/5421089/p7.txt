@@ -1,0 +1,191 @@
+“time” to take the next bite. Deluxe versions could have
+
+as follows:
+
+5,421,089
+
+7
+
+The present invention is a standard 4-prong dinner
+fork made of stainless steel and an oval cutout in the
+handle. A waterproof solid state countdown timer is
+inserted and securely fastened into the cutout. The
+timer has a 2-digit display that counts down once a 5
+second from a preset period of up to’ 99 seconds, and
+two light emitting diodes, one red and the other green,
+that glow depending on the countdown state. While the
+time is counting down the red light emitting diode is
+turned on. When the count reaches zero, the red light
+emitting diode turns off and the green light emitting
+
+10
+
+diode is turned on to indicate it is time to take another
+
+bite. The timer is powered by a small calculator battery
+that can be replaced when necessary. It can be accessed
+
+through the bottom side of the dinner fork handle. The 15
+
+access door has a durable silicone seal to make it water-
+
+proof. An alternate embodiment of the present inven-
+tion also emits an audible beep or chime that indicates
+
+when the count of the time reaches zero.
+
+This is a fork that helps people pace their eating. It 20
+would be useful for dieters, health conscious people and
+everyone who wants to break the habit of eating too
+fast. The fork has a countdown timer in the handle and
+red and green lights that let the user know when it is
+
+25
+a chime and beep. This invention assists in altering the
+habitual nature of eating “unconsciously,” a feature of
+nearly every diet program. This invention could be
+truly helpful to people and extremely appealing since it
+does not require denial or starvation.
+
+As to the manner of usage and operation of the pres-
+ent invention, the same should be apparent from the
+above description. Accordingly, no further discussion
+relating to the manner of usage and operation will be
+provided.
+
+With respect to the above description then, it is to be
+realized that the optimum dimensional relationships for
+the parts of the invention, to include variations in size,
+materials, shape, form, function and the manner of oper-
+ation, assembly and use, are deemed readily apparent
+and obvious to one skilled in the art, and all equivalent
+relationships to those illustrated in the drawings and
+described in the specification are intended to be encom-
+passed by the present invention.
+
+Therefore, the foregoing is considered as illustrative
+only of the principles of the invention. Further, since
+numerous modification and changes will readily occur
+
+30
+
+35
+
+40
+
+45
+
+to those skilled in the art, it is not desired to limit the
+
+invention to the exact construction and operation
+shown and described, and accordingly, all suitable mod-
+ification and equivalents may be resorted to, falling
+within the scope of the invention.
+
+What is claimed as being new and desired to be pro-
+tected by LETTERS PATENT of the United States is
+
+50
+
+55
+1. A fork with timer for providing a cue to a user after
+an elapsed period of time for indicating that another bite
+of food using the fork may be taken comprising, in
+
+combination:
+
+a rigid dinner fork having a head, four spaced and 60
+aligned tines extended from the head, and a handle
+extended from the head remote from the.tines for
+allowing a user a firm grip for taking a bite of food;
+
+timer circuitry connected to the handle of the dinner
+fork and adapted for providing a cue after an
+elapsed period of time for indicating to user that
+another bite of food using the dinner fork may be
+taken, the timer circuitry further comprising:
+
+65
+
+8
+
+a countdown timer adapted for counting down a
+pre-programmed period of time, transmitting
+countdown signals in sequence during this per-
+iod of time, and transmitting an event signal
+when this period of time has elapsed, the count-
+down timer including automatic reset circuitry
+for resetting the pre-programmed period of time
+upon countdown completion for subsequent
+countdown during a subsequent period of time;
+
+decoder/driver circuitry coupled to the count-
+down timer and adapted for receiving the count-
+down signals and event signals during and upon
+completion of a period of time, transmitting a
+“so” signal when an event signal is received,
+transmitting a “stop” signal when an event signal
+is not received, and transmitting timer display
+signals upon receipt of countdown signals;
+
+a green light emitting diode and a red light emitting
+diode each coupled to the decoder/driver cir-
+cuitry with the green light emitting diode acti-
+vated when the “go” signal is received and deac-
+tivated otherwise, the red light emitting diode
+activated when the “stop” signal is received and
+deactivated otherwise, whereby when a period
+of time has elapsed, the green light emitting
+diode is activated and the red light emitting
+diode is deactivated, and when a period of time
+has not elapsed, the red light emitting diode is
+activated and the green light emitting diode is
+deactivated; and
+
+display circuitry coupled to the decoder/driver
+circuitry with the display circuitry having a
+numeric display for transmitting a visual indica-
+tion of elapsed time based upon receipt of timer
+display signals;
+
+a replaceable power source connected to the dinner
+fork and coupled to the timer circuitry with the
+power source adapted for energizing the timer
+circuitry; and
+
+a switch connected to the handle of the dinner fork
+and coupled between the power source and the
+timer circuitry with the switch having one orienta-
+tion for energizing the timer circuitry and another
+orientation for de-energizing the timer circuitry.
+
+2. The fork with timer as set forth in claim 1 further
+comprising:
+
+a one-shot speaker driver coupled to the countdown
+timer and adapted to transmit a speaker activation
+signal upon receipt of an event signal; and
+
+a speaker connected to the handle and coupled to the
+one-shot speaker driver with the speaker adapted
+for transmitting an audible tone based upon receipt
+of a speaker activation signal.
+
+3. A fork with timer for providing a cue to a user after
+an elapsed period of time for indicating that another bite
+of food using the fork may be taken comprising:
+
+a dinner fork having a head, a plurality of spaced tines
+extended from the head, and a handle extended
+from the head remote from the tines;
+
+timer circuitry connected to the handle of the dinner
+fork and adapted for providing a cue after an
+elapsed period of time for indicating to user that
+another bite of food using the dinner fork may be
+taken, the timer circuitry further comprising:
+
+a countdown timer adapted for counting down a
+pre-programmed period of time, transmitting
+countdown signals in sequence during this per-
+iod of time, and transmitting an event signal

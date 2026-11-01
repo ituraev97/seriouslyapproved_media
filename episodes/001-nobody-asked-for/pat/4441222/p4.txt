@@ -1,0 +1,175 @@
+4,441,222
+
+1
+AUTOMATIC BED MAKER
+
+BACKGROUND OF THE INVENTION
+
+This invention relates to apparatus for the automatic
+handling or straightening of the bed covers and sheets,
+and in particular relates to an apparatus which may be
+applied to a bed for making and then remaking the
+sheets and other bed covers.
+
+Flatwork and sheet handling equipment have in the
+past included helical type spreaders as part of power
+driven conveyor systems for drawing flatwork straight
+or taut from the middle of the sheet. Such apparatus
+have been taught by Roiland, U.S. Pat. No. 3,228,127,
+Long, U.S. Pat. No. 3,271,889, and Mazzolla, U.S. Pat.
+No. 3,287,838. In each instance the flatwork spreader is
+a roller having a helical screw type rib curving out-
+wardly from the middle of the sheet to each side
+thereof. The coiled winding of each screw formation
+goes in opposite directions to act in conjunction with
+one another to smooth wrinkles out of the flatwork
+from the center to the outer edges. In each instance
+these rollers are power driven by belt, chain or other
+means from electrical motors and are incorporated as a
+part of a conveyor or transfer system.
+
+Geary, U.S. Pat. No. 3,581,321, Propst, U.S. Pat. No.
+3,855,655, and Raczkowski, U.S. Pat. No. 4,024,591,
+each teach bed making apparatus having one or more
+arms each holding one of a plurality of covers or sheets.
+Essentially, these bed making apparatus hang the cover
+or sheet lengthwise from one end and then lay the cover
+or sheet onto the bed, with the bottom portion of the
+previously hanging cover or sheet becoming the free or
+headboard end of that cover.
+
+While the bed making apparatus of Geary, Propst and
+Raczkowski can be repeatedly used for making the
+same bed, such apparatus do not assure that the sheets
+and bedclothes are straightened and pulled flat from the
+center of the bed.
+
+The heavy driven roller systems of Roiland, Long
+and Mazzolla, while applicable to conveyor and other
+transfer systems are not adaptable to the bed making
+apparatus as taught by Geary, Propst and Raczkowski.
+
+What is needed is a bed making apparatus which is
+capable of making and remaking the bed covers while
+smoothing the bed covers in place and returning to its
+initial position. Moreover, besides remaking the bed
+covers with respect to their longitudinal position, such
+an apparatus should be able to smooth the wrinkles out
+of the bed covers from the center to the sides.
+
+An object of this invention is to provide a bed making
+apparatus which is permanently attached to the frame
+of the bed and which folds down out of the way when
+not performing the bedmaking function.
+
+A second object of this invention is to provide such a
+bed making apparatus which draws the-covers up from
+the foot of the bed to the head of the bed tautly, while
+smoothing the covers from the center of the bed to the
+sides, and then returning to the initial position immedi-
+ately upon completion of drawing the covers over the
+bed.
+
+A further object is to provide such a bed making
+apparatus for making a bed having a plurality of sheets
+and covers, said bed making apparatus including at least
+one working arm for each sheet and at least one holding
+arm for each sheet, said working arms and said holding
+
+10
+
+20
+
+25
+
+30
+
+35
+
+45
+
+35
+
+60
+
+65
+
+2
+arms being interleaved during the rest position when
+the bed making apparatus is not in operation.
+
+Another object of this invention is to provide an
+eletrical position monitor for the mechanical structure
+of the bed making apparatus whereby the structure is
+controlled to return to its initial position at the foot of
+the bed once it has completed the operation cycle to the
+head of the bed to be made.
+
+SUMMARY OF THE INVENTION
+
+The objects of this invention are realized in an auto-
+matic bed maker which draws a plurality of individual
+cover and sheet making arms up through each of its
+respectively associated covers or sheets thereby draw-
+ing that cover or sheet to the head of the bed while
+smoothing that cover or sheet from the middle of the
+bed.
+
+A motor driven multi-arm framework is pivoted
+about the mid-length of a bed to be raised from the foot
+to the headboard of the bed via a pair of rotational
+wheels that are gear, chain and shaft driven from an
+electrical motor positioned under the bed. Each arm
+carries an idler roller having a helical screw configura-
+tion thereon. These idlér rollers are paired on juxta-
+posed arms with their helical screw rib directions oppo-
+site for straightening a given sheet or cover from the
+center to the sides. As the framework is raised over the
+covers, these idler screw rollers on the arms frictionally
+engage the covers and operate to smooth them toward
+the edges of the bed, while the arms carry the covers to
+the head of the bed. Upon reaching the headboard of
+the bed, each arm extends beyond the free énd of the
+covers and returns to the foot of the bed empty.
+
+The bed making apparattis is started by a switch or
+button connected to the electrical control apparatus
+therefor. A limit switch detects when the multi-arm
+structure has reached the head of the bed and causes a
+reversal in the direction of the rotation of the wheels
+supporting the multi-arm structure and thereby the
+direction of movement of these arms.
+
+Each cover and sheet for the bed is held securedly to
+the bottom of the bed by an individual holding rod.
+These holding rods are mounted and supported by a
+frame which is positioned on an axle for pivoting. This
+axle is caused to rotate upon the return stroke of the bed
+making multi-arm structure whereof an activator on
+one of the rotational wheels at mid-bed enables the
+movement of a lever arm system connected to that
+wheel for pivoting the axle thereby the holding rod
+supporting frame upwardly for receiving the returning
+multi-arm structure in an interleaved manner whereby
+the entire mechanical apparatus is folded downwardly
+into the foot of the bed to the inactive or rest position.
+
+DESCRIPTION OF THE DRAWINGS
+
+The advantages, features and operation of this inven-
+tion are better understood from a reading of the follow-
+ing detailed description of the invention in conjunction
+with the attached drawings in which like numerals refer
+to like elements and in which:
+
+FIG. 1 shows-a perspective view of the bed making
+apparatus installed on a frame in the rest position.
+
+FIG. 2 shows a plan view of the bed making appara-
+tus of FIG. 1. an
+
+FIG. 3 shows a side elevation of the bed making
+apparatus.
+
+FIG. 4a shows the rotational sheet at mid-bed with
+lever arm system activator.

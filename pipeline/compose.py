@@ -23,7 +23,7 @@ for i, ((text, shot, kind), m) in enumerate(zip(E.LINES, meta)):
     end = t + m["dur"] + shot.get("gap", GAP.get(kind, .3))
     segs = [(round(t + a, 3), round(t + b, 3)) for _, a, b in m["segs"]]
     shots.append(dict(t0=round(t if i else 0, 3), t1=round(end, 3), i=i, segs=segs, **shot)); t = end
-T = round(t + getattr(E, "TAIL", 1.6), 2); shots[-1]["t1"] = T
+T = round(max(t + getattr(E, "TAIL", 1.6), getattr(E, "MIN_T", 0)), 2); shots[-1]["t1"] = T
 fmt = getattr(E, "FMT", "short")
 json.dump(dict(T=T, fmt=fmt, W=1920 if fmt == "long" else 1080, H=1080 if fmt == "long" else 1920, shots=shots, subs=subs, vo=vo,
                hook=getattr(E, "HOOK", ""), hook2=getattr(E, "HOOK2", ""), hookSwitch=getattr(E, "HOOK_SWITCH", 10**6), num=getattr(E, "NUM", "")),

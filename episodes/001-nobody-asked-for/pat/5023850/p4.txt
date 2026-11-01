@@ -1,0 +1,161 @@
+5,023,850
+
+1
+
+CLOCK FOR KEEPING TIME AT A RATE OTHER
+THAN HUMAN TIME
+
+This is a continuation-in-part of copending applica-
+tion Ser. No. 07/411,740 filed on Sept. 25, 1989 aban-
+doned.
+
+BACKGROUND OF THE INVENTION
+
+1. Field of the Invention
+
+The present invention relates to novelty clocks, 10
+watches, and the like for keeping time at a rate other
+than human time.
+
+2. Discussion of Background
+
+Watches, clocks, and the like keep track of the pas-
+sage of time on a human scale, or in terms of human 15
+time. Specifically, a day is defined by a single rotation of
+the earth on its axis; the day is then divided arbitrarily
+into twenty-four hours. Each hour is divided into min-
+utes, the minutes into seconds. A day, a minute, a sec-
+ond have value to a human being in terms of the lifetime 20
+of a man; a week has a greater value than a day; a year,
+a greater value still. Humans schedule their activities
+with these values in mind.
+
+Animals, such as dogs, live shorter lives as measured
+by human time than people. A dog that lives ten years 25
+has lived a full life; a man might live 77 years to live a
+full life. The relationship between the lifetimes of hu-
+mans and dogs can be related by stating a period of time
+in “dog years.” Two human years is fourteen “dog
+years.” Although this relationship might perhaps be 30
+helpful in determining whether a dog or other animal is
+full grown or not, it does little to help the owner of a pet
+put the proper value on the animal’s time. Various ani-
+mals have different lifetimes. For example, seahorses
+and rats live an average of three human years; pigeons 35
+live three and one-half years; goldfish and hamsters live
+five human years; hogs, 9 years; dogs, 11 years; cats, 18
+years, beavers, 12 years; lobsters, 15 years; bats, lions,
+and horses live 20 years; dolphins live 25 years; brown
+bears live 47 years and polar bears live 33 years; gorillas 40
+live 45 years; alligators, 50 years; elephants, 60 years;
+and giant tortoises, 100 years. All of these have a corre-
+sponding multiple to relate to them to human time.
+
+SUMMARY OF THE INVENTION
+
+According to its major aspects, the present invention
+is a watch, clock or the like made to run at a time differ-
+ent than human time, such as a multiple of human time
+to correspond to the ratio of “animal years” per “Shuman
+year.” The number of animal years per human year ratio 50
+is derived from the ratio of the lifetime of a human being
+to the lifetime of that particular animal, in the same
+units. For example a dog lives about 11 years while a
+human lives about 77 years; therefore, the ratio is seven.
+The watch comprises a housing containing a timing 55
+means for keeping time at a rate different than human
+time and a means for displaying the time at that different
+rate. The display would preferably. show the standard
+twelve hour analog display with the hands revolving,
+say, seven times faster for dog time so that seven “dog 60
+days” would elapse in the time it takes for one “human
+day.” Further, the date would also be displayed with a
+designation of “Dog Day” followed by the number of
+dog days elapsed during the dog year so that the human
+date of June 14th (at about 9:00 AM) would be dis- 65
+played as DOG DAY 56th (8:00 AM) in “dog” time.
+Preferably, the watch would change the reference fre-
+quency used for keeping human time, such as the fre-
+
+45
+
+2
+
+quency of a quartz crystal or the frequency of house-
+hold current from which the watch also derives its
+power. Most preferably the watch would display
+human time and human date simultaneously, perhaps by
+a digital display as the different rate of time is displayed
+by analog means or be capable of shifting from human
+time to animal time or animal rate of time.
+
+It is a feature of the present invention that the rate of
+time, as it is perceived by humans will have the appro-
+priate value for the animal to which the rate corre-
+sponds. If the watch is set for dog time, the hands will
+move about the watch face seven times faster than the
+rate of human time. The advantage of this feature is that
+the value to the animal of the duration of the activity in
+which the animal is engaged at its owner's pleasure will
+be put into perspective. If a dog is kept locked in the
+basement of a house during an eight or nine hour day,
+for example, while its owner is away, the elapsed time
+on the dog watch will be 56 to 63 hours, or approxi-
+mately two and one-half days. A one-hour ride in an
+automobile will register seven hours on a dog watch.
+Thus the value in dog time of a human activity will
+become quickly apparent.
+
+Another advantage of this feature is that the appear-
+ance of hands moving about a watch face at a rate seven
+times faster than expected has an unexpectedly comic
+effect. This comic effect can be taken advantage of by
+using the watch as an official time piece for a potentially
+dull meeting. Another feature of the present invention is
+circuitry to display simultaneously the date and time in
+both human and animal terms. The advantage of this
+feature is that it enables a human wearer to know the
+time and date both for himself and his pet.
+
+These and other features and advantages will be ap-
+parent to those skilled in the art of watches from the
+following drawings and detailed description.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+In the drawings:
+
+FIG. 1 shows a watch according the present inven-
+tion in the form of a wristwatch worn by a typical dog.
+
+FIG. 2 is a diagram of electrical circuitry for chang-
+ing the rate of human time based on a 60 hertz reference
+frequency according to an embodiment of the present
+invention.
+
+FIG. 3 shows a wrist watch according to a preferred
+embodiment of the present invention.
+
+FIG. 4 shows an alternative wrist watch according to
+the present invention.
+
+FIG. 5 shows the multiplier control on the back of a
+wrist watch according to the present invention.
+
+FIG. 6 is a block diagram of a clock having the capa-
+bility to display human and dog time.
+
+DETAILED DESCRIPTION OF A PREFERRED
+EMBODIMENT
+
+FIG. 1 depicts a dog 10 wearing a wristwatch 12.
+Alternative embodiments of the present invention en-
+compass, wall clocks, pocket watches, mantle clocks,
+and the like, whether worn by animals not limited to
+dogs, or by humans. If worn by animals, watches ac-
+cording to the present invention are preferably secured
+by a strap 14 with VELCRO ends for ease of applica-
+tion but may also be secured by the conventional belt
+and buckle. The material used for the straps is prefera-
+bly a synthetic material that is not easily chewed
+through. .

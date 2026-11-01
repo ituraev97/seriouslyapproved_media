@@ -1,0 +1,54 @@
+United States Patent 115
+Dubus et al.
+
+[54] FORK WITH TIMER
+
+[76] Inventors: Nicole M. Dubus; Susan Springfield,
+both of 132 Castillion Ter., Santa
+Cruz, Calif. 95060
+
+[21] Appl. No.: 249,191
+[22] Filed: May 26, 1994
+
+[51] Tint CRS ccesssssssccsssssssccssssssssccessee A47J 43/28
+P52] US. CM. cecccscscssssssccscesssssessccesssssne 30/142; 30/322
+[58] Field of Search... 30/123, 142, 324, 137,
+
+30/147, 148, 149, 150, 322; 446/81, 175
+
+[56] References Cited
+U.S. PATENT DOCUMENTS
+
+4,207,673 6/1980 DiGirolamo et al. ...........0 30/142
+4,914,819 4/1990 Ash ...... .
+5,075,970 12/1991 Albert .....:..ecsssesssesessseacerneees 30/123
+5,189,793 3/1993 Ratzon et al. ......esscsenesseneee 30/123
+
+US005421089A
+[11] Patent Number:
+
+[45] Date of Patent:
+
+5,421,089
+Jun. 6, 1995
+
+Primary Examiner—Hwei Siu Payer
+[57] ABSTRACT
+
+A fork with timer comprising a fork having a head,.a
+plurality of spaced tines extended from the head, and a
+handle extended from the head remote from the tines;
+timer circuitry connected to the handle of the fork and
+adapted for providing a cue after an elapsed period of
+time for indicating to user that another bite of food
+using the fork may be taken; a replaceable power source
+connected to the fork and coupled to the timer circuitry
+with the power source adapted for energizing the timer
+circuitry; and a switch connected to the fork and cou-
+pled between the power source and the timer circuitry
+with the switch having one orientation for energizing
+the timer circuitry and another orientation for de-ener-
+gizing the timer circuitry.
+
+4 Claims, 3 Drawing Sheets
+

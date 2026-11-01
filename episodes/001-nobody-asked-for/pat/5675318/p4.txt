@@ -1,0 +1,168 @@
+5,675,318
+
+3
+
+FIG. 5 is a representation of the field generating apparatus
+in accordance with another embodiment of the present
+invention.
+
+DETAILED DESCRIPTION OF THE
+INVENTION
+
+The following detailed description is of the best currently
+contemplated modes of carrying out the invention. The
+description is not to be taken in a limiting sense, but is made
+merely for the purpose of illustrating the general principles
+of the invention, since the actual scope of the invention can
+be best determined by the appended claims.
+
+Referring now to FIG. 1, there is shown an intruder 10
+coming into proximity with a wall or other structure 20. The
+intruder is holding a spraying apparatus, such as a paint
+spray can 100, in his hand ready to begin spraying the wall
+with the paint to deface the wall. As the intruder enters the
+detection range of a detector 30, a transmitter 40, which is
+electrically coupled to the detector, is actuated so that an
+electromagnetic signal is emitted. The signal is received by
+a disarming mechanism in can 100.
+
+In FIG. 2, one embodiment of the spray can disarming
+mechanism contemplated by the invention is shown. The
+spray can 100 has a dispensing tube 102 with a lower end
+portion 106 having a lower end disposed in a fluid reservoir
+F and an upper end portion 110 with an upper end attached
+to the spray nozzle 104.
+
+The dispensing tube 102 is disposed along the longitudi-
+nal axis of the spray can, and includes a central section 108
+which is of greater diameter than the upper and lower end
+portions of the dispensing tube.
+
+Preferably, the upper end portion of the central section
+receives the lower end of portion 110 and the upper end
+portion of the central section receives the upper end of
+portion 106 in a snug, fluid tight, fit. The central section 108
+of the tube is elongated in the longitudinal direction of the
+spray can and houses a plug 140 made of magnetic material
+which is capable of longitudinal travel between a lower
+position where the lower end of the plug rests adjacent the
+upper end of portion 106, and an upper position where the
+upper end of the plug rests adjacent the lower end of portion
+116. Positioned adjacent the central section of the tube are
+a receiver 120, a power supply 130, and an electromagnet
+125 (the functioning of which will be described below).
+These three latter components can be carried by one side
+surface of the spray can (eg., on a shelf), suspended from an
+upper portion of the can, or supported by the floor of the can.
+
+Under normal conditions of use, the plug 140 resides in
+the lower region of the central tube section 108, and the
+pressurized gas inside the can has enough force to lift the
+plug from the upper end of portion 106 to allow the paint to
+flow through the central tube section.
+
+When a person 10 approaches the wall 20 and enters the
+area monitored by the motion detector 30, the transmitter 40
+is activated. In turn, the receiver 120 in the spray can 100 is
+activated. The receiver is functionally coupled to the power
+source 130 to initiate its operation. The power source
+enables operation of the electromagnet 125, setting up an
+electromagnetic field which acts upon the plug 140. Under
+the influence of the field. the plug moves from its lower
+position in the tube central section to the upper position
+described above, where the flow of fluid from within the
+reservoir F through the lower tube portion 106 is blocked
+from entering the upper tube end 110.
+
+The receiver 120, the power source 130 and the electro-
+magnet 125 can be provided as a subassembly mounted on
+
+20
+
+35
+
+45
+
+50
+
+55
+
+65
+
+4
+
+an inside surface of the spray can or suspended from the lid
+of the spray can.
+
+Alternatively, the receiver, power source and electromag-
+net can be combined as a single component (e.g., mounted
+on a PC board or provided on a circuit chip) and secured to
+the outer surface of the tube central portion 108.
+
+FIGS. 3 and 4 show a second embodiment of a spray
+disabling mechanism (identified generally with the numeral
+200) which is to be carried within the spray can 100. In this
+embodiment, the dispensing tube includes an upper portion
+210 having one end 212, and a lower portion 202 having an
+end 206. The tube itself is preferably of constant diameter
+throughout its length. A metal strip 220 having magnetic
+properties is secured at about the central section 214 of the
+tube. Positioned immediately adjacent to the strip and to one
+side of the dispensing tube is a magnetic disk or plate 230
+which is carried by a housing 235. The housing can be
+mounted on an inside surface of the can 100 or suspended
+from the top of the can, and contains a receiver, a power
+source and an motor (not shown).
+
+The motor is actuated when the receiver detects a signal
+emitted by the transmitter 40. The motor causes the disk to
+rotate about an axis extending along the shaft 232 connect-
+ing the disk to the housing. This axis is also normal to the
+longitudinal axis of the dispensing tube.
+
+The upper end of the dispensing tube is secured to the
+dispensing cap 204 of the spray can at a central location of
+the undersurface where a fluid transfer channel of the type
+found in conventional spray caps can be formed (such a
+channel is not shown here), It is contemplated that the upper
+end of the dispensing tube and the underside of the cap 204
+will be configured to permit the upper end of the dispensing
+tube to be rotated out of alignment with the fluid transfer
+channel.
+
+FIG. 5 shows another embodiment of the present inven-
+tion which contemplates surface mounted apparatus for
+thwarting the application of graffiti by an intruder 10 bearing
+a paint spray can and malevolent intentions.
+
+In this embodiment, the fluid contents of the spray can is
+modified to include a ferrous material, such as a powder or
+ink, which can be combined with the paint. The mixing of
+the ferrous material and paint can be accomplished by the
+paint manufacturer or by the spray paint can manufacturer.
+
+FIG. 5 shows a wall 20 which has been targeted by an
+intruder 10 to receive graffiti. Mounted on the wall is a
+plurality of magnetic field generating components 416,
+positioned preferably at spaced longitudinal and vertical
+locations. The components 410 are activated by signals
+transmitted by motion or presence sensors 420. The com-
+ponents 416 will preferably be disposed in groups located in
+proximity to the sensors 420, but the invention also con-
+templates all of the components 410 being activated by
+signals transmitted (or emitted) from any one or more of the
+sensors 420. Preferably, the components 410 are mounted on
+the wall 20, on one or more posts 430 located in proximity
+to the wall, or on both the wall and the posts (as shown in
+FIG. 5). The signals emitted by the sensors actuate the
+magnet field generating components 419 to create an elec-
+tromagnetic field parallel to the wall surface, when the
+sensors detect the presence of the intruder 10.
+
+When the intruder directs the spray from the can at the
+wall surface to be marked. the pressurized ferrous material-
+containing marking fluid emerging from the can is repelled
+by the electromagnetic field created by components 410.
+
+This embodiment of the inventive system will not only
+result in the prevention of the marking fluid from reaching

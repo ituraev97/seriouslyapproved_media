@@ -1,0 +1,32 @@
+°
+United States Patent 19 [11] Patent Number: 5,023,850
+Metts et al. [45] Date of Patent: Jun. 11, 1991
+[54] CLOCK FOR KEEPING TIME AT A RATE 4,201,039 5/1980 Marion .......seeesseeereseerenenes 368/204
+OTHER THAN HUMAN TIME 4,541,726 9/1985 Rachofsky we 368/80
+4,763,311 8/1988 Marvosh .....sccccseesereeeees 368/223
+[76] Inventors: Rodney H. Metts, 520 Amherst Ave., . . . .
+Columbia, S.C. 29205; Barry D. Primary Examiner—Vit W. Miska
+aos, Oe ean Springs ae [57] ABSTRACT
+* +7 t > * . . .
+Pt arietta, (a A novelty clock, watch, and the like for keeping time at
+[21] Appl. No.: 550,167 an animal’s rate, defined in terms of a multiple of human
+32] Filed: Jul. 9, 1990 rate by dividing the average lifetime of a particular
+[2] File ms animal into the average lifetime of a human being. The
+Related U.S. Application Data multiple for dogs is seven, for example. The device
+oo sf comprises a housing, a source of reference frequency
+{63} | Continuation-in-part of Ser. No. 411,740, Sep. 25, 1989, for producing pulses, means for producing 60 pulses per
+abandoned. second times the multiple for the particular animal,
+[51] Int. CLS wo. ecseeseeseees G04B 19/24; GO4B 25/00 — means for accumulating time, and means for displaying
+[52] US. C1. ceecccssecsssseecsssscsssescsnneesssees 368/28; 368/62; time. The display is the usual clock face with the speed
+368/223 of the hands altered, preferably also with the data indi-
+[58] Field of Search 00... 368/10, 28-30, | cated as the number of days since the last “new year” in
+368/15-20, 62, 78, 80, 64, 66, 204, 223 animal days. A digital display of time in human terms
+. may be provided with an analog display of time in ani-
+[56] References Cited mal terms or, alternatively, a capability to switch from
+U.S. PATENT DOCUMENTS one to the other may be provided. Preferably, a variable
+resistor, between the frequency source and producing
+30709 et Boral _— ~ sea 18 means allows the user to change the multiple for difer-
+3,766,727 10/1973 Didik ssvccssssesctneetnteeente 368/15 ent types of animals.
+3,908,353 9/1975 Graziano ......ceeceesesereees 368/204
+4,175,378 11/1979 Shelton v..ccceeeseeeneseees 368/221 8 Claims, 3 Drawing Sheets
+

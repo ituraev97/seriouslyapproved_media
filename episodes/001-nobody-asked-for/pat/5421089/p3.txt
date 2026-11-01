@@ -1,0 +1,27 @@
+U.S. Patent June 6, 1995 Sheet 3 of 3 5,421,089
+
+Fig7
+
+: 22 20 40 gp
+oe 7 |
+
+COUNTDOWN = |
+
+al Wie DECODER/ 7 = |
+
+sg _ ||auto reset DRIVER a |
+50 : |
+= |
+
+|
+
+|
+
+ONE-SHOT |
+
+SPEAKER | |
+
+DRIVER |
+
+= ____|
+

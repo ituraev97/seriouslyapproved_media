@@ -1,0 +1,4584 @@
+{
+ "T": 429.11,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 3.904,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.566
+    ],
+    [
+     2.066,
+     3.453
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "ring": [
+    426,
+    277,
+    170
+   ]
+  },
+  {
+   "t0": 3.904,
+   "t1": 9.247,
+   "i": 1,
+   "segs": [
+    [
+     3.904,
+     8.896
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "draw": false
+  },
+  {
+   "t0": 9.247,
+   "t1": 10.857,
+   "i": 2,
+   "segs": [
+    [
+     9.247,
+     10.356
+    ]
+   ],
+   "g": "stamp",
+   "title": "CLOCK FOR|DOG TIME",
+   "filed": "JUL. 9, 1990",
+   "date": "JUN. 11, 1991",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991"
+  },
+  {
+   "t0": 10.857,
+   "t1": 20.669,
+   "i": 3,
+   "segs": [
+    [
+     10.857,
+     12.329
+    ],
+    [
+     12.609,
+     13.74
+    ],
+    [
+     14.02,
+     16.324
+    ],
+    [
+     16.604,
+     18.332
+    ],
+    [
+     18.612,
+     20.318
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE SHELF \u00b7 FILE 001",
+   "title": "12 Real Patents|Nobody Asked For",
+   "lines": [
+    "Real drawings. Real quotes.",
+    "Real approval stamps."
+   ],
+   "stamp": true,
+   "at": 6.5,
+   "hook": "NOBODY|ASKED FOR [THESE]",
+   "side": "FILE 001 \u00b7 THE SHELF"
+  },
+  {
+   "t0": 20.669,
+   "t1": 22.088,
+   "i": 4,
+   "segs": [
+    [
+     20.669,
+     21.587
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 1 OF 12",
+   "numeral": "1",
+   "title": "Clock for|Dog Time",
+   "lines": [
+    "US 5,023,850",
+    "Filed 1990 \u00b7 Issued 1991"
+   ],
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991"
+  },
+  {
+   "t0": 22.088,
+   "t1": 27.111,
+   "i": 5,
+   "segs": [
+    [
+     22.088,
+     26.76
+    ]
+   ],
+   "g": "quote",
+   "q": "Clock for keeping time at a rate other than human time",
+   "hit": "other than human time",
+   "src": "US 5,023,850 \u00b7 title",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991"
+  },
+  {
+   "t0": 27.111,
+   "t1": 35.747,
+   "i": 6,
+   "segs": [
+    [
+     27.111,
+     28.476
+    ],
+    [
+     28.756,
+     30.761
+    ],
+    [
+     31.041,
+     33.175
+    ],
+    [
+     33.455,
+     35.396
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "draw": false
+  },
+  {
+   "t0": 35.747,
+   "t1": 40.133,
+   "i": 7,
+   "segs": [
+    [
+     35.747,
+     38.2
+    ],
+    [
+     38.7,
+     39.682
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "draw": false,
+   "ring": [
+    426,
+    277,
+    170
+   ]
+  },
+  {
+   "t0": 40.133,
+   "t1": 44.068,
+   "i": 8,
+   "segs": [
+    [
+     40.133,
+     43.717
+    ]
+   ],
+   "g": "quote",
+   "q": "A one-hour ride in an automobile will register seven hours on a dog watch.",
+   "hit": "seven hours",
+   "src": "US 5,023,850 \u00b7 description",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "hide": true
+  },
+  {
+   "t0": 44.068,
+   "t1": 49.681,
+   "i": 9,
+   "segs": [
+    [
+     44.068,
+     49.23
+    ]
+   ],
+   "g": "quote",
+   "q": "A one-hour ride in an automobile will register seven hours on a dog watch.",
+   "hit": "seven hours",
+   "src": "US 5,023,850 \u00b7 description",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "typed": false
+  },
+  {
+   "t0": 49.681,
+   "t1": 53.918,
+   "i": 10,
+   "segs": [
+    [
+     49.681,
+     52.391
+    ],
+    [
+     52.671,
+     53.567
+    ]
+   ],
+   "g": "quote",
+   "q": "This comic effect can be taken advantage of by using the watch as an official time piece for a potentially dull meeting.",
+   "hit": "a potentially dull meeting",
+   "src": "US 5,023,850 \u00b7 description",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "hide": true
+  },
+  {
+   "t0": 53.918,
+   "t1": 62.326,
+   "i": 11,
+   "segs": [
+    [
+     53.918,
+     61.875
+    ]
+   ],
+   "g": "quote",
+   "q": "This comic effect can be taken advantage of by using the watch as an official time piece for a potentially dull meeting.",
+   "hit": "a potentially dull meeting",
+   "src": "US 5,023,850 \u00b7 description",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "typed": false
+  },
+  {
+   "t0": 62.326,
+   "t1": 67.16,
+   "i": 12,
+   "segs": [
+    [
+     62.326,
+     64.097
+    ],
+    [
+     64.597,
+     66.709
+    ]
+   ],
+   "g": "stamp",
+   "title": "CLOCK FOR|DOG TIME",
+   "filed": "JUL. 9, 1990",
+   "date": "JUN. 11, 1991",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "at": 2.4
+  },
+  {
+   "t0": 67.16,
+   "t1": 70.436,
+   "i": 13,
+   "segs": [
+    [
+     67.16,
+     68.034
+    ],
+    [
+     68.314,
+     70.085
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 2 OF 12",
+   "numeral": "2",
+   "title": "Toy|Mask",
+   "lines": [
+    "US 885,802",
+    "Filed 1906 \u00b7 Issued 1908"
+   ],
+   "num": "US 885,802",
+   "hook": "THE [POP-OUT]|FACE",
+   "side": "US 885,802 \u00b7 1908"
+  },
+  {
+   "t0": 70.436,
+   "t1": 77.238,
+   "i": 14,
+   "segs": [
+    [
+     70.436,
+     71.652
+    ],
+    [
+     71.932,
+     73.575
+    ],
+    [
+     73.855,
+     75.327
+    ],
+    [
+     75.607,
+     76.887
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask12",
+   "figno": "1 & 2",
+   "num": "US 885,802",
+   "hook": "THE [POP-OUT]|FACE",
+   "side": "US 885,802 \u00b7 1908"
+  },
+  {
+   "t0": 77.238,
+   "t1": 83.763,
+   "i": 15,
+   "segs": [
+    [
+     77.238,
+     77.963
+    ],
+    [
+     78.463,
+     79.146
+    ],
+    [
+     79.646,
+     80.414
+    ],
+    [
+     80.914,
+     81.596
+    ],
+    [
+     82.096,
+     83.312
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask12",
+   "figno": "1 & 2",
+   "num": "US 885,802",
+   "hook": "THE [POP-OUT]|FACE",
+   "side": "US 885,802 \u00b7 1908",
+   "draw": false,
+   "vb": "462 0 462 636"
+  },
+  {
+   "t0": 83.763,
+   "t1": 88.152,
+   "i": 16,
+   "segs": [
+    [
+     83.763,
+     84.339
+    ],
+    [
+     84.619,
+     86.177
+    ],
+    [
+     86.457,
+     87.801
+    ]
+   ],
+   "g": "fig",
+   "fig": "mask4",
+   "figno": "4",
+   "num": "US 885,802",
+   "hook": "THE [POP-OUT]|FACE",
+   "side": "US 885,802 \u00b7 1908"
+  },
+  {
+   "t0": 88.152,
+   "t1": 92.656,
+   "i": 17,
+   "segs": [
+    [
+     88.152,
+     92.205
+    ]
+   ],
+   "g": "quote",
+   "q": "by blowing through the pipe the feature will be protruded",
+   "hit": "protruded",
+   "src": "US 885,802 \u00b7 description",
+   "num": "US 885,802",
+   "hook": "THE [POP-OUT]|FACE",
+   "side": "US 885,802 \u00b7 1908"
+  },
+  {
+   "t0": 92.656,
+   "t1": 97.487,
+   "i": 18,
+   "segs": [
+    [
+     92.656,
+     97.136
+    ]
+   ],
+   "g": "quote",
+   "q": "means to protrude the features at the will of the wearer",
+   "hit": "at the will of the wearer",
+   "src": "US 885,802 \u00b7 claim 1",
+   "num": "US 885,802",
+   "hook": "THE [POP-OUT]|FACE",
+   "side": "US 885,802 \u00b7 1908"
+  },
+  {
+   "t0": 97.487,
+   "t1": 101.659,
+   "i": 19,
+   "segs": [
+    [
+     97.487,
+     98.874
+    ],
+    [
+     99.374,
+     101.208
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOY|MASK",
+   "filed": "JULY 18, 1906",
+   "date": "APR. 28, 1908",
+   "num": "US 885,802",
+   "hook": "THE [POP-OUT]|FACE",
+   "side": "US 885,802 \u00b7 1908",
+   "at": 2.2
+  },
+  {
+   "t0": 101.659,
+   "t1": 104.36,
+   "i": 20,
+   "segs": [
+    [
+     101.659,
+     102.577
+    ],
+    [
+     102.857,
+     104.009
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 3 OF 12",
+   "numeral": "3",
+   "title": "Animal|Hat",
+   "lines": [
+    "US 4,969,317",
+    "Filed 1989 \u00b7 Issued 1990"
+   ],
+   "num": "US 4,969,317",
+   "hook": "A SUN HAT|FOR [DOGS]",
+   "side": "US 4,969,317 \u00b7 1990"
+  },
+  {
+   "t0": 104.36,
+   "t1": 108.428,
+   "i": 21,
+   "segs": [
+    [
+     104.36,
+     105.448
+    ],
+    [
+     105.728,
+     106.624
+    ],
+    [
+     106.904,
+     108.077
+    ]
+   ],
+   "g": "fig",
+   "fig": "doghat4",
+   "figno": "4",
+   "num": "US 4,969,317",
+   "hook": "A SUN HAT|FOR [DOGS]",
+   "side": "US 4,969,317 \u00b7 1990"
+  },
+  {
+   "t0": 108.428,
+   "t1": 111.19,
+   "i": 22,
+   "segs": [
+    [
+     108.428,
+     110.839
+    ]
+   ],
+   "g": "quote",
+   "q": "Also, sunlight is harmful for animals' eyes, as they have no means to protect themselves from harmful ultraviolet rays.",
+   "hit": "no means to protect themselves",
+   "src": "US 4,969,317 \u00b7 description",
+   "num": "US 4,969,317",
+   "hook": "A SUN HAT|FOR [DOGS]",
+   "side": "US 4,969,317 \u00b7 1990"
+  },
+  {
+   "t0": 111.19,
+   "t1": 114.85,
+   "i": 23,
+   "segs": [
+    [
+     111.19,
+     112.555
+    ],
+    [
+     112.835,
+     114.499
+    ]
+   ],
+   "g": "fig",
+   "fig": "doghat4",
+   "figno": "4",
+   "num": "US 4,969,317",
+   "hook": "A SUN HAT|FOR [DOGS]",
+   "side": "US 4,969,317 \u00b7 1990",
+   "draw": false
+  },
+  {
+   "t0": 114.85,
+   "t1": 122.134,
+   "i": 24,
+   "segs": [
+    [
+     114.85,
+     116.621
+    ],
+    [
+     117.121,
+     118.849
+    ],
+    [
+     119.349,
+     120.138
+    ],
+    [
+     120.638,
+     121.683
+    ]
+   ],
+   "g": "fig",
+   "fig": "doghat4",
+   "figno": "4",
+   "num": "US 4,969,317",
+   "hook": "A SUN HAT|FOR [DOGS]",
+   "side": "US 4,969,317 \u00b7 1990",
+   "draw": false,
+   "vb": "40 0 356 300"
+  },
+  {
+   "t0": 122.134,
+   "t1": 126.304,
+   "i": 25,
+   "segs": [
+    [
+     122.134,
+     125.953
+    ]
+   ],
+   "g": "quote",
+   "q": "The animal hat 10 can also accommodate an animal with floppy ears.",
+   "hit": "floppy ears",
+   "src": "US 4,969,317 \u00b7 description",
+   "num": "US 4,969,317",
+   "hook": "A SUN HAT|FOR [DOGS]",
+   "side": "US 4,969,317 \u00b7 1990",
+   "hide": true
+  },
+  {
+   "t0": 126.304,
+   "t1": 131.534,
+   "i": 26,
+   "segs": [
+    [
+     126.304,
+     131.083
+    ]
+   ],
+   "g": "quote",
+   "q": "The animal hat 10 can also accommodate an animal with floppy ears.",
+   "hit": "floppy ears",
+   "src": "US 4,969,317 \u00b7 description",
+   "num": "US 4,969,317",
+   "hook": "A SUN HAT|FOR [DOGS]",
+   "side": "US 4,969,317 \u00b7 1990",
+   "typed": false
+  },
+  {
+   "t0": 131.534,
+   "t1": 134.481,
+   "i": 27,
+   "segs": [
+    [
+     131.534,
+     132.366
+    ],
+    [
+     132.786,
+     133.98
+    ]
+   ],
+   "g": "stamp",
+   "title": "ANIMAL|HAT",
+   "filed": "APR. 24, 1989",
+   "date": "NOV. 13, 1990",
+   "num": "US 4,969,317",
+   "hook": "A SUN HAT|FOR [DOGS]",
+   "side": "US 4,969,317 \u00b7 1990",
+   "at": 0.3
+  },
+  {
+   "t0": 134.481,
+   "t1": 136.606,
+   "i": 28,
+   "segs": [
+    [
+     134.481,
+     135.399
+    ],
+    [
+     135.679,
+     136.255
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 4 OF 12",
+   "numeral": "4",
+   "title": "Fork with|Timer",
+   "lines": [
+    "US 5,421,089",
+    "Filed 1994 \u00b7 Issued 1995"
+   ],
+   "num": "US 5,421,089",
+   "hook": "THE FORK|WITH A [TIMER]",
+   "side": "US 5,421,089 \u00b7 1995"
+  },
+  {
+   "t0": 136.606,
+   "t1": 140.309,
+   "i": 29,
+   "segs": [
+    [
+     136.606,
+     137.758
+    ],
+    [
+     138.038,
+     139.958
+    ]
+   ],
+   "g": "fig",
+   "fig": "fork1",
+   "figno": "1",
+   "num": "US 5,421,089",
+   "hook": "THE FORK|WITH A [TIMER]",
+   "side": "US 5,421,089 \u00b7 1995"
+  },
+  {
+   "t0": 140.309,
+   "t1": 145.012,
+   "i": 30,
+   "segs": [
+    [
+     140.309,
+     144.661
+    ]
+   ],
+   "g": "fig",
+   "fig": "fork1",
+   "figno": "1",
+   "num": "US 5,421,089",
+   "hook": "THE FORK|WITH A [TIMER]",
+   "side": "US 5,421,089 \u00b7 1995",
+   "draw": false,
+   "vb": "0 0 430 560"
+  },
+  {
+   "t0": 145.012,
+   "t1": 149.888,
+   "i": 31,
+   "segs": [
+    [
+     145.012,
+     146.206
+    ],
+    [
+     146.706,
+     149.437
+    ]
+   ],
+   "g": "fig",
+   "fig": "fork1",
+   "figno": "1",
+   "num": "US 5,421,089",
+   "hook": "THE FORK|WITH A [TIMER]",
+   "side": "US 5,421,089 \u00b7 1995",
+   "draw": false,
+   "vb": "0 0 430 560"
+  },
+  {
+   "t0": 149.888,
+   "t1": 152.65,
+   "i": 32,
+   "segs": [
+    [
+     149.888,
+     152.299
+    ]
+   ],
+   "g": "quote",
+   "q": "This invention could be truly helpful to people and extremely appealing since it does not require denial or starvation.",
+   "hit": "extremely appealing",
+   "src": "US 5,421,089 \u00b7 description",
+   "num": "US 5,421,089",
+   "hook": "THE FORK|WITH A [TIMER]",
+   "side": "US 5,421,089 \u00b7 1995"
+  },
+  {
+   "t0": 152.65,
+   "t1": 155.113,
+   "i": 33,
+   "segs": [
+    [
+     152.65,
+     154.762
+    ]
+   ],
+   "g": "quote",
+   "q": "Deluxe versions could have a chime and beep.",
+   "hit": "Deluxe versions",
+   "src": "US 5,421,089 \u00b7 description",
+   "num": "US 5,421,089",
+   "hook": "THE FORK|WITH A [TIMER]",
+   "side": "US 5,421,089 \u00b7 1995",
+   "hide": true
+  },
+  {
+   "t0": 155.113,
+   "t1": 157.768,
+   "i": 34,
+   "segs": [
+    [
+     155.113,
+     157.267
+    ]
+   ],
+   "g": "quote",
+   "q": "Deluxe versions could have a chime and beep.",
+   "hit": "Deluxe versions",
+   "src": "US 5,421,089 \u00b7 description",
+   "num": "US 5,421,089",
+   "hook": "THE FORK|WITH A [TIMER]",
+   "side": "US 5,421,089 \u00b7 1995",
+   "typed": false
+  },
+  {
+   "t0": 157.768,
+   "t1": 162.602,
+   "i": 35,
+   "segs": [
+    [
+     157.768,
+     159.347
+    ],
+    [
+     159.847,
+     162.151
+    ]
+   ],
+   "g": "stamp",
+   "title": "FORK WITH|TIMER",
+   "filed": "MAY 26, 1994",
+   "date": "JUN. 6, 1995",
+   "num": "US 5,421,089",
+   "hook": "THE FORK|WITH A [TIMER]",
+   "side": "US 5,421,089 \u00b7 1995",
+   "at": 2.0
+  },
+  {
+   "t0": 162.602,
+   "t1": 165.622,
+   "i": 36,
+   "segs": [
+    [
+     162.602,
+     163.562
+    ],
+    [
+     163.842,
+     165.271
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 5 OF 12",
+   "numeral": "5",
+   "title": "Hat with|Ventilating Means",
+   "lines": [
+    "US 3,735,423",
+    "Filed 1971 \u00b7 Issued 1973"
+   ],
+   "num": "US 3,735,423",
+   "hook": "THE [FAN] HAT",
+   "side": "US 3,735,423 \u00b7 1973"
+  },
+  {
+   "t0": 165.622,
+   "t1": 171.632,
+   "i": 37,
+   "segs": [
+    [
+     165.622,
+     166.305
+    ],
+    [
+     166.585,
+     169.145
+    ],
+    [
+     169.425,
+     171.281
+    ]
+   ],
+   "g": "fig",
+   "fig": "fanhat1",
+   "figno": "1",
+   "num": "US 3,735,423",
+   "hook": "THE [FAN] HAT",
+   "side": "US 3,735,423 \u00b7 1973"
+  },
+  {
+   "t0": 171.632,
+   "t1": 175.655,
+   "i": 38,
+   "segs": [
+    [
+     171.632,
+     173.211
+    ],
+    [
+     173.491,
+     175.304
+    ]
+   ],
+   "g": "fig",
+   "fig": "fanhat1",
+   "figno": "1",
+   "num": "US 3,735,423",
+   "hook": "THE [FAN] HAT",
+   "side": "US 3,735,423 \u00b7 1973",
+   "draw": false,
+   "vb": "0 100 520 460"
+  },
+  {
+   "t0": 175.655,
+   "t1": 185.307,
+   "i": 39,
+   "segs": [
+    [
+     175.655,
+     184.956
+    ]
+   ],
+   "g": "quote",
+   "q": "As a result the user obtains the same effect as if a battery powered hand fan is used, but has the additional benefit of having both hands free.",
+   "hit": "both hands free",
+   "src": "US 3,735,423 \u00b7 description",
+   "num": "US 3,735,423",
+   "hook": "THE [FAN] HAT",
+   "side": "US 3,735,423 \u00b7 1973"
+  },
+  {
+   "t0": 185.307,
+   "t1": 192.616,
+   "i": 40,
+   "segs": [
+    [
+     185.307,
+     187.099
+    ],
+    [
+     187.379,
+     192.265
+    ]
+   ],
+   "g": "quote",
+   "q": "the motor can be of the type which reverses direction of rotation",
+   "hit": "reverses direction",
+   "src": "US 3,735,423 \u00b7 description",
+   "num": "US 3,735,423",
+   "hook": "THE [FAN] HAT",
+   "side": "US 3,735,423 \u00b7 1973"
+  },
+  {
+   "t0": 192.616,
+   "t1": 198.239,
+   "i": 41,
+   "segs": [
+    [
+     192.616,
+     195.112
+    ],
+    [
+     195.612,
+     197.788
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN|HAT",
+   "filed": "AUG. 25, 1971",
+   "date": "MAY 29, 1973",
+   "num": "US 3,735,423",
+   "hook": "THE [FAN] HAT",
+   "side": "US 3,735,423 \u00b7 1973",
+   "at": 2.4
+  },
+  {
+   "t0": 198.239,
+   "t1": 200.534,
+   "i": 42,
+   "segs": [
+    [
+     198.239,
+     199.135
+    ],
+    [
+     199.415,
+     200.183
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 6 OF 12",
+   "numeral": "6",
+   "title": "Anti-Theft|Picnic Device",
+   "lines": [
+    "US 4,436,214",
+    "Filed 1982 \u00b7 Issued 1984"
+   ],
+   "num": "US 4,436,214",
+   "hook": "THE [SPIKED]|PICNIC CHEST",
+   "side": "US 4,436,214 \u00b7 1984"
+  },
+  {
+   "t0": 200.534,
+   "t1": 204.599,
+   "i": 43,
+   "segs": [
+    [
+     200.534,
+     201.728
+    ],
+    [
+     202.008,
+     204.248
+    ]
+   ],
+   "g": "fig",
+   "fig": "picnic1",
+   "figno": "1",
+   "num": "US 4,436,214",
+   "hook": "THE [SPIKED]|PICNIC CHEST",
+   "side": "US 4,436,214 \u00b7 1984"
+  },
+  {
+   "t0": 204.599,
+   "t1": 211.042,
+   "i": 44,
+   "segs": [
+    [
+     204.599,
+     206.669
+    ],
+    [
+     207.169,
+     209.025
+    ],
+    [
+     209.525,
+     210.591
+    ]
+   ],
+   "g": "fig",
+   "fig": "picnic4",
+   "figno": "4",
+   "num": "US 4,436,214",
+   "hook": "THE [SPIKED]|PICNIC CHEST",
+   "side": "US 4,436,214 \u00b7 1984"
+  },
+  {
+   "t0": 211.042,
+   "t1": 215.343,
+   "i": 45,
+   "segs": [
+    [
+     211.042,
+     213.176
+    ],
+    [
+     213.456,
+     214.992
+    ]
+   ],
+   "g": "quote",
+   "q": "Furthermore, no one has previously proposed any means for anchoring a picnic chest directly to the sand",
+   "hit": "anchoring a picnic chest directly to the sand",
+   "src": "US 4,436,214 \u00b7 description",
+   "num": "US 4,436,214",
+   "hook": "THE [SPIKED]|PICNIC CHEST",
+   "side": "US 4,436,214 \u00b7 1984"
+  },
+  {
+   "t0": 215.343,
+   "t1": 224.516,
+   "i": 46,
+   "segs": [
+    [
+     215.343,
+     216.943
+    ],
+    [
+     217.443,
+     222.456
+    ],
+    [
+     222.956,
+     224.065
+    ]
+   ],
+   "g": "quote",
+   "q": "permitting the entire party of picnickers or bathers to leave the chest unattended and go swimming",
+   "hit": "go swimming",
+   "src": "US 4,436,214 \u00b7 description",
+   "num": "US 4,436,214",
+   "hook": "THE [SPIKED]|PICNIC CHEST",
+   "side": "US 4,436,214 \u00b7 1984"
+  },
+  {
+   "t0": 224.516,
+   "t1": 227.001,
+   "i": 47,
+   "segs": [
+    [
+     224.516,
+     226.5
+    ]
+   ],
+   "g": "stamp",
+   "title": "SPIKED|PICNIC CHEST",
+   "filed": "DEC. 20, 1982",
+   "date": "MAR. 13, 1984",
+   "num": "US 4,436,214",
+   "hook": "THE [SPIKED]|PICNIC CHEST",
+   "side": "US 4,436,214 \u00b7 1984",
+   "at": 0.3
+  },
+  {
+   "t0": 227.001,
+   "t1": 230.323,
+   "i": 48,
+   "segs": [
+    [
+     227.001,
+     227.919
+    ],
+    [
+     228.199,
+     228.86
+    ],
+    [
+     229.14,
+     229.972
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 7 OF 12",
+   "numeral": "7",
+   "title": "Collar for a|Cat",
+   "lines": [
+    "US 5,952,925",
+    "Filed 1998 \u00b7 Issued 1999"
+   ],
+   "num": "US 5,952,925",
+   "hook": "A [WARNING]|FOR BIRDS",
+   "side": "US 5,952,925 \u00b7 1999"
+  },
+  {
+   "t0": 230.323,
+   "t1": 235.517,
+   "i": 49,
+   "segs": [
+    [
+     230.323,
+     235.166
+    ]
+   ],
+   "g": "fig",
+   "fig": "catbird",
+   "figno": "1 & 2",
+   "num": "US 5,952,925",
+   "hook": "A [WARNING]|FOR BIRDS",
+   "side": "US 5,952,925 \u00b7 1999"
+  },
+  {
+   "t0": 235.517,
+   "t1": 240.442,
+   "i": 50,
+   "segs": [
+    [
+     235.517,
+     236.903
+    ],
+    [
+     237.323,
+     238.262
+    ],
+    [
+     238.682,
+     239.941
+    ]
+   ],
+   "g": "fig",
+   "fig": "catbird",
+   "figno": "1 & 2",
+   "num": "US 5,952,925",
+   "hook": "A [WARNING]|FOR BIRDS",
+   "side": "US 5,952,925 \u00b7 1999",
+   "draw": false
+  },
+  {
+   "t0": 240.442,
+   "t1": 244.721,
+   "i": 51,
+   "segs": [
+    [
+     240.442,
+     242.148
+    ],
+    [
+     242.428,
+     244.37
+    ]
+   ],
+   "g": "quote",
+   "q": "which are only audible to the bird 14.",
+   "hit": "only audible to the bird",
+   "src": "US 5,952,925 \u00b7 description",
+   "num": "US 5,952,925",
+   "hook": "A [WARNING]|FOR BIRDS",
+   "side": "US 5,952,925 \u00b7 1999",
+   "hide": true
+  },
+  {
+   "t0": 244.721,
+   "t1": 246.9,
+   "i": 52,
+   "segs": [
+    [
+     244.721,
+     246.449
+    ]
+   ],
+   "g": "quote",
+   "q": "which are only audible to the bird 14.",
+   "hit": "only audible to the bird",
+   "src": "US 5,952,925 \u00b7 description",
+   "num": "US 5,952,925",
+   "hook": "A [WARNING]|FOR BIRDS",
+   "side": "US 5,952,925 \u00b7 1999",
+   "typed": false
+  },
+  {
+   "t0": 246.9,
+   "t1": 253.571,
+   "i": 53,
+   "segs": [
+    [
+     246.9,
+     248.478
+    ],
+    [
+     248.758,
+     251.404
+    ],
+    [
+     251.684,
+     253.22
+    ]
+   ],
+   "g": "quote",
+   "q": "inoperative when there is not enough light.",
+   "hit": "not enough light",
+   "src": "US 5,952,925 \u00b7 claim 11",
+   "num": "US 5,952,925",
+   "hook": "A [WARNING]|FOR BIRDS",
+   "side": "US 5,952,925 \u00b7 1999"
+  },
+  {
+   "t0": 253.571,
+   "t1": 256.269,
+   "i": 54,
+   "segs": [
+    [
+     253.571,
+     255.768
+    ]
+   ],
+   "g": "stamp",
+   "title": "BIRD-WARNING|CAT COLLAR",
+   "filed": "MAY 28, 1998",
+   "date": "SEP. 14, 1999",
+   "num": "US 5,952,925",
+   "hook": "A [WARNING]|FOR BIRDS",
+   "side": "US 5,952,925 \u00b7 1999",
+   "at": 0.3
+  },
+  {
+   "t0": 256.269,
+   "t1": 258.543,
+   "i": 55,
+   "segs": [
+    [
+     256.269,
+     257.144
+    ],
+    [
+     257.424,
+     258.192
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 8 OF 12",
+   "numeral": "8",
+   "title": "Graffiti Prevention|Apparatus",
+   "lines": [
+    "US 5,675,318",
+    "Filed 1996 \u00b7 Issued 1997"
+   ],
+   "num": "US 5,675,318",
+   "hook": "THE [GRAFFITI]|BOUNCER",
+   "side": "US 5,675,318 \u00b7 1997"
+  },
+  {
+   "t0": 258.543,
+   "t1": 263.014,
+   "i": 56,
+   "segs": [
+    [
+     258.543,
+     261.252
+    ],
+    [
+     261.532,
+     262.663
+    ]
+   ],
+   "g": "quote",
+   "q": "the deliberate defacement of otherwise aesthetically pure and unblemished surfaces by decadent or otherwise indecent individuals.",
+   "hit": "decadent or otherwise indecent individuals",
+   "src": "US 5,675,318 \u00b7 description",
+   "num": "US 5,675,318",
+   "hook": "THE [GRAFFITI]|BOUNCER",
+   "side": "US 5,675,318 \u00b7 1997"
+  },
+  {
+   "t0": 263.014,
+   "t1": 268.265,
+   "i": 57,
+   "segs": [
+    [
+     263.014,
+     267.814
+    ]
+   ],
+   "g": "quote",
+   "q": "is generally an assault on the visual pleasures of man.",
+   "hit": "the visual pleasures of man",
+   "src": "US 5,675,318 \u00b7 description",
+   "num": "US 5,675,318",
+   "hook": "THE [GRAFFITI]|BOUNCER",
+   "side": "US 5,675,318 \u00b7 1997"
+  },
+  {
+   "t0": 268.265,
+   "t1": 273.205,
+   "i": 58,
+   "segs": [
+    [
+     268.265,
+     270.398
+    ],
+    [
+     270.678,
+     272.854
+    ]
+   ],
+   "g": "fig",
+   "fig": "graffiti1",
+   "figno": "1",
+   "num": "US 5,675,318",
+   "hook": "THE [GRAFFITI]|BOUNCER",
+   "side": "US 5,675,318 \u00b7 1997"
+  },
+  {
+   "t0": 273.205,
+   "t1": 277.289,
+   "i": 59,
+   "segs": [
+    [
+     273.205,
+     276.938
+    ]
+   ],
+   "g": "fig",
+   "fig": "graffiti5",
+   "figno": "5",
+   "num": "US 5,675,318",
+   "hook": "THE [GRAFFITI]|BOUNCER",
+   "side": "US 5,675,318 \u00b7 1997"
+  },
+  {
+   "t0": 277.289,
+   "t1": 284.311,
+   "i": 60,
+   "segs": [
+    [
+     277.289,
+     283.86
+    ]
+   ],
+   "g": "quote",
+   "q": "the repulsion of the fluid back from the electromagnetic field onto the intruder, thus \u201cmarking\u201d him for later identification.",
+   "hit": "onto the intruder",
+   "src": "US 5,675,318 \u00b7 description",
+   "num": "US 5,675,318",
+   "hook": "THE [GRAFFITI]|BOUNCER",
+   "side": "US 5,675,318 \u00b7 1997"
+  },
+  {
+   "t0": 284.311,
+   "t1": 290.318,
+   "i": 61,
+   "segs": [
+    [
+     284.311,
+     287.127
+    ],
+    [
+     287.627,
+     289.867
+    ]
+   ],
+   "g": "stamp",
+   "title": "GRAFFITI|PREVENTION",
+   "filed": "MAY 6, 1996",
+   "date": "OCT. 7, 1997",
+   "num": "US 5,675,318",
+   "hook": "THE [GRAFFITI]|BOUNCER",
+   "side": "US 5,675,318 \u00b7 1997",
+   "at": 2.4
+  },
+  {
+   "t0": 290.318,
+   "t1": 294.322,
+   "i": 62,
+   "segs": [
+    [
+     290.318,
+     291.15
+    ],
+    [
+     291.43,
+     292.454
+    ],
+    [
+     292.734,
+     293.971
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 9 OF 12",
+   "numeral": "9",
+   "title": "Cat Toilet|Trainer",
+   "lines": [
+    "US 4,437,430",
+    "Filed 1982 \u00b7 Issued 1984"
+   ],
+   "num": "US 4,437,430",
+   "hook": "A TOILET|FOR [CATS]",
+   "side": "US 4,437,430 \u00b7 1984"
+  },
+  {
+   "t0": 294.322,
+   "t1": 301.441,
+   "i": 63,
+   "segs": [
+    [
+     294.322,
+     298.056
+    ],
+    [
+     298.336,
+     299.808
+    ],
+    [
+     300.088,
+     301.09
+    ]
+   ],
+   "g": "fig",
+   "fig": "cattoilet1",
+   "figno": "1",
+   "num": "US 4,437,430",
+   "hook": "A TOILET|FOR [CATS]",
+   "side": "US 4,437,430 \u00b7 1984"
+  },
+  {
+   "t0": 301.441,
+   "t1": 305.251,
+   "i": 64,
+   "segs": [
+    [
+     301.441,
+     302.636
+    ],
+    [
+     303.136,
+     304.8
+    ]
+   ],
+   "g": "quote",
+   "q": "The device takes up approximately 1/6 of the open area of the toilet bowl so that the commode can be used by cats and humans without removing the receptacle.",
+   "hit": "cats and humans",
+   "src": "US 4,437,430 \u00b7 description",
+   "num": "US 4,437,430",
+   "hook": "A TOILET|FOR [CATS]",
+   "side": "US 4,437,430 \u00b7 1984"
+  },
+  {
+   "t0": 305.251,
+   "t1": 310.426,
+   "i": 65,
+   "segs": [
+    [
+     305.251,
+     306.318
+    ],
+    [
+     306.598,
+     310.075
+    ]
+   ],
+   "g": "quote",
+   "q": "At that point the invention 10 can be passed on to someone else who may have a similar problem.",
+   "hit": "passed on to someone else",
+   "src": "US 4,437,430 \u00b7 description",
+   "num": "US 4,437,430",
+   "hook": "A TOILET|FOR [CATS]",
+   "side": "US 4,437,430 \u00b7 1984",
+   "hide": true
+  },
+  {
+   "t0": 310.426,
+   "t1": 316.594,
+   "i": 66,
+   "segs": [
+    [
+     310.426,
+     316.143
+    ]
+   ],
+   "g": "quote",
+   "q": "At that point the invention 10 can be passed on to someone else who may have a similar problem.",
+   "hit": "passed on to someone else",
+   "src": "US 4,437,430 \u00b7 description",
+   "num": "US 4,437,430",
+   "hook": "A TOILET|FOR [CATS]",
+   "side": "US 4,437,430 \u00b7 1984",
+   "typed": false
+  },
+  {
+   "t0": 316.594,
+   "t1": 320.246,
+   "i": 67,
+   "segs": [
+    [
+     316.594,
+     317.341
+    ],
+    [
+     317.761,
+     319.745
+    ]
+   ],
+   "g": "stamp",
+   "title": "CAT TOILET|TRAINER",
+   "filed": "APR. 26, 1982",
+   "date": "MAR. 20, 1984",
+   "num": "US 4,437,430",
+   "hook": "A TOILET|FOR [CATS]",
+   "side": "US 4,437,430 \u00b7 1984",
+   "at": 0.6
+  },
+  {
+   "t0": 320.246,
+   "t1": 325.552,
+   "i": 68,
+   "segs": [
+    [
+     320.246,
+     321.121
+    ],
+    [
+     321.401,
+     323.278
+    ],
+    [
+     323.558,
+     325.201
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 10 OF 12",
+   "numeral": "10",
+   "title": "Bird Predation|Deterrent Shield",
+   "lines": [
+    "US 5,755,186",
+    "Filed 1997 \u00b7 Issued 1998"
+   ],
+   "num": "US 5,755,186",
+   "hook": "A [BIB]|FOR CATS",
+   "side": "US 5,755,186 \u00b7 1998"
+  },
+  {
+   "t0": 325.552,
+   "t1": 329.809,
+   "i": 69,
+   "segs": [
+    [
+     325.552,
+     328.346
+    ],
+    [
+     328.626,
+     329.458
+    ]
+   ],
+   "g": "fig",
+   "fig": "catbib1",
+   "figno": "1",
+   "num": "US 5,755,186",
+   "hook": "A [BIB]|FOR CATS",
+   "side": "US 5,755,186 \u00b7 1998"
+  },
+  {
+   "t0": 329.809,
+   "t1": 333.503,
+   "i": 70,
+   "segs": [
+    [
+     329.809,
+     333.052
+    ]
+   ],
+   "g": "fig",
+   "fig": "catbib1",
+   "figno": "1",
+   "num": "US 5,755,186",
+   "hook": "A [BIB]|FOR CATS",
+   "side": "US 5,755,186 \u00b7 1998",
+   "draw": false
+  },
+  {
+   "t0": 333.503,
+   "t1": 336.414,
+   "i": 71,
+   "segs": [
+    [
+     333.503,
+     336.063
+    ]
+   ],
+   "g": "quote",
+   "q": "The attitudes of pet owners are as hard to overcome as a cat's natural hunting instincts.",
+   "hit": "as hard to overcome",
+   "src": "US 5,755,186 \u00b7 description",
+   "num": "US 5,755,186",
+   "hook": "A [BIB]|FOR CATS",
+   "side": "US 5,755,186 \u00b7 1998"
+  },
+  {
+   "t0": 336.414,
+   "t1": 343.957,
+   "i": 72,
+   "segs": [
+    [
+     336.414,
+     338.27
+    ],
+    [
+     338.77,
+     343.506
+    ]
+   ],
+   "g": "quote",
+   "q": "Often people face the choice of either having a cat or feeding the birds.",
+   "hit": "either having a cat or feeding the birds",
+   "src": "US 5,755,186 \u00b7 description",
+   "num": "US 5,755,186",
+   "hook": "A [BIB]|FOR CATS",
+   "side": "US 5,755,186 \u00b7 1998"
+  },
+  {
+   "t0": 343.957,
+   "t1": 348.3,
+   "i": 73,
+   "segs": [
+    [
+     343.957,
+     345.365
+    ],
+    [
+     345.865,
+     347.849
+    ]
+   ],
+   "g": "stamp",
+   "title": "CAT|BIB",
+   "filed": "MAR. 7, 1997",
+   "date": "MAY 26, 1998",
+   "num": "US 5,755,186",
+   "hook": "A [BIB]|FOR CATS",
+   "side": "US 5,755,186 \u00b7 1998",
+   "at": 1.4
+  },
+  {
+   "t0": 348.3,
+   "t1": 350.766,
+   "i": 74,
+   "segs": [
+    [
+     348.3,
+     349.281
+    ],
+    [
+     349.561,
+     350.415
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 11 OF 12",
+   "numeral": "11",
+   "title": "Automatic|Bed Maker",
+   "lines": [
+    "US 4,441,222",
+    "Filed 1981 \u00b7 Issued 1984"
+   ],
+   "num": "US 4,441,222",
+   "hook": "THE BED|[MAKER]",
+   "side": "US 4,441,222 \u00b7 1984"
+  },
+  {
+   "t0": 350.766,
+   "t1": 354.981,
+   "i": 75,
+   "segs": [
+    [
+     350.766,
+     352.558
+    ],
+    [
+     352.838,
+     354.63
+    ]
+   ],
+   "g": "fig",
+   "fig": "bedmaker1",
+   "figno": "1",
+   "num": "US 4,441,222",
+   "hook": "THE BED|[MAKER]",
+   "side": "US 4,441,222 \u00b7 1984"
+  },
+  {
+   "t0": 354.981,
+   "t1": 360.494,
+   "i": 76,
+   "segs": [
+    [
+     354.981,
+     360.143
+    ]
+   ],
+   "g": "fig",
+   "fig": "bedmaker1",
+   "figno": "1",
+   "num": "US 4,441,222",
+   "hook": "THE BED|[MAKER]",
+   "side": "US 4,441,222 \u00b7 1984",
+   "draw": false,
+   "vb": "0 0 732 760"
+  },
+  {
+   "t0": 360.494,
+   "t1": 364.771,
+   "i": 77,
+   "segs": [
+    [
+     360.494,
+     364.42
+    ]
+   ],
+   "g": "quote",
+   "q": "Covers and sheets carried on the bed are held securely to the foot of the bed by a tree-like frame",
+   "hit": "a tree-like frame",
+   "src": "US 4,441,222 \u00b7 description",
+   "num": "US 4,441,222",
+   "hook": "THE BED|[MAKER]",
+   "side": "US 4,441,222 \u00b7 1984"
+  },
+  {
+   "t0": 364.771,
+   "t1": 369.766,
+   "i": 78,
+   "segs": [
+    [
+     364.771,
+     369.315
+    ]
+   ],
+   "g": "quote",
+   "q": "Upon reaching the headboard of the bed, each arm extends beyond the free end of the covers and returns to the foot of the bed empty.",
+   "hit": "returns to the foot of the bed empty",
+   "src": "US 4,441,222 \u00b7 description",
+   "num": "US 4,441,222",
+   "hook": "THE BED|[MAKER]",
+   "side": "US 4,441,222 \u00b7 1984"
+  },
+  {
+   "t0": 369.766,
+   "t1": 373.917,
+   "i": 79,
+   "segs": [
+    [
+     369.766,
+     370.939
+    ],
+    [
+     371.439,
+     373.466
+    ]
+   ],
+   "g": "stamp",
+   "title": "AUTOMATIC|BED MAKER",
+   "filed": "JUL. 30, 1981",
+   "date": "APR. 10, 1984",
+   "num": "US 4,441,222",
+   "hook": "THE BED|[MAKER]",
+   "side": "US 4,441,222 \u00b7 1984",
+   "at": 1.4
+  },
+  {
+   "t0": 373.917,
+   "t1": 377.001,
+   "i": 80,
+   "segs": [
+    [
+     373.917,
+     374.983
+    ],
+    [
+     375.263,
+     376.65
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 12 OF 12",
+   "numeral": "12",
+   "title": "Beauty|Mask",
+   "lines": [
+    "US 1,913,083",
+    "Filed 1932 \u00b7 Issued 1933"
+   ],
+   "num": "US 1,913,083",
+   "hook": "THE [BLUSH]|MASK",
+   "side": "US 1,913,083 \u00b7 1933"
+  },
+  {
+   "t0": 377.001,
+   "t1": 381.152,
+   "i": 81,
+   "segs": [
+    [
+     377.001,
+     378.366
+    ],
+    [
+     378.646,
+     380.801
+    ]
+   ],
+   "g": "fig",
+   "fig": "beautymask1",
+   "figno": "1",
+   "num": "US 1,913,083",
+   "hook": "THE [BLUSH]|MASK",
+   "side": "US 1,913,083 \u00b7 1933"
+  },
+  {
+   "t0": 381.152,
+   "t1": 388.143,
+   "i": 82,
+   "segs": [
+    [
+     381.152,
+     384.352
+    ],
+    [
+     384.632,
+     386.467
+    ],
+    [
+     386.747,
+     387.792
+    ]
+   ],
+   "g": "fig",
+   "fig": "beautymask1",
+   "figno": "1",
+   "num": "US 1,913,083",
+   "hook": "THE [BLUSH]|MASK",
+   "side": "US 1,913,083 \u00b7 1933",
+   "draw": false,
+   "vb": "250 0 500 520"
+  },
+  {
+   "t0": 388.143,
+   "t1": 393.839,
+   "i": 83,
+   "segs": [
+    [
+     388.143,
+     389.978
+    ],
+    [
+     390.478,
+     391.651
+    ],
+    [
+     392.151,
+     393.388
+    ]
+   ],
+   "g": "quote",
+   "q": "an enhanced natural coloring of restricted area of the face, such as the cheeks, may be produced.",
+   "hit": "such as the cheeks",
+   "src": "US 1,913,083 \u00b7 description",
+   "num": "US 1,913,083",
+   "hook": "THE [BLUSH]|MASK",
+   "side": "US 1,913,083 \u00b7 1933"
+  },
+  {
+   "t0": 393.839,
+   "t1": 401.894,
+   "i": 84,
+   "segs": [
+    [
+     393.839,
+     396.933
+    ],
+    [
+     397.433,
+     401.443
+    ]
+   ],
+   "g": "quote",
+   "q": "an apron attached to the lower portion of the face covering to cover the neck, shoulders and adjacent anatomy of the wearer",
+   "hit": "adjacent anatomy",
+   "src": "US 1,913,083 \u00b7 claim",
+   "num": "US 1,913,083",
+   "hook": "THE [BLUSH]|MASK",
+   "side": "US 1,913,083 \u00b7 1933"
+  },
+  {
+   "t0": 401.894,
+   "t1": 406.259,
+   "i": 85,
+   "segs": [
+    [
+     401.894,
+     403.324
+    ],
+    [
+     403.824,
+     405.808
+    ]
+   ],
+   "g": "stamp",
+   "title": "BEAUTY|MASK",
+   "filed": "APR. 14, 1932",
+   "date": "JUN. 6, 1933",
+   "num": "US 1,913,083",
+   "hook": "THE [BLUSH]|MASK",
+   "side": "US 1,913,083 \u00b7 1933",
+   "at": 1.6
+  },
+  {
+   "t0": 406.259,
+   "t1": 408.9,
+   "i": 86,
+   "segs": [
+    [
+     406.259,
+     408.349
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS WEEK'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 001"
+  },
+  {
+   "t0": 408.9,
+   "t1": 414.737,
+   "i": 87,
+   "segs": [
+    [
+     408.9,
+     410.564
+    ],
+    [
+     410.844,
+     414.386
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "num": "US 5,023,850",
+   "hook": "THE [DOG] WATCH",
+   "side": "US 5,023,850 \u00b7 1991",
+   "draw": false,
+   "ring": [
+    426,
+    277,
+    170
+   ]
+  },
+  {
+   "t0": 414.737,
+   "t1": 422.194,
+   "i": 88,
+   "segs": [
+    [
+     414.737,
+     418.065
+    ],
+    [
+     418.345,
+     421.843
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "5,023,850 \u00b7 885,802 \u00b7 4,969,317",
+    "5,421,089 \u00b7 3,735,423 \u00b7 4,436,214",
+    "5,952,925 \u00b7 5,675,318 \u00b7 4,437,430",
+    "5,755,186 \u00b7 4,441,222 \u00b7 1,913,083"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 001"
+  },
+  {
+   "t0": 422.194,
+   "t1": 429.11,
+   "i": 89,
+   "segs": [
+    [
+     422.194,
+     423.88
+    ],
+    [
+     424.16,
+     425.76
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 001"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.192,
+   "txt": "This is a"
+  },
+  {
+   "t0": 1.192,
+   "t1": 1.566,
+   "txt": "dog."
+  },
+  {
+   "t0": 2.066,
+   "t1": 3.453,
+   "txt": "Wearing a wristwatch."
+  },
+  {
+   "t0": 3.904,
+   "t1": 4.848,
+   "txt": "And that watch"
+  },
+  {
+   "t0": 4.848,
+   "t1": 5.455,
+   "txt": "is a real"
+  },
+  {
+   "t0": 5.455,
+   "t1": 6.13,
+   "txt": "invention,"
+  },
+  {
+   "t0": 6.13,
+   "t1": 7.074,
+   "txt": "filed with the"
+  },
+  {
+   "t0": 7.074,
+   "t1": 8.423,
+   "txt": "United States Patent"
+  },
+  {
+   "t0": 8.423,
+   "t1": 8.896,
+   "txt": "Office."
+  },
+  {
+   "t0": 9.247,
+   "t1": 10.356,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 10.857,
+   "t1": 12.329,
+   "txt": "Somebody invented it."
+  },
+  {
+   "t0": 12.609,
+   "t1": 13.74,
+   "txt": "Somebody filed it."
+  },
+  {
+   "t0": 14.02,
+   "t1": 14.863,
+   "txt": "And somebody at"
+  },
+  {
+   "t0": 14.863,
+   "t1": 15.818,
+   "txt": "the patent office"
+  },
+  {
+   "t0": 15.818,
+   "t1": 16.324,
+   "txt": "said yes."
+  },
+  {
+   "t0": 16.604,
+   "t1": 17.002,
+   "txt": "Today,"
+  },
+  {
+   "t0": 17.002,
+   "t1": 18.332,
+   "txt": "twelve real patents."
+  },
+  {
+   "t0": 18.612,
+   "t1": 19.587,
+   "txt": "Nobody asked for"
+  },
+  {
+   "t0": 19.587,
+   "t1": 20.318,
+   "txt": "any of them."
+  },
+  {
+   "t0": 20.669,
+   "t1": 21.587,
+   "txt": "Number one."
+  },
+  {
+   "t0": 22.088,
+   "t1": 23.24,
+   "txt": "The official title"
+  },
+  {
+   "t0": 23.24,
+   "t1": 23.432,
+   "txt": "is:"
+  },
+  {
+   "t0": 23.432,
+   "t1": 24.52,
+   "txt": "Clock for keeping"
+  },
+  {
+   "t0": 24.52,
+   "t1": 25.096,
+   "txt": "time at a"
+  },
+  {
+   "t0": 25.096,
+   "t1": 26.056,
+   "txt": "rate other than"
+  },
+  {
+   "t0": 26.056,
+   "t1": 26.76,
+   "txt": "human time."
+  },
+  {
+   "t0": 27.111,
+   "t1": 27.945,
+   "txt": "The idea is"
+  },
+  {
+   "t0": 27.945,
+   "t1": 28.476,
+   "txt": "simple."
+  },
+  {
+   "t0": 28.756,
+   "t1": 29.491,
+   "txt": "A dog lives"
+  },
+  {
+   "t0": 29.491,
+   "t1": 30.761,
+   "txt": "about eleven years."
+  },
+  {
+   "t0": 31.041,
+   "t1": 31.882,
+   "txt": "A human lives"
+  },
+  {
+   "t0": 31.882,
+   "t1": 33.175,
+   "txt": "about seventy-seven."
+  },
+  {
+   "t0": 33.455,
+   "t1": 33.99,
+   "txt": "So a dog"
+  },
+  {
+   "t0": 33.99,
+   "t1": 34.86,
+   "txt": "year is seven"
+  },
+  {
+   "t0": 34.86,
+   "t1": 35.396,
+   "txt": "of ours."
+  },
+  {
+   "t0": 35.747,
+   "t1": 36.633,
+   "txt": "So this watch"
+  },
+  {
+   "t0": 36.633,
+   "t1": 37.723,
+   "txt": "runs seven times"
+  },
+  {
+   "t0": 37.723,
+   "t1": 38.2,
+   "txt": "faster."
+  },
+  {
+   "t0": 38.7,
+   "t1": 39.682,
+   "txt": "Dog time."
+  },
+  {
+   "t0": 40.133,
+   "t1": 40.998,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 40.998,
+   "t1": 42.295,
+   "txt": "explains exactly what"
+  },
+  {
+   "t0": 42.295,
+   "t1": 43.099,
+   "txt": "that means in"
+  },
+  {
+   "t0": 43.099,
+   "t1": 43.717,
+   "txt": "real life."
+  },
+  {
+   "t0": 44.068,
+   "t1": 45.174,
+   "txt": "A one-hour ride"
+  },
+  {
+   "t0": 45.174,
+   "t1": 46.354,
+   "txt": "in an automobile"
+  },
+  {
+   "t0": 46.354,
+   "t1": 47.755,
+   "txt": "will register seven"
+  },
+  {
+   "t0": 47.755,
+   "t1": 48.493,
+   "txt": "hours on a"
+  },
+  {
+   "t0": 48.493,
+   "t1": 49.23,
+   "txt": "dog watch."
+  },
+  {
+   "t0": 49.681,
+   "t1": 50.842,
+   "txt": "The inventors also"
+  },
+  {
+   "t0": 50.842,
+   "t1": 51.617,
+   "txt": "had a second"
+  },
+  {
+   "t0": 51.617,
+   "t1": 52.391,
+   "txt": "use in mind."
+  },
+  {
+   "t0": 52.671,
+   "t1": 53.567,
+   "txt": "For people."
+  },
+  {
+   "t0": 53.918,
+   "t1": 55.115,
+   "txt": "This comic effect"
+  },
+  {
+   "t0": 55.115,
+   "t1": 55.96,
+   "txt": "can be taken"
+  },
+  {
+   "t0": 55.96,
+   "t1": 57.016,
+   "txt": "advantage of by"
+  },
+  {
+   "t0": 57.016,
+   "t1": 58.072,
+   "txt": "using the watch"
+  },
+  {
+   "t0": 58.072,
+   "t1": 59.058,
+   "txt": "as an official"
+  },
+  {
+   "t0": 59.058,
+   "t1": 60.044,
+   "txt": "time piece for"
+  },
+  {
+   "t0": 60.044,
+   "t1": 61.312,
+   "txt": "a potentially dull"
+  },
+  {
+   "t0": 61.312,
+   "t1": 61.875,
+   "txt": "meeting."
+  },
+  {
+   "t0": 62.326,
+   "t1": 63.58,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 63.58,
+   "t1": 64.097,
+   "txt": "ninety."
+  },
+  {
+   "t0": 64.597,
+   "t1": 65.959,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 65.959,
+   "t1": 66.709,
+   "txt": "ninety-one."
+  },
+  {
+   "t0": 67.16,
+   "t1": 68.034,
+   "txt": "Number two."
+  },
+  {
+   "t0": 68.314,
+   "t1": 68.947,
+   "txt": "We go back"
+  },
+  {
+   "t0": 68.947,
+   "t1": 69.832,
+   "txt": "to nineteen oh"
+  },
+  {
+   "t0": 69.832,
+   "t1": 70.085,
+   "txt": "six."
+  },
+  {
+   "t0": 70.436,
+   "t1": 71.044,
+   "txt": "This is a"
+  },
+  {
+   "t0": 71.044,
+   "t1": 71.652,
+   "txt": "toy mask."
+  },
+  {
+   "t0": 71.932,
+   "t1": 72.69,
+   "txt": "On the left,"
+  },
+  {
+   "t0": 72.69,
+   "t1": 73.575,
+   "txt": "a normal face."
+  },
+  {
+   "t0": 73.855,
+   "t1": 74.563,
+   "txt": "On the right,"
+  },
+  {
+   "t0": 74.563,
+   "t1": 75.327,
+   "txt": "the same mask."
+  },
+  {
+   "t0": 75.607,
+   "t1": 76.482,
+   "txt": "A few seconds"
+  },
+  {
+   "t0": 76.482,
+   "t1": 76.887,
+   "txt": "later."
+  },
+  {
+   "t0": 77.238,
+   "t1": 77.963,
+   "txt": "Eyes."
+  },
+  {
+   "t0": 78.463,
+   "t1": 79.146,
+   "txt": "Ears."
+  },
+  {
+   "t0": 79.646,
+   "t1": 80.414,
+   "txt": "Nose."
+  },
+  {
+   "t0": 80.914,
+   "t1": 81.596,
+   "txt": "Lips."
+  },
+  {
+   "t0": 82.096,
+   "t1": 83.026,
+   "txt": "They all come"
+  },
+  {
+   "t0": 83.026,
+   "t1": 83.312,
+   "txt": "out."
+  },
+  {
+   "t0": 83.763,
+   "t1": 84.339,
+   "txt": "How?"
+  },
+  {
+   "t0": 84.619,
+   "t1": 85.346,
+   "txt": "There's a pipe"
+  },
+  {
+   "t0": 85.346,
+   "t1": 86.177,
+   "txt": "behind the mask."
+  },
+  {
+   "t0": 86.457,
+   "t1": 87.017,
+   "txt": "You put it"
+  },
+  {
+   "t0": 87.017,
+   "t1": 87.801,
+   "txt": "in your mouth."
+  },
+  {
+   "t0": 88.152,
+   "t1": 88.401,
+   "txt": "And,"
+  },
+  {
+   "t0": 88.401,
+   "t1": 88.775,
+   "txt": "quote:"
+  },
+  {
+   "t0": 88.775,
+   "t1": 89.898,
+   "txt": "by blowing through"
+  },
+  {
+   "t0": 89.898,
+   "t1": 90.646,
+   "txt": "the pipe the"
+  },
+  {
+   "t0": 90.646,
+   "t1": 91.581,
+   "txt": "feature will be"
+  },
+  {
+   "t0": 91.581,
+   "t1": 92.205,
+   "txt": "protruded."
+  },
+  {
+   "t0": 92.656,
+   "t1": 93.69,
+   "txt": "The patent claims,"
+  },
+  {
+   "t0": 93.69,
+   "t1": 94.034,
+   "txt": "quote,"
+  },
+  {
+   "t0": 94.034,
+   "t1": 95.011,
+   "txt": "means to protrude"
+  },
+  {
+   "t0": 95.011,
+   "t1": 95.872,
+   "txt": "the features at"
+  },
+  {
+   "t0": 95.872,
+   "t1": 96.504,
+   "txt": "the will of"
+  },
+  {
+   "t0": 96.504,
+   "t1": 97.136,
+   "txt": "the wearer."
+  },
+  {
+   "t0": 97.487,
+   "t1": 98.097,
+   "txt": "At the will"
+  },
+  {
+   "t0": 98.097,
+   "t1": 98.874,
+   "txt": "of the wearer."
+  },
+  {
+   "t0": 99.374,
+   "t1": 100.639,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 100.639,
+   "t1": 101.208,
+   "txt": "oh eight."
+  },
+  {
+   "t0": 101.659,
+   "t1": 102.577,
+   "txt": "Number three."
+  },
+  {
+   "t0": 102.857,
+   "t1": 103.649,
+   "txt": "Back to the"
+  },
+  {
+   "t0": 103.649,
+   "t1": 104.009,
+   "txt": "dogs."
+  },
+  {
+   "t0": 104.36,
+   "t1": 104.936,
+   "txt": "This is a"
+  },
+  {
+   "t0": 104.936,
+   "t1": 105.448,
+   "txt": "sun hat."
+  },
+  {
+   "t0": 105.728,
+   "t1": 106.624,
+   "txt": "For a dog."
+  },
+  {
+   "t0": 106.904,
+   "t1": 107.663,
+   "txt": "With a chin"
+  },
+  {
+   "t0": 107.663,
+   "t1": 108.077,
+   "txt": "strap."
+  },
+  {
+   "t0": 108.428,
+   "t1": 109.174,
+   "txt": "The patent is"
+  },
+  {
+   "t0": 109.174,
+   "t1": 110.207,
+   "txt": "worried about your"
+  },
+  {
+   "t0": 110.207,
+   "t1": 110.839,
+   "txt": "dog's eyes."
+  },
+  {
+   "t0": 111.19,
+   "t1": 111.84,
+   "txt": "So the hat"
+  },
+  {
+   "t0": 111.84,
+   "t1": 112.555,
+   "txt": "has a brim."
+  },
+  {
+   "t0": 112.835,
+   "t1": 113.698,
+   "txt": "And inside the"
+  },
+  {
+   "t0": 113.698,
+   "t1": 113.944,
+   "txt": "hat,"
+  },
+  {
+   "t0": 113.944,
+   "t1": 114.499,
+   "txt": "a sponge."
+  },
+  {
+   "t0": 114.85,
+   "t1": 115.609,
+   "txt": "You soak the"
+  },
+  {
+   "t0": 115.609,
+   "t1": 116.621,
+   "txt": "sponge in water."
+  },
+  {
+   "t0": 117.121,
+   "t1": 117.895,
+   "txt": "It keeps your"
+  },
+  {
+   "t0": 117.895,
+   "t1": 118.849,
+   "txt": "dog's head cool."
+  },
+  {
+   "t0": 119.349,
+   "t1": 120.138,
+   "txt": "Slowly."
+  },
+  {
+   "t0": 120.638,
+   "t1": 121.683,
+   "txt": "From the top."
+  },
+  {
+   "t0": 122.134,
+   "t1": 122.734,
+   "txt": "And in case"
+  },
+  {
+   "t0": 122.734,
+   "t1": 123.716,
+   "txt": "you were wondering"
+  },
+  {
+   "t0": 123.716,
+   "t1": 124.535,
+   "txt": "about the ears,"
+  },
+  {
+   "t0": 124.535,
+   "t1": 125.298,
+   "txt": "the patent has"
+  },
+  {
+   "t0": 125.298,
+   "t1": 125.953,
+   "txt": "you covered."
+  },
+  {
+   "t0": 126.304,
+   "t1": 127.349,
+   "txt": "The animal hat"
+  },
+  {
+   "t0": 127.349,
+   "t1": 128.245,
+   "txt": "ten can also"
+  },
+  {
+   "t0": 128.245,
+   "t1": 129.813,
+   "txt": "accommodate an animal"
+  },
+  {
+   "t0": 129.813,
+   "t1": 131.083,
+   "txt": "with floppy ears."
+  },
+  {
+   "t0": 131.534,
+   "t1": 132.366,
+   "txt": "Approved."
+  },
+  {
+   "t0": 132.786,
+   "t1": 133.98,
+   "txt": "Nineteen ninety."
+  },
+  {
+   "t0": 134.481,
+   "t1": 135.399,
+   "txt": "Number four."
+  },
+  {
+   "t0": 135.679,
+   "t1": 136.255,
+   "txt": "Dinner."
+  },
+  {
+   "t0": 136.606,
+   "t1": 137.346,
+   "txt": "This is a"
+  },
+  {
+   "t0": 137.346,
+   "t1": 137.758,
+   "txt": "fork."
+  },
+  {
+   "t0": 138.038,
+   "t1": 138.578,
+   "txt": "A normal,"
+  },
+  {
+   "t0": 138.578,
+   "t1": 139.958,
+   "txt": "four-prong dinner fork."
+  },
+  {
+   "t0": 140.309,
+   "t1": 141.413,
+   "txt": "Except the handle"
+  },
+  {
+   "t0": 141.413,
+   "t1": 141.998,
+   "txt": "has a red"
+  },
+  {
+   "t0": 141.998,
+   "t1": 142.387,
+   "txt": "light,"
+  },
+  {
+   "t0": 142.387,
+   "t1": 143.297,
+   "txt": "a green light,"
+  },
+  {
+   "t0": 143.297,
+   "t1": 144.271,
+   "txt": "and a countdown"
+  },
+  {
+   "t0": 144.271,
+   "t1": 144.661,
+   "txt": "timer."
+  },
+  {
+   "t0": 145.012,
+   "t1": 146.206,
+   "txt": "Red means wait."
+  },
+  {
+   "t0": 146.706,
+   "t1": 147.752,
+   "txt": "Green means you're"
+  },
+  {
+   "t0": 147.752,
+   "t1": 148.624,
+   "txt": "allowed to take"
+  },
+  {
+   "t0": 148.624,
+   "t1": 149.437,
+   "txt": "the next bite."
+  },
+  {
+   "t0": 149.888,
+   "t1": 150.735,
+   "txt": "The patent is"
+  },
+  {
+   "t0": 150.735,
+   "t1": 152.103,
+   "txt": "very optimistic about"
+  },
+  {
+   "t0": 152.103,
+   "t1": 152.299,
+   "txt": "it."
+  },
+  {
+   "t0": 152.65,
+   "t1": 153.449,
+   "txt": "And of course,"
+  },
+  {
+   "t0": 153.449,
+   "t1": 154.419,
+   "txt": "there's a premium"
+  },
+  {
+   "t0": 154.419,
+   "t1": 154.762,
+   "txt": "model."
+  },
+  {
+   "t0": 155.113,
+   "t1": 156.19,
+   "txt": "Deluxe versions could"
+  },
+  {
+   "t0": 156.19,
+   "t1": 156.806,
+   "txt": "have a chime"
+  },
+  {
+   "t0": 156.806,
+   "t1": 157.267,
+   "txt": "and beep."
+  },
+  {
+   "t0": 157.768,
+   "t1": 158.492,
+   "txt": "A fork that"
+  },
+  {
+   "t0": 158.492,
+   "t1": 159.347,
+   "txt": "beeps at you."
+  },
+  {
+   "t0": 159.847,
+   "t1": 161.287,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 161.287,
+   "t1": 162.151,
+   "txt": "ninety-five."
+  },
+  {
+   "t0": 162.602,
+   "t1": 163.562,
+   "txt": "Number five."
+  },
+  {
+   "t0": 163.842,
+   "t1": 165.271,
+   "txt": "Nineteen seventy-one."
+  },
+  {
+   "t0": 165.622,
+   "t1": 166.305,
+   "txt": "A hat."
+  },
+  {
+   "t0": 166.585,
+   "t1": 167.837,
+   "txt": "With a battery-powered"
+  },
+  {
+   "t0": 167.837,
+   "t1": 168.633,
+   "txt": "fan built into"
+  },
+  {
+   "t0": 168.633,
+   "t1": 169.145,
+   "txt": "the brim."
+  },
+  {
+   "t0": 169.425,
+   "t1": 170.383,
+   "txt": "Blowing air down"
+  },
+  {
+   "t0": 170.383,
+   "t1": 171.281,
+   "txt": "onto your face."
+  },
+  {
+   "t0": 171.632,
+   "t1": 172.456,
+   "txt": "Why not just"
+  },
+  {
+   "t0": 172.456,
+   "t1": 173.211,
+   "txt": "hold a fan?"
+  },
+  {
+   "t0": 173.491,
+   "t1": 174.216,
+   "txt": "The patent saw"
+  },
+  {
+   "t0": 174.216,
+   "t1": 175.304,
+   "txt": "that question coming."
+  },
+  {
+   "t0": 175.655,
+   "t1": 176.413,
+   "txt": "As a result"
+  },
+  {
+   "t0": 176.413,
+   "t1": 177.515,
+   "txt": "the user obtains"
+  },
+  {
+   "t0": 177.515,
+   "t1": 178.549,
+   "txt": "the same effect"
+  },
+  {
+   "t0": 178.549,
+   "t1": 179.031,
+   "txt": "as if a"
+  },
+  {
+   "t0": 179.031,
+   "t1": 180.409,
+   "txt": "battery powered hand"
+  },
+  {
+   "t0": 180.409,
+   "t1": 181.236,
+   "txt": "fan is used,"
+  },
+  {
+   "t0": 181.236,
+   "t1": 181.994,
+   "txt": "but has the"
+  },
+  {
+   "t0": 181.994,
+   "t1": 183.441,
+   "txt": "additional benefit of"
+  },
+  {
+   "t0": 183.441,
+   "t1": 184.612,
+   "txt": "having both hands"
+  },
+  {
+   "t0": 184.612,
+   "t1": 184.956,
+   "txt": "free."
+  },
+  {
+   "t0": 185.307,
+   "t1": 185.987,
+   "txt": "And the fan"
+  },
+  {
+   "t0": 185.987,
+   "t1": 186.605,
+   "txt": "can run in"
+  },
+  {
+   "t0": 186.605,
+   "t1": 187.099,
+   "txt": "reverse."
+  },
+  {
+   "t0": 187.379,
+   "t1": 188.319,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 188.319,
+   "t1": 189.133,
+   "txt": "the motor can"
+  },
+  {
+   "t0": 189.133,
+   "t1": 189.697,
+   "txt": "be of the"
+  },
+  {
+   "t0": 189.697,
+   "t1": 190.887,
+   "txt": "type which reverses"
+  },
+  {
+   "t0": 190.887,
+   "t1": 192.265,
+   "txt": "direction of rotation."
+  },
+  {
+   "t0": 192.616,
+   "t1": 193.164,
+   "txt": "So it can"
+  },
+  {
+   "t0": 193.164,
+   "t1": 193.955,
+   "txt": "also pull air"
+  },
+  {
+   "t0": 193.955,
+   "t1": 194.807,
+   "txt": "away from your"
+  },
+  {
+   "t0": 194.807,
+   "t1": 195.112,
+   "txt": "face."
+  },
+  {
+   "t0": 195.612,
+   "t1": 196.224,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 196.224,
+   "t1": 197.788,
+   "txt": "nineteen seventy-three."
+  },
+  {
+   "t0": 198.239,
+   "t1": 199.135,
+   "txt": "Number six."
+  },
+  {
+   "t0": 199.415,
+   "t1": 200.183,
+   "txt": "The beach."
+  },
+  {
+   "t0": 200.534,
+   "t1": 201.105,
+   "txt": "You want to"
+  },
+  {
+   "t0": 201.105,
+   "t1": 201.728,
+   "txt": "go swimming."
+  },
+  {
+   "t0": 202.008,
+   "t1": 202.655,
+   "txt": "But you don't"
+  },
+  {
+   "t0": 202.655,
+   "t1": 203.352,
+   "txt": "want anyone to"
+  },
+  {
+   "t0": 203.352,
+   "t1": 204.248,
+   "txt": "steal your picnic."
+  },
+  {
+   "t0": 204.599,
+   "t1": 205.44,
+   "txt": "So this chest"
+  },
+  {
+   "t0": 205.44,
+   "t1": 206.216,
+   "txt": "has a handle"
+  },
+  {
+   "t0": 206.216,
+   "t1": 206.669,
+   "txt": "inside."
+  },
+  {
+   "t0": 207.169,
+   "t1": 207.681,
+   "txt": "Turn it,"
+  },
+  {
+   "t0": 207.681,
+   "t1": 208.705,
+   "txt": "and spikes drive"
+  },
+  {
+   "t0": 208.705,
+   "t1": 209.025,
+   "txt": "down."
+  },
+  {
+   "t0": 209.525,
+   "t1": 210.591,
+   "txt": "Into the sand."
+  },
+  {
+   "t0": 211.042,
+   "t1": 211.734,
+   "txt": "The chest is"
+  },
+  {
+   "t0": 211.734,
+   "t1": 212.599,
+   "txt": "now anchored to"
+  },
+  {
+   "t0": 212.599,
+   "t1": 213.176,
+   "txt": "the beach."
+  },
+  {
+   "t0": 213.456,
+   "t1": 214.195,
+   "txt": "The patent is"
+  },
+  {
+   "t0": 214.195,
+   "t1": 214.992,
+   "txt": "proud of this."
+  },
+  {
+   "t0": 215.343,
+   "t1": 216.327,
+   "txt": "And it describes"
+  },
+  {
+   "t0": 216.327,
+   "t1": 216.943,
+   "txt": "the dream."
+  },
+  {
+   "t0": 217.443,
+   "t1": 218.589,
+   "txt": "The entire party"
+  },
+  {
+   "t0": 218.589,
+   "t1": 219.734,
+   "txt": "of picnickers or"
+  },
+  {
+   "t0": 219.734,
+   "t1": 220.952,
+   "txt": "bathers can leave"
+  },
+  {
+   "t0": 220.952,
+   "t1": 222.456,
+   "txt": "the chest unattended."
+  },
+  {
+   "t0": 222.956,
+   "t1": 224.065,
+   "txt": "And go swimming."
+  },
+  {
+   "t0": 224.516,
+   "t1": 225.112,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 225.112,
+   "t1": 226.5,
+   "txt": "nineteen eighty-four."
+  },
+  {
+   "t0": 227.001,
+   "t1": 227.919,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 228.199,
+   "t1": 228.86,
+   "txt": "A cat."
+  },
+  {
+   "t0": 229.14,
+   "t1": 229.972,
+   "txt": "And a bird."
+  },
+  {
+   "t0": 230.323,
+   "t1": 231.215,
+   "txt": "The full title"
+  },
+  {
+   "t0": 231.215,
+   "t1": 231.406,
+   "txt": "is:"
+  },
+  {
+   "t0": 231.406,
+   "t1": 232.171,
+   "txt": "Collar for a"
+  },
+  {
+   "t0": 232.171,
+   "t1": 233.127,
+   "txt": "cat for warning"
+  },
+  {
+   "t0": 233.127,
+   "t1": 233.7,
+   "txt": "a bird of"
+  },
+  {
+   "t0": 233.7,
+   "t1": 234.656,
+   "txt": "the presence of"
+  },
+  {
+   "t0": 234.656,
+   "t1": 235.166,
+   "txt": "the cat."
+  },
+  {
+   "t0": 235.517,
+   "t1": 236.487,
+   "txt": "It's a burglar"
+  },
+  {
+   "t0": 236.487,
+   "t1": 236.903,
+   "txt": "alarm."
+  },
+  {
+   "t0": 237.323,
+   "t1": 238.262,
+   "txt": "For birds."
+  },
+  {
+   "t0": 238.682,
+   "t1": 239.411,
+   "txt": "Worn by the"
+  },
+  {
+   "t0": 239.411,
+   "t1": 239.941,
+   "txt": "burglar."
+  },
+  {
+   "t0": 240.442,
+   "t1": 241.417,
+   "txt": "The collar sends"
+  },
+  {
+   "t0": 241.417,
+   "t1": 242.148,
+   "txt": "out a sound."
+  },
+  {
+   "t0": 242.428,
+   "t1": 243.183,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 243.183,
+   "t1": 244.154,
+   "txt": "specifies who it's"
+  },
+  {
+   "t0": 244.154,
+   "t1": 244.37,
+   "txt": "for."
+  },
+  {
+   "t0": 244.721,
+   "t1": 245.801,
+   "txt": "Only audible to"
+  },
+  {
+   "t0": 245.801,
+   "t1": 246.449,
+   "txt": "the bird."
+  },
+  {
+   "t0": 246.9,
+   "t1": 247.568,
+   "txt": "It even has"
+  },
+  {
+   "t0": 247.568,
+   "t1": 248.478,
+   "txt": "a light sensor."
+  },
+  {
+   "t0": 248.758,
+   "t1": 249.725,
+   "txt": "The collar switches"
+  },
+  {
+   "t0": 249.725,
+   "t1": 250.437,
+   "txt": "off when there"
+  },
+  {
+   "t0": 250.437,
+   "t1": 251.098,
+   "txt": "is not enough"
+  },
+  {
+   "t0": 251.098,
+   "t1": 251.404,
+   "txt": "light."
+  },
+  {
+   "t0": 251.684,
+   "t1": 252.616,
+   "txt": "Because the birds"
+  },
+  {
+   "t0": 252.616,
+   "t1": 253.22,
+   "txt": "are asleep."
+  },
+  {
+   "t0": 253.571,
+   "t1": 254.944,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 254.944,
+   "t1": 255.768,
+   "txt": "ninety-nine."
+  },
+  {
+   "t0": 256.269,
+   "t1": 257.144,
+   "txt": "Number eight."
+  },
+  {
+   "t0": 257.424,
+   "t1": 258.192,
+   "txt": "The city."
+  },
+  {
+   "t0": 258.543,
+   "t1": 259.677,
+   "txt": "This patent begins"
+  },
+  {
+   "t0": 259.677,
+   "t1": 260.748,
+   "txt": "by describing the"
+  },
+  {
+   "t0": 260.748,
+   "t1": 261.252,
+   "txt": "problem."
+  },
+  {
+   "t0": 261.532,
+   "t1": 262.239,
+   "txt": "In its own"
+  },
+  {
+   "t0": 262.239,
+   "t1": 262.663,
+   "txt": "words."
+  },
+  {
+   "t0": 263.014,
+   "t1": 263.64,
+   "txt": "Graffiti,"
+  },
+  {
+   "t0": 263.64,
+   "t1": 264.196,
+   "txt": "it says,"
+  },
+  {
+   "t0": 264.196,
+   "t1": 265.24,
+   "txt": "is generally an"
+  },
+  {
+   "t0": 265.24,
+   "t1": 266.214,
+   "txt": "assault on the"
+  },
+  {
+   "t0": 266.214,
+   "t1": 267.535,
+   "txt": "visual pleasures of"
+  },
+  {
+   "t0": 267.535,
+   "t1": 267.814,
+   "txt": "man."
+  },
+  {
+   "t0": 268.265,
+   "t1": 269.131,
+   "txt": "The solution:"
+  },
+  {
+   "t0": 269.131,
+   "t1": 270.065,
+   "txt": "sensors in the"
+  },
+  {
+   "t0": 270.065,
+   "t1": 270.398,
+   "txt": "wall."
+  },
+  {
+   "t0": 270.678,
+   "t1": 271.823,
+   "txt": "When someone sprays,"
+  },
+  {
+   "t0": 271.823,
+   "t1": 272.854,
+   "txt": "the system reacts."
+  },
+  {
+   "t0": 273.205,
+   "t1": 274.154,
+   "txt": "In one version,"
+  },
+  {
+   "t0": 274.154,
+   "t1": 275.673,
+   "txt": "an electromagnetic field"
+  },
+  {
+   "t0": 275.673,
+   "t1": 276.622,
+   "txt": "sends the paint"
+  },
+  {
+   "t0": 276.622,
+   "t1": 276.938,
+   "txt": "back."
+  },
+  {
+   "t0": 277.289,
+   "t1": 278.644,
+   "txt": "The patent describes"
+  },
+  {
+   "t0": 278.644,
+   "t1": 279.728,
+   "txt": "the repulsion of"
+  },
+  {
+   "t0": 279.728,
+   "t1": 280.676,
+   "txt": "the fluid back"
+  },
+  {
+   "t0": 280.676,
+   "t1": 282.302,
+   "txt": "from the electromagnetic"
+  },
+  {
+   "t0": 282.302,
+   "t1": 283.25,
+   "txt": "field onto the"
+  },
+  {
+   "t0": 283.25,
+   "t1": 283.86,
+   "txt": "intruder."
+  },
+  {
+   "t0": 284.311,
+   "t1": 285.41,
+   "txt": "Thus marking him"
+  },
+  {
+   "t0": 285.41,
+   "t1": 287.127,
+   "txt": "for later identification."
+  },
+  {
+   "t0": 287.627,
+   "t1": 288.277,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 288.277,
+   "t1": 289.867,
+   "txt": "nineteen ninety-seven."
+  },
+  {
+   "t0": 290.318,
+   "t1": 291.15,
+   "txt": "Number nine."
+  },
+  {
+   "t0": 291.43,
+   "t1": 292.454,
+   "txt": "Back to cats."
+  },
+  {
+   "t0": 292.734,
+   "t1": 293.724,
+   "txt": "And their litter"
+  },
+  {
+   "t0": 293.724,
+   "t1": 293.971,
+   "txt": "box."
+  },
+  {
+   "t0": 294.322,
+   "t1": 295.363,
+   "txt": "This plastic tray"
+  },
+  {
+   "t0": 295.363,
+   "t1": 296.22,
+   "txt": "clips onto the"
+  },
+  {
+   "t0": 296.22,
+   "t1": 296.832,
+   "txt": "front of a"
+  },
+  {
+   "t0": 296.832,
+   "t1": 298.056,
+   "txt": "normal human toilet."
+  },
+  {
+   "t0": 298.336,
+   "t1": 299.177,
+   "txt": "The cat uses"
+  },
+  {
+   "t0": 299.177,
+   "t1": 299.808,
+   "txt": "the tray."
+  },
+  {
+   "t0": 300.088,
+   "t1": 301.09,
+   "txt": "Over the toilet."
+  },
+  {
+   "t0": 301.441,
+   "t1": 302.636,
+   "txt": "And the humans?"
+  },
+  {
+   "t0": 303.136,
+   "t1": 304.044,
+   "txt": "The patent thought"
+  },
+  {
+   "t0": 304.044,
+   "t1": 304.8,
+   "txt": "about that too."
+  },
+  {
+   "t0": 305.251,
+   "t1": 306.318,
+   "txt": "Shared bathroom."
+  },
+  {
+   "t0": 306.598,
+   "t1": 307.271,
+   "txt": "And when the"
+  },
+  {
+   "t0": 307.271,
+   "t1": 308.224,
+   "txt": "training is done,"
+  },
+  {
+   "t0": 308.224,
+   "t1": 309.009,
+   "txt": "the patent has"
+  },
+  {
+   "t0": 309.009,
+   "t1": 309.57,
+   "txt": "a plan for"
+  },
+  {
+   "t0": 309.57,
+   "t1": 310.075,
+   "txt": "the tray."
+  },
+  {
+   "t0": 310.426,
+   "t1": 311.28,
+   "txt": "At that point"
+  },
+  {
+   "t0": 311.28,
+   "t1": 312.397,
+   "txt": "the invention can"
+  },
+  {
+   "t0": 312.397,
+   "t1": 313.186,
+   "txt": "be passed on"
+  },
+  {
+   "t0": 313.186,
+   "t1": 314.172,
+   "txt": "to someone else"
+  },
+  {
+   "t0": 314.172,
+   "t1": 314.96,
+   "txt": "who may have"
+  },
+  {
+   "t0": 314.96,
+   "t1": 316.143,
+   "txt": "a similar problem."
+  },
+  {
+   "t0": 316.594,
+   "t1": 317.341,
+   "txt": "A gift."
+  },
+  {
+   "t0": 317.761,
+   "t1": 318.356,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 318.356,
+   "t1": 319.745,
+   "txt": "nineteen eighty-four."
+  },
+  {
+   "t0": 320.246,
+   "t1": 321.121,
+   "txt": "Number ten."
+  },
+  {
+   "t0": 321.401,
+   "t1": 322.867,
+   "txt": "Remember the bird-warning"
+  },
+  {
+   "t0": 322.867,
+   "t1": 323.278,
+   "txt": "collar?"
+  },
+  {
+   "t0": 323.558,
+   "t1": 324.203,
+   "txt": "This is the"
+  },
+  {
+   "t0": 324.203,
+   "t1": 325.201,
+   "txt": "low-tech version."
+  },
+  {
+   "t0": 325.552,
+   "t1": 326.143,
+   "txt": "It's a flap"
+  },
+  {
+   "t0": 326.143,
+   "t1": 326.895,
+   "txt": "of fabric that"
+  },
+  {
+   "t0": 326.895,
+   "t1": 327.648,
+   "txt": "hangs from the"
+  },
+  {
+   "t0": 327.648,
+   "t1": 328.346,
+   "txt": "cat's collar."
+  },
+  {
+   "t0": 328.626,
+   "t1": 329.458,
+   "txt": "Like a bib."
+  },
+  {
+   "t0": 329.809,
+   "t1": 330.572,
+   "txt": "When the cat"
+  },
+  {
+   "t0": 330.572,
+   "t1": 331.59,
+   "txt": "tries to pounce,"
+  },
+  {
+   "t0": 331.59,
+   "t1": 332.353,
+   "txt": "the bib gets"
+  },
+  {
+   "t0": 332.353,
+   "t1": 333.052,
+   "txt": "in the way."
+  },
+  {
+   "t0": 333.503,
+   "t1": 334.356,
+   "txt": "The patent opens"
+  },
+  {
+   "t0": 334.356,
+   "t1": 334.943,
+   "txt": "with a deep"
+  },
+  {
+   "t0": 334.943,
+   "t1": 336.063,
+   "txt": "thought about people."
+  },
+  {
+   "t0": 336.414,
+   "t1": 337.404,
+   "txt": "And it describes"
+  },
+  {
+   "t0": 337.404,
+   "t1": 338.27,
+   "txt": "a hard choice."
+  },
+  {
+   "t0": 338.77,
+   "t1": 339.937,
+   "txt": "Often people face"
+  },
+  {
+   "t0": 339.937,
+   "t1": 340.829,
+   "txt": "the choice of"
+  },
+  {
+   "t0": 340.829,
+   "t1": 341.859,
+   "txt": "either having a"
+  },
+  {
+   "t0": 341.859,
+   "t1": 342.82,
+   "txt": "cat or feeding"
+  },
+  {
+   "t0": 342.82,
+   "t1": 343.506,
+   "txt": "the birds."
+  },
+  {
+   "t0": 343.957,
+   "t1": 344.695,
+   "txt": "Now you can"
+  },
+  {
+   "t0": 344.695,
+   "t1": 345.365,
+   "txt": "have both."
+  },
+  {
+   "t0": 345.865,
+   "t1": 346.441,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 346.441,
+   "t1": 347.849,
+   "txt": "nineteen ninety-eight."
+  },
+  {
+   "t0": 348.3,
+   "t1": 349.281,
+   "txt": "Number eleven."
+  },
+  {
+   "t0": 349.561,
+   "t1": 350.415,
+   "txt": "The bedroom."
+  },
+  {
+   "t0": 350.766,
+   "t1": 351.438,
+   "txt": "Making a bed"
+  },
+  {
+   "t0": 351.438,
+   "t1": 352.166,
+   "txt": "takes about a"
+  },
+  {
+   "t0": 352.166,
+   "t1": 352.558,
+   "txt": "minute."
+  },
+  {
+   "t0": 352.838,
+   "t1": 353.734,
+   "txt": "So someone built"
+  },
+  {
+   "t0": 353.734,
+   "t1": 354.462,
+   "txt": "a machine for"
+  },
+  {
+   "t0": 354.462,
+   "t1": 354.63,
+   "txt": "it."
+  },
+  {
+   "t0": 354.981,
+   "t1": 356.12,
+   "txt": "A motorized frame"
+  },
+  {
+   "t0": 356.12,
+   "t1": 356.858,
+   "txt": "of arms and"
+  },
+  {
+   "t0": 356.858,
+   "t1": 358.065,
+   "txt": "rollers travels up"
+  },
+  {
+   "t0": 358.065,
+   "t1": 358.601,
+   "txt": "the bed,"
+  },
+  {
+   "t0": 358.601,
+   "t1": 359.808,
+   "txt": "pulling the covers"
+  },
+  {
+   "t0": 359.808,
+   "t1": 360.143,
+   "txt": "flat."
+  },
+  {
+   "t0": 360.494,
+   "t1": 361.315,
+   "txt": "The covers are"
+  },
+  {
+   "t0": 361.315,
+   "t1": 361.959,
+   "txt": "held at the"
+  },
+  {
+   "t0": 361.959,
+   "t1": 362.603,
+   "txt": "foot of the"
+  },
+  {
+   "t0": 362.603,
+   "t1": 363.014,
+   "txt": "bed by,"
+  },
+  {
+   "t0": 363.014,
+   "t1": 363.365,
+   "txt": "quote,"
+  },
+  {
+   "t0": 363.365,
+   "t1": 364.42,
+   "txt": "a tree-like frame."
+  },
+  {
+   "t0": 364.771,
+   "t1": 365.585,
+   "txt": "And when the"
+  },
+  {
+   "t0": 365.585,
+   "t1": 366.398,
+   "txt": "job is done,"
+  },
+  {
+   "t0": 366.398,
+   "t1": 367.484,
+   "txt": "each arm returns"
+  },
+  {
+   "t0": 367.484,
+   "t1": 368.23,
+   "txt": "to the foot"
+  },
+  {
+   "t0": 368.23,
+   "t1": 368.908,
+   "txt": "of the bed"
+  },
+  {
+   "t0": 368.908,
+   "t1": 369.315,
+   "txt": "empty."
+  },
+  {
+   "t0": 369.766,
+   "t1": 370.548,
+   "txt": "The bed is"
+  },
+  {
+   "t0": 370.548,
+   "t1": 370.939,
+   "txt": "made."
+  },
+  {
+   "t0": 371.439,
+   "t1": 372.047,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 372.047,
+   "t1": 373.466,
+   "txt": "nineteen eighty-four."
+  },
+  {
+   "t0": 373.917,
+   "t1": 374.983,
+   "txt": "And number twelve."
+  },
+  {
+   "t0": 375.263,
+   "t1": 376.65,
+   "txt": "Nineteen thirty-two."
+  },
+  {
+   "t0": 377.001,
+   "t1": 377.586,
+   "txt": "This is a"
+  },
+  {
+   "t0": 377.586,
+   "t1": 378.366,
+   "txt": "beauty mask."
+  },
+  {
+   "t0": 378.646,
+   "t1": 379.234,
+   "txt": "It is not"
+  },
+  {
+   "t0": 379.234,
+   "t1": 380.148,
+   "txt": "as relaxing as"
+  },
+  {
+   "t0": 380.148,
+   "t1": 380.801,
+   "txt": "it sounds."
+  },
+  {
+   "t0": 381.152,
+   "t1": 381.695,
+   "txt": "The idea:"
+  },
+  {
+   "t0": 381.695,
+   "t1": 382.48,
+   "txt": "you sit under"
+  },
+  {
+   "t0": 382.48,
+   "t1": 383.326,
+   "txt": "a tanning lamp"
+  },
+  {
+   "t0": 383.326,
+   "t1": 384.352,
+   "txt": "wearing the mask."
+  },
+  {
+   "t0": 384.632,
+   "t1": 385.518,
+   "txt": "Only two small"
+  },
+  {
+   "t0": 385.518,
+   "t1": 386.467,
+   "txt": "holes are open."
+  },
+  {
+   "t0": 386.747,
+   "t1": 387.792,
+   "txt": "Over the cheeks."
+  },
+  {
+   "t0": 388.143,
+   "t1": 388.902,
+   "txt": "So only your"
+  },
+  {
+   "t0": 388.902,
+   "t1": 389.978,
+   "txt": "cheeks get color."
+  },
+  {
+   "t0": 390.478,
+   "t1": 391.651,
+   "txt": "A natural blush."
+  },
+  {
+   "t0": 392.151,
+   "t1": 392.946,
+   "txt": "Made by a"
+  },
+  {
+   "t0": 392.946,
+   "t1": 393.388,
+   "txt": "lamp."
+  },
+  {
+   "t0": 393.839,
+   "t1": 394.953,
+   "txt": "And for everything"
+  },
+  {
+   "t0": 394.953,
+   "t1": 395.881,
+   "txt": "below the face,"
+  },
+  {
+   "t0": 395.881,
+   "t1": 396.933,
+   "txt": "there's an apron."
+  },
+  {
+   "t0": 397.433,
+   "t1": 398.235,
+   "txt": "To cover the"
+  },
+  {
+   "t0": 398.235,
+   "t1": 398.569,
+   "txt": "neck,"
+  },
+  {
+   "t0": 398.569,
+   "t1": 400.04,
+   "txt": "shoulders and adjacent"
+  },
+  {
+   "t0": 400.04,
+   "t1": 400.975,
+   "txt": "anatomy of the"
+  },
+  {
+   "t0": 400.975,
+   "t1": 401.443,
+   "txt": "wearer."
+  },
+  {
+   "t0": 401.894,
+   "t1": 403.324,
+   "txt": "Adjacent anatomy."
+  },
+  {
+   "t0": 403.824,
+   "t1": 404.4,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 404.4,
+   "t1": 405.808,
+   "txt": "nineteen thirty-three."
+  },
+  {
+   "t0": 406.259,
+   "t1": 407.043,
+   "txt": "So which one"
+  },
+  {
+   "t0": 407.043,
+   "t1": 407.761,
+   "txt": "is the most"
+  },
+  {
+   "t0": 407.761,
+   "t1": 408.349,
+   "txt": "approved?"
+  },
+  {
+   "t0": 408.9,
+   "t1": 409.788,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 409.788,
+   "t1": 410.564,
+   "txt": "the dog watch."
+  },
+  {
+   "t0": 410.844,
+   "t1": 411.856,
+   "txt": "Because somewhere,"
+  },
+  {
+   "t0": 411.856,
+   "t1": 412.418,
+   "txt": "there is a"
+  },
+  {
+   "t0": 412.418,
+   "t1": 413.43,
+   "txt": "meeting that feels"
+  },
+  {
+   "t0": 413.43,
+   "t1": 414.386,
+   "txt": "like seven hours."
+  },
+  {
+   "t0": 414.737,
+   "t1": 415.569,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 415.569,
+   "t1": 416.341,
+   "txt": "this video is"
+  },
+  {
+   "t0": 416.341,
+   "t1": 417.114,
+   "txt": "word for word"
+  },
+  {
+   "t0": 417.114,
+   "t1": 418.065,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 418.345,
+   "t1": 419.165,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 419.165,
+   "t1": 420.203,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 420.203,
+   "t1": 420.75,
+   "txt": "so you can"
+  },
+  {
+   "t0": 420.75,
+   "t1": 421.843,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 422.194,
+   "t1": 423.255,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 423.255,
+   "t1": 423.88,
+   "txt": "every day."
+  },
+  {
+   "t0": 424.16,
+   "t1": 424.731,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 424.731,
+   "t1": 425.588,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 425.588,
+   "t1": 425.76,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 3.904
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 9.247
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 10.857
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 20.669
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 22.088
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 27.111
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 35.747
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 40.133
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 44.068
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 49.681
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 53.918
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 62.326
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 67.16
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 70.436
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 77.238
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 83.763
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 88.152
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 92.656
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 97.487
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 101.659
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 104.36
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 108.428
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 111.19
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 114.85
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 122.134
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 126.304
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 131.534
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 134.481
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 136.606
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 140.309
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 145.012
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 149.888
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 152.65
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 155.113
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 157.768
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 162.602
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 165.622
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 171.632
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 175.655
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 185.307
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 192.616
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 198.239
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 200.534
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 204.599
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 211.042
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 215.343
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 224.516
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 227.001
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 230.323
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 235.517
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 240.442
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 244.721
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 246.9
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 253.571
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 256.269
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 258.543
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 263.014
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 268.265
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 273.205
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 277.289
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 284.311
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 290.318
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 294.322
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 301.441
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 305.251
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 310.426
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 316.594
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 320.246
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 325.552
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 329.809
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 333.503
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 336.414
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 343.957
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 348.3
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 350.766
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 354.981
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 360.494
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 364.771
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 369.766
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 373.917
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 377.001
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 381.152
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 388.143
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 393.839
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 401.894
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 406.259
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 408.9
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 414.737
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 422.194
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": ""
+}

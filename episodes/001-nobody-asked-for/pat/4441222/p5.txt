@@ -1,0 +1,174 @@
+4,441,222
+
+3
+FIG. 4b shows the mating mounting bracket for the
+wheel of FIG. 4a with the carried shafts and coacting
+lever arm system shown in part.
+
+DETAILED DESCRIPTION OF THE
+INVENTION
+
+The automatic bed making apparatus of the present
+invention is connected at mid-length to and operates in
+relation with a bed frame, such as the metal bed frame
+11 shown in FIG. 1. Such bed frame 11 is of a type often
+used in hospitals and nursing homes. An electrical
+motor box 13 containing an electrical motor and electri-
+cal control switching is positioned below the level of
+the frame 11, at approximately the center of the bed,
+midway between the headboard and the foot of the bed.
+The electrical motor contained within the motor box 13
+is of the reversing type. The drive output from the
+motor box 13 is connected to a shaft 15 for driving a pair
+of wheels 17, these wheels being positioned on idler
+- shafts 19 on either side of the bed frame 11 at approxi-
+mately the midpoint between the head and foot thereof.
+The drive shaft 15 is connected to the motor box 13 by
+a sprocket and chain drive 21. Any of a plurality of
+other power trains such as gear and shaft or belt and
+pulley may be substituted for the sprocket and chain 21.
+By driving each of the operational wheels 17 off the
+same shaft 15 their function and performance is syn-
+chronized and duplicated on each side of the bed frame
+i.
+
+Each wheel 17 has a L-shaped framework 23 con-
+nected thereto, each framework 23 having a plurality of
+arms 25 extending therefrom. Each arm 25 extends from
+the side of the bed inwardly to a distance just short of
+the middle of the bed frame 11 to be juxtaposed with a
+paired arm 25. Mounted on each arm 25 is an idler
+helical screw roller 27 which is free to turn and oriented
+to draw to the side of the bed frame 11 as it turns.
+
+As the wheels 17 are rotated, the respective frame-
+work 23 and the arms 25 with the helical screw rollers
+27 are drawn from the foot of the bed frame 11 in a
+semicircular curve or arc to the head of the bed frame
+11. Each arm 25 and its carried helical screw 27 passes
+under a respective one of the covers or sheets on the
+bed 11. The helical screw rollers 27 frictionally engage
+its respective cover to draw the cover toward the head
+of the bed frame 11 while also turning through frictional
+contact to straighten the cover. This rotation of the
+helical screw roller 27 acts to smooth the wrinkles
+toward the edge of the bed.
+
+In the configuration for the framework 23 and arms
+25 shown in FIGS. 1, 2 and 3, the bed making apparatus
+is configured for making and straightening three layers
+of covers. There are three pairs of arms 25. The frame-
+work 23 and arms 25 are configured so that the top one
+of the respective arms 25 and its roller 27 is positioned
+closest to the bottom of the bed while the bottom of the
+respective ones of the arms 25 and its respective roller
+27 is positioned furthest from the bottom of the bed as
+seen in FIGS. 2 and 3.
+
+Covers and sheets carried on the bed are held se-
+curely to the foot of the bed by a tree-like frame having
+an individual securing bar 29 for each cover. A main
+support bar 31 holds each of the individual securing
+bars 29. These securing bars 29 are positioned with the
+top one closest to the bed frame 11 and the bottom
+furthest from the foot of the bed frame 11 in a corre-
+sponding positioned relationship to the individual ones
+of the arms 23 holding helical screw rollers 27, FIG. 3.
+
+—_
+
+5
+
+20
+
+30
+
+35
+
+45
+
+30
+
+35
+
+60
+
+65
+
+4
+
+Each securing bar 29 may have its respective cover
+held thereto by a clamp, a slit overiding tube or other
+means.
+
+The spacing between the individuals ones of the se-
+curing bars 29, the angle of repose of the main support
+bar 31 in the rest position of the foot of the bed frame 11,
+the length of the framework 23 and arms 25, and the arc
+swing of the individual arms 25 and their associated
+helical screw rollers 27 is adjusted so that the individual
+screw rollers 27 swing through and in between the
+securing bars 29 when the wheels 17 and framework 23
+carrying the arms 25 are swung during the bed making
+operation. :
+
+The main support bar 31 is held in a position which is
+offset from the center of a rotational axis implemented
+by the axle 33. A pair of rotational support bars 35 are
+bolted for rotation on the axis 33 and bolted, welded or
+clamped to the top securing bar 29 adjacent to and on
+either side of the main support bar 31. When the axle 33
+is caused to rotate, the rotational support bars 35 swing
+the main support bar 31 and the securing bars 29 in a
+circular arc from “Position A” of FIG. 3 to “Position
+B” under the influence of spring 36. This is accom-
+plished as the wheels 17 and framework 23 cause the
+arms 25 and their respective helical rollers 27 to return
+from the head of the bed. This allows the rollers 27 to
+interleaf between the individual securing bars 29 and
+the covers held thereby for the next bed making opera-
+tion. As the framework 23, arms 25 and rollers 27 are
+returned to the rest position, the main support bar 31
+and securing bars 29 are also returned to their original
+position “A’.”
+
+The axle 33 is caused to rotate by the operation of one
+of the wheels 17 in combination with a lever arm system
+comprising a first rod 37, lever 39 and a second rod 41.
+This second rod 41 is tied to the axle 33 which it rotates
+as the second rod 41 moves forward or backward. The
+lever 39 pivots about a pin 43 secured to the bed frame
+11.
+
+The axle 33 is held in position by a support structure
+including a base plate 45 and braces 47, 48 secured to
+that base plate 45 and the center of the bottom of the
+bed frame 11.
+
+The sequence of operation of the rotation of the axle
+33, main support bar 31 and securing bars 29 for receiv-
+ing and interleaving the arms 25 and helical screw rol-
+lers 27 on their return stroke is mechanically operated
+from the one of the rotational wheels 17.
+
+Each of these wheels 17, FIG. 4a, is mounted for
+rotation upon an idler shaft 19, FIG. 45, which is se-
+cured to a mounting plate 49 mounted to the bed frame
+11. This mounting plate 49 can be rectangular or square
+or of other convenient shape. A ring gear 51, forms a
+part of the interior section of each wheel 17. This ring
+gear 51 is connected to a small pinion gear which drives
+the ring gear 51. The pinion gear 53 is mounted on each
+end of the shaft 15. The shaft 15 on each end extends
+through the respective one of the mounting plates 49
+and is supported for rotation by a sleeve bearing or
+other means (not shown).
+
+A first cam 55, being a dog leg shaped plate, is
+mounted near the ring gear 51 of that one of the wheels
+17 and is biased to an initial position by a first spring 57.
+A bar 59 is fixedly positioned on the inside of the wheel
+17 adjacent to the first cam 55. This bar 59 is a rectangu-
+lar plate that extends across a section of the ring gear 51
+teeth and is intended to act as a guide keeping the first
+cam 55 from catching onto or dropping into the ring

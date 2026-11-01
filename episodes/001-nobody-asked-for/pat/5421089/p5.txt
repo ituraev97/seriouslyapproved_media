@@ -1,0 +1,176 @@
+5,421,089
+
+3
+
+patent or legal terms or phraseology, to determine
+quickly from a cursory inspection the nature and es-
+sence of the technical disclosure of the application. The
+abstract is neither intended to define the invention of
+the application, which is measured by the claims, nor is
+it intended to be limiting as to the scope of the invention
+in any way.
+
+It is therefore an object of the present invention to
+provide a new and improved fork with timer which has
+all the advantages of the prior art forks and none of the
+disadvantages.
+
+It is another object of the present invention to pro-
+vide a new and improved fork with timer which may be
+easily and efficiently manufactured and marketed.
+
+It is a further object of the present invention to pro-
+vide a new and improved fork with timer which is of
+durable and reliable construction.
+
+An even further object of the present invention is to
+provide a new and improved fork with timer which is
+susceptible of a low cost of manufacture with regard to
+both materials and labor, and which accordingly is then
+susceptible of low prices of sale to the consuming pub-
+lic, thereby making such a fork with timer economically
+available to the buying public.
+
+Still yet another object of the present invention is to
+provide a new. and improved fork with timer which
+provides in the apparatuses and methods of the prior art
+some of the advantages thereof, while simultaneously
+overcoming some of the disadvantages normally associ-
+ated therewith.
+
+Even still another object of the present invention is to
+provide a new and improved fork with timer for provid-
+ing a cue to a user after an elapsed period of time for
+indicating that another bite of food using the fork may
+be taken. oO
+
+Lastly, it is an object of the present invention to pro-
+vide a new and improved fork with timer comprising a
+fork having a head, a plurality of spaced tines extended
+from the head, and a handle extended from the head
+remote from the tines; timer circuitry connected to the
+handle of the fork and adapted for providing a cue after
+an elapsed period of time for indicating to a user that
+another bite of food using the fork may be taken; a
+replaceable power source connected to the fork and
+coupled to the timer circuitry with the power source
+adapted for energizing the timer circuitry; and a switch
+connected to the fork and coupled between the power
+source and the timer circuitry with the switch having
+one orientation for energizing the timer circuitry and
+another orientation for de-energizing the timer cir-
+cuitry.
+
+These together with other objects of the invention,
+along with the various features of novelty which char-
+acterize the invention, are pointed out with particular-
+ity in the claims annexed to and forming a part of this
+disclosure. For a better understanding of the invention,
+its operating advantages and the specific objects at-
+tained by its uses, reference should be had to the accom-
+panying drawings and descriptive matter in which there
+is illustrated preferred embodiments of the invention.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+The invention will be better understood and objects
+other than those set forth above will become apparent
+when consideration is given to the following detailed
+description thereof. Such description makes reference
+to the annexed drawings wherein:
+
+25
+
+40
+
+45
+
+350
+
+55
+
+60
+
+65
+
+4
+
+FIG. 1 is a plan view of the preferred embodiment
+constructed in accordance with the principles of the
+present invention.
+
+FIG. 2 is a side elevational view of the present inven-
+tion depicted in FIG. 1.
+
+FIG. 3 is an enlarged view of the numeric display and
+the red and green light emitting diodes of the present
+invention with the numeric display indicating an initial
+period of time before countdown and the red light emit-
+ting diode shown activated, thereby indicating that
+another bite of food using the fork should not be taken.
+
+FIG. 4 is an enlarged view of the numeric display and
+the red and green light emitting diodes of the present
+invention with the numeric display indicating that the
+period of time has elapsed (countdown has been com-
+pleted) and the green light emitting diode shown acti-
+vated, thereby indicating that another bite of food using
+the fork may be taken.
+
+FIG. 5 is an enlarged view of the numeric display
+circuitry and the red and green light emitting diodes of
+the present invention with the numeric display indicat-
+ing a reset time period after the initial countdown and
+the red light emitting diode shown activated, thereby
+indicating once again that another bite of food using the
+fork should not be taken.
+
+FIG. 6 is alternate embodiment of the present inven-
+tion further including a speaker coupled to the handle
+for providing an audible indication of when another bite
+of food using the fork may be taken.
+
+FIG. 7 is a functional block diagram of the timer
+circuitry of the present invention. In the preferred em-
+bodiment of the present invention, the one-shot speaker
+driver and speaker are not included. In an alternate
+embodiment of present invention as shown in FIG. 6,
+the one-shot speaker driver and speaker are included
+and coupled to the handle.
+
+The same reference numerals refer to the same parts
+through the various Figures.
+
+DESCRIPTION OF THE PREFERRED
+EMBODIMENT
+
+With reference now to the drawings, and in particu-
+lar, to FIG. 1 thereof, the preferred embodiment of the
+new and improved fork with timer embodying the prin-
+ciples and concepts of the present invention and gener-
+ally designated by the reference number 10 will be de-
+scribed.
+
+Specifically, the present invention includes four
+major components. The major components are the din-
+ner fork, timer circuitry, power source, and switch.
+These components are interrelated to provide the in-
+tended function.
+
+More specifically, it will be noted in the various Fig-
+ures that the first major component is the dinner fork
+12. The fork is rigid in structure and formed of a mate-
+rial such as metal or plastic. The dinner fork has a head
+14 with an extended surface. Four spaced and aligned
+tines 16 are extended from the head for holding food
+thereon. The tines of the dinner fork are generally
+curved. A handle 18 is extended from the head at a
+location remote from the tines for allowing the user a
+firm grip for taking a bite of food. The end of the handle
+is widened at the rounded and free’end thereof and then
+tapered in towards the head.
+
+The second major component is the timer circuitry
+20. The timer circuitry is connected to the handle of the
+dinner fork. The timer circuitry is adapted for provid-
+ing a cue to a user after an elapsed period of time for

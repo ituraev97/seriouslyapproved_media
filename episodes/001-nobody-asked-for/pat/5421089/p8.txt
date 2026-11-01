@@ -1,0 +1,55 @@
+3,421,089
+
+9 10
+
+when this period of time has elapsed, the count- time has not elapsed, the red light is activated
+
+down timer including automatic reset circuitry and the green light is deactivated; and
+
+for resetting the pre-programmed period of time display circuitry coupled to the decoder/driver
+
+upon countdown completion for subsequent circuitry with the display circuitry having a
+
+countdown during a subsequent period of time; 5 display for transmitting a visual indication of
+decoder/driver circuitry coupled to the count- elapsed time based upon receipt of timer display’
+
+down timer and adapted for receiving the count- signals;
+
+down signals and event signals during and upon a replaceable power source connected to the dinner
+
+completion of a period of time, transmitting a fork and coupled to the timer circuitry with the
+
+“go” signal when an event signal is received, 10 power source adapted for energizing the timer
+
+transmitting a “stop” signal when an event signal circuitry; and
+
+is not received, and transmitting timer display a switch connected to the dinner fork and coupled
+
+signals upon receipt of countdown signals; between the power source and the timer circuitry
+a green light and a red light each coupled to the with the switch having one orientation for energiz-
+
+decoder/driver circuitry with the green light 15 ing the timer circuitry and another orientation for
+
+activated when the “go” signal is received and de-energizing the timer circuitry.
+
+deactivated otherwise, the red light activated 4. The fork with timer as set forth in claim 3 further
+
+when the “stop” signal is received and deacti- _ including interface means coupled to the timer circuitry
+
+- vated otherwise, whereby when a period of time and adapted to be accessible by a user for allowing the
+has elapsed, the green light is activated and the 20 pre-programmed period of time to be set as desired.
+red light is deactivated, and when a period of + * * * #
+
+25
+
+30
+
+35
+
+45
+
+50
+
+35
+
+65

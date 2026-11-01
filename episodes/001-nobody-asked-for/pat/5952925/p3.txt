@@ -1,0 +1,205 @@
+5,952,925
+
+12 cat
+
+14 bird
+
+16 strap for wearing around neck of cat 12
+
+18 electric device
+
+20 buckle affixed to one free end 22 of strap 16
+
+22 free end of strap 16
+
+24 throughbores in other free end 26 of strap 16
+
+26 other free end 26 of strap 16
+
+28 box of electric device 18
+
+30 front wall of box 28 of electric device 18
+
+32 rear wall of box 28 of electric device 18
+
+33 side wall of box 28 of electric device 18
+
+34 electronic circuit contained in box 28 of electric device
+18
+
+36 first pair of dip switches of electronic circuit 34 of electric
+device 18
+
+38 second pair of dip switches of electronic circuit 34 of
+electric device 18
+
+40 third pair of dip switches of electronic circuit 34 of
+electric device 18
+
+42 fourth pair of dip switches of electronic circuit 34 of
+electric device 18
+
+44 speaker of electronic circuit 34 of electric device 18
+
+46 approximate center of front wall 30 of box 28 of electric
+device 18
+
+48 volume control of electronic circuit 34 of electric device
+18
+
+50 frequency generator of electronic circuit 34 of electric
+device 18
+
+52 electronic switch of electronic circuit 34 of electric
+device 18
+
+54 microprocessor of electronic circuit 34 of electric device
+18
+
+56 light level detector of electronic circuit 34 of electric
+device 18
+
+58 light detector switch of electronic circuit 34 of electric
+device 18
+
+60 power supply of electronic circuit 34 of electric device 18
+
+62 power switch of electronic circuit 34 of electric device 18
+
+64 wave form produced by electronic circuit 34 of electric
+device 18
+
+W pulse width of wave form 64 produced by electronic
+circuit 34 of electric device 18
+
+S separation between pulses of wave form 64 produced by
+electronic circuit 34 of electric device 18
+
+P period of wave form 64 produced by electronic circuit 34
+of electric device 18
+
+DETAILED DESCRIPTION OF THE
+PREFERRED EMBODIMENT
+
+Referring now to the figures, in which like numerals
+indicate like parts, and particularly to FIG. 1, the collar for
+a cat for warning a bird of the presence of the cat of the
+present invention is shown generally at 10 for wearing by a
+cat 12 and for warning a bird 14 of the presence of the cat
+12.
+
+The configuration of the collar for a cat for warning a bird
+of the presence of the cat 10 can best be seen in FIG. 2, and
+as such, will be discussed with reference thereto.
+
+The collar for a cat for warning a bird of the presence of
+the cat 10 comprises a strap 16 for wearing around the neck
+of the cat 12, and an electric device 18 that is disposed on
+the strap 16.
+
+The strap 16 is elongated and slender, and is selectively
+maintained around the neck of the cat 12, by a buckle 20
+affixed to one free end 22 that cooperates with throughbores
+24 in the other free end 26 of the strap 16.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+4
+
+The electric device 18 comprises a box 28 that is hollow
+and attached to the strap 16, at a position generally midway
+between the one free end 22 of the strap 16 and the other free
+end 26 of the strap for allowing the box 28 of the electric
+device 18 to be worn under the chin of the cat 12.
+
+The box 28 of the electric device 18 has a front wall 30,
+a rear wall 32 that is spaced behind the front wall 30 of the
+box 28 of the electric device 18 and attached to the strap 16,
+and a side wall 33 that extends from the front wall 30 of the
+box 28 of the electric device 18 to the rear wall 32 of the box
+28 of the electric device 18, and contains an electronic
+circuit 34.
+
+The configuration of the electronic circuit 34 of the
+electric device 18, its relationship to the box 28 of the
+electric device 18, and the audio wave form it produces can
+best be seen in FIGS. 2—4, and as such, will be discussed
+with reference thereto.
+
+The electronic circuit 34 of the electric device 18 com-
+prises a first pair of dip switches 36 that are recessed in,
+which prevents the cat 12 from accessing them, and acces-
+sible from, the side wall 33 of the box 28 of the electric
+device 18.
+
+The electronic circuit 34 of the electric device 18 further
+comprises a second pair of dip switches 38 that are recessed
+in, which prevents the cat 12 from accessing them, and
+accessible from, the side wall 33 of the box 28 of the electric
+device 18, and are disposed below the first pair of dip
+switches 36 of the electronic circuit 34 of the electric device
+18.
+
+The electronic circuit 34 of the electric device 18 further
+comprises a third pair of dip switches 40 that are recessed in,
+which prevents the cat 12 from accessing them, and acces-
+sible from, the side wall 33 of the box 28 of the electric
+device 18, and are disposed below the second pair of dip
+switches 38 of the electronic circuit 34 of the electric device
+18.
+
+The electronic circuit 34 of the electric device 18 further
+comprises a fourth pair of dip switches 42 that are recessed
+in, which prevents the cat 12 from accessing them, and
+accessible from, the side wall 33 of the box 28 of the electric
+device 18, and are disposed below the third pair of dip
+switches 40 of the electronic circuit 34 of the electric device
+18.
+
+The electronic circuit 34 of the electric device 18 further
+comprises a speaker 44 that is disposed on the front wall 30
+of the box 28 of the electric device 18, at its approximate
+center 46.
+
+The electronic circuit 34 of the electric device 18 further
+comprises a volume control 48 that is of the screw driver
+type and recessed in, which prevents the cat 12 from
+accessing it, and accessible from, the front wall 30 of the box
+28 of the electric device 18, and is disposed to one side of,
+and in electrical communication with, the speaker 44 of the
+electronic circuit 34 of the electric device 18.
+
+The electronic circuit 34 of the electric device 18 further
+comprises a frequency generator 50 that generates a carrier
+wave with a frequency, and is contained in the box 28 of the
+electric device 18, and is in electrical communication with
+the volume control 48 of the electronic circuit 34 of the
+electric device 18, through an electronic switch 52, and with
+the first pair of dip switches 36 of the electronic circuit 34
+of the electric device 18.
+
+The first pair of dip switches 36 of the electronic circuit;
+34 of the electric device 18 adjust the frequency of the
+carrier wave generated by the frequency generator 50 of the

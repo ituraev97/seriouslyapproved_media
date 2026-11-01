@@ -76,7 +76,7 @@ URL: `https://raw.githubusercontent.com/ituraev97/seriouslyapproved_media/drop-X
 
 ## 9. Schedule in Metricool
 - createScheduledPost, blogId 7805767, providers [{"network":"youtube"}], publicationDate {dateTime, timezone:"America/New_York"}, autoPublish true.
-- Long: youtubeData {title, type:"video", privacy:"public", tags, category:"ENTERTAINMENT", madeForKids:false}; text = description; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL.
+- Long: youtubeData {title, type:"video", privacy:"public", tags, category:"ENTERTAINMENT", madeForKids:false}; text = description; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL ONLY if the channel is phone-verified — otherwise Metricool rejects the whole post (VIDEO_THUMBNAIL_NOT_APPLICABLE): resend without videoThumbnailUrl and tell the owner.
 - Shorts: youtubeData {title, type:"short", privacy:"public", category:"ENTERTAINMENT", madeForKids:false}; text = Short description.
 - TikTok / Instagram: only once connected to the brand (none on 02.11.2026). TikTok: only Shorts > 60 s.
 - Titles: long ≤ 70 chars, curiosity + "Real Patents" (e.g. "9 Real Patents Nobody Asked For (All Approved)"); Short = the invention + a hook ("The U.S. Approved a Kissing Shield").

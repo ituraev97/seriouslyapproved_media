@@ -1,0 +1,183 @@
+5,675,318
+
+1
+GRAFFITI PREVENTION APPARATUS
+
+BACKGROUND OF THE INVENTION
+
+1. Field of the Invention
+
+The present invention relates to apparatus for defeating
+the application of graffiti and other undesirable markings to
+structures and surfaces, and more particularly to a system of
+components which cooperate to prevent the application of
+unwanted or unsightly markings and symbols on surfaces or
+structures by individuals bearing spray cans of marking
+media.
+
+2. Description of the Related Art
+
+One recent problem that contemporary western society
+has encountered is the deliberate defacement of otherwise
+aesthetically pure and unblemished surfaces by decadent or
+otherwise indecent individuals. Whether its application is
+intentional or a result of boredom, the marks or “graffiti”, as
+it has become known, is generally an assault on the visual
+pleasures of man.
+
+Almost always, graffiti is accomplished by an act of
+writing or drawing while using paint. Spray paint cans are
+the tools of choice. Drawing or writing on a structure or
+surface typically detracts from its appearance. Graffiti, when
+viewed as a problem, must be firmly dealt with.
+
+At the present time, the only known way to correct graffiti
+is to provide a remedy after its application, as for example,
+by its erasure or the application of one or more coats of
+media (e.g.. paint) to cover the graffiti. Either procedure is
+very costly.
+
+Various mechanisms are known for deterring theft or
+intrusion; however, each of these, described below, are
+unable to prevent the damage from occurring in the first
+place.
+
+USS. Pat. No. 4.996.521 to Hollow discloses apparatus for
+spraying water on an intruder to deter unauthorized graffiti
+within an area. However, the surface still bears the graffiti
+after the water been sprayed.
+
+U.S. Pat. No. 5,182,541 to Bajorek et al. discloses a theft
+deterring device for houses or automobiles where the device,
+connected electrically to pre-existing circuitry, will cause
+the emission of noxious gas upon the unauthorized entry of
+an intruder. Again, the deterrent is not activated until the
+damage (the entry) has been accomplished.
+
+Other mischief preventing mechanisms known include a
+car theft prevention system (U.S. Pat. No. 5,315,290 to
+Moreno et al.) and a dye pack for prevention of theft of
+currency (U.S. Pat. No. 5,196,828 to Keniston).
+
+It would therefore be very desirable to find a process and
+apparatus which would help deter application of graffiti to a
+surface.
+
+It would further be desirable to have a deterring
+mechanism, such as valve defeating means, in the graffiti
+applying tool, or in the surface to which the graffiti is to be
+applied.
+
+U.S. Pat. No. 5.025.962 to Renfro discloses a valve
+assembly for a pressurized aerosol can to release a measured
+amount of spray automatically at preset time intervals. This
+apparatus, which uses the pressurized contents as the sole
+energy source to drive the valve assembly, has an objective
+of spray delivery, whereas to prevent graffiti it would be
+desirable to prevent spraying.
+
+OBJECTS OF THE PRESENT INVENTION
+
+It is therefore the principal object of the present invention
+to provide a method and apparatus for preventing the
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+45
+
+50
+
+55
+
+65
+
+2
+
+application of graffiti to an object or a surface, while
+overcoming all the disadvantages and drawbacks of known
+methods and apparatus for graffiti application.
+
+Another object of the present invention is to provide a
+method and apparatus for preventing the defacement of
+structural surfaced by sprayed paint through actuation of a
+valve disabling means carried by the spray mechanism or by
+the surface of the structure.
+
+Still another object of the invention is to provide a method
+and apparatus for deterring intrusions into a defined space to
+deface property by actuation. upon recognition of an
+intruder in the space, of valve means in a spray can carried
+by the intruder, for preventing delivery of the marking
+material from the can to the property.
+
+Still another object of the invention is to provide a method
+and apparatus for deterring the defacing of property by
+actuating signal transmitting means on or in the vicinity of
+the property for communication with means for preventing
+operation of a spraying apparatus.
+
+These and other objects are attained by the present
+invention which encompasses a system of components
+including at least (1) one or more sensors at or in the vicinity
+of a surface to be defaced for detecting the presence of an
+intruder approaching the targeted surface, and (2) first
+communication means for actuating a mechanism in the
+spray apparatus or in the surface to be protected which will
+enable prevention of the surface targeted for defacement.
+
+In one embodiment, the invention also includes a second.
+communication means in the spray apparatus to be used in
+defacing the surface, coupled with a control means for
+disabling the delivery of marking material from the spray
+canister to the targeted surface when an intruder bearing
+such a spray apparatus approaches the surface.
+
+In another embodiment, the invention also includes a
+second communication means in the spray apparatus
+coupled to a servo mechanism for breaking the path through
+which the marking material travels from the spray apparatus
+to the targeted surface when an intruder with such a spray
+apparatus approaches the surface.
+
+In still another embodiment of the invention. the mecha-
+nism for preventing marking of the targeted surface is
+carried by the surface itself or devices positioned in the
+vicinity of the surface. That is, the marking material is
+combined with a magnetic material prior to or at the time of
+loading the spray canister. When a proximity sensor on, or
+in the vicinity of, the structure is triggered by an approach-
+ing intruder, a magnetic field created along the targeted
+surface acts to repel the spray of marking media directed at
+it.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+These and other objects and advantages of the present
+invention will become more apparent when considered
+together with the following detailed description of the
+invention along the appended drawings, in which:
+
+FIG. 1 is a schematic view showing an intruder approach-
+ing a surface with the intent to deface it, and components of
+which the inventive system is comprised;
+
+FIG. 2 is a perspective view of a spray can and valving
+mechanism in accordance with one embodiment of the
+invention:
+
+FIG. 3 is a partial sectional view of the interior of a spray
+apparatus. in accordance with a second embodiment of the
+present invention;
+
+FIG. 4 is a side view of the interior of the spray-defeating
+mechanism shown in FIG. 3; and

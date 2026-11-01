@@ -1,0 +1,113 @@
+5,675,318
+
+5
+
+the wall surface, but also (and most likely) in the repulsion
+of the fluid back from the electromagnetic field onto the
+intruder, thus “marking” him for later identification.
+
+While the present invention has been described in con-
+junction with specific embodiments thereof, it is evident that
+many alternatives. modifications, and variations will be
+apparent to those skilled in the art in light of the foregoing
+description. Accordingly. the present invention is intended to
+embrace all alternatives, modifications, and variations which
+fall within the spirit and scope of the appended claims.
+
+What I claim is:
+
+1. A graffiti thwarting system, comprising:
+
+proximity detectors adapted to be mounted adjacent a
+
+surface to be defaced,
+
+transmitter means. supported adjacent said surface, for
+
+emitting signals. and
+
+means. responsive to said transmitter means signals. for
+
+preventing marking material released from a pressur-
+ized spray canister from reaching said surface.
+
+2. The graffiti thwarting system of claim 1, wherein said
+transmitter means comprises radio transmitting means, and
+said preventing means includes radio receiving means.
+
+3. The graffiti thwarting system of claim 1. wherein said
+preventing means comprises a delivery tube for transporting
+said marking media to a spray nozzle, and means coupled
+with said delivery tube for inhibiting the flow of said
+marking material to said spray nozzle.
+
+4. The graffiti thwarting system of claim 3, wherein said
+flow inhibiting means comprises an enlarged conduit section
+connecting upper and lower delivery tube portions, and plug
+means supported for movement in said conduit section
+between a first flow permitting position and a second flow
+inhibiting position.
+
+5. The graffiti thwarting system of claim 4, wherein said
+enlarged conduit is elongated in the direction of the extent
+of the delivery tube, and said plug moves linearly between
+said first and second positions.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+6
+
+6. The graffiti thwarting system of claim 4, wherein said
+spray canister further includes means, actuated by the sig-
+nals emitted by said transmitter means, for driving said plug
+between said first end second positions.
+
+7. The graffiti thwarting system of claim 6, wherein said
+means for driving said plug between said first and second
+positions comprises an electromagnet.
+
+8. The graffiti thwarting system of claim 7, wherein said
+driving means further includes a power source and means
+coupled with said power source for selectively actuating said
+electromagnet.
+
+9. The graffiti thwarting system of claim 3. wherein said
+spray preventing means includes means for breaking the
+connection between said delivery tube and said spray
+nozzle.
+
+10. The graffiti thwarting system of claim 9, wherein said
+delivery tube includes a magnetic portion, and said connec-
+tion breaking means comprises a rotatable magnetic disk
+positioned adjacent said magnetic portion of said delivery
+tube, motor means coupled with and actuatable to rotate said
+disk, and means carried by said spray canister for selectively
+actuating said motor means, whereby when said motor
+means is actuated. an upper portion of said delivery tube is
+rotated out of correspondence with said spray nozzle chan-
+nel.
+
+11. The graffiti thwarting system of claim 10, wherein said
+magnetic portion of said delivery tube includes a magnetic
+strip secured to the exterior surface of said tube.
+
+12. The graffiti thwarting system of claim 1, wherein said
+preventing means comprises signal receiving means, field
+generating means coupled with said signal receiving means
+for creating a magnetic field adjacent to said surface, and
+ferromagnetic material mixed with said spraying material.
+whereby when the marking material is released from said
+pressurized spray canister, said marking material is repelled
+by said magnetic field created adjacent to said surface.
+
+* OF

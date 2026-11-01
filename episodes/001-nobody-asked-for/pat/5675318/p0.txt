@@ -1,0 +1,90 @@
+United States Patent u5
+Hunt, Jr.
+
+| ~~ US005675318A |
+
+5,675,318
+Oct. 7, 1997
+
+[11] Patent Number:
+[45] Date of Patent:
+
+[54] GRAFFITI PREVENTION APPARATUS
+
+[76] Inventor: Henry C. Hunt, Jr.. 875 Rio Virgin
+
+Dr., #205,. St. George, Utah 84770
+[21] Appl. No.: 642,873
+[22] Filed: May 6, 1996
+
+ESE] Ente Cho ccc ccccsccsscccssecesscccnsesseseseccenseeees G08B 21/00
+
+[52] US. Che esc ecssssneensssnseeans 340/540; 340/541; 222/61;
+222/153.11; 222/402.1
+
+[58] Field of Searela .......c.cccccscccssesensenne 340/540, 541,
+340/573; 222/61, 63, 153.11, 402.1, 402.11;
+52/101; 109/20, 33
+
+[56] References Cited
+
+U.S. PATENT DOCUMENTS
+
+3,815,784 —G/1974 Hamsel .....sscccnssesssunsseaneeessenoes 222/63
+4,866,423 9/1989 Anderson .. we 340/541
+4,996,521 2/1991 Hollow ...... -- 340/691
+5,025,962 6/1991 Renfro .. eo 222/649
+5,528,220 — G/1996 Woods o.....cssccssesseseroneneceneceee 340/541
+
+Primary Examiner—Jeffery Hofsass
+Assistant Examiner—Anh La
+Attorney, Agent, or Firm—Terrell P. Lewis
+
+[57] ABSTRACT
+
+A system of components for preventing the application of
+graffiti to property includes one or more sensors and a signal
+transmitter at or near the surface to be defaced. and signal
+receiving means for actuating a mechanism in the spray
+apparatus or at the surface to be protected which will enable
+prevention of the surface targeted for defacement. One
+embodiment of the invention includes a signal receiver in
+the spray canister which actuates an electromagnet to move
+a plug in the marking material delivery tube to a flow
+blocking position. A second embodiment of the invention
+includes a signal receiver in the spray canister coupled to a
+rotatable magnet for rotating the upper end of the delivery
+tube away from the spray nozzle thereby breaking the path
+through which the marking material travels from the spray
+apparatus to the target surface. A third embodiment of the
+invention provides for the creation of an electromagnetic
+field at the targeted surface. and the mixing of the marking
+material (either by the “paint” manufacturer or afterwards)
+with a magnetic material so that when sprayed at the surface,
+the marking material is repelled.
+
+12 Claims, 2 Drawing Sheets
+
+)
+
+20
+ae
+| 5. 40
+
+30
+
+WS
+
+INS
+
+O°‘
+
+i
+O
+
+SS
+:
+
+N
+
+MF

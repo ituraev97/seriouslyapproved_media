@@ -1,0 +1,172 @@
+4,436,214
+
+3
+
+The slide 42 has a female-threaded top portion 56,
+and a corresponding male-threaded actuating member
+58 is provided for engaging the threaded portion 56. A
+disk plate 60 held in the shoulder 36 beneath the annulus
+38 is connected to this actuating member 58, and a twist
+handle 62 is affixed to the member 58 and the plate 60.
+In this embodiment, counter clockwise twisting of the
+twist handle 62 serves to lower the slide 42 to its first
+position (FIG. 2), while clockwise rotation of the twist
+handle 62 serves to raise the slide 42 to its second posi-
+tion (FIG. 3). :
+
+In order to prevent twisting of the slide 42 itself, an
+anti-twist mechanism is provided including an anti-twist
+pin 64 extending transversely from the slide 42 and a
+pair of recesses 66 in the wall 32 overfitting ends of the
+pin 64. These recesses 66 are narrow and elongated, and
+permit longitudinal motion only of the pin 64 and slide
+42 between the first and second positions thereof.
+
+The operation of the locking spike device 30 can be
+described briefly as follows:
+
+If the twist handle 62 is rotated counter clockwise,
+the slide 42 is moved to its first position, and the anchor-
+ing spade portions 52 of the locking spike 44 are dis-
+posed in a retracted position as shown in FIG. 2 at or
+near the surface of the peripheral wall 32. In this posi-
+tion, the picnic chest 10 can be placed on sand or soft
+soil S, and the locking spike device 30 can be easily
+inserted into the sand or soft soil S. Then, as the twist
+handle 62 is rotated clockwise, the slide 42 moves to its
+second position, and the spade portions 52 of the lock-
+ing spikes 44 are angled outward away from the periph-
+eral wall 32. Here, as shown in FIG. 3, the elbow 50 of
+each of the locking spikes 44 contacts a top limit 40a of
+the respective opening 40 to ensure that the locking
+spike 44 is projected to its angled, anchoring position.
+
+When the device 30 is in its anchoring position, it is
+quite difficult to pull the device 30 from the soft soil or
+sand S, and this fact will deter casual thieves from car-
+rying off the picnic chest 10, even though the same may
+be unattended. Accordingly, clothing and valuables can
+be secured in the chest 10 by the lock 16 on the lid 14.
+
+When it is desired to remove the picnic chest 10, for
+example, at the end of a day at the beach, the lid 14 of
+the chest can be opened, and the twist handle 62 turned
+counter clockwise. This returns the slide to its first
+position, with the spade portions 52 of the locking
+spikes 44 withdrawn, as shown in FIG. 2. The bottom
+of the elbow 50 contacts a bottom limit 405 of the open-
+ing 40, and the latter acts as a fulcrum to urge the lock-
+ing spike to its withdrawn position. Then, the device 30
+can be easily withdrawn from the sand or soft soil S and
+the chest 10 can be lifted and carried.
+
+Another possible arrangement of the chest 10 and the
+locking spike device 30 is shown in FIG. 4. In this case,
+the device 30 is provided separately from the chest 10,
+and the latter is secured by means of a cable lock which
+passes through the twist handle 62 of the device 30 and
+also through one of the handles 18 of the chest 10. Ai-
+though not shown in FIG. 4, a mechanism is provided
+to prevent the twist handle 62 from being rotated
+counter clockwise when the cable lock 68 is in place.
+
+Of course, while a preferred embodiment has been
+shown and described hereinabove with reference to the
+drawings, many modifications and variations thereof
+will present themselves to those skilled in the art with-
+out departure from the scope and spirit of this invention
+as defined in the appended claims.
+
+What is claimed is:
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+60
+
+4
+
+4. A securable beach picnic chest assembly compris-
+ing, in combination, a picnic chest having a floor, a
+closable lid, locking means for locking said lid, and
+carrying handles, with the chest being constructed to be
+of sufficiently light weight to be hand-portable, and
+with the floor having a through opening; and a locking
+spike device extending through said through opening
+and including a body portion, an insertion point at a
+lower end of the body portion, a shoulder at an upper
+end of the body portion securing the picnic chest to the
+locking spike device, a plurality of locking spikes hav-
+ing at least anchoring portions thereof disposed outside
+said body portion, slide means within said body portion
+coupled to said locking spikes and displaceable between
+first and second operative positions, and an actuator
+handle within said picnic chest and operative selec-
+tively to displace said slide means to said first position in
+which said anchoring portions of said locking spikes are
+disposed against said body portion so that said locking
+spike device can be inserted into and withdrawn from
+sand or soft soil, and to said second position in which
+said anchoring portions of said locking spikes are angled
+outwardly from said body portion to anchor said lock-
+ing spike device and picnic chest in place in the sand or
+soft soil.
+
+2. A securable beach picnic chest assembly as claimed
+in claim 1, wherein said through opening is centrally
+disposed in the floor of said picnic chest.
+
+3. A securable beach picnic chest assembly compris-
+ing, in combination, a picnic chest having a floor, a
+closable lid, locking means for locking the lid, carrying
+handles, and a centrally-disposed through opening in
+said floor; and a locking spike device including an elon-
+gated body portion extending downward through said
+through opening and having insertion point means at
+the bottom thereof to facilitate insertion of the device
+into sand or soft soil, shoulder means on the top of the
+body portion engaging the floor of said chest, a plural-
+ity of anchoring spikes along said body portion selec-
+tively movable between a retracted position in which
+the device can be inserted into and removed from the
+sand or soft soil and an extended position in which the
+device is anchored in the sand or soft soil, and actuating
+means actuable within said chest when the lid thereof is
+open for selectively moving said anchoring spikes be-
+tween said retracted and extended positions.
+
+4. A locking picnic chest assembly which can be
+secured on sand or soft soil, comprising
+
+a chest having a floor, a closable lid, and locking
+
+means for locking said lid, the floor having a
+through opening; and
+
+a locking spike device extending through said
+
+through opening in the floor of the chest and insert-
+able into soft soil or sand to be selectively anchored
+therein to secure said chest, the locking spike de-
+vice including a hollow body portion having an
+insertion point at a lower end thereof, a peripheral
+wall with a plurality of openings, the peripheral
+wall being dimensioned to fit the through opening
+in said chest floor, and a projecting shoulder at an
+upper end thereof; a slide longitudinally displace-
+able within said body portion between first and
+second positions; a plurality of locking spikes ex-
+tending through respective ones of said openings in
+said peripheral wall, each having a base portion
+pivotally secured to said slide and an anchoring
+spade portion external of said body portion such
+that in the first position of said slide said anchoring

@@ -1,0 +1,143 @@
+5,952,925
+
+7
+
+of dip switches that are recessed in, which prevents the cat
+from accessing them, and accessible from, said side wall of
+said box of said electric device, and are disposed below said
+second pair of dip switches of said electronic circuit of said
+electric device.
+
+4. The collar as defined in claim 3, wherein said electronic
+circuit of said electric device further comprises a fourth pair
+of dip switches that are recessed in, which prevents the cat
+from accessing them, and accessible from, said side wall of
+said box of said electric device, and are disposed below said
+third pair of dip switches of said electronic circuit of said
+electric device.
+
+5. The collar as defined in claim 4, wherein said electronic
+circuit of said electric device further comprises a speaker
+that is disposed on said front wall of said box of said electric
+device, at its approximate center.
+
+6. The collar as defined in claim 5, wherein said electronic
+circuit of said electric device further comprises a volume
+control that is recessed in, which prevents the cat from
+accessing it, and accessible from, said front wall of said box
+of said electric device, and is disposed to one side of, and in
+electrical communication with, said speaker of said elec-
+tronic circuit of said electric device.
+
+7. The collar as defined in claim 6, wherein said electronic
+circuit of said electric device further comprises a frequency
+generator that generates a carrier wave with a frequency, and
+is contained in said box of said electric device, and is in
+electrical communication with said volume control of said
+electronic circuit of said electric device, through an elec-
+tronic switch, and with said first pair of dip switches of said
+electronic circuit of said electric device.
+
+8. The collar as defined in claim 7, wherein said first pair
+of dip switches of said electronic circuit of said electric
+device adjust said frequency of said carrier wave generated
+by said frequency generator of said electronic circuit of said
+electric device, with said frequency being one of 10,000
+cycles/sec., 20,000 cycles/sec., 30,000 cycles/sec., and
+40,000 cycles/sec.
+
+9. The collar as defined in claim 7, wherein said electronic
+circuit of said electric device further comprises a micropro-
+cessor that processes input from said second pair of dip
+switches of said electronic circuit of said electric device,
+said third pair of dip switches of said electronic circuit of
+said electric device, and said fourth pair of dip switches of
+said electronic circuit of said electric device.
+
+10. The collar as defined in claim 9, wherein said micro-
+processor of said electronic circuit of said electric device is
+contained in said box of said electric device, and is in
+electrical communication with said electronic switch of said
+electronic circuit of said electric device, said second pair of
+dip switches of said electronic circuit of said electric device,
+said third pair of dip switches of said electronic circuit of
+said electric device, and said fourth pair of dip switches of
+said electronic circuit of said electric device.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+8
+
+11. The collar as defined in claim 9, wherein said elec-
+tronic circuit of said electric device further comprises a light
+level detector that renders said collar for a cat for warning
+a bird of said presence of said cat inoperative when there is
+not enough light.
+
+12. The collar as defined in claim 11, wherein said light
+level detector of said electronic circuit of said electric device
+is disposed on said front wall of said box of said electric
+device, above said volume control of said electronic circuit
+of said electric device.
+
+13. The collar as defined in claim 11, wherein said light
+level detector of said electronic circuit of said electric device
+is in electrical communication with said microprocessor of
+said electronic circuit of said electric device through a light
+detector switch that is recessed in, which prevents the cat
+from accessing it, and accessible from, said front wall of said
+box of said electric device, and is disposed to the other side
+of said speaker of said electronic circuit of said electric
+device, with said light detector switch of said electronic
+circuit of said electric device selectively operating said light
+level detector of said electronic circuit of said electric
+device.
+
+14. The collar as defined in claim 13, wherein said
+electronic circuit of said electric device further comprises a
+power supply that is contained in said box of said electric
+device, and is in electrical communication with said micro-
+processor of said electronic circuit of said electric device,
+through a power switch that is recessed in, which prevents
+the cat from accessing it, and accessible from, said front wall
+of said box of said electric device, and is disposed below
+said light detector switch of said electronic circuit of said
+electric device.
+
+15. The collar as defined in claim 4, wherein said elec-
+tronic circuit of said electric device produces a wave form
+that has a pulse width, a separation between pulses, and a
+period.
+
+16. The collar as defined in claim 15, wherein said pulse
+width of said wave form is adjusted by said second pair of
+dip switches of said electronic circuit of said electric device,
+with time being one of 1 sec., 2 sec., 4 sec., and 8 sec.
+
+17. The collar as defined in claim 15, wherein said
+separation between pulses of said wave form is adjusted by
+said third pair of dip switches of said electronic circuit of
+said electric device, with time being one of 0.5 sec., 1 sec.,
+2 sec., and 4 sec.
+
+18. The collar as defined in claim 15, wherein said period
+of said wave form is adjusted by said fourth pair of dip
+switches of said electronic circuit of said electric device,
+with time being one of 0.25 min., 0.5 min., 1 min., and 2
+min.

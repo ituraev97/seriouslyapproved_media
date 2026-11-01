@@ -1,0 +1,176 @@
+5,421,089
+
+1
+FORK WITH TIMER
+
+BACKGROUND OF THE INVENTION
+
+1. Field of the Invention
+
+The present invention relates to a fork with timer and
+more particularly pertains to providing a cue to a user
+after an elapsed period of time for indicating that an-
+other bite of food using the fork may be taken with a
+fork with timer.
+
+2. Description of the Prior Art
+
+The use of forks is known in the prior art. More spe-
+cifically, forks heretofore devised and utilized for the
+purpose of eating are known to consist basically of
+familiar, expected and obvious structural configura-
+tions, notwithstanding the myriad of designs encom-
+passed by the crowded prior art which have been devel-
+oped for the fulfillment of countless objectives and
+requirements.
+
+By way of example, U.S. Pat. Des. No. 245,141 to
+Eldridge et al. discloses a fork or other similar article of
+flatware. U.S. Pat. Des. No. 275,167 to Laslo discloses
+a fork. U.S. Pat. Des. No. 337,701 to Wilson discloses a
+fork. U.S. Pat. No. 3,609,865 to Golden discloses a
+fork-like food utensil. U.S. Pat. No. 4,896,423 to Kinsey
+discloses an eating fork. -
+
+While these devices fulfill their respective, particular
+objective and requirements, the aforementioned patents
+do not describe a fork with timer that provides a cue to
+a user after an elapsed period of time for indicating that
+another bite of food using the fork may be taken.
+
+In this respect, the fork with timer according to the
+present invention substantially departs from the con-
+ventional concepts and designs of the prior art, and in
+doing so provides an apparatus primarily developed for
+the purpose of providing a cue to a user after an elapsed
+period of time for indicating that another bite of food
+using the fork may be taken.
+
+Therefore, it can be appreciated that there exists a
+continuing need for new and improved fork with timer
+which can be used for providing a cue to a user after an
+elapsed period of time for indicating that another bite of
+food using the fork may be taken. In this regard, the
+present invention substantially fulfills this need.
+
+SUMMARY OF THE INVENTION
+
+In the view of the foregoing disadvantages inherent
+in the known types of forks now present in the prior art,
+the present invention provides an improved fork with
+timer. As such, the general purpose of the present in-
+vention, which will be described subsequently in
+greater detail, is to provide a new and improved fork
+with timer and method which has all the advantages of
+the prior art and none of the disadvantages.
+
+To attain this, the present invention essentially com-
+prises, in combination, a rigid fork having a head, four
+spaced and aligned tines extended from the head, and a
+handle extended from the head remote from the tines
+for allowing a user a firm grip for taking a bite of food.
+Timer circuitry is connected to the handle of the fork
+and adapted for providing a cue after an elapsed period
+of time for indicating. to user that another bite of food
+using the fork may be taken.
+
+The timer circuitry includes a countdown timer
+
+10
+
+15
+
+20
+
+25
+
+35
+
+40
+
+45°
+
+350
+
+35
+
+adapted for counting down a pre-programmed period of 65
+
+time, transmitting countdown signals in sequence dur-
+ing this period of time, and transmitting an event signal
+when this period of time has elapsed with the count-
+
+2
+
+down timer including automatic reset circuitry for re-
+setting the pre-programmed period of time upon count-
+down completion for subsequent countdown during a
+subsequent period of time. The timer circuitry includes
+decoder/driver circuitry coupled to the countdown
+timer and adapted for receiving the countdown signals
+and event signals during and upon completion of a per-
+iod of time, transmitting a “go” signal when an event
+signal is received, transmitting a “stop” signal when an
+event signal is not received, and transmitting timer dis-
+play signals upon receipt of countdown signals. The
+timer circuitry includes a green light emitting diode and
+ared light emitting diode each coupled to the decoder/-
+driver circuitry with the green light emitting diode
+activated when the “go” signal is received and deacti-
+vated otherwise, the red light emitting diode activated
+when the “stop” signal is received and deactivated
+otherwise, whereby when a period of time has elapsed,
+the green light emitting diode is activated and the red
+light emitting diode is deactivated, and when a period of
+time has not elapsed, the red light emitting diode is
+activated and the green light emitting diode is deacti-
+vated. Lastly, the timer circuitry includes display cir-
+cuitry coupled to the decoder/driver circuitry with the
+display circuitry having a numeric display for transmit-
+ting a visual indication of elapsed time based upon re-
+ceipt of timer display signals.
+
+A replaceable power source is connected to the fork
+and coupled to the timer circuitry with the power
+source adapted for energizing the timer circuitry.
+Lastly, a switch is connected to the handle of the fork
+and coupled between the power source and the timer
+circuitry with the switch having one orientation for
+energizing the timer circuitry and another orientation
+for de-energizing the timer circuitry.
+
+There has thus been outlined, rather broadly, the
+more important features of the invention in order that
+the detailed description thereof that follows may be
+better understood, and in order that the present contri-
+bution to the art may be better appreciated. There are,
+of course, additional features of the invention that will
+be described hereinafter and which will form the sub-
+ject matter of the claims appended hereto.
+
+In this respect, before explaining at least one embodi-
+ment of the invention in detail, it is to be understood
+that the invention is not limited in its application to the
+details of construction and to the arrangements of the
+components set forth in the following description or
+illustrated in the drawings. The invention is capable of
+other embodiments and of being practiced and carried
+out in various ways. Also, it is to be understood that the
+phraseology and terminology employed herein are for
+the purpose of description and should not be regarded
+as limiting.
+
+As such, those skilled in the art will appreciate that
+the conception, upon which this disclosure is based,
+may readily be utilized as a basis for the designing of
+other structures, methods and systems for carrying out
+the several purposes of the present invention. It is im-
+portant, therefore, that the claims be regarded as includ-
+ing such equivalent constructions insofar as they do not
+depart from the spirit and scope of the present inven-
+tion.
+
+Further, the purpose of the foregoing abstract is to
+enable the U.S. Patent and Trademark Office and the
+public generally, and especially the scientists, engineers
+and practitioners in the art who are not familiar with

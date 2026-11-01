@@ -1,0 +1,142 @@
+5,023,850
+
+: 5
+dog which will appear to a human as a response to the
+time, with comic effect.
+
+It will be obvious that many modifications may be
+made to the existing embodiment without departing
+from the spirit and scope of the present invention which
+is defined by the following claims.
+
+What is claimed is:
+
+1. A clock for keeping animal time, wherein animal
+time is defined as human time multiplied by a ratio given
+by the average lifespan of a human divided by the aver-
+age lifespan of a type of animal whereby an animal
+second is equal to one human second divided by said
+ratio, one animal minute is equal to one human minute
+divided by said ratio, one animal hour is equal to one
+human hour divided by said ratio, and one animal day is
+equal to one human day divided by said ratio, said clock
+comprising: ;
+
+a housing;
+
+means for generating a reference frequency;
+
+first means responsive to said generating means for
+
+producing pulses at a rate of sixty pulses per second
+times said ratio;
+
+first clocking means for accumulating said pulses
+
+from said first producing means and producing an
+animal time output signal in animal hours, animal
+minutes and animal seconds;
+
+second means responsive to said generating means for
+
+producing pulses at a rate of sixty pulses per sec-
+ond; and
+
+second clocking means for accumulating said pulses
+
+from said second producing means and producing a
+human time output signal in human hours, human
+minutes and human seconds.
+
+2. The clock as recited in claim 1, further comprising
+first display means responsive to said first clocking
+means for displaying said animal time output signal.
+
+3. The clock as recited in claim 2, further comprising
+second display means responsive to said second clock-
+ing means for displaying said human time output signal.
+
+4. The clock as recited in claim 2, further comprising
+first date means responsive to said first clocking means
+for keeping track of animal days and whereas said first
+
+20
+
+30
+
+40
+
+45
+
+30
+
+55
+
+60
+
+65.
+
+6
+
+display means displays an animal date as a number of
+said animal days in a year of arbitrary length.
+
+5. The clock as recited in claim 1, further comprising
+first display means responsive to both said first clocking
+means and said second clocking means; and means for
+switching from said first clocking means to said second
+clocking means, said first display means displaying al-
+ternatively animal time and human time.
+
+6. A clock for keeping animal time, wherein animal
+time is defined as human time multiplied by a ratio given
+by the average lifespan of a human divided by the aver-
+age lifespan of a type of animal whereby an animal
+second is equal to one human second divided by said
+ratio, one animal minute is equal to one human minute
+divided by said ratio, one animal hour is equal to one
+human hour divided by said ratio, and one animal day is
+equal to one human day divided by said ratio, said clock
+comprising:
+
+a housing;
+
+means for generating a reference frequency;
+
+first means responsive to said generating means for
+
+producing pulses at a rate of sixty pulses per second
+times said ratio;
+
+first clocking means for accumulating said pulses
+
+from said first producing means and producing an
+animal time output signal in animal hours, animal
+minutes and animal seconds;
+
+first display means responsive to said first clocking
+
+means for displaying said animal time output signal;
+and
+
+means for varying said ratio to correspond to average
+
+life spans of different types of animals.
+
+7. The clock as recited in claim 6, further comprising:
+
+second means responsive to said generating means for
+
+producing pulses at a rate of sixty pulses per sec-
+ond; and
+
+second clocking means for accumulating said pulses
+
+from said second producing means and producing a
+human time output signal in human hours, human
+minutes and human seconds.
+
+8. The clock as recited in claim 6, wherein said ratio
+
+can be varied from 5.6 to 8.4.
+* * * * *

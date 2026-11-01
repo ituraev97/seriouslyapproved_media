@@ -1,0 +1,186 @@
+4,441,222
+
+5
+
+gear 51. As the wheel 17 is not caused to rotate a full
+360 degrees, the bar 59 does not interfere with the oper-
+ation of the spur gear 53 and ring gear 51.
+
+When the wheel 17, FIG. 4a, is caused to rotate to
+begin the return path of the bed making apparatus, the
+first cam 55 rides against a third lever 70, FIG. 46,
+having a cam following pin 75 thereon. This third lever
+70 reacts against the rod 37 to operate that first rod 37.
+This third lever 70 is biased to an initial position by
+means of a second spring 69. A fourth lever 63 acts as a
+locking rod and acts as a cam follower which has one
+edge which rides against a second. pin 71 on the third
+lever 70. This fourth lever is biased by the spring 67.
+This lever 63 has a notch 73 cut in that side for catching
+and holding the second cam follower pin 71.
+
+The second cam 60 positioned at the end of the frame-
+work 23 catches against the lip of the third lever 63 at
+the end of the return stroke to release this lever 63 from
+holding the third lever 70. This allows the third lever 70
+to return to its initial position by means of the spring 67,
+and carrying to its initial position also the first lever 37
+and main support bar 31, securing bars 29 et al. with the
+aid of the previously compressed spring 36, FIG. 2,
+which acts against the support bar 31.
+
+The first cam 55 contacts and moves the lever 65 by =
+
+riding against the first pin 75. The dog leg shaped first
+cam 55 is pinned for rotation on one end and biased to
+an initial position by the first spring 57 on the other end.
+When the leg of this cam 55 adjacent the spring 57 rides
+against the first pin 75 on the end of the third lever 65 it
+moves that pin 75 and the lever 70 to ride up the fourth
+lever 63 until the cam follower pin 71 engages the notch
+73 of that fourth lever 63. At the end of the return
+stroke, the pin side of the first cam 55 rides against the
+second pin 75 and is moved aside because of the action
+of the spring 57. It is the engagement of the second cam
+60 with the lip of the fourth lever 63 which releases the
+cam follower pin 71 from the notch 73 and allows the
+
+fourth lever 65 to return to its initial position thereby 49
+
+15
+
+25
+
+35
+
+resetting the securing bar 29 structure against the foot _
+
+of the bed.
+Many changes can be made in the above described
+automatic bed maker apparatus without departing from
+the intent and scope thereof. It is intended therefore that
+the above description and accompanying drawings be
+considered as illustrative and not read in the limiting
+sense.
+What is claimed is:
+1. An automatic bed maker apparatus, comprising:
+a bed frame;
+at least one bed covering;
+means for securing each said bed covering individu-
+ally at the foot of said bed frame, said securing
+means being connected to said bed frame; and
+
+means for extending each said individual bed cover-
+ing up from the bottom of the bed frame while
+simultaneously making it smooth from the center
+toward the sides of said bed frame by helical screw
+action, said extending and making smooth means
+being connected to said securing means.
+
+2. The apparatus of claim 1 wherein said extending
+and making smooth means performs said extending and
+making smooth operations simultaneously.
+
+3. The apparatus of claim 2 including a plurality of
+individual bed coverings wherein said extending and
+making smooth means operates on each said individual
+bed covering simultaneously.
+
+45
+
+50
+
+355
+
+65
+
+6
+
+4. The apparatus of claim 3 wherein said extending
+and making smooth means operates upon said bed cov-
+erings from the foot of the bed frame towards the head
+of the bed frame during.a bed making stroke.
+
+5. The apparatus of claim 4 wherein said extending
+and making smooth means releases said bed coverings at
+the end of said bed making stroke, said extending and
+making smooth means performing a return stroke to
+said bed frame foot free of said bed coverings.
+
+6. The apparatus of claim 5 wherein said securing
+means lifts the ends of said bed coverings at said foot of
+said bed frame for receiving said extending and making
+smooth means between individual bed covering at the
+end of said return stroke.
+
+7. The apparatus of claim 6 wherein said securing
+means includes a plurality of securing bars extending
+horizontally at the foot of said bed frame, each bar
+holding an individual one of said coverings, said secur-
+ing bars being connected to said bed frame.
+
+8. The apparatus of claim 7 wherein said securing
+means includes:
+
+an axle connected to said bed frame and supported
+above the floor at the foot of said bed frame;
+
+a main support bar holding each of said plurality of
+securing bars spaced apart from one another; and
+
+a pair of rotational support bars connected to rotate
+with said axle and holding said main support bar
+and said plurality of securing bars.
+
+9. The apparatus of claim 8 wherein said extending
+
+and making smooth means includes:
+
+an electric motor;
+
+a drive shaft supported across said bed frame being
+connected to be rotated by said electric motor;
+
+a pair of wheels mounted one on each side of said bed
+frame, and being rotated in unison, one off of each
+end of said shaft;
+
+a framework attached to each wheel and being ro-
+tated by the rotation of said wheel;
+
+a plurality of arms attached to each said framework,
+said plurality corresponding to said plural number
+of said securing bars; and
+
+a helical screw roller mounted on each arm and ex-
+tending horizontally to said bed frame.
+
+10. The apparatus of claim 9 wherein said extending
+and making straight means has a rest position with said
+electric motor, said drive shaft and said pair of wheels
+stopped; said each framework extending from its re-
+spective wheel toward the foot of said bed frame in said
+rest position, said each arm extending from said frame-
+work around said foot of said bed frame to about the
+center thereof; and each roller is mounted on a respec-
+tive one of said arms and extending parallel to said bed
+frame.
+
+11. The apparatus of claim 10 wherein each said arm
+is spaced from one another about the same distance as
+said securing bars, said arms being interleaved between
+said securing bars in said rest position.
+
+12. The apparatus of claim 11 wherein said securing
+means also includes a first lever and cam system opera-
+tive off of one of said wheels and connected to rotate
+said axle. —
+
+13. The apparatus of claim 12 wherein said first lever
+and cam system operates to rotate said axle near the end
+of said drawing and straightening means return stroke,
+and to return said axle to its original position at the end
+of said return stroke. ;
+
+14. The apparatus of claim 13 wherein said first lever
+and cam system includes:

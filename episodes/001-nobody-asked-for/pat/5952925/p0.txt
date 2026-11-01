@@ -1,0 +1,75 @@
+United States Patent 15
+
+Secker
+
+US005952925A
+
+5,952,925
+Sep. 14, 1999
+
+[11] Patent Number:
+[45] Date of Patent:
+
+[54] COLLAR FOR A CAT FOR WARNING A
+BIRD OF THE PRESENCE OF THE CAT
+
+[76] Inventor: Gordon P. Secker, 78 Woodland Dr.,
+
+Mastic Beach, N.Y. 11951
+
+[21] Appl. No.: 09/085,581
+[22] Filed: May 28, 1998
+SL] Tent, Ce eee ccceeeeeescesnneeeceenneseennees GO08B 23/00
+[52] U.S. Ch oe. 340/573.2; 119/859; 340/384.2
+[58] Field of Search 0.0. 340/573.2, 573.3,
+340/384.2; 119/859
+[56] References Cited
+U.S. PATENT DOCUMENTS
+3,336,530 8/1967 Sloan et al. wc ceeeeeee 340/573
+3,683,113 8/1972 Stewart ........ . 340/384.2 X
+3,935,443 1/1976 SimMons o.. ee ee ee enee ee 362/108
+3,944,803 3/1976 Chao «+ 362/108
+4,173,201 11/1979 Chao et al. .. 119/859
+4,284,845 8/1981 Belcher .... . 340/384.2
+4,725,993 2/1988 Owen etal. ..... we 340/384.2 X
+4,876,674 10/1989 Parmely et al. . w- 340/573.3 X
+5,067,441 11/1991 Weinstein oe eeeeee 119/721
+5,575,242 11/1996 Davis et al. .. 340/573.3 X
+5,818,354 10/1998 Gentry oo. 340/573 X
+FOREIGN PATENT DOCUMENTS
+04485 8/1986 WIPO oe ee eeeseesereeeeneeee 340/384.2
+
+Primary Examiner—Thomas Mullen
+
+Attorney, Agent, or Firm—Richard L. Miller, P.E.
+[57] ABSTRACT
+
+A collar for wearing by a cat and for warning a bird of the
+presence of the cat that includes a strap for wearing around
+the neck of the cat, and an electric device disposed on the
+strap. An electronic circuit of the electric device includes
+first, second, third, and fourth pairs of dip switches, a
+speaker, a volume control in electrical communication with
+the speaker, a frequency generator in electrical communi-
+cation with the volume control through an electronic switch
+and the first pair of dip switches. The first pair of dip
+switches adjust the frequency of the carrier wave generated
+by the frequency generator. The electronic circuit further
+includes a microprocessor that processes input from the
+second, third, and fourth pairs of dip switches and is in
+electrical communication with the electronic switch, and the
+second, third, and fourth pairs of dip switches. The elec-
+tronic circuit further includes a light level detector in elec-
+trical communication with the microprocessor through a
+light detector switch. The electronic circuit further includes
+a power supply in electrical communication with the micro-
+processor through a power switch. The electronic circuit
+produces a wave form that has a pulse width, a separation
+between pulses, and a period. The pulse width is adjusted by
+the second pair of dip switches, the separation between
+pulses of the wave form is adjusted by the third pair of dip
+switches, and the period of the wave form is adjusted by the
+fourth pair of dip switches.
+
+18 Claims, 1 Drawing Sheet
+

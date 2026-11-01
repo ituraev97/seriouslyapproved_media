@@ -1,0 +1,39 @@
+United States Patent 115
+
+[11] 4,441,222
+
+Tascarella [45] Apr. 10, 1984
+[54] AUTOMATIC BED MAKER FOREIGN PATENT DOCUMENTS
+[76] Inventor: Peter J. Tascarella, 2526 Brookdale 649439 10/1962 Canada ou... sseessceseesesenereesenees 5/488
+Ave., Roslyn, Pa. 19001 Primary Examiner—Alexander Grosz
+Attorney, Agent, or Firm—John J. Simkanich
+[21] Appl. No.: 288,614
+[57] ABSTRACT
+[22] Filed: Jul. 30, 1981 An electrically-operated bed cover making apparatus
+secured to the frame of a bed and operable to cause a
+[51] Tint, C13 cc ceeeeeeee A47C 21/00; A47C 21/02 framework carrying a plurality of arms to be lifted from
+[52] US. Ch. eee cccscstsseeseesesseeenessseseessenenenseteses 5/488 __ the foot of the bed to the head by utilizing a pair of
+[58] Field of Search 5/488, 482, 508; rotating wheels on either side of the bed frame, includ-
+38/143 ing on each of the plurality of arms, a roller having a
+helical screw like rib for engaging and smoothing wrin-
+[56] References Cited kles out of the bed covers from center to sides, a tie
+down structure for securing the covers to the foot of the
+U.S. PATENT DOCUMENTS bed, this tie down structure being pivotable via a lever
+3,228,127 1/1966 Roiland .......sescesseccereseeeeees 38/143 system, such pivoting allowing for an interleaving of
+3,271,889 9/1966 LOmg -reccsscssssserressssssnrnneseeree 38/143 the plurality of arms carried on the framework with the
+3,287,838 4/1966 Mazzolia «........-es-ssssreeesseenee 38/143 securing structure upon the return to the foot of the bed
+
+3,343,183 9/1967 Sanne ....... cc cccsessssssesensenenenes 5/488
+3,581,321 6/1971 Geary ... tas
+
+3,855,655 12/1974 Probst ......
+4,024,591 5/1977 Raczkowski .
+4,042,985 8/1977 Raczkowski vee
+4,305,167 12/1981 Bargados .......cscccsesseccseeeeees 5/488
+
+of these arms, and a limit switch type control for auto-
+matically directing the electrical operation and limits of
+movement of the apparatus.
+
+15 Claims, 5 Drawing Figures
+

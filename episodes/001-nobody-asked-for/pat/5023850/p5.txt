@@ -1,0 +1,169 @@
+5,023,850
+
+3
+
+FIG. 2 is a diagram of circuitry for use in converting
+a watch that uses a 60 hertz reference frequency for
+keeping time, the frequency of ordinary household cur-
+rent. Other sources of timing, such as quartz crystals,
+can be used to provide a different reference frequency.
+The circuit shown uses a source of direct current volt-
+age, approximately 4 volts, provided by rectifier 20
+upon receiving ten volts alternating current from a
+source (not shown). The output 22 of rectifier 20 is fed
+to a standard timer integrated circuit 24, such as an
+NE555 manufactured by Signetics, National Semicon-
+ductor and others.
+
+The timer integrated circuit 24 is composed of two
+internal comparators and an internal flip flop switch and
+functions in the circuit shown as an oscillator by alter-
+natingly charging and discharging a capacitor 26. Pin 28
+of timer 24 goes to ground; pin 30 is a preset voltage
+feeding to capacitor 26. Pin 32 is the logic output of the
+timer, alternating between high and low, and is con-
+nected to a clock 34 that normally keeps track of the
+passage of time based on a 60 hertz input reference
+signal, such as that made by Radio Shack, Catalog No.
+63-754, wherein pin 32 of timer 24 would be fed to pin
+number 25 of that clock’s integrated circuit. Pin 36 is
+connected to the supply, logic high, voltage to make the
+timer oscillate.
+
+The DC supply voltage is dropped across two resis-
+tors: a variable resistor 38 and a nonvariable resistor 40.
+Pin 42 is the low voltage threshold of timer 24's internal
+comparator and is connected to capacitor 26, Pin 44
+discharges a capacitor internal to timer 24 which volt-
+age is between that fed to pin 42 and to pin 46, dropped
+across resistors 38 and 40. The voltage to pin 46 is the
+timer supply voltage and may be varied depending on
+the setting of variable resistor 38. A smaller voltage
+drop across resistor 38 produces a higher multiple of the
+reference voltage.
+
+In the preferred embodiment, a switch 48 is located
+between timer 24 and clock 34 so that clock 34 can run
+at human time rather than at a multiple of human time.
+Variable resistor may be adjustable externally so that a
+watch embodying the present invention can be adapted
+for different animals or breeds of animals.
+
+It will be obvious that a geared watch having an
+additional gear for moving the hands of the watch at a
+higher rate of speed can also be fashioned in lieu of an
+electronic watch, however, it is preferable to be able to
+backfit existing clock mechanisms and to allow for the
+dual or alternate display of human and animal time. It is
+also preferable to display animal time in analog format,
+such as with moving “hands” and to display human time
+in digital format.
+
+In the specific illustration given, Resistor 38 is prefer-
+ably 100 kOhms, resistor 40 is one kOhm, capacitor 26
+is 0.022 microfarads, timer 24 is an NE555, connected to
+a Radio shack digital alarm clock catalog #63-754,
+having a 10 V A C input rectified to 4 VDC. Variable
+resistor 38, having a value of 1000 kOhms, will allow, in
+this circuit, a variation of plus or minus 20 percent about
+a multiplier of 7 on the reference voltage, or in the
+range 5.6 to 8.4. It will be apparent to those skilled in
+the art that broader ranges are possible.
+
+FIG. 3 shows an example of a clock or a wrist watch
+60 according to one embodiment of the present inven-
+tion. Clock 60 has a clock face 62 with numerals one
+through twelve as in a conventional clock face. The
+time and date are displayed in two ways. There is an
+analog display of time, using the usual convention of
+
+20
+
+25
+
+30
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+4
+
+two hands, one long hand 64 for minutes and one short
+hand 66 for hours, for animal time and there is a digital
+display of time at 68 in human time. The date is indi-
+cated in animal days at 70 and in human days at 72, just
+below the display of human time. Preferably, as shown
+in FIG. 3, the animal date would simply be designated
+“DD” for Dog Days (as shown in FIG. 3) or “CD” for
+cat days followed by the number of days since the most
+recent dog or cat ‘“‘new year”, respectively. Each ani-
+mal year has an arbitrary number of animals days in it.
+A dog year could have 365 dog days in it for seven new
+years in a 365 human day year. For example, in the case
+of dog time, June 14th at approximately 3:08 PM in
+human days would be Dog Day 58 (after the third “new
+year” in that calendar year) at approximately 9:56 AM.
+Of course, the time and date can be set using conven-
+tional means such as a stem 72.
+
+FIG. 4 shows a different wrist watch, generally indi-
+cated by the reference character 80. Clock 80 also has a
+face 82, a long hand 84 and a short hand 86 for display-
+ing, in usual analog fashion, the time, and a display 88
+for the date. Clock 80 has two pushbuttons 90 and 92 on
+the side. Pushbutton 90 changes the display of human
+time and date to animal time and date and back again.
+Pushbutton 92 changes the rate at which hands 84 and
+86 move-from the rate of human time to the rate of
+animal time. If a human wearer wants to keep tract of
+animal time, he or she can simply press pushbutton 90.
+If, however, a wearer is displaying human time and
+wants human time to pass faster, say during a business
+meeting, he or she may simply press pushbutton 92 and
+hands 84 and 86 will simply turn at animal rate, but the
+display will not shift to animal time. Watch 80 is prefer-
+ably one which has liquid crystal simulated hands to
+shift from human to animal time more easily.
+
+FIG. 5 shows the back of a wristwatch, generally
+indicated by reference character 100, which has a low-
+profile dial 102 with a cut-out portion 104 and markings
+106. Dial 102 rotates to allow the user to change the
+multiple at which watch 100 runs with respect to human
+time. Dial 102 is in operative connection with a variable
+resistor inside watch 100, such as variable resistor 38 of
+FIG. 2.
+
+FIG. 6 shows a block diagram of a circuit for a digital
+clock for keeping time at both a human and an animal
+rate. The clock has a quartz crystal that generates a
+frequency 110 at a multiple of the frequency required
+for the clock to operate. The frequency cycles are
+shaped into pulses by a pulse shaper 112 and fed to a
+first pulse counter 114 that counts out a multiple of 60
+pulses per second for keeping tract of animal time,
+which for dogs is seven times human time or 420 pulses
+per second. A first clocking system 116 keeps track of
+dog time, in this example; a second clocking system 118
+separated from first clocking system 116 by a second
+pulse counter 120 that reduces the pulse rate fed to
+second clocking system 118 to 60 per second keeps tract
+of time at a human rate. First clocking system 116 has a
+display 124 of dog time, in hours minutes and seconds,
+and the dog date. Second clocking system 118 has a
+display 126 of human time, in hours, minutes, and sec-
+onds, and the human date. When first clocking system
+116 counts sufficient pulses to increment the hour, a
+chirp alarm 122 enunciates at a frequency that is prefer-
+ably audible only to the animal, such as 25 kHz for dogs.
+In a watch strapped to the paw of a dog, for example,
+this chirp alarm is likely to produce a response from the

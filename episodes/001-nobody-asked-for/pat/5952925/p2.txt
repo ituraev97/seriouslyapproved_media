@@ -1,0 +1,185 @@
+5,952,925
+
+1
+
+COLLAR FOR A CAT FOR WARNING A
+BIRD OF THE PRESENCE OF THE CAT
+
+BACKGROUND OF THE INVENTION
+
+1. Field of the Invention
+
+The present invention relates to a collar for a cat. More
+particularly, the present invention relates to a collar for a cat
+for warning a bird of the presence of the cat.
+
+2. Description of the Prior Art
+
+Numerous innovations for pet related devices have been
+provided in the prior art that will be described. Even though
+these innovations may be suitable for the specific individual
+purposes to which they address, however, they differ from
+the present invention.
+
+FOR EXAMPLE, U.S. Pat. No. 3,935,443 to Simmons
+teaches an animal collar of translucent plastic material
+including a plurality of electric lamps secured along a
+predetermined length of the collar including a battery circuit
+means for supplying electric energy to the lamps. A trans-
+lucent leash having spaced lamps therein and terminating at
+one end in a battery equipped supply handle and a snap
+means for engaging a ring on the collar. An alternate form
+of collar shows a lamp source of illumination connected to
+a plurality of translucent tubing of various lengths, contain-
+ing light transmitting optical fiberglass filaments for radiat-
+ing light from the collar including a connection for a battery
+energy supply.
+
+ANOTHER EXAMPLE, U.S. Pat. No. 3,944,803 to Chao
+teaches an illuminated safety device worn on the collar of a
+pet or a belt of a person at night time enabling a driver of an
+automobile to observe the person or animal. The safety
+device comprises a lantern tape communicating with a
+power source, wherein the lantern tape and power source are
+affixed to the belt or collar. The lantern tape comprises a
+plurality of colored light bulbs sealed between two trans-
+parent flexible plastic strips. The electrical circuit can be
+designed for continuous illumination or a flashing of the
+light bulbs.
+
+STILL ANOTHER EXAMPLE, U.S. Pat. No. 4,173,201
+to Chao et al. teaches a collar for being worn by a dog, cat
+or other domesticated pet; the collar including a row of small
+electric lamps studded around the collar, so as to be visible
+in darkness or subdued daylight; the circuitry including a
+replaceable dry cell battery and a manually operated switch
+mounted on the collar.
+
+FINALLY, YET ANOTHER EXAMPLE, USS. Pat. No.
+5,067,441 to Weinstein teaches an animal restraining system
+that includes a radio frequency transmitter adapted to be
+located adjacent an area in which the animal is to be
+restrained, a transmitting antenna, and a collar unit worn by
+the animal. The collar unit has a multiplicity of radio signal
+receivers each having a highly directional receiving antenna
+with the receiving antennas of the multiplicity of receivers
+having their axes of maximum sensitivity oriented in dif-
+ferent directions, and an analyzer for determining a com-
+posite of the field strengths of the radio signals received by
+the receiving antennas, and detecting when the composite
+field strength at the receiving antennas falls below prede-
+termined values. When the detected composite field strength
+falls below a first predetermined value, a first warning signal
+is generated to the animal, and a second and different
+warning signal is generated when the composite field
+strength falls below a second predetermined value.
+
+It is apparent that numerous innovations for pet related
+devices have been provided in the prior art that are adapted
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+2
+
+to be used. Furthermore, even though these innovations may
+be suitable for the specific individual purposes to which they
+address, however, they would not be suitable for the pur-
+poses of the present invention as heretofore described.
+
+SUMMARY OF THE INVENTION
+
+ACCORDINGLY, AN OBJECT of the present invention
+is to provide a collar for a cat for warning a bird of the
+presence of the cat that avoids the disadvantages of the prior
+art.
+
+ANOTHER OBJECT of the present invention is to pro-
+vide a collar for a cat for warning a bird of the presence of
+the cat that is simple and inexpensive to manufacture.
+
+STILL ANOTHER OBJECT of the present invention is to
+provide a collar for a cat for warning a bird of the presence
+of the cat that is simple to use.
+
+BRIEFLY STATED, YET ANOTHER OBJECT of the
+present invention is to provide a collar for wearing by a cat
+and for warning a bird of the presence of the cat that includes
+a strap for wearing around the neck of the cat, and an electric
+device disposed on the strap. An electronic circuit of the
+electric device includes first, second, third, and fourth pairs
+of dip switches, a speaker, a volume control in electrical
+communication with the speaker, a frequency generator in
+electrical communication with the volume control through
+an electronic switch and the first pair of dip switches. The
+first pair of dip switches adjust the frequency of the carrier
+wave generated by the frequency generator. The electronic
+circuit further includes a microprocessor that processes input
+from the second, third, and fourth pairs of dip switches and
+is in electrical communication with the electronic switch,
+and the second, third, and fourth pairs of dip switches. The
+electronic circuit further includes a light level detector in
+electrical communication with the microprocessor through a
+light detector switch. The electronic circuit further includes
+a power supply in electrical communication with the micro-
+processor through a power switch. The electronic circuit
+produces a wave form that has a pulse width, a separation
+between pulses, and a period. The pulse width is adjusted by
+the second pair of dip switches, the separation between
+pulses of the wave form is adjusted by the third pair of dip
+switches, and the period of the wave form is adjusted by the
+fourth pair of dip switches.
+
+The novel features which are considered characteristic of
+the present invention are set forth in the appended claims.
+The invention itself, however, both as to its construction and
+its method of operation, together with additional objects and
+advantages thereof, will be best understood from the fol-
+lowing description of the specific embodiments when read
+and understood in connection with the accompanying draw-
+ing.
+
+BRIEF DESCRIPTION OF THE DRAWING
+
+The figures of the drawing are briefly described as fol-
+lows:
+
+FIG. 1 is a diagrammatic perspective view of the present
+invention worn by a cat and warning a bird of the presence
+of the cat;
+
+FIG. 2 is a diagrammatic perspective view of the present
+invention;
+
+FIG. 3 is block diagram of the circuit of the present
+invention; and
+
+FIG. 4 is wave diagram of the audio output from the
+circuit of the present invention shown in FIG. 3.
+
+LIST OF REFERENCE NUMERALS UTILIZED
+IN THE DRAWING
+
+10 collar for a cat for warning a bird of the presence of the
+cat of the present invention
