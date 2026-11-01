@@ -1,1 +1,69 @@
-{"used": [{"number": 5727565, "title": "Kissing shield", "episode": "000-test"}]}
+{
+ "used": [
+  {
+   "number": 5727565,
+   "title": "Kissing shield",
+   "episode": "000-test"
+  },
+  {
+   "number": 5023850,
+   "title": "Clock for keeping time at a rate other than human time",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 885802,
+   "title": "Toy Mask",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 4969317,
+   "title": "Animal hat apparatus and method",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 5421089,
+   "title": "Fork with timer",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 3735423,
+   "title": "Hat with ventilating means",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 4436214,
+   "title": "Anti-theft picnic device",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 5952925,
+   "title": "Collar for a cat for warning a bird of the presence of the cat",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 5675318,
+   "title": "Graffiti prevention apparatus",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 4437430,
+   "title": "Method and apparatus for training cats to use a toilet bowl",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 5755186,
+   "title": "Bird predation deterrent shield for a cat",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 4441222,
+   "title": "Automatic bed maker",
+   "episode": "001-nobody-asked-for"
+  },
+  {
+   "number": 1913083,
+   "title": "Beauty Mask",
+   "episode": "001-nobody-asked-for"
+  }
+ ]
+}

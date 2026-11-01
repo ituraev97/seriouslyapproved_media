@@ -3,7 +3,7 @@ Status: todo | done YYYY-MM-DD | skip (reason). Formats rotate by weekday (RUNBO
 
 | # | Format | Topic | Status |
 |---|---|---|---|
-| 001 | THE SHELF | Real Patents Nobody Asked For (pilot, mixed themes) | todo |
+| 001 | THE SHELF | Real Patents Nobody Asked For (pilot, mixed themes) | done 2026-11-02 |
 | 002 | THE SHELF | Patents for Your Cat | todo |
 | 003 | ONE PATENT | The Kissing Shield (1998) | todo |
 | 004 | THE SHELF | Inventions for Very Lazy People | todo |
