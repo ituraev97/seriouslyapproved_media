@@ -11,8 +11,11 @@ const pg = await b.newPage({ viewport: { width: tl.W, height: tl.H } });
 const errs = []; pg.on("pageerror", e => errs.push(String(e)));
 await pg.goto("file://" + path.join(here, "frame.html")); await pg.evaluate(([t, f]) => init(t, f), [tl, figs]);
 const still = process.argv[4] !== undefined; const out = still ? `${ep}/stills` : `${ep}/frames`; fs.mkdirSync(out, { recursive: true });
-const times = []; if (still) for (let t = +process.argv[4]; t < Math.min(+process.argv[5], tl.T); t += +process.argv[6]) times.push(t); else for (let i = 0; i < Math.round(tl.T * FPS); i++) times.push(i / FPS);
+const only = (process.env.ONLY_SHOTS || "").split(",").filter(Boolean).map(Number);
+const times = []; if (only.length && !still) { for (let i = 0; i < Math.round(tl.T * FPS); i++) { const t = i / FPS; const s = tl.shots.find(s => t >= s.t0 && t < s.t1) || tl.shots.at(-1); if (only.includes(s.i)) times.push(t); } }
+else if (still) for (let t = +process.argv[4]; t < Math.min(+process.argv[5], tl.T); t += +process.argv[6]) times.push(t); else for (let i = 0; i < Math.round(tl.T * FPS); i++) times.push(i / FPS);
 let i = 0; for (const t of times) { await pg.evaluate((t) => render(t), t);
   if (errs.length) { console.error("page error at t=" + t + ": " + errs[0]); process.exit(1); }
-  await pg.screenshot({ path: `${out}/${still ? "s" + t.toFixed(1) : "f" + String(i).padStart(5, "0")}.jpg`, type: "jpeg", quality: 92 }); i++; }
+  const fi = only.length ? Math.round(t * FPS) : i;
+  await pg.screenshot({ path: `${out}/${still ? "s" + t.toFixed(1) : "f" + String(fi).padStart(5, "0")}.jpg`, type: "jpeg", quality: 92 }); i++; }
 await b.close(); console.log("frames", i);

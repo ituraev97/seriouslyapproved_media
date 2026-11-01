@@ -72,7 +72,7 @@ function hookHTML(s){return (s||'').replace(/\[(.+?)\]/g,'<i>$1</i>').replace(/\
 function figHTML(key,vb){const s=FIGS[key];if(!s)throw new Error('missing fig '+key);return `<div class="fig">${vb?s.replace(/viewBox="[^"]+"/,`viewBox="${vb}" preserveAspectRatio="xMidYMid meet"`):s}</div>`}
 function svgMap(c){const svg=c.querySelector('svg');const r=svg.getBoundingClientRect(),cr=c.getBoundingClientRect();const vb=svg.getAttribute('viewBox').split(' ').map(Number);
  const sc=Math.min(r.width/vb[2],r.height/vb[3]),ox=r.left-cr.left+(r.width-vb[2]*sc)/2,oy=r.top-cr.top+(r.height-vb[3]*sc)/2;return (x,y)=>[ox+(x-vb[0])*sc,oy+(y-vb[1])*sc]}
-function fitDt(c){const d=c.querySelector('.dt');if(!d)return;const doc=c.querySelector('#doc');const maxW=doc.clientWidth-120;let fs=96;d.style.fontSize=fs+'px';while(d.scrollWidth>maxW&&fs>36){fs-=2;d.style.fontSize=fs+'px';}}
+function fitDt(c){const d=c.querySelector('.dt');if(!d)return;const doc=c.querySelector('#doc');const maxW=doc.clientWidth-120-(c.querySelector('.num')?170:0);let fs=96;d.style.fontSize=fs+'px';const w=()=>{d.style.display='inline-block';const x=d.getBoundingClientRect().width;d.style.display='';return x};while(w()>maxW&&fs>36){fs-=2;d.style.fontSize=fs+'px';}}
 function buildShot(s){
  const c=document.getElementById('card'); state={s}; const num=s.num||TL.num||'';
  document.getElementById('disc').textContent=num&&s.g!=='title'?`Drawing/text: U.S. Patent ${num.replace('US ','')} (public record)`:'';

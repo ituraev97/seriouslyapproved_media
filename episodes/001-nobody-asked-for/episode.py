@@ -42,7 +42,7 @@ LINES = [
  ("Somebody invented it. Somebody filed it. And somebody at the patent office said yes. Today, twelve real patents. Nobody asked for any of them.", dict(g="title", kicker="THE SHELF · FILE 001", title="12 Real Patents|Nobody Asked For", lines=["Real drawings. Real quotes.", "Real approval stamps."], stamp=True, at=6.5, **INTRO), "calm"),
 
  # ---------- 1 · dog watch ----------
- ("Number one.", chap(1, DOG, "Clock for|Dog Time", ["US 5,023,850", "Filed 1990 · Issued 1991"]), "punch"),
+ ("Number one.", chap(1, DOG, "Clock for|Keeping Time", ["US 5,023,850", "Filed 1990 · Issued 1991"]), "punch"),
  ("The official title is: Clock for keeping time at a rate other than human time.", quote(DOG, "Clock for keeping time at a rate other than human time", "other than human time", "US 5,023,850 · title"), "calm"),
  ("The idea is simple. A dog lives about eleven years. A human lives about seventy-seven. So every one of our years is seven dog years.", fig(DOG, "dog1", "1", draw=False), "calm"),
  ("If the watch is set for dog time, the hands move about the watch face seven times faster than the rate of human time.", quote(DOG, "If the watch is set for dog time, the hands will move about the watch face seven times faster than the rate of human time.", "seven times faster", "US 5,023,850 · description"), "calm"),
