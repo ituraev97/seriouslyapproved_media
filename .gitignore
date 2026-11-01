@@ -1,0 +1,16 @@
+node_modules/
+__pycache__/
+episodes/*/frames/
+episodes/*/stills/
+episodes/*/vo/
+episodes/*/pat/**/*.tif
+episodes/*/pat/**/*.png
+episodes/*/*.wav
+episodes/*/*.mp4
+episodes/*/shorts/*/frames/
+episodes/*/shorts/*/stills/
+episodes/*/shorts/*/vo/
+episodes/*/shorts/*/*.wav
+episodes/*/shorts/*/*.mp4
+*.mp4
+*.wav

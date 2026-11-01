@@ -1,0 +1,651 @@
+{
+ "T": 61.23,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 3.968,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.417
+    ]
+   ],
+   "g": "fig",
+   "fig": "f1"
+  },
+  {
+   "t0": 3.968,
+   "t1": 9.764,
+   "i": 1,
+   "segs": [
+    [
+     3.968,
+     5.312
+    ],
+    [
+     5.592,
+     6.466
+    ],
+    [
+     6.746,
+     9.413
+    ]
+   ],
+   "g": "fig",
+   "fig": "f1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "FRAME",
+     150,
+     430,
+     -210,
+     -70
+    ],
+    [
+     "HANDLE",
+     283,
+     690,
+     60,
+     40
+    ],
+    [
+     "THIN FILM",
+     300,
+     390,
+     70,
+     -150
+    ]
+   ]
+  },
+  {
+   "t0": 9.764,
+   "t1": 11.666,
+   "i": 2,
+   "segs": [
+    [
+     9.764,
+     11.215
+    ]
+   ],
+   "g": "fig",
+   "fig": "f2",
+   "figno": "2"
+  },
+  {
+   "t0": 11.666,
+   "t1": 14.635,
+   "i": 3,
+   "segs": [
+    [
+     11.666,
+     12.967
+    ],
+    [
+     13.387,
+     14.134
+    ]
+   ],
+   "g": "fig",
+   "fig": "f2",
+   "figno": "2",
+   "draw": false,
+   "vb": "10 150 380 380",
+   "ring": [
+    128,
+    300,
+    150
+   ]
+  },
+  {
+   "t0": 14.635,
+   "t1": 16.608,
+   "i": 4,
+   "segs": [
+    [
+     14.635,
+     16.107
+    ]
+   ],
+   "g": "stamp",
+   "title": "KISSING|SHIELD",
+   "filed": "MAY 26, 1995",
+   "date": "MAR. 17, 1998"
+  },
+  {
+   "t0": 16.608,
+   "t1": 20.823,
+   "i": 5,
+   "segs": [
+    [
+     16.608,
+     19.168
+    ],
+    [
+     19.448,
+     20.472
+    ]
+   ],
+   "g": "quote",
+   "q": "An apparatus for preventing the exchange of microorganisms between two persons engaged in the act of kissing",
+   "hit": "",
+   "src": "US 5,727,565 \u00b7 claim 1",
+   "hide": true
+  },
+  {
+   "t0": 20.823,
+   "t1": 28.89,
+   "i": 6,
+   "segs": [
+    [
+     20.823,
+     28.439
+    ]
+   ],
+   "g": "quote",
+   "q": "An apparatus for preventing the exchange of microorganisms between two persons engaged in the act of kissing",
+   "hit": "engaged in the act of kissing",
+   "src": "US 5,727,565 \u00b7 claim 1",
+   "typed": false
+  },
+  {
+   "t0": 28.89,
+   "t1": 31.666,
+   "i": 7,
+   "segs": [
+    [
+     28.89,
+     31.215
+    ]
+   ],
+   "g": "quote",
+   "q": "It can be used especially by a politician who kisses babies.",
+   "hit": "a politician who kisses babies",
+   "src": "US 5,727,565 \u00b7 col. 2",
+   "hide": true
+  },
+  {
+   "t0": 31.666,
+   "t1": 34.94,
+   "i": 8,
+   "segs": [
+    [
+     31.666,
+     34.439
+    ]
+   ],
+   "g": "quote",
+   "q": "It can be used especially by a politician who kisses babies.",
+   "hit": "a politician who kisses babies",
+   "src": "US 5,727,565 \u00b7 col. 2",
+   "typed": false
+  },
+  {
+   "t0": 34.94,
+   "t1": 38.302,
+   "i": 9,
+   "segs": [
+    [
+     34.94,
+     36.135
+    ],
+    [
+     36.415,
+     37.951
+    ]
+   ],
+   "g": "quote",
+   "q": "It can be used especially by a politician who kisses babies.",
+   "hit": "a politician who kisses babies",
+   "src": "US 5,727,565 \u00b7 col. 2",
+   "typed": false
+  },
+  {
+   "t0": 38.302,
+   "t1": 40.317,
+   "i": 10,
+   "segs": [
+    [
+     38.302,
+     39.966
+    ]
+   ],
+   "g": "fig",
+   "fig": "f4",
+   "figno": "4"
+  },
+  {
+   "t0": 40.317,
+   "t1": 44.511,
+   "i": 11,
+   "segs": [
+    [
+     40.317,
+     42.173
+    ],
+    [
+     42.673,
+     44.06
+    ]
+   ],
+   "g": "fig",
+   "fig": "f4",
+   "figno": "4",
+   "draw": false,
+   "vb": "330 290 400 400"
+  },
+  {
+   "t0": 44.511,
+   "t1": 52.618,
+   "i": 12,
+   "segs": [
+    [
+     44.511,
+     46.751
+    ],
+    [
+     47.251,
+     49.043
+    ],
+    [
+     49.543,
+     52.167
+    ]
+   ],
+   "g": "stamp",
+   "big": true,
+   "nostamp": true,
+   "title": "KISSING|SHIELD",
+   "filed": "MAY 26, 1995",
+   "date": "MAR. 17, 1998"
+  },
+  {
+   "t0": 52.618,
+   "t1": 53.951,
+   "i": 13,
+   "segs": [
+    [
+     52.618,
+     53.45
+    ]
+   ],
+   "g": "stamp",
+   "big": true,
+   "at": 0.05,
+   "title": "KISSING|SHIELD",
+   "filed": "MAY 26, 1995",
+   "date": "MAR. 17, 1998"
+  },
+  {
+   "t0": 53.951,
+   "t1": 61.23,
+   "i": 14,
+   "segs": [
+    [
+     53.951,
+     57.279
+    ]
+   ],
+   "g": "fig",
+   "fig": "f1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.174,
+   "txt": "Guess what it's"
+  },
+  {
+   "t0": 3.174,
+   "t1": 3.417,
+   "txt": "for."
+  },
+  {
+   "t0": 3.968,
+   "t1": 5.312,
+   "txt": "A heart-shaped frame."
+  },
+  {
+   "t0": 5.592,
+   "t1": 6.466,
+   "txt": "On a handle."
+  },
+  {
+   "t0": 6.746,
+   "t1": 7.457,
+   "txt": "With a thin,"
+  },
+  {
+   "t0": 7.457,
+   "t1": 8.82,
+   "txt": "flexible film stretched"
+  },
+  {
+   "t0": 8.82,
+   "t1": 9.413,
+   "txt": "across it."
+  },
+  {
+   "t0": 9.764,
+   "t1": 10.378,
+   "txt": "You hold it"
+  },
+  {
+   "t0": 10.378,
+   "t1": 10.936,
+   "txt": "up to your"
+  },
+  {
+   "t0": 10.936,
+   "t1": 11.215,
+   "txt": "lips."
+  },
+  {
+   "t0": 11.666,
+   "t1": 12.29,
+   "txt": "And then you"
+  },
+  {
+   "t0": 12.29,
+   "t1": 12.967,
+   "txt": "kiss someone."
+  },
+  {
+   "t0": 13.387,
+   "t1": 14.134,
+   "txt": "Through it."
+  },
+  {
+   "t0": 14.635,
+   "t1": 15.371,
+   "txt": "It's called the"
+  },
+  {
+   "t0": 15.371,
+   "t1": 16.107,
+   "txt": "Kissing Shield."
+  },
+  {
+   "t0": 16.608,
+   "t1": 17.607,
+   "txt": "Every patent has"
+  },
+  {
+   "t0": 17.607,
+   "t1": 18.481,
+   "txt": "to say exactly"
+  },
+  {
+   "t0": 18.481,
+   "t1": 19.168,
+   "txt": "what it is."
+  },
+  {
+   "t0": 19.448,
+   "t1": 20.472,
+   "txt": "This one says:"
+  },
+  {
+   "t0": 20.823,
+   "t1": 21.983,
+   "txt": "An apparatus for"
+  },
+  {
+   "t0": 21.983,
+   "t1": 23.651,
+   "txt": "preventing the exchange"
+  },
+  {
+   "t0": 23.651,
+   "t1": 24.957,
+   "txt": "of microorganisms,"
+  },
+  {
+   "t0": 24.957,
+   "t1": 26.335,
+   "txt": "between two persons"
+  },
+  {
+   "t0": 26.335,
+   "t1": 27.351,
+   "txt": "engaged in the"
+  },
+  {
+   "t0": 27.351,
+   "t1": 28.439,
+   "txt": "act of kissing."
+  },
+  {
+   "t0": 28.89,
+   "t1": 29.77,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 29.77,
+   "t1": 30.649,
+   "txt": "names an ideal"
+  },
+  {
+   "t0": 30.649,
+   "t1": 31.215,
+   "txt": "customer."
+  },
+  {
+   "t0": 31.666,
+   "t1": 32.41,
+   "txt": "Especially,"
+  },
+  {
+   "t0": 32.41,
+   "t1": 33.492,
+   "txt": "a politician who"
+  },
+  {
+   "t0": 33.492,
+   "t1": 34.439,
+   "txt": "kisses babies."
+  },
+  {
+   "t0": 34.94,
+   "t1": 35.784,
+   "txt": "That's not a"
+  },
+  {
+   "t0": 35.784,
+   "t1": 36.135,
+   "txt": "joke."
+  },
+  {
+   "t0": 36.415,
+   "t1": 37.155,
+   "txt": "That's in the"
+  },
+  {
+   "t0": 37.155,
+   "t1": 37.951,
+   "txt": "official text."
+  },
+  {
+   "t0": 38.302,
+   "t1": 39.079,
+   "txt": "There's even a"
+  },
+  {
+   "t0": 39.079,
+   "t1": 39.966,
+   "txt": "balloon version."
+  },
+  {
+   "t0": 40.317,
+   "t1": 41.059,
+   "txt": "With a printed"
+  },
+  {
+   "t0": 41.059,
+   "t1": 41.802,
+   "txt": "message in the"
+  },
+  {
+   "t0": 41.802,
+   "t1": 42.173,
+   "txt": "middle."
+  },
+  {
+   "t0": 42.673,
+   "t1": 44.06,
+   "txt": "Practice safe kissing."
+  },
+  {
+   "t0": 44.511,
+   "t1": 45.257,
+   "txt": "It was filed"
+  },
+  {
+   "t0": 45.257,
+   "t1": 46.751,
+   "txt": "in nineteen ninety-five."
+  },
+  {
+   "t0": 47.251,
+   "t1": 48.301,
+   "txt": "A patent examiner"
+  },
+  {
+   "t0": 48.301,
+   "t1": 49.043,
+   "txt": "reviewed it."
+  },
+  {
+   "t0": 49.543,
+   "t1": 50.417,
+   "txt": "And in nineteen"
+  },
+  {
+   "t0": 50.417,
+   "t1": 51.175,
+   "txt": "ninety-eight,"
+  },
+  {
+   "t0": 51.175,
+   "t1": 52.167,
+   "txt": "the answer was..."
+  },
+  {
+   "t0": 52.618,
+   "t1": 53.45,
+   "txt": "Approved."
+  },
+  {
+   "t0": 53.951,
+   "t1": 54.359,
+   "txt": "So now,"
+  },
+  {
+   "t0": 54.359,
+   "t1": 55.06,
+   "txt": "when you see"
+  },
+  {
+   "t0": 55.06,
+   "t1": 55.352,
+   "txt": "this,"
+  },
+  {
+   "t0": 55.352,
+   "t1": 56.461,
+   "txt": "you'll know exactly"
+  },
+  {
+   "t0": 56.461,
+   "t1": 57.279,
+   "txt": "what it's for."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 3.968
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 9.764
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 11.666
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 14.635
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 16.608
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 20.823
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 28.89
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 31.666
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 34.94
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 38.302
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 40.317
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 44.511
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 52.618
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 53.951
+  }
+ ],
+ "hook": "GUESS WHAT<br>THIS IS [FOR]",
+ "hook2": "THE [KISSING]<br>SHIELD \u00b7 1998",
+ "hookSwitch": 4,
+ "num": "US 5,727,565"
+}
