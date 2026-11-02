@@ -12,7 +12,7 @@ def get(url, tries=4):
     for k in range(tries):
         try:
             with urllib.request.urlopen(url, timeout=120) as r: data = r.read()
-            if len(data) > 300 or not data.startswith(b"<html"): return data
+            if len(data) > 300 or (data and not data.startswith(b"<html")): return data
         except Exception as e: err = e
         time.sleep(4 * (k + 1))
     raise SystemExit(f"failed: {url}")
@@ -21,8 +21,19 @@ cands.sort(key=lambda d: (not d[1].isdigit(), (int(d[1]) - d[0]) if d[1].isdigit
 name = f"{N:08d}.tif"; hit = None
 for _, _, ident in cands:
     cp = os.path.join(cache, ident + ".json")
-    if not os.path.exists(cp): open(cp, "wb").write(get(f"https://archive.org/metadata/{ident}"))
-    files = [f["name"] for f in json.load(open(cp)).get("files", [])]
+    ix = os.path.join(os.path.dirname(cache), "idx", ident + ".txt")
+    if os.path.exists(ix):
+        files = open(ix).read().split("\n")
+        m = [f for f in files if f.endswith("/" + name)]
+        if m: hit = (ident, m[0]); break
+        continue
+    try:
+        if not os.path.exists(cp) or os.path.getsize(cp) == 0: data = get(f"https://archive.org/metadata/{ident}", 2); tmp = cp + f".{os.getpid()}"; open(tmp, "wb").write(data); os.replace(tmp, cp)
+        files = [f["name"] for f in json.load(open(cp)).get("files", [])]
+    except (SystemExit, ValueError):
+        print(f"skip disk {ident} (metadata unavailable)", file=sys.stderr)
+        if os.path.exists(cp) and os.path.getsize(cp) == 0: os.remove(cp)
+        continue
     m = [f for f in files if f.endswith("/" + name)]
     if m: hit = (ident, m[0]); break
 if not hit: raise SystemExit(f"US {N} not on any archive.org disk (checked {len(cands)})")

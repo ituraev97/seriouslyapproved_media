@@ -1,0 +1,6171 @@
+{
+ "T": 633.81,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 3.562,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.694
+    ],
+    [
+     2.194,
+     3.111
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread1",
+   "figno": "1",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 3.562,
+   "t1": 12.668,
+   "i": 1,
+   "segs": [
+    [
+     3.562,
+     5.376
+    ],
+    [
+     5.656,
+     7.128
+    ],
+    [
+     7.408,
+     10.33
+    ],
+    [
+     10.61,
+     12.317
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread1",
+   "figno": "1",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999",
+   "draw": false
+  },
+  {
+   "t0": 12.668,
+   "t1": 14.278,
+   "i": 2,
+   "segs": [
+    [
+     12.668,
+     13.777
+    ]
+   ],
+   "g": "stamp",
+   "title": "FELINE EXERCISE AND|ENTERTAINMENT CENTER",
+   "filed": "NOV. 20, 1997",
+   "date": "JUN. 22, 1999",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 14.278,
+   "t1": 26.141,
+   "i": 3,
+   "segs": [
+    [
+     14.278,
+     15.75
+    ],
+    [
+     16.03,
+     17.161
+    ],
+    [
+     17.441,
+     19.937
+    ],
+    [
+     20.217,
+     21.881
+    ],
+    [
+     22.161,
+     23.484
+    ],
+    [
+     23.764,
+     25.79
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE SHELF \u00b7 FILE 002",
+   "title": "8 Real Patents|for Your Cat",
+   "lines": [
+    "Real drawings. Real quotes.",
+    "Really approved."
+   ],
+   "stamp": true,
+   "at": 7.0,
+   "hook": "FOR YOUR|[CAT]",
+   "side": "FILE 002 \u00b7 THE SHELF"
+  },
+  {
+   "t0": 26.141,
+   "t1": 28.586,
+   "i": 4,
+   "segs": [
+    [
+     26.141,
+     26.973
+    ],
+    [
+     27.253,
+     28.235
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 1 OF 8",
+   "numeral": "1",
+   "title": "Amusement Device|and Bed for Cats",
+   "lines": [
+    "US 5,188,059",
+    "Filed 1989 \u00b7 Issued 1993"
+   ],
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 28.586,
+   "t1": 38.054,
+   "i": 5,
+   "segs": [
+    [
+     28.586,
+     32.34
+    ],
+    [
+     32.62,
+     34.348
+    ],
+    [
+     34.628,
+     36.25
+    ],
+    [
+     36.53,
+     37.703
+    ]
+   ],
+   "g": "fig",
+   "fig": "pool1",
+   "figno": "1",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 38.054,
+   "t1": 41.992,
+   "i": 6,
+   "segs": [
+    [
+     38.054,
+     39.782
+    ],
+    [
+     40.062,
+     41.641
+    ]
+   ],
+   "g": "quote",
+   "q": "Cats love ping-pong balls.",
+   "hit": "ping-pong balls",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993",
+   "hide": true
+  },
+  {
+   "t0": 41.992,
+   "t1": 44.285,
+   "i": 7,
+   "segs": [
+    [
+     41.992,
+     43.784
+    ]
+   ],
+   "g": "quote",
+   "q": "Cats love ping-pong balls.",
+   "hit": "ping-pong balls",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993",
+   "typed": false
+  },
+  {
+   "t0": 44.285,
+   "t1": 49.441,
+   "i": 8,
+   "segs": [
+    [
+     44.285,
+     46.055
+    ],
+    [
+     46.335,
+     47.381
+    ],
+    [
+     47.661,
+     49.09
+    ]
+   ],
+   "g": "fig",
+   "fig": "pool2",
+   "figno": "2",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 49.441,
+   "t1": 53.272,
+   "i": 9,
+   "segs": [
+    [
+     49.441,
+     51.51
+    ],
+    [
+     52.01,
+     52.821
+    ]
+   ],
+   "g": "quote",
+   "q": "While not wishing to be bound by any theory to explain why cats are entertained by the present invention",
+   "hit": "not wishing to be bound by any theory",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 53.272,
+   "t1": 61.242,
+   "i": 10,
+   "segs": [
+    [
+     53.272,
+     55.661
+    ],
+    [
+     55.941,
+     60.891
+    ]
+   ],
+   "g": "quote",
+   "q": "the cat cannot figure that out and believes the ball is moving of its own accord",
+   "hit": "of its own accord",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 61.242,
+   "t1": 67.761,
+   "i": 11,
+   "segs": [
+    [
+     61.242,
+     64.591
+    ],
+    [
+     64.871,
+     67.41
+    ]
+   ],
+   "g": "quote",
+   "q": "with brass upholstery studs, such as those used in fine leather furniture",
+   "hit": "fine leather furniture",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 67.761,
+   "t1": 76.01,
+   "i": 12,
+   "segs": [
+    [
+     67.761,
+     69.361
+    ],
+    [
+     69.641,
+     72.691
+    ],
+    [
+     72.971,
+     75.659
+    ]
+   ],
+   "g": "quote",
+   "q": "cardboard (although this is not preferred)",
+   "hit": "not preferred",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 76.01,
+   "t1": 80.761,
+   "i": 13,
+   "segs": [
+    [
+     76.01,
+     77.205
+    ],
+    [
+     77.485,
+     78.808
+    ],
+    [
+     79.088,
+     80.41
+    ]
+   ],
+   "g": "fig",
+   "fig": "pool1",
+   "figno": "1",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993",
+   "draw": false
+  },
+  {
+   "t0": 80.761,
+   "t1": 91.011,
+   "i": 14,
+   "segs": [
+    [
+     80.761,
+     83.641
+    ],
+    [
+     84.141,
+     86.104
+    ],
+    [
+     86.604,
+     87.948
+    ],
+    [
+     88.448,
+     90.56
+    ]
+   ],
+   "g": "quote",
+   "q": "a consumer with a powder blue decor might prefer an embodiment of the invention in a blonde wood stain with powder blue leather",
+   "hit": "powder blue leather",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 91.011,
+   "t1": 103.253,
+   "i": 15,
+   "segs": [
+    [
+     91.011,
+     94.254
+    ],
+    [
+     94.534,
+     96.39
+    ],
+    [
+     96.67,
+     97.587
+    ],
+    [
+     97.867,
+     102.902
+    ]
+   ],
+   "g": "quote",
+   "q": "the end product would look even more like a real pool table with six pockets",
+   "hit": "a real pool table",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 103.253,
+   "t1": 109.302,
+   "i": 16,
+   "segs": [
+    [
+     103.253,
+     104.981
+    ],
+    [
+     105.261,
+     108.951
+    ]
+   ],
+   "g": "quote",
+   "q": "The game gets even more lively when more than one cat plays.",
+   "hit": "more than one cat",
+   "src": "US 5,188,059 \u00b7 description",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993"
+  },
+  {
+   "t0": 109.302,
+   "t1": 116.163,
+   "i": 17,
+   "segs": [
+    [
+     109.302,
+     113.206
+    ],
+    [
+     113.706,
+     115.712
+    ]
+   ],
+   "g": "stamp",
+   "title": "AMUSEMENT DEVICE|AND BED FOR CATS",
+   "filed": "MAY 22, 1989",
+   "date": "FEB. 23, 1993",
+   "num": "US 5,188,059",
+   "hook": "A POOL TABLE|FOR [CATS]",
+   "side": "US 5,188,059 \u00b7 1993",
+   "at": 3.0
+  },
+  {
+   "t0": 116.163,
+   "t1": 119.098,
+   "i": 18,
+   "segs": [
+    [
+     116.163,
+     117.037
+    ],
+    [
+     117.317,
+     118.747
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 2 OF 8",
+   "numeral": "2",
+   "title": "Plaything|for Cats",
+   "lines": [
+    "US 2,540,309",
+    "Filed 1949 \u00b7 Issued 1951"
+   ],
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951"
+  },
+  {
+   "t0": 119.098,
+   "t1": 124.894,
+   "i": 19,
+   "segs": [
+    [
+     119.098,
+     120.506
+    ],
+    [
+     120.786,
+     122.172
+    ],
+    [
+     122.452,
+     124.543
+    ]
+   ],
+   "g": "fig",
+   "fig": "tube12",
+   "figno": "1 & 2",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951"
+  },
+  {
+   "t0": 124.894,
+   "t1": 129.088,
+   "i": 20,
+   "segs": [
+    [
+     124.894,
+     126.814
+    ],
+    [
+     127.094,
+     128.737
+    ]
+   ],
+   "g": "fig",
+   "fig": "tube6",
+   "figno": "6",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951"
+  },
+  {
+   "t0": 129.088,
+   "t1": 135.479,
+   "i": 21,
+   "segs": [
+    [
+     129.088,
+     132.608
+    ],
+    [
+     132.888,
+     135.128
+    ]
+   ],
+   "g": "fig",
+   "fig": "tube12",
+   "figno": "1 & 2",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951",
+   "draw": false
+  },
+  {
+   "t0": 135.479,
+   "t1": 142.872,
+   "i": 22,
+   "segs": [
+    [
+     135.479,
+     137.463
+    ],
+    [
+     137.743,
+     142.521
+    ]
+   ],
+   "g": "quote",
+   "q": "free to roll on a floor in response to movements of a cat",
+   "hit": "free to roll",
+   "src": "US 2,540,309 \u00b7 claims",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951"
+  },
+  {
+   "t0": 142.872,
+   "t1": 147.931,
+   "i": 23,
+   "segs": [
+    [
+     142.872,
+     147.48
+    ]
+   ],
+   "g": "fig",
+   "fig": "tube12",
+   "figno": "1 & 2",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951",
+   "draw": false
+  },
+  {
+   "t0": 147.931,
+   "t1": 151.098,
+   "i": 24,
+   "segs": [
+    [
+     147.931,
+     150.747
+    ]
+   ],
+   "g": "quote",
+   "q": "induces the cats to perform numerous antics quite amusing to the observers",
+   "hit": "quite amusing to the observers",
+   "src": "US 2,540,309 \u00b7 description",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951",
+   "hide": true
+  },
+  {
+   "t0": 151.098,
+   "t1": 156.797,
+   "i": 25,
+   "segs": [
+    [
+     151.098,
+     156.346
+    ]
+   ],
+   "g": "quote",
+   "q": "induces the cats to perform numerous antics quite amusing to the observers",
+   "hit": "quite amusing to the observers",
+   "src": "US 2,540,309 \u00b7 description",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951",
+   "typed": false
+  },
+  {
+   "t0": 156.797,
+   "t1": 162.1,
+   "i": 26,
+   "segs": [
+    [
+     156.797,
+     157.8
+    ],
+    [
+     158.08,
+     161.749
+    ]
+   ],
+   "g": "quote",
+   "q": "to be assembled by the purchaser",
+   "hit": "assembled by the purchaser",
+   "src": "US 2,540,309 \u00b7 description",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951"
+  },
+  {
+   "t0": 162.1,
+   "t1": 166.87,
+   "i": 27,
+   "segs": [
+    [
+     162.1,
+     164.767
+    ],
+    [
+     165.047,
+     166.519
+    ]
+   ],
+   "g": "quote",
+   "q": "For sanitary cleansing, the flat sheets, toy elements, and also the string, can be made of waterproof plastic material.",
+   "hit": "sanitary cleansing",
+   "src": "US 2,540,309 \u00b7 description",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951"
+  },
+  {
+   "t0": 166.87,
+   "t1": 171.384,
+   "i": 28,
+   "segs": [
+    [
+     166.87,
+     168.555
+    ],
+    [
+     169.055,
+     170.933
+    ]
+   ],
+   "g": "stamp",
+   "title": "PLAYTHING|FOR CATS",
+   "filed": "MAY 6, 1949",
+   "date": "FEB. 6, 1951",
+   "num": "US 2,540,309",
+   "hook": "THE ROLLING|[CAT] TUBE",
+   "side": "US 2,540,309 \u00b7 1951",
+   "at": 1.6
+  },
+  {
+   "t0": 171.384,
+   "t1": 173.636,
+   "i": 29,
+   "segs": [
+    [
+     171.384,
+     172.301
+    ],
+    [
+     172.581,
+     173.285
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 3 OF 8",
+   "numeral": "3",
+   "title": "Overhead Wall Mounted Cat|Platform System with|Multiple Access",
+   "lines": [
+    "US 5,002,012",
+    "Filed 1989 \u00b7 Issued 1991"
+   ],
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991"
+  },
+  {
+   "t0": 173.636,
+   "t1": 177.254,
+   "i": 30,
+   "segs": [
+    [
+     173.636,
+     175.812
+    ],
+    [
+     176.092,
+     176.903
+    ]
+   ],
+   "g": "fig",
+   "fig": "bridge1",
+   "figno": "1",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991"
+  },
+  {
+   "t0": 177.254,
+   "t1": 181.831,
+   "i": 31,
+   "segs": [
+    [
+     177.254,
+     179.792
+    ],
+    [
+     180.072,
+     181.48
+    ]
+   ],
+   "g": "fig",
+   "fig": "bridge1",
+   "figno": "1",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991",
+   "draw": false
+  },
+  {
+   "t0": 181.831,
+   "t1": 188.305,
+   "i": 32,
+   "segs": [
+    [
+     181.831,
+     187.954
+    ]
+   ],
+   "g": "quote",
+   "q": "Each suspension bridge is made up of a plurality of small platforms or steps attached to ropes.",
+   "hit": "suspension bridge",
+   "src": "US 5,002,012 \u00b7 summary",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991"
+  },
+  {
+   "t0": 188.305,
+   "t1": 195.388,
+   "i": 33,
+   "segs": [
+    [
+     188.305,
+     189.414
+    ],
+    [
+     189.914,
+     190.81
+    ],
+    [
+     191.31,
+     194.937
+    ]
+   ],
+   "g": "quote",
+   "q": "undulating connector ropes",
+   "hit": "undulating",
+   "src": "US 5,002,012 \u00b7 claims 1, 2",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991"
+  },
+  {
+   "t0": 195.388,
+   "t1": 201.55,
+   "i": 34,
+   "segs": [
+    [
+     195.388,
+     196.839
+    ],
+    [
+     197.119,
+     198.228
+    ],
+    [
+     198.508,
+     199.425
+    ],
+    [
+     199.705,
+     201.199
+    ]
+   ],
+   "g": "fig",
+   "fig": "bridge1",
+   "figno": "1",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991",
+   "draw": false
+  },
+  {
+   "t0": 201.55,
+   "t1": 209.666,
+   "i": 35,
+   "segs": [
+    [
+     201.55,
+     209.315
+    ]
+   ],
+   "g": "quote",
+   "q": "a device which more fully exploits a cat's superior climbing abilities and sense of balance",
+   "hit": "superior climbing abilities",
+   "src": "US 5,002,012 \u00b7 summary",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991"
+  },
+  {
+   "t0": 209.666,
+   "t1": 214.436,
+   "i": 36,
+   "segs": [
+    [
+     209.666,
+     211.629
+    ],
+    [
+     212.129,
+     213.985
+    ]
+   ],
+   "g": "quote",
+   "q": "to the greater enjoyment of the cat and entertainment of its owner",
+   "hit": "entertainment of its owner",
+   "src": "US 5,002,012 \u00b7 summary",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991"
+  },
+  {
+   "t0": 214.436,
+   "t1": 220.272,
+   "i": 37,
+   "segs": [
+    [
+     214.436,
+     215.63
+    ],
+    [
+     215.91,
+     219.921
+    ]
+   ],
+   "g": "quote",
+   "q": "which occupies little human space",
+   "hit": "little human space",
+   "src": "US 5,002,012 \u00b7 summary",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991"
+  },
+  {
+   "t0": 220.272,
+   "t1": 227.739,
+   "i": 38,
+   "segs": [
+    [
+     220.272,
+     223.173
+    ],
+    [
+     223.673,
+     225.828
+    ],
+    [
+     226.328,
+     227.288
+    ]
+   ],
+   "g": "quote",
+   "q": "to provide a platform which can be made to blend with the furnishings and environment",
+   "hit": "blend with the furnishings",
+   "src": "US 5,002,012 \u00b7 summary",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991"
+  },
+  {
+   "t0": 227.739,
+   "t1": 232.061,
+   "i": 39,
+   "segs": [
+    [
+     227.739,
+     229.168
+    ],
+    [
+     229.668,
+     231.61
+    ]
+   ],
+   "g": "stamp",
+   "title": "OVERHEAD WALL MOUNTED|CAT PLATFORM SYSTEM|WITH MULTIPLE ACCESS",
+   "filed": "MAR. 27, 1989",
+   "date": "MAR. 26, 1991",
+   "num": "US 5,002,012",
+   "hook": "ROPE [BRIDGES]|FOR CATS",
+   "side": "US 5,002,012 \u00b7 1991",
+   "at": 1.6
+  },
+  {
+   "t0": 232.061,
+   "t1": 235.529,
+   "i": 40,
+   "segs": [
+    [
+     232.061,
+     232.978
+    ],
+    [
+     233.258,
+     235.178
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 4 OF 8",
+   "numeral": "4",
+   "title": "Animal|Toy",
+   "lines": [
+    "US 1,534,964",
+    "Filed 1923 \u00b7 Issued 1925"
+   ],
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925"
+  },
+  {
+   "t0": 235.529,
+   "t1": 240.192,
+   "i": 41,
+   "segs": [
+    [
+     235.529,
+     237.918
+    ],
+    [
+     238.198,
+     239.841
+    ]
+   ],
+   "g": "fig",
+   "fig": "mouse1",
+   "figno": "1",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925"
+  },
+  {
+   "t0": 240.192,
+   "t1": 247.162,
+   "i": 42,
+   "segs": [
+    [
+     240.192,
+     241.365
+    ],
+    [
+     241.645,
+     244.589
+    ],
+    [
+     244.869,
+     246.811
+    ]
+   ],
+   "g": "quote",
+   "q": "a catnip-scented figure of a mouse",
+   "hit": "catnip-scented",
+   "src": "US 1,534,964 \u00b7 claim 1",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925"
+  },
+  {
+   "t0": 247.162,
+   "t1": 251.602,
+   "i": 43,
+   "segs": [
+    [
+     247.162,
+     251.151
+    ]
+   ],
+   "g": "quote",
+   "q": "an odor will be produced that is pleasing to a cat",
+   "hit": "pleasing to a cat",
+   "src": "US 1,534,964 \u00b7 description",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925"
+  },
+  {
+   "t0": 251.602,
+   "t1": 255.089,
+   "i": 44,
+   "segs": [
+    [
+     251.602,
+     254.738
+    ]
+   ],
+   "g": "quote",
+   "q": "the cat may see the mouse but cannot remove the same from the ball",
+   "hit": "cannot remove the same",
+   "src": "US 1,534,964 \u00b7 objects",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925",
+   "hide": true
+  },
+  {
+   "t0": 255.089,
+   "t1": 259.743,
+   "i": 45,
+   "segs": [
+    [
+     255.089,
+     259.292
+    ]
+   ],
+   "g": "quote",
+   "q": "the cat may see the mouse but cannot remove the same from the ball",
+   "hit": "cannot remove the same",
+   "src": "US 1,534,964 \u00b7 objects",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925",
+   "typed": false
+  },
+  {
+   "t0": 259.743,
+   "t1": 266.99,
+   "i": 46,
+   "segs": [
+    [
+     259.743,
+     261.3
+    ],
+    [
+     261.58,
+     263.009
+    ],
+    [
+     263.289,
+     266.639
+    ]
+   ],
+   "g": "fig",
+   "fig": "mouse2",
+   "figno": "2",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925"
+  },
+  {
+   "t0": 266.99,
+   "t1": 271.759,
+   "i": 47,
+   "segs": [
+    [
+     266.99,
+     269.272
+    ],
+    [
+     269.552,
+     271.408
+    ]
+   ],
+   "g": "quote",
+   "q": "the mouse which is not of sufficient weight to force its way through when the ball is inverted",
+   "hit": "not of sufficient weight",
+   "src": "US 1,534,964 \u00b7 description",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925"
+  },
+  {
+   "t0": 271.759,
+   "t1": 277.852,
+   "i": 48,
+   "segs": [
+    [
+     271.759,
+     274.085
+    ],
+    [
+     274.365,
+     277.501
+    ]
+   ],
+   "g": "quote",
+   "q": "will not injure the furniture nor hurt the cat",
+   "hit": "nor hurt the cat",
+   "src": "US 1,534,964 \u00b7 description",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925"
+  },
+  {
+   "t0": 277.852,
+   "t1": 282.899,
+   "i": 49,
+   "segs": [
+    [
+     277.852,
+     279.857
+    ],
+    [
+     280.357,
+     282.448
+    ]
+   ],
+   "g": "stamp",
+   "title": "ANIMAL|TOY",
+   "filed": "JAN. 18, 1923",
+   "date": "APR. 21, 1925",
+   "num": "US 1,534,964",
+   "hook": "A [MOUSE]|IN A BALL",
+   "side": "US 1,534,964 \u00b7 1925",
+   "at": 2.0
+  },
+  {
+   "t0": 282.899,
+   "t1": 285.642,
+   "i": 50,
+   "segs": [
+    [
+     282.899,
+     283.859
+    ],
+    [
+     284.139,
+     285.291
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 5 OF 8",
+   "numeral": "5",
+   "title": "Interactive|Pet Toy",
+   "lines": [
+    "US 5,675,225",
+    "Filed 1995 \u00b7 Issued 1997"
+   ],
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 285.642,
+   "t1": 291.654,
+   "i": 51,
+   "segs": [
+    [
+     285.642,
+     286.559
+    ],
+    [
+     286.839,
+     288.076
+    ],
+    [
+     288.356,
+     289.146
+    ],
+    [
+     289.426,
+     291.303
+    ]
+   ],
+   "g": "fig",
+   "fig": "remote1",
+   "figno": "1",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 291.654,
+   "t1": 300.973,
+   "i": 52,
+   "segs": [
+    [
+     291.654,
+     293.745
+    ],
+    [
+     294.025,
+     295.369
+    ],
+    [
+     295.649,
+     297.761
+    ],
+    [
+     298.041,
+     300.622
+    ]
+   ],
+   "g": "fig",
+   "fig": "remote1",
+   "figno": "1",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997",
+   "draw": false
+  },
+  {
+   "t0": 300.973,
+   "t1": 307.833,
+   "i": 53,
+   "segs": [
+    [
+     300.973,
+     302.381
+    ],
+    [
+     302.661,
+     307.482
+    ]
+   ],
+   "g": "quote",
+   "q": "lets the owner directly or remotely play with his pet from virtually anywhere",
+   "hit": "from virtually anywhere",
+   "src": "US 5,675,225 \u00b7 background",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 307.833,
+   "t1": 311.451,
+   "i": 54,
+   "segs": [
+    [
+     307.833,
+     309.561
+    ],
+    [
+     310.061,
+     311.0
+    ]
+   ],
+   "g": "quote",
+   "q": "House cats, like people, are creatures of habit.",
+   "hit": "creatures of habit",
+   "src": "US 5,675,225 \u00b7 background",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 311.451,
+   "t1": 317.842,
+   "i": 55,
+   "segs": [
+    [
+     311.451,
+     312.283
+    ],
+    [
+     312.563,
+     317.491
+    ]
+   ],
+   "g": "quote",
+   "q": "a novel pet toy to help cats that have grown over fearful, aggressive or have become poor hunters",
+   "hit": "poor hunters",
+   "src": "US 5,675,225 \u00b7 summary",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 317.842,
+   "t1": 320.405,
+   "i": 56,
+   "segs": [
+    [
+     317.842,
+     319.954
+    ]
+   ],
+   "g": "quote",
+   "q": "a theater of learning",
+   "hit": "theater of learning",
+   "src": "US 5,675,225 \u00b7 background",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 320.405,
+   "t1": 329.567,
+   "i": 57,
+   "segs": [
+    [
+     320.405,
+     329.216
+    ]
+   ],
+   "g": "quote",
+   "q": "The motor belt drive mechanism produces less noise which is more pleasing to operators and pets.",
+   "hit": "more pleasing",
+   "src": "US 5,675,225 \u00b7 background",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 329.567,
+   "t1": 341.83,
+   "i": 58,
+   "segs": [
+    [
+     329.567,
+     330.975
+    ],
+    [
+     331.255,
+     334.412
+    ],
+    [
+     334.692,
+     337.849
+    ],
+    [
+     338.129,
+     341.479
+    ]
+   ],
+   "g": "quote",
+   "q": "the remote cord has only 1.5 volts direct current",
+   "hit": "1.5 volts",
+   "src": "US 5,675,225 \u00b7 summary",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 341.83,
+   "t1": 352.511,
+   "i": 59,
+   "segs": [
+    [
+     341.83,
+     346.374
+    ],
+    [
+     346.654,
+     348.574
+    ],
+    [
+     348.854,
+     352.16
+    ]
+   ],
+   "g": "quote",
+   "q": "however, gluing or other fasteners could also be used",
+   "hit": "gluing or other fasteners",
+   "src": "US 5,675,225 \u00b7 description",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997"
+  },
+  {
+   "t0": 352.511,
+   "t1": 357.26,
+   "i": 60,
+   "segs": [
+    [
+     352.511,
+     354.069
+    ],
+    [
+     354.569,
+     356.809
+    ]
+   ],
+   "g": "stamp",
+   "title": "INTERACTIVE|PET TOY",
+   "filed": "AUG. 23, 1995",
+   "date": "OCT. 7, 1997",
+   "num": "US 5,675,225",
+   "hook": "THE [REMOTE]|CAT TOY",
+   "side": "US 5,675,225 \u00b7 1997",
+   "at": 1.6
+  },
+  {
+   "t0": 357.26,
+   "t1": 359.832,
+   "i": 61,
+   "segs": [
+    [
+     357.26,
+     358.156
+    ],
+    [
+     358.436,
+     359.481
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 6 OF 8",
+   "numeral": "6",
+   "title": "Ventilated Cat|Litter Box",
+   "lines": [
+    "US 5,738,040",
+    "Filed 1996 \u00b7 Issued 1998"
+   ],
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 359.832,
+   "t1": 366.162,
+   "i": 62,
+   "segs": [
+    [
+     359.832,
+     361.219
+    ],
+    [
+     361.499,
+     362.651
+    ],
+    [
+     362.931,
+     365.811
+    ]
+   ],
+   "g": "fig",
+   "fig": "litter1",
+   "figno": "1",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 366.162,
+   "t1": 373.747,
+   "i": 63,
+   "segs": [
+    [
+     366.162,
+     368.359
+    ],
+    [
+     368.639,
+     373.396
+    ]
+   ],
+   "g": "quote",
+   "q": "which has all the advantages of the prior art and none of the disadvantages",
+   "hit": "none of the disadvantages",
+   "src": "US 5,738,040 \u00b7 summary",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 373.747,
+   "t1": 380.693,
+   "i": 64,
+   "segs": [
+    [
+     373.747,
+     375.475
+    ],
+    [
+     375.755,
+     380.342
+    ]
+   ],
+   "g": "quote",
+   "q": "The synthetic carpeting 24 serves to clean cat litter residue off of the cat's paws.",
+   "hit": "off of the cat's paws",
+   "src": "US 5,738,040 \u00b7 description",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 380.693,
+   "t1": 387.105,
+   "i": 65,
+   "segs": [
+    [
+     380.693,
+     381.973
+    ],
+    [
+     382.473,
+     386.654
+    ]
+   ],
+   "g": "quote",
+   "q": "The L-shaped shelf provides a sitting area for the cat if it chooses to remain within the housing 12.",
+   "hit": "if it chooses to remain",
+   "src": "US 5,738,040 \u00b7 description",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 387.105,
+   "t1": 392.046,
+   "i": 66,
+   "segs": [
+    [
+     387.105,
+     389.196
+    ],
+    [
+     389.476,
+     391.695
+    ]
+   ],
+   "g": "quote",
+   "q": "The circular window 34 is elevated for viewing of the interior of the housing 12 by the cat's owners.",
+   "hit": "by the cat's owners",
+   "src": "US 5,738,040 \u00b7 description",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998",
+   "hide": true
+  },
+  {
+   "t0": 392.046,
+   "t1": 398.811,
+   "i": 67,
+   "segs": [
+    [
+     392.046,
+     398.36
+    ]
+   ],
+   "g": "quote",
+   "q": "The circular window 34 is elevated for viewing of the interior of the housing 12 by the cat's owners.",
+   "hit": "by the cat's owners",
+   "src": "US 5,738,040 \u00b7 description",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998",
+   "typed": false
+  },
+  {
+   "t0": 398.811,
+   "t1": 405.16,
+   "i": 68,
+   "segs": [
+    [
+     398.811,
+     400.305
+    ],
+    [
+     400.585,
+     404.809
+    ]
+   ],
+   "g": "quote",
+   "q": "The window 44 allows for the cat owner to visualize the litter box without having to open the drawer 38.",
+   "hit": "visualize the litter box",
+   "src": "US 5,738,040 \u00b7 description",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 405.16,
+   "t1": 412.532,
+   "i": 69,
+   "segs": [
+    [
+     405.16,
+     406.482
+    ],
+    [
+     406.762,
+     412.181
+    ]
+   ],
+   "g": "quote",
+   "q": "The motion detector 52 will detect the entrance of the cat into the housing 12.",
+   "hit": "detect the entrance of the cat",
+   "src": "US 5,738,040 \u00b7 description",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 412.532,
+   "t1": 420.078,
+   "i": 70,
+   "segs": [
+    [
+     412.532,
+     413.791
+    ],
+    [
+     414.071,
+     416.268
+    ],
+    [
+     416.548,
+     419.727
+    ]
+   ],
+   "g": "fig",
+   "fig": "litter4",
+   "figno": "4",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 420.078,
+   "t1": 427.557,
+   "i": 71,
+   "segs": [
+    [
+     420.078,
+     421.571
+    ],
+    [
+     421.851,
+     427.206
+    ]
+   ],
+   "g": "quote",
+   "q": "The deodorizer 48 serves to offset the unpleasant odor produced from the litter box.",
+   "hit": "unpleasant odor",
+   "src": "US 5,738,040 \u00b7 description",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 427.557,
+   "t1": 437.989,
+   "i": 72,
+   "segs": [
+    [
+     427.557,
+     428.709
+    ],
+    [
+     429.209,
+     430.659
+    ],
+    [
+     431.159,
+     437.538
+    ]
+   ],
+   "g": "quote",
+   "q": "Accordingly, no further discussion relating to the manner of usage and operation will be provided.",
+   "hit": "no further discussion",
+   "src": "US 5,738,040 \u00b7 description",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998"
+  },
+  {
+   "t0": 437.989,
+   "t1": 442.503,
+   "i": 73,
+   "segs": [
+    [
+     437.989,
+     439.568
+    ],
+    [
+     440.068,
+     442.052
+    ]
+   ],
+   "g": "stamp",
+   "title": "VENTILATED CAT|LITTER BOX",
+   "filed": "OCT. 18, 1996",
+   "date": "APR. 14, 1998",
+   "num": "US 5,738,040",
+   "hook": "A LITTER BOX|WITH A [FAN]",
+   "side": "US 5,738,040 \u00b7 1998",
+   "at": 1.6
+  },
+  {
+   "t0": 442.503,
+   "t1": 444.712,
+   "i": 74,
+   "segs": [
+    [
+     442.503,
+     443.42
+    ],
+    [
+     443.7,
+     444.361
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 7 OF 8",
+   "numeral": "7",
+   "title": "Magnetic Pendulum Device|for Feline Amusement|and Exercise",
+   "lines": [
+    "US 5,881,679",
+    "Filed 1997 \u00b7 Issued 1999"
+   ],
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999"
+  },
+  {
+   "t0": 444.712,
+   "t1": 451.317,
+   "i": 75,
+   "segs": [
+    [
+     444.712,
+     446.568
+    ],
+    [
+     446.848,
+     450.966
+    ]
+   ],
+   "g": "quote",
+   "q": "Cats are predatory creatures with precision tuned hunting skills.",
+   "hit": "precision tuned",
+   "src": "US 5,881,679 \u00b7 prior art",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999"
+  },
+  {
+   "t0": 451.317,
+   "t1": 459.329,
+   "i": 76,
+   "segs": [
+    [
+     451.317,
+     453.663
+    ],
+    [
+     453.943,
+     458.978
+    ]
+   ],
+   "g": "quote",
+   "q": "There may be times when the owner does not have time or energy to play with their pets",
+   "hit": "time or energy",
+   "src": "US 5,881,679 \u00b7 prior art",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999"
+  },
+  {
+   "t0": 459.329,
+   "t1": 465.549,
+   "i": 77,
+   "segs": [
+    [
+     459.329,
+     460.993
+    ],
+    [
+     461.273,
+     465.198
+    ]
+   ],
+   "g": "quote",
+   "q": "their repetitious motion can become very predictable to the cat",
+   "hit": "very predictable",
+   "src": "US 5,881,679 \u00b7 prior art",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999"
+  },
+  {
+   "t0": 465.549,
+   "t1": 474.783,
+   "i": 78,
+   "segs": [
+    [
+     465.549,
+     466.765
+    ],
+    [
+     467.045,
+     469.307
+    ],
+    [
+     469.587,
+     472.573
+    ],
+    [
+     472.853,
+     474.432
+    ]
+   ],
+   "g": "fig",
+   "fig": "pend1",
+   "figno": "1",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999"
+  },
+  {
+   "t0": 474.783,
+   "t1": 479.529,
+   "i": 79,
+   "segs": [
+    [
+     474.783,
+     479.178
+    ]
+   ],
+   "g": "fig",
+   "fig": "pend2",
+   "figno": "2",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999",
+   "ring": [
+    950,
+    440,
+    170
+   ]
+  },
+  {
+   "t0": 479.529,
+   "t1": 486.712,
+   "i": 80,
+   "segs": [
+    [
+     479.529,
+     481.321
+    ],
+    [
+     481.601,
+     484.545
+    ],
+    [
+     484.825,
+     486.361
+    ]
+   ],
+   "g": "fig",
+   "fig": "pend4",
+   "figno": "4a, 4b, 4d",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999"
+  },
+  {
+   "t0": 486.712,
+   "t1": 489.943,
+   "i": 81,
+   "segs": [
+    [
+     486.712,
+     489.592
+    ]
+   ],
+   "g": "quote",
+   "q": "When seized, the toy has been found to continue to twitch and jump in a most lifelike manner.",
+   "hit": "in a most lifelike manner",
+   "src": "US 5,881,679 \u00b7 summary",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999",
+   "hide": true
+  },
+  {
+   "t0": 489.943,
+   "t1": 496.282,
+   "i": 82,
+   "segs": [
+    [
+     489.943,
+     495.831
+    ]
+   ],
+   "g": "quote",
+   "q": "When seized, the toy has been found to continue to twitch and jump in a most lifelike manner.",
+   "hit": "in a most lifelike manner",
+   "src": "US 5,881,679 \u00b7 summary",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999",
+   "typed": false
+  },
+  {
+   "t0": 496.282,
+   "t1": 504.995,
+   "i": 83,
+   "segs": [
+    [
+     496.282,
+     504.644
+    ]
+   ],
+   "g": "quote",
+   "q": "the cats tend to return to this device for repeated play more frequently than with other less engaging designs",
+   "hit": "repeated play",
+   "src": "US 5,881,679 \u00b7 summary",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999"
+  },
+  {
+   "t0": 504.995,
+   "t1": 513.37,
+   "i": 84,
+   "segs": [
+    [
+     504.995,
+     507.129
+    ],
+    [
+     507.409,
+     513.019
+    ]
+   ],
+   "g": "quote",
+   "q": "adjustable to match the cat's dexterity as it ages and its responsiveness diminishes",
+   "hit": "as it ages",
+   "src": "US 5,881,679 \u00b7 objects",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999"
+  },
+  {
+   "t0": 513.37,
+   "t1": 517.479,
+   "i": 85,
+   "segs": [
+    [
+     513.37,
+     514.458
+    ],
+    [
+     514.958,
+     517.028
+    ]
+   ],
+   "g": "stamp",
+   "title": "MAGNETIC PENDULUM|DEVICE FOR FELINE|AMUSEMENT AND EXERCISE",
+   "filed": "JUL. 29, 1997",
+   "date": "MAR. 16, 1999",
+   "num": "US 5,881,679",
+   "hook": "THE MAGNETIC|[PENDULUM]",
+   "side": "US 5,881,679 \u00b7 1999",
+   "at": 1.4
+  },
+  {
+   "t0": 517.479,
+   "t1": 520.179,
+   "i": 86,
+   "segs": [
+    [
+     517.479,
+     518.439
+    ],
+    [
+     518.719,
+     519.828
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 8 OF 8",
+   "numeral": "8",
+   "title": "Feline Exercise and|Entertainment Center",
+   "lines": [
+    "US 5,913,750",
+    "Filed 1997 \u00b7 Issued 1999"
+   ],
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 520.179,
+   "t1": 528.725,
+   "i": 87,
+   "segs": [
+    [
+     520.179,
+     521.992
+    ],
+    [
+     522.272,
+     528.374
+    ]
+   ],
+   "g": "quote",
+   "q": "Regular exercise has been recognized as an important component of general health for humans.",
+   "hit": "for humans",
+   "src": "US 5,913,750 \u00b7 background",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 528.725,
+   "t1": 540.438,
+   "i": 88,
+   "segs": [
+    [
+     528.725,
+     531.434
+    ],
+    [
+     531.714,
+     533.207
+    ],
+    [
+     533.487,
+     534.554
+    ],
+    [
+     534.834,
+     536.391
+    ],
+    [
+     536.671,
+     537.845
+    ],
+    [
+     538.125,
+     540.087
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread3",
+   "figno": "3",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 540.438,
+   "t1": 545.805,
+   "i": 89,
+   "segs": [
+    [
+     540.438,
+     542.742
+    ],
+    [
+     543.022,
+     545.454
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread3",
+   "figno": "3",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999",
+   "draw": false
+  },
+  {
+   "t0": 545.805,
+   "t1": 554.287,
+   "i": 90,
+   "segs": [
+    [
+     545.805,
+     550.093
+    ],
+    [
+     550.373,
+     553.936
+    ]
+   ],
+   "g": "quote",
+   "q": "spaced wooden bars 61 to aid in cat traction and serve as steps",
+   "hit": "to aid in cat traction",
+   "src": "US 5,913,750 \u00b7 description",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 554.287,
+   "t1": 557.049,
+   "i": 91,
+   "segs": [
+    [
+     554.287,
+     556.698
+    ]
+   ],
+   "g": "quote",
+   "q": "As cats are adept at minimizing exertion, the treadmill 48 should be covered with a plastic cover 62",
+   "hit": "adept at minimizing exertion",
+   "src": "US 5,913,750 \u00b7 description",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999",
+   "hide": true
+  },
+  {
+   "t0": 557.049,
+   "t1": 566.17,
+   "i": 92,
+   "segs": [
+    [
+     557.049,
+     561.55
+    ],
+    [
+     562.05,
+     565.719
+    ]
+   ],
+   "g": "quote",
+   "q": "As cats are adept at minimizing exertion, the treadmill 48 should be covered with a plastic cover 62",
+   "hit": "adept at minimizing exertion",
+   "src": "US 5,913,750 \u00b7 description",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999",
+   "typed": false
+  },
+  {
+   "t0": 566.17,
+   "t1": 572.945,
+   "i": 93,
+   "segs": [
+    [
+     566.17,
+     567.813
+    ],
+    [
+     568.093,
+     572.594
+    ]
+   ],
+   "g": "quote",
+   "q": "less steep for heavier feline use, and more steep for lighter feline use",
+   "hit": "heavier feline use",
+   "src": "US 5,913,750 \u00b7 claim 4",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 572.945,
+   "t1": 579.102,
+   "i": 94,
+   "segs": [
+    [
+     572.945,
+     576.06
+    ],
+    [
+     576.34,
+     578.751
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread1",
+   "figno": "1",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999",
+   "draw": false
+  },
+  {
+   "t0": 579.102,
+   "t1": 585.889,
+   "i": 95,
+   "segs": [
+    [
+     579.102,
+     585.438
+    ]
+   ],
+   "g": "quote",
+   "q": "to obtain the desired treadmill time for a particular perch entry",
+   "hit": "treadmill time",
+   "src": "US 5,913,750 \u00b7 summary",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 585.889,
+   "t1": 595.101,
+   "i": 96,
+   "segs": [
+    [
+     585.889,
+     588.065
+    ],
+    [
+     588.345,
+     591.331
+    ],
+    [
+     591.611,
+     593.041
+    ],
+    [
+     593.321,
+     594.75
+    ]
+   ],
+   "g": "quote",
+   "q": "a cat hygiene pan may be positioned between the horizontal members or on the perch",
+   "hit": "on the perch",
+   "src": "US 5,913,750 \u00b7 description",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 595.101,
+   "t1": 605.801,
+   "i": 97,
+   "segs": [
+    [
+     595.101,
+     596.552
+    ],
+    [
+     597.052,
+     605.35
+    ]
+   ],
+   "g": "quote",
+   "q": "for example when non-cat-appreciative guests are in the house",
+   "hit": "non-cat-appreciative guests",
+   "src": "US 5,913,750 \u00b7 description",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999"
+  },
+  {
+   "t0": 605.801,
+   "t1": 609.952,
+   "i": 98,
+   "segs": [
+    [
+     605.801,
+     606.932
+    ],
+    [
+     607.432,
+     609.501
+    ]
+   ],
+   "g": "stamp",
+   "title": "FELINE EXERCISE AND|ENTERTAINMENT CENTER",
+   "filed": "NOV. 20, 1997",
+   "date": "JUN. 22, 1999",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999",
+   "at": 1.6
+  },
+  {
+   "t0": 609.952,
+   "t1": 612.594,
+   "i": 99,
+   "segs": [
+    [
+     609.952,
+     612.043
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS WEEK'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 002"
+  },
+  {
+   "t0": 612.594,
+   "t1": 619.436,
+   "i": 100,
+   "segs": [
+    [
+     612.594,
+     614.194
+    ],
+    [
+     614.474,
+     617.29
+    ],
+    [
+     617.57,
+     619.085
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread1",
+   "figno": "1",
+   "num": "US 5,913,750",
+   "hook": "A [TREADMILL]|FOR CATS",
+   "side": "US 5,913,750 \u00b7 1999",
+   "draw": false
+  },
+  {
+   "t0": 619.436,
+   "t1": 626.893,
+   "i": 101,
+   "segs": [
+    [
+     619.436,
+     622.764
+    ],
+    [
+     623.044,
+     626.542
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "5,188,059 \u00b7 2,540,309 \u00b7 5,002,012",
+    "1,534,964 \u00b7 5,675,225 \u00b7 5,738,040",
+    "5,881,679 \u00b7 5,913,750"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 002"
+  },
+  {
+   "t0": 626.893,
+   "t1": 633.81,
+   "i": 102,
+   "segs": [
+    [
+     626.893,
+     628.579
+    ],
+    [
+     628.859,
+     630.459
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 002"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.987,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.987,
+   "t1": 1.694,
+   "txt": "treadmill."
+  },
+  {
+   "t0": 2.194,
+   "t1": 3.111,
+   "txt": "For a cat."
+  },
+  {
+   "t0": 3.562,
+   "t1": 4.375,
+   "txt": "The cat walks"
+  },
+  {
+   "t0": 4.375,
+   "t1": 5.063,
+   "txt": "up a moving"
+  },
+  {
+   "t0": 5.063,
+   "t1": 5.376,
+   "txt": "belt."
+  },
+  {
+   "t0": 5.656,
+   "t1": 6.255,
+   "txt": "At the top,"
+  },
+  {
+   "t0": 6.255,
+   "t1": 7.128,
+   "txt": "there's a perch."
+  },
+  {
+   "t0": 7.408,
+   "t1": 8.126,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 8.126,
+   "t1": 9.151,
+   "txt": "suggests putting the"
+  },
+  {
+   "t0": 9.151,
+   "t1": 9.869,
+   "txt": "food and water"
+  },
+  {
+   "t0": 9.869,
+   "t1": 10.33,
+   "txt": "up there."
+  },
+  {
+   "t0": 10.61,
+   "t1": 11.586,
+   "txt": "Dinner now comes"
+  },
+  {
+   "t0": 11.586,
+   "t1": 12.317,
+   "txt": "with cardio."
+  },
+  {
+   "t0": 12.668,
+   "t1": 13.777,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 14.278,
+   "t1": 15.75,
+   "txt": "Somebody invented it."
+  },
+  {
+   "t0": 16.03,
+   "t1": 17.161,
+   "txt": "Somebody filed it."
+  },
+  {
+   "t0": 17.441,
+   "t1": 18.254,
+   "txt": "And the United"
+  },
+  {
+   "t0": 18.254,
+   "t1": 19.415,
+   "txt": "States Patent Office"
+  },
+  {
+   "t0": 19.415,
+   "t1": 19.937,
+   "txt": "said yes."
+  },
+  {
+   "t0": 20.217,
+   "t1": 20.616,
+   "txt": "Today,"
+  },
+  {
+   "t0": 20.616,
+   "t1": 21.881,
+   "txt": "eight real patents."
+  },
+  {
+   "t0": 22.161,
+   "t1": 22.767,
+   "txt": "All of them"
+  },
+  {
+   "t0": 22.767,
+   "t1": 23.484,
+   "txt": "for your cat."
+  },
+  {
+   "t0": 23.764,
+   "t1": 24.501,
+   "txt": "None of them"
+  },
+  {
+   "t0": 24.501,
+   "t1": 25.545,
+   "txt": "requested by your"
+  },
+  {
+   "t0": 25.545,
+   "t1": 25.79,
+   "txt": "cat."
+  },
+  {
+   "t0": 26.141,
+   "t1": 26.973,
+   "txt": "Number one."
+  },
+  {
+   "t0": 27.253,
+   "t1": 28.235,
+   "txt": "The living room."
+  },
+  {
+   "t0": 28.586,
+   "t1": 29.189,
+   "txt": "This is a"
+  },
+  {
+   "t0": 29.189,
+   "t1": 29.927,
+   "txt": "wooden box,"
+  },
+  {
+   "t0": 29.927,
+   "t1": 31.066,
+   "txt": "about fourteen by"
+  },
+  {
+   "t0": 31.066,
+   "t1": 32.34,
+   "txt": "twenty-four inches."
+  },
+  {
+   "t0": 32.62,
+   "t1": 33.608,
+   "txt": "Leather is stretched"
+  },
+  {
+   "t0": 33.608,
+   "t1": 34.348,
+   "txt": "across the top."
+  },
+  {
+   "t0": 34.628,
+   "t1": 35.439,
+   "txt": "There are holes"
+  },
+  {
+   "t0": 35.439,
+   "t1": 36.25,
+   "txt": "in the corners."
+  },
+  {
+   "t0": 36.53,
+   "t1": 37.019,
+   "txt": "And a slit"
+  },
+  {
+   "t0": 37.019,
+   "t1": 37.703,
+   "txt": "in the middle."
+  },
+  {
+   "t0": 38.054,
+   "t1": 38.997,
+   "txt": "Under the leather,"
+  },
+  {
+   "t0": 38.997,
+   "t1": 39.52,
+   "txt": "there is a"
+  },
+  {
+   "t0": 39.52,
+   "t1": 39.782,
+   "txt": "ball."
+  },
+  {
+   "t0": 40.062,
+   "t1": 41.366,
+   "txt": "The patent explains"
+  },
+  {
+   "t0": 41.366,
+   "t1": 41.641,
+   "txt": "why."
+  },
+  {
+   "t0": 41.992,
+   "t1": 43.354,
+   "txt": "Cats love ping-pong"
+  },
+  {
+   "t0": 43.354,
+   "t1": 43.784,
+   "txt": "balls."
+  },
+  {
+   "t0": 44.285,
+   "t1": 44.982,
+   "txt": "The cat pokes"
+  },
+  {
+   "t0": 44.982,
+   "t1": 45.68,
+   "txt": "a paw through"
+  },
+  {
+   "t0": 45.68,
+   "t1": 46.055,
+   "txt": "a hole."
+  },
+  {
+   "t0": 46.335,
+   "t1": 47.381,
+   "txt": "The ball moves."
+  },
+  {
+   "t0": 47.661,
+   "t1": 48.57,
+   "txt": "The cat cannot"
+  },
+  {
+   "t0": 48.57,
+   "t1": 49.09,
+   "txt": "see why."
+  },
+  {
+   "t0": 49.441,
+   "t1": 50.507,
+   "txt": "Then the inventor"
+  },
+  {
+   "t0": 50.507,
+   "t1": 51.51,
+   "txt": "offers a theory."
+  },
+  {
+   "t0": 52.01,
+   "t1": 52.821,
+   "txt": "Carefully."
+  },
+  {
+   "t0": 53.272,
+   "t1": 53.946,
+   "txt": "The theory:"
+  },
+  {
+   "t0": 53.946,
+   "t1": 54.987,
+   "txt": "the ball responds"
+  },
+  {
+   "t0": 54.987,
+   "t1": 55.661,
+   "txt": "to the cat."
+  },
+  {
+   "t0": 55.941,
+   "t1": 56.622,
+   "txt": "But the cat"
+  },
+  {
+   "t0": 56.622,
+   "t1": 57.735,
+   "txt": "cannot figure that"
+  },
+  {
+   "t0": 57.735,
+   "t1": 58.725,
+   "txt": "out and believes"
+  },
+  {
+   "t0": 58.725,
+   "t1": 59.406,
+   "txt": "the ball is"
+  },
+  {
+   "t0": 59.406,
+   "t1": 60.21,
+   "txt": "moving of its"
+  },
+  {
+   "t0": 60.21,
+   "t1": 60.891,
+   "txt": "own accord."
+  },
+  {
+   "t0": 61.242,
+   "t1": 62.064,
+   "txt": "The leather is"
+  },
+  {
+   "t0": 62.064,
+   "t1": 62.769,
+   "txt": "fixed to the"
+  },
+  {
+   "t0": 62.769,
+   "t1": 63.592,
+   "txt": "box with brass"
+  },
+  {
+   "t0": 63.592,
+   "t1": 64.591,
+   "txt": "upholstery studs."
+  },
+  {
+   "t0": 64.871,
+   "t1": 65.639,
+   "txt": "Such as those"
+  },
+  {
+   "t0": 65.639,
+   "t1": 66.347,
+   "txt": "used in fine"
+  },
+  {
+   "t0": 66.347,
+   "t1": 67.41,
+   "txt": "leather furniture."
+  },
+  {
+   "t0": 67.761,
+   "t1": 68.904,
+   "txt": "Cheaper versions are"
+  },
+  {
+   "t0": 68.904,
+   "t1": 69.361,
+   "txt": "allowed."
+  },
+  {
+   "t0": 69.641,
+   "t1": 70.45,
+   "txt": "The box could"
+  },
+  {
+   "t0": 70.45,
+   "t1": 71.135,
+   "txt": "be plywood,"
+  },
+  {
+   "t0": 71.135,
+   "t1": 71.882,
+   "txt": "fiber board,"
+  },
+  {
+   "t0": 71.882,
+   "t1": 72.691,
+   "txt": "or cardboard."
+  },
+  {
+   "t0": 72.971,
+   "t1": 73.497,
+   "txt": "Although,"
+  },
+  {
+   "t0": 73.497,
+   "t1": 74.432,
+   "txt": "the patent adds,"
+  },
+  {
+   "t0": 74.432,
+   "t1": 75.075,
+   "txt": "this is not"
+  },
+  {
+   "t0": 75.075,
+   "t1": 75.659,
+   "txt": "preferred."
+  },
+  {
+   "t0": 76.01,
+   "t1": 76.757,
+   "txt": "It is also"
+  },
+  {
+   "t0": 76.757,
+   "t1": 77.205,
+   "txt": "a bed."
+  },
+  {
+   "t0": 77.485,
+   "t1": 78.206,
+   "txt": "And it comes"
+  },
+  {
+   "t0": 78.206,
+   "t1": 78.808,
+   "txt": "in colors."
+  },
+  {
+   "t0": 79.088,
+   "t1": 79.993,
+   "txt": "To match your"
+  },
+  {
+   "t0": 79.993,
+   "t1": 80.41,
+   "txt": "decor."
+  },
+  {
+   "t0": 80.761,
+   "t1": 82.312,
+   "txt": "The patent's example:"
+  },
+  {
+   "t0": 82.312,
+   "t1": 83.641,
+   "txt": "powder blue decor?"
+  },
+  {
+   "t0": 84.141,
+   "t1": 84.982,
+   "txt": "Blonde wood and"
+  },
+  {
+   "t0": 84.982,
+   "t1": 86.104,
+   "txt": "powder blue leather."
+  },
+  {
+   "t0": 86.604,
+   "t1": 87.948,
+   "txt": "Antique decor?"
+  },
+  {
+   "t0": 88.448,
+   "t1": 89.438,
+   "txt": "Dark walnut and"
+  },
+  {
+   "t0": 89.438,
+   "t1": 90.56,
+   "txt": "burgundy leather."
+  },
+  {
+   "t0": 91.011,
+   "t1": 91.777,
+   "txt": "The holes are"
+  },
+  {
+   "t0": 91.777,
+   "t1": 92.662,
+   "txt": "compared to the"
+  },
+  {
+   "t0": 92.662,
+   "t1": 93.369,
+   "txt": "pockets of a"
+  },
+  {
+   "t0": 93.369,
+   "t1": 94.254,
+   "txt": "billiard table."
+  },
+  {
+   "t0": 94.534,
+   "t1": 95.298,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 95.298,
+   "t1": 96.39,
+   "txt": "suggests an upgrade."
+  },
+  {
+   "t0": 96.67,
+   "t1": 97.587,
+   "txt": "Six holes."
+  },
+  {
+   "t0": 97.867,
+   "t1": 98.538,
+   "txt": "So the end"
+  },
+  {
+   "t0": 98.538,
+   "t1": 99.747,
+   "txt": "product would look"
+  },
+  {
+   "t0": 99.747,
+   "t1": 100.686,
+   "txt": "even more like"
+  },
+  {
+   "t0": 100.686,
+   "t1": 101.425,
+   "txt": "a real pool"
+  },
+  {
+   "t0": 101.425,
+   "t1": 102.365,
+   "txt": "table with six"
+  },
+  {
+   "t0": 102.365,
+   "t1": 102.902,
+   "txt": "pockets."
+  },
+  {
+   "t0": 103.253,
+   "t1": 103.808,
+   "txt": "And it is"
+  },
+  {
+   "t0": 103.808,
+   "t1": 104.981,
+   "txt": "a multiplayer game."
+  },
+  {
+   "t0": 105.261,
+   "t1": 106.102,
+   "txt": "The game gets"
+  },
+  {
+   "t0": 106.102,
+   "t1": 107.138,
+   "txt": "even more lively"
+  },
+  {
+   "t0": 107.138,
+   "t1": 108.045,
+   "txt": "when more than"
+  },
+  {
+   "t0": 108.045,
+   "t1": 108.951,
+   "txt": "one cat plays."
+  },
+  {
+   "t0": 109.302,
+   "t1": 110.198,
+   "txt": "Cats play with"
+  },
+  {
+   "t0": 110.198,
+   "t1": 111.542,
+   "txt": "the present invention"
+  },
+  {
+   "t0": 111.542,
+   "t1": 112.182,
+   "txt": "for hours,"
+  },
+  {
+   "t0": 112.182,
+   "t1": 113.206,
+   "txt": "says the patent."
+  },
+  {
+   "t0": 113.706,
+   "t1": 114.289,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 114.289,
+   "t1": 115.712,
+   "txt": "nineteen ninety-three."
+  },
+  {
+   "t0": 116.163,
+   "t1": 117.037,
+   "txt": "Number two."
+  },
+  {
+   "t0": 117.317,
+   "t1": 118.747,
+   "txt": "Nineteen forty-nine."
+  },
+  {
+   "t0": 119.098,
+   "t1": 120.154,
+   "txt": "A clear plastic"
+  },
+  {
+   "t0": 120.154,
+   "t1": 120.506,
+   "txt": "tube."
+  },
+  {
+   "t0": 120.786,
+   "t1": 121.764,
+   "txt": "Open at both"
+  },
+  {
+   "t0": 121.764,
+   "t1": 122.172,
+   "txt": "ends."
+  },
+  {
+   "t0": 122.452,
+   "t1": 123.313,
+   "txt": "Big enough for"
+  },
+  {
+   "t0": 123.313,
+   "t1": 123.805,
+   "txt": "a cat to"
+  },
+  {
+   "t0": 123.805,
+   "t1": 124.543,
+   "txt": "walk inside."
+  },
+  {
+   "t0": 124.894,
+   "t1": 125.392,
+   "txt": "Inside,"
+  },
+  {
+   "t0": 125.392,
+   "t1": 126.245,
+   "txt": "toys hang on"
+  },
+  {
+   "t0": 126.245,
+   "t1": 126.814,
+   "txt": "strings."
+  },
+  {
+   "t0": 127.094,
+   "t1": 127.824,
+   "txt": "The cat goes"
+  },
+  {
+   "t0": 127.824,
+   "t1": 128.432,
+   "txt": "in to grab"
+  },
+  {
+   "t0": 128.432,
+   "t1": 128.737,
+   "txt": "them."
+  },
+  {
+   "t0": 129.088,
+   "t1": 130.031,
+   "txt": "The tube starts"
+  },
+  {
+   "t0": 130.031,
+   "t1": 130.596,
+   "txt": "as a flat"
+  },
+  {
+   "t0": 130.596,
+   "t1": 131.602,
+   "txt": "sheet with holes"
+  },
+  {
+   "t0": 131.602,
+   "t1": 132.608,
+   "txt": "along the edges."
+  },
+  {
+   "t0": 132.888,
+   "t1": 133.489,
+   "txt": "You roll it"
+  },
+  {
+   "t0": 133.489,
+   "t1": 134.09,
+   "txt": "up and lace"
+  },
+  {
+   "t0": 134.09,
+   "t1": 134.745,
+   "txt": "it shut with"
+  },
+  {
+   "t0": 134.745,
+   "t1": 135.128,
+   "txt": "string."
+  },
+  {
+   "t0": 135.479,
+   "t1": 136.122,
+   "txt": "And when the"
+  },
+  {
+   "t0": 136.122,
+   "t1": 136.658,
+   "txt": "cat grabs,"
+  },
+  {
+   "t0": 136.658,
+   "t1": 137.463,
+   "txt": "the tube rolls."
+  },
+  {
+   "t0": 137.743,
+   "t1": 138.784,
+   "txt": "The patent claims"
+  },
+  {
+   "t0": 138.784,
+   "t1": 139.458,
+   "txt": "a tube free"
+  },
+  {
+   "t0": 139.458,
+   "t1": 140.071,
+   "txt": "to roll on"
+  },
+  {
+   "t0": 140.071,
+   "t1": 140.683,
+   "txt": "a floor in"
+  },
+  {
+   "t0": 140.683,
+   "t1": 141.97,
+   "txt": "response to movements"
+  },
+  {
+   "t0": 141.97,
+   "t1": 142.521,
+   "txt": "of a cat."
+  },
+  {
+   "t0": 142.872,
+   "t1": 143.592,
+   "txt": "So the cat"
+  },
+  {
+   "t0": 143.592,
+   "t1": 144.384,
+   "txt": "is inside a"
+  },
+  {
+   "t0": 144.384,
+   "t1": 145.32,
+   "txt": "rolling tube,"
+  },
+  {
+   "t0": 145.32,
+   "t1": 146.544,
+   "txt": "chasing toys that"
+  },
+  {
+   "t0": 146.544,
+   "t1": 147.48,
+   "txt": "roll with it."
+  },
+  {
+   "t0": 147.931,
+   "t1": 148.71,
+   "txt": "The patent is"
+  },
+  {
+   "t0": 148.71,
+   "t1": 149.669,
+   "txt": "honest about who"
+  },
+  {
+   "t0": 149.669,
+   "t1": 150.508,
+   "txt": "this is really"
+  },
+  {
+   "t0": 150.508,
+   "t1": 150.747,
+   "txt": "for."
+  },
+  {
+   "t0": 151.098,
+   "t1": 152.091,
+   "txt": "It induces the"
+  },
+  {
+   "t0": 152.091,
+   "t1": 153.155,
+   "txt": "cats to perform"
+  },
+  {
+   "t0": 153.155,
+   "t1": 154.644,
+   "txt": "numerous antics quite"
+  },
+  {
+   "t0": 154.644,
+   "t1": 155.637,
+   "txt": "amusing to the"
+  },
+  {
+   "t0": 155.637,
+   "t1": 156.346,
+   "txt": "observers."
+  },
+  {
+   "t0": 156.797,
+   "t1": 157.8,
+   "txt": "It ships flat."
+  },
+  {
+   "t0": 158.08,
+   "t1": 158.954,
+   "txt": "Plastic sheets,"
+  },
+  {
+   "t0": 158.954,
+   "t1": 159.886,
+   "txt": "string and toys,"
+  },
+  {
+   "t0": 159.886,
+   "t1": 160.759,
+   "txt": "to be assembled"
+  },
+  {
+   "t0": 160.759,
+   "t1": 161.749,
+   "txt": "by the purchaser."
+  },
+  {
+   "t0": 162.1,
+   "t1": 163.122,
+   "txt": "And everything can"
+  },
+  {
+   "t0": 163.122,
+   "t1": 163.689,
+   "txt": "be made of"
+  },
+  {
+   "t0": 163.689,
+   "t1": 164.767,
+   "txt": "waterproof plastic."
+  },
+  {
+   "t0": 165.047,
+   "t1": 166.519,
+   "txt": "For sanitary cleansing."
+  },
+  {
+   "t0": 166.87,
+   "t1": 168.555,
+   "txt": "Some assembly required."
+  },
+  {
+   "t0": 169.055,
+   "t1": 169.659,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 169.659,
+   "t1": 170.933,
+   "txt": "nineteen fifty-one."
+  },
+  {
+   "t0": 171.384,
+   "t1": 172.301,
+   "txt": "Number three."
+  },
+  {
+   "t0": 172.581,
+   "t1": 173.285,
+   "txt": "Look up."
+  },
+  {
+   "t0": 173.636,
+   "t1": 174.212,
+   "txt": "This is a"
+  },
+  {
+   "t0": 174.212,
+   "t1": 174.788,
+   "txt": "platform,"
+  },
+  {
+   "t0": 174.788,
+   "t1": 175.492,
+   "txt": "high on the"
+  },
+  {
+   "t0": 175.492,
+   "t1": 175.812,
+   "txt": "wall."
+  },
+  {
+   "t0": 176.092,
+   "t1": 176.903,
+   "txt": "For the cat."
+  },
+  {
+   "t0": 177.254,
+   "t1": 177.888,
+   "txt": "The cat can"
+  },
+  {
+   "t0": 177.888,
+   "t1": 178.811,
+   "txt": "climb a carpeted"
+  },
+  {
+   "t0": 178.811,
+   "t1": 179.446,
+   "txt": "pole to get"
+  },
+  {
+   "t0": 179.446,
+   "t1": 179.792,
+   "txt": "there."
+  },
+  {
+   "t0": 180.072,
+   "t1": 180.579,
+   "txt": "Or it can"
+  },
+  {
+   "t0": 180.579,
+   "t1": 181.48,
+   "txt": "take the bridge."
+  },
+  {
+   "t0": 181.831,
+   "t1": 183.328,
+   "txt": "Each suspension bridge"
+  },
+  {
+   "t0": 183.328,
+   "t1": 184.008,
+   "txt": "is made up"
+  },
+  {
+   "t0": 184.008,
+   "t1": 184.961,
+   "txt": "of a plurality"
+  },
+  {
+   "t0": 184.961,
+   "t1": 186.185,
+   "txt": "of small platforms"
+  },
+  {
+   "t0": 186.185,
+   "t1": 187.342,
+   "txt": "or steps attached"
+  },
+  {
+   "t0": 187.342,
+   "t1": 187.954,
+   "txt": "to ropes."
+  },
+  {
+   "t0": 188.305,
+   "t1": 189.414,
+   "txt": "Rope bridges."
+  },
+  {
+   "t0": 189.914,
+   "t1": 190.81,
+   "txt": "Indoors."
+  },
+  {
+   "t0": 191.31,
+   "t1": 191.958,
+   "txt": "Held up by"
+  },
+  {
+   "t0": 191.958,
+   "t1": 192.929,
+   "txt": "what the claims"
+  },
+  {
+   "t0": 192.929,
+   "t1": 194.548,
+   "txt": "call undulating connector"
+  },
+  {
+   "t0": 194.548,
+   "t1": 194.937,
+   "txt": "ropes."
+  },
+  {
+   "t0": 195.388,
+   "t1": 196.142,
+   "txt": "The steps can"
+  },
+  {
+   "t0": 196.142,
+   "t1": 196.839,
+   "txt": "be inclined."
+  },
+  {
+   "t0": 197.119,
+   "t1": 198.228,
+   "txt": "Or horizontal."
+  },
+  {
+   "t0": 198.508,
+   "t1": 199.425,
+   "txt": "Or carpeted."
+  },
+  {
+   "t0": 199.705,
+   "t1": 200.624,
+   "txt": "The claims cover"
+  },
+  {
+   "t0": 200.624,
+   "t1": 201.199,
+   "txt": "all of it."
+  },
+  {
+   "t0": 201.55,
+   "t1": 202.142,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 202.142,
+   "t1": 203.129,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 203.129,
+   "t1": 203.524,
+   "txt": "words:"
+  },
+  {
+   "t0": 203.524,
+   "t1": 204.445,
+   "txt": "a device which"
+  },
+  {
+   "t0": 204.445,
+   "t1": 205.696,
+   "txt": "more fully exploits"
+  },
+  {
+   "t0": 205.696,
+   "t1": 206.748,
+   "txt": "a cat's superior"
+  },
+  {
+   "t0": 206.748,
+   "t1": 208.196,
+   "txt": "climbing abilities and"
+  },
+  {
+   "t0": 208.196,
+   "t1": 209.315,
+   "txt": "sense of balance."
+  },
+  {
+   "t0": 209.666,
+   "t1": 210.474,
+   "txt": "To the greater"
+  },
+  {
+   "t0": 210.474,
+   "t1": 211.398,
+   "txt": "enjoyment of the"
+  },
+  {
+   "t0": 211.398,
+   "t1": 211.629,
+   "txt": "cat."
+  },
+  {
+   "t0": 212.129,
+   "t1": 213.366,
+   "txt": "And entertainment of"
+  },
+  {
+   "t0": 213.366,
+   "t1": 213.985,
+   "txt": "its owner."
+  },
+  {
+   "t0": 214.436,
+   "t1": 215.152,
+   "txt": "And there is"
+  },
+  {
+   "t0": 215.152,
+   "t1": 215.63,
+   "txt": "a bonus."
+  },
+  {
+   "t0": 215.91,
+   "t1": 216.809,
+   "txt": "It is mounted"
+  },
+  {
+   "t0": 216.809,
+   "t1": 217.639,
+   "txt": "on the wall,"
+  },
+  {
+   "t0": 217.639,
+   "t1": 218.607,
+   "txt": "so it occupies"
+  },
+  {
+   "t0": 218.607,
+   "t1": 219.921,
+   "txt": "little human space."
+  },
+  {
+   "t0": 220.272,
+   "t1": 220.876,
+   "txt": "It is also"
+  },
+  {
+   "t0": 220.876,
+   "t1": 221.904,
+   "txt": "designed to blend"
+  },
+  {
+   "t0": 221.904,
+   "t1": 223.173,
+   "txt": "with the furnishings."
+  },
+  {
+   "t0": 223.673,
+   "t1": 224.451,
+   "txt": "A rope bridge"
+  },
+  {
+   "t0": 224.451,
+   "t1": 225.229,
+   "txt": "on the living"
+  },
+  {
+   "t0": 225.229,
+   "t1": 225.828,
+   "txt": "room wall."
+  },
+  {
+   "t0": 226.328,
+   "t1": 227.288,
+   "txt": "Blending in."
+  },
+  {
+   "t0": 227.739,
+   "t1": 229.168,
+   "txt": "Little human space."
+  },
+  {
+   "t0": 229.668,
+   "t1": 230.271,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 230.271,
+   "t1": 231.61,
+   "txt": "nineteen ninety-one."
+  },
+  {
+   "t0": 232.061,
+   "t1": 232.978,
+   "txt": "Number four."
+  },
+  {
+   "t0": 233.258,
+   "t1": 233.807,
+   "txt": "We go back"
+  },
+  {
+   "t0": 233.807,
+   "t1": 235.178,
+   "txt": "to nineteen twenty-three."
+  },
+  {
+   "t0": 235.529,
+   "t1": 236.553,
+   "txt": "A hollow rubber"
+  },
+  {
+   "t0": 236.553,
+   "t1": 237.509,
+   "txt": "ball with oval"
+  },
+  {
+   "t0": 237.509,
+   "t1": 237.918,
+   "txt": "slots."
+  },
+  {
+   "t0": 238.198,
+   "t1": 239.05,
+   "txt": "And inside the"
+  },
+  {
+   "t0": 239.05,
+   "t1": 239.354,
+   "txt": "ball,"
+  },
+  {
+   "t0": 239.354,
+   "t1": 239.841,
+   "txt": "a mouse."
+  },
+  {
+   "t0": 240.192,
+   "t1": 241.03,
+   "txt": "Not a real"
+  },
+  {
+   "t0": 241.03,
+   "t1": 241.365,
+   "txt": "one."
+  },
+  {
+   "t0": 241.645,
+   "t1": 242.511,
+   "txt": "The claim calls"
+  },
+  {
+   "t0": 242.511,
+   "t1": 243.608,
+   "txt": "it a catnip-scented"
+  },
+  {
+   "t0": 243.608,
+   "t1": 244.243,
+   "txt": "figure of a"
+  },
+  {
+   "t0": 244.243,
+   "t1": 244.589,
+   "txt": "mouse."
+  },
+  {
+   "t0": 244.869,
+   "t1": 245.669,
+   "txt": "Made of cloth,"
+  },
+  {
+   "t0": 245.669,
+   "t1": 246.811,
+   "txt": "stuffed with catnip."
+  },
+  {
+   "t0": 247.162,
+   "t1": 247.676,
+   "txt": "So that,"
+  },
+  {
+   "t0": 247.676,
+   "t1": 248.062,
+   "txt": "quote,"
+  },
+  {
+   "t0": 248.062,
+   "t1": 248.835,
+   "txt": "an odor will"
+  },
+  {
+   "t0": 248.835,
+   "t1": 249.864,
+   "txt": "be produced that"
+  },
+  {
+   "t0": 249.864,
+   "t1": 250.765,
+   "txt": "is pleasing to"
+  },
+  {
+   "t0": 250.765,
+   "t1": 251.151,
+   "txt": "a cat."
+  },
+  {
+   "t0": 251.602,
+   "t1": 252.265,
+   "txt": "And here is"
+  },
+  {
+   "t0": 252.265,
+   "t1": 252.808,
+   "txt": "the plan,"
+  },
+  {
+   "t0": 252.808,
+   "t1": 253.954,
+   "txt": "written in nineteen"
+  },
+  {
+   "t0": 253.954,
+   "t1": 254.738,
+   "txt": "twenty-three."
+  },
+  {
+   "t0": 255.089,
+   "t1": 255.823,
+   "txt": "The cat may"
+  },
+  {
+   "t0": 255.823,
+   "t1": 256.69,
+   "txt": "see the mouse"
+  },
+  {
+   "t0": 256.69,
+   "t1": 257.824,
+   "txt": "but cannot remove"
+  },
+  {
+   "t0": 257.824,
+   "t1": 258.691,
+   "txt": "the same from"
+  },
+  {
+   "t0": 258.691,
+   "t1": 259.292,
+   "txt": "the ball."
+  },
+  {
+   "t0": 259.743,
+   "t1": 260.484,
+   "txt": "Not by the"
+  },
+  {
+   "t0": 260.484,
+   "t1": 260.781,
+   "txt": "cat,"
+  },
+  {
+   "t0": 260.781,
+   "t1": 261.3,
+   "txt": "anyway."
+  },
+  {
+   "t0": 261.58,
+   "t1": 262.13,
+   "txt": "How do you"
+  },
+  {
+   "t0": 262.13,
+   "t1": 262.844,
+   "txt": "get the mouse"
+  },
+  {
+   "t0": 262.844,
+   "t1": 263.009,
+   "txt": "in?"
+  },
+  {
+   "t0": 263.289,
+   "t1": 264.22,
+   "txt": "You stretch the"
+  },
+  {
+   "t0": 264.22,
+   "t1": 265.274,
+   "txt": "rubber ball until"
+  },
+  {
+   "t0": 265.274,
+   "t1": 265.956,
+   "txt": "one slot is"
+  },
+  {
+   "t0": 265.956,
+   "t1": 266.639,
+   "txt": "big enough."
+  },
+  {
+   "t0": 266.99,
+   "t1": 267.664,
+   "txt": "And the mouse"
+  },
+  {
+   "t0": 267.664,
+   "t1": 268.287,
+   "txt": "is too light"
+  },
+  {
+   "t0": 268.287,
+   "t1": 268.857,
+   "txt": "to push its"
+  },
+  {
+   "t0": 268.857,
+   "t1": 269.272,
+   "txt": "way out."
+  },
+  {
+   "t0": 269.552,
+   "t1": 270.306,
+   "txt": "Even when the"
+  },
+  {
+   "t0": 270.306,
+   "t1": 271.118,
+   "txt": "ball is upside"
+  },
+  {
+   "t0": 271.118,
+   "t1": 271.408,
+   "txt": "down."
+  },
+  {
+   "t0": 271.759,
+   "t1": 272.625,
+   "txt": "And the inventor"
+  },
+  {
+   "t0": 272.625,
+   "t1": 273.544,
+   "txt": "promises peace in"
+  },
+  {
+   "t0": 273.544,
+   "t1": 274.085,
+   "txt": "the house."
+  },
+  {
+   "t0": 274.365,
+   "t1": 275.134,
+   "txt": "The ball will"
+  },
+  {
+   "t0": 275.134,
+   "t1": 275.962,
+   "txt": "not injure the"
+  },
+  {
+   "t0": 275.962,
+   "t1": 277.027,
+   "txt": "furniture nor hurt"
+  },
+  {
+   "t0": 277.027,
+   "t1": 277.501,
+   "txt": "the cat."
+  },
+  {
+   "t0": 277.852,
+   "t1": 278.854,
+   "txt": "The furniture is"
+  },
+  {
+   "t0": 278.854,
+   "t1": 279.857,
+   "txt": "mentioned first."
+  },
+  {
+   "t0": 280.357,
+   "t1": 280.984,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 280.984,
+   "t1": 282.448,
+   "txt": "nineteen twenty-five."
+  },
+  {
+   "t0": 282.899,
+   "t1": 283.859,
+   "txt": "Number five."
+  },
+  {
+   "t0": 284.139,
+   "t1": 285.291,
+   "txt": "Remote control."
+  },
+  {
+   "t0": 285.642,
+   "t1": 286.559,
+   "txt": "A low base."
+  },
+  {
+   "t0": 286.839,
+   "t1": 288.076,
+   "txt": "A rotating arm."
+  },
+  {
+   "t0": 288.356,
+   "t1": 289.146,
+   "txt": "A string."
+  },
+  {
+   "t0": 289.426,
+   "t1": 289.995,
+   "txt": "And on the"
+  },
+  {
+   "t0": 289.995,
+   "t1": 290.563,
+   "txt": "end of the"
+  },
+  {
+   "t0": 290.563,
+   "t1": 290.962,
+   "txt": "string,"
+  },
+  {
+   "t0": 290.962,
+   "t1": 291.303,
+   "txt": "a toy."
+  },
+  {
+   "t0": 291.654,
+   "t1": 292.525,
+   "txt": "A battery motor"
+  },
+  {
+   "t0": 292.525,
+   "t1": 293.338,
+   "txt": "swings the toy"
+  },
+  {
+   "t0": 293.338,
+   "t1": 293.745,
+   "txt": "around."
+  },
+  {
+   "t0": 294.025,
+   "t1": 295.167,
+   "txt": "A switch reverses"
+  },
+  {
+   "t0": 295.167,
+   "t1": 295.369,
+   "txt": "it."
+  },
+  {
+   "t0": 295.649,
+   "t1": 296.427,
+   "txt": "The switch can"
+  },
+  {
+   "t0": 296.427,
+   "t1": 296.983,
+   "txt": "sit at the"
+  },
+  {
+   "t0": 296.983,
+   "t1": 297.427,
+   "txt": "end of a"
+  },
+  {
+   "t0": 297.427,
+   "t1": 297.761,
+   "txt": "cable."
+  },
+  {
+   "t0": 298.041,
+   "t1": 298.578,
+   "txt": "So you can"
+  },
+  {
+   "t0": 298.578,
+   "t1": 299.331,
+   "txt": "play with your"
+  },
+  {
+   "t0": 299.331,
+   "t1": 300.138,
+   "txt": "cat from across"
+  },
+  {
+   "t0": 300.138,
+   "t1": 300.622,
+   "txt": "the room."
+  },
+  {
+   "t0": 300.973,
+   "t1": 301.891,
+   "txt": "The patent goes"
+  },
+  {
+   "t0": 301.891,
+   "t1": 302.381,
+   "txt": "further."
+  },
+  {
+   "t0": 302.661,
+   "t1": 303.35,
+   "txt": "It lets the"
+  },
+  {
+   "t0": 303.35,
+   "t1": 304.414,
+   "txt": "owner directly or"
+  },
+  {
+   "t0": 304.414,
+   "t1": 305.541,
+   "txt": "remotely play with"
+  },
+  {
+   "t0": 305.541,
+   "t1": 306.293,
+   "txt": "his pet from"
+  },
+  {
+   "t0": 306.293,
+   "t1": 307.482,
+   "txt": "virtually anywhere."
+  },
+  {
+   "t0": 307.833,
+   "t1": 308.594,
+   "txt": "It also has"
+  },
+  {
+   "t0": 308.594,
+   "t1": 309.216,
+   "txt": "a view of"
+  },
+  {
+   "t0": 309.216,
+   "t1": 309.561,
+   "txt": "cats."
+  },
+  {
+   "t0": 310.061,
+   "t1": 311.0,
+   "txt": "And of us."
+  },
+  {
+   "t0": 311.451,
+   "t1": 312.283,
+   "txt": "And a mission."
+  },
+  {
+   "t0": 312.563,
+   "t1": 313.321,
+   "txt": "To help cats"
+  },
+  {
+   "t0": 313.321,
+   "t1": 314.269,
+   "txt": "that have grown"
+  },
+  {
+   "t0": 314.269,
+   "t1": 315.09,
+   "txt": "over fearful,"
+  },
+  {
+   "t0": 315.09,
+   "t1": 315.785,
+   "txt": "aggressive,"
+  },
+  {
+   "t0": 315.785,
+   "t1": 316.67,
+   "txt": "or have become"
+  },
+  {
+   "t0": 316.67,
+   "t1": 317.491,
+   "txt": "poor hunters."
+  },
+  {
+   "t0": 317.842,
+   "t1": 318.722,
+   "txt": "It calls itself"
+  },
+  {
+   "t0": 318.722,
+   "t1": 319.426,
+   "txt": "a theater of"
+  },
+  {
+   "t0": 319.426,
+   "t1": 319.954,
+   "txt": "learning."
+  },
+  {
+   "t0": 320.405,
+   "t1": 321.266,
+   "txt": "And the motor"
+  },
+  {
+   "t0": 321.266,
+   "t1": 322.26,
+   "txt": "is belt driven,"
+  },
+  {
+   "t0": 322.26,
+   "t1": 322.79,
+   "txt": "because,"
+  },
+  {
+   "t0": 322.79,
+   "t1": 323.187,
+   "txt": "quote,"
+  },
+  {
+   "t0": 323.187,
+   "t1": 324.115,
+   "txt": "the motor belt"
+  },
+  {
+   "t0": 324.115,
+   "t1": 325.705,
+   "txt": "drive mechanism produces"
+  },
+  {
+   "t0": 325.705,
+   "t1": 326.765,
+   "txt": "less noise which"
+  },
+  {
+   "t0": 326.765,
+   "t1": 327.825,
+   "txt": "is more pleasing"
+  },
+  {
+   "t0": 327.825,
+   "t1": 328.884,
+   "txt": "to operators and"
+  },
+  {
+   "t0": 328.884,
+   "t1": 329.216,
+   "txt": "pets."
+  },
+  {
+   "t0": 329.567,
+   "t1": 330.243,
+   "txt": "And it knows"
+  },
+  {
+   "t0": 330.243,
+   "t1": 330.975,
+   "txt": "its audience."
+  },
+  {
+   "t0": 331.255,
+   "t1": 332.221,
+   "txt": "Cats have shown"
+  },
+  {
+   "t0": 332.221,
+   "t1": 333.059,
+   "txt": "a tendency to"
+  },
+  {
+   "t0": 333.059,
+   "t1": 334.025,
+   "txt": "chew on exposed"
+  },
+  {
+   "t0": 334.025,
+   "t1": 334.412,
+   "txt": "cords."
+  },
+  {
+   "t0": 334.692,
+   "t1": 335.513,
+   "txt": "So the remote"
+  },
+  {
+   "t0": 335.513,
+   "t1": 336.586,
+   "txt": "cord carries only"
+  },
+  {
+   "t0": 336.586,
+   "t1": 337.155,
+   "txt": "one and a"
+  },
+  {
+   "t0": 337.155,
+   "t1": 337.849,
+   "txt": "half volts."
+  },
+  {
+   "t0": 338.129,
+   "t1": 339.289,
+   "txt": "A wireless remote,"
+  },
+  {
+   "t0": 339.289,
+   "t1": 340.319,
+   "txt": "the patent adds,"
+  },
+  {
+   "t0": 340.319,
+   "t1": 341.157,
+   "txt": "could also be"
+  },
+  {
+   "t0": 341.157,
+   "t1": 341.479,
+   "txt": "used."
+  },
+  {
+   "t0": 341.83,
+   "t1": 342.422,
+   "txt": "It can be"
+  },
+  {
+   "t0": 342.422,
+   "t1": 343.476,
+   "txt": "mounted upright,"
+  },
+  {
+   "t0": 343.476,
+   "t1": 344.266,
+   "txt": "upside down,"
+  },
+  {
+   "t0": 344.266,
+   "t1": 344.925,
+   "txt": "on a wall,"
+  },
+  {
+   "t0": 344.925,
+   "t1": 345.583,
+   "txt": "or hung on"
+  },
+  {
+   "t0": 345.583,
+   "t1": 346.374,
+   "txt": "a door knob."
+  },
+  {
+   "t0": 346.654,
+   "t1": 347.468,
+   "txt": "Some parts are"
+  },
+  {
+   "t0": 347.468,
+   "t1": 348.166,
+   "txt": "held on with"
+  },
+  {
+   "t0": 348.166,
+   "t1": 348.574,
+   "txt": "screws."
+  },
+  {
+   "t0": 348.854,
+   "t1": 349.372,
+   "txt": "However,"
+  },
+  {
+   "t0": 349.372,
+   "t1": 350.345,
+   "txt": "gluing or other"
+  },
+  {
+   "t0": 350.345,
+   "t1": 351.642,
+   "txt": "fasteners could also"
+  },
+  {
+   "t0": 351.642,
+   "t1": 352.16,
+   "txt": "be used."
+  },
+  {
+   "t0": 352.511,
+   "t1": 353.41,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 353.41,
+   "t1": 354.069,
+   "txt": "that a lot."
+  },
+  {
+   "t0": 354.569,
+   "t1": 355.219,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 355.219,
+   "t1": 356.809,
+   "txt": "nineteen ninety-seven."
+  },
+  {
+   "t0": 357.26,
+   "t1": 358.156,
+   "txt": "Number six."
+  },
+  {
+   "t0": 358.436,
+   "t1": 359.481,
+   "txt": "The litter box."
+  },
+  {
+   "t0": 359.832,
+   "t1": 360.729,
+   "txt": "This is not"
+  },
+  {
+   "t0": 360.729,
+   "t1": 361.219,
+   "txt": "a box."
+  },
+  {
+   "t0": 361.499,
+   "t1": 362.109,
+   "txt": "This is a"
+  },
+  {
+   "t0": 362.109,
+   "t1": 362.651,
+   "txt": "cabinet."
+  },
+  {
+   "t0": 362.931,
+   "t1": 363.691,
+   "txt": "With a doorway"
+  },
+  {
+   "t0": 363.691,
+   "t1": 364.343,
+   "txt": "for the cat,"
+  },
+  {
+   "t0": 364.343,
+   "t1": 364.996,
+   "txt": "and a drawer"
+  },
+  {
+   "t0": 364.996,
+   "t1": 365.811,
+   "txt": "for the litter."
+  },
+  {
+   "t0": 366.162,
+   "t1": 367.349,
+   "txt": "The patent's opinion"
+  },
+  {
+   "t0": 367.349,
+   "t1": 368.062,
+   "txt": "of itself is"
+  },
+  {
+   "t0": 368.062,
+   "t1": 368.359,
+   "txt": "high."
+  },
+  {
+   "t0": 368.639,
+   "t1": 369.328,
+   "txt": "It has all"
+  },
+  {
+   "t0": 369.328,
+   "t1": 370.501,
+   "txt": "the advantages of"
+  },
+  {
+   "t0": 370.501,
+   "t1": 371.397,
+   "txt": "the prior art"
+  },
+  {
+   "t0": 371.397,
+   "t1": 372.155,
+   "txt": "and none of"
+  },
+  {
+   "t0": 372.155,
+   "t1": 373.396,
+   "txt": "the disadvantages."
+  },
+  {
+   "t0": 373.747,
+   "t1": 374.195,
+   "txt": "Inside,"
+  },
+  {
+   "t0": 374.195,
+   "t1": 375.027,
+   "txt": "the floor has"
+  },
+  {
+   "t0": 375.027,
+   "t1": 375.475,
+   "txt": "carpet."
+  },
+  {
+   "t0": 375.755,
+   "t1": 377.125,
+   "txt": "The synthetic carpeting"
+  },
+  {
+   "t0": 377.125,
+   "t1": 378.019,
+   "txt": "serves to clean"
+  },
+  {
+   "t0": 378.019,
+   "t1": 379.091,
+   "txt": "cat litter residue"
+  },
+  {
+   "t0": 379.091,
+   "t1": 379.687,
+   "txt": "off of the"
+  },
+  {
+   "t0": 379.687,
+   "t1": 380.342,
+   "txt": "cat's paws."
+  },
+  {
+   "t0": 380.693,
+   "t1": 381.717,
+   "txt": "There's a shelf,"
+  },
+  {
+   "t0": 381.717,
+   "t1": 381.973,
+   "txt": "too."
+  },
+  {
+   "t0": 382.473,
+   "t1": 383.36,
+   "txt": "A sitting area"
+  },
+  {
+   "t0": 383.36,
+   "t1": 384.057,
+   "txt": "for the cat"
+  },
+  {
+   "t0": 384.057,
+   "t1": 384.88,
+   "txt": "if it chooses"
+  },
+  {
+   "t0": 384.88,
+   "t1": 385.894,
+   "txt": "to remain within"
+  },
+  {
+   "t0": 385.894,
+   "t1": 386.654,
+   "txt": "the housing."
+  },
+  {
+   "t0": 387.105,
+   "t1": 387.766,
+   "txt": "And there is"
+  },
+  {
+   "t0": 387.766,
+   "t1": 388.536,
+   "txt": "a round window"
+  },
+  {
+   "t0": 388.536,
+   "t1": 389.196,
+   "txt": "on the side."
+  },
+  {
+   "t0": 389.476,
+   "t1": 390.53,
+   "txt": "The patent explains"
+  },
+  {
+   "t0": 390.53,
+   "t1": 391.306,
+   "txt": "who the window"
+  },
+  {
+   "t0": 391.306,
+   "t1": 391.695,
+   "txt": "is for."
+  },
+  {
+   "t0": 392.046,
+   "t1": 393.379,
+   "txt": "The circular window"
+  },
+  {
+   "t0": 393.379,
+   "t1": 394.431,
+   "txt": "is elevated for"
+  },
+  {
+   "t0": 394.431,
+   "t1": 395.413,
+   "txt": "viewing of the"
+  },
+  {
+   "t0": 395.413,
+   "t1": 396.466,
+   "txt": "interior of the"
+  },
+  {
+   "t0": 396.466,
+   "t1": 397.448,
+   "txt": "housing by the"
+  },
+  {
+   "t0": 397.448,
+   "t1": 398.36,
+   "txt": "cat's owners."
+  },
+  {
+   "t0": 398.811,
+   "t1": 399.586,
+   "txt": "The drawer has"
+  },
+  {
+   "t0": 399.586,
+   "t1": 400.305,
+   "txt": "a window too."
+  },
+  {
+   "t0": 400.585,
+   "t1": 401.289,
+   "txt": "So the owner"
+  },
+  {
+   "t0": 401.289,
+   "t1": 402.286,
+   "txt": "can visualize the"
+  },
+  {
+   "t0": 402.286,
+   "t1": 403.342,
+   "txt": "litter box without"
+  },
+  {
+   "t0": 403.342,
+   "t1": 404.163,
+   "txt": "having to open"
+  },
+  {
+   "t0": 404.163,
+   "t1": 404.809,
+   "txt": "the drawer."
+  },
+  {
+   "t0": 405.16,
+   "t1": 406.482,
+   "txt": "Then the technology."
+  },
+  {
+   "t0": 406.762,
+   "t1": 407.886,
+   "txt": "A motion detector"
+  },
+  {
+   "t0": 407.886,
+   "t1": 408.811,
+   "txt": "senses the cat"
+  },
+  {
+   "t0": 408.811,
+   "t1": 409.472,
+   "txt": "coming in,"
+  },
+  {
+   "t0": 409.472,
+   "t1": 410.463,
+   "txt": "and switches on"
+  },
+  {
+   "t0": 410.463,
+   "t1": 411.388,
+   "txt": "an exhaust fan"
+  },
+  {
+   "t0": 411.388,
+   "t1": 412.181,
+   "txt": "in the roof."
+  },
+  {
+   "t0": 412.532,
+   "t1": 413.301,
+   "txt": "The fan has"
+  },
+  {
+   "t0": 413.301,
+   "t1": 413.791,
+   "txt": "a hose."
+  },
+  {
+   "t0": 414.071,
+   "t1": 414.96,
+   "txt": "The hose connects"
+  },
+  {
+   "t0": 414.96,
+   "t1": 415.588,
+   "txt": "to an outlet"
+  },
+  {
+   "t0": 415.588,
+   "t1": 416.268,
+   "txt": "of the house."
+  },
+  {
+   "t0": 416.548,
+   "t1": 417.343,
+   "txt": "The fan keeps"
+  },
+  {
+   "t0": 417.343,
+   "t1": 418.137,
+   "txt": "running for a"
+  },
+  {
+   "t0": 418.137,
+   "t1": 419.054,
+   "txt": "while after the"
+  },
+  {
+   "t0": 419.054,
+   "t1": 419.727,
+   "txt": "cat leaves."
+  },
+  {
+   "t0": 420.078,
+   "t1": 421.571,
+   "txt": "Plus a deodorizer."
+  },
+  {
+   "t0": 421.851,
+   "t1": 422.229,
+   "txt": "Which,"
+  },
+  {
+   "t0": 422.229,
+   "t1": 423.237,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 423.237,
+   "t1": 424.245,
+   "txt": "serves to offset"
+  },
+  {
+   "t0": 424.245,
+   "t1": 425.442,
+   "txt": "the unpleasant odor"
+  },
+  {
+   "t0": 425.442,
+   "t1": 426.513,
+   "txt": "produced from the"
+  },
+  {
+   "t0": 426.513,
+   "t1": 427.206,
+   "txt": "litter box."
+  },
+  {
+   "t0": 427.557,
+   "t1": 428.234,
+   "txt": "How do you"
+  },
+  {
+   "t0": 428.234,
+   "t1": 428.709,
+   "txt": "use it?"
+  },
+  {
+   "t0": 429.209,
+   "t1": 430.201,
+   "txt": "The patent is"
+  },
+  {
+   "t0": 430.201,
+   "t1": 430.659,
+   "txt": "brief."
+  },
+  {
+   "t0": 431.159,
+   "t1": 431.982,
+   "txt": "Accordingly,"
+  },
+  {
+   "t0": 431.982,
+   "t1": 433.423,
+   "txt": "no further discussion"
+  },
+  {
+   "t0": 433.423,
+   "t1": 434.452,
+   "txt": "relating to the"
+  },
+  {
+   "t0": 434.452,
+   "t1": 435.48,
+   "txt": "manner of usage"
+  },
+  {
+   "t0": 435.48,
+   "t1": 436.715,
+   "txt": "and operation will"
+  },
+  {
+   "t0": 436.715,
+   "t1": 437.538,
+   "txt": "be provided."
+  },
+  {
+   "t0": 437.989,
+   "t1": 439.568,
+   "txt": "No further discussion."
+  },
+  {
+   "t0": 440.068,
+   "t1": 440.644,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 440.644,
+   "t1": 442.052,
+   "txt": "nineteen ninety-eight."
+  },
+  {
+   "t0": 442.503,
+   "t1": 443.42,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 443.7,
+   "t1": 444.361,
+   "txt": "Physics."
+  },
+  {
+   "t0": 444.712,
+   "t1": 445.736,
+   "txt": "The patent opens"
+  },
+  {
+   "t0": 445.736,
+   "t1": 446.568,
+   "txt": "with respect."
+  },
+  {
+   "t0": 446.848,
+   "t1": 448.025,
+   "txt": "Cats are predatory"
+  },
+  {
+   "t0": 448.025,
+   "t1": 449.593,
+   "txt": "creatures with precision"
+  },
+  {
+   "t0": 449.593,
+   "t1": 450.966,
+   "txt": "tuned hunting skills."
+  },
+  {
+   "t0": 451.317,
+   "t1": 452.255,
+   "txt": "Then it admits"
+  },
+  {
+   "t0": 452.255,
+   "t1": 453.194,
+   "txt": "a problem with"
+  },
+  {
+   "t0": 453.194,
+   "t1": 453.663,
+   "txt": "humans."
+  },
+  {
+   "t0": 453.943,
+   "t1": 454.68,
+   "txt": "There may be"
+  },
+  {
+   "t0": 454.68,
+   "t1": 455.54,
+   "txt": "times when the"
+  },
+  {
+   "t0": 455.54,
+   "t1": 456.399,
+   "txt": "owner does not"
+  },
+  {
+   "t0": 456.399,
+   "t1": 457.136,
+   "txt": "have time or"
+  },
+  {
+   "t0": 457.136,
+   "t1": 457.996,
+   "txt": "energy to play"
+  },
+  {
+   "t0": 457.996,
+   "t1": 458.978,
+   "txt": "with their pets."
+  },
+  {
+   "t0": 459.329,
+   "t1": 460.075,
+   "txt": "And a problem"
+  },
+  {
+   "t0": 460.075,
+   "t1": 460.993,
+   "txt": "with other toys."
+  },
+  {
+   "t0": 461.273,
+   "t1": 462.817,
+   "txt": "Their repetitious motion"
+  },
+  {
+   "t0": 462.817,
+   "t1": 463.783,
+   "txt": "can become very"
+  },
+  {
+   "t0": 463.783,
+   "t1": 464.941,
+   "txt": "predictable to the"
+  },
+  {
+   "t0": 464.941,
+   "t1": 465.198,
+   "txt": "cat."
+  },
+  {
+   "t0": 465.549,
+   "t1": 465.81,
+   "txt": "So:"
+  },
+  {
+   "t0": 465.81,
+   "t1": 466.765,
+   "txt": "a pendulum."
+  },
+  {
+   "t0": 467.045,
+   "t1": 467.799,
+   "txt": "A toy hangs"
+  },
+  {
+   "t0": 467.799,
+   "t1": 468.347,
+   "txt": "on a rod"
+  },
+  {
+   "t0": 468.347,
+   "t1": 469.307,
+   "txt": "over the base."
+  },
+  {
+   "t0": 469.587,
+   "t1": 470.698,
+   "txt": "One magnet under"
+  },
+  {
+   "t0": 470.698,
+   "t1": 471.254,
+   "txt": "the toy,"
+  },
+  {
+   "t0": 471.254,
+   "t1": 472.226,
+   "txt": "magnets in the"
+  },
+  {
+   "t0": 472.226,
+   "t1": 472.573,
+   "txt": "base."
+  },
+  {
+   "t0": 472.853,
+   "t1": 473.812,
+   "txt": "They push against"
+  },
+  {
+   "t0": 473.812,
+   "t1": 474.432,
+   "txt": "each other."
+  },
+  {
+   "t0": 474.783,
+   "t1": 475.582,
+   "txt": "Bat the toy,"
+  },
+  {
+   "t0": 475.582,
+   "t1": 476.381,
+   "txt": "and it darts"
+  },
+  {
+   "t0": 476.381,
+   "t1": 477.313,
+   "txt": "and bounces in"
+  },
+  {
+   "t0": 477.313,
+   "t1": 477.913,
+   "txt": "a way the"
+  },
+  {
+   "t0": 477.913,
+   "t1": 479.178,
+   "txt": "cat cannot predict."
+  },
+  {
+   "t0": 479.529,
+   "t1": 480.089,
+   "txt": "The toy on"
+  },
+  {
+   "t0": 480.089,
+   "t1": 480.705,
+   "txt": "the end can"
+  },
+  {
+   "t0": 480.705,
+   "t1": 481.321,
+   "txt": "be swapped."
+  },
+  {
+   "t0": 481.601,
+   "t1": 482.689,
+   "txt": "The drawings show"
+  },
+  {
+   "t0": 482.689,
+   "t1": 483.201,
+   "txt": "a mouse,"
+  },
+  {
+   "t0": 483.201,
+   "t1": 483.649,
+   "txt": "a bird,"
+  },
+  {
+   "t0": 483.649,
+   "t1": 484.545,
+   "txt": "even a flower."
+  },
+  {
+   "t0": 484.825,
+   "t1": 486.006,
+   "txt": "Different colors and"
+  },
+  {
+   "t0": 486.006,
+   "t1": 486.361,
+   "txt": "forms."
+  },
+  {
+   "t0": 486.712,
+   "t1": 487.502,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 487.502,
+   "t1": 488.632,
+   "txt": "reports what happens"
+  },
+  {
+   "t0": 488.632,
+   "t1": 489.309,
+   "txt": "when the cat"
+  },
+  {
+   "t0": 489.309,
+   "t1": 489.592,
+   "txt": "wins."
+  },
+  {
+   "t0": 489.943,
+   "t1": 490.755,
+   "txt": "When seized,"
+  },
+  {
+   "t0": 490.755,
+   "t1": 491.499,
+   "txt": "the toy has"
+  },
+  {
+   "t0": 491.499,
+   "t1": 492.379,
+   "txt": "been found to"
+  },
+  {
+   "t0": 492.379,
+   "t1": 493.597,
+   "txt": "continue to twitch"
+  },
+  {
+   "t0": 493.597,
+   "t1": 494.342,
+   "txt": "and jump in"
+  },
+  {
+   "t0": 494.342,
+   "t1": 495.357,
+   "txt": "a most lifelike"
+  },
+  {
+   "t0": 495.357,
+   "t1": 495.831,
+   "txt": "manner."
+  },
+  {
+   "t0": 496.282,
+   "t1": 497.319,
+   "txt": "And according to"
+  },
+  {
+   "t0": 497.319,
+   "t1": 498.032,
+   "txt": "the patent,"
+  },
+  {
+   "t0": 498.032,
+   "t1": 498.81,
+   "txt": "cats tend to"
+  },
+  {
+   "t0": 498.81,
+   "t1": 499.717,
+   "txt": "return to this"
+  },
+  {
+   "t0": 499.717,
+   "t1": 500.949,
+   "txt": "device for repeated"
+  },
+  {
+   "t0": 500.949,
+   "t1": 502.246,
+   "txt": "play more frequently"
+  },
+  {
+   "t0": 502.246,
+   "t1": 503.218,
+   "txt": "than with other"
+  },
+  {
+   "t0": 503.218,
+   "t1": 504.644,
+   "txt": "less engaging designs."
+  },
+  {
+   "t0": 504.995,
+   "t1": 505.666,
+   "txt": "It even has"
+  },
+  {
+   "t0": 505.666,
+   "t1": 506.458,
+   "txt": "a setting for"
+  },
+  {
+   "t0": 506.458,
+   "t1": 507.129,
+   "txt": "older cats."
+  },
+  {
+   "t0": 507.409,
+   "t1": 508.725,
+   "txt": "Adjustable to match"
+  },
+  {
+   "t0": 508.725,
+   "t1": 510.041,
+   "txt": "the cat's dexterity"
+  },
+  {
+   "t0": 510.041,
+   "t1": 510.734,
+   "txt": "as it ages"
+  },
+  {
+   "t0": 510.734,
+   "t1": 512.257,
+   "txt": "and its responsiveness"
+  },
+  {
+   "t0": 512.257,
+   "t1": 513.019,
+   "txt": "diminishes."
+  },
+  {
+   "t0": 513.37,
+   "t1": 514.458,
+   "txt": "A senior mode."
+  },
+  {
+   "t0": 514.958,
+   "t1": 515.579,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 515.579,
+   "t1": 517.028,
+   "txt": "nineteen ninety-nine."
+  },
+  {
+   "t0": 517.479,
+   "t1": 518.439,
+   "txt": "And number eight."
+  },
+  {
+   "t0": 518.719,
+   "t1": 519.3,
+   "txt": "Back to the"
+  },
+  {
+   "t0": 519.3,
+   "t1": 519.828,
+   "txt": "treadmill."
+  },
+  {
+   "t0": 520.179,
+   "t1": 521.242,
+   "txt": "The patent begins"
+  },
+  {
+   "t0": 521.242,
+   "t1": 521.992,
+   "txt": "with humans."
+  },
+  {
+   "t0": 522.272,
+   "t1": 523.659,
+   "txt": "Regular exercise has"
+  },
+  {
+   "t0": 523.659,
+   "t1": 524.907,
+   "txt": "been recognized as"
+  },
+  {
+   "t0": 524.907,
+   "t1": 526.432,
+   "txt": "an important component"
+  },
+  {
+   "t0": 526.432,
+   "t1": 527.611,
+   "txt": "of general health"
+  },
+  {
+   "t0": 527.611,
+   "t1": 528.374,
+   "txt": "for humans."
+  },
+  {
+   "t0": 528.725,
+   "t1": 529.033,
+   "txt": "Cats,"
+  },
+  {
+   "t0": 529.033,
+   "t1": 529.587,
+   "txt": "it notes,"
+  },
+  {
+   "t0": 529.587,
+   "t1": 530.941,
+   "txt": "have everything handed"
+  },
+  {
+   "t0": 530.941,
+   "t1": 531.434,
+   "txt": "to them."
+  },
+  {
+   "t0": 531.714,
+   "t1": 532.363,
+   "txt": "So here is"
+  },
+  {
+   "t0": 532.363,
+   "t1": 533.207,
+   "txt": "the solution."
+  },
+  {
+   "t0": 533.487,
+   "t1": 534.554,
+   "txt": "A wooden frame."
+  },
+  {
+   "t0": 534.834,
+   "t1": 535.613,
+   "txt": "Pine boards,"
+  },
+  {
+   "t0": 535.613,
+   "t1": 536.391,
+   "txt": "for example."
+  },
+  {
+   "t0": 536.671,
+   "t1": 537.509,
+   "txt": "A perch on"
+  },
+  {
+   "t0": 537.509,
+   "t1": 537.845,
+   "txt": "top."
+  },
+  {
+   "t0": 538.125,
+   "t1": 538.843,
+   "txt": "And a motorless"
+  },
+  {
+   "t0": 538.843,
+   "t1": 539.8,
+   "txt": "treadmill leading up"
+  },
+  {
+   "t0": 539.8,
+   "t1": 540.087,
+   "txt": "to it."
+  },
+  {
+   "t0": 540.438,
+   "t1": 541.334,
+   "txt": "The belt rolls"
+  },
+  {
+   "t0": 541.334,
+   "t1": 542.038,
+   "txt": "back as the"
+  },
+  {
+   "t0": 542.038,
+   "t1": 542.742,
+   "txt": "cat climbs."
+  },
+  {
+   "t0": 543.022,
+   "t1": 543.575,
+   "txt": "So the cat"
+  },
+  {
+   "t0": 543.575,
+   "t1": 544.57,
+   "txt": "walks farther than"
+  },
+  {
+   "t0": 544.57,
+   "t1": 545.178,
+   "txt": "the ramp is"
+  },
+  {
+   "t0": 545.178,
+   "t1": 545.454,
+   "txt": "long."
+  },
+  {
+   "t0": 545.805,
+   "t1": 546.562,
+   "txt": "The belt is,"
+  },
+  {
+   "t0": 546.562,
+   "t1": 547.319,
+   "txt": "for example,"
+  },
+  {
+   "t0": 547.319,
+   "t1": 548.391,
+   "txt": "eight inches wide"
+  },
+  {
+   "t0": 548.391,
+   "t1": 549.778,
+   "txt": "and seventy-two inches"
+  },
+  {
+   "t0": 549.778,
+   "t1": 550.093,
+   "txt": "long."
+  },
+  {
+   "t0": 550.373,
+   "t1": 551.495,
+   "txt": "With small wooden"
+  },
+  {
+   "t0": 551.495,
+   "t1": 552.485,
+   "txt": "bars across it,"
+  },
+  {
+   "t0": 552.485,
+   "t1": 553.078,
+   "txt": "to aid in"
+  },
+  {
+   "t0": 553.078,
+   "t1": 553.936,
+   "txt": "cat traction."
+  },
+  {
+   "t0": 554.287,
+   "t1": 555.175,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 555.175,
+   "t1": 556.698,
+   "txt": "anticipated one problem."
+  },
+  {
+   "t0": 557.049,
+   "t1": 557.756,
+   "txt": "As cats are"
+  },
+  {
+   "t0": 557.756,
+   "t1": 558.978,
+   "txt": "adept at minimizing"
+  },
+  {
+   "t0": 558.978,
+   "t1": 559.557,
+   "txt": "exertion,"
+  },
+  {
+   "t0": 559.557,
+   "t1": 560.843,
+   "txt": "the treadmill should"
+  },
+  {
+   "t0": 560.843,
+   "t1": 561.55,
+   "txt": "be covered."
+  },
+  {
+   "t0": 562.05,
+   "t1": 562.865,
+   "txt": "To prevent the"
+  },
+  {
+   "t0": 562.865,
+   "t1": 563.739,
+   "txt": "cat from simply"
+  },
+  {
+   "t0": 563.739,
+   "t1": 564.671,
+   "txt": "jumping from the"
+  },
+  {
+   "t0": 564.671,
+   "t1": 565.37,
+   "txt": "floor to the"
+  },
+  {
+   "t0": 565.37,
+   "t1": 565.719,
+   "txt": "perch."
+  },
+  {
+   "t0": 566.17,
+   "t1": 567.027,
+   "txt": "The angle is"
+  },
+  {
+   "t0": 567.027,
+   "t1": 567.813,
+   "txt": "adjustable."
+  },
+  {
+   "t0": 568.093,
+   "t1": 569.006,
+   "txt": "Less steep for"
+  },
+  {
+   "t0": 569.006,
+   "t1": 570.246,
+   "txt": "heavier feline use,"
+  },
+  {
+   "t0": 570.246,
+   "t1": 571.159,
+   "txt": "and more steep"
+  },
+  {
+   "t0": 571.159,
+   "t1": 572.333,
+   "txt": "for lighter feline"
+  },
+  {
+   "t0": 572.333,
+   "t1": 572.594,
+   "txt": "use."
+  },
+  {
+   "t0": 572.945,
+   "t1": 573.8,
+   "txt": "The bottom end"
+  },
+  {
+   "t0": 573.8,
+   "t1": 574.594,
+   "txt": "can even rest"
+  },
+  {
+   "t0": 574.594,
+   "t1": 575.388,
+   "txt": "on a bookcase"
+  },
+  {
+   "t0": 575.388,
+   "t1": 576.06,
+   "txt": "or a chair."
+  },
+  {
+   "t0": 576.34,
+   "t1": 577.069,
+   "txt": "Or connect to"
+  },
+  {
+   "t0": 577.069,
+   "t1": 577.966,
+   "txt": "another piece of"
+  },
+  {
+   "t0": 577.966,
+   "t1": 578.751,
+   "txt": "cat furniture."
+  },
+  {
+   "t0": 579.102,
+   "t1": 579.715,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 579.715,
+   "t1": 580.737,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 580.737,
+   "t1": 581.146,
+   "txt": "words:"
+  },
+  {
+   "t0": 581.146,
+   "t1": 582.031,
+   "txt": "to obtain the"
+  },
+  {
+   "t0": 582.031,
+   "t1": 583.53,
+   "txt": "desired treadmill time"
+  },
+  {
+   "t0": 583.53,
+   "t1": 584.62,
+   "txt": "for a particular"
+  },
+  {
+   "t0": 584.62,
+   "t1": 585.438,
+   "txt": "perch entry."
+  },
+  {
+   "t0": 585.889,
+   "t1": 586.812,
+   "txt": "Food and water"
+  },
+  {
+   "t0": 586.812,
+   "t1": 587.405,
+   "txt": "can go on"
+  },
+  {
+   "t0": 587.405,
+   "t1": 588.065,
+   "txt": "the perch."
+  },
+  {
+   "t0": 588.345,
+   "t1": 588.82,
+   "txt": "And so,"
+  },
+  {
+   "t0": 588.82,
+   "t1": 589.906,
+   "txt": "the patent adds,"
+  },
+  {
+   "t0": 589.906,
+   "t1": 590.517,
+   "txt": "can a cat"
+  },
+  {
+   "t0": 590.517,
+   "t1": 591.331,
+   "txt": "hygiene pan."
+  },
+  {
+   "t0": 591.611,
+   "t1": 592.651,
+   "txt": "Everything a cat"
+  },
+  {
+   "t0": 592.651,
+   "t1": 593.041,
+   "txt": "needs."
+  },
+  {
+   "t0": 593.321,
+   "t1": 593.892,
+   "txt": "At the top"
+  },
+  {
+   "t0": 593.892,
+   "t1": 594.75,
+   "txt": "of a treadmill."
+  },
+  {
+   "t0": 595.101,
+   "t1": 595.887,
+   "txt": "And the perch"
+  },
+  {
+   "t0": 595.887,
+   "t1": 596.552,
+   "txt": "has a door."
+  },
+  {
+   "t0": 597.052,
+   "t1": 597.664,
+   "txt": "It can be"
+  },
+  {
+   "t0": 597.664,
+   "t1": 598.616,
+   "txt": "closed to keep"
+  },
+  {
+   "t0": 598.616,
+   "t1": 599.568,
+   "txt": "the cat inside"
+  },
+  {
+   "t0": 599.568,
+   "t1": 600.725,
+   "txt": "for short periods"
+  },
+  {
+   "t0": 600.725,
+   "t1": 601.269,
+   "txt": "of time,"
+  },
+  {
+   "t0": 601.269,
+   "t1": 602.357,
+   "txt": "for example when"
+  },
+  {
+   "t0": 602.357,
+   "t1": 604.466,
+   "txt": "non-cat-appreciative guests are"
+  },
+  {
+   "t0": 604.466,
+   "t1": 605.35,
+   "txt": "in the house."
+  },
+  {
+   "t0": 605.801,
+   "t1": 606.932,
+   "txt": "Treadmill time."
+  },
+  {
+   "t0": 607.432,
+   "t1": 608.053,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 608.053,
+   "t1": 609.501,
+   "txt": "nineteen ninety-nine."
+  },
+  {
+   "t0": 609.952,
+   "t1": 610.736,
+   "txt": "So which one"
+  },
+  {
+   "t0": 610.736,
+   "t1": 611.455,
+   "txt": "is the most"
+  },
+  {
+   "t0": 611.455,
+   "t1": 612.043,
+   "txt": "approved?"
+  },
+  {
+   "t0": 612.594,
+   "t1": 613.347,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 613.347,
+   "t1": 614.194,
+   "txt": "the cat treadmill."
+  },
+  {
+   "t0": 614.474,
+   "t1": 615.488,
+   "txt": "Because somewhere,"
+  },
+  {
+   "t0": 615.488,
+   "t1": 615.938,
+   "txt": "a cat is"
+  },
+  {
+   "t0": 615.938,
+   "t1": 616.896,
+   "txt": "walking uphill to"
+  },
+  {
+   "t0": 616.896,
+   "t1": 617.29,
+   "txt": "dinner."
+  },
+  {
+   "t0": 617.57,
+   "t1": 618.219,
+   "txt": "And the belt"
+  },
+  {
+   "t0": 618.219,
+   "t1": 619.085,
+   "txt": "is rolling back."
+  },
+  {
+   "t0": 619.436,
+   "t1": 620.268,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 620.268,
+   "t1": 621.04,
+   "txt": "this video is"
+  },
+  {
+   "t0": 621.04,
+   "t1": 621.813,
+   "txt": "word for word"
+  },
+  {
+   "t0": 621.813,
+   "t1": 622.764,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 623.044,
+   "t1": 623.864,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 623.864,
+   "t1": 624.902,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 624.902,
+   "t1": 625.449,
+   "txt": "so you can"
+  },
+  {
+   "t0": 625.449,
+   "t1": 626.542,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 626.893,
+   "t1": 627.954,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 627.954,
+   "t1": 628.579,
+   "txt": "every day."
+  },
+  {
+   "t0": 628.859,
+   "t1": 629.43,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 629.43,
+   "t1": 630.287,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 630.287,
+   "t1": 630.459,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 3.562
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 12.668
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 14.278
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 26.141
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 28.586
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 38.054
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 41.992
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 44.285
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 49.441
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 53.272
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 61.242
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 67.761
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 76.01
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 80.761
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 91.011
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 103.253
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 109.302
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 116.163
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 119.098
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 124.894
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 129.088
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 135.479
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 142.872
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 147.931
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 151.098
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 156.797
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 162.1
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 166.87
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 171.384
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 173.636
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 177.254
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 181.831
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 188.305
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 195.388
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 201.55
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 209.666
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 214.436
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 220.272
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 227.739
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 232.061
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 235.529
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 240.192
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 247.162
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 251.602
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 255.089
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 259.743
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 266.99
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 271.759
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 277.852
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 282.899
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 285.642
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 291.654
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 300.973
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 307.833
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 311.451
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 317.842
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 320.405
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 329.567
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 341.83
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 352.511
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 357.26
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 359.832
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 366.162
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 373.747
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 380.693
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 387.105
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 392.046
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 398.811
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 405.16
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 412.532
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 420.078
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 427.557
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 437.989
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 442.503
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 444.712
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 451.317
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 459.329
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 465.549
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 474.783
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 479.529
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 486.712
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 489.943
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 496.282
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 504.995
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 513.37
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 517.479
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 520.179
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 528.725
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 540.438
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 545.805
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 554.287
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 557.049
+  },
+  {
+   "f": "vo/094.wav",
+   "t": 566.17
+  },
+  {
+   "f": "vo/095.wav",
+   "t": 572.945
+  },
+  {
+   "f": "vo/096.wav",
+   "t": 579.102
+  },
+  {
+   "f": "vo/097.wav",
+   "t": 585.889
+  },
+  {
+   "f": "vo/098.wav",
+   "t": 595.101
+  },
+  {
+   "f": "vo/099.wav",
+   "t": 605.801
+  },
+  {
+   "f": "vo/100.wav",
+   "t": 609.952
+  },
+  {
+   "f": "vo/101.wav",
+   "t": 612.594
+  },
+  {
+   "f": "vo/102.wav",
+   "t": 619.436
+  },
+  {
+   "f": "vo/103.wav",
+   "t": 626.893
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": ""
+}

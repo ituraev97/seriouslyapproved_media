@@ -1,0 +1,189 @@
+5,675,225
+
+3
+
+It is another object of the invention to provide a lower cost
+toy by using a simpler circuit.
+
+Further objects are implicit in the detailed description
+which follows hereinafter (which is to be considered as
+exemplary of, but not specifically limiting, the present
+invention) and said objects will be apparent to persons
+skilled in the art after a careful study of the detailed
+description which follows.
+
+For the purpose of clarifying the nature of the present
+invention, one exemplary embodiment of the invention is
+illustrated in the hereinbelow-described figures of the
+accompanying drawings and is described in detail hereinaf-
+ter. It is to be taken as representative of the multiple
+embodiments of the invention which lie within the scope of
+the invention.
+
+BRIEF DESCRIPTION OF THE DRAWING
+
+FIG. 1 is a perspective view showing one exemplary
+embodiment of one representative form of the invention.
+
+FIG. 2 is a partial cross section view showing one
+exemplary embodiment of one representative form of the
+invention.
+
+FIG. 3 is an electrical circuit diagram showing one
+exemplary embodiment of one representative form of the
+invention.
+
+FIG. 4 is an electrical circuit diagram showing one
+exemplary embodiment of one representative form of the
+invention.
+
+DESCRIPTION OF THE PREFERRED
+EMBODIMENTS
+
+Referring to FIG. 1, base 10 is a low profile support for
+toy 14 and is difficult to tip over. Switch 12 is mounted to
+remote switch housing 50 for remote operation and is used
+to turn device “on” and “off”. An alternated switch can be
+used to reverse direction of the motor. Cable 49 is used to
+electrically connect switch 12 when mounted in remote
+switch housing 50. However, a wireless remote control
+could also be used. Shaft/Bearing assembly 26 is also
+mounted to base 10 and rotates when switch 12 is in the “on”
+position. The first end of rotating arm 52 is placed over the
+shaft/bearing assembly 26 and fastened by set screw 36,
+however, other means of fastening could also be used. The
+first end of line 16 is fastened to the second end of rotating
+arm 52 by tying, however, gluing or other type of fasteners
+could also be used. Toy 14 is fastened to the second end of
+line 16 by tying, however, gluing or other means could also
+be used.
+
+Referring to FIG. 2, motor bracket 40 is secured to base
+10 by screws, however, gluing or other fasteners could also
+be used. Switch 12 is mounted to base 10 for manual mode
+operation and is used to turn device “on” and “off.” Motor
+30 is connected to motor bracket 40 by screws, however,
+gluing or other fasteners could also be used. Bracket 42 is
+attached to base 1@ by gluing, however, screws or other
+fasteners could also be used. Battery 43 is inserted into
+bracket 42 and held in place by spring tension.
+
+Referring to FIG. 3, switch S12 is a switch having six (6)
+terminals. Battery B1 is a battery having a positive and
+negative terminal. Motor M1 is a motor having a belt drive
+mechanism with a first terminal and a second terminal.
+Switch $12 is a switch having six (6) terminals and is used
+for a remote switch or a local switch. Local switch $12 is a
+center position off switch and may be actuated in one
+direction to make the toy rotate clockwise and oscillated to
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+45
+
+350
+
+35
+
+65
+
+4
+
+the other position to make the toy rotate counter-clockwise.
+Remote $12 refers to FIG. 1 and FIG. 4.
+
+The positive terminal of battery B1 is connected to the
+second terminal of $12. The negative terminal of B1 is
+connected to the fifth terminal of $12. The fourth terminal of
+S12 is connected to the third terminal of $12. The first
+terminal of $12 is connected to the sixth terminal of $12
+When S12 is activated, to the clockwise position, current
+flows from the second terminal of battery B1 to the fifth
+terminal of $12. $12 being actuated, current flows through
+$12 to the fourth terminal of $12 to the third terminal of $12
+to the first terminal of M1. At the same time that $12 is
+actuated to the clockwise position, current flows through the
+second terminal of M1 to the sixth terminal of $12 to the first
+terminal of $12, through $12 to the second terminal of $12
+and back to the positive terminal of battery B1.
+
+When switch S12 is oscillated to the counterclockwise
+position, current flows from the negative terminal of battery
+B1 to the fifth terminal of $12, through $12 to the sixth
+terminal of $12 local to the second terminal of M1 through
+motor M1 to the first terminal of motor M1 to the third
+terminal of switch $12 to the second terminal of $12 to the
+first terminal of battery B1.
+
+In FIG. 1 and FIG. 4, switch $12 is used as an alternate
+or remote control, the same current paths are taken thereby
+repeating itself but from a remote location allowing the
+device to be used by the elderly and disabled as well as other
+people.
+
+What is claimed is:
+
+1. An interactive pet toy for the amusement of pets
+comprising:
+
+a support;
+
+a motor attached to said support;
+
+said motor having a first motor terminal and a second
+motor terminal;
+
+an arm;
+
+means for attaching said arm to said motor;
+
+a suspended toy;
+
+means for attaching said toy to said arm;
+
+a battery having a positive terminal and a negative ter-
+minal;
+
+means for attaching said battery to said support;
+
+a double throw switch having a first switch terminal, a
+second switch terminal, a third switch terminal, a fourth
+switch terminal, a fifth switch terminal, and a sixth
+switch terminal;
+
+means for attaching said switch to said support;
+
+means for electrically connecting said second switch
+terminal to said battery positive terminal;
+
+means for electrically connecting said fifth switch termi-
+nal to said battery negative terminal;
+
+means for electrically connecting said third switch termi-
+nal to said fourth switch terminal and to said first motor
+terminal;
+
+means for electrically connecting said first switch termi-
+nal to said sixth switch terminal and to said second
+motor terminal.
+
+2. A device as recited in claim 1, wherein said switch is
+
+in a remote control mechanism.
+
+3. An interactive pet toy for the amusement of pets
+comprising:
+
+a support having a cylindrical shape;
+
+a motor attached to said support;

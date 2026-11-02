@@ -1,0 +1,507 @@
+{
+ "T": 49.64,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.952,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.593
+    ],
+    [
+     3.993,
+     5.401
+    ]
+   ],
+   "g": "fig",
+   "fig": "mouse2",
+   "figno": "2"
+  },
+  {
+   "t0": 5.952,
+   "t1": 9.228,
+   "i": 1,
+   "segs": [
+    [
+     5.952,
+     6.954
+    ],
+    [
+     7.234,
+     8.877
+    ]
+   ],
+   "g": "fig",
+   "fig": "mouse1",
+   "figno": "1"
+  },
+  {
+   "t0": 9.228,
+   "t1": 14.811,
+   "i": 2,
+   "segs": [
+    [
+     9.228,
+     10.401
+    ],
+    [
+     10.681,
+     12.751
+    ],
+    [
+     13.031,
+     14.46
+    ]
+   ],
+   "g": "quote",
+   "q": "a catnip-scented figure of a mouse",
+   "hit": "catnip-scented",
+   "src": "US 1,534,964 \u00b7 claim 1"
+  },
+  {
+   "t0": 14.811,
+   "t1": 19.251,
+   "i": 3,
+   "segs": [
+    [
+     14.811,
+     18.8
+    ]
+   ],
+   "g": "quote",
+   "q": "an odor will be produced that is pleasing to a cat",
+   "hit": "pleasing to a cat",
+   "src": "US 1,534,964 \u00b7 description"
+  },
+  {
+   "t0": 19.251,
+   "t1": 23.052,
+   "i": 4,
+   "segs": [
+    [
+     19.251,
+     20.915
+    ],
+    [
+     21.335,
+     22.551
+    ]
+   ],
+   "g": "stamp",
+   "title": "ANIMAL|TOY",
+   "filed": "JAN. 18, 1923",
+   "date": "APR. 21, 1925",
+   "at": 2.0
+  },
+  {
+   "t0": 23.052,
+   "t1": 26.177,
+   "i": 5,
+   "segs": [
+    [
+     23.052,
+     25.826
+    ]
+   ],
+   "g": "quote",
+   "q": "the cat may see the mouse but cannot remove the same from the ball",
+   "hit": "cannot remove the same",
+   "src": "US 1,534,964 \u00b7 objects",
+   "hide": true
+  },
+  {
+   "t0": 26.177,
+   "t1": 30.774,
+   "i": 6,
+   "segs": [
+    [
+     26.177,
+     30.273
+    ]
+   ],
+   "g": "quote",
+   "q": "the cat may see the mouse but cannot remove the same from the ball",
+   "hit": "cannot remove the same",
+   "src": "US 1,534,964 \u00b7 objects",
+   "typed": false
+  },
+  {
+   "t0": 30.774,
+   "t1": 35.863,
+   "i": 7,
+   "segs": [
+    [
+     30.774,
+     32.182
+    ],
+    [
+     32.462,
+     35.512
+    ]
+   ],
+   "g": "fig",
+   "fig": "mouse1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 35.863,
+   "t1": 41.264,
+   "i": 8,
+   "segs": [
+    [
+     35.863,
+     40.813
+    ]
+   ],
+   "g": "quote",
+   "q": "will not injure the furniture nor hurt the cat",
+   "hit": "nor hurt the cat",
+   "src": "US 1,534,964 \u00b7 description"
+  },
+  {
+   "t0": 41.264,
+   "t1": 43.983,
+   "i": 9,
+   "segs": [
+    [
+     41.264,
+     43.482
+    ]
+   ],
+   "g": "stamp",
+   "title": "ANIMAL|TOY",
+   "filed": "JAN. 18, 1923",
+   "date": "APR. 21, 1925",
+   "big": true,
+   "at": 0.4
+  },
+  {
+   "t0": 43.983,
+   "t1": 49.64,
+   "i": 10,
+   "segs": [
+    [
+     43.983,
+     46.693
+    ]
+   ],
+   "g": "fig",
+   "fig": "mouse1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.934,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.934,
+   "t1": 2.166,
+   "txt": "real invention from"
+  },
+  {
+   "t0": 2.166,
+   "t1": 3.593,
+   "txt": "nineteen twenty-three."
+  },
+  {
+   "t0": 3.993,
+   "t1": 5.049,
+   "txt": "A hollow rubber"
+  },
+  {
+   "t0": 5.049,
+   "t1": 5.401,
+   "txt": "ball."
+  },
+  {
+   "t0": 5.952,
+   "t1": 6.766,
+   "txt": "With slots in"
+  },
+  {
+   "t0": 6.766,
+   "t1": 6.954,
+   "txt": "it."
+  },
+  {
+   "t0": 7.234,
+   "t1": 8.086,
+   "txt": "And inside the"
+  },
+  {
+   "t0": 8.086,
+   "t1": 8.39,
+   "txt": "ball,"
+  },
+  {
+   "t0": 8.39,
+   "t1": 8.877,
+   "txt": "a mouse."
+  },
+  {
+   "t0": 9.228,
+   "t1": 10.066,
+   "txt": "Not a real"
+  },
+  {
+   "t0": 10.066,
+   "t1": 10.401,
+   "txt": "one."
+  },
+  {
+   "t0": 10.681,
+   "t1": 12.081,
+   "txt": "A catnip-scented figure"
+  },
+  {
+   "t0": 12.081,
+   "t1": 12.751,
+   "txt": "of a mouse."
+  },
+  {
+   "t0": 13.031,
+   "t1": 13.361,
+   "txt": "Cloth,"
+  },
+  {
+   "t0": 13.361,
+   "t1": 14.46,
+   "txt": "stuffed with catnip."
+  },
+  {
+   "t0": 14.811,
+   "t1": 15.326,
+   "txt": "So that,"
+  },
+  {
+   "t0": 15.326,
+   "t1": 15.712,
+   "txt": "quote,"
+  },
+  {
+   "t0": 15.712,
+   "t1": 16.484,
+   "txt": "an odor will"
+  },
+  {
+   "t0": 16.484,
+   "t1": 17.513,
+   "txt": "be produced that"
+  },
+  {
+   "t0": 17.513,
+   "t1": 18.414,
+   "txt": "is pleasing to"
+  },
+  {
+   "t0": 18.414,
+   "t1": 18.8,
+   "txt": "a cat."
+  },
+  {
+   "t0": 19.251,
+   "t1": 20.183,
+   "txt": "It's called an"
+  },
+  {
+   "t0": 20.183,
+   "t1": 20.915,
+   "txt": "animal toy."
+  },
+  {
+   "t0": 21.335,
+   "t1": 21.975,
+   "txt": "And it was"
+  },
+  {
+   "t0": 21.975,
+   "t1": 22.551,
+   "txt": "approved."
+  },
+  {
+   "t0": 23.052,
+   "t1": 23.977,
+   "txt": "Here's the plan,"
+  },
+  {
+   "t0": 23.977,
+   "t1": 25.075,
+   "txt": "written in nineteen"
+  },
+  {
+   "t0": 25.075,
+   "t1": 25.826,
+   "txt": "twenty-three."
+  },
+  {
+   "t0": 26.177,
+   "t1": 26.892,
+   "txt": "The cat may"
+  },
+  {
+   "t0": 26.892,
+   "t1": 27.737,
+   "txt": "see the mouse"
+  },
+  {
+   "t0": 27.737,
+   "t1": 28.842,
+   "txt": "but cannot remove"
+  },
+  {
+   "t0": 28.842,
+   "t1": 29.688,
+   "txt": "the same from"
+  },
+  {
+   "t0": 29.688,
+   "t1": 30.273,
+   "txt": "the ball."
+  },
+  {
+   "t0": 30.774,
+   "t1": 31.45,
+   "txt": "How does the"
+  },
+  {
+   "t0": 31.45,
+   "t1": 32.182,
+   "txt": "mouse get in?"
+  },
+  {
+   "t0": 32.462,
+   "t1": 33.396,
+   "txt": "You stretch the"
+  },
+  {
+   "t0": 33.396,
+   "t1": 34.392,
+   "txt": "rubber until one"
+  },
+  {
+   "t0": 34.392,
+   "t1": 35.077,
+   "txt": "slot is big"
+  },
+  {
+   "t0": 35.077,
+   "t1": 35.512,
+   "txt": "enough."
+  },
+  {
+   "t0": 35.863,
+   "t1": 36.879,
+   "txt": "And the inventor"
+  },
+  {
+   "t0": 36.879,
+   "t1": 37.957,
+   "txt": "promises the ball"
+  },
+  {
+   "t0": 37.957,
+   "t1": 38.909,
+   "txt": "will not injure"
+  },
+  {
+   "t0": 38.909,
+   "t1": 39.988,
+   "txt": "the furniture nor"
+  },
+  {
+   "t0": 39.988,
+   "t1": 40.813,
+   "txt": "hurt the cat."
+  },
+  {
+   "t0": 41.264,
+   "t1": 42.65,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 42.65,
+   "t1": 43.482,
+   "txt": "twenty-five."
+  },
+  {
+   "t0": 43.983,
+   "t1": 44.907,
+   "txt": "A hundred years"
+  },
+  {
+   "t0": 44.907,
+   "t1": 45.276,
+   "txt": "later,"
+  },
+  {
+   "t0": 45.276,
+   "t1": 45.892,
+   "txt": "the cat is"
+  },
+  {
+   "t0": 45.892,
+   "t1": 46.693,
+   "txt": "still trying."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.952
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 9.228
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 14.811
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 19.251
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 23.052
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 26.177
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 30.774
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 35.863
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 41.264
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 43.983
+  }
+ ],
+ "hook": "GUESS WHAT|IS IN THIS [BALL]",
+ "hook2": "A [MOUSE]|IN A BALL \u00b7 1925",
+ "hookSwitch": 4,
+ "num": "US 1,534,964"
+}
