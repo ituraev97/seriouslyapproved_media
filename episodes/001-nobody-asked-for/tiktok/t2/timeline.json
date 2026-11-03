@@ -1,0 +1,597 @@
+{
+ "T": 70.2,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.52,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     2.99
+    ],
+    [
+     3.39,
+     4.969
+    ]
+   ],
+   "g": "fig",
+   "fig": "graffiti1",
+   "figno": "1"
+  },
+  {
+   "t0": 5.52,
+   "t1": 11.737,
+   "i": 1,
+   "segs": [
+    [
+     5.52,
+     11.386
+    ]
+   ],
+   "g": "quote",
+   "q": "the deliberate defacement of otherwise aesthetically pure and unblemished surfaces by decadent or otherwise indecent individuals.",
+   "hit": "decadent or otherwise indecent individuals",
+   "src": "US 5,675,318 \u00b7 description"
+  },
+  {
+   "t0": 11.737,
+   "t1": 17.266,
+   "i": 2,
+   "segs": [
+    [
+     11.737,
+     16.815
+    ]
+   ],
+   "g": "quote",
+   "q": "is generally an assault on the visual pleasures of man.",
+   "hit": "the visual pleasures of man",
+   "src": "US 5,675,318 \u00b7 description"
+  },
+  {
+   "t0": 17.266,
+   "t1": 22.931,
+   "i": 3,
+   "segs": [
+    [
+     17.266,
+     19.186
+    ],
+    [
+     19.466,
+     22.58
+    ]
+   ],
+   "g": "quote",
+   "q": "Spray paint cans are the tools of choice.",
+   "hit": "the tools of choice",
+   "src": "US 5,675,318 \u00b7 description"
+  },
+  {
+   "t0": 22.931,
+   "t1": 28.256,
+   "i": 4,
+   "segs": [
+    [
+     22.931,
+     25.235
+    ],
+    [
+     25.515,
+     27.905
+    ]
+   ],
+   "g": "fig",
+   "fig": "graffiti5",
+   "figno": "5"
+  },
+  {
+   "t0": 28.256,
+   "t1": 32.633,
+   "i": 5,
+   "segs": [
+    [
+     28.256,
+     30.88
+    ],
+    [
+     31.3,
+     32.132
+    ]
+   ],
+   "g": "stamp",
+   "title": "GRAFFITI PREVENTION|APPARATUS",
+   "filed": "MAY 6, 1996",
+   "date": "OCT. 7, 1997",
+   "at": 2.6
+  },
+  {
+   "t0": 32.633,
+   "t1": 39.557,
+   "i": 6,
+   "segs": [
+    [
+     32.633,
+     34.937
+    ],
+    [
+     35.217,
+     39.206
+    ]
+   ],
+   "g": "fig",
+   "fig": "graffiti2",
+   "figno": "2"
+  },
+  {
+   "t0": 39.557,
+   "t1": 43.791,
+   "i": 7,
+   "segs": [
+    [
+     39.557,
+     43.44
+    ]
+   ],
+   "g": "fig",
+   "fig": "graffiti5",
+   "figno": "5",
+   "draw": false
+  },
+  {
+   "t0": 43.791,
+   "t1": 50.812,
+   "i": 8,
+   "segs": [
+    [
+     43.791,
+     50.361
+    ]
+   ],
+   "g": "quote",
+   "q": "the repulsion of the fluid back from the electromagnetic field onto the intruder, thus \u201cmarking\u201d him for later identification.",
+   "hit": "onto the intruder",
+   "src": "US 5,675,318 \u00b7 description"
+  },
+  {
+   "t0": 50.812,
+   "t1": 54.065,
+   "i": 9,
+   "segs": [
+    [
+     50.812,
+     53.564
+    ]
+   ],
+   "g": "quote",
+   "q": "the repulsion of the fluid back from the electromagnetic field onto the intruder, thus \u201cmarking\u201d him for later identification.",
+   "hit": "for later identification",
+   "src": "US 5,675,318 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 54.065,
+   "t1": 64.839,
+   "i": 10,
+   "segs": [
+    [
+     54.065,
+     55.9
+    ],
+    [
+     56.4,
+     62.139
+    ],
+    [
+     62.639,
+     64.388
+    ]
+   ],
+   "g": "quote",
+   "q": "the marking material is combined with a magnetic material prior to or at the time of loading the spray canister.",
+   "hit": "combined with a magnetic material",
+   "src": "US 5,675,318 \u00b7 description"
+  },
+  {
+   "t0": 64.839,
+   "t1": 70.2,
+   "i": 11,
+   "segs": [
+    [
+     64.839,
+     67.1
+    ]
+   ],
+   "g": "stamp",
+   "title": "GRAFFITI PREVENTION|APPARATUS",
+   "filed": "MAY 6, 1996",
+   "date": "OCT. 7, 1997",
+   "big": true,
+   "at": 0.4
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 2.99,
+   "txt": "A wall."
+  },
+  {
+   "t0": 3.39,
+   "t1": 3.958,
+   "txt": "And a man"
+  },
+  {
+   "t0": 3.958,
+   "t1": 4.716,
+   "txt": "with a spray"
+  },
+  {
+   "t0": 4.716,
+   "t1": 4.969,
+   "txt": "can."
+  },
+  {
+   "t0": 5.52,
+   "t1": 6.9,
+   "txt": "The patent describes"
+  },
+  {
+   "t0": 6.9,
+   "t1": 7.59,
+   "txt": "him as one"
+  },
+  {
+   "t0": 7.59,
+   "t1": 8.073,
+   "txt": "of the,"
+  },
+  {
+   "t0": 8.073,
+   "t1": 8.488,
+   "txt": "quote,"
+  },
+  {
+   "t0": 8.488,
+   "t1": 9.937,
+   "txt": "decadent or otherwise"
+  },
+  {
+   "t0": 9.937,
+   "t1": 11.386,
+   "txt": "indecent individuals."
+  },
+  {
+   "t0": 11.737,
+   "t1": 12.858,
+   "txt": "Because graffiti,"
+  },
+  {
+   "t0": 12.858,
+   "t1": 13.386,
+   "txt": "it says,"
+  },
+  {
+   "t0": 13.386,
+   "t1": 14.375,
+   "txt": "is generally an"
+  },
+  {
+   "t0": 14.375,
+   "t1": 15.298,
+   "txt": "assault on the"
+  },
+  {
+   "t0": 15.298,
+   "t1": 16.551,
+   "txt": "visual pleasures of"
+  },
+  {
+   "t0": 16.551,
+   "t1": 16.815,
+   "txt": "man."
+  },
+  {
+   "t0": 17.266,
+   "t1": 18.431,
+   "txt": "And it identifies"
+  },
+  {
+   "t0": 18.431,
+   "t1": 19.186,
+   "txt": "the weapon."
+  },
+  {
+   "t0": 19.466,
+   "t1": 20.569,
+   "txt": "Spray paint cans,"
+  },
+  {
+   "t0": 20.569,
+   "t1": 21.088,
+   "txt": "it says,"
+  },
+  {
+   "t0": 21.088,
+   "t1": 21.931,
+   "txt": "are the tools"
+  },
+  {
+   "t0": 21.931,
+   "t1": 22.58,
+   "txt": "of choice."
+  },
+  {
+   "t0": 22.931,
+   "t1": 23.812,
+   "txt": "The solution:"
+  },
+  {
+   "t0": 23.812,
+   "t1": 24.897,
+   "txt": "sensors near the"
+  },
+  {
+   "t0": 24.897,
+   "t1": 25.235,
+   "txt": "wall."
+  },
+  {
+   "t0": 25.515,
+   "t1": 26.881,
+   "txt": "When someone approaches,"
+  },
+  {
+   "t0": 26.881,
+   "t1": 27.905,
+   "txt": "the system reacts."
+  },
+  {
+   "t0": 28.256,
+   "t1": 29.13,
+   "txt": "It's called the"
+  },
+  {
+   "t0": 29.13,
+   "t1": 30.88,
+   "txt": "graffiti prevention apparatus."
+  },
+  {
+   "t0": 31.3,
+   "t1": 32.132,
+   "txt": "Approved."
+  },
+  {
+   "t0": 32.633,
+   "t1": 33.657,
+   "txt": "One version goes"
+  },
+  {
+   "t0": 33.657,
+   "t1": 34.489,
+   "txt": "after the can"
+  },
+  {
+   "t0": 34.489,
+   "t1": 34.937,
+   "txt": "itself."
+  },
+  {
+   "t0": 35.217,
+   "t1": 35.812,
+   "txt": "A valve in"
+  },
+  {
+   "t0": 35.812,
+   "t1": 36.586,
+   "txt": "the spray can"
+  },
+  {
+   "t0": 36.586,
+   "t1": 37.479,
+   "txt": "stops the paint"
+  },
+  {
+   "t0": 37.479,
+   "t1": 38.491,
+   "txt": "when the intruder"
+  },
+  {
+   "t0": 38.491,
+   "t1": 39.206,
+   "txt": "is detected."
+  },
+  {
+   "t0": 39.557,
+   "t1": 40.728,
+   "txt": "In another version,"
+  },
+  {
+   "t0": 40.728,
+   "t1": 42.207,
+   "txt": "an electromagnetic field"
+  },
+  {
+   "t0": 42.207,
+   "t1": 43.132,
+   "txt": "sends the paint"
+  },
+  {
+   "t0": 43.132,
+   "t1": 43.44,
+   "txt": "back."
+  },
+  {
+   "t0": 43.791,
+   "t1": 45.145,
+   "txt": "The patent describes"
+  },
+  {
+   "t0": 45.145,
+   "t1": 46.229,
+   "txt": "the repulsion of"
+  },
+  {
+   "t0": 46.229,
+   "t1": 47.178,
+   "txt": "the fluid back"
+  },
+  {
+   "t0": 47.178,
+   "t1": 48.803,
+   "txt": "from the electromagnetic"
+  },
+  {
+   "t0": 48.803,
+   "t1": 49.752,
+   "txt": "field onto the"
+  },
+  {
+   "t0": 49.752,
+   "t1": 50.361,
+   "txt": "intruder."
+  },
+  {
+   "t0": 50.812,
+   "t1": 51.886,
+   "txt": "Thus marking him"
+  },
+  {
+   "t0": 51.886,
+   "t1": 53.564,
+   "txt": "for later identification."
+  },
+  {
+   "t0": 54.065,
+   "t1": 54.799,
+   "txt": "There is one"
+  },
+  {
+   "t0": 54.799,
+   "t1": 55.9,
+   "txt": "small requirement."
+  },
+  {
+   "t0": 56.4,
+   "t1": 57.493,
+   "txt": "For the magnetic"
+  },
+  {
+   "t0": 57.493,
+   "t1": 58.586,
+   "txt": "version to work,"
+  },
+  {
+   "t0": 58.586,
+   "t1": 59.474,
+   "txt": "the paint has"
+  },
+  {
+   "t0": 59.474,
+   "t1": 60.226,
+   "txt": "to be mixed"
+  },
+  {
+   "t0": 60.226,
+   "t1": 61.729,
+   "txt": "with magnetic material"
+  },
+  {
+   "t0": 61.729,
+   "t1": 62.139,
+   "txt": "first."
+  },
+  {
+   "t0": 62.639,
+   "t1": 63.546,
+   "txt": "Before it goes"
+  },
+  {
+   "t0": 63.546,
+   "t1": 64.388,
+   "txt": "into the can."
+  },
+  {
+   "t0": 64.839,
+   "t1": 66.21,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 66.21,
+   "t1": 67.1,
+   "txt": "ninety-seven."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.52
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.737
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.266
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 22.931
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 28.256
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 32.633
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 39.557
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 43.791
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 50.812
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 54.065
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 64.839
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [WALL] DOES",
+ "hook2": "THE [GRAFFITI]|BOUNCER \u00b7 1997",
+ "hookSwitch": 5,
+ "num": "US 5,675,318"
+}

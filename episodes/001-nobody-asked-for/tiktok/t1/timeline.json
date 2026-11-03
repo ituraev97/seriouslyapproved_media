@@ -1,0 +1,747 @@
+{
+ "T": 82.53,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.114,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.033
+    ],
+    [
+     3.433,
+     4.563
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "ring": [
+    555,
+    378,
+    150
+   ]
+  },
+  {
+   "t0": 5.114,
+   "t1": 9.18,
+   "i": 1,
+   "segs": [
+    [
+     5.114,
+     6.8
+    ],
+    [
+     7.08,
+     8.829
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "draw": false,
+   "ring": [
+    555,
+    378,
+    150
+   ]
+  },
+  {
+   "t0": 9.18,
+   "t1": 16.83,
+   "i": 2,
+   "segs": [
+    [
+     9.18,
+     13.681
+    ],
+    [
+     13.961,
+     16.479
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 16.83,
+   "t1": 25.723,
+   "i": 3,
+   "segs": [
+    [
+     16.83,
+     21.694
+    ],
+    [
+     22.114,
+     23.308
+    ],
+    [
+     23.728,
+     25.222
+    ]
+   ],
+   "g": "stamp",
+   "title": "CLOCK FOR KEEPING|TIME AT A RATE|OTHER THAN HUMAN TIME",
+   "filed": "JUL. 9, 1990",
+   "date": "JUN. 11, 1991",
+   "at": 2.2
+  },
+  {
+   "t0": 25.723,
+   "t1": 33.455,
+   "i": 4,
+   "segs": [
+    [
+     25.723,
+     33.104
+    ]
+   ],
+   "g": "quote",
+   "q": "If the watch is set for dog time, the hands will move about the watch face seven times faster than the rate of human time.",
+   "hit": "seven times faster",
+   "src": "US 5,023,850 \u00b7 description"
+  },
+  {
+   "t0": 33.455,
+   "t1": 37.755,
+   "i": 5,
+   "segs": [
+    [
+     33.455,
+     35.546
+    ],
+    [
+     35.826,
+     37.404
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "draw": false,
+   "ring": [
+    555,
+    378,
+    150
+   ]
+  },
+  {
+   "t0": 37.755,
+   "t1": 39.92,
+   "i": 6,
+   "segs": [
+    [
+     37.755,
+     39.569
+    ]
+   ],
+   "g": "quote",
+   "q": "A one-hour ride in an automobile will register seven hours on a dog watch.",
+   "hit": "seven hours",
+   "src": "US 5,023,850 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 39.92,
+   "t1": 45.533,
+   "i": 7,
+   "segs": [
+    [
+     39.92,
+     45.082
+    ]
+   ],
+   "g": "quote",
+   "q": "A one-hour ride in an automobile will register seven hours on a dog watch.",
+   "hit": "seven hours",
+   "src": "US 5,023,850 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 45.533,
+   "t1": 56.34,
+   "i": 8,
+   "segs": [
+    [
+     45.533,
+     53.384
+    ],
+    [
+     53.884,
+     55.889
+    ]
+   ],
+   "g": "quote",
+   "q": "the elapsed time on the dog watch will be 56 to 63 hours, or approximately two and one-half days.",
+   "hit": "approximately two and one-half days",
+   "src": "US 5,023,850 \u00b7 description"
+  },
+  {
+   "t0": 56.34,
+   "t1": 64.054,
+   "i": 9,
+   "segs": [
+    [
+     56.34,
+     57.834
+    ],
+    [
+     58.114,
+     63.703
+    ]
+   ],
+   "g": "quote",
+   "q": "this chirp alarm is likely to produce a response from the dog which will appear to a human as a response to the time, with comic effect.",
+   "hit": "with comic effect",
+   "src": "US 5,023,850 \u00b7 description"
+  },
+  {
+   "t0": 64.054,
+   "t1": 66.968,
+   "i": 10,
+   "segs": [
+    [
+     64.054,
+     65.398
+    ],
+    [
+     65.678,
+     66.617
+    ]
+   ],
+   "g": "quote",
+   "q": "This comic effect can be taken advantage of by using the watch as an official time piece for a potentially dull meeting.",
+   "hit": "a potentially dull meeting",
+   "src": "US 5,023,850 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 66.968,
+   "t1": 70.925,
+   "i": 11,
+   "segs": [
+    [
+     66.968,
+     70.424
+    ]
+   ],
+   "g": "quote",
+   "q": "This comic effect can be taken advantage of by using the watch as an official time piece for a potentially dull meeting.",
+   "hit": "a potentially dull meeting",
+   "src": "US 5,023,850 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 70.925,
+   "t1": 75.758,
+   "i": 12,
+   "segs": [
+    [
+     70.925,
+     72.695
+    ],
+    [
+     73.195,
+     75.307
+    ]
+   ],
+   "g": "stamp",
+   "title": "CLOCK FOR KEEPING|TIME AT A RATE|OTHER THAN HUMAN TIME",
+   "filed": "JUL. 9, 1990",
+   "date": "JUN. 11, 1991",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 75.758,
+   "t1": 82.53,
+   "i": 13,
+   "segs": [
+    [
+     75.758,
+     79.577
+    ]
+   ],
+   "g": "fig",
+   "fig": "dog1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.033,
+   "txt": "A dog."
+  },
+  {
+   "t0": 3.433,
+   "t1": 4.563,
+   "txt": "Wearing a watch."
+  },
+  {
+   "t0": 5.114,
+   "t1": 5.863,
+   "txt": "But it's not"
+  },
+  {
+   "t0": 5.863,
+   "t1": 6.8,
+   "txt": "a normal watch."
+  },
+  {
+   "t0": 7.08,
+   "t1": 7.954,
+   "txt": "It runs seven"
+  },
+  {
+   "t0": 7.954,
+   "t1": 8.829,
+   "txt": "times faster."
+  },
+  {
+   "t0": 9.18,
+   "t1": 10.041,
+   "txt": "Because a dog"
+  },
+  {
+   "t0": 10.041,
+   "t1": 11.232,
+   "txt": "lives about eleven"
+  },
+  {
+   "t0": 11.232,
+   "t1": 11.629,
+   "txt": "years,"
+  },
+  {
+   "t0": 11.629,
+   "t1": 12.357,
+   "txt": "and a human"
+  },
+  {
+   "t0": 12.357,
+   "t1": 13.681,
+   "txt": "about seventy-seven."
+  },
+  {
+   "t0": 13.961,
+   "t1": 14.914,
+   "txt": "So every human"
+  },
+  {
+   "t0": 14.914,
+   "t1": 15.798,
+   "txt": "year is seven"
+  },
+  {
+   "t0": 15.798,
+   "t1": 16.479,
+   "txt": "dog years."
+  },
+  {
+   "t0": 16.83,
+   "t1": 18.046,
+   "txt": "The official name:"
+  },
+  {
+   "t0": 18.046,
+   "t1": 18.789,
+   "txt": "a clock for"
+  },
+  {
+   "t0": 18.789,
+   "t1": 19.802,
+   "txt": "keeping time at"
+  },
+  {
+   "t0": 19.802,
+   "t1": 20.613,
+   "txt": "a rate other"
+  },
+  {
+   "t0": 20.613,
+   "t1": 21.694,
+   "txt": "than human time."
+  },
+  {
+   "t0": 22.114,
+   "t1": 23.308,
+   "txt": "And the U.S."
+  },
+  {
+   "t0": 23.728,
+   "t1": 25.042,
+   "txt": "Patent Office approved"
+  },
+  {
+   "t0": 25.042,
+   "t1": 25.222,
+   "txt": "it."
+  },
+  {
+   "t0": 25.723,
+   "t1": 26.535,
+   "txt": "If the watch"
+  },
+  {
+   "t0": 26.535,
+   "t1": 27.212,
+   "txt": "is set for"
+  },
+  {
+   "t0": 27.212,
+   "t1": 27.822,
+   "txt": "dog time,"
+  },
+  {
+   "t0": 27.822,
+   "t1": 28.77,
+   "txt": "the hands move"
+  },
+  {
+   "t0": 28.77,
+   "t1": 29.786,
+   "txt": "about the watch"
+  },
+  {
+   "t0": 29.786,
+   "t1": 30.869,
+   "txt": "face seven times"
+  },
+  {
+   "t0": 30.869,
+   "t1": 31.885,
+   "txt": "faster than the"
+  },
+  {
+   "t0": 31.885,
+   "t1": 32.765,
+   "txt": "rate of human"
+  },
+  {
+   "t0": 32.765,
+   "t1": 33.104,
+   "txt": "time."
+  },
+  {
+   "t0": 33.455,
+   "t1": 34.02,
+   "txt": "It goes on"
+  },
+  {
+   "t0": 34.02,
+   "t1": 34.698,
+   "txt": "the paw with"
+  },
+  {
+   "t0": 34.698,
+   "t1": 35.546,
+   "txt": "a Velcro strap."
+  },
+  {
+   "t0": 35.826,
+   "t1": 36.581,
+   "txt": "For ease of"
+  },
+  {
+   "t0": 36.581,
+   "t1": 37.404,
+   "txt": "application."
+  },
+  {
+   "t0": 37.755,
+   "t1": 38.832,
+   "txt": "The patent explains"
+  },
+  {
+   "t0": 38.832,
+   "t1": 39.569,
+   "txt": "it like this."
+  },
+  {
+   "t0": 39.92,
+   "t1": 41.026,
+   "txt": "A one-hour ride"
+  },
+  {
+   "t0": 41.026,
+   "t1": 42.206,
+   "txt": "in an automobile"
+  },
+  {
+   "t0": 42.206,
+   "t1": 43.607,
+   "txt": "will register seven"
+  },
+  {
+   "t0": 43.607,
+   "t1": 44.345,
+   "txt": "hours on a"
+  },
+  {
+   "t0": 44.345,
+   "t1": 45.082,
+   "txt": "dog watch."
+  },
+  {
+   "t0": 45.533,
+   "t1": 46.126,
+   "txt": "If a dog"
+  },
+  {
+   "t0": 46.126,
+   "t1": 47.163,
+   "txt": "is kept inside"
+  },
+  {
+   "t0": 47.163,
+   "t1": 48.274,
+   "txt": "during an eight"
+  },
+  {
+   "t0": 48.274,
+   "t1": 49.162,
+   "txt": "or nine hour"
+  },
+  {
+   "t0": 49.162,
+   "t1": 49.459,
+   "txt": "day,"
+  },
+  {
+   "t0": 49.459,
+   "t1": 50.421,
+   "txt": "the dog watch"
+  },
+  {
+   "t0": 50.421,
+   "t1": 51.829,
+   "txt": "will show fifty-six"
+  },
+  {
+   "t0": 51.829,
+   "t1": 53.384,
+   "txt": "to sixty-three hours."
+  },
+  {
+   "t0": 53.884,
+   "t1": 55.16,
+   "txt": "Approximately two and"
+  },
+  {
+   "t0": 55.16,
+   "t1": 55.889,
+   "txt": "a half days."
+  },
+  {
+   "t0": 56.34,
+   "t1": 57.144,
+   "txt": "There's even a"
+  },
+  {
+   "t0": 57.144,
+   "t1": 57.834,
+   "txt": "chirp alarm."
+  },
+  {
+   "t0": 58.114,
+   "t1": 59.207,
+   "txt": "The patent expects"
+  },
+  {
+   "t0": 59.207,
+   "t1": 59.815,
+   "txt": "the dog to"
+  },
+  {
+   "t0": 59.815,
+   "t1": 60.544,
+   "txt": "react to it,"
+  },
+  {
+   "t0": 60.544,
+   "t1": 61.577,
+   "txt": "which will appear"
+  },
+  {
+   "t0": 61.577,
+   "t1": 62.184,
+   "txt": "to a human"
+  },
+  {
+   "t0": 62.184,
+   "t1": 62.974,
+   "txt": "as a response"
+  },
+  {
+   "t0": 62.974,
+   "t1": 63.703,
+   "txt": "to the time."
+  },
+  {
+   "t0": 64.054,
+   "t1": 64.638,
+   "txt": "And it has"
+  },
+  {
+   "t0": 64.638,
+   "t1": 65.398,
+   "txt": "a second use."
+  },
+  {
+   "t0": 65.678,
+   "t1": 66.617,
+   "txt": "For humans."
+  },
+  {
+   "t0": 66.968,
+   "t1": 67.864,
+   "txt": "As an official"
+  },
+  {
+   "t0": 67.864,
+   "t1": 68.76,
+   "txt": "time piece for"
+  },
+  {
+   "t0": 68.76,
+   "t1": 69.912,
+   "txt": "a potentially dull"
+  },
+  {
+   "t0": 69.912,
+   "t1": 70.424,
+   "txt": "meeting."
+  },
+  {
+   "t0": 70.925,
+   "t1": 72.179,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 72.179,
+   "t1": 72.695,
+   "txt": "ninety."
+  },
+  {
+   "t0": 73.195,
+   "t1": 74.558,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 74.558,
+   "t1": 75.307,
+   "txt": "ninety-one."
+  },
+  {
+   "t0": 75.758,
+   "t1": 76.47,
+   "txt": "So the next"
+  },
+  {
+   "t0": 76.47,
+   "t1": 77.376,
+   "txt": "time a meeting"
+  },
+  {
+   "t0": 77.376,
+   "t1": 78.412,
+   "txt": "feels like seven"
+  },
+  {
+   "t0": 78.412,
+   "t1": 78.8,
+   "txt": "hours,"
+  },
+  {
+   "t0": 78.8,
+   "t1": 79.577,
+   "txt": "it might be."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.114
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 9.18
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.83
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 25.723
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 33.455
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 37.755
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 39.92
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 45.533
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 56.34
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 64.054
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 66.968
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 70.925
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 75.758
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [WATCH] DOES",
+ "hook2": "THE [DOG]|WATCH \u00b7 1991",
+ "hookSwitch": 3,
+ "num": "US 5,023,850"
+}

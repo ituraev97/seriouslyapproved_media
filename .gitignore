@@ -16,3 +16,6 @@ episodes/*/shorts/*/*.mp4
 *.wav
 *.log
 episodes/*/pat/**/sheet.jpg
+episodes/*/tiktok/*/frames/
+episodes/*/tiktok/*/stills/
+episodes/*/tiktok/*/vo/

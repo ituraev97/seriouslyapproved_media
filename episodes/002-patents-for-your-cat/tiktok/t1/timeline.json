@@ -1,0 +1,631 @@
+{
+ "T": 71.02,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 4.816,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.011
+    ],
+    [
+     3.411,
+     4.265
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread1",
+   "figno": "1"
+  },
+  {
+   "t0": 4.816,
+   "t1": 13.361,
+   "i": 1,
+   "segs": [
+    [
+     4.816,
+     6.629
+    ],
+    [
+     6.909,
+     13.01
+    ]
+   ],
+   "g": "quote",
+   "q": "Regular exercise has been recognized as an important component of general health for humans.",
+   "hit": "for humans",
+   "src": "US 5,913,750 \u00b7 background"
+  },
+  {
+   "t0": 13.361,
+   "t1": 18.174,
+   "i": 2,
+   "segs": [
+    [
+     13.361,
+     14.62
+    ],
+    [
+     14.9,
+     17.823
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 18.174,
+   "t1": 25.25,
+   "i": 3,
+   "segs": [
+    [
+     18.174,
+     19.603
+    ],
+    [
+     19.883,
+     22.187
+    ],
+    [
+     22.467,
+     24.899
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread3",
+   "figno": "3"
+  },
+  {
+   "t0": 25.25,
+   "t1": 33.732,
+   "i": 4,
+   "segs": [
+    [
+     25.25,
+     29.538
+    ],
+    [
+     29.818,
+     33.381
+    ]
+   ],
+   "g": "quote",
+   "q": "spaced wooden bars 61 to aid in cat traction and serve as steps",
+   "hit": "to aid in cat traction",
+   "src": "US 5,913,750 \u00b7 description"
+  },
+  {
+   "t0": 33.732,
+   "t1": 39.303,
+   "i": 5,
+   "segs": [
+    [
+     33.732,
+     37.166
+    ],
+    [
+     37.586,
+     38.802
+    ]
+   ],
+   "g": "stamp",
+   "title": "FELINE EXERCISE AND|ENTERTAINMENT CENTER",
+   "filed": "NOV. 20, 1997",
+   "date": "JUN. 22, 1999",
+   "at": 2.6
+  },
+  {
+   "t0": 39.303,
+   "t1": 41.98,
+   "i": 6,
+   "segs": [
+    [
+     39.303,
+     41.629
+    ]
+   ],
+   "g": "quote",
+   "q": "As cats are adept at minimizing exertion, the treadmill 48 should be covered with a plastic cover 62",
+   "hit": "adept at minimizing exertion",
+   "src": "US 5,913,750 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 41.98,
+   "t1": 49.565,
+   "i": 7,
+   "segs": [
+    [
+     41.98,
+     46.481
+    ],
+    [
+     46.981,
+     49.114
+    ]
+   ],
+   "g": "quote",
+   "q": "As cats are adept at minimizing exertion, the treadmill 48 should be covered with a plastic cover 62",
+   "hit": "adept at minimizing exertion",
+   "src": "US 5,913,750 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 49.565,
+   "t1": 56.34,
+   "i": 8,
+   "segs": [
+    [
+     49.565,
+     51.208
+    ],
+    [
+     51.488,
+     55.989
+    ]
+   ],
+   "g": "quote",
+   "q": "less steep for heavier feline use, and more steep for lighter feline use",
+   "hit": "heavier feline use",
+   "src": "US 5,913,750 \u00b7 claim 4"
+  },
+  {
+   "t0": 56.34,
+   "t1": 60.823,
+   "i": 9,
+   "segs": [
+    [
+     56.34,
+     60.372
+    ]
+   ],
+   "g": "quote",
+   "q": "to obtain the desired treadmill time for a particular perch entry",
+   "hit": "treadmill time",
+   "src": "US 5,913,750 \u00b7 summary"
+  },
+  {
+   "t0": 60.823,
+   "t1": 66.126,
+   "i": 10,
+   "segs": [
+    [
+     60.823,
+     62.957
+    ],
+    [
+     63.457,
+     65.675
+    ]
+   ],
+   "g": "stamp",
+   "title": "FELINE EXERCISE AND|ENTERTAINMENT CENTER",
+   "filed": "NOV. 20, 1997",
+   "date": "JUN. 22, 1999",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 66.126,
+   "t1": 71.02,
+   "i": 11,
+   "segs": [
+    [
+     66.126,
+     67.918
+    ]
+   ],
+   "g": "fig",
+   "fig": "tread1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.011,
+   "txt": "A ramp."
+  },
+  {
+   "t0": 3.411,
+   "t1": 4.265,
+   "txt": "For a cat."
+  },
+  {
+   "t0": 4.816,
+   "t1": 5.879,
+   "txt": "The patent begins"
+  },
+  {
+   "t0": 5.879,
+   "t1": 6.629,
+   "txt": "with humans."
+  },
+  {
+   "t0": 6.909,
+   "t1": 8.296,
+   "txt": "Regular exercise has"
+  },
+  {
+   "t0": 8.296,
+   "t1": 9.544,
+   "txt": "been recognized as"
+  },
+  {
+   "t0": 9.544,
+   "t1": 11.069,
+   "txt": "an important component"
+  },
+  {
+   "t0": 11.069,
+   "t1": 12.248,
+   "txt": "of general health"
+  },
+  {
+   "t0": 12.248,
+   "t1": 13.01,
+   "txt": "for humans."
+  },
+  {
+   "t0": 13.361,
+   "t1": 14.09,
+   "txt": "At the top,"
+  },
+  {
+   "t0": 14.09,
+   "t1": 14.62,
+   "txt": "a perch."
+  },
+  {
+   "t0": 14.9,
+   "t1": 15.618,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 15.618,
+   "t1": 16.643,
+   "txt": "suggests putting the"
+  },
+  {
+   "t0": 16.643,
+   "t1": 17.361,
+   "txt": "food and water"
+  },
+  {
+   "t0": 17.361,
+   "t1": 17.823,
+   "txt": "up there."
+  },
+  {
+   "t0": 18.174,
+   "t1": 18.809,
+   "txt": "But the ramp"
+  },
+  {
+   "t0": 18.809,
+   "t1": 19.603,
+   "txt": "is a treadmill."
+  },
+  {
+   "t0": 19.883,
+   "t1": 20.779,
+   "txt": "The belt rolls"
+  },
+  {
+   "t0": 20.779,
+   "t1": 21.483,
+   "txt": "back as the"
+  },
+  {
+   "t0": 21.483,
+   "t1": 22.187,
+   "txt": "cat climbs."
+  },
+  {
+   "t0": 22.467,
+   "t1": 23.02,
+   "txt": "So the cat"
+  },
+  {
+   "t0": 23.02,
+   "t1": 24.015,
+   "txt": "walks farther than"
+  },
+  {
+   "t0": 24.015,
+   "t1": 24.623,
+   "txt": "the ramp is"
+  },
+  {
+   "t0": 24.623,
+   "t1": 24.899,
+   "txt": "long."
+  },
+  {
+   "t0": 25.25,
+   "t1": 26.007,
+   "txt": "The belt is,"
+  },
+  {
+   "t0": 26.007,
+   "t1": 26.763,
+   "txt": "for example,"
+  },
+  {
+   "t0": 26.763,
+   "t1": 27.835,
+   "txt": "eight inches wide"
+  },
+  {
+   "t0": 27.835,
+   "t1": 29.223,
+   "txt": "and seventy-two inches"
+  },
+  {
+   "t0": 29.223,
+   "t1": 29.538,
+   "txt": "long."
+  },
+  {
+   "t0": 29.818,
+   "t1": 30.94,
+   "txt": "With small wooden"
+  },
+  {
+   "t0": 30.94,
+   "t1": 31.929,
+   "txt": "bars across it,"
+  },
+  {
+   "t0": 31.929,
+   "t1": 32.523,
+   "txt": "to aid in"
+  },
+  {
+   "t0": 32.523,
+   "t1": 33.381,
+   "txt": "cat traction."
+  },
+  {
+   "t0": 33.732,
+   "t1": 34.574,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 34.574,
+   "t1": 35.805,
+   "txt": "feline exercise and"
+  },
+  {
+   "t0": 35.805,
+   "t1": 37.166,
+   "txt": "entertainment center."
+  },
+  {
+   "t0": 37.586,
+   "t1": 38.226,
+   "txt": "And it was"
+  },
+  {
+   "t0": 38.226,
+   "t1": 38.802,
+   "txt": "approved."
+  },
+  {
+   "t0": 39.303,
+   "t1": 40.117,
+   "txt": "The patent saw"
+  },
+  {
+   "t0": 40.117,
+   "t1": 41.222,
+   "txt": "the obvious problem"
+  },
+  {
+   "t0": 41.222,
+   "t1": 41.629,
+   "txt": "coming."
+  },
+  {
+   "t0": 41.98,
+   "t1": 42.687,
+   "txt": "As cats are"
+  },
+  {
+   "t0": 42.687,
+   "t1": 43.909,
+   "txt": "adept at minimizing"
+  },
+  {
+   "t0": 43.909,
+   "t1": 44.488,
+   "txt": "exertion,"
+  },
+  {
+   "t0": 44.488,
+   "t1": 45.774,
+   "txt": "the treadmill should"
+  },
+  {
+   "t0": 45.774,
+   "t1": 46.481,
+   "txt": "be covered."
+  },
+  {
+   "t0": 46.981,
+   "t1": 47.574,
+   "txt": "So the cat"
+  },
+  {
+   "t0": 47.574,
+   "t1": 48.462,
+   "txt": "can't just jump"
+  },
+  {
+   "t0": 48.462,
+   "t1": 49.114,
+   "txt": "to the top."
+  },
+  {
+   "t0": 49.565,
+   "t1": 50.422,
+   "txt": "The angle is"
+  },
+  {
+   "t0": 50.422,
+   "t1": 51.208,
+   "txt": "adjustable."
+  },
+  {
+   "t0": 51.488,
+   "t1": 52.401,
+   "txt": "Less steep for"
+  },
+  {
+   "t0": 52.401,
+   "t1": 53.641,
+   "txt": "heavier feline use,"
+  },
+  {
+   "t0": 53.641,
+   "t1": 54.554,
+   "txt": "and more steep"
+  },
+  {
+   "t0": 54.554,
+   "t1": 55.728,
+   "txt": "for lighter feline"
+  },
+  {
+   "t0": 55.728,
+   "t1": 55.989,
+   "txt": "use."
+  },
+  {
+   "t0": 56.34,
+   "t1": 56.916,
+   "txt": "The goal:"
+  },
+  {
+   "t0": 56.916,
+   "t1": 58.26,
+   "txt": "the desired treadmill"
+  },
+  {
+   "t0": 58.26,
+   "t1": 58.9,
+   "txt": "time for a"
+  },
+  {
+   "t0": 58.9,
+   "t1": 60.372,
+   "txt": "particular perch entry."
+  },
+  {
+   "t0": 60.823,
+   "t1": 62.032,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 62.032,
+   "t1": 62.957,
+   "txt": "ninety-seven."
+  },
+  {
+   "t0": 63.457,
+   "t1": 64.843,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 64.843,
+   "t1": 65.675,
+   "txt": "ninety-nine."
+  },
+  {
+   "t0": 66.126,
+   "t1": 67.15,
+   "txt": "Dinner now comes"
+  },
+  {
+   "t0": 67.15,
+   "t1": 67.918,
+   "txt": "with cardio."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 4.816
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.361
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 18.174
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 25.25
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 33.732
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 39.303
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 41.98
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 49.565
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 56.34
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 60.823
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 66.126
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [RAMP] DOES",
+ "hook2": "A [TREADMILL]|FOR CATS \u00b7 1999",
+ "hookSwitch": 5,
+ "num": "US 5,913,750"
+}
