@@ -1,0 +1,6344 @@
+{
+ "T": 620.33,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 2.252,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.801
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 2.252,
+   "t1": 6.104,
+   "i": 1,
+   "segs": [
+    [
+     2.252,
+     4.513
+    ],
+    [
+     4.793,
+     5.753
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "ring": [
+    348,
+    402,
+    190
+   ]
+  },
+  {
+   "t0": 6.104,
+   "t1": 9.938,
+   "i": 2,
+   "segs": [
+    [
+     6.104,
+     7.107
+    ],
+    [
+     7.387,
+     8.133
+    ],
+    [
+     8.413,
+     9.587
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 9.938,
+   "t1": 11.548,
+   "i": 3,
+   "segs": [
+    [
+     9.938,
+     11.047
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHURN.",
+   "filed": "JUNE 28, 1912",
+   "date": "JAN. 28, 1913",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 11.548,
+   "t1": 25.547,
+   "i": 4,
+   "segs": [
+    [
+     11.548,
+     12.593
+    ],
+    [
+     12.873,
+     13.748
+    ],
+    [
+     14.028,
+     15.692
+    ],
+    [
+     15.972,
+     19.3
+    ],
+    [
+     19.58,
+     21.073
+    ],
+    [
+     21.353,
+     23.572
+    ],
+    [
+     23.852,
+     25.196
+    ]
+   ],
+   "g": "title",
+   "kicker": "ONE PATENT \u00b7 FILE 003",
+   "title": "The Rocking Chair|That Churns Butter",
+   "lines": [
+    "Real drawings. Real quotes.",
+    "Really approved."
+   ],
+   "stamp": true,
+   "at": 8.0,
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "FILE 003 \u00b7 ONE PATENT"
+  },
+  {
+   "t0": 25.547,
+   "t1": 28.461,
+   "i": 5,
+   "segs": [
+    [
+     25.547,
+     26.315
+    ],
+    [
+     26.595,
+     28.11
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE ONE PATENT",
+   "numeral": "1",
+   "title": "Churn.",
+   "lines": [
+    "US 1,051,684",
+    "Filed 1912 \u00b7 Issued 1913"
+   ],
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 28.461,
+   "t1": 34.477,
+   "i": 6,
+   "segs": [
+    [
+     28.461,
+     31.298
+    ],
+    [
+     31.798,
+     32.523
+    ],
+    [
+     33.023,
+     34.026
+    ]
+   ],
+   "g": "quote",
+   "q": "CHURN.",
+   "hit": "CHURN.",
+   "src": "US 1,051,684 \u00b7 title",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 34.477,
+   "t1": 40.036,
+   "i": 7,
+   "segs": [
+    [
+     34.477,
+     36.973
+    ],
+    [
+     37.253,
+     39.685
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false
+  },
+  {
+   "t0": 40.036,
+   "t1": 41.24,
+   "i": 8,
+   "segs": [
+    [
+     40.036,
+     40.889
+    ]
+   ],
+   "g": "quote",
+   "q": "so that a churn may be operated by a person seated and rocking in a rocking chair",
+   "hit": "seated and rocking",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "hide": true
+  },
+  {
+   "t0": 41.24,
+   "t1": 46.555,
+   "i": 9,
+   "segs": [
+    [
+     41.24,
+     46.104
+    ]
+   ],
+   "g": "quote",
+   "q": "so that a churn may be operated by a person seated and rocking in a rocking chair",
+   "hit": "seated and rocking",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "typed": false
+  },
+  {
+   "t0": 46.555,
+   "t1": 53.141,
+   "i": 10,
+   "segs": [
+    [
+     46.555,
+     48.539
+    ],
+    [
+     48.819,
+     50.419
+    ],
+    [
+     50.699,
+     52.79
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false
+  },
+  {
+   "t0": 53.141,
+   "t1": 63.079,
+   "i": 11,
+   "segs": [
+    [
+     53.141,
+     54.25
+    ],
+    [
+     54.53,
+     56.088
+    ],
+    [
+     56.368,
+     58.586
+    ],
+    [
+     58.866,
+     62.728
+    ]
+   ],
+   "g": "quote",
+   "q": "the base frame 1 of a spring rocking chair 2",
+   "hit": "spring rocking chair",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 63.079,
+   "t1": 72.118,
+   "i": 12,
+   "segs": [
+    [
+     63.079,
+     67.196
+    ],
+    [
+     67.476,
+     69.823
+    ],
+    [
+     70.103,
+     71.767
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "calls": [
+    [
+     "POSTS",
+     70,
+     300,
+     -40,
+     60
+    ],
+    [
+     "BARS",
+     300,
+     412,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 72.118,
+   "t1": 74.154,
+   "i": 13,
+   "segs": [
+    [
+     72.118,
+     73.803
+    ]
+   ],
+   "g": "quote",
+   "q": "which churn body is here shown as barrel-shaped and is adapted to be revolved.",
+   "hit": "barrel-shaped",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 74.154,
+   "t1": 78.668,
+   "i": 14,
+   "segs": [
+    [
+     74.154,
+     75.839
+    ],
+    [
+     76.119,
+     78.317
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "ring": [
+    220,
+    200,
+    260
+   ]
+  },
+  {
+   "t0": 78.668,
+   "t1": 84.504,
+   "i": 15,
+   "segs": [
+    [
+     78.668,
+     80.78
+    ],
+    [
+     81.06,
+     84.153
+    ]
+   ],
+   "g": "quote",
+   "q": "Fig. 2 is a sectional view of the same on the plane indicated by the line a\u2014a of Fig. 1.",
+   "hit": "sectional view",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 84.504,
+   "t1": 92.092,
+   "i": 16,
+   "segs": [
+    [
+     84.504,
+     85.741
+    ],
+    [
+     86.021,
+     88.539
+    ],
+    [
+     88.819,
+     91.741
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "vb": "300 60 260 260",
+   "ring": [
+    414,
+    168,
+    130
+   ]
+  },
+  {
+   "t0": 92.092,
+   "t1": 96.39,
+   "i": 17,
+   "segs": [
+    [
+     92.092,
+     96.039
+    ]
+   ],
+   "g": "quote",
+   "q": "the arm 12 extending upwardly and the arm 13 extending downwardly.",
+   "hit": "upwardly",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 96.39,
+   "t1": 105.749,
+   "i": 18,
+   "segs": [
+    [
+     96.39,
+     99.441
+    ],
+    [
+     99.721,
+     102.387
+    ],
+    [
+     102.667,
+     105.398
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "vb": "220 260 260 260",
+   "ring": [
+    342,
+    414,
+    120
+   ]
+  },
+  {
+   "t0": 105.749,
+   "t1": 112.697,
+   "i": 19,
+   "segs": [
+    [
+     105.749,
+     108.672
+    ],
+    [
+     108.952,
+     110.85
+    ],
+    [
+     111.13,
+     112.346
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false
+  },
+  {
+   "t0": 112.697,
+   "t1": 117.36,
+   "i": 20,
+   "segs": [
+    [
+     112.697,
+     114.809
+    ],
+    [
+     115.089,
+     117.009
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "vb": "120 240 400 330"
+  },
+  {
+   "t0": 117.36,
+   "t1": 124.415,
+   "i": 21,
+   "segs": [
+    [
+     117.36,
+     119.92
+    ],
+    [
+     120.2,
+     122.334
+    ],
+    [
+     122.614,
+     124.064
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "vb": "300 60 260 260",
+   "ring": [
+    414,
+    168,
+    130
+   ]
+  },
+  {
+   "t0": 124.415,
+   "t1": 129.998,
+   "i": 22,
+   "segs": [
+    [
+     124.415,
+     126.293
+    ],
+    [
+     126.573,
+     128.045
+    ],
+    [
+     128.325,
+     129.647
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "vb": "300 60 260 260"
+  },
+  {
+   "t0": 129.998,
+   "t1": 137.596,
+   "i": 23,
+   "segs": [
+    [
+     129.998,
+     137.145
+    ]
+   ],
+   "g": "quote",
+   "q": "Hence, the ratchet wheel is rotated in one direction and causes the churn body to correspondingly rotate.",
+   "hit": "in one direction",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 137.596,
+   "t1": 145.952,
+   "i": 24,
+   "segs": [
+    [
+     137.596,
+     141.82
+    ],
+    [
+     142.1,
+     144.383
+    ],
+    [
+     144.663,
+     145.601
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "ring": [
+    348,
+    402,
+    190
+   ]
+  },
+  {
+   "t0": 145.952,
+   "t1": 149.741,
+   "i": 25,
+   "segs": [
+    [
+     145.952,
+     147.936
+    ],
+    [
+     148.216,
+     149.39
+    ]
+   ],
+   "g": "quote",
+   "q": "The usual springs 20 are employed",
+   "hit": "The usual springs",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 149.741,
+   "t1": 157.582,
+   "i": 26,
+   "segs": [
+    [
+     149.741,
+     151.725
+    ],
+    [
+     152.225,
+     157.131
+    ]
+   ],
+   "g": "quote",
+   "q": "the churn operating mechanism may be arranged for operating a churn of any kind.",
+   "hit": "a churn of any kind",
+   "src": "US 1,051,684 \u00b7 description",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 157.582,
+   "t1": 162.059,
+   "i": 27,
+   "segs": [
+    [
+     157.582,
+     158.969
+    ],
+    [
+     159.389,
+     160.264
+    ],
+    [
+     160.684,
+     161.558
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false
+  },
+  {
+   "t0": 162.059,
+   "t1": 170.224,
+   "i": 28,
+   "segs": [
+    [
+     162.059,
+     164.214
+    ],
+    [
+     164.494,
+     167.566
+    ],
+    [
+     167.846,
+     169.873
+    ]
+   ],
+   "g": "quote",
+   "q": "in combination with a chair rocker, a support therefor",
+   "hit": "a chair rocker",
+   "src": "US 1,051,684 \u00b7 claim",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 170.224,
+   "t1": 171.983,
+   "i": 29,
+   "segs": [
+    [
+     170.224,
+     171.632
+    ]
+   ],
+   "g": "quote",
+   "q": "In testimony whereof I affix my signature in presence of two witnesses.",
+   "hit": "two witnesses",
+   "src": "US 1,051,684 \u00b7 end of specification",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913"
+  },
+  {
+   "t0": 171.983,
+   "t1": 181.988,
+   "i": 30,
+   "segs": [
+    [
+     171.983,
+     174.756
+    ],
+    [
+     175.256,
+     178.563
+    ],
+    [
+     179.063,
+     181.537
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHURN.",
+   "filed": "JUNE 28, 1912",
+   "date": "JAN. 28, 1913",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "at": 5.0
+  },
+  {
+   "t0": 181.988,
+   "t1": 190.755,
+   "i": 31,
+   "segs": [
+    [
+     181.988,
+     183.332
+    ],
+    [
+     183.612,
+     184.935
+    ],
+    [
+     185.215,
+     187.178
+    ],
+    [
+     187.458,
+     189.484
+    ],
+    [
+     189.764,
+     190.404
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false
+  },
+  {
+   "t0": 190.755,
+   "t1": 197.232,
+   "i": 32,
+   "segs": [
+    [
+     190.755,
+     194.574
+    ],
+    [
+     194.854,
+     196.881
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE RELATIVES",
+   "title": "Fan Attachment|for Rocking-Chairs",
+   "lines": [
+    "1893 \u00b7 1895 \u00b7 1896 \u00b7 1896 \u00b7 1897 \u00b7 1900",
+    "1911 \u00b7 1912 \u00b7 1913 \u00b7 1915 \u00b7 1916 \u00b7 1981"
+   ],
+   "hook": "FAN [ATTACHMENT]|FOR ROCKING-CHAIRS",
+   "side": "FILE 003 \u00b7 THE RELATIVES"
+  },
+  {
+   "t0": 197.232,
+   "t1": 208.257,
+   "i": 33,
+   "segs": [
+    [
+     197.232,
+     198.853
+    ],
+    [
+     199.133,
+     200.648
+    ],
+    [
+     200.928,
+     204.362
+    ],
+    [
+     204.642,
+     207.906
+    ]
+   ],
+   "g": "title",
+   "kicker": "SAME TITLE \u00b7 AT LEAST 12 PATENTS",
+   "title": "Fan Attachment|for Rocking-Chairs",
+   "lines": [
+    "1893 \u00b7 1895 \u00b7 1896 \u00b7 1896 \u00b7 1897 \u00b7 1900",
+    "1911 \u00b7 1912 \u00b7 1913 \u00b7 1915 \u00b7 1916 \u00b7 1981"
+   ],
+   "hook": "FAN [ATTACHMENT]|FOR ROCKING-CHAIRS",
+   "side": "FILE 003 \u00b7 THE RELATIVES"
+  },
+  {
+   "t0": 208.257,
+   "t1": 215.414,
+   "i": 34,
+   "segs": [
+    [
+     208.257,
+     210.135
+    ],
+    [
+     210.635,
+     211.488
+    ],
+    [
+     211.988,
+     213.375
+    ],
+    [
+     213.875,
+     214.963
+    ]
+   ],
+   "g": "fig",
+   "fig": "kline1",
+   "figno": "1",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915"
+  },
+  {
+   "t0": 215.414,
+   "t1": 228.733,
+   "i": 35,
+   "segs": [
+    [
+     215.414,
+     217.334
+    ],
+    [
+     217.614,
+     218.552
+    ],
+    [
+     218.832,
+     219.835
+    ],
+    [
+     220.115,
+     222.099
+    ],
+    [
+     222.379,
+     223.979
+    ],
+    [
+     224.259,
+     225.326
+    ],
+    [
+     225.606,
+     226.672
+    ],
+    [
+     226.952,
+     228.382
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE RELATIVES",
+   "title": "Five Fans.|One Chair.",
+   "lines": [
+    "1895 \u00b7 1897 \u00b7 1915 \u00b7 1916 \u00b7 1918"
+   ],
+   "hook": "FAN [ATTACHMENT]|FOR ROCKING-CHAIRS",
+   "side": "FILE 003 \u00b7 THE RELATIVES"
+  },
+  {
+   "t0": 228.733,
+   "t1": 232.969,
+   "i": 36,
+   "segs": [
+    [
+     228.733,
+     229.97
+    ],
+    [
+     230.25,
+     232.618
+    ]
+   ],
+   "g": "title",
+   "kicker": "RELATIVE No. 1 OF 5",
+   "numeral": "1",
+   "title": "Fan Attachment|for Rocking-Chairs",
+   "lines": [
+    "US 538,566",
+    "Filed 1894 \u00b7 Issued 1895"
+   ],
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895"
+  },
+  {
+   "t0": 232.969,
+   "t1": 240.813,
+   "i": 37,
+   "segs": [
+    [
+     232.969,
+     235.657
+    ],
+    [
+     235.937,
+     237.473
+    ],
+    [
+     237.753,
+     240.462
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel1",
+   "figno": "1",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "calls": [
+    [
+     "FANS",
+     82,
+     80,
+     60,
+     70
+    ],
+    [
+     "ROD",
+     120,
+     450,
+     -50,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 240.813,
+   "t1": 245.412,
+   "i": 38,
+   "segs": [
+    [
+     240.813,
+     243.693
+    ],
+    [
+     243.973,
+     245.061
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel45",
+   "figno": "4 & 5",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "ring": [
+    64,
+    140,
+    150
+   ]
+  },
+  {
+   "t0": 245.412,
+   "t1": 254.11,
+   "i": 39,
+   "segs": [
+    [
+     245.412,
+     248.122
+    ],
+    [
+     248.402,
+     251.815
+    ],
+    [
+     252.095,
+     253.759
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel45",
+   "figno": "4 & 5",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "draw": false,
+   "ring": [
+    94,
+    228,
+    120
+   ]
+  },
+  {
+   "t0": 254.11,
+   "t1": 256.832,
+   "i": 40,
+   "segs": [
+    [
+     254.11,
+     254.985
+    ],
+    [
+     255.265,
+     256.481
+    ]
+   ],
+   "g": "quote",
+   "q": "render their operation noiseless and, generally, more positive and efficient.",
+   "hit": "noiseless",
+   "src": "US 538,566 \u00b7 description",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "hide": true
+  },
+  {
+   "t0": 256.832,
+   "t1": 259.437,
+   "i": 41,
+   "segs": [
+    [
+     256.832,
+     258.986
+    ]
+   ],
+   "g": "quote",
+   "q": "render their operation noiseless and, generally, more positive and efficient.",
+   "hit": "noiseless",
+   "src": "US 538,566 \u00b7 description",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "typed": false
+  },
+  {
+   "t0": 259.437,
+   "t1": 268.388,
+   "i": 42,
+   "segs": [
+    [
+     259.437,
+     262.061
+    ],
+    [
+     262.341,
+     268.037
+    ]
+   ],
+   "g": "quote",
+   "q": "so that there is no contact between these parts",
+   "hit": "no contact",
+   "src": "US 538,566 \u00b7 description",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895"
+  },
+  {
+   "t0": 268.388,
+   "t1": 277.915,
+   "i": 43,
+   "segs": [
+    [
+     268.388,
+     272.186
+    ],
+    [
+     272.686,
+     277.464
+    ]
+   ],
+   "g": "quote",
+   "q": "and there is no noise in this connection, nor any jar.",
+   "hit": "nor any jar",
+   "src": "US 538,566 \u00b7 description",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895"
+  },
+  {
+   "t0": 277.915,
+   "t1": 285.802,
+   "i": 44,
+   "segs": [
+    [
+     277.915,
+     279.643
+    ],
+    [
+     279.923,
+     281.331
+    ],
+    [
+     281.611,
+     285.451
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel2",
+   "figno": "2",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "ring": [
+    158,
+    327,
+    110
+   ]
+  },
+  {
+   "t0": 285.802,
+   "t1": 289.119,
+   "i": 45,
+   "segs": [
+    [
+     285.802,
+     288.768
+    ]
+   ],
+   "g": "quote",
+   "q": "a spring l' which holds the bearing roller constantly upon the floor.",
+   "hit": "constantly upon the floor",
+   "src": "US 538,566 \u00b7 description",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895"
+  },
+  {
+   "t0": 289.119,
+   "t1": 291.347,
+   "i": 46,
+   "segs": [
+    [
+     289.119,
+     290.996
+    ]
+   ],
+   "g": "quote",
+   "q": "This lever is preferably made of three sided angle iron in cross section",
+   "hit": "three sided angle iron",
+   "src": "US 538,566 \u00b7 description",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895"
+  },
+  {
+   "t0": 291.347,
+   "t1": 301.258,
+   "i": 47,
+   "segs": [
+    [
+     291.347,
+     293.224
+    ],
+    [
+     293.504,
+     300.907
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel1",
+   "figno": "1",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "draw": false,
+   "vb": "40 0 470 240"
+  },
+  {
+   "t0": 301.258,
+   "t1": 306.604,
+   "i": 48,
+   "segs": [
+    [
+     301.258,
+     302.773
+    ],
+    [
+     303.053,
+     306.253
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel1",
+   "figno": "1",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "draw": false,
+   "vb": "40 0 470 240",
+   "ring": [
+    270,
+    36,
+    90
+   ]
+  },
+  {
+   "t0": 306.604,
+   "t1": 311.48,
+   "i": 49,
+   "segs": [
+    [
+     306.604,
+     308.481
+    ],
+    [
+     308.981,
+     311.029
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN ATTACHMENT FOR|ROCKING-CHAIRS",
+   "filed": "MAY 10, 1894",
+   "date": "APR. 30, 1895",
+   "num": "US 538,566",
+   "hook": "THE [SILENT]|FAN",
+   "side": "US 538,566 \u00b7 1895",
+   "at": 2.4
+  },
+  {
+   "t0": 311.48,
+   "t1": 315.247,
+   "i": 50,
+   "segs": [
+    [
+     311.48,
+     312.803
+    ],
+    [
+     313.083,
+     314.896
+    ]
+   ],
+   "g": "title",
+   "kicker": "RELATIVE No. 2 OF 5",
+   "numeral": "2",
+   "title": "Fan Attachment|for Rocking-Chairs",
+   "lines": [
+    "US 581,902",
+    "Filed 1896 \u00b7 Issued 1897"
+   ],
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897"
+  },
+  {
+   "t0": 315.247,
+   "t1": 320.55,
+   "i": 51,
+   "segs": [
+    [
+     315.247,
+     318.319
+    ],
+    [
+     318.599,
+     320.199
+    ]
+   ],
+   "g": "fig",
+   "fig": "davey1",
+   "figno": "1",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897",
+   "calls": [
+    [
+     "FANS",
+     414,
+     60,
+     120,
+     -10
+    ]
+   ]
+  },
+  {
+   "t0": 320.55,
+   "t1": 326.728,
+   "i": 52,
+   "segs": [
+    [
+     320.55,
+     323.878
+    ],
+    [
+     324.158,
+     326.377
+    ]
+   ],
+   "g": "fig",
+   "fig": "davey1",
+   "figno": "1",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897",
+   "draw": false,
+   "ring": [
+    342,
+    800,
+    120
+   ]
+  },
+  {
+   "t0": 326.728,
+   "t1": 334.591,
+   "i": 53,
+   "segs": [
+    [
+     326.728,
+     331.826
+    ],
+    [
+     332.106,
+     334.24
+    ]
+   ],
+   "g": "quote",
+   "q": "a screw-thread 12 of great pitch",
+   "hit": "great pitch",
+   "src": "US 581,902 \u00b7 description",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897"
+  },
+  {
+   "t0": 334.591,
+   "t1": 340.92,
+   "i": 54,
+   "segs": [
+    [
+     334.591,
+     337.385
+    ],
+    [
+     337.665,
+     338.86
+    ],
+    [
+     339.14,
+     340.569
+    ]
+   ],
+   "g": "fig",
+   "fig": "davey1",
+   "figno": "1",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897",
+   "draw": false,
+   "vb": "330 330 300 300",
+   "ring": [
+    480,
+    474,
+    140
+   ]
+  },
+  {
+   "t0": 340.92,
+   "t1": 348.975,
+   "i": 55,
+   "segs": [
+    [
+     340.92,
+     345.827
+    ],
+    [
+     346.107,
+     348.624
+    ]
+   ],
+   "g": "quote",
+   "q": "said rod also has a slight forward and back movement as it passes through the plate 13",
+   "hit": "slight forward and back movement",
+   "src": "US 581,902 \u00b7 description",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897"
+  },
+  {
+   "t0": 348.975,
+   "t1": 354.108,
+   "i": 56,
+   "segs": [
+    [
+     348.975,
+     350.938
+    ],
+    [
+     351.218,
+     353.757
+    ]
+   ],
+   "g": "quote",
+   "q": "the downward movement of the rod being accomplished by gravity only.",
+   "hit": "gravity only",
+   "src": "US 581,902 \u00b7 description",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897",
+   "hide": true
+  },
+  {
+   "t0": 354.108,
+   "t1": 358.996,
+   "i": 57,
+   "segs": [
+    [
+     354.108,
+     358.545
+    ]
+   ],
+   "g": "quote",
+   "q": "the downward movement of the rod being accomplished by gravity only.",
+   "hit": "gravity only",
+   "src": "US 581,902 \u00b7 description",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897",
+   "typed": false
+  },
+  {
+   "t0": 358.996,
+   "t1": 364.96,
+   "i": 58,
+   "segs": [
+    [
+     358.996,
+     363.305
+    ],
+    [
+     363.585,
+     364.609
+    ]
+   ],
+   "g": "fig",
+   "fig": "davey1",
+   "figno": "1",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897",
+   "draw": false,
+   "ring": [
+    360,
+    720,
+    130
+   ]
+  },
+  {
+   "t0": 364.96,
+   "t1": 374.317,
+   "i": 59,
+   "segs": [
+    [
+     364.96,
+     366.624
+    ],
+    [
+     367.124,
+     373.866
+    ]
+   ],
+   "g": "quote",
+   "q": "the lower end of said rod should possess considerable weight in order that the device may properly operate",
+   "hit": "considerable weight",
+   "src": "US 581,902 \u00b7 description",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897"
+  },
+  {
+   "t0": 374.317,
+   "t1": 380.44,
+   "i": 60,
+   "segs": [
+    [
+     374.317,
+     375.767
+    ],
+    [
+     376.267,
+     377.441
+    ],
+    [
+     377.941,
+     379.989
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN ATTACHMENT FOR|ROCKING-CHAIRS",
+   "filed": "JULY 22, 1896",
+   "date": "MAY 4, 1897",
+   "num": "US 581,902",
+   "hook": "FANS BY|[GRAVITY]",
+   "side": "US 581,902 \u00b7 1897",
+   "at": 2.6
+  },
+  {
+   "t0": 380.44,
+   "t1": 384.399,
+   "i": 61,
+   "segs": [
+    [
+     380.44,
+     381.784
+    ],
+    [
+     382.064,
+     384.048
+    ]
+   ],
+   "g": "title",
+   "kicker": "RELATIVE No. 3 OF 5",
+   "numeral": "3",
+   "title": "Fan Attachment|for Rocking-Chairs",
+   "lines": [
+    "US 1,139,299",
+    "Filed 1914 \u00b7 Issued 1915"
+   ],
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915"
+  },
+  {
+   "t0": 384.399,
+   "t1": 388.248,
+   "i": 62,
+   "segs": [
+    [
+     384.399,
+     387.897
+    ]
+   ],
+   "g": "fig",
+   "fig": "kline1",
+   "figno": "1",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915",
+   "draw": false,
+   "ring": [
+    240,
+    174,
+    160
+   ]
+  },
+  {
+   "t0": 388.248,
+   "t1": 394.191,
+   "i": 63,
+   "segs": [
+    [
+     388.248,
+     391.128
+    ],
+    [
+     391.408,
+     393.84
+    ]
+   ],
+   "g": "fig",
+   "fig": "kline1",
+   "figno": "1",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915",
+   "draw": false
+  },
+  {
+   "t0": 394.191,
+   "t1": 402.865,
+   "i": 64,
+   "segs": [
+    [
+     394.191,
+     395.642
+    ],
+    [
+     395.922,
+     402.514
+    ]
+   ],
+   "g": "quote",
+   "q": "can be readily attached to a rocking chair or removed therefrom whenever it is desired to do so.",
+   "hit": "readily attached",
+   "src": "US 1,139,299 \u00b7 description",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915"
+  },
+  {
+   "t0": 402.865,
+   "t1": 406.523,
+   "i": 65,
+   "segs": [
+    [
+     402.865,
+     406.172
+    ]
+   ],
+   "g": "fig",
+   "fig": "kline1",
+   "figno": "1",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915",
+   "draw": false,
+   "calls": [
+    [
+     "PENDULUM",
+     240,
+     330,
+     80,
+     -40
+    ],
+    [
+     "WEIGHT",
+     240,
+     430,
+     90,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 406.523,
+   "t1": 413.876,
+   "i": 66,
+   "segs": [
+    [
+     406.523,
+     408.827
+    ],
+    [
+     409.107,
+     411.688
+    ],
+    [
+     411.968,
+     413.525
+    ]
+   ],
+   "g": "fig",
+   "fig": "kline2",
+   "figno": "2",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915",
+   "ring": [
+    112,
+    232,
+    150
+   ]
+  },
+  {
+   "t0": 413.876,
+   "t1": 426.419,
+   "i": 67,
+   "segs": [
+    [
+     413.876,
+     415.028
+    ],
+    [
+     415.308,
+     418.914
+    ],
+    [
+     419.194,
+     420.388
+    ],
+    [
+     420.668,
+     422.311
+    ],
+    [
+     422.591,
+     426.068
+    ]
+   ],
+   "g": "fig",
+   "fig": "kline2",
+   "figno": "2",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915",
+   "draw": false,
+   "vb": "20 60 220 340"
+  },
+  {
+   "t0": 426.419,
+   "t1": 431.018,
+   "i": 68,
+   "segs": [
+    [
+     426.419,
+     428.766
+    ],
+    [
+     429.046,
+     430.667
+    ]
+   ],
+   "g": "fig",
+   "fig": "kline3",
+   "figno": "3",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915"
+  },
+  {
+   "t0": 431.018,
+   "t1": 433.439,
+   "i": 69,
+   "segs": [
+    [
+     431.018,
+     433.088
+    ]
+   ],
+   "g": "quote",
+   "q": "produces a current of air directed to the head of the occupant of the rocking chair.",
+   "hit": "the head of the occupant",
+   "src": "US 1,139,299 \u00b7 description",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915"
+  },
+  {
+   "t0": 433.439,
+   "t1": 440.491,
+   "i": 70,
+   "segs": [
+    [
+     433.439,
+     434.697
+    ],
+    [
+     434.977,
+     440.14
+    ]
+   ],
+   "g": "quote",
+   "q": "the slightest rocking movement given to the rocking chair C causes a swinging of the pendulum",
+   "hit": "the slightest rocking movement",
+   "src": "US 1,139,299 \u00b7 description",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915"
+  },
+  {
+   "t0": 440.491,
+   "t1": 451.203,
+   "i": 71,
+   "segs": [
+    [
+     440.491,
+     450.752
+    ]
+   ],
+   "g": "quote",
+   "q": "a continuous current of air directed onto the occupant as long as the rocking chair or similar article is rocked.",
+   "hit": "as long as",
+   "src": "US 1,139,299 \u00b7 description",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915"
+  },
+  {
+   "t0": 451.203,
+   "t1": 455.29,
+   "i": 72,
+   "segs": [
+    [
+     451.203,
+     452.526
+    ],
+    [
+     453.026,
+     454.839
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN ATTACHMENT FOR|ROCKING-CHAIRS",
+   "filed": "JUNE 5, 1914",
+   "date": "MAY 11, 1915",
+   "num": "US 1,139,299",
+   "hook": "THE [PENDULUM]|FAN",
+   "side": "US 1,139,299 \u00b7 1915",
+   "at": 2.0
+  },
+  {
+   "t0": 455.29,
+   "t1": 458.972,
+   "i": 73,
+   "segs": [
+    [
+     455.29,
+     456.634
+    ],
+    [
+     456.914,
+     458.621
+    ]
+   ],
+   "g": "title",
+   "kicker": "RELATIVE No. 4 OF 5",
+   "numeral": "4",
+   "title": "Fan Attachment|for Rocking-Chairs",
+   "lines": [
+    "US 1,174,436",
+    "Filed 1915 \u00b7 Issued 1916"
+   ],
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916"
+  },
+  {
+   "t0": 458.972,
+   "t1": 469.23,
+   "i": 74,
+   "segs": [
+    [
+     458.972,
+     461.383
+    ],
+    [
+     461.663,
+     463.988
+    ],
+    [
+     464.268,
+     466.465
+    ],
+    [
+     466.745,
+     468.879
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen1",
+   "figno": "1",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916",
+   "calls": [
+    [
+     "FAN",
+     302,
+     124,
+     -120,
+     -40
+    ],
+    [
+     "POST",
+     640,
+     700,
+     90,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 469.23,
+   "t1": 472.119,
+   "i": 75,
+   "segs": [
+    [
+     469.23,
+     471.768
+    ]
+   ],
+   "g": "quote",
+   "q": "that carries a roller 33 that rests upon the floor.",
+   "hit": "rests upon the floor",
+   "src": "US 1,174,436 \u00b7 description",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916"
+  },
+  {
+   "t0": 472.119,
+   "t1": 482.785,
+   "i": 76,
+   "segs": [
+    [
+     472.119,
+     475.789
+    ],
+    [
+     476.069,
+     477.327
+    ],
+    [
+     477.607,
+     478.973
+    ],
+    [
+     479.253,
+     480.725
+    ],
+    [
+     481.005,
+     482.434
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen1",
+   "figno": "1",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916",
+   "draw": false,
+   "ring": [
+    824,
+    982,
+    120
+   ]
+  },
+  {
+   "t0": 482.785,
+   "t1": 489.984,
+   "i": 77,
+   "segs": [
+    [
+     482.785,
+     489.633
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen5",
+   "figno": "5",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916",
+   "calls": [
+    [
+     "WEIGHT",
+     647,
+     66,
+     70,
+     40
+    ],
+    [
+     "GEARS",
+     347,
+     276,
+     -150,
+     230
+    ]
+   ]
+  },
+  {
+   "t0": 489.984,
+   "t1": 493.77,
+   "i": 78,
+   "segs": [
+    [
+     489.984,
+     493.419
+    ]
+   ],
+   "g": "quote",
+   "q": "the spring 23 will raise the pawl out of engagement with the wheel",
+   "hit": "raise the pawl",
+   "src": "US 1,174,436 \u00b7 description",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916"
+  },
+  {
+   "t0": 493.77,
+   "t1": 495.486,
+   "i": 79,
+   "segs": [
+    [
+     493.77,
+     495.135
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen5",
+   "figno": "5",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916",
+   "draw": false,
+   "ring": [
+    545,
+    228,
+    120
+   ]
+  },
+  {
+   "t0": 495.486,
+   "t1": 498.184,
+   "i": 80,
+   "segs": [
+    [
+     495.486,
+     497.833
+    ]
+   ],
+   "g": "quote",
+   "q": "a simple and inexpensive mechanism which can readily be attached to a rocking chair",
+   "hit": "simple and inexpensive",
+   "src": "US 1,174,436 \u00b7 description",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916"
+  },
+  {
+   "t0": 498.184,
+   "t1": 502.831,
+   "i": 81,
+   "segs": [
+    [
+     498.184,
+     498.909
+    ],
+    [
+     499.329,
+     500.374
+    ],
+    [
+     500.794,
+     502.33
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen1",
+   "figno": "1",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916",
+   "draw": false
+  },
+  {
+   "t0": 502.831,
+   "t1": 506.098,
+   "i": 82,
+   "segs": [
+    [
+     502.831,
+     505.647
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN ATTACHMENT FOR|ROCKING-CHAIRS",
+   "filed": "JAN. 8, 1915",
+   "date": "MAR. 7, 1916",
+   "num": "US 1,174,436",
+   "hook": "THE FAN|[TOWER]",
+   "side": "US 1,174,436 \u00b7 1916",
+   "at": 1.2
+  },
+  {
+   "t0": 506.098,
+   "t1": 510.999,
+   "i": 83,
+   "segs": [
+    [
+     506.098,
+     507.549
+    ],
+    [
+     507.829,
+     509.066
+    ],
+    [
+     509.346,
+     510.648
+    ]
+   ],
+   "g": "title",
+   "kicker": "RELATIVE No. 5 OF 5",
+   "numeral": "5",
+   "title": "Chair|Attachment",
+   "lines": [
+    "US 1,269,325",
+    "Filed 1916 \u00b7 Issued 1918"
+   ],
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918"
+  },
+  {
+   "t0": 510.999,
+   "t1": 517.859,
+   "i": 84,
+   "segs": [
+    [
+     510.999,
+     513.943
+    ],
+    [
+     514.223,
+     517.508
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer1",
+   "figno": "1",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "ring": [
+    413,
+    604,
+    110
+   ]
+  },
+  {
+   "t0": 517.859,
+   "t1": 520.73,
+   "i": 85,
+   "segs": [
+    [
+     517.859,
+     518.776
+    ],
+    [
+     519.056,
+     520.379
+    ]
+   ],
+   "g": "quote",
+   "q": "The base 12 may be secured to the floor of a room, or to the floor of a porch at the point desired",
+   "hit": "the floor of a porch",
+   "src": "US 1,269,325 \u00b7 description",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918"
+  },
+  {
+   "t0": 520.73,
+   "t1": 529.43,
+   "i": 86,
+   "segs": [
+    [
+     520.73,
+     522.437
+    ],
+    [
+     522.717,
+     523.933
+    ],
+    [
+     524.213,
+     527.157
+    ],
+    [
+     527.437,
+     529.079
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer1",
+   "figno": "1",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "draw": false,
+   "calls": [
+    [
+     "FAN",
+     413,
+     64,
+     -150,
+     20
+    ],
+    [
+     "BELT WHEEL",
+     353,
+     496,
+     -170,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 529.43,
+   "t1": 534.925,
+   "i": 87,
+   "segs": [
+    [
+     529.43,
+     532.374
+    ],
+    [
+     532.654,
+     534.574
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer3",
+   "figno": "3",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "ring": [
+    126,
+    126,
+    150
+   ]
+  },
+  {
+   "t0": 534.925,
+   "t1": 540.828,
+   "i": 88,
+   "segs": [
+    [
+     534.925,
+     536.867
+    ],
+    [
+     537.147,
+     538.512
+    ],
+    [
+     538.792,
+     540.477
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer1",
+   "figno": "1",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "draw": false,
+   "ring": [
+    353,
+    496,
+    130
+   ]
+  },
+  {
+   "t0": 540.828,
+   "t1": 548.222,
+   "i": 89,
+   "segs": [
+    [
+     540.828,
+     542.535
+    ],
+    [
+     542.815,
+     547.871
+    ]
+   ],
+   "g": "quote",
+   "q": "said arm can be moved toward and away from the shaft according to the desire of the occupant",
+   "hit": "the desire of the occupant",
+   "src": "US 1,269,325 \u00b7 description",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918"
+  },
+  {
+   "t0": 548.222,
+   "t1": 552.285,
+   "i": 90,
+   "segs": [
+    [
+     548.222,
+     551.934
+    ]
+   ],
+   "g": "quote",
+   "q": "from which the chair may be readily removed, when the device is not to be used, and without disturbing the fan device.",
+   "hit": "without disturbing the fan device",
+   "src": "US 1,269,325 \u00b7 description",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918"
+  },
+  {
+   "t0": 552.285,
+   "t1": 554.215,
+   "i": 91,
+   "segs": [
+    [
+     552.285,
+     553.864
+    ]
+   ],
+   "g": "quote",
+   "q": "The fan will produce a sufficiently strong current of air to both cool the occupant and keep flies and other insects away.",
+   "hit": "keep flies and other insects away",
+   "src": "US 1,269,325 \u00b7 description",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "hide": true
+  },
+  {
+   "t0": 554.215,
+   "t1": 561.258,
+   "i": 92,
+   "segs": [
+    [
+     554.215,
+     560.807
+    ]
+   ],
+   "g": "quote",
+   "q": "The fan will produce a sufficiently strong current of air to both cool the occupant and keep flies and other insects away.",
+   "hit": "keep flies and other insects away",
+   "src": "US 1,269,325 \u00b7 description",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "typed": false
+  },
+  {
+   "t0": 561.258,
+   "t1": 567.359,
+   "i": 93,
+   "segs": [
+    [
+     561.258,
+     562.986
+    ],
+    [
+     563.486,
+     564.488
+    ],
+    [
+     564.988,
+     566.908
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHAIR|ATTACHMENT",
+   "filed": "APR. 11, 1916",
+   "date": "JUNE 11, 1918",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "at": 3.0
+  },
+  {
+   "t0": 567.359,
+   "t1": 572.812,
+   "i": 94,
+   "segs": [
+    [
+     567.359,
+     568.49
+    ],
+    [
+     568.77,
+     572.461
+    ]
+   ],
+   "g": "quote",
+   "q": "Copies of this patent may be obtained for five cents each",
+   "hit": "five cents each",
+   "src": "US 1,269,325 \u00b7 printed notice",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "hide": true
+  },
+  {
+   "t0": 572.812,
+   "t1": 576.655,
+   "i": 95,
+   "segs": [
+    [
+     572.812,
+     576.204
+    ]
+   ],
+   "g": "quote",
+   "q": "Copies of this patent may be obtained for five cents each",
+   "hit": "five cents each",
+   "src": "US 1,269,325 \u00b7 printed notice",
+   "num": "US 1,269,325",
+   "hook": "THE [PORCH]|FAN",
+   "side": "US 1,269,325 \u00b7 1918",
+   "typed": false
+  },
+  {
+   "t0": 576.655,
+   "t1": 579.296,
+   "i": 96,
+   "segs": [
+    [
+     576.655,
+     578.745
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS WEEK'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 003"
+  },
+  {
+   "t0": 579.296,
+   "t1": 590.621,
+   "i": 97,
+   "segs": [
+    [
+     579.296,
+     580.576
+    ],
+    [
+     580.856,
+     583.352
+    ],
+    [
+     583.632,
+     585.488
+    ],
+    [
+     585.768,
+     590.27
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "num": "US 1,051,684",
+   "hook": "THE BUTTER|[ROCKER]",
+   "side": "US 1,051,684 \u00b7 1913",
+   "draw": false,
+   "ring": [
+    348,
+    402,
+    190
+   ]
+  },
+  {
+   "t0": 590.621,
+   "t1": 605.786,
+   "i": 98,
+   "segs": [
+    [
+     590.621,
+     592.541
+    ],
+    [
+     593.041,
+     597.222
+    ],
+    [
+     597.722,
+     600.751
+    ],
+    [
+     601.251,
+     602.297
+    ],
+    [
+     602.797,
+     605.335
+    ]
+   ],
+   "g": "title",
+   "kicker": "STILL ROCKING",
+   "title": "Fan Attachment|for Rocking Chairs",
+   "lines": [
+    "US 4,277,224 \u00b7 1981"
+   ],
+   "hook": "FAN [ATTACHMENT]|FOR ROCKING-CHAIRS",
+   "side": "FILE 003 \u00b7 THE RELATIVES"
+  },
+  {
+   "t0": 605.786,
+   "t1": 613.415,
+   "i": 99,
+   "segs": [
+    [
+     605.786,
+     609.285
+    ],
+    [
+     609.565,
+     613.064
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "1,051,684 \u00b7 538,566 \u00b7 581,902",
+    "1,139,299 \u00b7 1,174,436 \u00b7 1,269,325"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 003"
+  },
+  {
+   "t0": 613.415,
+   "t1": 620.33,
+   "i": 100,
+   "segs": [
+    [
+     613.415,
+     615.1
+    ],
+    [
+     615.38,
+     616.98
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 003"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.801,
+   "txt": "rocking chair."
+  },
+  {
+   "t0": 2.252,
+   "t1": 2.774,
+   "txt": "And this,"
+  },
+  {
+   "t0": 2.774,
+   "t1": 3.817,
+   "txt": "mounted beside it,"
+  },
+  {
+   "t0": 3.817,
+   "t1": 4.513,
+   "txt": "is a barrel."
+  },
+  {
+   "t0": 4.793,
+   "t1": 5.753,
+   "txt": "A butter churn."
+  },
+  {
+   "t0": 6.104,
+   "t1": 7.107,
+   "txt": "You sit down."
+  },
+  {
+   "t0": 7.387,
+   "t1": 8.133,
+   "txt": "You rock."
+  },
+  {
+   "t0": 8.413,
+   "t1": 9.235,
+   "txt": "And the barrel"
+  },
+  {
+   "t0": 9.235,
+   "t1": 9.587,
+   "txt": "turns."
+  },
+  {
+   "t0": 9.938,
+   "t1": 11.047,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 11.548,
+   "t1": 12.593,
+   "txt": "This is real."
+  },
+  {
+   "t0": 12.873,
+   "t1": 13.748,
+   "txt": "A U.S."
+  },
+  {
+   "t0": 14.028,
+   "t1": 15.176,
+   "txt": "patent from nineteen"
+  },
+  {
+   "t0": 15.176,
+   "t1": 15.692,
+   "txt": "thirteen."
+  },
+  {
+   "t0": 15.972,
+   "t1": 16.349,
+   "txt": "Today,"
+  },
+  {
+   "t0": 16.349,
+   "t1": 17.039,
+   "txt": "one patent:"
+  },
+  {
+   "t0": 17.039,
+   "t1": 18.107,
+   "txt": "the rocking chair"
+  },
+  {
+   "t0": 18.107,
+   "t1": 19.3,
+   "txt": "that churns butter."
+  },
+  {
+   "t0": 19.58,
+   "t1": 20.164,
+   "txt": "And then,"
+  },
+  {
+   "t0": 20.164,
+   "t1": 21.073,
+   "txt": "its relatives."
+  },
+  {
+   "t0": 21.353,
+   "t1": 22.434,
+   "txt": "Because the rocking"
+  },
+  {
+   "t0": 22.434,
+   "t1": 23.288,
+   "txt": "chair had other"
+  },
+  {
+   "t0": 23.288,
+   "t1": 23.572,
+   "txt": "jobs."
+  },
+  {
+   "t0": 23.852,
+   "t1": 25.196,
+   "txt": "Mostly one job."
+  },
+  {
+   "t0": 25.547,
+   "t1": 26.315,
+   "txt": "Part one."
+  },
+  {
+   "t0": 26.595,
+   "t1": 27.008,
+   "txt": "Maine,"
+  },
+  {
+   "t0": 27.008,
+   "t1": 28.11,
+   "txt": "nineteen twelve."
+  },
+  {
+   "t0": 28.461,
+   "t1": 29.621,
+   "txt": "The official title"
+  },
+  {
+   "t0": 29.621,
+   "t1": 30.524,
+   "txt": "of this patent"
+  },
+  {
+   "t0": 30.524,
+   "t1": 31.298,
+   "txt": "is one word."
+  },
+  {
+   "t0": 31.798,
+   "t1": 32.523,
+   "txt": "Churn."
+  },
+  {
+   "t0": 33.023,
+   "t1": 34.026,
+   "txt": "With a period."
+  },
+  {
+   "t0": 34.477,
+   "t1": 35.268,
+   "txt": "The inventor,"
+  },
+  {
+   "t0": 35.268,
+   "t1": 36.06,
+   "txt": "Alfred Clark,"
+  },
+  {
+   "t0": 36.06,
+   "t1": 36.973,
+   "txt": "lived in Maine."
+  },
+  {
+   "t0": 37.253,
+   "t1": 38.085,
+   "txt": "And his whole"
+  },
+  {
+   "t0": 38.085,
+   "t1": 38.853,
+   "txt": "idea fits in"
+  },
+  {
+   "t0": 38.853,
+   "t1": 39.685,
+   "txt": "one sentence."
+  },
+  {
+   "t0": 40.036,
+   "t1": 40.889,
+   "txt": "Here it is."
+  },
+  {
+   "t0": 41.24,
+   "t1": 41.809,
+   "txt": "So that a"
+  },
+  {
+   "t0": 41.809,
+   "t1": 42.567,
+   "txt": "churn may be"
+  },
+  {
+   "t0": 42.567,
+   "t1": 43.388,
+   "txt": "operated by a"
+  },
+  {
+   "t0": 43.388,
+   "t1": 44.462,
+   "txt": "person seated and"
+  },
+  {
+   "t0": 44.462,
+   "t1": 45.22,
+   "txt": "rocking in a"
+  },
+  {
+   "t0": 45.22,
+   "t1": 46.104,
+   "txt": "rocking chair."
+  },
+  {
+   "t0": 46.555,
+   "t1": 47.547,
+   "txt": "Turning cream into"
+  },
+  {
+   "t0": 47.547,
+   "t1": 48.539,
+   "txt": "butter takes work."
+  },
+  {
+   "t0": 48.819,
+   "t1": 49.376,
+   "txt": "Usually,"
+  },
+  {
+   "t0": 49.376,
+   "t1": 50.211,
+   "txt": "your arms do"
+  },
+  {
+   "t0": 50.211,
+   "t1": 50.419,
+   "txt": "it."
+  },
+  {
+   "t0": 50.699,
+   "t1": 51.635,
+   "txt": "This patent gives"
+  },
+  {
+   "t0": 51.635,
+   "t1": 52.185,
+   "txt": "the job to"
+  },
+  {
+   "t0": 52.185,
+   "t1": 52.79,
+   "txt": "your chair."
+  },
+  {
+   "t0": 53.141,
+   "t1": 53.918,
+   "txt": "Start with the"
+  },
+  {
+   "t0": 53.918,
+   "t1": 54.25,
+   "txt": "chair."
+  },
+  {
+   "t0": 54.53,
+   "t1": 55.091,
+   "txt": "It is not"
+  },
+  {
+   "t0": 55.091,
+   "t1": 56.088,
+   "txt": "just any rocker."
+  },
+  {
+   "t0": 56.368,
+   "t1": 57.213,
+   "txt": "The patent calls"
+  },
+  {
+   "t0": 57.213,
+   "t1": 57.847,
+   "txt": "for a spring"
+  },
+  {
+   "t0": 57.847,
+   "t1": 58.586,
+   "txt": "rocking chair."
+  },
+  {
+   "t0": 58.866,
+   "t1": 59.932,
+   "txt": "The rockers ride"
+  },
+  {
+   "t0": 59.932,
+   "t1": 60.597,
+   "txt": "on a fixed"
+  },
+  {
+   "t0": 60.597,
+   "t1": 61.33,
+   "txt": "base frame,"
+  },
+  {
+   "t0": 61.33,
+   "t1": 61.995,
+   "txt": "held to it"
+  },
+  {
+   "t0": 61.995,
+   "t1": 62.728,
+   "txt": "by springs."
+  },
+  {
+   "t0": 63.079,
+   "t1": 63.649,
+   "txt": "A pair of"
+  },
+  {
+   "t0": 63.649,
+   "t1": 64.599,
+   "txt": "extra bars runs"
+  },
+  {
+   "t0": 64.599,
+   "t1": 65.549,
+   "txt": "under that base"
+  },
+  {
+   "t0": 65.549,
+   "t1": 66.436,
+   "txt": "and sticks out"
+  },
+  {
+   "t0": 66.436,
+   "t1": 67.196,
+   "txt": "to one side."
+  },
+  {
+   "t0": 67.476,
+   "t1": 68.202,
+   "txt": "On their ends"
+  },
+  {
+   "t0": 68.202,
+   "t1": 69.04,
+   "txt": "stand two posts"
+  },
+  {
+   "t0": 69.04,
+   "t1": 69.823,
+   "txt": "with bearings."
+  },
+  {
+   "t0": 70.103,
+   "t1": 70.908,
+   "txt": "And between the"
+  },
+  {
+   "t0": 70.908,
+   "t1": 71.23,
+   "txt": "posts,"
+  },
+  {
+   "t0": 71.23,
+   "t1": 71.767,
+   "txt": "the churn."
+  },
+  {
+   "t0": 72.118,
+   "t1": 73.205,
+   "txt": "The patent describes"
+  },
+  {
+   "t0": 73.205,
+   "t1": 73.803,
+   "txt": "it plainly."
+  },
+  {
+   "t0": 74.154,
+   "t1": 74.936,
+   "txt": "So the barrel"
+  },
+  {
+   "t0": 74.936,
+   "t1": 75.839,
+   "txt": "does not slosh."
+  },
+  {
+   "t0": 76.119,
+   "t1": 76.985,
+   "txt": "It turns over"
+  },
+  {
+   "t0": 76.985,
+   "t1": 77.584,
+   "txt": "and over,"
+  },
+  {
+   "t0": 77.584,
+   "t1": 78.317,
+   "txt": "on an axle."
+  },
+  {
+   "t0": 78.668,
+   "t1": 79.606,
+   "txt": "Figure two shows"
+  },
+  {
+   "t0": 79.606,
+   "t1": 80.486,
+   "txt": "it from another"
+  },
+  {
+   "t0": 80.486,
+   "t1": 80.78,
+   "txt": "side."
+  },
+  {
+   "t0": 81.06,
+   "t1": 82.071,
+   "txt": "A sectional view,"
+  },
+  {
+   "t0": 82.071,
+   "t1": 82.725,
+   "txt": "on the line"
+  },
+  {
+   "t0": 82.725,
+   "t1": 83.32,
+   "txt": "marked A A"
+  },
+  {
+   "t0": 83.32,
+   "t1": 84.153,
+   "txt": "in figure one."
+  },
+  {
+   "t0": 84.504,
+   "t1": 85.416,
+   "txt": "Now the clever"
+  },
+  {
+   "t0": 85.416,
+   "t1": 85.741,
+   "txt": "part."
+  },
+  {
+   "t0": 86.021,
+   "t1": 86.621,
+   "txt": "On the end"
+  },
+  {
+   "t0": 86.621,
+   "t1": 87.34,
+   "txt": "of that axle"
+  },
+  {
+   "t0": 87.34,
+   "t1": 88.179,
+   "txt": "sits a ratchet"
+  },
+  {
+   "t0": 88.179,
+   "t1": 88.539,
+   "txt": "wheel."
+  },
+  {
+   "t0": 88.819,
+   "t1": 89.602,
+   "txt": "A toothed wheel"
+  },
+  {
+   "t0": 89.602,
+   "t1": 90.176,
+   "txt": "that can be"
+  },
+  {
+   "t0": 90.176,
+   "t1": 91.011,
+   "txt": "pushed around in"
+  },
+  {
+   "t0": 91.011,
+   "t1": 91.741,
+   "txt": "one direction."
+  },
+  {
+   "t0": 92.092,
+   "t1": 92.992,
+   "txt": "Two arms hang"
+  },
+  {
+   "t0": 92.992,
+   "t1": 93.754,
+   "txt": "on the same"
+  },
+  {
+   "t0": 93.754,
+   "t1": 94.1,
+   "txt": "axle,"
+  },
+  {
+   "t0": 94.1,
+   "t1": 94.862,
+   "txt": "one on each"
+  },
+  {
+   "t0": 94.862,
+   "t1": 95.624,
+   "txt": "side of the"
+  },
+  {
+   "t0": 95.624,
+   "t1": 96.039,
+   "txt": "wheel."
+  },
+  {
+   "t0": 96.39,
+   "t1": 97.525,
+   "txt": "Each arm carries"
+  },
+  {
+   "t0": 97.525,
+   "t1": 98.022,
+   "txt": "a pawl,"
+  },
+  {
+   "t0": 98.022,
+   "t1": 99.015,
+   "txt": "a small hinged"
+  },
+  {
+   "t0": 99.015,
+   "t1": 99.441,
+   "txt": "catch."
+  },
+  {
+   "t0": 99.721,
+   "t1": 100.465,
+   "txt": "The top pawl"
+  },
+  {
+   "t0": 100.465,
+   "t1": 101.333,
+   "txt": "drops into the"
+  },
+  {
+   "t0": 101.333,
+   "t1": 102.387,
+   "txt": "teeth by gravity."
+  },
+  {
+   "t0": 102.667,
+   "t1": 103.503,
+   "txt": "The bottom pawl"
+  },
+  {
+   "t0": 103.503,
+   "t1": 104.228,
+   "txt": "is pressed up"
+  },
+  {
+   "t0": 104.228,
+   "t1": 104.896,
+   "txt": "into them by"
+  },
+  {
+   "t0": 104.896,
+   "t1": 105.398,
+   "txt": "a spring."
+  },
+  {
+   "t0": 105.749,
+   "t1": 106.509,
+   "txt": "Then two rods"
+  },
+  {
+   "t0": 106.509,
+   "t1": 107.62,
+   "txt": "connect the chair's"
+  },
+  {
+   "t0": 107.62,
+   "t1": 108.379,
+   "txt": "rocker to the"
+  },
+  {
+   "t0": 108.379,
+   "t1": 108.672,
+   "txt": "arms."
+  },
+  {
+   "t0": 108.952,
+   "t1": 109.637,
+   "txt": "One from near"
+  },
+  {
+   "t0": 109.637,
+   "t1": 110.27,
+   "txt": "the front of"
+  },
+  {
+   "t0": 110.27,
+   "t1": 110.85,
+   "txt": "the rocker."
+  },
+  {
+   "t0": 111.13,
+   "t1": 111.849,
+   "txt": "One from near"
+  },
+  {
+   "t0": 111.849,
+   "t1": 112.346,
+   "txt": "the back."
+  },
+  {
+   "t0": 112.697,
+   "t1": 113.482,
+   "txt": "The front rod"
+  },
+  {
+   "t0": 113.482,
+   "t1": 114.146,
+   "txt": "goes to the"
+  },
+  {
+   "t0": 114.146,
+   "t1": 114.809,
+   "txt": "bottom arm."
+  },
+  {
+   "t0": 115.089,
+   "t1": 115.833,
+   "txt": "The back rod"
+  },
+  {
+   "t0": 115.833,
+   "t1": 116.514,
+   "txt": "goes to the"
+  },
+  {
+   "t0": 116.514,
+   "t1": 117.009,
+   "txt": "top arm."
+  },
+  {
+   "t0": 117.36,
+   "t1": 118.172,
+   "txt": "Rock one way,"
+  },
+  {
+   "t0": 118.172,
+   "t1": 118.984,
+   "txt": "and both arms"
+  },
+  {
+   "t0": 118.984,
+   "t1": 119.92,
+   "txt": "swing together."
+  },
+  {
+   "t0": 120.2,
+   "t1": 120.932,
+   "txt": "The top pawl"
+  },
+  {
+   "t0": 120.932,
+   "t1": 121.907,
+   "txt": "pushes the wheel"
+  },
+  {
+   "t0": 121.907,
+   "t1": 122.334,
+   "txt": "around."
+  },
+  {
+   "t0": 122.614,
+   "t1": 123.65,
+   "txt": "The bottom pawl"
+  },
+  {
+   "t0": 123.65,
+   "t1": 124.064,
+   "txt": "slips."
+  },
+  {
+   "t0": 124.415,
+   "t1": 125.063,
+   "txt": "Rock back,"
+  },
+  {
+   "t0": 125.063,
+   "t1": 125.969,
+   "txt": "and they trade"
+  },
+  {
+   "t0": 125.969,
+   "t1": 126.293,
+   "txt": "jobs."
+  },
+  {
+   "t0": 126.573,
+   "t1": 127.576,
+   "txt": "The bottom pawl"
+  },
+  {
+   "t0": 127.576,
+   "t1": 128.045,
+   "txt": "pushes."
+  },
+  {
+   "t0": 128.325,
+   "t1": 129.206,
+   "txt": "The top pawl"
+  },
+  {
+   "t0": 129.206,
+   "t1": 129.647,
+   "txt": "slips."
+  },
+  {
+   "t0": 129.998,
+   "t1": 130.431,
+   "txt": "Hence,"
+  },
+  {
+   "t0": 130.431,
+   "t1": 131.659,
+   "txt": "the ratchet wheel"
+  },
+  {
+   "t0": 131.659,
+   "t1": 132.597,
+   "txt": "is rotated in"
+  },
+  {
+   "t0": 132.597,
+   "t1": 133.824,
+   "txt": "one direction and"
+  },
+  {
+   "t0": 133.824,
+   "t1": 134.979,
+   "txt": "causes the churn"
+  },
+  {
+   "t0": 134.979,
+   "t1": 136.64,
+   "txt": "body to correspondingly"
+  },
+  {
+   "t0": 136.64,
+   "t1": 137.145,
+   "txt": "rotate."
+  },
+  {
+   "t0": 137.596,
+   "t1": 138.334,
+   "txt": "So you rock"
+  },
+  {
+   "t0": 138.334,
+   "t1": 139.339,
+   "txt": "back and forth,"
+  },
+  {
+   "t0": 139.339,
+   "t1": 140.278,
+   "txt": "and the barrel"
+  },
+  {
+   "t0": 140.278,
+   "t1": 141.284,
+   "txt": "only ever turns"
+  },
+  {
+   "t0": 141.284,
+   "t1": 141.82,
+   "txt": "one way."
+  },
+  {
+   "t0": 142.1,
+   "t1": 142.964,
+   "txt": "Back and forth"
+  },
+  {
+   "t0": 142.964,
+   "t1": 144.013,
+   "txt": "becomes round and"
+  },
+  {
+   "t0": 144.013,
+   "t1": 144.383,
+   "txt": "round."
+  },
+  {
+   "t0": 144.663,
+   "t1": 145.601,
+   "txt": "While you sit."
+  },
+  {
+   "t0": 145.952,
+   "t1": 146.854,
+   "txt": "The chair keeps"
+  },
+  {
+   "t0": 146.854,
+   "t1": 147.936,
+   "txt": "its usual springs."
+  },
+  {
+   "t0": 148.216,
+   "t1": 149.194,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 149.194,
+   "t1": 149.39,
+   "txt": "so."
+  },
+  {
+   "t0": 149.741,
+   "t1": 150.703,
+   "txt": "And the inventor"
+  },
+  {
+   "t0": 150.703,
+   "t1": 151.424,
+   "txt": "left room to"
+  },
+  {
+   "t0": 151.424,
+   "t1": 151.725,
+   "txt": "grow."
+  },
+  {
+   "t0": 152.225,
+   "t1": 153.206,
+   "txt": "The mechanism,"
+  },
+  {
+   "t0": 153.206,
+   "t1": 153.837,
+   "txt": "he wrote,"
+  },
+  {
+   "t0": 153.837,
+   "t1": 154.888,
+   "txt": "may be arranged"
+  },
+  {
+   "t0": 154.888,
+   "t1": 155.94,
+   "txt": "for operating a"
+  },
+  {
+   "t0": 155.94,
+   "t1": 156.781,
+   "txt": "churn of any"
+  },
+  {
+   "t0": 156.781,
+   "t1": 157.131,
+   "txt": "kind."
+  },
+  {
+   "t0": 157.582,
+   "t1": 158.312,
+   "txt": "A churn of"
+  },
+  {
+   "t0": 158.312,
+   "t1": 158.969,
+   "txt": "any kind."
+  },
+  {
+   "t0": 159.389,
+   "t1": 160.264,
+   "txt": "One chair."
+  },
+  {
+   "t0": 160.684,
+   "t1": 161.558,
+   "txt": "Any churn."
+  },
+  {
+   "t0": 162.059,
+   "t1": 163.073,
+   "txt": "The patent makes"
+  },
+  {
+   "t0": 163.073,
+   "t1": 164.214,
+   "txt": "exactly one claim."
+  },
+  {
+   "t0": 164.494,
+   "t1": 165.162,
+   "txt": "A ratchet,"
+  },
+  {
+   "t0": 165.162,
+   "t1": 166.23,
+   "txt": "two rocking arms"
+  },
+  {
+   "t0": 166.23,
+   "t1": 166.965,
+   "txt": "with pawls,"
+  },
+  {
+   "t0": 166.965,
+   "t1": 167.566,
+   "txt": "and rods."
+  },
+  {
+   "t0": 167.846,
+   "t1": 168.979,
+   "txt": "In combination with"
+  },
+  {
+   "t0": 168.979,
+   "t1": 169.873,
+   "txt": "a chair rocker."
+  },
+  {
+   "t0": 170.224,
+   "t1": 170.897,
+   "txt": "And it ends"
+  },
+  {
+   "t0": 170.897,
+   "t1": 171.632,
+   "txt": "the old way."
+  },
+  {
+   "t0": 171.983,
+   "t1": 173.674,
+   "txt": "Filed June twenty-eighth,"
+  },
+  {
+   "t0": 173.674,
+   "t1": 174.756,
+   "txt": "nineteen twelve."
+  },
+  {
+   "t0": 175.256,
+   "t1": 177.348,
+   "txt": "Approved January twenty-eighth,"
+  },
+  {
+   "t0": 177.348,
+   "t1": 178.563,
+   "txt": "nineteen thirteen."
+  },
+  {
+   "t0": 179.063,
+   "t1": 179.829,
+   "txt": "Seven months,"
+  },
+  {
+   "t0": 179.829,
+   "t1": 180.477,
+   "txt": "for a chair"
+  },
+  {
+   "t0": 180.477,
+   "t1": 181.537,
+   "txt": "that makes butter."
+  },
+  {
+   "t0": 181.988,
+   "t1": 183.064,
+   "txt": "Did anyone build"
+  },
+  {
+   "t0": 183.064,
+   "t1": 183.332,
+   "txt": "one?"
+  },
+  {
+   "t0": 183.612,
+   "t1": 184.695,
+   "txt": "The patent doesn't"
+  },
+  {
+   "t0": 184.695,
+   "t1": 184.935,
+   "txt": "say."
+  },
+  {
+   "t0": 185.215,
+   "t1": 185.815,
+   "txt": "But here is"
+  },
+  {
+   "t0": 185.815,
+   "t1": 186.632,
+   "txt": "what the record"
+  },
+  {
+   "t0": 186.632,
+   "t1": 187.178,
+   "txt": "does show."
+  },
+  {
+   "t0": 187.458,
+   "t1": 188.389,
+   "txt": "The rocking chair"
+  },
+  {
+   "t0": 188.389,
+   "t1": 189.484,
+   "txt": "was already working."
+  },
+  {
+   "t0": 189.764,
+   "t1": 190.404,
+   "txt": "Hard."
+  },
+  {
+   "t0": 190.755,
+   "t1": 191.681,
+   "txt": "Look through the"
+  },
+  {
+   "t0": 191.681,
+   "t1": 192.549,
+   "txt": "patents of that"
+  },
+  {
+   "t0": 192.549,
+   "t1": 192.78,
+   "txt": "era,"
+  },
+  {
+   "t0": 192.78,
+   "t1": 193.533,
+   "txt": "and one title"
+  },
+  {
+   "t0": 193.533,
+   "t1": 194.574,
+   "txt": "keeps coming back."
+  },
+  {
+   "t0": 194.854,
+   "t1": 195.959,
+   "txt": "Fan attachment for"
+  },
+  {
+   "t0": 195.959,
+   "t1": 196.881,
+   "txt": "rocking-chairs."
+  },
+  {
+   "t0": 197.232,
+   "t1": 198.042,
+   "txt": "At least a"
+  },
+  {
+   "t0": 198.042,
+   "t1": 198.853,
+   "txt": "dozen U.S."
+  },
+  {
+   "t0": 199.133,
+   "t1": 200.269,
+   "txt": "patents carry that"
+  },
+  {
+   "t0": 200.269,
+   "t1": 200.648,
+   "txt": "title."
+  },
+  {
+   "t0": 200.928,
+   "t1": 202.448,
+   "txt": "From eighteen ninety-three,"
+  },
+  {
+   "t0": 202.448,
+   "t1": 203.067,
+   "txt": "all the way"
+  },
+  {
+   "t0": 203.067,
+   "t1": 204.362,
+   "txt": "to nineteen eighty-one."
+  },
+  {
+   "t0": 204.642,
+   "t1": 205.396,
+   "txt": "The years on"
+  },
+  {
+   "t0": 205.396,
+   "t1": 206.274,
+   "txt": "screen are the"
+  },
+  {
+   "t0": 206.274,
+   "t1": 207.153,
+   "txt": "years each one"
+  },
+  {
+   "t0": 207.153,
+   "t1": 207.906,
+   "txt": "was granted."
+  },
+  {
+   "t0": 208.257,
+   "t1": 209.452,
+   "txt": "The idea never"
+  },
+  {
+   "t0": 209.452,
+   "t1": 210.135,
+   "txt": "changes."
+  },
+  {
+   "t0": 210.635,
+   "t1": 211.488,
+   "txt": "You rock."
+  },
+  {
+   "t0": 211.988,
+   "t1": 212.835,
+   "txt": "A fan blows"
+  },
+  {
+   "t0": 212.835,
+   "t1": 213.375,
+   "txt": "on you."
+  },
+  {
+   "t0": 213.875,
+   "t1": 214.579,
+   "txt": "You are the"
+  },
+  {
+   "t0": 214.579,
+   "t1": 214.963,
+   "txt": "motor."
+  },
+  {
+   "t0": 215.414,
+   "t1": 216.194,
+   "txt": "Here are five"
+  },
+  {
+   "t0": 216.194,
+   "t1": 217.334,
+   "txt": "rocking-chair fans."
+  },
+  {
+   "t0": 217.614,
+   "t1": 218.552,
+   "txt": "Five people."
+  },
+  {
+   "t0": 218.832,
+   "t1": 219.835,
+   "txt": "Same problem."
+  },
+  {
+   "t0": 220.115,
+   "t1": 221.574,
+   "txt": "Five completely different"
+  },
+  {
+   "t0": 221.574,
+   "t1": 222.099,
+   "txt": "machines."
+  },
+  {
+   "t0": 222.379,
+   "t1": 223.041,
+   "txt": "Four of them"
+  },
+  {
+   "t0": 223.041,
+   "t1": 223.979,
+   "txt": "carry that title."
+  },
+  {
+   "t0": 224.259,
+   "t1": 225.326,
+   "txt": "Some clamp on."
+  },
+  {
+   "t0": 225.606,
+   "t1": 226.672,
+   "txt": "Some bolt on."
+  },
+  {
+   "t0": 226.952,
+   "t1": 227.732,
+   "txt": "One stays on"
+  },
+  {
+   "t0": 227.732,
+   "t1": 228.382,
+   "txt": "the porch."
+  },
+  {
+   "t0": 228.733,
+   "t1": 229.97,
+   "txt": "Relative number one."
+  },
+  {
+   "t0": 230.25,
+   "t1": 231.197,
+   "txt": "San Francisco,"
+  },
+  {
+   "t0": 231.197,
+   "t1": 232.618,
+   "txt": "eighteen ninety-four."
+  },
+  {
+   "t0": 232.969,
+   "t1": 233.929,
+   "txt": "Joel Weigel put"
+  },
+  {
+   "t0": 233.929,
+   "t1": 234.569,
+   "txt": "a tall rod"
+  },
+  {
+   "t0": 234.569,
+   "t1": 235.657,
+   "txt": "behind the chair."
+  },
+  {
+   "t0": 235.937,
+   "t1": 236.475,
+   "txt": "On top,"
+  },
+  {
+   "t0": 236.475,
+   "t1": 237.473,
+   "txt": "two big fans."
+  },
+  {
+   "t0": 237.753,
+   "t1": 238.317,
+   "txt": "The top of"
+  },
+  {
+   "t0": 238.317,
+   "t1": 238.882,
+   "txt": "the rod is"
+  },
+  {
+   "t0": 238.882,
+   "t1": 239.503,
+   "txt": "held to the"
+  },
+  {
+   "t0": 239.503,
+   "t1": 240.124,
+   "txt": "back of the"
+  },
+  {
+   "t0": 240.124,
+   "t1": 240.462,
+   "txt": "chair."
+  },
+  {
+   "t0": 240.813,
+   "t1": 241.664,
+   "txt": "The bottom of"
+  },
+  {
+   "t0": 241.664,
+   "t1": 242.319,
+   "txt": "the rod is"
+  },
+  {
+   "t0": 242.319,
+   "t1": 243.235,
+   "txt": "twisted into a"
+  },
+  {
+   "t0": 243.235,
+   "t1": 243.693,
+   "txt": "spiral."
+  },
+  {
+   "t0": 243.973,
+   "t1": 245.061,
+   "txt": "Like a corkscrew."
+  },
+  {
+   "t0": 245.412,
+   "t1": 246.277,
+   "txt": "The spiral runs"
+  },
+  {
+   "t0": 246.277,
+   "t1": 247.257,
+   "txt": "through a slotted"
+  },
+  {
+   "t0": 247.257,
+   "t1": 247.833,
+   "txt": "nut on the"
+  },
+  {
+   "t0": 247.833,
+   "t1": 248.122,
+   "txt": "base."
+  },
+  {
+   "t0": 248.402,
+   "t1": 249.16,
+   "txt": "When the chair"
+  },
+  {
+   "t0": 249.16,
+   "t1": 249.485,
+   "txt": "rocks,"
+  },
+  {
+   "t0": 249.485,
+   "t1": 250.027,
+   "txt": "the rod is"
+  },
+  {
+   "t0": 250.027,
+   "t1": 250.731,
+   "txt": "pushed up and"
+  },
+  {
+   "t0": 250.731,
+   "t1": 251.598,
+   "txt": "down through the"
+  },
+  {
+   "t0": 251.598,
+   "t1": 251.815,
+   "txt": "nut."
+  },
+  {
+   "t0": 252.095,
+   "t1": 252.927,
+   "txt": "And the spiral"
+  },
+  {
+   "t0": 252.927,
+   "t1": 253.759,
+   "txt": "makes it spin."
+  },
+  {
+   "t0": 254.11,
+   "t1": 254.985,
+   "txt": "And Mr."
+  },
+  {
+   "t0": 255.265,
+   "t1": 256.123,
+   "txt": "Weigel had a"
+  },
+  {
+   "t0": 256.123,
+   "t1": 256.481,
+   "txt": "goal."
+  },
+  {
+   "t0": 256.832,
+   "t1": 257.755,
+   "txt": "To render their"
+  },
+  {
+   "t0": 257.755,
+   "t1": 258.986,
+   "txt": "operation noiseless."
+  },
+  {
+   "t0": 259.437,
+   "t1": 260.048,
+   "txt": "So the nut"
+  },
+  {
+   "t0": 260.048,
+   "t1": 260.658,
+   "txt": "is made of"
+  },
+  {
+   "t0": 260.658,
+   "t1": 261.146,
+   "txt": "leather,"
+  },
+  {
+   "t0": 261.146,
+   "t1": 262.061,
+   "txt": "or hard rubber."
+  },
+  {
+   "t0": 262.341,
+   "t1": 263.173,
+   "txt": "And the holes"
+  },
+  {
+   "t0": 263.173,
+   "t1": 264.261,
+   "txt": "around the spiral"
+  },
+  {
+   "t0": 264.261,
+   "t1": 265.093,
+   "txt": "are cut wide,"
+  },
+  {
+   "t0": 265.093,
+   "t1": 265.925,
+   "txt": "so that there"
+  },
+  {
+   "t0": 265.925,
+   "t1": 266.757,
+   "txt": "is no contact"
+  },
+  {
+   "t0": 266.757,
+   "t1": 268.037,
+   "txt": "between these parts."
+  },
+  {
+   "t0": 268.388,
+   "t1": 268.978,
+   "txt": "Up at the"
+  },
+  {
+   "t0": 268.978,
+   "t1": 269.698,
+   "txt": "chair back,"
+  },
+  {
+   "t0": 269.698,
+   "t1": 270.614,
+   "txt": "the rod passes"
+  },
+  {
+   "t0": 270.614,
+   "t1": 272.186,
+   "txt": "between leather washers."
+  },
+  {
+   "t0": 272.686,
+   "t1": 272.955,
+   "txt": "And,"
+  },
+  {
+   "t0": 272.955,
+   "t1": 274.301,
+   "txt": "the patent promises,"
+  },
+  {
+   "t0": 274.301,
+   "t1": 275.041,
+   "txt": "there is no"
+  },
+  {
+   "t0": 275.041,
+   "t1": 275.916,
+   "txt": "noise in this"
+  },
+  {
+   "t0": 275.916,
+   "t1": 276.657,
+   "txt": "connection,"
+  },
+  {
+   "t0": 276.657,
+   "t1": 277.464,
+   "txt": "nor any jar."
+  },
+  {
+   "t0": 277.915,
+   "t1": 278.455,
+   "txt": "He drew it"
+  },
+  {
+   "t0": 278.455,
+   "t1": 279.157,
+   "txt": "for two kinds"
+  },
+  {
+   "t0": 279.157,
+   "t1": 279.643,
+   "txt": "of chair."
+  },
+  {
+   "t0": 279.923,
+   "t1": 280.516,
+   "txt": "One on a"
+  },
+  {
+   "t0": 280.516,
+   "t1": 281.331,
+   "txt": "fixed base."
+  },
+  {
+   "t0": 281.611,
+   "t1": 282.343,
+   "txt": "And a common"
+  },
+  {
+   "t0": 282.343,
+   "t1": 282.769,
+   "txt": "rocker,"
+  },
+  {
+   "t0": 282.769,
+   "t1": 283.562,
+   "txt": "where a lever"
+  },
+  {
+   "t0": 283.562,
+   "t1": 284.354,
+   "txt": "with a roller"
+  },
+  {
+   "t0": 284.354,
+   "t1": 285.086,
+   "txt": "rides on the"
+  },
+  {
+   "t0": 285.086,
+   "t1": 285.451,
+   "txt": "floor."
+  },
+  {
+   "t0": 285.802,
+   "t1": 286.616,
+   "txt": "A spring holds"
+  },
+  {
+   "t0": 286.616,
+   "t1": 287.896,
+   "txt": "that roller constantly"
+  },
+  {
+   "t0": 287.896,
+   "t1": 288.768,
+   "txt": "upon the floor."
+  },
+  {
+   "t0": 289.119,
+   "t1": 289.836,
+   "txt": "And the lever"
+  },
+  {
+   "t0": 289.836,
+   "t1": 290.389,
+   "txt": "has a spec"
+  },
+  {
+   "t0": 290.389,
+   "t1": 290.996,
+   "txt": "of its own."
+  },
+  {
+   "t0": 291.347,
+   "t1": 292.462,
+   "txt": "The fans themselves"
+  },
+  {
+   "t0": 292.462,
+   "t1": 293.224,
+   "txt": "have handles."
+  },
+  {
+   "t0": 293.504,
+   "t1": 294.47,
+   "txt": "The handles are"
+  },
+  {
+   "t0": 294.47,
+   "t1": 295.693,
+   "txt": "clamped between two"
+  },
+  {
+   "t0": 295.693,
+   "t1": 296.53,
+   "txt": "plates at the"
+  },
+  {
+   "t0": 296.53,
+   "t1": 297.173,
+   "txt": "top of the"
+  },
+  {
+   "t0": 297.173,
+   "t1": 297.431,
+   "txt": "rod,"
+  },
+  {
+   "t0": 297.431,
+   "t1": 298.139,
+   "txt": "so the fans"
+  },
+  {
+   "t0": 298.139,
+   "t1": 298.976,
+   "txt": "can be easily"
+  },
+  {
+   "t0": 298.976,
+   "t1": 300.135,
+   "txt": "placed in position"
+  },
+  {
+   "t0": 300.135,
+   "t1": 300.907,
+   "txt": "and removed."
+  },
+  {
+   "t0": 301.258,
+   "t1": 302.094,
+   "txt": "The patent makes"
+  },
+  {
+   "t0": 302.094,
+   "t1": 302.773,
+   "txt": "three claims."
+  },
+  {
+   "t0": 303.053,
+   "t1": 303.958,
+   "txt": "The whole third"
+  },
+  {
+   "t0": 303.958,
+   "t1": 304.804,
+   "txt": "claim is about"
+  },
+  {
+   "t0": 304.804,
+   "t1": 305.528,
+   "txt": "how to clamp"
+  },
+  {
+   "t0": 305.528,
+   "t1": 306.253,
+   "txt": "the fans on."
+  },
+  {
+   "t0": 306.604,
+   "t1": 306.992,
+   "txt": "Quiet,"
+  },
+  {
+   "t0": 306.992,
+   "t1": 308.481,
+   "txt": "positive and efficient."
+  },
+  {
+   "t0": 308.981,
+   "t1": 309.595,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 309.595,
+   "t1": 311.029,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 311.48,
+   "t1": 312.803,
+   "txt": "Relative number two."
+  },
+  {
+   "t0": 313.083,
+   "t1": 313.645,
+   "txt": "New York,"
+  },
+  {
+   "t0": 313.645,
+   "t1": 314.896,
+   "txt": "eighteen ninety-six."
+  },
+  {
+   "t0": 315.247,
+   "t1": 316.434,
+   "txt": "Edward Davey used"
+  },
+  {
+   "t0": 316.434,
+   "t1": 317.342,
+   "txt": "one long rod,"
+  },
+  {
+   "t0": 317.342,
+   "t1": 317.9,
+   "txt": "set at a"
+  },
+  {
+   "t0": 317.9,
+   "t1": 318.319,
+   "txt": "slant."
+  },
+  {
+   "t0": 318.599,
+   "t1": 319.712,
+   "txt": "Three round fans"
+  },
+  {
+   "t0": 319.712,
+   "t1": 320.199,
+   "txt": "on top."
+  },
+  {
+   "t0": 320.55,
+   "t1": 321.337,
+   "txt": "The bottom of"
+  },
+  {
+   "t0": 321.337,
+   "t1": 322.063,
+   "txt": "the rod sits"
+  },
+  {
+   "t0": 322.063,
+   "t1": 322.728,
+   "txt": "in a socket"
+  },
+  {
+   "t0": 322.728,
+   "t1": 323.333,
+   "txt": "at the end"
+  },
+  {
+   "t0": 323.333,
+   "t1": 323.878,
+   "txt": "of a bar."
+  },
+  {
+   "t0": 324.158,
+   "t1": 324.699,
+   "txt": "The bar is"
+  },
+  {
+   "t0": 324.699,
+   "t1": 325.403,
+   "txt": "pinned to the"
+  },
+  {
+   "t0": 325.403,
+   "t1": 325.998,
+   "txt": "side of the"
+  },
+  {
+   "t0": 325.998,
+   "t1": 326.377,
+   "txt": "rocker."
+  },
+  {
+   "t0": 326.728,
+   "t1": 327.429,
+   "txt": "Halfway up,"
+  },
+  {
+   "t0": 327.429,
+   "t1": 328.448,
+   "txt": "the rod thickens"
+  },
+  {
+   "t0": 328.448,
+   "t1": 329.468,
+   "txt": "into a cylinder,"
+  },
+  {
+   "t0": 329.468,
+   "t1": 330.106,
+   "txt": "cut with a"
+  },
+  {
+   "t0": 330.106,
+   "t1": 331.062,
+   "txt": "screw thread of"
+  },
+  {
+   "t0": 331.062,
+   "t1": 331.826,
+   "txt": "great pitch."
+  },
+  {
+   "t0": 332.106,
+   "t1": 332.912,
+   "txt": "It passes through"
+  },
+  {
+   "t0": 332.912,
+   "t1": 333.529,
+   "txt": "a plate fixed"
+  },
+  {
+   "t0": 333.529,
+   "t1": 334.24,
+   "txt": "under the seat."
+  },
+  {
+   "t0": 334.591,
+   "t1": 335.429,
+   "txt": "Rock the chair,"
+  },
+  {
+   "t0": 335.429,
+   "t1": 336.044,
+   "txt": "and the rod"
+  },
+  {
+   "t0": 336.044,
+   "t1": 337.05,
+   "txt": "slides through the"
+  },
+  {
+   "t0": 337.05,
+   "t1": 337.385,
+   "txt": "plate."
+  },
+  {
+   "t0": 337.665,
+   "t1": 338.393,
+   "txt": "And the thread"
+  },
+  {
+   "t0": 338.393,
+   "t1": 338.86,
+   "txt": "spins it."
+  },
+  {
+   "t0": 339.14,
+   "t1": 339.616,
+   "txt": "Rapidly,"
+  },
+  {
+   "t0": 339.616,
+   "t1": 340.569,
+   "txt": "says the patent."
+  },
+  {
+   "t0": 340.92,
+   "t1": 341.864,
+   "txt": "The thread also"
+  },
+  {
+   "t0": 341.864,
+   "t1": 342.619,
+   "txt": "lets the rod"
+  },
+  {
+   "t0": 342.619,
+   "t1": 343.499,
+   "txt": "lean a little,"
+  },
+  {
+   "t0": 343.499,
+   "t1": 344.569,
+   "txt": "forward and back,"
+  },
+  {
+   "t0": 344.569,
+   "t1": 345.324,
+   "txt": "as it passes"
+  },
+  {
+   "t0": 345.324,
+   "t1": 345.827,
+   "txt": "through."
+  },
+  {
+   "t0": 346.107,
+   "t1": 346.928,
+   "txt": "Because the bar"
+  },
+  {
+   "t0": 346.928,
+   "t1": 347.639,
+   "txt": "at the bottom"
+  },
+  {
+   "t0": 347.639,
+   "t1": 348.351,
+   "txt": "swings up and"
+  },
+  {
+   "t0": 348.351,
+   "t1": 348.624,
+   "txt": "down."
+  },
+  {
+   "t0": 348.975,
+   "t1": 349.746,
+   "txt": "Going up is"
+  },
+  {
+   "t0": 349.746,
+   "t1": 350.938,
+   "txt": "the rocker's job."
+  },
+  {
+   "t0": 351.218,
+   "t1": 352.064,
+   "txt": "Coming down is"
+  },
+  {
+   "t0": 352.064,
+   "t1": 353.273,
+   "txt": "handled by something"
+  },
+  {
+   "t0": 353.273,
+   "t1": 353.757,
+   "txt": "simpler."
+  },
+  {
+   "t0": 354.108,
+   "t1": 355.541,
+   "txt": "The downward movement"
+  },
+  {
+   "t0": 355.541,
+   "t1": 356.224,
+   "txt": "of the rod"
+  },
+  {
+   "t0": 356.224,
+   "t1": 357.658,
+   "txt": "being accomplished by"
+  },
+  {
+   "t0": 357.658,
+   "t1": 358.545,
+   "txt": "gravity only."
+  },
+  {
+   "t0": 358.996,
+   "t1": 359.78,
+   "txt": "Which is why"
+  },
+  {
+   "t0": 359.78,
+   "t1": 360.694,
+   "txt": "the lower part"
+  },
+  {
+   "t0": 360.694,
+   "t1": 361.347,
+   "txt": "of the rod"
+  },
+  {
+   "t0": 361.347,
+   "t1": 361.999,
+   "txt": "is made of"
+  },
+  {
+   "t0": 361.999,
+   "t1": 362.326,
+   "txt": "iron,"
+  },
+  {
+   "t0": 362.326,
+   "t1": 363.305,
+   "txt": "or other metal."
+  },
+  {
+   "t0": 363.585,
+   "t1": 364.188,
+   "txt": "To give it"
+  },
+  {
+   "t0": 364.188,
+   "t1": 364.609,
+   "txt": "weight."
+  },
+  {
+   "t0": 364.96,
+   "t1": 365.792,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 365.792,
+   "t1": 366.624,
+   "txt": "insists on it."
+  },
+  {
+   "t0": 367.124,
+   "t1": 367.984,
+   "txt": "The lower end"
+  },
+  {
+   "t0": 367.984,
+   "t1": 368.711,
+   "txt": "of said rod"
+  },
+  {
+   "t0": 368.711,
+   "t1": 370.495,
+   "txt": "should possess considerable"
+  },
+  {
+   "t0": 370.495,
+   "t1": 371.486,
+   "txt": "weight in order"
+  },
+  {
+   "t0": 371.486,
+   "t1": 372.478,
+   "txt": "that the device"
+  },
+  {
+   "t0": 372.478,
+   "t1": 373.866,
+   "txt": "may properly operate."
+  },
+  {
+   "t0": 374.317,
+   "t1": 375.26,
+   "txt": "A fan powered"
+  },
+  {
+   "t0": 375.26,
+   "t1": 375.767,
+   "txt": "by you."
+  },
+  {
+   "t0": 376.267,
+   "t1": 377.441,
+   "txt": "And by gravity."
+  },
+  {
+   "t0": 377.941,
+   "t1": 378.535,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 378.535,
+   "t1": 379.989,
+   "txt": "eighteen ninety-seven."
+  },
+  {
+   "t0": 380.44,
+   "t1": 381.784,
+   "txt": "Relative number three."
+  },
+  {
+   "t0": 382.064,
+   "t1": 382.816,
+   "txt": "New Jersey,"
+  },
+  {
+   "t0": 382.816,
+   "t1": 384.048,
+   "txt": "nineteen fourteen."
+  },
+  {
+   "t0": 384.399,
+   "t1": 385.607,
+   "txt": "William Kline moved"
+  },
+  {
+   "t0": 385.607,
+   "t1": 386.307,
+   "txt": "the fan up,"
+  },
+  {
+   "t0": 386.307,
+   "t1": 387.07,
+   "txt": "onto the arm"
+  },
+  {
+   "t0": 387.07,
+   "t1": 387.897,
+   "txt": "of the chair."
+  },
+  {
+   "t0": 388.248,
+   "t1": 388.968,
+   "txt": "One half of"
+  },
+  {
+   "t0": 388.968,
+   "t1": 389.885,
+   "txt": "the patent was"
+  },
+  {
+   "t0": 389.885,
+   "t1": 390.997,
+   "txt": "assigned to Frank"
+  },
+  {
+   "t0": 390.997,
+   "t1": 391.128,
+   "txt": "J."
+  },
+  {
+   "t0": 391.408,
+   "t1": 391.814,
+   "txt": "Kline,"
+  },
+  {
+   "t0": 391.814,
+   "t1": 393.097,
+   "txt": "also of Rutherford,"
+  },
+  {
+   "t0": 393.097,
+   "t1": 393.84,
+   "txt": "New Jersey."
+  },
+  {
+   "t0": 394.191,
+   "t1": 394.888,
+   "txt": "It clamps on"
+  },
+  {
+   "t0": 394.888,
+   "t1": 395.642,
+   "txt": "with a screw."
+  },
+  {
+   "t0": 395.922,
+   "t1": 396.602,
+   "txt": "And it can"
+  },
+  {
+   "t0": 396.602,
+   "t1": 397.893,
+   "txt": "be readily attached"
+  },
+  {
+   "t0": 397.893,
+   "t1": 398.708,
+   "txt": "to a rocking"
+  },
+  {
+   "t0": 398.708,
+   "t1": 399.796,
+   "txt": "chair or removed"
+  },
+  {
+   "t0": 399.796,
+   "t1": 401.223,
+   "txt": "therefrom whenever it"
+  },
+  {
+   "t0": 401.223,
+   "t1": 402.106,
+   "txt": "is desired to"
+  },
+  {
+   "t0": 402.106,
+   "t1": 402.514,
+   "txt": "do so."
+  },
+  {
+   "t0": 402.865,
+   "t1": 403.661,
+   "txt": "Below the fan"
+  },
+  {
+   "t0": 403.661,
+   "t1": 404.702,
+   "txt": "hangs a pendulum,"
+  },
+  {
+   "t0": 404.702,
+   "t1": 405.498,
+   "txt": "with a weight"
+  },
+  {
+   "t0": 405.498,
+   "t1": 406.172,
+   "txt": "on the end."
+  },
+  {
+   "t0": 406.523,
+   "t1": 407.432,
+   "txt": "Rock the chair,"
+  },
+  {
+   "t0": 407.432,
+   "t1": 408.402,
+   "txt": "and the pendulum"
+  },
+  {
+   "t0": 408.402,
+   "t1": 408.827,
+   "txt": "swings."
+  },
+  {
+   "t0": 409.107,
+   "t1": 409.635,
+   "txt": "A curved,"
+  },
+  {
+   "t0": 409.635,
+   "t1": 410.515,
+   "txt": "toothed rack at"
+  },
+  {
+   "t0": 410.515,
+   "t1": 411.277,
+   "txt": "its top turns"
+  },
+  {
+   "t0": 411.277,
+   "t1": 411.688,
+   "txt": "a gear."
+  },
+  {
+   "t0": 411.968,
+   "t1": 412.802,
+   "txt": "And from there,"
+  },
+  {
+   "t0": 412.802,
+   "t1": 413.525,
+   "txt": "it gets busy."
+  },
+  {
+   "t0": 413.876,
+   "t1": 415.028,
+   "txt": "Two bevel gears."
+  },
+  {
+   "t0": 415.308,
+   "t1": 416.532,
+   "txt": "Two ratchet wheels,"
+  },
+  {
+   "t0": 416.532,
+   "t1": 417.562,
+   "txt": "with their teeth"
+  },
+  {
+   "t0": 417.562,
+   "t1": 418.914,
+   "txt": "facing opposite ways."
+  },
+  {
+   "t0": 419.194,
+   "t1": 420.388,
+   "txt": "Two spring pawls."
+  },
+  {
+   "t0": 420.668,
+   "t1": 421.52,
+   "txt": "A bevel pinion"
+  },
+  {
+   "t0": 421.52,
+   "t1": 422.311,
+   "txt": "between them."
+  },
+  {
+   "t0": 422.591,
+   "t1": 423.235,
+   "txt": "All so the"
+  },
+  {
+   "t0": 423.235,
+   "t1": 424.072,
+   "txt": "fan turns the"
+  },
+  {
+   "t0": 424.072,
+   "t1": 424.652,
+   "txt": "same way,"
+  },
+  {
+   "t0": 424.652,
+   "t1": 425.746,
+   "txt": "whichever way you"
+  },
+  {
+   "t0": 425.746,
+   "t1": 426.068,
+   "txt": "rock."
+  },
+  {
+   "t0": 426.419,
+   "t1": 427.18,
+   "txt": "The fan sits"
+  },
+  {
+   "t0": 427.18,
+   "t1": 428.068,
+   "txt": "inside a round"
+  },
+  {
+   "t0": 428.068,
+   "t1": 428.766,
+   "txt": "wire guard."
+  },
+  {
+   "t0": 429.046,
+   "t1": 429.965,
+   "txt": "Facing the person"
+  },
+  {
+   "t0": 429.965,
+   "t1": 430.667,
+   "txt": "in the chair."
+  },
+  {
+   "t0": 431.018,
+   "t1": 432.081,
+   "txt": "The patent explains"
+  },
+  {
+   "t0": 432.081,
+   "t1": 432.808,
+   "txt": "where the air"
+  },
+  {
+   "t0": 432.808,
+   "t1": 433.088,
+   "txt": "goes."
+  },
+  {
+   "t0": 433.439,
+   "t1": 434.173,
+   "txt": "And it doesn't"
+  },
+  {
+   "t0": 434.173,
+   "t1": 434.697,
+   "txt": "take much."
+  },
+  {
+   "t0": 434.977,
+   "t1": 436.209,
+   "txt": "The slightest rocking"
+  },
+  {
+   "t0": 436.209,
+   "t1": 437.207,
+   "txt": "movement given to"
+  },
+  {
+   "t0": 437.207,
+   "t1": 438.204,
+   "txt": "the rocking chair"
+  },
+  {
+   "t0": 438.204,
+   "t1": 439.201,
+   "txt": "causes a swinging"
+  },
+  {
+   "t0": 439.201,
+   "t1": 440.14,
+   "txt": "of the pendulum."
+  },
+  {
+   "t0": 440.491,
+   "t1": 441.151,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 441.151,
+   "t1": 442.177,
+   "txt": "from the first"
+  },
+  {
+   "t0": 442.177,
+   "t1": 442.91,
+   "txt": "paragraph:"
+  },
+  {
+   "t0": 442.91,
+   "t1": 444.376,
+   "txt": "a continuous current"
+  },
+  {
+   "t0": 444.376,
+   "t1": 445.475,
+   "txt": "of air directed"
+  },
+  {
+   "t0": 445.475,
+   "t1": 446.721,
+   "txt": "onto the occupant"
+  },
+  {
+   "t0": 446.721,
+   "t1": 447.454,
+   "txt": "as long as"
+  },
+  {
+   "t0": 447.454,
+   "t1": 448.7,
+   "txt": "the rocking chair"
+  },
+  {
+   "t0": 448.7,
+   "t1": 450.019,
+   "txt": "or similar article"
+  },
+  {
+   "t0": 450.019,
+   "t1": 450.752,
+   "txt": "is rocked."
+  },
+  {
+   "t0": 451.203,
+   "t1": 451.899,
+   "txt": "As long as"
+  },
+  {
+   "t0": 451.899,
+   "t1": 452.526,
+   "txt": "you rock."
+  },
+  {
+   "t0": 453.026,
+   "t1": 453.654,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 453.654,
+   "t1": 454.839,
+   "txt": "nineteen fifteen."
+  },
+  {
+   "t0": 455.29,
+   "t1": 456.634,
+   "txt": "Relative number four."
+  },
+  {
+   "t0": 456.914,
+   "t1": 457.46,
+   "txt": "Chicago,"
+  },
+  {
+   "t0": 457.46,
+   "t1": 458.621,
+   "txt": "nineteen fifteen."
+  },
+  {
+   "t0": 458.972,
+   "t1": 460.023,
+   "txt": "Hans Peter Martin"
+  },
+  {
+   "t0": 460.023,
+   "t1": 461.383,
+   "txt": "Nielsen went vertical."
+  },
+  {
+   "t0": 461.663,
+   "t1": 462.567,
+   "txt": "A slotted post"
+  },
+  {
+   "t0": 462.567,
+   "t1": 463.277,
+   "txt": "is fixed to"
+  },
+  {
+   "t0": 463.277,
+   "t1": 463.988,
+   "txt": "one rocker."
+  },
+  {
+   "t0": 464.268,
+   "t1": 465.21,
+   "txt": "It rises behind"
+  },
+  {
+   "t0": 465.21,
+   "t1": 465.838,
+   "txt": "the arm of"
+  },
+  {
+   "t0": 465.838,
+   "t1": 466.465,
+   "txt": "the chair."
+  },
+  {
+   "t0": 466.745,
+   "t1": 467.412,
+   "txt": "And on top"
+  },
+  {
+   "t0": 467.412,
+   "t1": 468.145,
+   "txt": "sits a box,"
+  },
+  {
+   "t0": 468.145,
+   "t1": 468.879,
+   "txt": "with a fan."
+  },
+  {
+   "t0": 469.23,
+   "t1": 469.946,
+   "txt": "Down at the"
+  },
+  {
+   "t0": 469.946,
+   "t1": 470.336,
+   "txt": "floor,"
+  },
+  {
+   "t0": 470.336,
+   "t1": 470.987,
+   "txt": "a rod ends"
+  },
+  {
+   "t0": 470.987,
+   "t1": 471.768,
+   "txt": "in a roller."
+  },
+  {
+   "t0": 472.119,
+   "t1": 472.948,
+   "txt": "When the chair"
+  },
+  {
+   "t0": 472.948,
+   "t1": 473.836,
+   "txt": "rocks backward,"
+  },
+  {
+   "t0": 473.836,
+   "t1": 474.487,
+   "txt": "the post is"
+  },
+  {
+   "t0": 474.487,
+   "t1": 475.434,
+   "txt": "drawn toward the"
+  },
+  {
+   "t0": 475.434,
+   "t1": 475.789,
+   "txt": "floor."
+  },
+  {
+   "t0": 476.069,
+   "t1": 476.848,
+   "txt": "The rod pulls"
+  },
+  {
+   "t0": 476.848,
+   "t1": 477.327,
+   "txt": "a lever."
+  },
+  {
+   "t0": 477.607,
+   "t1": 478.538,
+   "txt": "The lever pulls"
+  },
+  {
+   "t0": 478.538,
+   "t1": 478.973,
+   "txt": "a pawl."
+  },
+  {
+   "t0": 479.253,
+   "t1": 480.111,
+   "txt": "The pawl turns"
+  },
+  {
+   "t0": 480.111,
+   "t1": 480.725,
+   "txt": "the gears."
+  },
+  {
+   "t0": 481.005,
+   "t1": 481.719,
+   "txt": "And the gears"
+  },
+  {
+   "t0": 481.719,
+   "t1": 482.434,
+   "txt": "turn the fan."
+  },
+  {
+   "t0": 482.785,
+   "t1": 483.782,
+   "txt": "Inside the box:"
+  },
+  {
+   "t0": 483.782,
+   "t1": 484.647,
+   "txt": "three shafts,"
+  },
+  {
+   "t0": 484.647,
+   "t1": 485.311,
+   "txt": "a train of"
+  },
+  {
+   "t0": 485.311,
+   "t1": 486.176,
+   "txt": "gears and cog"
+  },
+  {
+   "t0": 486.176,
+   "t1": 486.641,
+   "txt": "wheels,"
+  },
+  {
+   "t0": 486.641,
+   "t1": 487.372,
+   "txt": "and a pawl,"
+  },
+  {
+   "t0": 487.372,
+   "t1": 488.436,
+   "txt": "mounted with its"
+  },
+  {
+   "t0": 488.436,
+   "t1": 489.633,
+   "txt": "own little weight."
+  },
+  {
+   "t0": 489.984,
+   "t1": 490.813,
+   "txt": "When the chair"
+  },
+  {
+   "t0": 490.813,
+   "t1": 491.997,
+   "txt": "rocks forward again,"
+  },
+  {
+   "t0": 491.997,
+   "t1": 492.886,
+   "txt": "a spring resets"
+  },
+  {
+   "t0": 492.886,
+   "t1": 493.419,
+   "txt": "the pawl."
+  },
+  {
+   "t0": 493.77,
+   "t1": 494.541,
+   "txt": "Ready for the"
+  },
+  {
+   "t0": 494.541,
+   "t1": 495.135,
+   "txt": "next rock."
+  },
+  {
+   "t0": 495.486,
+   "t1": 496.173,
+   "txt": "The promise,"
+  },
+  {
+   "t0": 496.173,
+   "t1": 496.917,
+   "txt": "from the very"
+  },
+  {
+   "t0": 496.917,
+   "t1": 497.833,
+   "txt": "first paragraph."
+  },
+  {
+   "t0": 498.184,
+   "t1": 498.909,
+   "txt": "Simple."
+  },
+  {
+   "t0": 499.329,
+   "t1": 500.374,
+   "txt": "Inexpensive."
+  },
+  {
+   "t0": 500.794,
+   "t1": 501.754,
+   "txt": "Three sheets of"
+  },
+  {
+   "t0": 501.754,
+   "t1": 502.33,
+   "txt": "drawings."
+  },
+  {
+   "t0": 502.831,
+   "t1": 503.465,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 503.465,
+   "t1": 504.451,
+   "txt": "March seventh,"
+  },
+  {
+   "t0": 504.451,
+   "t1": 505.647,
+   "txt": "nineteen sixteen."
+  },
+  {
+   "t0": 506.098,
+   "t1": 507.549,
+   "txt": "Relative number five."
+  },
+  {
+   "t0": 507.829,
+   "t1": 508.48,
+   "txt": "Peekskill,"
+  },
+  {
+   "t0": 508.48,
+   "t1": 509.066,
+   "txt": "New York."
+  },
+  {
+   "t0": 509.346,
+   "t1": 510.648,
+   "txt": "Nineteen sixteen."
+  },
+  {
+   "t0": 510.999,
+   "t1": 512.211,
+   "txt": "Alexander Singer took"
+  },
+  {
+   "t0": 512.211,
+   "t1": 512.846,
+   "txt": "the fan off"
+  },
+  {
+   "t0": 512.846,
+   "t1": 513.943,
+   "txt": "the chair entirely."
+  },
+  {
+   "t0": 514.223,
+   "t1": 515.074,
+   "txt": "His base plate"
+  },
+  {
+   "t0": 515.074,
+   "t1": 515.865,
+   "txt": "is secured to"
+  },
+  {
+   "t0": 515.865,
+   "t1": 516.474,
+   "txt": "the floor,"
+  },
+  {
+   "t0": 516.474,
+   "t1": 517.508,
+   "txt": "behind the chair."
+  },
+  {
+   "t0": 517.859,
+   "t1": 518.776,
+   "txt": "Which floor?"
+  },
+  {
+   "t0": 519.056,
+   "t1": 520.127,
+   "txt": "The patent offers"
+  },
+  {
+   "t0": 520.127,
+   "t1": 520.379,
+   "txt": "two."
+  },
+  {
+   "t0": 520.73,
+   "t1": 521.489,
+   "txt": "A post rises"
+  },
+  {
+   "t0": 521.489,
+   "t1": 522.437,
+   "txt": "from the plate."
+  },
+  {
+   "t0": 522.717,
+   "t1": 523.503,
+   "txt": "At the top,"
+  },
+  {
+   "t0": 523.503,
+   "t1": 523.933,
+   "txt": "a fan."
+  },
+  {
+   "t0": 524.213,
+   "t1": 525.237,
+   "txt": "Near the bottom,"
+  },
+  {
+   "t0": 525.237,
+   "t1": 526.005,
+   "txt": "a crank with"
+  },
+  {
+   "t0": 526.005,
+   "t1": 526.773,
+   "txt": "a large belt"
+  },
+  {
+   "t0": 526.773,
+   "t1": 527.157,
+   "txt": "wheel."
+  },
+  {
+   "t0": 527.437,
+   "t1": 528.19,
+   "txt": "A belt runs"
+  },
+  {
+   "t0": 528.19,
+   "t1": 528.806,
+   "txt": "up to the"
+  },
+  {
+   "t0": 528.806,
+   "t1": 529.079,
+   "txt": "fan."
+  },
+  {
+   "t0": 529.43,
+   "t1": 530.061,
+   "txt": "Then you set"
+  },
+  {
+   "t0": 530.061,
+   "t1": 530.692,
+   "txt": "the chair in"
+  },
+  {
+   "t0": 530.692,
+   "t1": 531.323,
+   "txt": "front of it,"
+  },
+  {
+   "t0": 531.323,
+   "t1": 532.111,
+   "txt": "back toward the"
+  },
+  {
+   "t0": 532.111,
+   "t1": 532.374,
+   "txt": "post."
+  },
+  {
+   "t0": 532.654,
+   "t1": 533.422,
+   "txt": "And hook one"
+  },
+  {
+   "t0": 533.422,
+   "t1": 534.254,
+   "txt": "rocker into a"
+  },
+  {
+   "t0": 534.254,
+   "t1": 534.574,
+   "txt": "loop."
+  },
+  {
+   "t0": 534.925,
+   "t1": 535.238,
+   "txt": "Rock,"
+  },
+  {
+   "t0": 535.238,
+   "t1": 536.115,
+   "txt": "and the rocker"
+  },
+  {
+   "t0": 536.115,
+   "t1": 536.867,
+   "txt": "works a rod."
+  },
+  {
+   "t0": 537.147,
+   "t1": 537.918,
+   "txt": "The rod turns"
+  },
+  {
+   "t0": 537.918,
+   "t1": 538.512,
+   "txt": "the crank."
+  },
+  {
+   "t0": 538.792,
+   "t1": 539.606,
+   "txt": "The belt wheel"
+  },
+  {
+   "t0": 539.606,
+   "t1": 540.477,
+   "txt": "drives the fan."
+  },
+  {
+   "t0": 540.828,
+   "t1": 541.579,
+   "txt": "The fan arm"
+  },
+  {
+   "t0": 541.579,
+   "t1": 542.535,
+   "txt": "is adjustable."
+  },
+  {
+   "t0": 542.815,
+   "t1": 543.37,
+   "txt": "It can be"
+  },
+  {
+   "t0": 543.37,
+   "t1": 544.356,
+   "txt": "moved toward and"
+  },
+  {
+   "t0": 544.356,
+   "t1": 545.158,
+   "txt": "away from the"
+  },
+  {
+   "t0": 545.158,
+   "t1": 545.528,
+   "txt": "shaft,"
+  },
+  {
+   "t0": 545.528,
+   "t1": 546.515,
+   "txt": "according to the"
+  },
+  {
+   "t0": 546.515,
+   "t1": 547.316,
+   "txt": "desire of the"
+  },
+  {
+   "t0": 547.316,
+   "t1": 547.871,
+   "txt": "occupant."
+  },
+  {
+   "t0": 548.222,
+   "t1": 549.352,
+   "txt": "When you're finished,"
+  },
+  {
+   "t0": 549.352,
+   "t1": 550.105,
+   "txt": "you unhook the"
+  },
+  {
+   "t0": 550.105,
+   "t1": 550.428,
+   "txt": "chair,"
+  },
+  {
+   "t0": 550.428,
+   "t1": 551.019,
+   "txt": "and the fan"
+  },
+  {
+   "t0": 551.019,
+   "t1": 551.773,
+   "txt": "stays where it"
+  },
+  {
+   "t0": 551.773,
+   "t1": 551.934,
+   "txt": "is."
+  },
+  {
+   "t0": 552.285,
+   "t1": 553.009,
+   "txt": "And the fan"
+  },
+  {
+   "t0": 553.009,
+   "t1": 553.864,
+   "txt": "has two jobs."
+  },
+  {
+   "t0": 554.215,
+   "t1": 555.657,
+   "txt": "A sufficiently strong"
+  },
+  {
+   "t0": 555.657,
+   "t1": 556.618,
+   "txt": "current of air"
+  },
+  {
+   "t0": 556.618,
+   "t1": 557.442,
+   "txt": "to both cool"
+  },
+  {
+   "t0": 557.442,
+   "t1": 558.541,
+   "txt": "the occupant and"
+  },
+  {
+   "t0": 558.541,
+   "t1": 559.502,
+   "txt": "keep flies and"
+  },
+  {
+   "t0": 559.502,
+   "t1": 560.807,
+   "txt": "other insects away."
+  },
+  {
+   "t0": 561.258,
+   "t1": 562.385,
+   "txt": "Cooling and fly"
+  },
+  {
+   "t0": 562.385,
+   "t1": 562.986,
+   "txt": "control."
+  },
+  {
+   "t0": 563.486,
+   "t1": 564.488,
+   "txt": "On the porch."
+  },
+  {
+   "t0": 564.988,
+   "t1": 566.312,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 566.312,
+   "t1": 566.908,
+   "txt": "eighteen."
+  },
+  {
+   "t0": 567.359,
+   "t1": 568.49,
+   "txt": "One more detail."
+  },
+  {
+   "t0": 568.77,
+   "t1": 569.565,
+   "txt": "Printed at the"
+  },
+  {
+   "t0": 569.565,
+   "t1": 570.36,
+   "txt": "bottom of this"
+  },
+  {
+   "t0": 570.36,
+   "t1": 570.757,
+   "txt": "patent,"
+  },
+  {
+   "t0": 570.757,
+   "t1": 571.495,
+   "txt": "and of others"
+  },
+  {
+   "t0": 571.495,
+   "t1": 572.461,
+   "txt": "from those years."
+  },
+  {
+   "t0": 572.812,
+   "t1": 573.675,
+   "txt": "Copies of this"
+  },
+  {
+   "t0": 573.675,
+   "t1": 574.477,
+   "txt": "patent may be"
+  },
+  {
+   "t0": 574.477,
+   "t1": 575.525,
+   "txt": "obtained for five"
+  },
+  {
+   "t0": 575.525,
+   "t1": 576.204,
+   "txt": "cents each."
+  },
+  {
+   "t0": 576.655,
+   "t1": 577.439,
+   "txt": "So which one"
+  },
+  {
+   "t0": 577.439,
+   "t1": 578.157,
+   "txt": "is the most"
+  },
+  {
+   "t0": 578.157,
+   "t1": 578.745,
+   "txt": "approved?"
+  },
+  {
+   "t0": 579.296,
+   "t1": 580.084,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 580.084,
+   "t1": 580.576,
+   "txt": "the churn."
+  },
+  {
+   "t0": 580.856,
+   "t1": 581.799,
+   "txt": "Every other chair"
+  },
+  {
+   "t0": 581.799,
+   "t1": 582.52,
+   "txt": "in this video"
+  },
+  {
+   "t0": 582.52,
+   "t1": 583.352,
+   "txt": "makes a breeze."
+  },
+  {
+   "t0": 583.632,
+   "t1": 584.757,
+   "txt": "Alfred Clark's chair"
+  },
+  {
+   "t0": 584.757,
+   "t1": 585.488,
+   "txt": "makes butter."
+  },
+  {
+   "t0": 585.768,
+   "t1": 586.472,
+   "txt": "Runner-up:"
+  },
+  {
+   "t0": 586.472,
+   "t1": 587.808,
+   "txt": "Edward Davey's fan,"
+  },
+  {
+   "t0": 587.808,
+   "t1": 588.863,
+   "txt": "whose rod comes"
+  },
+  {
+   "t0": 588.863,
+   "t1": 589.918,
+   "txt": "down by gravity"
+  },
+  {
+   "t0": 589.918,
+   "t1": 590.27,
+   "txt": "only."
+  },
+  {
+   "t0": 590.621,
+   "t1": 591.319,
+   "txt": "And the fans"
+  },
+  {
+   "t0": 591.319,
+   "t1": 592.541,
+   "txt": "never really stopped."
+  },
+  {
+   "t0": 593.041,
+   "t1": 594.567,
+   "txt": "In nineteen eighty-one,"
+  },
+  {
+   "t0": 594.567,
+   "t1": 595.695,
+   "txt": "the United States"
+  },
+  {
+   "t0": 595.695,
+   "t1": 596.757,
+   "txt": "granted one more"
+  },
+  {
+   "t0": 596.757,
+   "t1": 597.222,
+   "txt": "patent."
+  },
+  {
+   "t0": 597.722,
+   "t1": 598.426,
+   "txt": "Its title:"
+  },
+  {
+   "t0": 598.426,
+   "t1": 599.695,
+   "txt": "Fan attachment for"
+  },
+  {
+   "t0": 599.695,
+   "t1": 600.751,
+   "txt": "rocking chairs."
+  },
+  {
+   "t0": 601.251,
+   "t1": 602.297,
+   "txt": "Same idea."
+  },
+  {
+   "t0": 602.797,
+   "t1": 604.348,
+   "txt": "Eighty-six years after"
+  },
+  {
+   "t0": 604.348,
+   "t1": 605.335,
+   "txt": "Joel Weigel's."
+  },
+  {
+   "t0": 605.786,
+   "t1": 606.646,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 606.646,
+   "t1": 607.444,
+   "txt": "this video is"
+  },
+  {
+   "t0": 607.444,
+   "t1": 608.242,
+   "txt": "word for word"
+  },
+  {
+   "t0": 608.242,
+   "t1": 609.285,
+   "txt": "from the patents."
+  },
+  {
+   "t0": 609.565,
+   "t1": 610.385,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 610.385,
+   "t1": 611.424,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 611.424,
+   "t1": 611.97,
+   "txt": "so you can"
+  },
+  {
+   "t0": 611.97,
+   "t1": 613.064,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 613.415,
+   "t1": 614.476,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 614.476,
+   "t1": 615.1,
+   "txt": "every day."
+  },
+  {
+   "t0": 615.38,
+   "t1": 615.951,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 615.951,
+   "t1": 616.809,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 616.809,
+   "t1": 616.98,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 2.252
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 6.104
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 9.938
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 11.548
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 25.547
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 28.461
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 34.477
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 40.036
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 41.24
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 46.555
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 53.141
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 63.079
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 72.118
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 74.154
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 78.668
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 84.504
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 92.092
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 96.39
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 105.749
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 112.697
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 117.36
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 124.415
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 129.998
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 137.596
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 145.952
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 149.741
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 157.582
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 162.059
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 170.224
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 171.983
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 181.988
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 190.755
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 197.232
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 208.257
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 215.414
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 228.733
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 232.969
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 240.813
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 245.412
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 254.11
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 256.832
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 259.437
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 268.388
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 277.915
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 285.802
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 289.119
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 291.347
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 301.258
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 306.604
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 311.48
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 315.247
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 320.55
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 326.728
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 334.591
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 340.92
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 348.975
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 354.108
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 358.996
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 364.96
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 374.317
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 380.44
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 384.399
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 388.248
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 394.191
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 402.865
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 406.523
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 413.876
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 426.419
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 431.018
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 433.439
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 440.491
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 451.203
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 455.29
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 458.972
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 469.23
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 472.119
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 482.785
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 489.984
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 493.77
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 495.486
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 498.184
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 502.831
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 506.098
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 510.999
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 517.859
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 520.73
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 529.43
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 534.925
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 540.828
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 548.222
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 552.285
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 554.215
+  },
+  {
+   "f": "vo/094.wav",
+   "t": 561.258
+  },
+  {
+   "f": "vo/095.wav",
+   "t": 567.359
+  },
+  {
+   "f": "vo/096.wav",
+   "t": 572.812
+  },
+  {
+   "f": "vo/097.wav",
+   "t": 576.655
+  },
+  {
+   "f": "vo/098.wav",
+   "t": 579.296
+  },
+  {
+   "f": "vo/099.wav",
+   "t": 590.621
+  },
+  {
+   "f": "vo/100.wav",
+   "t": 605.786
+  },
+  {
+   "f": "vo/101.wav",
+   "t": 613.415
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": ""
+}

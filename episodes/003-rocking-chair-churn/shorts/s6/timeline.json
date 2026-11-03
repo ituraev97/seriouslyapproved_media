@@ -1,0 +1,500 @@
+{
+ "T": 49.98,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 8.442,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.782
+    ],
+    [
+     3.182,
+     6.297
+    ],
+    [
+     6.697,
+     7.891
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer1",
+   "figno": "1"
+  },
+  {
+   "t0": 8.442,
+   "t1": 11.305,
+   "i": 1,
+   "segs": [
+    [
+     8.442,
+     9.402
+    ],
+    [
+     9.822,
+     10.804
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer1",
+   "figno": "1",
+   "draw": false,
+   "ring": [
+    413,
+    64,
+    120
+   ]
+  },
+  {
+   "t0": 11.305,
+   "t1": 13.448,
+   "i": 2,
+   "segs": [
+    [
+     11.305,
+     13.097
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer3",
+   "figno": "3",
+   "ring": [
+    126,
+    126,
+    150
+   ]
+  },
+  {
+   "t0": 13.448,
+   "t1": 18.86,
+   "i": 3,
+   "segs": [
+    [
+     13.448,
+     14.941
+    ],
+    [
+     15.221,
+     16.586
+    ],
+    [
+     16.866,
+     18.509
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer1",
+   "figno": "1",
+   "draw": false,
+   "ring": [
+    353,
+    496,
+    130
+   ]
+  },
+  {
+   "t0": 18.86,
+   "t1": 24.867,
+   "i": 4,
+   "segs": [
+    [
+     18.86,
+     19.884
+    ],
+    [
+     20.164,
+     24.516
+    ]
+   ],
+   "g": "quote",
+   "q": "The base 12 may be secured to the floor of a room, or to the floor of a porch at the point desired",
+   "hit": "the floor of a porch",
+   "src": "US 1,269,325 \u00b7 description"
+  },
+  {
+   "t0": 24.867,
+   "t1": 26.797,
+   "i": 5,
+   "segs": [
+    [
+     24.867,
+     26.446
+    ]
+   ],
+   "g": "quote",
+   "q": "The fan will produce a sufficiently strong current of air to both cool the occupant and keep flies and other insects away.",
+   "hit": "keep flies and other insects away",
+   "src": "US 1,269,325 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 26.797,
+   "t1": 33.84,
+   "i": 6,
+   "segs": [
+    [
+     26.797,
+     33.389
+    ]
+   ],
+   "g": "quote",
+   "q": "The fan will produce a sufficiently strong current of air to both cool the occupant and keep flies and other insects away.",
+   "hit": "keep flies and other insects away",
+   "src": "US 1,269,325 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 33.84,
+   "t1": 38.588,
+   "i": 7,
+   "segs": [
+    [
+     33.84,
+     35.717
+    ],
+    [
+     36.217,
+     38.137
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHAIR|ATTACHMENT",
+   "filed": "APR. 11, 1916",
+   "date": "JUNE 11, 1918",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 38.588,
+   "t1": 44.415,
+   "i": 8,
+   "segs": [
+    [
+     38.588,
+     43.964
+    ]
+   ],
+   "g": "quote",
+   "q": "Copies of this patent may be obtained for five cents each",
+   "hit": "five cents each",
+   "src": "US 1,269,325 \u00b7 printed notice"
+  },
+  {
+   "t0": 44.415,
+   "t1": 49.98,
+   "i": 9,
+   "segs": [
+    [
+     44.415,
+     45.247
+    ],
+    [
+     45.667,
+     46.883
+    ]
+   ],
+   "g": "fig",
+   "fig": "singer1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.859,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.859,
+   "t1": 1.764,
+   "txt": "real patent from"
+  },
+  {
+   "t0": 1.764,
+   "t1": 2.782,
+   "txt": "nineteen eighteen."
+  },
+  {
+   "t0": 3.182,
+   "t1": 3.977,
+   "txt": "A post fixed"
+  },
+  {
+   "t0": 3.977,
+   "t1": 4.839,
+   "txt": "to the floor,"
+  },
+  {
+   "t0": 4.839,
+   "t1": 5.899,
+   "txt": "behind a rocking"
+  },
+  {
+   "t0": 5.899,
+   "t1": 6.297,
+   "txt": "chair."
+  },
+  {
+   "t0": 6.697,
+   "t1": 7.493,
+   "txt": "A fan on"
+  },
+  {
+   "t0": 7.493,
+   "t1": 7.891,
+   "txt": "top."
+  },
+  {
+   "t0": 8.442,
+   "t1": 9.402,
+   "txt": "You power it."
+  },
+  {
+   "t0": 9.822,
+   "t1": 10.804,
+   "txt": "By rocking."
+  },
+  {
+   "t0": 11.305,
+   "t1": 12.329,
+   "txt": "One rocker hooks"
+  },
+  {
+   "t0": 12.329,
+   "t1": 13.097,
+   "txt": "into a loop."
+  },
+  {
+   "t0": 13.448,
+   "t1": 13.772,
+   "txt": "Rock,"
+  },
+  {
+   "t0": 13.772,
+   "t1": 14.551,
+   "txt": "and it works"
+  },
+  {
+   "t0": 14.551,
+   "t1": 14.941,
+   "txt": "a rod."
+  },
+  {
+   "t0": 15.221,
+   "t1": 16.066,
+   "txt": "The rod turns"
+  },
+  {
+   "t0": 16.066,
+   "t1": 16.586,
+   "txt": "a crank."
+  },
+  {
+   "t0": 16.866,
+   "t1": 17.596,
+   "txt": "A belt wheel"
+  },
+  {
+   "t0": 17.596,
+   "t1": 18.509,
+   "txt": "drives the fan."
+  },
+  {
+   "t0": 18.86,
+   "t1": 19.692,
+   "txt": "Where does it"
+  },
+  {
+   "t0": 19.692,
+   "t1": 19.884,
+   "txt": "go?"
+  },
+  {
+   "t0": 20.164,
+   "t1": 20.921,
+   "txt": "The base may"
+  },
+  {
+   "t0": 20.921,
+   "t1": 21.741,
+   "txt": "be secured to"
+  },
+  {
+   "t0": 21.741,
+   "t1": 22.498,
+   "txt": "the floor of"
+  },
+  {
+   "t0": 22.498,
+   "t1": 22.939,
+   "txt": "a room,"
+  },
+  {
+   "t0": 22.939,
+   "t1": 23.507,
+   "txt": "or to the"
+  },
+  {
+   "t0": 23.507,
+   "t1": 24.138,
+   "txt": "floor of a"
+  },
+  {
+   "t0": 24.138,
+   "t1": 24.516,
+   "txt": "porch."
+  },
+  {
+   "t0": 24.867,
+   "t1": 25.591,
+   "txt": "And the fan"
+  },
+  {
+   "t0": 25.591,
+   "t1": 26.446,
+   "txt": "has two jobs."
+  },
+  {
+   "t0": 26.797,
+   "t1": 28.239,
+   "txt": "A sufficiently strong"
+  },
+  {
+   "t0": 28.239,
+   "t1": 29.2,
+   "txt": "current of air"
+  },
+  {
+   "t0": 29.2,
+   "t1": 30.024,
+   "txt": "to both cool"
+  },
+  {
+   "t0": 30.024,
+   "t1": 31.123,
+   "txt": "the occupant and"
+  },
+  {
+   "t0": 31.123,
+   "t1": 32.084,
+   "txt": "keep flies and"
+  },
+  {
+   "t0": 32.084,
+   "t1": 33.389,
+   "txt": "other insects away."
+  },
+  {
+   "t0": 33.84,
+   "t1": 35.116,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 35.116,
+   "t1": 35.717,
+   "txt": "sixteen."
+  },
+  {
+   "t0": 36.217,
+   "t1": 37.541,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 37.541,
+   "t1": 38.137,
+   "txt": "eighteen."
+  },
+  {
+   "t0": 38.588,
+   "t1": 39.529,
+   "txt": "And printed at"
+  },
+  {
+   "t0": 39.529,
+   "t1": 40.268,
+   "txt": "the bottom:"
+  },
+  {
+   "t0": 40.268,
+   "t1": 41.209,
+   "txt": "copies of this"
+  },
+  {
+   "t0": 41.209,
+   "t1": 42.082,
+   "txt": "patent may be"
+  },
+  {
+   "t0": 42.082,
+   "t1": 43.225,
+   "txt": "obtained for five"
+  },
+  {
+   "t0": 43.225,
+   "t1": 43.964,
+   "txt": "cents each."
+  },
+  {
+   "t0": 44.415,
+   "t1": 45.247,
+   "txt": "You rock."
+  },
+  {
+   "t0": 45.667,
+   "t1": 46.883,
+   "txt": "The flies leave."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 8.442
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.305
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 13.448
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 18.86
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 24.867
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 26.797
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 33.84
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 38.588
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 44.415
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [POST] DOES",
+ "hook2": "THE PORCH|[FAN] \u00b7 1918",
+ "hookSwitch": 1,
+ "num": "US 1,269,325"
+}

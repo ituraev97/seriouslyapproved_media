@@ -1,0 +1,533 @@
+{
+ "T": 57.22,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.717,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     5.166
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1"
+  },
+  {
+   "t0": 5.717,
+   "t1": 9.551,
+   "i": 1,
+   "segs": [
+    [
+     5.717,
+     6.72
+    ],
+    [
+     7.0,
+     7.746
+    ],
+    [
+     8.026,
+     9.2
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2"
+  },
+  {
+   "t0": 9.551,
+   "t1": 13.565,
+   "i": 2,
+   "segs": [
+    [
+     9.551,
+     10.724
+    ],
+    [
+     11.144,
+     13.064
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHURN.",
+   "filed": "JUNE 28, 1912",
+   "date": "JAN. 28, 1913",
+   "at": 1.6
+  },
+  {
+   "t0": 13.565,
+   "t1": 20.971,
+   "i": 3,
+   "segs": [
+    [
+     13.565,
+     20.52
+    ]
+   ],
+   "g": "quote",
+   "q": "so that a churn may be operated by a person seated and rocking in a rocking chair",
+   "hit": "seated and rocking",
+   "src": "US 1,051,684 \u00b7 description"
+  },
+  {
+   "t0": 20.971,
+   "t1": 29.543,
+   "i": 4,
+   "segs": [
+    [
+     20.971,
+     22.72
+    ],
+    [
+     23.0,
+     24.451
+    ],
+    [
+     24.731,
+     26.843
+    ],
+    [
+     27.123,
+     29.192
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn2",
+   "figno": "2",
+   "draw": false,
+   "vb": "300 60 260 260",
+   "ring": [
+    414,
+    168,
+    130
+   ]
+  },
+  {
+   "t0": 29.543,
+   "t1": 37.141,
+   "i": 5,
+   "segs": [
+    [
+     29.543,
+     36.69
+    ]
+   ],
+   "g": "quote",
+   "q": "Hence, the ratchet wheel is rotated in one direction and causes the churn body to correspondingly rotate.",
+   "hit": "in one direction",
+   "src": "US 1,051,684 \u00b7 description"
+  },
+  {
+   "t0": 37.141,
+   "t1": 40.993,
+   "i": 6,
+   "segs": [
+    [
+     37.141,
+     39.423
+    ],
+    [
+     39.703,
+     40.642
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "draw": false,
+   "ring": [
+    348,
+    402,
+    190
+   ]
+  },
+  {
+   "t0": 40.993,
+   "t1": 47.183,
+   "i": 7,
+   "segs": [
+    [
+     40.993,
+     46.732
+    ]
+   ],
+   "g": "quote",
+   "q": "the churn operating mechanism may be arranged for operating a churn of any kind.",
+   "hit": "a churn of any kind",
+   "src": "US 1,051,684 \u00b7 description"
+  },
+  {
+   "t0": 47.183,
+   "t1": 51.952,
+   "i": 8,
+   "segs": [
+    [
+     47.183,
+     48.996
+    ],
+    [
+     49.496,
+     51.501
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHURN.",
+   "filed": "JUNE 28, 1912",
+   "date": "JAN. 28, 1913",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 51.952,
+   "t1": 57.22,
+   "i": 9,
+   "segs": [
+    [
+     51.952,
+     52.827
+    ],
+    [
+     53.247,
+     54.122
+    ]
+   ],
+   "g": "fig",
+   "fig": "churn1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.252,
+   "txt": "A rocking chair,"
+  },
+  {
+   "t0": 3.252,
+   "t1": 4.055,
+   "txt": "with a barrel"
+  },
+  {
+   "t0": 4.055,
+   "t1": 5.166,
+   "txt": "mounted beside it."
+  },
+  {
+   "t0": 5.717,
+   "t1": 6.72,
+   "txt": "You sit down."
+  },
+  {
+   "t0": 7.0,
+   "t1": 7.746,
+   "txt": "You rock."
+  },
+  {
+   "t0": 8.026,
+   "t1": 8.848,
+   "txt": "And the barrel"
+  },
+  {
+   "t0": 8.848,
+   "t1": 9.2,
+   "txt": "turns."
+  },
+  {
+   "t0": 9.551,
+   "t1": 10.353,
+   "txt": "It's a butter"
+  },
+  {
+   "t0": 10.353,
+   "t1": 10.724,
+   "txt": "churn."
+  },
+  {
+   "t0": 11.144,
+   "t1": 12.468,
+   "txt": "Patented in nineteen"
+  },
+  {
+   "t0": 12.468,
+   "t1": 13.064,
+   "txt": "thirteen."
+  },
+  {
+   "t0": 13.565,
+   "t1": 14.15,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 14.15,
+   "t1": 15.125,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 15.125,
+   "t1": 15.515,
+   "txt": "words:"
+  },
+  {
+   "t0": 15.515,
+   "t1": 16.1,
+   "txt": "so that a"
+  },
+  {
+   "t0": 16.1,
+   "t1": 16.88,
+   "txt": "churn may be"
+  },
+  {
+   "t0": 16.88,
+   "t1": 17.725,
+   "txt": "operated by a"
+  },
+  {
+   "t0": 17.725,
+   "t1": 18.83,
+   "txt": "person seated and"
+  },
+  {
+   "t0": 18.83,
+   "t1": 19.61,
+   "txt": "rocking in a"
+  },
+  {
+   "t0": 19.61,
+   "t1": 20.52,
+   "txt": "rocking chair."
+  },
+  {
+   "t0": 20.971,
+   "t1": 21.72,
+   "txt": "On the axle,"
+  },
+  {
+   "t0": 21.72,
+   "t1": 22.72,
+   "txt": "a ratchet wheel."
+  },
+  {
+   "t0": 23.0,
+   "t1": 23.687,
+   "txt": "Two arms,"
+  },
+  {
+   "t0": 23.687,
+   "t1": 24.451,
+   "txt": "two pawls."
+  },
+  {
+   "t0": 24.731,
+   "t1": 25.589,
+   "txt": "Rock one way,"
+  },
+  {
+   "t0": 25.589,
+   "t1": 26.381,
+   "txt": "the top pawl"
+  },
+  {
+   "t0": 26.381,
+   "t1": 26.843,
+   "txt": "pushes."
+  },
+  {
+   "t0": 27.123,
+   "t1": 27.769,
+   "txt": "Rock back,"
+  },
+  {
+   "t0": 27.769,
+   "t1": 28.739,
+   "txt": "the bottom pawl"
+  },
+  {
+   "t0": 28.739,
+   "t1": 29.192,
+   "txt": "pushes."
+  },
+  {
+   "t0": 29.543,
+   "t1": 29.976,
+   "txt": "Hence,"
+  },
+  {
+   "t0": 29.976,
+   "t1": 31.203,
+   "txt": "the ratchet wheel"
+  },
+  {
+   "t0": 31.203,
+   "t1": 32.142,
+   "txt": "is rotated in"
+  },
+  {
+   "t0": 32.142,
+   "t1": 33.369,
+   "txt": "one direction and"
+  },
+  {
+   "t0": 33.369,
+   "t1": 34.524,
+   "txt": "causes the churn"
+  },
+  {
+   "t0": 34.524,
+   "t1": 36.184,
+   "txt": "body to correspondingly"
+  },
+  {
+   "t0": 36.184,
+   "t1": 36.69,
+   "txt": "rotate."
+  },
+  {
+   "t0": 37.141,
+   "t1": 38.004,
+   "txt": "Back and forth"
+  },
+  {
+   "t0": 38.004,
+   "t1": 39.053,
+   "txt": "becomes round and"
+  },
+  {
+   "t0": 39.053,
+   "t1": 39.423,
+   "txt": "round."
+  },
+  {
+   "t0": 39.703,
+   "t1": 40.642,
+   "txt": "While you sit."
+  },
+  {
+   "t0": 40.993,
+   "t1": 41.997,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 41.997,
+   "t1": 42.356,
+   "txt": "adds:"
+  },
+  {
+   "t0": 42.356,
+   "t1": 43.575,
+   "txt": "the mechanism may"
+  },
+  {
+   "t0": 43.575,
+   "t1": 44.651,
+   "txt": "be arranged for"
+  },
+  {
+   "t0": 44.651,
+   "t1": 45.871,
+   "txt": "operating a churn"
+  },
+  {
+   "t0": 45.871,
+   "t1": 46.732,
+   "txt": "of any kind."
+  },
+  {
+   "t0": 47.183,
+   "t1": 48.467,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 48.467,
+   "t1": 48.996,
+   "txt": "twelve."
+  },
+  {
+   "t0": 49.496,
+   "t1": 50.879,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 50.879,
+   "t1": 51.501,
+   "txt": "thirteen."
+  },
+  {
+   "t0": 51.952,
+   "t1": 52.827,
+   "txt": "One chair."
+  },
+  {
+   "t0": 53.247,
+   "t1": 54.122,
+   "txt": "Any churn."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.717
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 9.551
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 13.565
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 20.971
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 29.543
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 37.141
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 40.993
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 47.183
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 51.952
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [CHAIR] DOES",
+ "hook2": "THE BUTTER|[ROCKER] \u00b7 1913",
+ "hookSwitch": 2,
+ "num": "US 1,051,684"
+}

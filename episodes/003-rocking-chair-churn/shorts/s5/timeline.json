@@ -1,0 +1,516 @@
+{
+ "T": 50.96,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 9.141,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.91
+    ],
+    [
+     3.31,
+     5.102
+    ],
+    [
+     5.502,
+     6.846
+    ],
+    [
+     7.246,
+     8.59
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen1",
+   "figno": "1"
+  },
+  {
+   "t0": 9.141,
+   "t1": 11.05,
+   "i": 1,
+   "segs": [
+    [
+     9.141,
+     10.549
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "FAN",
+     302,
+     124,
+     -120,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 11.05,
+   "t1": 19.19,
+   "i": 2,
+   "segs": [
+    [
+     11.05,
+     14.207
+    ],
+    [
+     14.487,
+     18.839
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen1",
+   "figno": "1",
+   "draw": false,
+   "ring": [
+    824,
+    982,
+    120
+   ]
+  },
+  {
+   "t0": 19.19,
+   "t1": 22.443,
+   "i": 3,
+   "segs": [
+    [
+     19.19,
+     22.092
+    ]
+   ],
+   "g": "quote",
+   "q": "the spring 23 will raise the pawl out of engagement with the wheel",
+   "hit": "raise the pawl",
+   "src": "US 1,174,436 \u00b7 description"
+  },
+  {
+   "t0": 22.443,
+   "t1": 29.642,
+   "i": 4,
+   "segs": [
+    [
+     22.443,
+     29.291
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen5",
+   "figno": "5",
+   "calls": [
+    [
+     "WEIGHT",
+     647,
+     66,
+     70,
+     40
+    ],
+    [
+     "GEARS",
+     347,
+     276,
+     -150,
+     230
+    ]
+   ]
+  },
+  {
+   "t0": 29.642,
+   "t1": 31.187,
+   "i": 5,
+   "segs": [
+    [
+     29.642,
+     30.836
+    ]
+   ],
+   "g": "quote",
+   "q": "a simple and inexpensive mechanism which can readily be attached to a rocking chair",
+   "hit": "simple and inexpensive",
+   "src": "US 1,174,436 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 31.187,
+   "t1": 37.142,
+   "i": 6,
+   "segs": [
+    [
+     31.187,
+     36.691
+    ]
+   ],
+   "g": "quote",
+   "q": "a simple and inexpensive mechanism which can readily be attached to a rocking chair",
+   "hit": "simple and inexpensive",
+   "src": "US 1,174,436 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 37.142,
+   "t1": 39.435,
+   "i": 7,
+   "segs": [
+    [
+     37.142,
+     39.084
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen5",
+   "figno": "5",
+   "draw": false
+  },
+  {
+   "t0": 39.435,
+   "t1": 44.268,
+   "i": 8,
+   "segs": [
+    [
+     39.435,
+     41.269
+    ],
+    [
+     41.769,
+     43.817
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN ATTACHMENT FOR|ROCKING-CHAIRS",
+   "filed": "JAN. 8, 1915",
+   "date": "MAR. 7, 1916",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 44.268,
+   "t1": 50.96,
+   "i": 9,
+   "segs": [
+    [
+     44.268,
+     44.994
+    ],
+    [
+     45.414,
+     46.459
+    ],
+    [
+     46.879,
+     47.86
+    ]
+   ],
+   "g": "fig",
+   "fig": "nielsen1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.899,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.899,
+   "t1": 1.874,
+   "txt": "real patent from"
+  },
+  {
+   "t0": 1.874,
+   "t1": 2.91,
+   "txt": "nineteen sixteen."
+  },
+  {
+   "t0": 3.31,
+   "t1": 4.027,
+   "txt": "A post fixed"
+  },
+  {
+   "t0": 4.027,
+   "t1": 4.744,
+   "txt": "to a rocking"
+  },
+  {
+   "t0": 4.744,
+   "t1": 5.102,
+   "txt": "chair."
+  },
+  {
+   "t0": 5.502,
+   "t1": 6.206,
+   "txt": "A roller on"
+  },
+  {
+   "t0": 6.206,
+   "t1": 6.846,
+   "txt": "the floor."
+  },
+  {
+   "t0": 7.246,
+   "t1": 8.002,
+   "txt": "And a box"
+  },
+  {
+   "t0": 8.002,
+   "t1": 8.59,
+   "txt": "on top."
+  },
+  {
+   "t0": 9.141,
+   "t1": 9.845,
+   "txt": "The box has"
+  },
+  {
+   "t0": 9.845,
+   "t1": 10.357,
+   "txt": "a fan in"
+  },
+  {
+   "t0": 10.357,
+   "t1": 10.549,
+   "txt": "it."
+  },
+  {
+   "t0": 11.05,
+   "t1": 11.917,
+   "txt": "Rock backward,"
+  },
+  {
+   "t0": 11.917,
+   "t1": 12.66,
+   "txt": "and the post"
+  },
+  {
+   "t0": 12.66,
+   "t1": 13.588,
+   "txt": "is drawn toward"
+  },
+  {
+   "t0": 13.588,
+   "t1": 14.207,
+   "txt": "the floor."
+  },
+  {
+   "t0": 14.487,
+   "t1": 15.202,
+   "txt": "A rod pulls"
+  },
+  {
+   "t0": 15.202,
+   "t1": 15.721,
+   "txt": "a lever,"
+  },
+  {
+   "t0": 15.721,
+   "t1": 16.501,
+   "txt": "a pawl turns"
+  },
+  {
+   "t0": 16.501,
+   "t1": 17.15,
+   "txt": "the gears,"
+  },
+  {
+   "t0": 17.15,
+   "t1": 17.995,
+   "txt": "and the gears"
+  },
+  {
+   "t0": 17.995,
+   "t1": 18.839,
+   "txt": "spin the fan."
+  },
+  {
+   "t0": 19.19,
+   "t1": 20.363,
+   "txt": "Rock forward again,"
+  },
+  {
+   "t0": 20.363,
+   "t1": 21.104,
+   "txt": "and a spring"
+  },
+  {
+   "t0": 21.104,
+   "t1": 22.092,
+   "txt": "resets the pawl."
+  },
+  {
+   "t0": 22.443,
+   "t1": 23.44,
+   "txt": "Inside the box:"
+  },
+  {
+   "t0": 23.44,
+   "t1": 24.304,
+   "txt": "three shafts,"
+  },
+  {
+   "t0": 24.304,
+   "t1": 24.969,
+   "txt": "a train of"
+  },
+  {
+   "t0": 24.969,
+   "t1": 25.833,
+   "txt": "gears and cog"
+  },
+  {
+   "t0": 25.833,
+   "t1": 26.299,
+   "txt": "wheels,"
+  },
+  {
+   "t0": 26.299,
+   "t1": 27.03,
+   "txt": "and a pawl,"
+  },
+  {
+   "t0": 27.03,
+   "t1": 28.094,
+   "txt": "mounted with its"
+  },
+  {
+   "t0": 28.094,
+   "t1": 29.291,
+   "txt": "own little weight."
+  },
+  {
+   "t0": 29.642,
+   "t1": 30.836,
+   "txt": "The patent's promise:"
+  },
+  {
+   "t0": 31.187,
+   "t1": 32.013,
+   "txt": "A simple and"
+  },
+  {
+   "t0": 32.013,
+   "t1": 33.871,
+   "txt": "inexpensive mechanism which"
+  },
+  {
+   "t0": 33.871,
+   "t1": 34.834,
+   "txt": "can readily be"
+  },
+  {
+   "t0": 34.834,
+   "t1": 35.728,
+   "txt": "attached to a"
+  },
+  {
+   "t0": 35.728,
+   "t1": 36.691,
+   "txt": "rocking chair."
+  },
+  {
+   "t0": 37.142,
+   "t1": 37.789,
+   "txt": "It came with"
+  },
+  {
+   "t0": 37.789,
+   "t1": 38.598,
+   "txt": "three sheets of"
+  },
+  {
+   "t0": 38.598,
+   "t1": 39.084,
+   "txt": "drawings."
+  },
+  {
+   "t0": 39.435,
+   "t1": 40.682,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 40.682,
+   "t1": 41.269,
+   "txt": "fifteen."
+  },
+  {
+   "t0": 41.769,
+   "t1": 43.232,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 43.232,
+   "t1": 43.817,
+   "txt": "sixteen."
+  },
+  {
+   "t0": 44.268,
+   "t1": 44.994,
+   "txt": "Simple."
+  },
+  {
+   "t0": 45.414,
+   "t1": 46.459,
+   "txt": "Inexpensive."
+  },
+  {
+   "t0": 46.879,
+   "t1": 47.86,
+   "txt": "Three sheets."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 9.141
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.05
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 19.19
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 22.443
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 29.642
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 31.187
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 37.142
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 39.435
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 44.268
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [POST] DOES",
+ "hook2": "THE FAN|[TOWER] \u00b7 1916",
+ "hookSwitch": 1,
+ "num": "US 1,174,436"
+}

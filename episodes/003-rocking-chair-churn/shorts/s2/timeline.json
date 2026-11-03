@@ -1,0 +1,552 @@
+{
+ "T": 58.09,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 9.296,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.657
+    ],
+    [
+     4.057,
+     6.809
+    ],
+    [
+     7.209,
+     8.745
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel1",
+   "figno": "1"
+  },
+  {
+   "t0": 9.296,
+   "t1": 11.717,
+   "i": 1,
+   "segs": [
+    [
+     9.296,
+     11.216
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel1",
+   "figno": "1",
+   "draw": false,
+   "vb": "40 0 470 240"
+  },
+  {
+   "t0": 11.717,
+   "t1": 19.646,
+   "i": 2,
+   "segs": [
+    [
+     11.717,
+     14.597
+    ],
+    [
+     14.877,
+     17.373
+    ],
+    [
+     17.653,
+     19.295
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel45",
+   "figno": "4 & 5",
+   "ring": [
+    64,
+    140,
+    150
+   ]
+  },
+  {
+   "t0": 19.646,
+   "t1": 21.448,
+   "i": 3,
+   "segs": [
+    [
+     19.646,
+     21.097
+    ]
+   ],
+   "g": "quote",
+   "q": "render their operation noiseless and, generally, more positive and efficient.",
+   "hit": "noiseless",
+   "src": "US 538,566 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 21.448,
+   "t1": 24.054,
+   "i": 4,
+   "segs": [
+    [
+     21.448,
+     23.603
+    ]
+   ],
+   "g": "quote",
+   "q": "render their operation noiseless and, generally, more positive and efficient.",
+   "hit": "noiseless",
+   "src": "US 538,566 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 24.054,
+   "t1": 33.057,
+   "i": 5,
+   "segs": [
+    [
+     24.054,
+     26.315
+    ],
+    [
+     26.815,
+     28.692
+    ],
+    [
+     29.192,
+     32.606
+    ]
+   ],
+   "g": "quote",
+   "q": "and there is no noise in this connection, nor any jar.",
+   "hit": "nor any jar",
+   "src": "US 538,566 \u00b7 description"
+  },
+  {
+   "t0": 33.057,
+   "t1": 40.344,
+   "i": 6,
+   "segs": [
+    [
+     33.057,
+     34.699
+    ],
+    [
+     34.979,
+     39.993
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel2",
+   "figno": "2",
+   "ring": [
+    158,
+    327,
+    110
+   ]
+  },
+  {
+   "t0": 40.344,
+   "t1": 46.351,
+   "i": 7,
+   "segs": [
+    [
+     40.344,
+     43.352
+    ],
+    [
+     43.852,
+     45.9
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN ATTACHMENT FOR|ROCKING-CHAIRS",
+   "filed": "MAY 10, 1894",
+   "date": "APR. 30, 1895",
+   "big": true,
+   "at": 3.0
+  },
+  {
+   "t0": 46.351,
+   "t1": 51.635,
+   "i": 8,
+   "segs": [
+    [
+     46.351,
+     47.588
+    ],
+    [
+     47.868,
+     49.489
+    ],
+    [
+     49.769,
+     51.284
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 51.635,
+   "t1": 58.09,
+   "i": 9,
+   "segs": [
+    [
+     51.635,
+     52.467
+    ],
+    [
+     52.887,
+     53.762
+    ],
+    [
+     54.182,
+     54.992
+    ]
+   ],
+   "g": "fig",
+   "fig": "weigel1",
+   "figno": "1",
+   "draw": false,
+   "vb": "40 0 470 240"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.957,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.957,
+   "t1": 2.24,
+   "txt": "real invention from"
+  },
+  {
+   "t0": 2.24,
+   "t1": 3.657,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 4.057,
+   "t1": 5.131,
+   "txt": "A rocking chair,"
+  },
+  {
+   "t0": 5.131,
+   "t1": 5.869,
+   "txt": "with a tall"
+  },
+  {
+   "t0": 5.869,
+   "t1": 6.809,
+   "txt": "rod behind it."
+  },
+  {
+   "t0": 7.209,
+   "t1": 8.179,
+   "txt": "And two fans"
+  },
+  {
+   "t0": 8.179,
+   "t1": 8.745,
+   "txt": "on top."
+  },
+  {
+   "t0": 9.296,
+   "t1": 10.196,
+   "txt": "Rock the chair,"
+  },
+  {
+   "t0": 10.196,
+   "t1": 10.916,
+   "txt": "and the fans"
+  },
+  {
+   "t0": 10.916,
+   "t1": 11.216,
+   "txt": "spin."
+  },
+  {
+   "t0": 11.717,
+   "t1": 12.568,
+   "txt": "The bottom of"
+  },
+  {
+   "t0": 12.568,
+   "t1": 13.222,
+   "txt": "the rod is"
+  },
+  {
+   "t0": 13.222,
+   "t1": 14.138,
+   "txt": "twisted into a"
+  },
+  {
+   "t0": 14.138,
+   "t1": 14.597,
+   "txt": "spiral."
+  },
+  {
+   "t0": 14.877,
+   "t1": 15.743,
+   "txt": "Rocking pushes it"
+  },
+  {
+   "t0": 15.743,
+   "t1": 16.303,
+   "txt": "up and down"
+  },
+  {
+   "t0": 16.303,
+   "t1": 17.169,
+   "txt": "through a slotted"
+  },
+  {
+   "t0": 17.169,
+   "t1": 17.373,
+   "txt": "nut."
+  },
+  {
+   "t0": 17.653,
+   "t1": 18.474,
+   "txt": "And the spiral"
+  },
+  {
+   "t0": 18.474,
+   "t1": 19.295,
+   "txt": "makes it turn."
+  },
+  {
+   "t0": 19.646,
+   "t1": 20.795,
+   "txt": "The patent's stated"
+  },
+  {
+   "t0": 20.795,
+   "t1": 21.097,
+   "txt": "goal:"
+  },
+  {
+   "t0": 21.448,
+   "t1": 22.371,
+   "txt": "To render their"
+  },
+  {
+   "t0": 22.371,
+   "t1": 23.603,
+   "txt": "operation noiseless."
+  },
+  {
+   "t0": 24.054,
+   "t1": 24.682,
+   "txt": "So the nut"
+  },
+  {
+   "t0": 24.682,
+   "t1": 25.373,
+   "txt": "is leather,"
+  },
+  {
+   "t0": 25.373,
+   "t1": 26.315,
+   "txt": "or hard rubber."
+  },
+  {
+   "t0": 26.815,
+   "t1": 27.498,
+   "txt": "At the chair"
+  },
+  {
+   "t0": 27.498,
+   "t1": 27.782,
+   "txt": "back,"
+  },
+  {
+   "t0": 27.782,
+   "t1": 28.692,
+   "txt": "leather washers."
+  },
+  {
+   "t0": 29.192,
+   "t1": 29.995,
+   "txt": "And there is"
+  },
+  {
+   "t0": 29.995,
+   "t1": 30.732,
+   "txt": "no noise in"
+  },
+  {
+   "t0": 30.732,
+   "t1": 31.803,
+   "txt": "this connection,"
+  },
+  {
+   "t0": 31.803,
+   "t1": 32.606,
+   "txt": "nor any jar."
+  },
+  {
+   "t0": 33.057,
+   "t1": 34.177,
+   "txt": "Got an ordinary"
+  },
+  {
+   "t0": 34.177,
+   "t1": 34.699,
+   "txt": "rocker?"
+  },
+  {
+   "t0": 34.979,
+   "t1": 36.006,
+   "txt": "There's a version"
+  },
+  {
+   "t0": 36.006,
+   "t1": 36.731,
+   "txt": "with a lever"
+  },
+  {
+   "t0": 36.731,
+   "t1": 37.516,
+   "txt": "and a roller,"
+  },
+  {
+   "t0": 37.516,
+   "t1": 38.724,
+   "txt": "held constantly upon"
+  },
+  {
+   "t0": 38.724,
+   "t1": 39.449,
+   "txt": "the floor by"
+  },
+  {
+   "t0": 39.449,
+   "t1": 39.993,
+   "txt": "a spring."
+  },
+  {
+   "t0": 40.344,
+   "t1": 41.043,
+   "txt": "Its title:"
+  },
+  {
+   "t0": 41.043,
+   "t1": 42.302,
+   "txt": "fan attachment for"
+  },
+  {
+   "t0": 42.302,
+   "t1": 43.352,
+   "txt": "rocking-chairs."
+  },
+  {
+   "t0": 43.852,
+   "t1": 44.466,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 44.466,
+   "t1": 45.9,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 46.351,
+   "t1": 47.002,
+   "txt": "It was not"
+  },
+  {
+   "t0": 47.002,
+   "t1": 47.588,
+   "txt": "the last."
+  },
+  {
+   "t0": 47.868,
+   "t1": 48.679,
+   "txt": "At least a"
+  },
+  {
+   "t0": 48.679,
+   "t1": 49.489,
+   "txt": "dozen U.S."
+  },
+  {
+   "t0": 49.769,
+   "t1": 50.905,
+   "txt": "patents carry that"
+  },
+  {
+   "t0": 50.905,
+   "t1": 51.284,
+   "txt": "title."
+  },
+  {
+   "t0": 51.635,
+   "t1": 52.467,
+   "txt": "You rock."
+  },
+  {
+   "t0": 52.887,
+   "t1": 53.762,
+   "txt": "It fans."
+  },
+  {
+   "t0": 54.182,
+   "t1": 54.992,
+   "txt": "Quietly."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 9.296
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.717
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 19.646
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.448
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 24.054
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 33.057
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 40.344
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 46.351
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 51.635
+  }
+ ],
+ "hook": "GUESS WHAT|THIS [ROD] DOES",
+ "hook2": "A ROCKING-CHAIR|[FAN] \u00b7 1895",
+ "hookSwitch": 1,
+ "num": "US 538,566"
+}
