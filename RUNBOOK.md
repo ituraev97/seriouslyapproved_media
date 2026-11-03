@@ -1,11 +1,11 @@
 # SERIOUSLY APPROVED — daily production runbook
 
-One run = one long video (10–12 min, 1920×1080) + 6 vertical Shorts (45–65 s, 1080×1920) for ONE US day, uploaded to a `drop-<weekday>` branch and scheduled in Metricool.
+One run = one long video (10–12 min, 1920×1080) + 6 vertical YouTube Shorts (45–60 s, 1080×1920) + 3 TikTok videos (62–85 s, 1080×1920) for ONE US day, uploaded to a `drop-<weekday>` branch and scheduled in Metricool.
 Read the Projects doc `claude/seriously-approved-bible.md` first (rules, brand, voice, money). Reference Short: `episodes/000-test-kissing-shield/episode.py`.
 
 ## 0. Context
 - Metricool brand "SERIOUSLY APPROVED": blogId **7805767**. Publish timezone **America/New_York**.
-- Schedule per US day: Shorts 08:00, 10:30, 13:00, 15:00, 19:00, 22:00 ET; long video 16:00 ET.
+- Schedule per US day: Shorts 08:00, 10:30, 13:00, 15:00, 19:00, 22:00 ET; long video 16:00 ET (YouTube). TikTok (connected 04.11.2026): t1 09:30, t2 14:30, t3 20:30 ET.
 - YouTube: madeForKids false, category ENTERTAINMENT. Do not set isAiGeneratedContent unless the owner decides so.
 - Target date = tomorrow in America/New_York at run time. First call Metricool getScheduledPosts for blogId 7805767 over that date: if a YouTube long video is already scheduled, produce nothing and report.
 
@@ -39,7 +39,8 @@ Playwright's Chromium, ffmpeg and tesseract are preinstalled (render.mjs finds t
 Long: `$EP/episode.py` with `FMT = "long"`, `LINES = [(spoken, shot, kind)]`, optional `SAY` (on-screen word → spoken respelling).
 - 1,500–1,800 spoken words → 10–12 min. Must be ≥ 10:00 (mid-roll ads). Structure: cold open ≤ 40 s (the wildest drawing + "This is real.") → title shot → for each patent: chapter shot (numeral, title, number, years) → 6–9 lines over its figures/quotes/how-it-worked → stamp → weekly "Most Approved" → tease + subscribe line.
 - Every shot carries `hook` (left title, `[word]` = highlighter, `|` = line break) and `side` (e.g. `No. 3 · US 3,216,423 · 1965`).
-Shorts: `$EP/shorts/s1 … s6/episode.py` with `FMT = "short"`, `NUM`, `HOOK` ("GUESS WHAT|THIS IS [FOR]" style), `HOOK2` (name of the invention), `HOOK_SWITCH` (index of the reveal line), optional `TAIL`. Copy the figures they use into `shorts/sN/fig/`. 45–60 s for YouTube. TikTok pays only for videos > 60 s: a TikTok version needs MORE content (extra verified lines), never padding — a silent tail kills retention. `MIN_T` exists in compose.py but use it only for a second or two.
+Shorts: `$EP/shorts/s1 … s6/episode.py` with `FMT = "short"`, `NUM`, `HOOK` ("GUESS WHAT|THIS IS [FOR]" style), `HOOK2` (name of the invention), `HOOK_SWITCH` (index of the reveal line), optional `TAIL`. Copy the figures they use into `shorts/sN/fig/`. 45–60 s for YouTube.
+TikTok: `$EP/tiktok/t1 … t3/episode.py` — extended versions of the three strongest Shorts. TikTok Creator Rewards pays only for videos > 60 s, so each must be 62–85 s (check `T` in timeline.json after compose; target ≥ 62). Get the extra length from MORE content — extra verified lines taken from the long episode.py (same patent), never padding, silence or slower speech. Keep the hook and the HOOK_SWITCH pointing at the stamp line. Reference: `episodes/001-nobody-asked-for/tiktok/t1`, `t2`, `episodes/002-patents-for-your-cat/tiktok/t1`. `MIN_T` exists in compose.py but use it only for a second or two.
 Shot types (pipeline/frame.html):
 - `fig`: fig (svg key), figno, draw (False = already on screen), vb ("x y w h" crop in svg units = a cut to a detail), ring [x, y, size], calls [[text, x, y, dx, dy], …] (one per sentence of the line).
 - `quote`: q (verbatim), hit (phrase to highlight), hide (True = black bar, revealed on the next line with typed=False), src ("US x · claim 1"), typed.
@@ -56,13 +57,13 @@ P=/home/claude/seriouslyapproved_media/pipeline
 python3 $P/tts.py $EP && python3 $P/compose.py $EP
 nohup node $P/render.mjs $EP 30 > $EP/render.log 2>&1 &     # long: ~15–25 min; poll the log
 python3 $P/mix.py $EP && bash $P/encode.sh $EP $EP/long.mp4 95
-for S in $EP/shorts/s*; do python3 $P/tts.py $S && python3 $P/compose.py $S && node $P/render.mjs $S 30 && python3 $P/mix.py $S && bash $P/encode.sh $S $S/short.mp4 95; done
+for S in $EP/shorts/s* $EP/tiktok/t*; do python3 $P/tts.py $S && python3 $P/compose.py $S && node $P/render.mjs $S 30 && python3 $P/mix.py $S && bash $P/encode.sh $S $S/short.mp4 95; done
 node $P/thumb.mjs $EP        # $EP/thumb.json: variants A and C -> thumb_A.png, thumb_C.png
 ```
 
 ## 7. QA (do not skip)
 - Stills every ~8 s (`node render.mjs $EP 30 0 <T> 8`) → contact sheet: nothing clipped, callouts on the right parts, subtitles readable, no front page/addresses.
-- Loudness ≈ −14 LUFS (encode.sh prints it). Long ≥ 10:00. Each Short ≤ 3 min.
+- Loudness ≈ −14 LUFS (encode.sh prints it). Long ≥ 10:00. Each Short ≤ 3 min. Each TikTok video ≥ 62 s (ffprobe the mp4).
 - Thumbnail at 168×94: the big words still read; bottom-right corner empty.
 
 ## 8. Upload (public raw URLs for Metricool)
@@ -70,7 +71,8 @@ Branch = weekday of the ET publish date: drop-mon … drop-sun. Orphan commit wi
 ```bash
 cd /home/claude/seriouslyapproved_media && git checkout --orphan up && git rm -rqf . && \
 cp $EP/long.mp4 $EP/thumb_A.png . && for i in 1 2 3 4 5 6; do cp $EP/shorts/s$i/short.mp4 s$i.mp4; done && \
-git add long.mp4 thumb_A.png s*.mp4 && git -c user.name="SERIOUSLY APPROVED bot" -c user.email="ituraev97@users.noreply.github.com" commit -qm "drop NNN" && \
+for i in 1 2 3; do cp $EP/tiktok/t$i/short.mp4 t$i.mp4; done && \
+git add long.mp4 thumb_A.png s*.mp4 t*.mp4 && git -c user.name="SERIOUSLY APPROVED bot" -c user.email="ituraev97@users.noreply.github.com" commit -qm "drop NNN" && \
 git push -f origin up:drop-XXX && git checkout -q main && git branch -D up
 ```
 URL: `https://raw.githubusercontent.com/ituraev97/seriouslyapproved_media/drop-XXX/<file>`; check each with `curl -sI` (200).
@@ -79,7 +81,7 @@ URL: `https://raw.githubusercontent.com/ituraev97/seriouslyapproved_media/drop-X
 - createScheduledPost, blogId 7805767, providers [{"network":"youtube"}], publicationDate {dateTime, timezone:"America/New_York"}, autoPublish true.
 - Long: youtubeData {title, type:"video", privacy:"public", tags, category:"ENTERTAINMENT", madeForKids:false}; text = description; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL ONLY if the channel is phone-verified — otherwise Metricool rejects the whole post (VIDEO_THUMBNAIL_NOT_APPLICABLE): resend without videoThumbnailUrl and tell the owner.
 - Shorts: youtubeData {title, type:"short", privacy:"public", category:"ENTERTAINMENT", madeForKids:false}; text = Short description.
-- TikTok / Instagram: only once connected to the brand (none on 02.11.2026). TikTok: only Shorts > 60 s.
+- TikTok (connected 04.11.2026): three separate posts t1.mp4/t2.mp4/t3.mp4 at 09:30, 14:30, 20:30 ET; providers [{"network":"tiktok"}]; tiktokData {"privacyOption":"PUBLIC_TO_EVERYONE","title":"<same as the Short title>","disableComment":false,"disableDuet":false,"disableStitch":false,"autoAddMusic":false,"isAigc":false}; text = one hook line + "Real U.S. patent <number> (<year>)." + `#weirdpatents #inventions #patents #history #funnyinventions #fyp` (no links, no "full episode" line — the long video is not on TikTok). Only videos ≥ 62 s go to TikTok. Instagram: only once connected.
 - Titles: long ≤ 70 chars, curiosity + "Real Patents" (e.g. "9 Real Patents Nobody Asked For (All Approved)"); Short = the invention + a hook ("The U.S. Approved a Kissing Shield").
 - Long description: 2-line summary · chapters with timestamps (chapter shot starts from timeline.json, first = 0:00) · "Patents in this video:" one line each (number, title, year, Google Patents link) · "SERIOUSLY APPROVED is an independent channel and is not affiliated with or endorsed by the USPTO. Patent texts and drawings: U.S. patents (public record)." · hashtags `#weirdpatents #inventions #weirdhistory #patents #strangeinventions #history`.
 - Short description: one line + "US <number> (<year>) — <Google Patents link>" + "Full episode on the channel." + `#weirdpatents #inventions #shorts #patents #weirdhistory #funnyinventions`.
