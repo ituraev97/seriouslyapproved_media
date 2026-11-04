@@ -1,0 +1,125 @@
+5,540,186
+
+3
+
+The motor shaft 12 has a small gear 51 fastened to its shaft
+for turning the larger gear 53 attached to spline shaft 52 by
+its hub 49. The spline shaft 52 is held rigidly vertical by
+pressed in sleeve bearing 48, through the hole 49 in top of
+enclosure cover 46, and the bottom of spline shaft 52 is held
+rigid and supported by cup bearing 50 pressed into a
+recessed opening of base floor 47. The uppermost portion of
+the spline shaft 52, extending above the exterior of the
+enclosure assembly 44 is the spline 13 portion for coupling
+internally to the recessed opening 27 of the rubbing medium
+29 of FIG. 2a. The debris retention rail 22 completely
+encircles the perimeter of the base floor surface 46. The
+electric motor 10 has a plurality of conducting wires 56
+connected to an off, forward, and reverse switch 58. A power
+source receptacle 42 provides voltage to an integral trans-
+former 45, and a male plug 41 for reducing line voltage to
+a smaller, harmless voltage, which in turn is connected by
+wires 38 to a speed controlling rheostat 66 for varying the
+rotational motion of the shaft spline 13 when required. A
+battery 64, accessable through an access cover screw 63,
+mounted to the vertical face 65 of the enclosure assembly
+44, powers a prerecorded electronic audio device mounted
+integrally to the rear of grill 62. The audio portion can have
+prerecorded, intermittant sounds of a mouse, or a human
+talking to an animal, and the like, as an incentive for an
+animal to frequent the device more often. An on-off switch
+60 is employed to conserve battery 64 power. A sensor 59 is
+employed to activate the motor 10 of the device by shunting
+or diverting wires 38 attached to switch 58, to wires 56 of
+the motor 10, if automatic use of the device is desired. Any
+common sensor device can be employed to activate the
+device, such as motion, heat, or optical.
+
+The mechanisms can be modified by various methods for
+producing and performing a predetermined rate of rotational
+motion and torque to substantially meet the needs of the
+many sizes and classification of animals. For example, a belt
+shaped rubbing medium of predetermined length made to
+rotate from a motor shaft driver to a tensioning spindle to
+accomodate a conveyor type brushing medium belt. The
+rubbing medium belt surface can be mounted horizontally or
+vertically on a device base or affixed vertically by brackets
+to a wall structure surface. Such an application would serve
+the outdoor animal or an animal in a zoo habitat. Thus it has
+been shown that the mechanically assisted animal self
+grooming device can perform all of the objectives as out-
+lined above.
+
+20
+
+25
+
+30
+
+40
+
+45
+
+4
+
+While the specifications may contain many specific
+details, these should not be construed as limitations on the
+scope and synergism of the invention, but rather as examples
+of embodiments or modifications herein detailed in accor-
+dance with the descriptive requirements of law. It should be
+understood that the details are to be interpreted as illustrative
+and not in a limiting sense.
+
+I claim:
+
+1. A mechanically assisted animal self grooming device
+comprising:
+
+a) a base having a generally flat horizontal upper surface;
+
+and;
+
+b) rubbing means disposed centrally of said base on said
+upper horizontal surface, said rubbing means compris-
+ing:
+
+i) a vertically oriented shaft extending upwardly of said
+base;
+
+means for rotating said shaft disposed on said upper
+surface, said rotating means causing said shaft to
+rotate at a preselected rate of revolution; and
+
+iti) a brush having a rigid body directly coupled to said
+shaft and a plurality of bristles extending outwardly
+from said rigid body, said brush being disposed above
+said upper surface of said base; and
+
+c) a plurality of recesses in a portion of said upper surface
+of said base for containment of animal debris, said
+recesses being disposed centrally thereof about the
+periphery of said shaft rotating means.
+
+2. The device of claim 1 wherein said base is circular in
+
+cross-section.
+
+3. The device of claim 1, wherein said means for rotating
+said shaft comprises an electric motor assembly.
+
+4. The device of claim 1, wherein said brush has a
+substantially upstanding concave shape to enable said and
+top surface grooming simultaneously to an animal’s coat.
+
+5. The device of claim 1, further comprising a reversing
+switch connected to said means for rotating said shaft such
+that the direction of rotation of said shaft may be selectively
+reversed.
+
+6. The device of claim 1, wherein said upper surface
+includes means for permitting an animal to sink its claws
+therein disposed between said portion having said plurality
+of recesses therein and the periphery of said base so as to
+function as a scratching pad for an animal.
+
+x * & Kk *

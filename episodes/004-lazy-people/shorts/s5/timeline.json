@@ -1,0 +1,531 @@
+{
+ "T": 59.72,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.69,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.31
+    ],
+    [
+     3.71,
+     5.139
+    ]
+   ],
+   "g": "fig",
+   "fig": "groom1a",
+   "figno": "1a"
+  },
+  {
+   "t0": 5.69,
+   "t1": 10.183,
+   "i": 1,
+   "segs": [
+    [
+     5.69,
+     6.693
+    ],
+    [
+     6.973,
+     9.832
+    ]
+   ],
+   "g": "fig",
+   "fig": "groom1a",
+   "figno": "1a",
+   "draw": false,
+   "calls": [
+    [
+     "BRUSH",
+     474,
+     372,
+     100,
+     0
+    ]
+   ]
+  },
+  {
+   "t0": 10.183,
+   "t1": 16.224,
+   "i": 2,
+   "segs": [
+    [
+     10.183,
+     14.087
+    ],
+    [
+     14.507,
+     15.723
+    ]
+   ],
+   "g": "stamp",
+   "title": "MECHANICALLY ASSISTED ANIMAL|SELF GROOMING DEVICE",
+   "filed": "DEC. 2, 1994",
+   "date": "JUL. 30, 1996",
+   "at": 4.2
+  },
+  {
+   "t0": 16.224,
+   "t1": 18.473,
+   "i": 3,
+   "segs": [
+    [
+     16.224,
+     18.122
+    ]
+   ],
+   "g": "quote",
+   "q": "Most animals will remain appreciative for extended periods of time, when brushes are moved against their bodies by the human hand.",
+   "hit": "appreciative for extended periods",
+   "src": "US 5,540,186 \u00b7 summary",
+   "hide": true
+  },
+  {
+   "t0": 18.473,
+   "t1": 27.287,
+   "i": 4,
+   "segs": [
+    [
+     18.473,
+     26.836
+    ]
+   ],
+   "g": "quote",
+   "q": "Most animals will remain appreciative for extended periods of time, when brushes are moved against their bodies by the human hand.",
+   "hit": "appreciative for extended periods",
+   "src": "US 5,540,186 \u00b7 summary",
+   "typed": false
+  },
+  {
+   "t0": 27.287,
+   "t1": 34.211,
+   "i": 5,
+   "segs": [
+    [
+     27.287,
+     30.636
+    ],
+    [
+     30.916,
+     33.86
+    ]
+   ],
+   "g": "quote",
+   "q": "to simulate the brushing movements of the human hand",
+   "hit": "the human hand",
+   "src": "US 5,540,186 \u00b7 summary"
+  },
+  {
+   "t0": 34.211,
+   "t1": 40.005,
+   "i": 6,
+   "segs": [
+    [
+     34.211,
+     37.902
+    ],
+    [
+     38.182,
+     39.654
+    ]
+   ],
+   "g": "fig",
+   "fig": "groom1a",
+   "figno": "1a",
+   "draw": false,
+   "ring": [
+    486,
+    48,
+    170
+   ]
+  },
+  {
+   "t0": 40.005,
+   "t1": 45.533,
+   "i": 7,
+   "segs": [
+    [
+     40.005,
+     45.082
+    ]
+   ],
+   "g": "quote",
+   "q": "sounds of a mouse, or a human talking to an animal",
+   "hit": "a human talking to an animal",
+   "src": "US 5,540,186 \u00b7 description"
+  },
+  {
+   "t0": 45.533,
+   "t1": 50.858,
+   "i": 8,
+   "segs": [
+    [
+     45.533,
+     47.624
+    ],
+    [
+     48.124,
+     50.407
+    ]
+   ],
+   "g": "stamp",
+   "title": "MECHANICALLY ASSISTED ANIMAL|SELF GROOMING DEVICE",
+   "filed": "DEC. 2, 1994",
+   "date": "JUL. 30, 1996",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 50.858,
+   "t1": 59.72,
+   "i": 9,
+   "segs": [
+    [
+     50.858,
+     53.055
+    ],
+    [
+     53.475,
+     57.016
+    ]
+   ],
+   "g": "quote",
+   "q": "Yet another object is that the present invention produces a synergistic effect.",
+   "hit": "synergistic effect",
+   "src": "US 5,540,186 \u00b7 summary"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.31,
+   "txt": "A tall brush."
+  },
+  {
+   "t0": 3.71,
+   "t1": 4.49,
+   "txt": "And it turns"
+  },
+  {
+   "t0": 4.49,
+   "t1": 5.139,
+   "txt": "by itself."
+  },
+  {
+   "t0": 5.69,
+   "t1": 6.457,
+   "txt": "It's for your"
+  },
+  {
+   "t0": 6.457,
+   "t1": 6.693,
+   "txt": "pet."
+  },
+  {
+   "t0": 6.973,
+   "t1": 7.948,
+   "txt": "The animal rubs"
+  },
+  {
+   "t0": 7.948,
+   "t1": 8.662,
+   "txt": "against it,"
+  },
+  {
+   "t0": 8.662,
+   "t1": 9.832,
+   "txt": "and grooms itself."
+  },
+  {
+   "t0": 10.183,
+   "t1": 11.001,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 11.001,
+   "t1": 12.764,
+   "txt": "mechanically assisted animal"
+  },
+  {
+   "t0": 12.764,
+   "t1": 14.087,
+   "txt": "self grooming device."
+  },
+  {
+   "t0": 14.507,
+   "t1": 15.147,
+   "txt": "And it was"
+  },
+  {
+   "t0": 15.147,
+   "t1": 15.723,
+   "txt": "approved."
+  },
+  {
+   "t0": 16.224,
+   "t1": 17.202,
+   "txt": "The patent admits"
+  },
+  {
+   "t0": 17.202,
+   "t1": 18.122,
+   "txt": "why it's needed."
+  },
+  {
+   "t0": 18.473,
+   "t1": 19.629,
+   "txt": "Most animals will"
+  },
+  {
+   "t0": 19.629,
+   "t1": 21.193,
+   "txt": "remain appreciative for"
+  },
+  {
+   "t0": 21.193,
+   "t1": 22.485,
+   "txt": "extended periods of"
+  },
+  {
+   "t0": 22.485,
+   "t1": 22.825,
+   "txt": "time,"
+  },
+  {
+   "t0": 22.825,
+   "t1": 23.912,
+   "txt": "when brushes are"
+  },
+  {
+   "t0": 23.912,
+   "t1": 25.204,
+   "txt": "moved against their"
+  },
+  {
+   "t0": 25.204,
+   "t1": 26.088,
+   "txt": "bodies by the"
+  },
+  {
+   "t0": 26.088,
+   "t1": 26.836,
+   "txt": "human hand."
+  },
+  {
+   "t0": 27.287,
+   "t1": 28.079,
+   "txt": "A motor turns"
+  },
+  {
+   "t0": 28.079,
+   "t1": 28.627,
+   "txt": "it at ten"
+  },
+  {
+   "t0": 28.627,
+   "t1": 29.966,
+   "txt": "to fifteen revolutions"
+  },
+  {
+   "t0": 29.966,
+   "t1": 30.636,
+   "txt": "per minute."
+  },
+  {
+   "t0": 30.916,
+   "t1": 31.782,
+   "txt": "To simulate the"
+  },
+  {
+   "t0": 31.782,
+   "t1": 32.994,
+   "txt": "brushing movements of"
+  },
+  {
+   "t0": 32.994,
+   "t1": 33.86,
+   "txt": "the human hand."
+  },
+  {
+   "t0": 34.211,
+   "t1": 34.699,
+   "txt": "On top,"
+  },
+  {
+   "t0": 34.699,
+   "t1": 35.325,
+   "txt": "a lure on"
+  },
+  {
+   "t0": 35.325,
+   "t1": 35.952,
+   "txt": "a spring,"
+  },
+  {
+   "t0": 35.952,
+   "t1": 37.345,
+   "txt": "constantly moving in"
+  },
+  {
+   "t0": 37.345,
+   "t1": 37.902,
+   "txt": "circles."
+  },
+  {
+   "t0": 38.182,
+   "t1": 38.971,
+   "txt": "In the drawing,"
+  },
+  {
+   "t0": 38.971,
+   "t1": 39.654,
+   "txt": "it's a mouse."
+  },
+  {
+   "t0": 40.005,
+   "t1": 41.182,
+   "txt": "One version even"
+  },
+  {
+   "t0": 41.182,
+   "t1": 42.286,
+   "txt": "plays sounds of"
+  },
+  {
+   "t0": 42.286,
+   "t1": 42.875,
+   "txt": "a mouse,"
+  },
+  {
+   "t0": 42.875,
+   "t1": 43.611,
+   "txt": "or a human"
+  },
+  {
+   "t0": 43.611,
+   "t1": 44.567,
+   "txt": "talking to an"
+  },
+  {
+   "t0": 44.567,
+   "t1": 45.082,
+   "txt": "animal."
+  },
+  {
+   "t0": 45.533,
+   "t1": 46.759,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 46.759,
+   "t1": 47.624,
+   "txt": "ninety-four."
+  },
+  {
+   "t0": 48.124,
+   "t1": 49.597,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 49.597,
+   "t1": 50.407,
+   "txt": "ninety-six."
+  },
+  {
+   "t0": 50.858,
+   "t1": 51.737,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 51.737,
+   "t1": 52.616,
+   "txt": "lists one more"
+  },
+  {
+   "t0": 52.616,
+   "t1": 53.055,
+   "txt": "object."
+  },
+  {
+   "t0": 53.475,
+   "t1": 54.962,
+   "txt": "The present invention"
+  },
+  {
+   "t0": 54.962,
+   "t1": 56.521,
+   "txt": "produces a synergistic"
+  },
+  {
+   "t0": 56.521,
+   "t1": 57.016,
+   "txt": "effect."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.69
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 10.183
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.224
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 18.473
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 27.287
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 34.211
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 40.005
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 45.533
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 50.858
+  }
+ ],
+ "hook": "WHO IS|THIS [BRUSH] FOR?",
+ "hook2": "THE PET|[BRUSH] \u00b7 1996",
+ "hookSwitch": 2,
+ "num": "US 5,540,186"
+}

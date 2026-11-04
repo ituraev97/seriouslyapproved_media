@@ -1,0 +1,514 @@
+{
+ "T": 52.75,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.018,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.401
+    ],
+    [
+     3.801,
+     6.467
+    ]
+   ],
+   "g": "fig",
+   "fig": "golf12",
+   "figno": "1 & 2"
+  },
+  {
+   "t0": 7.018,
+   "t1": 11.084,
+   "i": 1,
+   "segs": [
+    [
+     7.018,
+     8.298
+    ],
+    [
+     8.578,
+     10.733
+    ]
+   ],
+   "g": "fig",
+   "fig": "golf12",
+   "figno": "1 & 2",
+   "draw": false,
+   "calls": [
+    [
+     "BALL",
+     606,
+     252,
+     80,
+     -40
+    ],
+    [
+     "TEE",
+     232,
+     470,
+     -70,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 11.084,
+   "t1": 18.094,
+   "i": 2,
+   "segs": [
+    [
+     11.084,
+     12.663
+    ],
+    [
+     12.943,
+     17.743
+    ]
+   ],
+   "g": "fig",
+   "fig": "golf4",
+   "figno": "4"
+  },
+  {
+   "t0": 18.094,
+   "t1": 23.239,
+   "i": 3,
+   "segs": [
+    [
+     18.094,
+     21.102
+    ],
+    [
+     21.522,
+     22.738
+    ]
+   ],
+   "g": "stamp",
+   "title": "GOLF BALL AND TEE|HANDLING DEVICES",
+   "filed": "MAR. 20, 1958",
+   "date": "JUL. 5, 1960",
+   "at": 3.0
+  },
+  {
+   "t0": 23.239,
+   "t1": 25.595,
+   "i": 4,
+   "segs": [
+    [
+     23.239,
+     25.244
+    ]
+   ],
+   "g": "quote",
+   "q": "Without stooping or bending over, the player may then press downwardly upon the handle",
+   "hit": "Without stooping or bending over",
+   "src": "US 2,943,856 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 25.595,
+   "t1": 31.315,
+   "i": 5,
+   "segs": [
+    [
+     25.595,
+     30.864
+    ]
+   ],
+   "g": "quote",
+   "q": "Without stooping or bending over, the player may then press downwardly upon the handle",
+   "hit": "Without stooping or bending over",
+   "src": "US 2,943,856 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 31.315,
+   "t1": 36.929,
+   "i": 6,
+   "segs": [
+    [
+     31.315,
+     36.478
+    ]
+   ],
+   "g": "quote",
+   "q": "while the player remains in a straight, upstanding position",
+   "hit": "straight, upstanding position",
+   "src": "US 2,943,856 \u00b7 description"
+  },
+  {
+   "t0": 36.929,
+   "t1": 43.619,
+   "i": 7,
+   "segs": [
+    [
+     36.929,
+     38.486
+    ],
+    [
+     38.766,
+     43.268
+    ]
+   ],
+   "g": "quote",
+   "q": "also without the necessity of stooping or bending over for that purpose",
+   "hit": "for that purpose",
+   "src": "US 2,943,856 \u00b7 description"
+  },
+  {
+   "t0": 43.619,
+   "t1": 48.495,
+   "i": 8,
+   "segs": [
+    [
+     43.619,
+     45.603
+    ],
+    [
+     46.103,
+     48.044
+    ]
+   ],
+   "g": "stamp",
+   "title": "GOLF BALL AND TEE|HANDLING DEVICES",
+   "filed": "MAR. 20, 1958",
+   "date": "JUL. 5, 1960",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 48.495,
+   "t1": 52.75,
+   "i": 9,
+   "segs": [
+    [
+     48.495,
+     49.647
+    ]
+   ],
+   "g": "fig",
+   "fig": "golf12",
+   "figno": "1 & 2",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.91,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.91,
+   "t1": 2.093,
+   "txt": "real invention from"
+  },
+  {
+   "t0": 2.093,
+   "t1": 3.401,
+   "txt": "nineteen fifty-eight."
+  },
+  {
+   "t0": 3.801,
+   "t1": 4.601,
+   "txt": "It fits onto"
+  },
+  {
+   "t0": 4.601,
+   "t1": 5.534,
+   "txt": "the handle end"
+  },
+  {
+   "t0": 5.534,
+   "t1": 6.134,
+   "txt": "of a golf"
+  },
+  {
+   "t0": 6.134,
+   "t1": 6.467,
+   "txt": "club."
+  },
+  {
+   "t0": 7.018,
+   "t1": 7.722,
+   "txt": "A cup holds"
+  },
+  {
+   "t0": 7.722,
+   "t1": 8.298,
+   "txt": "the ball."
+  },
+  {
+   "t0": 8.578,
+   "t1": 9.429,
+   "txt": "Two little arms"
+  },
+  {
+   "t0": 9.429,
+   "t1": 10.109,
+   "txt": "grip the tee"
+  },
+  {
+   "t0": 10.109,
+   "t1": 10.733,
+   "txt": "underneath."
+  },
+  {
+   "t0": 11.084,
+   "t1": 11.792,
+   "txt": "Push the club"
+  },
+  {
+   "t0": 11.792,
+   "t1": 12.663,
+   "txt": "into the ground."
+  },
+  {
+   "t0": 12.943,
+   "t1": 13.732,
+   "txt": "The tee goes"
+  },
+  {
+   "t0": 13.732,
+   "t1": 13.929,
+   "txt": "in,"
+  },
+  {
+   "t0": 13.929,
+   "t1": 14.718,
+   "txt": "the arms let"
+  },
+  {
+   "t0": 14.718,
+   "t1": 14.915,
+   "txt": "go,"
+  },
+  {
+   "t0": 14.915,
+   "t1": 15.704,
+   "txt": "and the ball"
+  },
+  {
+   "t0": 15.704,
+   "t1": 16.428,
+   "txt": "sits there,"
+  },
+  {
+   "t0": 16.428,
+   "t1": 17.48,
+   "txt": "in readiness for"
+  },
+  {
+   "t0": 17.48,
+   "t1": 17.743,
+   "txt": "use."
+  },
+  {
+   "t0": 18.094,
+   "t1": 19.163,
+   "txt": "It's called golf"
+  },
+  {
+   "t0": 19.163,
+   "t1": 19.965,
+   "txt": "ball and tee"
+  },
+  {
+   "t0": 19.965,
+   "t1": 21.102,
+   "txt": "handling devices."
+  },
+  {
+   "t0": 21.522,
+   "t1": 22.162,
+   "txt": "And it was"
+  },
+  {
+   "t0": 22.162,
+   "t1": 22.738,
+   "txt": "approved."
+  },
+  {
+   "t0": 23.239,
+   "t1": 24.106,
+   "txt": "The whole point,"
+  },
+  {
+   "t0": 24.106,
+   "t1": 24.919,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 24.919,
+   "t1": 25.244,
+   "txt": "words:"
+  },
+  {
+   "t0": 25.595,
+   "t1": 26.801,
+   "txt": "Without stooping or"
+  },
+  {
+   "t0": 26.801,
+   "t1": 27.627,
+   "txt": "bending over,"
+  },
+  {
+   "t0": 27.627,
+   "t1": 28.515,
+   "txt": "the player may"
+  },
+  {
+   "t0": 28.515,
+   "t1": 29.849,
+   "txt": "then press downwardly"
+  },
+  {
+   "t0": 29.849,
+   "t1": 30.864,
+   "txt": "upon the handle."
+  },
+  {
+   "t0": 31.315,
+   "t1": 31.882,
+   "txt": "All this,"
+  },
+  {
+   "t0": 31.882,
+   "t1": 32.889,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 32.889,
+   "t1": 33.897,
+   "txt": "while the player"
+  },
+  {
+   "t0": 33.897,
+   "t1": 34.652,
+   "txt": "remains in a"
+  },
+  {
+   "t0": 34.652,
+   "t1": 35.219,
+   "txt": "straight,"
+  },
+  {
+   "t0": 35.219,
+   "t1": 36.478,
+   "txt": "upstanding position."
+  },
+  {
+   "t0": 36.929,
+   "t1": 37.596,
+   "txt": "A hook pulls"
+  },
+  {
+   "t0": 37.596,
+   "t1": 38.264,
+   "txt": "the tee back"
+  },
+  {
+   "t0": 38.264,
+   "t1": 38.486,
+   "txt": "out."
+  },
+  {
+   "t0": 38.766,
+   "t1": 39.81,
+   "txt": "Also without the"
+  },
+  {
+   "t0": 39.81,
+   "t1": 41.18,
+   "txt": "necessity of stooping"
+  },
+  {
+   "t0": 41.18,
+   "t1": 42.159,
+   "txt": "or bending over"
+  },
+  {
+   "t0": 42.159,
+   "t1": 43.268,
+   "txt": "for that purpose."
+  },
+  {
+   "t0": 43.619,
+   "t1": 44.782,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 44.782,
+   "t1": 45.603,
+   "txt": "fifty-eight."
+  },
+  {
+   "t0": 46.103,
+   "t1": 47.596,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 47.596,
+   "t1": 48.044,
+   "txt": "sixty."
+  },
+  {
+   "t0": 48.495,
+   "t1": 49.647,
+   "txt": "Standing straight."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.018
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.084
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 18.094
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 23.239
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 25.595
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 31.315
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 36.929
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 43.619
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 48.495
+  }
+ ],
+ "hook": "NEVER [BEND]|OVER AGAIN",
+ "hook2": "THE GOLF TEE|[HELPER] \u00b7 1960",
+ "hookSwitch": 3,
+ "num": "US 2,943,856"
+}

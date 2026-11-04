@@ -1,0 +1,78 @@
+2,041,346
+
+1t
+twa senses, and sensing means in said bridge network
+responsive ‘to’ said “modifications for sélectively deener-
+gizing said control means to release one or the other of
+said clutch means.
+
+18. A remote ‘controlled lawn mower system supplied
+with tractive and cutting power from an alternating cur-
+rent circuit terminated i in a motor which comprises a pair
+of tractive power transfer links between said motor and
+the sides of said. mower each including a releasable belt
+drive, a sensing network connected across. said circuit,
+tensioning means for each of said belt drives, control
+means for each of said tensioning means coupled to said
+sensing network and excited from said circuit normally
+to tension said belts for transmission of said tractive
+power to both sides of said mower, means in said cir-
+cuit at a point remote from said lawn mower for produc-
+ing selective modification of said alternating current in
+one or the other of two senses, and means in said sensing
+network responsive to said modification for selectively
+actuating said control means to release tension on one
+or the other of said drives.
+
+19. The method of remote control of a lawn mower
+supplied with tractive power from an alternating current
+power circuit which comprises selectively producing at
+a point remote from said lawn mower a modification of
+the character of electrical energy in said power circuit
+of a first sense upon a rotational motion in clockwise
+direction and of a'second sense upon a rotational motion
+in a counterclockwise direction, at said mower sensing
+
+oA
+
+19
+
+15
+
+20
+
+25
+
+12
+said modification of said first sense to produce clock-
+wise fFotational motion of said mower, and’ sensing said
+modification ‘of said’ second sense to produce counter-
+clockwise rotational motion of said mower.
+
+References Cited in the file of this patent
+UNITED STATES PATENTS
+
+694,791 Sack ~_---------~----- Mar. 4, 1902
+1,170,877 Colwell et al. ----.----- Feb. 8, 1916
+1,461,323 Peters ...-------~------ July 19, 1923
+1,627,252 Peters  -..------------ May 3, 1927
+
+_ 1,764,851 Palm —~-------------- June 17, 1930
+1,778,465 Ozanne —_....---------+-- Oct. 14, 1930
+1,779,583 Blydenburgh ~~..------ Oct. 28, 1930
+1,794,446 Davis ---1...--------- Mar. 3, 1931
+2,133,512 Herge ~-.------------- Oct. 18, 1938
+2,155,343 Bonanno —_.-~~--_---- Apr. 18, 1939
+2,213,384 Conwell et al. ------2_-- Sept. 3, 1940
+2,266,851 Conwell et al. .-....--__ Dec, 23, 1941
+2,331,144 Sitter ---..-------.---- Cct. 5, 1943
+2,494,873 Wall .-------.-------- Jan. 17, 1950
+2,513,868 Hill .-201-- eee Tuly 4, 1950
+2,521,262 Smith ..-------------- Sept. 5, 1950
+2,566,512 Bilderbeck _-...-----_-- Sept. 4, 1951
+2,581,119 Matteoli’ -.---.---_---..- Jan. 1, 1952
+2,690,043 Marihart --..--------- Sept. 28, 1954
+2,698,507 Siébring ...------------2 Jan. 4, 1955
+2,708,977 Scheppé ~-___-_------- May 24, 1955
+
+ce tameatereisbatt

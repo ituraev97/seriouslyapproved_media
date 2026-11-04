@@ -6,7 +6,7 @@ Status: todo | done YYYY-MM-DD | skip (reason). Formats rotate by weekday (RUNBO
 | 001 | THE SHELF | Real Patents Nobody Asked For (pilot, mixed themes) | done 2026-11-02 |
 | 002 | THE SHELF | Patents for Your Cat | done 2026-11-03 |
 | 003 | ONE PATENT | The Kissing Shield (1998) | skip (US 5,727,565 already in used_patents.json — 000-test) |
-| 004 | THE SHELF | Inventions for Very Lazy People | todo |
+| 004 | THE SHELF | Inventions for Very Lazy People | done 2026-11-05 |
 | 005 | DID IT WORK? | Weird Patents That Actually Sold | todo |
 | 006 | THE SHELF | Hats That Do Too Much | todo |
 | 007 | THE YEAR FILE | The Weirdest Patents of 1895 | todo |

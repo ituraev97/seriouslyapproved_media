@@ -1,0 +1,6273 @@
+{
+ "T": 644.77,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 4.309,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.758
+    ],
+    [
+     2.258,
+     3.858
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair1",
+   "figno": "1",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988"
+  },
+  {
+   "t0": 4.309,
+   "t1": 11.257,
+   "i": 1,
+   "segs": [
+    [
+     4.309,
+     6.293
+    ],
+    [
+     6.573,
+     9.261
+    ],
+    [
+     9.541,
+     10.906
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair1",
+   "figno": "1",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988",
+   "draw": false,
+   "calls": [
+    [
+     "CAN HOLDER",
+     363,
+     328,
+     60,
+     -60
+    ],
+    [
+     "FRIDGE",
+     258,
+     450,
+     -60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 11.257,
+   "t1": 12.868,
+   "i": 2,
+   "segs": [
+    [
+     11.257,
+     12.367
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHAIR WITH REFRIGERATOR AND|ARMREST BEVERAGE COOLER",
+   "filed": "AUG. 18, 1986",
+   "date": "JAN. 19, 1988",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988"
+  },
+  {
+   "t0": 12.868,
+   "t1": 25.155,
+   "i": 3,
+   "segs": [
+    [
+     12.868,
+     14.34
+    ],
+    [
+     14.62,
+     15.75
+    ],
+    [
+     16.03,
+     18.526
+    ],
+    [
+     18.806,
+     21.622
+    ],
+    [
+     21.902,
+     24.804
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE SHELF \u00b7 FILE 004",
+   "title": "8 Real Patents for|Very Lazy People",
+   "lines": [
+    "Real drawings. Real quotes.",
+    "Really approved."
+   ],
+   "stamp": true,
+   "at": 7.0,
+   "hook": "FOR VERY|[LAZY] PEOPLE",
+   "side": "FILE 004 \u00b7 THE SHELF"
+  },
+  {
+   "t0": 25.155,
+   "t1": 27.322,
+   "i": 4,
+   "segs": [
+    [
+     25.155,
+     25.987
+    ],
+    [
+     26.267,
+     26.971
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 1 OF 8",
+   "numeral": "1",
+   "title": "Vibrating|Back Scratcher",
+   "lines": [
+    "US 4,091,805",
+    "Filed 1977 \u00b7 Issued 1978"
+   ],
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978"
+  },
+  {
+   "t0": 27.322,
+   "t1": 30.939,
+   "i": 5,
+   "segs": [
+    [
+     27.322,
+     28.794
+    ],
+    [
+     29.074,
+     30.588
+    ]
+   ],
+   "g": "fig",
+   "fig": "scr1",
+   "figno": "1",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978"
+  },
+  {
+   "t0": 30.939,
+   "t1": 35.989,
+   "i": 6,
+   "segs": [
+    [
+     30.939,
+     32.454
+    ],
+    [
+     32.734,
+     33.779
+    ],
+    [
+     34.059,
+     35.638
+    ]
+   ],
+   "g": "fig",
+   "fig": "scr1",
+   "figno": "1",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978",
+   "draw": false,
+   "calls": [
+    [
+     "HAND",
+     120,
+     312,
+     -80,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 35.989,
+   "t1": 40.377,
+   "i": 7,
+   "segs": [
+    [
+     35.989,
+     36.736
+    ],
+    [
+     37.016,
+     38.317
+    ],
+    [
+     38.597,
+     40.026
+    ]
+   ],
+   "g": "fig",
+   "fig": "scr2",
+   "figno": "2",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978",
+   "calls": [
+    [
+     "HAND",
+     186,
+     66,
+     0,
+     70
+    ],
+    [
+     "HANDLE",
+     906,
+     66,
+     0,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 40.377,
+   "t1": 47.622,
+   "i": 8,
+   "segs": [
+    [
+     40.377,
+     41.551
+    ],
+    [
+     41.831,
+     47.271
+    ]
+   ],
+   "g": "quote",
+   "q": "of any suitable material such as, for example, plastic",
+   "hit": "plastic",
+   "src": "US 4,091,805 \u00b7 description",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978"
+  },
+  {
+   "t0": 47.622,
+   "t1": 50.341,
+   "i": 9,
+   "segs": [
+    [
+     47.622,
+     49.99
+    ]
+   ],
+   "g": "quote",
+   "q": "has a plurality of fingers bent in scratching position and a wrist",
+   "hit": "bent in scratching position",
+   "src": "US 4,091,805 \u00b7 description",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978",
+   "hide": true
+  },
+  {
+   "t0": 50.341,
+   "t1": 55.772,
+   "i": 10,
+   "segs": [
+    [
+     50.341,
+     53.925
+    ],
+    [
+     54.425,
+     55.321
+    ]
+   ],
+   "g": "quote",
+   "q": "has a plurality of fingers bent in scratching position and a wrist",
+   "hit": "bent in scratching position",
+   "src": "US 4,091,805 \u00b7 description",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978",
+   "typed": false
+  },
+  {
+   "t0": 55.772,
+   "t1": 64.851,
+   "i": 11,
+   "segs": [
+    [
+     55.772,
+     60.124
+    ],
+    [
+     60.404,
+     64.5
+    ]
+   ],
+   "g": "quote",
+   "q": "for vibrating the rod in axial directions",
+   "hit": "axial directions",
+   "src": "US 4,091,805 \u00b7 description",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978"
+  },
+  {
+   "t0": 64.851,
+   "t1": 72.308,
+   "i": 12,
+   "segs": [
+    [
+     64.851,
+     68.2
+    ],
+    [
+     68.48,
+     71.957
+    ]
+   ],
+   "g": "quote",
+   "q": "so that it is readily extended to an electric wall outlet for the recharging power",
+   "hit": "electric wall outlet",
+   "src": "US 4,091,805 \u00b7 description",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978"
+  },
+  {
+   "t0": 72.308,
+   "t1": 82.473,
+   "i": 13,
+   "segs": [
+    [
+     72.308,
+     82.122
+    ]
+   ],
+   "g": "quote",
+   "q": "used with facility, convenience and safety",
+   "hit": "with facility",
+   "src": "US 4,091,805 \u00b7 background",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978"
+  },
+  {
+   "t0": 82.473,
+   "t1": 90.326,
+   "i": 14,
+   "segs": [
+    [
+     82.473,
+     89.875
+    ]
+   ],
+   "g": "quote",
+   "q": "functions efficiently, effectively and reliably to scratch the back of a user",
+   "hit": "scratch the back of a user",
+   "src": "US 4,091,805 \u00b7 background",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978"
+  },
+  {
+   "t0": 90.326,
+   "t1": 94.883,
+   "i": 15,
+   "segs": [
+    [
+     90.326,
+     91.969
+    ],
+    [
+     92.469,
+     94.432
+    ]
+   ],
+   "g": "stamp",
+   "title": "VIBRATING|BACK SCRATCHER",
+   "filed": "MAR. 18, 1977",
+   "date": "MAY 30, 1978",
+   "num": "US 4,091,805",
+   "hook": "A HAND|ON A [STICK]",
+   "side": "US 4,091,805 \u00b7 1978",
+   "at": 1.8
+  },
+  {
+   "t0": 94.883,
+   "t1": 97.092,
+   "i": 16,
+   "segs": [
+    [
+     94.883,
+     95.757
+    ],
+    [
+     96.037,
+     96.741
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 2 OF 8",
+   "numeral": "2",
+   "title": "Ice Cream|Server",
+   "lines": [
+    "US 4,850,843",
+    "Filed 1988 \u00b7 Issued 1989"
+   ],
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 97.092,
+   "t1": 99.278,
+   "i": 17,
+   "segs": [
+    [
+     97.092,
+     98.927
+    ]
+   ],
+   "g": "quote",
+   "q": "The user must struggle to dislodge a scoop or just wait until the ice cream warms sufficiently to soften.",
+   "hit": "just wait",
+   "src": "US 4,850,843 \u00b7 background",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989",
+   "hide": true
+  },
+  {
+   "t0": 99.278,
+   "t1": 106.8,
+   "i": 18,
+   "segs": [
+    [
+     99.278,
+     101.753
+    ],
+    [
+     102.253,
+     106.349
+    ]
+   ],
+   "g": "quote",
+   "q": "The user must struggle to dislodge a scoop or just wait until the ice cream warms sufficiently to soften.",
+   "hit": "just wait",
+   "src": "US 4,850,843 \u00b7 background",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989",
+   "typed": false
+  },
+  {
+   "t0": 106.8,
+   "t1": 111.057,
+   "i": 19,
+   "segs": [
+    [
+     106.8,
+     108.442
+    ],
+    [
+     108.722,
+     110.706
+    ]
+   ],
+   "g": "fig",
+   "fig": "ice1",
+   "figno": "1",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 111.057,
+   "t1": 117.387,
+   "i": 20,
+   "segs": [
+    [
+     111.057,
+     112.508
+    ],
+    [
+     112.788,
+     113.492
+    ],
+    [
+     113.772,
+     117.036
+    ]
+   ],
+   "g": "fig",
+   "fig": "ice1",
+   "figno": "1",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989",
+   "draw": false,
+   "calls": [
+    [
+     "MOTOR",
+     294,
+     354,
+     -80,
+     -40
+    ],
+    [
+     "SAW TEETH",
+     337,
+     630,
+     90,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 117.387,
+   "t1": 120.597,
+   "i": 21,
+   "segs": [
+    [
+     117.387,
+     120.246
+    ]
+   ],
+   "g": "quote",
+   "q": "cut into the ice cream at the push of a button",
+   "hit": "push of a button",
+   "src": "US 4,850,843 \u00b7 summary",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 120.597,
+   "t1": 129.889,
+   "i": 22,
+   "segs": [
+    [
+     120.597,
+     122.197
+    ],
+    [
+     122.697,
+     129.438
+    ]
+   ],
+   "g": "quote",
+   "q": "such as the type utilized in commercially available battery-powered screwdrivers",
+   "hit": "battery-powered screwdrivers",
+   "src": "US 4,850,843 \u00b7 description",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 129.889,
+   "t1": 135.728,
+   "i": 23,
+   "segs": [
+    [
+     129.889,
+     131.169
+    ],
+    [
+     131.449,
+     133.326
+    ],
+    [
+     133.606,
+     135.377
+    ]
+   ],
+   "g": "fig",
+   "fig": "ice23",
+   "figno": "2 & 3",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 135.728,
+   "t1": 142.588,
+   "i": 24,
+   "segs": [
+    [
+     135.728,
+     138.288
+    ],
+    [
+     138.568,
+     142.237
+    ]
+   ],
+   "g": "quote",
+   "q": "Of course, these dimensions are not critical",
+   "hit": "not critical",
+   "src": "US 4,850,843 \u00b7 description",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 142.588,
+   "t1": 150.817,
+   "i": 25,
+   "segs": [
+    [
+     142.588,
+     144.295
+    ],
+    [
+     144.575,
+     147.007
+    ],
+    [
+     147.287,
+     150.466
+    ]
+   ],
+   "g": "quote",
+   "q": "seals against moisture/water when washed",
+   "hit": "when washed",
+   "src": "US 4,850,843 \u00b7 description",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 150.817,
+   "t1": 157.61,
+   "i": 26,
+   "segs": [
+    [
+     150.817,
+     157.259
+    ]
+   ],
+   "g": "quote",
+   "q": "Thus, the ice cream server makes the scooping of hard ice cream far more convenient.",
+   "hit": "far more convenient",
+   "src": "US 4,850,843 \u00b7 summary",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 157.61,
+   "t1": 163.053,
+   "i": 27,
+   "segs": [
+    [
+     157.61,
+     162.602
+    ]
+   ],
+   "g": "quote",
+   "q": "especially if the ice cream is hard and the container nearly empty",
+   "hit": "nearly empty",
+   "src": "US 4,850,843 \u00b7 description",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989"
+  },
+  {
+   "t0": 163.053,
+   "t1": 167.503,
+   "i": 28,
+   "segs": [
+    [
+     163.053,
+     164.568
+    ],
+    [
+     165.068,
+     167.052
+    ]
+   ],
+   "g": "stamp",
+   "title": "ICE CREAM|SERVER",
+   "filed": "AUG. 9, 1988",
+   "date": "JUL. 25, 1989",
+   "num": "US 4,850,843",
+   "hook": "THE [POWER]|SCOOP",
+   "side": "US 4,850,843 \u00b7 1989",
+   "at": 1.8
+  },
+  {
+   "t0": 167.503,
+   "t1": 170.097,
+   "i": 29,
+   "segs": [
+    [
+     167.503,
+     168.42
+    ],
+    [
+     168.7,
+     169.746
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 3 OF 8",
+   "numeral": "3",
+   "title": "Golf Ball and Tee|Handling Devices",
+   "lines": [
+    "US 2,943,856",
+    "Filed 1958 \u00b7 Issued 1960"
+   ],
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 170.097,
+   "t1": 175.954,
+   "i": 30,
+   "segs": [
+    [
+     170.097,
+     172.763
+    ],
+    [
+     173.043,
+     175.603
+    ]
+   ],
+   "g": "fig",
+   "fig": "golf12",
+   "figno": "1 & 2",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 175.954,
+   "t1": 185.484,
+   "i": 31,
+   "segs": [
+    [
+     175.954,
+     177.384
+    ],
+    [
+     177.664,
+     178.986
+    ],
+    [
+     179.266,
+     185.133
+    ]
+   ],
+   "g": "quote",
+   "q": "Without stooping or bending over, the player may then press downwardly upon the handle",
+   "hit": "Without stooping or bending over",
+   "src": "US 2,943,856 \u00b7 description",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 185.484,
+   "t1": 193.712,
+   "i": 32,
+   "segs": [
+    [
+     185.484,
+     189.367
+    ],
+    [
+     189.647,
+     190.927
+    ],
+    [
+     191.207,
+     193.361
+    ]
+   ],
+   "g": "fig",
+   "fig": "golf12",
+   "figno": "1 & 2",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960",
+   "draw": false,
+   "calls": [
+    [
+     "BALL",
+     606,
+     252,
+     80,
+     -40
+    ],
+    [
+     "TEE",
+     232,
+     470,
+     -70,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 193.712,
+   "t1": 200.085,
+   "i": 33,
+   "segs": [
+    [
+     193.712,
+     195.398
+    ],
+    [
+     195.678,
+     196.808
+    ],
+    [
+     197.088,
+     199.734
+    ]
+   ],
+   "g": "fig",
+   "fig": "golf4",
+   "figno": "4",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 200.085,
+   "t1": 205.345,
+   "i": 34,
+   "segs": [
+    [
+     200.085,
+     201.13
+    ],
+    [
+     201.41,
+     204.994
+    ]
+   ],
+   "g": "quote",
+   "q": "in readiness for use",
+   "hit": "in readiness for use",
+   "src": "US 2,943,856 \u00b7 description",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 205.345,
+   "t1": 210.959,
+   "i": 35,
+   "segs": [
+    [
+     205.345,
+     210.508
+    ]
+   ],
+   "g": "quote",
+   "q": "while the player remains in a straight, upstanding position",
+   "hit": "straight, upstanding position",
+   "src": "US 2,943,856 \u00b7 description",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 210.959,
+   "t1": 218.544,
+   "i": 36,
+   "segs": [
+    [
+     210.959,
+     213.412
+    ],
+    [
+     213.692,
+     218.193
+    ]
+   ],
+   "g": "quote",
+   "q": "also without the necessity of stooping or bending over for that purpose",
+   "hit": "for that purpose",
+   "src": "US 2,943,856 \u00b7 description",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 218.544,
+   "t1": 223.25,
+   "i": 37,
+   "segs": [
+    [
+     218.544,
+     220.806
+    ],
+    [
+     221.086,
+     222.899
+    ]
+   ],
+   "g": "quote",
+   "q": "the device may be attached to a golf bag or to wearing apparel of the player",
+   "hit": "wearing apparel",
+   "src": "US 2,943,856 \u00b7 description",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 223.25,
+   "t1": 232.284,
+   "i": 38,
+   "segs": [
+    [
+     223.25,
+     231.933
+    ]
+   ],
+   "g": "quote",
+   "q": "in its adaptability to economical manufacture",
+   "hit": "economical manufacture",
+   "src": "US 2,943,856 \u00b7 description",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960"
+  },
+  {
+   "t0": 232.284,
+   "t1": 236.157,
+   "i": 39,
+   "segs": [
+    [
+     232.284,
+     233.457
+    ],
+    [
+     233.957,
+     235.706
+    ]
+   ],
+   "g": "stamp",
+   "title": "GOLF BALL AND TEE|HANDLING DEVICES",
+   "filed": "MAR. 20, 1958",
+   "date": "JUL. 5, 1960",
+   "num": "US 2,943,856",
+   "hook": "NEVER [BEND]|OVER AGAIN",
+   "side": "US 2,943,856 \u00b7 1960",
+   "at": 1.6
+  },
+  {
+   "t0": 236.157,
+   "t1": 240.183,
+   "i": 40,
+   "segs": [
+    [
+     236.157,
+     237.075
+    ],
+    [
+     237.355,
+     238.101
+    ],
+    [
+     238.381,
+     239.832
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 4 OF 8",
+   "numeral": "4",
+   "title": "Remote Control|of a Lawn Mower",
+   "lines": [
+    "US 2,941,346",
+    "Filed 1953 \u00b7 Issued 1960"
+   ],
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960"
+  },
+  {
+   "t0": 240.183,
+   "t1": 246.769,
+   "i": 41,
+   "segs": [
+    [
+     240.183,
+     241.676
+    ],
+    [
+     241.956,
+     242.938
+    ],
+    [
+     243.218,
+     246.418
+    ]
+   ],
+   "g": "fig",
+   "fig": "lawn2",
+   "figno": "2",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960",
+   "calls": [
+    [
+     "CONTROL BOX",
+     828,
+     612,
+     -60,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 246.769,
+   "t1": 250.173,
+   "i": 42,
+   "segs": [
+    [
+     246.769,
+     248.027
+    ],
+    [
+     248.307,
+     249.822
+    ]
+   ],
+   "g": "fig",
+   "fig": "lawn2",
+   "figno": "2",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960",
+   "draw": false
+  },
+  {
+   "t0": 250.173,
+   "t1": 259.444,
+   "i": 43,
+   "segs": [
+    [
+     250.173,
+     251.88
+    ],
+    [
+     252.16,
+     259.093
+    ]
+   ],
+   "g": "quote",
+   "q": "Remote control, requiring positive and certain action, in general involves complex instrumentation.",
+   "hit": "complex instrumentation",
+   "src": "US 2,941,346 \u00b7 col. 1",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960"
+  },
+  {
+   "t0": 259.444,
+   "t1": 266.819,
+   "i": 44,
+   "segs": [
+    [
+     259.444,
+     260.425
+    ],
+    [
+     260.705,
+     263.351
+    ],
+    [
+     263.631,
+     266.468
+    ]
+   ],
+   "g": "quote",
+   "q": "does not require complex instrumentation, separate control circuits, or the use of radio",
+   "hit": "the use of radio",
+   "src": "US 2,941,346 \u00b7 col. 1",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960"
+  },
+  {
+   "t0": 266.819,
+   "t1": 274.834,
+   "i": 45,
+   "segs": [
+    [
+     266.819,
+     267.779
+    ],
+    [
+     268.059,
+     272.539
+    ],
+    [
+     272.819,
+     274.483
+    ]
+   ],
+   "g": "quote",
+   "q": "may be confusing",
+   "hit": "may be confusing",
+   "src": "US 2,941,346 \u00b7 col. 4",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960"
+  },
+  {
+   "t0": 274.834,
+   "t1": 282.676,
+   "i": 46,
+   "segs": [
+    [
+     274.834,
+     276.157
+    ],
+    [
+     276.437,
+     282.325
+    ]
+   ],
+   "g": "quote",
+   "q": "Mere rotation of control knob 13c will cause corresponding \u201crotation\u201d of the mower.",
+   "hit": "corresponding \u201crotation\u201d",
+   "src": "US 2,941,346 \u00b7 col. 7",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960"
+  },
+  {
+   "t0": 282.676,
+   "t1": 289.003,
+   "i": 47,
+   "segs": [
+    [
+     282.676,
+     285.108
+    ],
+    [
+     285.388,
+     288.652
+    ]
+   ],
+   "g": "fig",
+   "fig": "lawn3",
+   "figno": "3",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960",
+   "calls": [
+    [
+     "CABLE REEL",
+     444,
+     66,
+     90,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 289.003,
+   "t1": 298.176,
+   "i": 48,
+   "segs": [
+    [
+     289.003,
+     291.072
+    ],
+    [
+     291.572,
+     293.897
+    ],
+    [
+     294.397,
+     297.725
+    ]
+   ],
+   "g": "quote",
+   "q": "automatic grass hunting system",
+   "hit": "grass hunting",
+   "src": "US 2,941,346 \u00b7 col. 7",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960"
+  },
+  {
+   "t0": 298.176,
+   "t1": 304.378,
+   "i": 49,
+   "segs": [
+    [
+     298.176,
+     301.099
+    ],
+    [
+     301.379,
+     302.723
+    ],
+    [
+     303.003,
+     304.027
+    ]
+   ],
+   "g": "fig",
+   "fig": "lawn4",
+   "figno": "4",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960",
+   "calls": [
+    [
+     "FEELER ARMS",
+     258,
+     474,
+     60,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 304.378,
+   "t1": 310.29,
+   "i": 50,
+   "segs": [
+    [
+     304.378,
+     309.839
+    ]
+   ],
+   "g": "quote",
+   "q": "When the entire area has been cut the mower will merely propel itself in a tight circle",
+   "hit": "a tight circle",
+   "src": "US 2,941,346 \u00b7 col. 7",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960"
+  },
+  {
+   "t0": 310.29,
+   "t1": 317.779,
+   "i": 51,
+   "segs": [
+    [
+     310.29,
+     312.338
+    ],
+    [
+     312.838,
+     315.078
+    ],
+    [
+     315.578,
+     317.328
+    ]
+   ],
+   "g": "stamp",
+   "title": "METHOD AND APPARATUS FOR THE|REMOTE CONTROL OF A LAWN MOWER",
+   "filed": "NOV. 2, 1953",
+   "date": "JUN. 21, 1960",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960",
+   "at": 2.8
+  },
+  {
+   "t0": 317.779,
+   "t1": 320.116,
+   "i": 52,
+   "segs": [
+    [
+     317.779,
+     318.739
+    ],
+    [
+     319.019,
+     319.765
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 5 OF 8",
+   "numeral": "5",
+   "title": "Mechanically Assisted Animal|Self Grooming Device",
+   "lines": [
+    "US 5,540,186",
+    "Filed 1994 \u00b7 Issued 1996"
+   ],
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996"
+  },
+  {
+   "t0": 320.116,
+   "t1": 329.369,
+   "i": 53,
+   "segs": [
+    [
+     320.116,
+     322.015
+    ],
+    [
+     322.295,
+     324.898
+    ],
+    [
+     325.178,
+     329.018
+    ]
+   ],
+   "g": "quote",
+   "q": "all of these devices require human assistance to be useful",
+   "hit": "human assistance",
+   "src": "US 5,540,186 \u00b7 prior art",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996"
+  },
+  {
+   "t0": 329.369,
+   "t1": 331.768,
+   "i": 54,
+   "segs": [
+    [
+     329.369,
+     331.417
+    ]
+   ],
+   "g": "quote",
+   "q": "Most animals will remain appreciative for extended periods of time, when brushes are moved against their bodies by the human hand.",
+   "hit": "appreciative for extended periods",
+   "src": "US 5,540,186 \u00b7 summary",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996",
+   "hide": true
+  },
+  {
+   "t0": 331.768,
+   "t1": 340.581,
+   "i": 55,
+   "segs": [
+    [
+     331.768,
+     340.13
+    ]
+   ],
+   "g": "quote",
+   "q": "Most animals will remain appreciative for extended periods of time, when brushes are moved against their bodies by the human hand.",
+   "hit": "appreciative for extended periods",
+   "src": "US 5,540,186 \u00b7 summary",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996",
+   "typed": false
+  },
+  {
+   "t0": 340.581,
+   "t1": 347.554,
+   "i": 56,
+   "segs": [
+    [
+     340.581,
+     342.416
+    ],
+    [
+     342.696,
+     343.699
+    ],
+    [
+     343.979,
+     344.683
+    ],
+    [
+     344.963,
+     347.203
+    ]
+   ],
+   "g": "fig",
+   "fig": "groom1a",
+   "figno": "1a",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996",
+   "calls": [
+    [
+     "BRUSH",
+     474,
+     372,
+     100,
+     0
+    ],
+    [
+     "MOTOR",
+     522,
+     612,
+     100,
+     20
+    ]
+   ]
+  },
+  {
+   "t0": 347.554,
+   "t1": 353.305,
+   "i": 57,
+   "segs": [
+    [
+     347.554,
+     349.73
+    ],
+    [
+     350.01,
+     352.954
+    ]
+   ],
+   "g": "quote",
+   "q": "to simulate the brushing movements of the human hand",
+   "hit": "the human hand",
+   "src": "US 5,540,186 \u00b7 summary",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996"
+  },
+  {
+   "t0": 353.305,
+   "t1": 363.285,
+   "i": 58,
+   "segs": [
+    [
+     353.305,
+     354.905
+    ],
+    [
+     355.185,
+     358.47
+    ],
+    [
+     358.75,
+     360.862
+    ],
+    [
+     361.142,
+     362.934
+    ]
+   ],
+   "g": "quote",
+   "q": "harmless to an animal upon chewing into the line cord",
+   "hit": "chewing into the line cord",
+   "src": "US 5,540,186 \u00b7 description",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996"
+  },
+  {
+   "t0": 363.285,
+   "t1": 369.377,
+   "i": 59,
+   "segs": [
+    [
+     363.285,
+     366.976
+    ],
+    [
+     367.256,
+     369.026
+    ]
+   ],
+   "g": "fig",
+   "fig": "groom1a",
+   "figno": "1a",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996",
+   "draw": false,
+   "ring": [
+    486,
+    48,
+    170
+   ]
+  },
+  {
+   "t0": 369.377,
+   "t1": 376.963,
+   "i": 60,
+   "segs": [
+    [
+     369.377,
+     371.532
+    ],
+    [
+     372.032,
+     376.512
+    ]
+   ],
+   "g": "quote",
+   "q": "sounds of a mouse, or a human talking to an animal",
+   "hit": "a human talking to an animal",
+   "src": "US 5,540,186 \u00b7 description",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996"
+  },
+  {
+   "t0": 376.963,
+   "t1": 381.197,
+   "i": 61,
+   "segs": [
+    [
+     376.963,
+     380.846
+    ]
+   ],
+   "g": "quote",
+   "q": "as an incentive for an animal to frequent the device more often",
+   "hit": "more often",
+   "src": "US 5,540,186 \u00b7 description",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996"
+  },
+  {
+   "t0": 381.197,
+   "t1": 387.865,
+   "i": 62,
+   "segs": [
+    [
+     381.197,
+     383.543
+    ],
+    [
+     383.823,
+     387.514
+    ]
+   ],
+   "g": "fig",
+   "fig": "groom1b",
+   "figno": "1b",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996"
+  },
+  {
+   "t0": 387.865,
+   "t1": 396.731,
+   "i": 63,
+   "segs": [
+    [
+     387.865,
+     390.382
+    ],
+    [
+     390.882,
+     396.28
+    ]
+   ],
+   "g": "quote",
+   "q": "Yet another object is that the present invention produces a synergistic effect.",
+   "hit": "synergistic effect",
+   "src": "US 5,540,186 \u00b7 summary",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996"
+  },
+  {
+   "t0": 396.731,
+   "t1": 401.351,
+   "i": 64,
+   "segs": [
+    [
+     396.731,
+     398.416
+    ],
+    [
+     398.916,
+     400.9
+    ]
+   ],
+   "g": "stamp",
+   "title": "MECHANICALLY ASSISTED ANIMAL|SELF GROOMING DEVICE",
+   "filed": "DEC. 2, 1994",
+   "date": "JUL. 30, 1996",
+   "num": "US 5,540,186",
+   "hook": "THE PET|[BRUSHES ITSELF]",
+   "side": "US 5,540,186 \u00b7 1996",
+   "at": 1.8
+  },
+  {
+   "t0": 401.351,
+   "t1": 403.731,
+   "i": 65,
+   "segs": [
+    [
+     401.351,
+     402.247
+    ],
+    [
+     402.527,
+     403.38
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 6 OF 8",
+   "numeral": "6",
+   "title": "Bedmaking|Device",
+   "lines": [
+    "US 2,930,053",
+    "Filed 1959 \u00b7 Issued 1960"
+   ],
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960"
+  },
+  {
+   "t0": 403.731,
+   "t1": 412.341,
+   "i": 66,
+   "segs": [
+    [
+     403.731,
+     406.206
+    ],
+    [
+     406.486,
+     411.99
+    ]
+   ],
+   "g": "quote",
+   "q": "a great deal of walking about the bed, and also a considerable amount of bending over",
+   "hit": "bending over",
+   "src": "US 2,930,053 \u00b7 col. 1",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960"
+  },
+  {
+   "t0": 412.341,
+   "t1": 419.713,
+   "i": 67,
+   "segs": [
+    [
+     412.341,
+     413.194
+    ],
+    [
+     413.694,
+     419.262
+    ]
+   ],
+   "g": "quote",
+   "q": "since the work is routine and does not result in the creation of new economic wealth",
+   "hit": "new economic wealth",
+   "src": "US 2,930,053 \u00b7 col. 1",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960"
+  },
+  {
+   "t0": 419.713,
+   "t1": 427.768,
+   "i": 68,
+   "segs": [
+    [
+     419.713,
+     422.913
+    ],
+    [
+     423.193,
+     427.417
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed2",
+   "figno": "2",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960",
+   "calls": [
+    [
+     "PULL CORDS",
+     402,
+     306,
+     120,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 427.768,
+   "t1": 435.162,
+   "i": 69,
+   "segs": [
+    [
+     427.768,
+     429.624
+    ],
+    [
+     429.904,
+     434.811
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed1",
+   "figno": "1",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960"
+  },
+  {
+   "t0": 435.162,
+   "t1": 445.028,
+   "i": 70,
+   "segs": [
+    [
+     435.162,
+     444.677
+    ]
+   ],
+   "g": "quote",
+   "q": "draws the bed coverings to their desired tight, tucked-in, neat and unwrinkled position",
+   "hit": "neat and unwrinkled",
+   "src": "US 2,930,053 \u00b7 col. 3",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960"
+  },
+  {
+   "t0": 445.028,
+   "t1": 449.489,
+   "i": 71,
+   "segs": [
+    [
+     445.028,
+     449.038
+    ]
+   ],
+   "g": "quote",
+   "q": "countless hours of unproductive labor",
+   "hit": "countless hours",
+   "src": "US 2,930,053 \u00b7 col. 1",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960"
+  },
+  {
+   "t0": 449.489,
+   "t1": 453.576,
+   "i": 72,
+   "segs": [
+    [
+     449.489,
+     450.961
+    ],
+    [
+     451.241,
+     453.225
+    ]
+   ],
+   "g": "quote",
+   "q": "kicked-out covers may be automatically re-tucked into place by the bed occupant merely by flipping a switch",
+   "hit": "flipping a switch",
+   "src": "US 2,930,053 \u00b7 col. 1",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960",
+   "hide": true
+  },
+  {
+   "t0": 453.576,
+   "t1": 461.259,
+   "i": 73,
+   "segs": [
+    [
+     453.576,
+     460.808
+    ]
+   ],
+   "g": "quote",
+   "q": "kicked-out covers may be automatically re-tucked into place by the bed occupant merely by flipping a switch",
+   "hit": "flipping a switch",
+   "src": "US 2,930,053 \u00b7 col. 1",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960",
+   "typed": false
+  },
+  {
+   "t0": 461.259,
+   "t1": 466.562,
+   "i": 74,
+   "segs": [
+    [
+     461.259,
+     463.265
+    ],
+    [
+     463.545,
+     466.211
+    ]
+   ],
+   "g": "quote",
+   "q": "merely slip on the stub shafts 38 and no harm is done",
+   "hit": "no harm is done",
+   "src": "US 2,930,053 \u00b7 col. 3",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960"
+  },
+  {
+   "t0": 466.562,
+   "t1": 470.713,
+   "i": 75,
+   "segs": [
+    [
+     466.562,
+     468.013
+    ],
+    [
+     468.513,
+     470.262
+    ]
+   ],
+   "g": "stamp",
+   "title": "BEDMAKING|DEVICE",
+   "filed": "JAN. 22, 1959",
+   "date": "MAR. 29, 1960",
+   "num": "US 2,930,053",
+   "hook": "THE BED THAT|[MAKES ITSELF]",
+   "side": "US 2,930,053 \u00b7 1960",
+   "at": 1.6
+  },
+  {
+   "t0": 470.713,
+   "t1": 472.838,
+   "i": 76,
+   "segs": [
+    [
+     470.713,
+     471.631
+    ],
+    [
+     471.911,
+     472.487
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 7 OF 8",
+   "numeral": "7",
+   "title": "Motorized Twisting|Pasta Fork",
+   "lines": [
+    "US 5,062,211",
+    "Filed 1991 \u00b7 Issued 1991"
+   ],
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991"
+  },
+  {
+   "t0": 472.838,
+   "t1": 480.637,
+   "i": 77,
+   "segs": [
+    [
+     472.838,
+     474.715
+    ],
+    [
+     474.995,
+     480.286
+    ]
+   ],
+   "g": "quote",
+   "q": "the user's hand is turned and twisted so as to gather food, such as spaghetti, pasta or the like onto the tines of the fork",
+   "hit": "turned and twisted",
+   "src": "US 5,062,211 \u00b7 prior art",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991"
+  },
+  {
+   "t0": 480.637,
+   "t1": 487.232,
+   "i": 78,
+   "segs": [
+    [
+     480.637,
+     486.781
+    ]
+   ],
+   "g": "quote",
+   "q": "the only twisting motion is done by the wrist and hand of the user",
+   "hit": "wrist and hand of the user",
+   "src": "US 5,062,211 \u00b7 prior art",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991"
+  },
+  {
+   "t0": 487.232,
+   "t1": 492.02,
+   "i": 79,
+   "segs": [
+    [
+     487.232,
+     491.669
+    ]
+   ],
+   "g": "quote",
+   "q": "causing embarrassment to the user",
+   "hit": "embarrassment",
+   "src": "US 5,062,211 \u00b7 prior art",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991",
+   "hide": true
+  },
+  {
+   "t0": 492.02,
+   "t1": 494.462,
+   "i": 80,
+   "segs": [
+    [
+     492.02,
+     493.961
+    ]
+   ],
+   "g": "quote",
+   "q": "causing embarrassment to the user",
+   "hit": "embarrassment",
+   "src": "US 5,062,211 \u00b7 prior art",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991",
+   "typed": false
+  },
+  {
+   "t0": 494.462,
+   "t1": 505.525,
+   "i": 81,
+   "segs": [
+    [
+     494.462,
+     497.662
+    ],
+    [
+     497.942,
+     505.174
+    ]
+   ],
+   "g": "quote",
+   "q": "This procedure requires a visual coordination to follow collection of the food product on the forked end.",
+   "hit": "visual coordination",
+   "src": "US 5,062,211 \u00b7 prior art",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991"
+  },
+  {
+   "t0": 505.525,
+   "t1": 513.924,
+   "i": 82,
+   "segs": [
+    [
+     505.525,
+     507.915
+    ],
+    [
+     508.195,
+     510.733
+    ],
+    [
+     511.013,
+     513.573
+    ]
+   ],
+   "g": "fig",
+   "fig": "fork12",
+   "figno": "1 & 2",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991",
+   "calls": [
+    [
+     "BATTERY",
+     204,
+     372,
+     -90,
+     -30
+    ],
+    [
+     "MOTOR",
+     204,
+     600,
+     -90,
+     30
+    ],
+    [
+     "BUTTON",
+     600,
+     804,
+     90,
+     0
+    ]
+   ]
+  },
+  {
+   "t0": 513.924,
+   "t1": 520.166,
+   "i": 83,
+   "segs": [
+    [
+     513.924,
+     517.935
+    ],
+    [
+     518.215,
+     519.815
+    ]
+   ],
+   "g": "quote",
+   "q": "the central tine 34 is longer than the tines on its opposite sides so as to form a pivoting point",
+   "hit": "pivoting point",
+   "src": "US 5,062,211 \u00b7 description",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991"
+  },
+  {
+   "t0": 520.166,
+   "t1": 526.685,
+   "i": 84,
+   "segs": [
+    [
+     520.166,
+     521.318
+    ],
+    [
+     521.598,
+     526.334
+    ]
+   ],
+   "g": "quote",
+   "q": "retain the food in place while the implement is being raised to the user's mouth",
+   "hit": "raised to the user's mouth",
+   "src": "US 5,062,211 \u00b7 summary",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991"
+  },
+  {
+   "t0": 526.685,
+   "t1": 533.335,
+   "i": 85,
+   "segs": [
+    [
+     526.685,
+     529.928
+    ],
+    [
+     530.208,
+     531.36
+    ],
+    [
+     531.64,
+     532.984
+    ]
+   ],
+   "g": "fig",
+   "fig": "fork12",
+   "figno": "1 & 2",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991",
+   "draw": false
+  },
+  {
+   "t0": 533.335,
+   "t1": 537.336,
+   "i": 86,
+   "segs": [
+    [
+     533.335,
+     534.444
+    ],
+    [
+     534.944,
+     536.885
+    ]
+   ],
+   "g": "stamp",
+   "title": "MOTORIZED TWISTING|PASTA FORK",
+   "filed": "MAR. 4, 1991",
+   "date": "NOV. 5, 1991",
+   "num": "US 5,062,211",
+   "hook": "THE [MOTORIZED]|PASTA FORK",
+   "side": "US 5,062,211 \u00b7 1991",
+   "at": 1.6
+  },
+  {
+   "t0": 537.336,
+   "t1": 539.951,
+   "i": 87,
+   "segs": [
+    [
+     537.336,
+     538.296
+    ],
+    [
+     538.576,
+     539.6
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 8 OF 8",
+   "numeral": "8",
+   "title": "Chair with Refrigerator and|Armrest Beverage Cooler",
+   "lines": [
+    "US 4,719,764",
+    "Filed 1986 \u00b7 Issued 1988"
+   ],
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988"
+  },
+  {
+   "t0": 539.951,
+   "t1": 547.9,
+   "i": 88,
+   "segs": [
+    [
+     539.951,
+     541.615
+    ],
+    [
+     541.895,
+     547.549
+    ]
+   ],
+   "g": "quote",
+   "q": "Chairs have been constructed with various features ancillary to the usual function of a chair",
+   "hit": "ancillary",
+   "src": "US 4,719,764 \u00b7 col. 1",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988"
+  },
+  {
+   "t0": 547.9,
+   "t1": 555.677,
+   "i": 89,
+   "segs": [
+    [
+     547.9,
+     554.172
+    ],
+    [
+     554.452,
+     555.326
+    ]
+   ],
+   "g": "quote",
+   "q": "none of the above patents utilizes a chair with a refrigeration system incorporated therein",
+   "hit": "refrigeration system",
+   "src": "US 4,719,764 \u00b7 col. 1",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988"
+  },
+  {
+   "t0": 555.677,
+   "t1": 564.332,
+   "i": 90,
+   "segs": [
+    [
+     555.677,
+     556.915
+    ],
+    [
+     557.195,
+     562.037
+    ],
+    [
+     562.317,
+     563.981
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair4",
+   "figno": "4",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988",
+   "calls": [
+    [
+     "COMPRESSOR",
+     318,
+     828,
+     -40,
+     70
+    ],
+    [
+     "FRIDGE",
+     690,
+     540,
+     60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 564.332,
+   "t1": 573.347,
+   "i": 91,
+   "segs": [
+    [
+     564.332,
+     568.087
+    ],
+    [
+     568.367,
+     572.996
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair3",
+   "figno": "3",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988"
+  },
+  {
+   "t0": 573.347,
+   "t1": 581.362,
+   "i": 92,
+   "segs": [
+    [
+     573.347,
+     577.102
+    ],
+    [
+     577.382,
+     578.747
+    ],
+    [
+     579.027,
+     581.011
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair1",
+   "figno": "1",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988",
+   "draw": false,
+   "calls": [
+    [
+     "DOOR",
+     258,
+     450,
+     -60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 581.362,
+   "t1": 588.607,
+   "i": 93,
+   "segs": [
+    [
+     581.362,
+     585.074
+    ],
+    [
+     585.354,
+     588.256
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair4",
+   "figno": "4",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988",
+   "draw": false,
+   "calls": [
+    [
+     "PLUG",
+     774,
+     387,
+     60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 588.607,
+   "t1": 595.144,
+   "i": 94,
+   "segs": [
+    [
+     588.607,
+     594.793
+    ]
+   ],
+   "g": "quote",
+   "q": "without the occupant changing position in the chair or getting out of the chair",
+   "hit": "changing position",
+   "src": "US 4,719,764 \u00b7 summary",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988"
+  },
+  {
+   "t0": 595.144,
+   "t1": 601.663,
+   "i": 95,
+   "segs": [
+    [
+     595.144,
+     599.646
+    ],
+    [
+     600.146,
+     601.212
+    ]
+   ],
+   "g": "quote",
+   "q": "may be provided either on the left- or right-hand armrest or on both",
+   "hit": "or on both",
+   "src": "US 4,719,764 \u00b7 description",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988"
+  },
+  {
+   "t0": 601.663,
+   "t1": 603.742,
+   "i": 96,
+   "segs": [
+    [
+     601.663,
+     603.391
+    ]
+   ],
+   "g": "quote",
+   "q": "to enjoy television or merely relax and consume beverages and related products without getting out of the chair",
+   "hit": "without getting out of the chair",
+   "src": "US 4,719,764 \u00b7 description",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988",
+   "hide": true
+  },
+  {
+   "t0": 603.742,
+   "t1": 612.129,
+   "i": 97,
+   "segs": [
+    [
+     603.742,
+     611.678
+    ]
+   ],
+   "g": "quote",
+   "q": "to enjoy television or merely relax and consume beverages and related products without getting out of the chair",
+   "hit": "without getting out of the chair",
+   "src": "US 4,719,764 \u00b7 description",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988",
+   "typed": false
+  },
+  {
+   "t0": 612.129,
+   "t1": 616.046,
+   "i": 98,
+   "segs": [
+    [
+     612.129,
+     613.196
+    ],
+    [
+     613.696,
+     615.595
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHAIR WITH REFRIGERATOR AND|ARMREST BEVERAGE COOLER",
+   "filed": "AUG. 18, 1986",
+   "date": "JAN. 19, 1988",
+   "num": "US 4,719,764",
+   "hook": "A FRIDGE|IN THE [CHAIR]",
+   "side": "US 4,719,764 \u00b7 1988",
+   "at": 1.2
+  },
+  {
+   "t0": 616.046,
+   "t1": 618.687,
+   "i": 99,
+   "segs": [
+    [
+     616.046,
+     618.136
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS WEEK'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 004"
+  },
+  {
+   "t0": 618.687,
+   "t1": 630.393,
+   "i": 100,
+   "segs": [
+    [
+     618.687,
+     620.159
+    ],
+    [
+     620.439,
+     627.735
+    ],
+    [
+     628.015,
+     630.042
+    ]
+   ],
+   "g": "fig",
+   "fig": "lawn2",
+   "figno": "2",
+   "num": "US 2,941,346",
+   "hook": "THE [REMOTE]|LAWN MOWER",
+   "side": "US 2,941,346 \u00b7 1960",
+   "draw": false
+  },
+  {
+   "t0": 630.393,
+   "t1": 637.851,
+   "i": 101,
+   "segs": [
+    [
+     630.393,
+     633.721
+    ],
+    [
+     634.001,
+     637.5
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "4,091,805 \u00b7 4,850,843 \u00b7 2,943,856",
+    "2,941,346 \u00b7 5,540,186 \u00b7 2,930,053",
+    "5,062,211 \u00b7 4,719,764"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 004"
+  },
+  {
+   "t0": 637.851,
+   "t1": 644.77,
+   "i": 102,
+   "segs": [
+    [
+     637.851,
+     639.536
+    ],
+    [
+     639.816,
+     641.416
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 004"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.091,
+   "txt": "This is an"
+  },
+  {
+   "t0": 1.091,
+   "t1": 1.758,
+   "txt": "armchair."
+  },
+  {
+   "t0": 2.258,
+   "t1": 3.474,
+   "txt": "With a refrigerator"
+  },
+  {
+   "t0": 3.474,
+   "t1": 3.858,
+   "txt": "in it."
+  },
+  {
+   "t0": 4.309,
+   "t1": 4.993,
+   "txt": "A cold can"
+  },
+  {
+   "t0": 4.993,
+   "t1": 5.746,
+   "txt": "sits in the"
+  },
+  {
+   "t0": 5.746,
+   "t1": 6.293,
+   "txt": "armrest."
+  },
+  {
+   "t0": 6.573,
+   "t1": 7.409,
+   "txt": "More cans wait"
+  },
+  {
+   "t0": 7.409,
+   "t1": 8.305,
+   "txt": "behind a little"
+  },
+  {
+   "t0": 8.305,
+   "t1": 8.962,
+   "txt": "door in the"
+  },
+  {
+   "t0": 8.962,
+   "t1": 9.261,
+   "txt": "side."
+  },
+  {
+   "t0": 9.541,
+   "t1": 10.276,
+   "txt": "You never have"
+  },
+  {
+   "t0": 10.276,
+   "t1": 10.906,
+   "txt": "to stand up."
+  },
+  {
+   "t0": 11.257,
+   "t1": 12.367,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 12.868,
+   "t1": 14.34,
+   "txt": "Somebody invented it."
+  },
+  {
+   "t0": 14.62,
+   "t1": 15.75,
+   "txt": "Somebody filed it."
+  },
+  {
+   "t0": 16.03,
+   "t1": 16.843,
+   "txt": "And the United"
+  },
+  {
+   "t0": 16.843,
+   "t1": 18.004,
+   "txt": "States Patent Office"
+  },
+  {
+   "t0": 18.004,
+   "t1": 18.526,
+   "txt": "said yes."
+  },
+  {
+   "t0": 18.806,
+   "t1": 19.19,
+   "txt": "Today,"
+  },
+  {
+   "t0": 19.19,
+   "t1": 20.342,
+   "txt": "eight real patents"
+  },
+  {
+   "t0": 20.342,
+   "t1": 21.174,
+   "txt": "for very lazy"
+  },
+  {
+   "t0": 21.174,
+   "t1": 21.622,
+   "txt": "people."
+  },
+  {
+   "t0": 21.902,
+   "t1": 22.524,
+   "txt": "Every one of"
+  },
+  {
+   "t0": 22.524,
+   "t1": 23.249,
+   "txt": "them took more"
+  },
+  {
+   "t0": 23.249,
+   "t1": 24.027,
+   "txt": "effort than the"
+  },
+  {
+   "t0": 24.027,
+   "t1": 24.804,
+   "txt": "thing it saves."
+  },
+  {
+   "t0": 25.155,
+   "t1": 25.987,
+   "txt": "Number one."
+  },
+  {
+   "t0": 26.267,
+   "t1": 26.971,
+   "txt": "The itch."
+  },
+  {
+   "t0": 27.322,
+   "t1": 27.852,
+   "txt": "This is a"
+  },
+  {
+   "t0": 27.852,
+   "t1": 28.499,
+   "txt": "man with an"
+  },
+  {
+   "t0": 28.499,
+   "t1": 28.794,
+   "txt": "itch."
+  },
+  {
+   "t0": 29.074,
+   "t1": 29.768,
+   "txt": "And this is"
+  },
+  {
+   "t0": 29.768,
+   "t1": 30.588,
+   "txt": "his solution."
+  },
+  {
+   "t0": 30.939,
+   "t1": 31.893,
+   "txt": "The drawing shows"
+  },
+  {
+   "t0": 31.893,
+   "t1": 32.454,
+   "txt": "it in use."
+  },
+  {
+   "t0": 32.734,
+   "t1": 33.779,
+   "txt": "Over the shoulder."
+  },
+  {
+   "t0": 34.059,
+   "t1": 34.909,
+   "txt": "The hand lands"
+  },
+  {
+   "t0": 34.909,
+   "t1": 35.638,
+   "txt": "on the back."
+  },
+  {
+   "t0": 35.989,
+   "t1": 36.736,
+   "txt": "A rod."
+  },
+  {
+   "t0": 37.016,
+   "t1": 37.731,
+   "txt": "On one end,"
+  },
+  {
+   "t0": 37.731,
+   "t1": 38.317,
+   "txt": "a handle."
+  },
+  {
+   "t0": 38.597,
+   "t1": 39.343,
+   "txt": "On the other"
+  },
+  {
+   "t0": 39.343,
+   "t1": 39.591,
+   "txt": "end,"
+  },
+  {
+   "t0": 39.591,
+   "t1": 40.026,
+   "txt": "a hand."
+  },
+  {
+   "t0": 40.377,
+   "t1": 41.215,
+   "txt": "Not a real"
+  },
+  {
+   "t0": 41.215,
+   "t1": 41.551,
+   "txt": "one."
+  },
+  {
+   "t0": 41.831,
+   "t1": 43.209,
+   "txt": "An artificial hand,"
+  },
+  {
+   "t0": 43.209,
+   "t1": 44.007,
+   "txt": "made of any"
+  },
+  {
+   "t0": 44.007,
+   "t1": 45.602,
+   "txt": "suitable material such"
+  },
+  {
+   "t0": 45.602,
+   "t1": 45.82,
+   "txt": "as,"
+  },
+  {
+   "t0": 45.82,
+   "t1": 46.69,
+   "txt": "for example,"
+  },
+  {
+   "t0": 46.69,
+   "t1": 47.271,
+   "txt": "plastic."
+  },
+  {
+   "t0": 47.622,
+   "t1": 48.393,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 48.393,
+   "t1": 49.329,
+   "txt": "is specific about"
+  },
+  {
+   "t0": 49.329,
+   "t1": 49.99,
+   "txt": "the fingers."
+  },
+  {
+   "t0": 50.341,
+   "t1": 50.862,
+   "txt": "It has a"
+  },
+  {
+   "t0": 50.862,
+   "t1": 52.165,
+   "txt": "plurality of fingers"
+  },
+  {
+   "t0": 52.165,
+   "t1": 53.338,
+   "txt": "bent in scratching"
+  },
+  {
+   "t0": 53.338,
+   "t1": 53.925,
+   "txt": "position."
+  },
+  {
+   "t0": 54.425,
+   "t1": 55.321,
+   "txt": "And a wrist."
+  },
+  {
+   "t0": 55.772,
+   "t1": 56.996,
+   "txt": "Inside the handle,"
+  },
+  {
+   "t0": 56.996,
+   "t1": 58.356,
+   "txt": "an electric vibrator"
+  },
+  {
+   "t0": 58.356,
+   "t1": 59.58,
+   "txt": "and a rechargeable"
+  },
+  {
+   "t0": 59.58,
+   "t1": 60.124,
+   "txt": "battery."
+  },
+  {
+   "t0": 60.404,
+   "t1": 61.475,
+   "txt": "Press the switch,"
+  },
+  {
+   "t0": 61.475,
+   "t1": 62.231,
+   "txt": "and the hand"
+  },
+  {
+   "t0": 62.231,
+   "t1": 63.302,
+   "txt": "vibrates back and"
+  },
+  {
+   "t0": 63.302,
+   "t1": 64.248,
+   "txt": "forth along the"
+  },
+  {
+   "t0": 64.248,
+   "t1": 64.5,
+   "txt": "rod."
+  },
+  {
+   "t0": 64.851,
+   "t1": 65.781,
+   "txt": "To recharge it,"
+  },
+  {
+   "t0": 65.781,
+   "t1": 66.525,
+   "txt": "a cord comes"
+  },
+  {
+   "t0": 66.525,
+   "t1": 67.146,
+   "txt": "out of the"
+  },
+  {
+   "t0": 67.146,
+   "t1": 67.766,
+   "txt": "end of the"
+  },
+  {
+   "t0": 67.766,
+   "t1": 68.2,
+   "txt": "handle."
+  },
+  {
+   "t0": 68.48,
+   "t1": 69.112,
+   "txt": "So that it"
+  },
+  {
+   "t0": 69.112,
+   "t1": 70.314,
+   "txt": "is readily extended"
+  },
+  {
+   "t0": 70.314,
+   "t1": 71.199,
+   "txt": "to an electric"
+  },
+  {
+   "t0": 71.199,
+   "t1": 71.957,
+   "txt": "wall outlet."
+  },
+  {
+   "t0": 72.308,
+   "t1": 73.283,
+   "txt": "The objects of"
+  },
+  {
+   "t0": 73.283,
+   "t1": 74.257,
+   "txt": "the invention:"
+  },
+  {
+   "t0": 74.257,
+   "t1": 75.371,
+   "txt": "a back scratcher"
+  },
+  {
+   "t0": 75.371,
+   "t1": 76.763,
+   "txt": "of simple structure,"
+  },
+  {
+   "t0": 76.763,
+   "t1": 78.155,
+   "txt": "which is inexpensive"
+  },
+  {
+   "t0": 78.155,
+   "t1": 79.199,
+   "txt": "in manufacture,"
+  },
+  {
+   "t0": 79.199,
+   "t1": 80.521,
+   "txt": "used with facility,"
+  },
+  {
+   "t0": 80.521,
+   "t1": 82.122,
+   "txt": "convenience and safety."
+  },
+  {
+   "t0": 82.473,
+   "t1": 83.095,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 83.095,
+   "t1": 84.133,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 84.133,
+   "t1": 84.548,
+   "txt": "words:"
+  },
+  {
+   "t0": 84.548,
+   "t1": 86.278,
+   "txt": "it functions efficiently,"
+  },
+  {
+   "t0": 86.278,
+   "t1": 87.938,
+   "txt": "effectively and reliably"
+  },
+  {
+   "t0": 87.938,
+   "t1": 88.907,
+   "txt": "to scratch the"
+  },
+  {
+   "t0": 88.907,
+   "t1": 89.529,
+   "txt": "back of a"
+  },
+  {
+   "t0": 89.529,
+   "t1": 89.875,
+   "txt": "user."
+  },
+  {
+   "t0": 90.326,
+   "t1": 91.211,
+   "txt": "A plastic hand"
+  },
+  {
+   "t0": 91.211,
+   "t1": 91.969,
+   "txt": "that shakes."
+  },
+  {
+   "t0": 92.469,
+   "t1": 93.021,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 93.021,
+   "t1": 94.432,
+   "txt": "nineteen seventy-eight."
+  },
+  {
+   "t0": 94.883,
+   "t1": 95.757,
+   "txt": "Number two."
+  },
+  {
+   "t0": 96.037,
+   "t1": 96.741,
+   "txt": "Dessert."
+  },
+  {
+   "t0": 97.092,
+   "t1": 98.037,
+   "txt": "The patent begins"
+  },
+  {
+   "t0": 98.037,
+   "t1": 98.927,
+   "txt": "with a hardship."
+  },
+  {
+   "t0": 99.278,
+   "t1": 100.063,
+   "txt": "The user must"
+  },
+  {
+   "t0": 100.063,
+   "t1": 101.27,
+   "txt": "struggle to dislodge"
+  },
+  {
+   "t0": 101.27,
+   "t1": 101.753,
+   "txt": "a scoop."
+  },
+  {
+   "t0": 102.253,
+   "t1": 103.086,
+   "txt": "Or just wait"
+  },
+  {
+   "t0": 103.086,
+   "t1": 103.988,
+   "txt": "until the ice"
+  },
+  {
+   "t0": 103.988,
+   "t1": 105.654,
+   "txt": "cream warms sufficiently"
+  },
+  {
+   "t0": 105.654,
+   "t1": 106.349,
+   "txt": "to soften."
+  },
+  {
+   "t0": 106.8,
+   "t1": 107.758,
+   "txt": "Waiting is not"
+  },
+  {
+   "t0": 107.758,
+   "t1": 108.442,
+   "txt": "an option."
+  },
+  {
+   "t0": 108.722,
+   "t1": 108.921,
+   "txt": "So:"
+  },
+  {
+   "t0": 108.921,
+   "t1": 109.913,
+   "txt": "a motorized ice"
+  },
+  {
+   "t0": 109.913,
+   "t1": 110.706,
+   "txt": "cream scoop."
+  },
+  {
+   "t0": 111.057,
+   "t1": 111.877,
+   "txt": "A handle with"
+  },
+  {
+   "t0": 111.877,
+   "t1": 112.508,
+   "txt": "batteries."
+  },
+  {
+   "t0": 112.788,
+   "t1": 113.492,
+   "txt": "A motor."
+  },
+  {
+   "t0": 113.772,
+   "t1": 114.412,
+   "txt": "And a bowl"
+  },
+  {
+   "t0": 114.412,
+   "t1": 115.116,
+   "txt": "that spins,"
+  },
+  {
+   "t0": 115.116,
+   "t1": 116.012,
+   "txt": "with saw teeth"
+  },
+  {
+   "t0": 116.012,
+   "t1": 117.036,
+   "txt": "around the edge."
+  },
+  {
+   "t0": 117.387,
+   "t1": 118.088,
+   "txt": "The teeth cut"
+  },
+  {
+   "t0": 118.088,
+   "t1": 118.735,
+   "txt": "into the ice"
+  },
+  {
+   "t0": 118.735,
+   "t1": 119.383,
+   "txt": "cream at the"
+  },
+  {
+   "t0": 119.383,
+   "t1": 119.868,
+   "txt": "push of a"
+  },
+  {
+   "t0": 119.868,
+   "t1": 120.246,
+   "txt": "button."
+  },
+  {
+   "t0": 120.597,
+   "t1": 121.343,
+   "txt": "Where does the"
+  },
+  {
+   "t0": 121.343,
+   "t1": 122.197,
+   "txt": "motor come from?"
+  },
+  {
+   "t0": 122.697,
+   "t1": 124.017,
+   "txt": "A reversible motor,"
+  },
+  {
+   "t0": 124.017,
+   "t1": 124.782,
+   "txt": "such as the"
+  },
+  {
+   "t0": 124.782,
+   "t1": 125.894,
+   "txt": "type utilized in"
+  },
+  {
+   "t0": 125.894,
+   "t1": 128.535,
+   "txt": "commercially available battery-powered"
+  },
+  {
+   "t0": 128.535,
+   "t1": 129.438,
+   "txt": "screwdrivers."
+  },
+  {
+   "t0": 129.889,
+   "t1": 130.785,
+   "txt": "The motor head"
+  },
+  {
+   "t0": 130.785,
+   "t1": 131.169,
+   "txt": "tilts."
+  },
+  {
+   "t0": 131.449,
+   "t1": 132.416,
+   "txt": "Straight down for"
+  },
+  {
+   "t0": 132.416,
+   "t1": 133.326,
+   "txt": "deep containers."
+  },
+  {
+   "t0": 133.606,
+   "t1": 134.596,
+   "txt": "Sideways when there"
+  },
+  {
+   "t0": 134.596,
+   "t1": 135.377,
+   "txt": "is plenty left."
+  },
+  {
+   "t0": 135.728,
+   "t1": 136.52,
+   "txt": "The handle is"
+  },
+  {
+   "t0": 136.52,
+   "t1": 137.983,
+   "txt": "about twenty centimeters"
+  },
+  {
+   "t0": 137.983,
+   "t1": 138.288,
+   "txt": "long."
+  },
+  {
+   "t0": 138.568,
+   "t1": 139.19,
+   "txt": "Of course,"
+  },
+  {
+   "t0": 139.19,
+   "t1": 140.185,
+   "txt": "the patent adds,"
+  },
+  {
+   "t0": 140.185,
+   "t1": 141.429,
+   "txt": "these dimensions are"
+  },
+  {
+   "t0": 141.429,
+   "t1": 142.237,
+   "txt": "not critical."
+  },
+  {
+   "t0": 142.588,
+   "t1": 143.22,
+   "txt": "It sits on"
+  },
+  {
+   "t0": 143.22,
+   "t1": 144.295,
+   "txt": "a charging stand."
+  },
+  {
+   "t0": 144.575,
+   "t1": 145.68,
+   "txt": "The contacts attract"
+  },
+  {
+   "t0": 145.68,
+   "t1": 147.007,
+   "txt": "each other magnetically."
+  },
+  {
+   "t0": 147.287,
+   "t1": 148.068,
+   "txt": "And the switch"
+  },
+  {
+   "t0": 148.068,
+   "t1": 149.295,
+   "txt": "seals against moisture"
+  },
+  {
+   "t0": 149.295,
+   "t1": 150.075,
+   "txt": "and water when"
+  },
+  {
+   "t0": 150.075,
+   "t1": 150.466,
+   "txt": "washed."
+  },
+  {
+   "t0": 150.817,
+   "t1": 151.575,
+   "txt": "The verdict,"
+  },
+  {
+   "t0": 151.575,
+   "t1": 152.585,
+   "txt": "from the patent:"
+  },
+  {
+   "t0": 152.585,
+   "t1": 153.406,
+   "txt": "the ice cream"
+  },
+  {
+   "t0": 153.406,
+   "t1": 154.417,
+   "txt": "server makes the"
+  },
+  {
+   "t0": 154.417,
+   "t1": 155.428,
+   "txt": "scooping of hard"
+  },
+  {
+   "t0": 155.428,
+   "t1": 156.249,
+   "txt": "ice cream far"
+  },
+  {
+   "t0": 156.249,
+   "t1": 157.259,
+   "txt": "more convenient."
+  },
+  {
+   "t0": 157.61,
+   "t1": 158.373,
+   "txt": "Especially,"
+  },
+  {
+   "t0": 158.373,
+   "t1": 158.928,
+   "txt": "it adds,"
+  },
+  {
+   "t0": 158.928,
+   "t1": 159.621,
+   "txt": "if the ice"
+  },
+  {
+   "t0": 159.621,
+   "t1": 160.522,
+   "txt": "cream is hard"
+  },
+  {
+   "t0": 160.522,
+   "t1": 161.701,
+   "txt": "and the container"
+  },
+  {
+   "t0": 161.701,
+   "t1": 162.602,
+   "txt": "nearly empty."
+  },
+  {
+   "t0": 163.053,
+   "t1": 163.811,
+   "txt": "A power tool"
+  },
+  {
+   "t0": 163.811,
+   "t1": 164.568,
+   "txt": "for dessert."
+  },
+  {
+   "t0": 165.068,
+   "t1": 165.663,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 165.663,
+   "t1": 167.052,
+   "txt": "nineteen eighty-nine."
+  },
+  {
+   "t0": 167.503,
+   "t1": 168.42,
+   "txt": "Number three."
+  },
+  {
+   "t0": 168.7,
+   "t1": 169.746,
+   "txt": "The golf course."
+  },
+  {
+   "t0": 170.097,
+   "t1": 170.897,
+   "txt": "Golf has one"
+  },
+  {
+   "t0": 170.897,
+   "t1": 171.963,
+   "txt": "move that nobody"
+  },
+  {
+   "t0": 171.963,
+   "t1": 172.763,
+   "txt": "talks about."
+  },
+  {
+   "t0": 173.043,
+   "t1": 173.656,
+   "txt": "You have to"
+  },
+  {
+   "t0": 173.656,
+   "t1": 174.323,
+   "txt": "bend down to"
+  },
+  {
+   "t0": 174.323,
+   "t1": 174.991,
+   "txt": "put the ball"
+  },
+  {
+   "t0": 174.991,
+   "t1": 175.603,
+   "txt": "on the tee."
+  },
+  {
+   "t0": 175.954,
+   "t1": 176.848,
+   "txt": "This patent has"
+  },
+  {
+   "t0": 176.848,
+   "t1": 177.384,
+   "txt": "one goal."
+  },
+  {
+   "t0": 177.664,
+   "t1": 178.638,
+   "txt": "You never bend"
+  },
+  {
+   "t0": 178.638,
+   "t1": 178.986,
+   "txt": "down."
+  },
+  {
+   "t0": 179.266,
+   "t1": 180.061,
+   "txt": "In its words:"
+  },
+  {
+   "t0": 180.061,
+   "t1": 181.222,
+   "txt": "without stooping or"
+  },
+  {
+   "t0": 181.222,
+   "t1": 182.016,
+   "txt": "bending over,"
+  },
+  {
+   "t0": 182.016,
+   "t1": 182.872,
+   "txt": "the player may"
+  },
+  {
+   "t0": 182.872,
+   "t1": 184.155,
+   "txt": "then press downwardly"
+  },
+  {
+   "t0": 184.155,
+   "t1": 185.133,
+   "txt": "upon the handle."
+  },
+  {
+   "t0": 185.484,
+   "t1": 186.439,
+   "txt": "The device fits"
+  },
+  {
+   "t0": 186.439,
+   "t1": 187.394,
+   "txt": "onto the handle"
+  },
+  {
+   "t0": 187.394,
+   "t1": 187.903,
+   "txt": "end of a"
+  },
+  {
+   "t0": 187.903,
+   "t1": 189.367,
+   "txt": "conventional golf club."
+  },
+  {
+   "t0": 189.647,
+   "t1": 190.351,
+   "txt": "A cup holds"
+  },
+  {
+   "t0": 190.351,
+   "t1": 190.927,
+   "txt": "the ball."
+  },
+  {
+   "t0": 191.207,
+   "t1": 192.057,
+   "txt": "Two little arms"
+  },
+  {
+   "t0": 192.057,
+   "t1": 192.738,
+   "txt": "grip the tee"
+  },
+  {
+   "t0": 192.738,
+   "t1": 193.361,
+   "txt": "underneath."
+  },
+  {
+   "t0": 193.712,
+   "t1": 194.344,
+   "txt": "You push the"
+  },
+  {
+   "t0": 194.344,
+   "t1": 195.029,
+   "txt": "club into the"
+  },
+  {
+   "t0": 195.029,
+   "t1": 195.398,
+   "txt": "ground."
+  },
+  {
+   "t0": 195.678,
+   "t1": 196.582,
+   "txt": "The tee goes"
+  },
+  {
+   "t0": 196.582,
+   "t1": 196.808,
+   "txt": "in."
+  },
+  {
+   "t0": 197.088,
+   "t1": 197.992,
+   "txt": "A plunger hits"
+  },
+  {
+   "t0": 197.992,
+   "t1": 198.637,
+   "txt": "the grass,"
+  },
+  {
+   "t0": 198.637,
+   "t1": 199.411,
+   "txt": "and the arms"
+  },
+  {
+   "t0": 199.411,
+   "t1": 199.734,
+   "txt": "open."
+  },
+  {
+   "t0": 200.085,
+   "t1": 200.921,
+   "txt": "And there it"
+  },
+  {
+   "t0": 200.921,
+   "t1": 201.13,
+   "txt": "is."
+  },
+  {
+   "t0": 201.41,
+   "t1": 202.05,
+   "txt": "The tee in"
+  },
+  {
+   "t0": 202.05,
+   "t1": 202.754,
+   "txt": "the ground,"
+  },
+  {
+   "t0": 202.754,
+   "t1": 203.458,
+   "txt": "the ball on"
+  },
+  {
+   "t0": 203.458,
+   "t1": 203.714,
+   "txt": "top,"
+  },
+  {
+   "t0": 203.714,
+   "t1": 204.738,
+   "txt": "in readiness for"
+  },
+  {
+   "t0": 204.738,
+   "t1": 204.994,
+   "txt": "use."
+  },
+  {
+   "t0": 205.345,
+   "t1": 205.912,
+   "txt": "All this,"
+  },
+  {
+   "t0": 205.912,
+   "t1": 206.919,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 206.919,
+   "t1": 207.926,
+   "txt": "while the player"
+  },
+  {
+   "t0": 207.926,
+   "t1": 208.682,
+   "txt": "remains in a"
+  },
+  {
+   "t0": 208.682,
+   "t1": 209.248,
+   "txt": "straight,"
+  },
+  {
+   "t0": 209.248,
+   "t1": 210.508,
+   "txt": "upstanding position."
+  },
+  {
+   "t0": 210.959,
+   "t1": 211.637,
+   "txt": "There is also"
+  },
+  {
+   "t0": 211.637,
+   "t1": 212.159,
+   "txt": "a hook for"
+  },
+  {
+   "t0": 212.159,
+   "t1": 212.942,
+   "txt": "pulling the tee"
+  },
+  {
+   "t0": 212.942,
+   "t1": 213.412,
+   "txt": "back out."
+  },
+  {
+   "t0": 213.692,
+   "t1": 214.736,
+   "txt": "Also without the"
+  },
+  {
+   "t0": 214.736,
+   "t1": 216.106,
+   "txt": "necessity of stooping"
+  },
+  {
+   "t0": 216.106,
+   "t1": 217.084,
+   "txt": "or bending over"
+  },
+  {
+   "t0": 217.084,
+   "t1": 218.193,
+   "txt": "for that purpose."
+  },
+  {
+   "t0": 218.544,
+   "t1": 219.298,
+   "txt": "And when you're"
+  },
+  {
+   "t0": 219.298,
+   "t1": 219.549,
+   "txt": "done,"
+  },
+  {
+   "t0": 219.549,
+   "t1": 220.102,
+   "txt": "it clips to"
+  },
+  {
+   "t0": 220.102,
+   "t1": 220.806,
+   "txt": "your golf bag."
+  },
+  {
+   "t0": 221.086,
+   "t1": 221.779,
+   "txt": "Or to wearing"
+  },
+  {
+   "t0": 221.779,
+   "t1": 222.526,
+   "txt": "apparel of the"
+  },
+  {
+   "t0": 222.526,
+   "t1": 222.899,
+   "txt": "player."
+  },
+  {
+   "t0": 223.25,
+   "t1": 224.795,
+   "txt": "Its other advantages,"
+  },
+  {
+   "t0": 224.795,
+   "t1": 225.973,
+   "txt": "according to the"
+  },
+  {
+   "t0": 225.973,
+   "t1": 226.488,
+   "txt": "patent:"
+  },
+  {
+   "t0": 226.488,
+   "t1": 227.297,
+   "txt": "small size,"
+  },
+  {
+   "t0": 227.297,
+   "t1": 228.548,
+   "txt": "easy portability,"
+  },
+  {
+   "t0": 228.548,
+   "t1": 230.02,
+   "txt": "and its adaptability"
+  },
+  {
+   "t0": 230.02,
+   "t1": 231.933,
+   "txt": "to economical manufacture."
+  },
+  {
+   "t0": 232.284,
+   "t1": 233.457,
+   "txt": "Standing straight."
+  },
+  {
+   "t0": 233.957,
+   "t1": 234.613,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 234.613,
+   "t1": 235.706,
+   "txt": "nineteen sixty."
+  },
+  {
+   "t0": 236.157,
+   "t1": 237.075,
+   "txt": "Number four."
+  },
+  {
+   "t0": 237.355,
+   "t1": 238.101,
+   "txt": "The lawn."
+  },
+  {
+   "t0": 238.381,
+   "t1": 239.832,
+   "txt": "Nineteen fifty-three."
+  },
+  {
+   "t0": 240.183,
+   "t1": 241.269,
+   "txt": "An electric lawn"
+  },
+  {
+   "t0": 241.269,
+   "t1": 241.676,
+   "txt": "mower."
+  },
+  {
+   "t0": 241.956,
+   "t1": 242.938,
+   "txt": "A long cable."
+  },
+  {
+   "t0": 243.218,
+   "t1": 243.789,
+   "txt": "And at the"
+  },
+  {
+   "t0": 243.789,
+   "t1": 244.475,
+   "txt": "other end of"
+  },
+  {
+   "t0": 244.475,
+   "t1": 245.046,
+   "txt": "the cable,"
+  },
+  {
+   "t0": 245.046,
+   "t1": 245.732,
+   "txt": "a little box"
+  },
+  {
+   "t0": 245.732,
+   "t1": 246.418,
+   "txt": "with a knob."
+  },
+  {
+   "t0": 246.769,
+   "t1": 247.497,
+   "txt": "You stay at"
+  },
+  {
+   "t0": 247.497,
+   "t1": 248.027,
+   "txt": "the box."
+  },
+  {
+   "t0": 248.307,
+   "t1": 249.039,
+   "txt": "The mower goes"
+  },
+  {
+   "t0": 249.039,
+   "t1": 249.561,
+   "txt": "out on the"
+  },
+  {
+   "t0": 249.561,
+   "t1": 249.822,
+   "txt": "lawn."
+  },
+  {
+   "t0": 250.173,
+   "t1": 251.115,
+   "txt": "The patent knows"
+  },
+  {
+   "t0": 251.115,
+   "t1": 251.88,
+   "txt": "this is hard."
+  },
+  {
+   "t0": 252.16,
+   "t1": 253.254,
+   "txt": "Remote control,"
+  },
+  {
+   "t0": 253.254,
+   "t1": 254.86,
+   "txt": "requiring positive and"
+  },
+  {
+   "t0": 254.86,
+   "t1": 255.955,
+   "txt": "certain action,"
+  },
+  {
+   "t0": 255.955,
+   "t1": 257.341,
+   "txt": "in general involves"
+  },
+  {
+   "t0": 257.341,
+   "t1": 259.093,
+   "txt": "complex instrumentation."
+  },
+  {
+   "t0": 259.444,
+   "t1": 260.425,
+   "txt": "No radio."
+  },
+  {
+   "t0": 260.705,
+   "t1": 261.763,
+   "txt": "The signal travels"
+  },
+  {
+   "t0": 261.763,
+   "t1": 262.586,
+   "txt": "down the power"
+  },
+  {
+   "t0": 262.586,
+   "t1": 263.351,
+   "txt": "cable itself."
+  },
+  {
+   "t0": 263.631,
+   "t1": 264.557,
+   "txt": "The mower steers"
+  },
+  {
+   "t0": 264.557,
+   "t1": 265.426,
+   "txt": "by stopping one"
+  },
+  {
+   "t0": 265.426,
+   "t1": 266.121,
+   "txt": "wheel or the"
+  },
+  {
+   "t0": 266.121,
+   "t1": 266.468,
+   "txt": "other."
+  },
+  {
+   "t0": 266.819,
+   "t1": 267.779,
+   "txt": "Why a knob?"
+  },
+  {
+   "t0": 268.059,
+   "t1": 269.041,
+   "txt": "Moving a control"
+  },
+  {
+   "t0": 269.041,
+   "t1": 269.716,
+   "txt": "to the left"
+  },
+  {
+   "t0": 269.716,
+   "t1": 270.268,
+   "txt": "or right,"
+  },
+  {
+   "t0": 270.268,
+   "t1": 271.496,
+   "txt": "the patent explains,"
+  },
+  {
+   "t0": 271.496,
+   "t1": 272.539,
+   "txt": "may be confusing."
+  },
+  {
+   "t0": 272.819,
+   "t1": 273.785,
+   "txt": "Depending on where"
+  },
+  {
+   "t0": 273.785,
+   "t1": 274.483,
+   "txt": "the mower is."
+  },
+  {
+   "t0": 274.834,
+   "t1": 275.736,
+   "txt": "And steering is"
+  },
+  {
+   "t0": 275.736,
+   "t1": 276.157,
+   "txt": "simple."
+  },
+  {
+   "t0": 276.437,
+   "t1": 277.558,
+   "txt": "Mere rotation of"
+  },
+  {
+   "t0": 277.558,
+   "t1": 279.03,
+   "txt": "control knob thirteen"
+  },
+  {
+   "t0": 279.03,
+   "t1": 279.871,
+   "txt": "c will cause"
+  },
+  {
+   "t0": 279.871,
+   "t1": 281.624,
+   "txt": "corresponding rotation of"
+  },
+  {
+   "t0": 281.624,
+   "t1": 282.325,
+   "txt": "the mower."
+  },
+  {
+   "t0": 282.676,
+   "t1": 283.284,
+   "txt": "A reel on"
+  },
+  {
+   "t0": 283.284,
+   "t1": 284.162,
+   "txt": "top winds the"
+  },
+  {
+   "t0": 284.162,
+   "t1": 285.108,
+   "txt": "cable back in."
+  },
+  {
+   "t0": 285.388,
+   "t1": 286.903,
+   "txt": "Preventing entanglement of"
+  },
+  {
+   "t0": 286.903,
+   "t1": 287.603,
+   "txt": "the mower in"
+  },
+  {
+   "t0": 287.603,
+   "t1": 288.652,
+   "txt": "the cable strands."
+  },
+  {
+   "t0": 289.003,
+   "t1": 289.83,
+   "txt": "And then there"
+  },
+  {
+   "t0": 289.83,
+   "t1": 290.717,
+   "txt": "is the optional"
+  },
+  {
+   "t0": 290.717,
+   "t1": 291.072,
+   "txt": "extra."
+  },
+  {
+   "t0": 291.572,
+   "t1": 292.666,
+   "txt": "Feeler arms that"
+  },
+  {
+   "t0": 292.666,
+   "t1": 293.897,
+   "txt": "sense uncut grass."
+  },
+  {
+   "t0": 294.397,
+   "t1": 295.421,
+   "txt": "The patent calls"
+  },
+  {
+   "t0": 295.421,
+   "t1": 296.381,
+   "txt": "it an automatic"
+  },
+  {
+   "t0": 296.381,
+   "t1": 297.725,
+   "txt": "grass hunting system."
+  },
+  {
+   "t0": 298.176,
+   "t1": 298.995,
+   "txt": "The mower will"
+  },
+  {
+   "t0": 298.995,
+   "t1": 299.988,
+   "txt": "thus guide itself"
+  },
+  {
+   "t0": 299.988,
+   "t1": 300.807,
+   "txt": "around a given"
+  },
+  {
+   "t0": 300.807,
+   "t1": 301.099,
+   "txt": "plot."
+  },
+  {
+   "t0": 301.379,
+   "t1": 302.228,
+   "txt": "One swath at"
+  },
+  {
+   "t0": 302.228,
+   "t1": 302.723,
+   "txt": "a time."
+  },
+  {
+   "t0": 303.003,
+   "t1": 303.734,
+   "txt": "And at the"
+  },
+  {
+   "t0": 303.734,
+   "t1": 304.027,
+   "txt": "end?"
+  },
+  {
+   "t0": 304.378,
+   "t1": 305.365,
+   "txt": "When the entire"
+  },
+  {
+   "t0": 305.365,
+   "t1": 306.22,
+   "txt": "area has been"
+  },
+  {
+   "t0": 306.22,
+   "t1": 307.076,
+   "txt": "cut the mower"
+  },
+  {
+   "t0": 307.076,
+   "t1": 308.26,
+   "txt": "will merely propel"
+  },
+  {
+   "t0": 308.26,
+   "t1": 308.984,
+   "txt": "itself in a"
+  },
+  {
+   "t0": 308.984,
+   "t1": 309.839,
+   "txt": "tight circle."
+  },
+  {
+   "t0": 310.29,
+   "t1": 311.491,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 311.491,
+   "t1": 312.338,
+   "txt": "fifty-three."
+  },
+  {
+   "t0": 312.838,
+   "t1": 313.827,
+   "txt": "The lawn waited"
+  },
+  {
+   "t0": 313.827,
+   "t1": 315.078,
+   "txt": "almost seven years."
+  },
+  {
+   "t0": 315.578,
+   "t1": 316.234,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 316.234,
+   "t1": 317.328,
+   "txt": "nineteen sixty."
+  },
+  {
+   "t0": 317.779,
+   "t1": 318.739,
+   "txt": "Number five."
+  },
+  {
+   "t0": 319.019,
+   "t1": 319.765,
+   "txt": "The pets."
+  },
+  {
+   "t0": 320.116,
+   "t1": 321.096,
+   "txt": "The patent opens"
+  },
+  {
+   "t0": 321.096,
+   "t1": 322.015,
+   "txt": "with a problem."
+  },
+  {
+   "t0": 322.295,
+   "t1": 323.596,
+   "txt": "Every grooming device"
+  },
+  {
+   "t0": 323.596,
+   "t1": 324.34,
+   "txt": "so far needs"
+  },
+  {
+   "t0": 324.34,
+   "t1": 324.898,
+   "txt": "a person."
+  },
+  {
+   "t0": 325.178,
+   "t1": 326.001,
+   "txt": "All of these"
+  },
+  {
+   "t0": 326.001,
+   "t1": 327.441,
+   "txt": "devices require human"
+  },
+  {
+   "t0": 327.441,
+   "t1": 328.538,
+   "txt": "assistance to be"
+  },
+  {
+   "t0": 328.538,
+   "t1": 329.018,
+   "txt": "useful."
+  },
+  {
+   "t0": 329.369,
+   "t1": 330.228,
+   "txt": "And it admits"
+  },
+  {
+   "t0": 330.228,
+   "t1": 331.417,
+   "txt": "why people bother."
+  },
+  {
+   "t0": 331.768,
+   "t1": 332.923,
+   "txt": "Most animals will"
+  },
+  {
+   "t0": 332.923,
+   "t1": 334.487,
+   "txt": "remain appreciative for"
+  },
+  {
+   "t0": 334.487,
+   "t1": 335.779,
+   "txt": "extended periods of"
+  },
+  {
+   "t0": 335.779,
+   "t1": 336.119,
+   "txt": "time,"
+  },
+  {
+   "t0": 336.119,
+   "t1": 337.207,
+   "txt": "when brushes are"
+  },
+  {
+   "t0": 337.207,
+   "t1": 338.499,
+   "txt": "moved against their"
+  },
+  {
+   "t0": 338.499,
+   "t1": 339.382,
+   "txt": "bodies by the"
+  },
+  {
+   "t0": 339.382,
+   "t1": 340.13,
+   "txt": "human hand."
+  },
+  {
+   "t0": 340.581,
+   "t1": 341.341,
+   "txt": "So the human"
+  },
+  {
+   "t0": 341.341,
+   "t1": 342.416,
+   "txt": "hand is replaced."
+  },
+  {
+   "t0": 342.696,
+   "t1": 343.699,
+   "txt": "A round base."
+  },
+  {
+   "t0": 343.979,
+   "t1": 344.683,
+   "txt": "A motor."
+  },
+  {
+   "t0": 344.963,
+   "t1": 345.585,
+   "txt": "And a tall"
+  },
+  {
+   "t0": 345.585,
+   "t1": 346.58,
+   "txt": "brush that turns"
+  },
+  {
+   "t0": 346.58,
+   "t1": 347.203,
+   "txt": "by itself."
+  },
+  {
+   "t0": 347.554,
+   "t1": 348.377,
+   "txt": "Ten to fifteen"
+  },
+  {
+   "t0": 348.377,
+   "t1": 349.73,
+   "txt": "revolutions per minute."
+  },
+  {
+   "t0": 350.01,
+   "t1": 350.876,
+   "txt": "To simulate the"
+  },
+  {
+   "t0": 350.876,
+   "t1": 352.088,
+   "txt": "brushing movements of"
+  },
+  {
+   "t0": 352.088,
+   "t1": 352.954,
+   "txt": "the human hand."
+  },
+  {
+   "t0": 353.305,
+   "t1": 354.032,
+   "txt": "It runs on"
+  },
+  {
+   "t0": 354.032,
+   "t1": 354.905,
+   "txt": "low voltage."
+  },
+  {
+   "t0": 355.185,
+   "t1": 356.087,
+   "txt": "Harmless to an"
+  },
+  {
+   "t0": 356.087,
+   "t1": 357.31,
+   "txt": "animal upon chewing"
+  },
+  {
+   "t0": 357.31,
+   "t1": 358.148,
+   "txt": "into the line"
+  },
+  {
+   "t0": 358.148,
+   "t1": 358.47,
+   "txt": "cord."
+  },
+  {
+   "t0": 358.75,
+   "t1": 359.417,
+   "txt": "And a sensor"
+  },
+  {
+   "t0": 359.417,
+   "t1": 360.084,
+   "txt": "can start it"
+  },
+  {
+   "t0": 360.084,
+   "t1": 360.862,
+   "txt": "automatically."
+  },
+  {
+   "t0": 361.142,
+   "t1": 361.687,
+   "txt": "Motion,"
+  },
+  {
+   "t0": 361.687,
+   "t1": 362.077,
+   "txt": "heat,"
+  },
+  {
+   "t0": 362.077,
+   "t1": 362.934,
+   "txt": "or optical."
+  },
+  {
+   "t0": 363.285,
+   "t1": 363.772,
+   "txt": "On top,"
+  },
+  {
+   "t0": 363.772,
+   "t1": 364.399,
+   "txt": "a lure on"
+  },
+  {
+   "t0": 364.399,
+   "t1": 365.026,
+   "txt": "a spring,"
+  },
+  {
+   "t0": 365.026,
+   "t1": 366.419,
+   "txt": "constantly moving in"
+  },
+  {
+   "t0": 366.419,
+   "t1": 366.976,
+   "txt": "circles."
+  },
+  {
+   "t0": 367.256,
+   "t1": 368.037,
+   "txt": "In the drawing,"
+  },
+  {
+   "t0": 368.037,
+   "t1": 368.61,
+   "txt": "the lure is"
+  },
+  {
+   "t0": 368.61,
+   "t1": 369.026,
+   "txt": "a mouse."
+  },
+  {
+   "t0": 369.377,
+   "t1": 370.526,
+   "txt": "One version even"
+  },
+  {
+   "t0": 370.526,
+   "t1": 371.532,
+   "txt": "has a speaker."
+  },
+  {
+   "t0": 372.032,
+   "t1": 373.642,
+   "txt": "With prerecorded sounds"
+  },
+  {
+   "t0": 373.642,
+   "t1": 374.412,
+   "txt": "of a mouse,"
+  },
+  {
+   "t0": 374.412,
+   "t1": 375.112,
+   "txt": "or a human"
+  },
+  {
+   "t0": 375.112,
+   "t1": 376.022,
+   "txt": "talking to an"
+  },
+  {
+   "t0": 376.022,
+   "t1": 376.512,
+   "txt": "animal."
+  },
+  {
+   "t0": 376.963,
+   "t1": 377.918,
+   "txt": "As an incentive"
+  },
+  {
+   "t0": 377.918,
+   "t1": 378.745,
+   "txt": "for an animal"
+  },
+  {
+   "t0": 378.745,
+   "t1": 379.7,
+   "txt": "to frequent the"
+  },
+  {
+   "t0": 379.7,
+   "t1": 380.846,
+   "txt": "device more often."
+  },
+  {
+   "t0": 381.197,
+   "t1": 381.89,
+   "txt": "The floor has"
+  },
+  {
+   "t0": 381.89,
+   "t1": 382.743,
+   "txt": "slots that catch"
+  },
+  {
+   "t0": 382.743,
+   "t1": 383.543,
+   "txt": "the loose hair."
+  },
+  {
+   "t0": 383.823,
+   "t1": 385.094,
+   "txt": "Protecting the living"
+  },
+  {
+   "t0": 385.094,
+   "t1": 386.788,
+   "txt": "environment from unnecessary"
+  },
+  {
+   "t0": 386.788,
+   "t1": 387.514,
+   "txt": "animal hair."
+  },
+  {
+   "t0": 387.865,
+   "t1": 388.704,
+   "txt": "And one more"
+  },
+  {
+   "t0": 388.704,
+   "t1": 389.194,
+   "txt": "object,"
+  },
+  {
+   "t0": 389.194,
+   "t1": 390.103,
+   "txt": "listed on its"
+  },
+  {
+   "t0": 390.103,
+   "t1": 390.382,
+   "txt": "own."
+  },
+  {
+   "t0": 390.882,
+   "t1": 392.161,
+   "txt": "Yet another object"
+  },
+  {
+   "t0": 392.161,
+   "t1": 392.942,
+   "txt": "is that the"
+  },
+  {
+   "t0": 392.942,
+   "t1": 394.788,
+   "txt": "present invention produces"
+  },
+  {
+   "t0": 394.788,
+   "t1": 396.28,
+   "txt": "a synergistic effect."
+  },
+  {
+   "t0": 396.731,
+   "t1": 397.393,
+   "txt": "It does not"
+  },
+  {
+   "t0": 397.393,
+   "t1": 398.416,
+   "txt": "say which effect."
+  },
+  {
+   "t0": 398.916,
+   "t1": 399.532,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 399.532,
+   "t1": 400.9,
+   "txt": "nineteen ninety-six."
+  },
+  {
+   "t0": 401.351,
+   "t1": 402.247,
+   "txt": "Number six."
+  },
+  {
+   "t0": 402.527,
+   "t1": 403.38,
+   "txt": "The bedroom."
+  },
+  {
+   "t0": 403.731,
+   "t1": 404.556,
+   "txt": "The patent has"
+  },
+  {
+   "t0": 404.556,
+   "t1": 405.322,
+   "txt": "done the math"
+  },
+  {
+   "t0": 405.322,
+   "t1": 405.97,
+   "txt": "on making a"
+  },
+  {
+   "t0": 405.97,
+   "t1": 406.206,
+   "txt": "bed."
+  },
+  {
+   "t0": 406.486,
+   "t1": 407.104,
+   "txt": "It takes a"
+  },
+  {
+   "t0": 407.104,
+   "t1": 407.908,
+   "txt": "great deal of"
+  },
+  {
+   "t0": 407.908,
+   "t1": 408.96,
+   "txt": "walking about the"
+  },
+  {
+   "t0": 408.96,
+   "t1": 409.207,
+   "txt": "bed,"
+  },
+  {
+   "t0": 409.207,
+   "t1": 409.826,
+   "txt": "and also a"
+  },
+  {
+   "t0": 409.826,
+   "t1": 411.186,
+   "txt": "considerable amount of"
+  },
+  {
+   "t0": 411.186,
+   "t1": 411.99,
+   "txt": "bending over."
+  },
+  {
+   "t0": 412.341,
+   "t1": 413.194,
+   "txt": "And worse."
+  },
+  {
+   "t0": 413.694,
+   "t1": 414.511,
+   "txt": "The work is"
+  },
+  {
+   "t0": 414.511,
+   "t1": 415.105,
+   "txt": "routine,"
+  },
+  {
+   "t0": 415.105,
+   "t1": 415.996,
+   "txt": "and does not"
+  },
+  {
+   "t0": 415.996,
+   "t1": 416.961,
+   "txt": "result in the"
+  },
+  {
+   "t0": 416.961,
+   "t1": 418.074,
+   "txt": "creation of new"
+  },
+  {
+   "t0": 418.074,
+   "t1": 419.262,
+   "txt": "economic wealth."
+  },
+  {
+   "t0": 419.713,
+   "t1": 419.922,
+   "txt": "So:"
+  },
+  {
+   "t0": 419.922,
+   "t1": 421.661,
+   "txt": "an inexpensive mechanical"
+  },
+  {
+   "t0": 421.661,
+   "t1": 422.913,
+   "txt": "bed-making device."
+  },
+  {
+   "t0": 423.193,
+   "t1": 424.293,
+   "txt": "Under the mattress,"
+  },
+  {
+   "t0": 424.293,
+   "t1": 425.045,
+   "txt": "cords run out"
+  },
+  {
+   "t0": 425.045,
+   "t1": 425.913,
+   "txt": "from the center"
+  },
+  {
+   "t0": 425.913,
+   "t1": 426.781,
+   "txt": "like the spokes"
+  },
+  {
+   "t0": 426.781,
+   "t1": 427.417,
+   "txt": "of a wheel."
+  },
+  {
+   "t0": 427.768,
+   "t1": 428.612,
+   "txt": "Clamps grab the"
+  },
+  {
+   "t0": 428.612,
+   "t1": 429.287,
+   "txt": "edges of the"
+  },
+  {
+   "t0": 429.287,
+   "t1": 429.624,
+   "txt": "sheet."
+  },
+  {
+   "t0": 429.904,
+   "t1": 430.673,
+   "txt": "A motor under"
+  },
+  {
+   "t0": 430.673,
+   "t1": 431.441,
+   "txt": "the bed winds"
+  },
+  {
+   "t0": 431.441,
+   "t1": 432.21,
+   "txt": "the cords in,"
+  },
+  {
+   "t0": 432.21,
+   "t1": 432.978,
+   "txt": "and the sheet"
+  },
+  {
+   "t0": 432.978,
+   "t1": 433.865,
+   "txt": "is pulled tight"
+  },
+  {
+   "t0": 433.865,
+   "t1": 434.811,
+   "txt": "from every side."
+  },
+  {
+   "t0": 435.162,
+   "t1": 436.126,
+   "txt": "In the morning,"
+  },
+  {
+   "t0": 436.126,
+   "t1": 437.219,
+   "txt": "the occupant gets"
+  },
+  {
+   "t0": 437.219,
+   "t1": 437.412,
+   "txt": "up,"
+  },
+  {
+   "t0": 437.412,
+   "t1": 438.505,
+   "txt": "flips the switch,"
+  },
+  {
+   "t0": 438.505,
+   "t1": 439.341,
+   "txt": "and the motor"
+  },
+  {
+   "t0": 439.341,
+   "t1": 440.176,
+   "txt": "draws the bed"
+  },
+  {
+   "t0": 440.176,
+   "t1": 441.334,
+   "txt": "coverings to their"
+  },
+  {
+   "t0": 441.334,
+   "t1": 442.234,
+   "txt": "desired tight,"
+  },
+  {
+   "t0": 442.234,
+   "t1": 442.877,
+   "txt": "tucked-in,"
+  },
+  {
+   "t0": 442.877,
+   "t1": 444.098,
+   "txt": "neat and unwrinkled"
+  },
+  {
+   "t0": 444.098,
+   "t1": 444.677,
+   "txt": "position."
+  },
+  {
+   "t0": 445.028,
+   "t1": 445.887,
+   "txt": "The promise:"
+  },
+  {
+   "t0": 445.887,
+   "t1": 447.105,
+   "txt": "no more countless"
+  },
+  {
+   "t0": 447.105,
+   "t1": 448.609,
+   "txt": "hours of unproductive"
+  },
+  {
+   "t0": 448.609,
+   "t1": 449.038,
+   "txt": "labor."
+  },
+  {
+   "t0": 449.489,
+   "t1": 450.041,
+   "txt": "And it works"
+  },
+  {
+   "t0": 450.041,
+   "t1": 450.685,
+   "txt": "with you still"
+  },
+  {
+   "t0": 450.685,
+   "t1": 450.961,
+   "txt": "in it."
+  },
+  {
+   "t0": 451.241,
+   "t1": 452.203,
+   "txt": "The patent lists"
+  },
+  {
+   "t0": 452.203,
+   "t1": 452.804,
+   "txt": "that as an"
+  },
+  {
+   "t0": 452.804,
+   "t1": 453.225,
+   "txt": "object."
+  },
+  {
+   "t0": 453.576,
+   "t1": 455.051,
+   "txt": "Kicked-out covers may"
+  },
+  {
+   "t0": 455.051,
+   "t1": 456.876,
+   "txt": "be automatically re-tucked"
+  },
+  {
+   "t0": 456.876,
+   "t1": 457.789,
+   "txt": "into place by"
+  },
+  {
+   "t0": 457.789,
+   "t1": 458.913,
+   "txt": "the bed occupant"
+  },
+  {
+   "t0": 458.913,
+   "t1": 460.176,
+   "txt": "merely by flipping"
+  },
+  {
+   "t0": 460.176,
+   "t1": 460.808,
+   "txt": "a switch."
+  },
+  {
+   "t0": 461.259,
+   "t1": 461.774,
+   "txt": "And if you"
+  },
+  {
+   "t0": 461.774,
+   "t1": 462.545,
+   "txt": "hold the switch"
+  },
+  {
+   "t0": 462.545,
+   "t1": 463.265,
+   "txt": "down too long?"
+  },
+  {
+   "t0": 463.545,
+   "t1": 464.688,
+   "txt": "The pulleys merely"
+  },
+  {
+   "t0": 464.688,
+   "t1": 465.005,
+   "txt": "slip,"
+  },
+  {
+   "t0": 465.005,
+   "t1": 465.703,
+   "txt": "and no harm"
+  },
+  {
+   "t0": 465.703,
+   "t1": 466.211,
+   "txt": "is done."
+  },
+  {
+   "t0": 466.562,
+   "t1": 467.505,
+   "txt": "The bed makes"
+  },
+  {
+   "t0": 467.505,
+   "t1": 468.013,
+   "txt": "itself."
+  },
+  {
+   "t0": 468.513,
+   "t1": 469.169,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 469.169,
+   "t1": 470.262,
+   "txt": "nineteen sixty."
+  },
+  {
+   "t0": 470.713,
+   "t1": 471.631,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 471.911,
+   "t1": 472.487,
+   "txt": "Dinner."
+  },
+  {
+   "t0": 472.838,
+   "t1": 474.011,
+   "txt": "The patent describes"
+  },
+  {
+   "t0": 474.011,
+   "t1": 474.715,
+   "txt": "the old way."
+  },
+  {
+   "t0": 474.995,
+   "t1": 475.987,
+   "txt": "The user's hand"
+  },
+  {
+   "t0": 475.987,
+   "t1": 476.847,
+   "txt": "is turned and"
+  },
+  {
+   "t0": 476.847,
+   "t1": 477.971,
+   "txt": "twisted to gather"
+  },
+  {
+   "t0": 477.971,
+   "t1": 479.161,
+   "txt": "spaghetti onto the"
+  },
+  {
+   "t0": 479.161,
+   "t1": 479.955,
+   "txt": "tines of the"
+  },
+  {
+   "t0": 479.955,
+   "t1": 480.286,
+   "txt": "fork."
+  },
+  {
+   "t0": 480.637,
+   "t1": 481.504,
+   "txt": "The problem,"
+  },
+  {
+   "t0": 481.504,
+   "t1": 482.227,
+   "txt": "as stated:"
+  },
+  {
+   "t0": 482.227,
+   "t1": 483.456,
+   "txt": "the only twisting"
+  },
+  {
+   "t0": 483.456,
+   "t1": 484.468,
+   "txt": "motion is done"
+  },
+  {
+   "t0": 484.468,
+   "t1": 485.335,
+   "txt": "by the wrist"
+  },
+  {
+   "t0": 485.335,
+   "t1": 486.13,
+   "txt": "and hand of"
+  },
+  {
+   "t0": 486.13,
+   "t1": 486.781,
+   "txt": "the user."
+  },
+  {
+   "t0": 487.232,
+   "t1": 487.875,
+   "txt": "And if the"
+  },
+  {
+   "t0": 487.875,
+   "t1": 488.775,
+   "txt": "food slips off"
+  },
+  {
+   "t0": 488.775,
+   "t1": 489.418,
+   "txt": "on the way"
+  },
+  {
+   "t0": 489.418,
+   "t1": 489.611,
+   "txt": "up,"
+  },
+  {
+   "t0": 489.611,
+   "t1": 490.64,
+   "txt": "the patent warns"
+  },
+  {
+   "t0": 490.64,
+   "t1": 491.669,
+   "txt": "of consequences."
+  },
+  {
+   "t0": 492.02,
+   "t1": 493.432,
+   "txt": "Causing embarrassment to"
+  },
+  {
+   "t0": 493.432,
+   "t1": 493.961,
+   "txt": "the user."
+  },
+  {
+   "t0": 494.462,
+   "t1": 495.697,
+   "txt": "Earlier twisting forks"
+  },
+  {
+   "t0": 495.697,
+   "t1": 496.203,
+   "txt": "had to be"
+  },
+  {
+   "t0": 496.203,
+   "t1": 497.101,
+   "txt": "pushed down into"
+  },
+  {
+   "t0": 497.101,
+   "t1": 497.662,
+   "txt": "the plate."
+  },
+  {
+   "t0": 497.942,
+   "t1": 498.34,
+   "txt": "Which,"
+  },
+  {
+   "t0": 498.34,
+   "t1": 499.468,
+   "txt": "the patent notes,"
+  },
+  {
+   "t0": 499.468,
+   "t1": 500.596,
+   "txt": "requires a visual"
+  },
+  {
+   "t0": 500.596,
+   "t1": 502.056,
+   "txt": "coordination to follow"
+  },
+  {
+   "t0": 502.056,
+   "t1": 503.184,
+   "txt": "collection of the"
+  },
+  {
+   "t0": 503.184,
+   "t1": 504.179,
+   "txt": "food product on"
+  },
+  {
+   "t0": 504.179,
+   "t1": 505.174,
+   "txt": "the forked end."
+  },
+  {
+   "t0": 505.525,
+   "t1": 505.724,
+   "txt": "So:"
+  },
+  {
+   "t0": 505.724,
+   "t1": 507.118,
+   "txt": "a long-standing need,"
+  },
+  {
+   "t0": 507.118,
+   "t1": 507.915,
+   "txt": "finally met."
+  },
+  {
+   "t0": 508.195,
+   "t1": 508.911,
+   "txt": "A fork with"
+  },
+  {
+   "t0": 508.911,
+   "t1": 509.562,
+   "txt": "batteries,"
+  },
+  {
+   "t0": 509.562,
+   "t1": 510.082,
+   "txt": "a motor,"
+  },
+  {
+   "t0": 510.082,
+   "t1": 510.733,
+   "txt": "and gears."
+  },
+  {
+   "t0": 511.013,
+   "t1": 511.728,
+   "txt": "The fork end"
+  },
+  {
+   "t0": 511.728,
+   "t1": 513.097,
+   "txt": "turns under push-button"
+  },
+  {
+   "t0": 513.097,
+   "t1": 513.573,
+   "txt": "control."
+  },
+  {
+   "t0": 513.924,
+   "t1": 514.822,
+   "txt": "The middle tine"
+  },
+  {
+   "t0": 514.822,
+   "t1": 515.66,
+   "txt": "is longer than"
+  },
+  {
+   "t0": 515.66,
+   "t1": 516.319,
+   "txt": "the others,"
+  },
+  {
+   "t0": 516.319,
+   "t1": 516.977,
+   "txt": "so the fork"
+  },
+  {
+   "t0": 516.977,
+   "t1": 517.935,
+   "txt": "spins around it."
+  },
+  {
+   "t0": 518.215,
+   "t1": 519.306,
+   "txt": "The pasta wraps"
+  },
+  {
+   "t0": 519.306,
+   "t1": 519.815,
+   "txt": "itself."
+  },
+  {
+   "t0": 520.166,
+   "t1": 520.954,
+   "txt": "Then it holds"
+  },
+  {
+   "t0": 520.954,
+   "t1": 521.318,
+   "txt": "still."
+  },
+  {
+   "t0": 521.598,
+   "t1": 522.377,
+   "txt": "To retain the"
+  },
+  {
+   "t0": 522.377,
+   "t1": 523.157,
+   "txt": "food in place"
+  },
+  {
+   "t0": 523.157,
+   "t1": 524.296,
+   "txt": "while the implement"
+  },
+  {
+   "t0": 524.296,
+   "t1": 525.195,
+   "txt": "is being raised"
+  },
+  {
+   "t0": 525.195,
+   "t1": 525.974,
+   "txt": "to the user's"
+  },
+  {
+   "t0": 525.974,
+   "t1": 526.334,
+   "txt": "mouth."
+  },
+  {
+   "t0": 526.685,
+   "t1": 527.646,
+   "txt": "The whole patent"
+  },
+  {
+   "t0": 527.646,
+   "t1": 528.426,
+   "txt": "has one claim"
+  },
+  {
+   "t0": 528.426,
+   "t1": 529.207,
+   "txt": "and one sheet"
+  },
+  {
+   "t0": 529.207,
+   "t1": 529.928,
+   "txt": "of drawings."
+  },
+  {
+   "t0": 530.208,
+   "t1": 531.36,
+   "txt": "Filed in March."
+  },
+  {
+   "t0": 531.64,
+   "t1": 532.984,
+   "txt": "Approved in November."
+  },
+  {
+   "t0": 533.335,
+   "t1": 534.444,
+   "txt": "No more wrist."
+  },
+  {
+   "t0": 534.944,
+   "t1": 535.546,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 535.546,
+   "t1": 536.885,
+   "txt": "nineteen ninety-one."
+  },
+  {
+   "t0": 537.336,
+   "t1": 538.296,
+   "txt": "And number eight."
+  },
+  {
+   "t0": 538.576,
+   "t1": 539.239,
+   "txt": "Back to the"
+  },
+  {
+   "t0": 539.239,
+   "t1": 539.6,
+   "txt": "chair."
+  },
+  {
+   "t0": 539.951,
+   "t1": 540.864,
+   "txt": "The patent starts"
+  },
+  {
+   "t0": 540.864,
+   "t1": 541.615,
+   "txt": "with a survey."
+  },
+  {
+   "t0": 541.895,
+   "t1": 542.9,
+   "txt": "Chairs have been"
+  },
+  {
+   "t0": 542.9,
+   "t1": 544.408,
+   "txt": "constructed with various"
+  },
+  {
+   "t0": 544.408,
+   "t1": 545.727,
+   "txt": "features ancillary to"
+  },
+  {
+   "t0": 545.727,
+   "t1": 546.858,
+   "txt": "the usual function"
+  },
+  {
+   "t0": 546.858,
+   "t1": 547.549,
+   "txt": "of a chair."
+  },
+  {
+   "t0": 547.9,
+   "t1": 548.65,
+   "txt": "But none of"
+  },
+  {
+   "t0": 548.65,
+   "t1": 549.809,
+   "txt": "the above patents"
+  },
+  {
+   "t0": 549.809,
+   "t1": 550.899,
+   "txt": "utilizes a chair"
+  },
+  {
+   "t0": 550.899,
+   "t1": 552.263,
+   "txt": "with a refrigeration"
+  },
+  {
+   "t0": 552.263,
+   "t1": 554.172,
+   "txt": "system incorporated therein."
+  },
+  {
+   "t0": 554.452,
+   "t1": 555.326,
+   "txt": "Until now."
+  },
+  {
+   "t0": 555.677,
+   "t1": 556.433,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 556.433,
+   "t1": 556.915,
+   "txt": "inside."
+  },
+  {
+   "t0": 557.195,
+   "t1": 558.094,
+   "txt": "A compressor,"
+  },
+  {
+   "t0": 558.094,
+   "t1": 559.201,
+   "txt": "a condenser coil"
+  },
+  {
+   "t0": 559.201,
+   "t1": 559.893,
+   "txt": "and an air"
+  },
+  {
+   "t0": 559.893,
+   "t1": 560.308,
+   "txt": "grill,"
+  },
+  {
+   "t0": 560.308,
+   "t1": 561.276,
+   "txt": "all built into"
+  },
+  {
+   "t0": 561.276,
+   "t1": 562.037,
+   "txt": "a recliner."
+  },
+  {
+   "t0": 562.317,
+   "t1": 563.113,
+   "txt": "If desired,"
+  },
+  {
+   "t0": 563.113,
+   "t1": 563.981,
+   "txt": "a small fan."
+  },
+  {
+   "t0": 564.332,
+   "t1": 565.12,
+   "txt": "The cold runs"
+  },
+  {
+   "t0": 565.12,
+   "t1": 565.967,
+   "txt": "through a coil"
+  },
+  {
+   "t0": 565.967,
+   "t1": 566.815,
+   "txt": "around the can"
+  },
+  {
+   "t0": 566.815,
+   "t1": 567.603,
+   "txt": "holder in the"
+  },
+  {
+   "t0": 567.603,
+   "t1": 568.087,
+   "txt": "armrest."
+  },
+  {
+   "t0": 568.367,
+   "t1": 569.108,
+   "txt": "The can sits"
+  },
+  {
+   "t0": 569.108,
+   "t1": 569.355,
+   "txt": "low,"
+  },
+  {
+   "t0": 569.355,
+   "t1": 570.342,
+   "txt": "with just enough"
+  },
+  {
+   "t0": 570.342,
+   "t1": 571.268,
+   "txt": "sticking out to"
+  },
+  {
+   "t0": 571.268,
+   "t1": 572.503,
+   "txt": "enable easy gripping"
+  },
+  {
+   "t0": 572.503,
+   "t1": 572.996,
+   "txt": "thereof."
+  },
+  {
+   "t0": 573.347,
+   "t1": 574.318,
+   "txt": "The fridge door"
+  },
+  {
+   "t0": 574.318,
+   "t1": 575.095,
+   "txt": "is hinged at"
+  },
+  {
+   "t0": 575.095,
+   "t1": 575.807,
+   "txt": "the bottom,"
+  },
+  {
+   "t0": 575.807,
+   "t1": 576.519,
+   "txt": "so it opens"
+  },
+  {
+   "t0": 576.519,
+   "t1": 577.102,
+   "txt": "downward."
+  },
+  {
+   "t0": 577.382,
+   "t1": 578.251,
+   "txt": "A magnet keeps"
+  },
+  {
+   "t0": 578.251,
+   "t1": 578.747,
+   "txt": "it shut."
+  },
+  {
+   "t0": 579.027,
+   "t1": 579.585,
+   "txt": "A rack on"
+  },
+  {
+   "t0": 579.585,
+   "t1": 580.453,
+   "txt": "the door holds"
+  },
+  {
+   "t0": 580.453,
+   "t1": 581.011,
+   "txt": "the cans."
+  },
+  {
+   "t0": 581.362,
+   "t1": 582.228,
+   "txt": "And when there"
+  },
+  {
+   "t0": 582.228,
+   "t1": 582.785,
+   "txt": "is no can"
+  },
+  {
+   "t0": 582.785,
+   "t1": 583.713,
+   "txt": "in the armrest,"
+  },
+  {
+   "t0": 583.713,
+   "t1": 584.518,
+   "txt": "a plug closes"
+  },
+  {
+   "t0": 584.518,
+   "t1": 585.074,
+   "txt": "the hole."
+  },
+  {
+   "t0": 585.354,
+   "t1": 586.265,
+   "txt": "For a relatively"
+  },
+  {
+   "t0": 586.265,
+   "t1": 587.402,
+   "txt": "smooth upper surface"
+  },
+  {
+   "t0": 587.402,
+   "t1": 588.256,
+   "txt": "to the armrest."
+  },
+  {
+   "t0": 588.607,
+   "t1": 589.207,
+   "txt": "All of it,"
+  },
+  {
+   "t0": 589.207,
+   "t1": 590.108,
+   "txt": "so the occupant"
+  },
+  {
+   "t0": 590.108,
+   "t1": 590.649,
+   "txt": "can get a"
+  },
+  {
+   "t0": 590.649,
+   "t1": 591.97,
+   "txt": "drink without changing"
+  },
+  {
+   "t0": 591.97,
+   "t1": 592.871,
+   "txt": "position in the"
+  },
+  {
+   "t0": 592.871,
+   "t1": 593.832,
+   "txt": "chair or getting"
+  },
+  {
+   "t0": 593.832,
+   "t1": 594.433,
+   "txt": "out of the"
+  },
+  {
+   "t0": 594.433,
+   "t1": 594.793,
+   "txt": "chair."
+  },
+  {
+   "t0": 595.144,
+   "t1": 596.058,
+   "txt": "The can holder"
+  },
+  {
+   "t0": 596.058,
+   "t1": 597.036,
+   "txt": "may be provided"
+  },
+  {
+   "t0": 597.036,
+   "t1": 597.884,
+   "txt": "either on the"
+  },
+  {
+   "t0": 597.884,
+   "t1": 599.124,
+   "txt": "left- or right-hand"
+  },
+  {
+   "t0": 599.124,
+   "t1": 599.646,
+   "txt": "armrest."
+  },
+  {
+   "t0": 600.146,
+   "t1": 601.212,
+   "txt": "Or on both."
+  },
+  {
+   "t0": 601.663,
+   "t1": 602.335,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 602.335,
+   "t1": 603.007,
+   "txt": "says what it's"
+  },
+  {
+   "t0": 603.007,
+   "t1": 603.391,
+   "txt": "all for."
+  },
+  {
+   "t0": 603.742,
+   "t1": 605.152,
+   "txt": "To enjoy television"
+  },
+  {
+   "t0": 605.152,
+   "t1": 606.264,
+   "txt": "or merely relax"
+  },
+  {
+   "t0": 606.264,
+   "t1": 607.822,
+   "txt": "and consume beverages"
+  },
+  {
+   "t0": 607.822,
+   "t1": 609.305,
+   "txt": "and related products"
+  },
+  {
+   "t0": 609.305,
+   "t1": 610.714,
+   "txt": "without getting out"
+  },
+  {
+   "t0": 610.714,
+   "t1": 611.678,
+   "txt": "of the chair."
+  },
+  {
+   "t0": 612.129,
+   "t1": 613.196,
+   "txt": "Or on both."
+  },
+  {
+   "t0": 613.696,
+   "t1": 614.247,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 614.247,
+   "t1": 615.595,
+   "txt": "nineteen eighty-eight."
+  },
+  {
+   "t0": 616.046,
+   "t1": 616.83,
+   "txt": "So which one"
+  },
+  {
+   "t0": 616.83,
+   "t1": 617.548,
+   "txt": "is the most"
+  },
+  {
+   "t0": 617.548,
+   "t1": 618.136,
+   "txt": "approved?"
+  },
+  {
+   "t0": 618.687,
+   "t1": 619.447,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 619.447,
+   "t1": 620.159,
+   "txt": "the lawn mower."
+  },
+  {
+   "t0": 620.439,
+   "t1": 621.359,
+   "txt": "Because it took"
+  },
+  {
+   "t0": 621.359,
+   "t1": 622.463,
+   "txt": "almost seven years"
+  },
+  {
+   "t0": 622.463,
+   "t1": 623.198,
+   "txt": "to approve a"
+  },
+  {
+   "t0": 623.198,
+   "t1": 623.995,
+   "txt": "machine that,"
+  },
+  {
+   "t0": 623.995,
+   "t1": 624.792,
+   "txt": "when the work"
+  },
+  {
+   "t0": 624.792,
+   "t1": 625.283,
+   "txt": "is done,"
+  },
+  {
+   "t0": 625.283,
+   "t1": 626.08,
+   "txt": "just spins in"
+  },
+  {
+   "t0": 626.08,
+   "t1": 626.938,
+   "txt": "a tight circle"
+  },
+  {
+   "t0": 626.938,
+   "t1": 627.735,
+   "txt": "on the grass."
+  },
+  {
+   "t0": 628.015,
+   "t1": 629.082,
+   "txt": "Until someone steers"
+  },
+  {
+   "t0": 629.082,
+   "t1": 630.042,
+   "txt": "it somewhere else."
+  },
+  {
+   "t0": 630.393,
+   "t1": 631.225,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 631.225,
+   "t1": 631.998,
+   "txt": "this video is"
+  },
+  {
+   "t0": 631.998,
+   "t1": 632.77,
+   "txt": "word for word"
+  },
+  {
+   "t0": 632.77,
+   "t1": 633.721,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 634.001,
+   "t1": 634.821,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 634.821,
+   "t1": 635.86,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 635.86,
+   "t1": 636.406,
+   "txt": "so you can"
+  },
+  {
+   "t0": 636.406,
+   "t1": 637.5,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 637.851,
+   "t1": 638.912,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 638.912,
+   "t1": 639.536,
+   "txt": "every day."
+  },
+  {
+   "t0": 639.816,
+   "t1": 640.387,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 640.387,
+   "t1": 641.245,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 641.245,
+   "t1": 641.416,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 4.309
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.257
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 12.868
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 25.155
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 27.322
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 30.939
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 35.989
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 40.377
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 47.622
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 50.341
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 55.772
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 64.851
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 72.308
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 82.473
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 90.326
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 94.883
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 97.092
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 99.278
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 106.8
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 111.057
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 117.387
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 120.597
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 129.889
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 135.728
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 142.588
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 150.817
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 157.61
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 163.053
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 167.503
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 170.097
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 175.954
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 185.484
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 193.712
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 200.085
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 205.345
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 210.959
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 218.544
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 223.25
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 232.284
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 236.157
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 240.183
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 246.769
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 250.173
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 259.444
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 266.819
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 274.834
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 282.676
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 289.003
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 298.176
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 304.378
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 310.29
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 317.779
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 320.116
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 329.369
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 331.768
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 340.581
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 347.554
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 353.305
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 363.285
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 369.377
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 376.963
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 381.197
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 387.865
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 396.731
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 401.351
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 403.731
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 412.341
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 419.713
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 427.768
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 435.162
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 445.028
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 449.489
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 453.576
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 461.259
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 466.562
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 470.713
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 472.838
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 480.637
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 487.232
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 492.02
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 494.462
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 505.525
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 513.924
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 520.166
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 526.685
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 533.335
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 537.336
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 539.951
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 547.9
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 555.677
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 564.332
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 573.347
+  },
+  {
+   "f": "vo/094.wav",
+   "t": 581.362
+  },
+  {
+   "f": "vo/095.wav",
+   "t": 588.607
+  },
+  {
+   "f": "vo/096.wav",
+   "t": 595.144
+  },
+  {
+   "f": "vo/097.wav",
+   "t": 601.663
+  },
+  {
+   "f": "vo/098.wav",
+   "t": 603.742
+  },
+  {
+   "f": "vo/099.wav",
+   "t": 612.129
+  },
+  {
+   "f": "vo/100.wav",
+   "t": 616.046
+  },
+  {
+   "f": "vo/101.wav",
+   "t": 618.687
+  },
+  {
+   "f": "vo/102.wav",
+   "t": 630.393
+  },
+  {
+   "f": "vo/103.wav",
+   "t": 637.851
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": ""
+}

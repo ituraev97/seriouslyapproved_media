@@ -1,0 +1,176 @@
+4,850,843
+
+3
+ice cream 23 and, while urging the bow! toward the ice
+cream, actuating the motor assembly 13 to cause the
+bowl 14 to rotate. This causes the sawtooth like projec-
+tions 17 to cut into the ice cream 23 until the bowl 14 is
+filled with the ice cream which can then be removed.
+
+When there is sufficient ice cream 23’ in the container
+11 as depicted in FIG. 3, the motor assembly 13 can be
+pivoted to the ninety degree position illustrated in
+FIGS. 1 and 3.
+
+Considering now FIG. 4, there is shown an enlarged
+portion of the motor assembly 13, the bow! 14, and
+wiper 15. The motor assembly 13 includes a housing 26
+in which is mounted an electric motor 27. Although any
+of various types of motors may be used within the in-
+ventive concepts disclosed, the illustrated electric
+motor 27 is a reversible, direct current motor, such as
+the type utilized in commercially available battery-
+powered screwdrivers. It includes a known type of
+gearbox 27A, such as a planetary gearbox, to provide a
+desired speed reduction and sufficient torque.
+
+The electric motor 27 is mounted with the gearbox
+27A within the housing 26 according to known tech-
+niques, and it includes a drive shaft 28 aligned with the
+rotational axis 22. A collar or other suitable known type
+of coupler device 29 couples the drive shaft 28 to a
+wiper shaft 30 attached to the wiper blade 15. Thus, the
+wiper blade 15 rotates with the drive shaft 28: when the
+drive shaft 28 rotates in a clockwise direction, it causes
+the wiper blade 15 to rotate in a clockwise direction
+about the rotational axis 22; when the drive shaft 28
+rotates in a counterclockwise direction, it causes the
+wiper blade 15 to rotate in a counterclockwise direc-
+tion.
+
+The bowl 14 is also mounted on the housing 26 for
+rotation about the rotational axis 22. For this purpose,
+the housing 26 is configured to define a cylindrically
+shaped recess 31 extending along the rotational axis 22
+and the bow! 14 is configured to include a cylindrically
+shaped shaft portion 32 that fits into the recess 31.
+
+The shaft portion 32 defines a through bore 33
+through which the wiper blade shaft 30 extends. The
+wiper blade shaft 30 is rotatably mounted within the
+through bore 33 with a first unidirectional clutch device
+34, and the shaft portion 32 of the bowl 14 is rotatably
+mounted with the recess 31 with a second unidirectional
+clutch device 35.
+
+The first and-second unidirectional clutch devices 34
+and 35 are known types of components, such as the
+commercially available drawn cup roller clutches man-
+ufactured by the Torrington Company of Torrington,
+Connecticut. These devices include precisely formed
+interior ramps that provide surfaces against which rol-
+lers wedge to positively lock the clutch with the shaft
+when rotated in one direction while allowing rotation in
+the other direction.
+
+The first and second unidirectional clutch devices 34
+and 35 are mounted so the first device 34 couples rota-
+tional movement from the drive shaft 28 to the bowl 14
+only when the drive shaft 28 is rotating in a clockwise
+direction, and so that the second device 35 inhibits rota-
+tion of the bowl 14 when the drive shaft 28 is rotating in
+the counterclockwise direction. It inhibits rotation by
+locking the shaft portion 32 of the bowl 14 to the hous-
+ing 26.
+
+Thus, the bowl 14 and the wiper blade 15 rotate to-
+gether with the drive shaft 28 when the drive shaft
+rotates in the clockwise direction. But the bowl 14 is
+locked against rotating with the wiper lade 15 when the
+
+20
+
+25
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+4
+
+drive shaft 28 rotates in the counterclockwise direction.
+Of course, the devices 34 and 35 can be mounted for
+operation in the other direction. In other words, they
+can be mounted so that the wiper blade 15 and the bowl
+14 rotate together in a counterclockwise direction,
+locking the shaft portion 32 of the bowl 14 to the hous-
+ing 26 when the drive shaft 28 rotates in the clockwise
+direction this being accomplished, for example (as is
+apparent to one skilled in the art from the description
+herein of FIG. 4), by mounting the device 34 and 35
+upside down relative to the orientation employed for
+the operation described in the preceding paragraph,
+and, of course, FIG. 4 is intended to depict either orien-
+tation.
+
+In addition to the above, the apparatus 10 includes a
+sealing ring 36 that provides a seal between the housing
+26 and a shoulder portion 37 of the bowl 14. An O-ring
+seal 38 is also included to provide a seal between the
+wiper blade 15 and the bow! 14.
+
+Electrical details are shown in the diagrammatic view
+of FIG. 5. The handle assembly is dimensioned and
+arranged to contain rechargeable batteries 41 and 42
+(conventional size “C” flashlight batteries, for exam-
+ple). A switch 43 is included to enable a user to energize
+the motor assembly 13. It is a two pole, two throw,
+center-off, momentary rocker switch that is covered by
+a liquid-tight, flexible membrane that seals against mois-
+ture/water when washed. Depressing a first side 44 of
+the switch 43 connects the batteries 41 and 42 to the
+motor assembly 13 to cause the motor 27 to rotate the
+shaft 28 in the clockwise direction, and depressing a
+second side 45 connects the batteries 41 and 42 with the
+polarity reversed to cause the motor 27 to rotate the
+shaft 28 in the counterclockwise direction.
+
+A battery charger 50 is also provided that includes a
+stand 50A. The battery charger 50 operates on house-
+hold current, and it is configured according to known
+techniques for use in charging the batteries 41 and 42. A
+pair of magnetic contacts 51 and 52 on the battery char-
+ger 50 mate with another pair of magnetic contacts 53
+and 54 on the handle assembly 12 to serve the dual
+purpose of securing the apparatus 10 to the battery
+charger 50 and conducting a battery charging current
+from the battery charger 50 to the batteries 41 and 42.
+The contacts 51 and 53 attract each other magnetically
+for this purpose, as do the contacts 52 and 54.
+
+Thus, this invention provides a new and improved ice
+cream server that greatly facilitates the ice cream
+scooping process, especially if the ice cream is hard and
+the container nearly empty.
+
+Although an exemplary embodiment of the invention
+has been shown and described, many changes, modifica-
+tions, and substitutions may be made by one having
+ordinary skill in the art without necessarily departing
+from the spirit and scope of the invention.
+
+What is claimed is:
+
+1, An apparatus, comprising:
+
+a handle having a longitudinal axis, the handle ex-
+tending along the longitudinal axis from a proximal
+portion of the handle to a distal portion of the
+handle, which handle is dimensioned and arranged
+to house a separate battery power source;
+
+a motor assembly having a rotational axis and a drive
+shaft arranged for rotation about the rotational axis
+of the motor assembly in a selected clockwise or
+counterclockwise direction;
+
+the motor assembly being mounted on the distal por-
+tion of the handle for pivotal movement relative to

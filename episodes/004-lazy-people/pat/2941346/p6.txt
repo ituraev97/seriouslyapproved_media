@@ -1,0 +1,189 @@
+9,941,346:
+
+of the mower. This’ is accomplished by arranging the
+associated circuits such that rotation of the control 13c
+
+clockwise stops the right mower wheel, and, when ro--
+
+tated counter-clockwise, stops the left wheel. That is in
+contrast to systems based upon the concept of turning
+to the right or to the left. Proper Tesponse of the
+mower to rotation of control element 13c is assured by
+properly: poling rectifiers 19, 30, 31, 34 and 35, and the
+arrangement of switches 14 and 15 Fig. 1 as above de-
+scribed.
+
+In Fig. 3, it will be seen that the rocker arm 63 pivoted
+on shaft 65 provides a means for tensioning belt 56 when
+the relay 40 is energized. The rocker arm 63 also pro-
+vides a braking member below shaft 65. In the form
+illustrated, a bolt 80 is secured as by nuts 81 and 82
+to an extension 83 of the lower end of the rocker arm
+63. Bolt 80 is adjusted in position so that it bears against
+belt 56 below the pivot point when relay 40 is de-ener-
+gized, thus causing an immediate braking action on
+wheel 51. The side of the mower thus affected is brought
+to an abrupt halt, making more positive the control of
+the mower.. In Fig. 4 it will be seen that both rocked arms
+63 and 64 are provided with such braking arrangements.
+The idler pulleys 67 and 68 are supported as to register
+with associated belts 56 and 57 above the pivot shaft 65
+and the braking members 80 and 80a similarly supported
+for registration’ with the faces of belts 56 and 57 respec-
+tively below the pivot point.
+
+In Figs. 1-4, the application of mechanical forces to
+the drive. wheels 51 and 52 is shown as controlled by
+the solenoids 40 and 42. Such action is preferred be-
+cause maximum. force is applied to the pulleys 67 and 68
+when the armatures of solenoids 40 and 42 are near the
+maximum traverse or throw. However pulleys 67 and 68
+may be forced against belts 56 and 57 by springs. The
+solenoids 40 and 42 may then be utilized to retract pul-
+leys 56 or 57 upon selective operation of switches 14
+and 15, and in that manner to control and selectively
+change the course of the mower.
+
+' Turning now to Figs. 5~10, different forms of circuits
+for modifying the character of the power voltage or the
+electrical energy in a manner suitable for detection at
+the utilization point are shown. In each case power is
+applied to terminals 90 for transmission to terminals 90a.
+
+In Fig. 5, the circuit controls the magnitude of positive
+
+or negative peaks.of the alternating current voltage trans-
+mitted from input terminals 90 to output terminal 90a.
+“The circuit comprises a pair of rectifiers 91 and 92 con-
+‘nected in series and poled opposite one another. In
+‘parallel with rectifiers 91 and 92 are a pair. of resistors
+‘93 and 94 forming. a first circuit and a pair of switches
+95 and 96. forming a second circuit. The points inter-
+mediate rectifiers 91 and 92, resistors 93 and 94, and
+Switches 95 and. 96,.are electrically common, being inter-
+connected by conductor 97. When switch 95. is open,
+-voltage peaks of one polarity are reduced in magnitude,
+‘whereas voltage peaks. of the opposite polarity are un-
+‘changed. Conversely, when switch .96 is open, voltage
+peaks of the second polarity are substantially reduced
+while voltage peaks of the first polarity are unchanged.
+‘Such.action is caused by the selective routing of currents
+through rectifiers 91 and-92 and resistors 93 and 94.
+2 In. Fig6-half of the resistances. and rectifiers of Fig. 5
+-have been eliminated: while retaining the circuit: action.
+In this: circuit, switches. 100 and 101 are connected in
+‘seriés with one line conductor. The point intermediate
+“switches 100. and 101 is connected by way of-resistor 102
+-to.each of terminals:103 and 104. Resistor 102 is shunted
+-by -rectifier 105. When ‘switch 100 is connected to ter-
+-minal 103, voltage of one polarity is reduced and volt-
+ages of thé opposite polarity are unchanged. The reverse
+“action takes place when switch 101 is connected to ter-
+minal 104. -
+
+In -Fig. 7; where like parts have been given the same
+
+reference characters as in Fig, 6, it will be seen that, the
+
+10
+
+15
+
+20
+
+25
+
+30
+
+40
+
+circuit is similar to that of Fig. 6 but that a transformer
+106 has been added. The primary winding is connected
+directly across the input terminals 90. The secondary
+winding is connected between terminals 103 and 104 so
+that there is effectively produced an increase in voltage
+peaks of one polarity when switch 100 is connected to
+terminal 103 (or switch 101 to terminal 104) rather’
+than a decrease as in Fig. 6.
+
+In Fig. 8 the circuit is similar to that of Fig. 6.-
+Switches 100 and 101 are in series with one line con-
+ductor, however the resistor 102 and rectifier 105 of
+Fig. 6 have been replaced, in. Fig. 8, by a battery 110.
+The action with battery 110 in circuit in some respects
+is similar to that described in Fig. 6. Here, a unidirec-.
+tional component is introduced by battery 110 as. dis-.
+tinguished from a mere reduction in the amplitude of
+alternating half-cycles of the alternating. current voltage.’
+Further, in Fig. 8 a rectifier 111 and a resistor 112. con-
+nected in series with battery 110 and across the line
+provides a trickle charge to maintain battery 110. in
+proper condition.
+
+In Fig. 9, the circuit is similar to that shown in. Fig. 1,
+with the rectifier 19 of Fig. 1 replaced by a full wave
+rectifying bridge network 115 for generating a unidirec-
+tional component for addition to the voltage applied to
+the input terminals 90.. More particularly, the trans-
+former 116 has its primary winding connected. across ‘in
+put terminals 90 and its secondary winding connected
+to the horizontal diagonal of bridge network 115. The
+vertical diagonal of the bridge is connected at the lower
+end to a point intermediate switches 117 and 118. The
+conductor 119 in turn is common. to the auxiliary
+terminals 120 and 121. The bridge network 115 thus
+produces a unidirectional voltage whose function is simi-
+lar to that introduced from battery 110 on Fig. 8.
+
+In Fig. 10 a single pole 3-position switch 122 has been
+provided together with a pair of rectifier resistor circuits
+123 and 124. Circuit action here is such as to reduce
+the amplitude of positive or negative half-cycles of alter-
+nating voltage applied to terminals 90 in dependence upon
+the position of the single switch 122.
+
+The foregoing illustrates variations in components and
+circuit operations suitable for producing modifications. in
+the voltage applied to a sensing network,
+
+While the circuit shown in Fig. 1 for differentiating
+between variations of character of the power voltage is
+preferred, the sensing networks of Figs. 11. and 12 are
+also suitable. The networks may be connected to ter-
+minals 26 and 27 of Fig: 1 in place of bridge 28. Where
+appropriate like parts have been given the same reference
+characters as in Fig. 1.
+
+In Fig. 11 inductance 130 substantially limits current
+flowing through coils 33 and 37 to unidirectional com-
+
+a ponents of combined D.C. and A.C. currents at termi-
+
+60
+
+70
+
+15
+
+nals 26 and 27. Rectifier 34 permits current of but one
+polarity to flow in coil 33 to actuate relay armature 33a.
+Rectifier 35, poled opposite rectifier 31, permits current
+only of the opposite polarity to flow through relay coil 37
+to actuate armature 37a. While inductance 130: may
+cause the circuit to be unusually selective if it is of the
+saturable core type, satisfactory action is obtained with
+a non-saturable inductance.
+
+In Fig. 12 a second inductance 130a has been addéd
+along with a pair of resistances 131 and 131le. Here
+the combined action of inductances 130, 1302 and resist-
+ances 131, 131a is to more completely discriminate
+against A.C. components of current appearing at termi-
+nals 26 and 27 and to selectively route D.C. components
+through relays 33 and 37. It will be apparent that still
+further discrimination may be effected by substituting
+capacitors for resistors 131, 131a, In this respect it will
+be seen that in Fig. 1, rectifiers 30 and 34 may be re-
+placed by resistors. This effectively will reduce actual
+power available in the RC circuit 38, 39 by one-half,
+all other conditions remaining unchanged, In such event,

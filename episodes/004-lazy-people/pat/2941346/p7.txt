@@ -1,0 +1,195 @@
+2,941,846
+
+7
+
+the relays 33 and 37 may be adjusted as to operate at
+the new level.
+
+- From the foregoing it will be seen that positive con-
+trol of a traction system such as the lawn mower of
+Figs. 2-4 may be accomplished through use of non-com-
+plex instrumentation and through use of the actual power
+voltage and power circuit between the source and the
+mower. Mere rotation of control knob 13c will cause
+corresponding “rotation” of the mower.
+
+Provision has been made in Figs. 2-4 for control not
+only by manual operation at control station 13 but also
+through an automatic grass hunting system. More par-
+ticularly, a wheel 140 is mounted as to pivot on shaft
+141, Shaft 141 is suitably journaled in a frame element
+142 which in turn is supported from the mower by shaft
+65. A pair of fairly sensitive switches 143 and 144 are
+mounted for movement with wheel 140. Feeler arms
+145 and 146 are supported by and extend downwardly
+and forward from switches 143 and 144 respectively.
+Arms 145 and 146 are designed to actuate switches 143
+and 144 when either arm comes in contact with or moves
+out of contact with grass. Operation in accordance with
+this aspect of the invention is such that, by remote con-
+trol as from station 13, the mower may be guided around
+the periphery of an area to be mowed, cutting a first
+swath. If the mower is traveling in a clockwise direc-
+tion around the area, the circuit controlled by arm 145
+will be so arranged as to release tractive power from
+wheel 51 when arm 145 enters uncut grass. The circuit
+controlled by arm 146 will be so arranged as to maintain
+application of tractive power on wheel 52 so long as arm
+146 is in uncut grass. The mower will thus guide itself
+around a given plot, reducing the plot dimensions on each
+trip by a newly cut swath. When the entire area has
+been cut the mower will merely propel itself in a tight
+circle and may at that time, by remote control, be
+guided to new areas.
+
+A circuit arrangement for accomplishing the foregoing
+action is shown in Fig. 13. Where consistent, like parts
+have been given the same reference characters as in Figs.
+1-4. Conductors 20 and 22 are connected directly to
+motor 21. Links 40a and 42a, shown as dotted lines,
+diagrammatically represent control of tractive forces on
+either side of the lawn mower upon selective de-energiz-
+ing of solenoids 40 and 42.
+
+Automatic control is provided by connecting switch
+143 in series with the armature 33a and solenoid 46.
+Switch 143 is controlled through mechanical linkage 156
+by feeler arm 145 and is so connected as to be normally
+closed (as shown) and will be opened when the end of
+feeler arm 145 moves into uncut grass. Similarly, a
+second switch 144, in series with armature 37b and sole-
+noid 42, is controlled through mechanical linkage 157
+by feeler arm 146. Switch 144 is so arranged as to nor-
+mally be open and is closed by feeler arm 146 when the
+end thereof is in uncut grass. Conductors 152 and 153
+are cross connected around switches 143 and 144 to per-
+mit control of the mower from the remote station 13
+(Fig. 1) regardless of the relationship of the mower to
+the margin 155 or uncut grass area.
+
+Referring now to Fig. 14, a three-wire control system
+is illustrated in which closure of switch 159 to terminal
+160 or to terminal 161 will cause relay 162 or relay 163
+to be de-energized, opening the power circuit to traction
+controlling solenoid 164 or solenoid 165. . Thus, by
+means of a third wire, positive direction control may be
+maintained.
+
+It will now be appreciated that a preferred form of
+
+~—the-invention is embodied in Figs. 1-4 but that various
+
+modifications-may_be made without departing from the
+spirit and scope of the invention. By way of illustra-
+tion only, and not by way of ‘Himitation; ~the following
+specifications are descriptive of a system found to~be
+‘satisfactory for control of a lawn. mower powered by a
+44 HP, single phase motor operating on 110 volts:
+
+10
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+10
+
+15
+
+&
+Resistor 23...--...-----~. 6 to. 15 ohms, 25 watts...
+Rectifier 19..-.-.. noes 3,2 amp., 26 volt, seleniun:
+
+Rectifiers 30, 31, 34, 35__ 100 millamp, 150 volt.
+Condenser 39__- weeeeee 160 microfarads, 150 volt.
+Resistor 38_____-.----- 3000 ohms, 20 watt.
+Condensers 32, 36__--~- 40 microfarads, 150 -volt.
+Solenoids 40, 42......-. Bendix 110 volt A.C. solenoid. .
+
+It will now be apparent that clutches may be substi-
+tuted for the belt drive to the power wheels, and selec-
+tively controlled by sensing systems as shown... Fur-
+ther, while reference has been made to controlling trac-
+tive power applied to the sides of a mower or to the
+mower wheels, it will ‘be understood that the course ‘of
+the mower may be determined by controlling a third
+wheel, such as the wheel 140, Figs. 2-4, where the
+sensings system herein described control the orientation
+of said third wheel. These and other modifications may
+now suggest themselves to one skilled in the art and ‘it
+is intended to cover such modifications as fall within the
+scope of the appended claims.
+
+What is claimed is:
+
+1. The method of controlling utilization of power from
+an alternating current source which comprises modify-
+ing the character of the alternating current in one or the
+other of two selectable senses at a control point, at a
+utilization point remote from said control point. selec-
+tively detecting said modification to produce one or the
+other of two control functions.of distinctively contrasting
+character in dependence upon the sense of said modi-
+fications, concurrently producing a sustained mechanical
+force from said alternating current, and selectively trans-
+mitting said force for utilization in dependence upon said
+contro] functions.
+
+2. The method of controlling through a bridge net-
+work utilization of power from an. alternating current
+source which comprises modifying the character of the
+alternating current in one or the other of two selectable
+senses at a control point, at a utilization point. remote
+from said control point applying said modified alternat-
+ing current to said bridge network, upon flow. of. said
+alternating current in said bridge network producing in
+one of two bridge arms one of two distinctive control
+functions in dependence upon the sense of the modifica-
+tion of said alternating current, concurrently developing
+a sustained mechanical force from said alternating cur-
+rent, and selectively transmitting said force for utilization
+in dependence upon said control functions.
+
+3. The method of remote control of a lawn mower
+supplied with tractive and cutting power from an alternat-
+ing current power circuit which comprises selectivity
+modifying the character of said alternating current in
+one or the other of two selectable senses at a point in said
+circuit remote from said lawn mower, at said lawn mower
+detecting the modification of said alternating current to
+produce one or the other of two control functions in de-
+pendence upon the sense of said modification, and se-
+lectively controlling the transmission of tractive power to
+one side or the other of said mower in dependence upon
+said control functions while maintaining continuous ap-
+plication of said cutting power.
+
+4. The method of remote control of a lawn mower
+supplied with tractive and cutting power from an alter-
+nating current power circuit terminated in a-motor and
+a bridge network which comprises selectivity modifying
+the character of said alternating current in one or the
+other of two selectable senses at a point .in said circuit
+remote from said lawn mower, selectively sensing the
+modification of said alternating current in said ‘bridge
+network to produce in one.of two adjacent arms a con-
+trol function dependent upon the sense of said modifica-
+tion, and selectively controlling the transmission of trac-
+tive power from said motor to one side or the other of
+said mower in dependence upon said control ‘function
+-while- maintaining continuous application of said cutting
+
+power.. — oe
+ee

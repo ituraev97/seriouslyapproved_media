@@ -1,0 +1,546 @@
+{
+ "T": 56.23,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.392,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.225
+    ],
+    [
+     3.625,
+     4.841
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair1",
+   "figno": "1"
+  },
+  {
+   "t0": 5.392,
+   "t1": 11.167,
+   "i": 1,
+   "segs": [
+    [
+     5.392,
+     6.501
+    ],
+    [
+     6.781,
+     8.658
+    ],
+    [
+     8.938,
+     10.816
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "CAN HOLDER",
+     363,
+     328,
+     60,
+     -60
+    ],
+    [
+     "FRIDGE",
+     258,
+     450,
+     -60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 11.167,
+   "t1": 17.442,
+   "i": 2,
+   "segs": [
+    [
+     11.167,
+     15.305
+    ],
+    [
+     15.725,
+     16.941
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHAIR WITH REFRIGERATOR AND|ARMREST BEVERAGE COOLER",
+   "filed": "AUG. 18, 1986",
+   "date": "JAN. 19, 1988",
+   "at": 3.6
+  },
+  {
+   "t0": 17.442,
+   "t1": 23.727,
+   "i": 3,
+   "segs": [
+    [
+     17.442,
+     21.432
+    ],
+    [
+     21.712,
+     23.376
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair4",
+   "figno": "4",
+   "calls": [
+    [
+     "COMPRESSOR",
+     318,
+     828,
+     -40,
+     70
+    ],
+    [
+     "FRIDGE",
+     690,
+     540,
+     60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 23.727,
+   "t1": 30.096,
+   "i": 4,
+   "segs": [
+    [
+     23.727,
+     27.481
+    ],
+    [
+     27.761,
+     29.745
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "DOOR",
+     258,
+     450,
+     -60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 30.096,
+   "t1": 32.175,
+   "i": 5,
+   "segs": [
+    [
+     30.096,
+     31.824
+    ]
+   ],
+   "g": "quote",
+   "q": "to enjoy television or merely relax and consume beverages and related products without getting out of the chair",
+   "hit": "without getting out of the chair",
+   "src": "US 4,719,764 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 32.175,
+   "t1": 40.562,
+   "i": 6,
+   "segs": [
+    [
+     32.175,
+     40.111
+    ]
+   ],
+   "g": "quote",
+   "q": "to enjoy television or merely relax and consume beverages and related products without getting out of the chair",
+   "hit": "without getting out of the chair",
+   "src": "US 4,719,764 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 40.562,
+   "t1": 47.081,
+   "i": 7,
+   "segs": [
+    [
+     40.562,
+     45.064
+    ],
+    [
+     45.564,
+     46.63
+    ]
+   ],
+   "g": "quote",
+   "q": "may be provided either on the left- or right-hand armrest or on both",
+   "hit": "or on both",
+   "src": "US 4,719,764 \u00b7 description"
+  },
+  {
+   "t0": 47.081,
+   "t1": 52.086,
+   "i": 8,
+   "segs": [
+    [
+     47.081,
+     49.087
+    ],
+    [
+     49.587,
+     51.635
+    ]
+   ],
+   "g": "stamp",
+   "title": "CHAIR WITH REFRIGERATOR AND|ARMREST BEVERAGE COOLER",
+   "filed": "AUG. 18, 1986",
+   "date": "JAN. 19, 1988",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 52.086,
+   "t1": 56.23,
+   "i": 9,
+   "segs": [
+    [
+     52.086,
+     53.131
+    ]
+   ],
+   "g": "fig",
+   "fig": "chair1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.225,
+   "txt": "An armchair."
+  },
+  {
+   "t0": 3.625,
+   "t1": 4.293,
+   "txt": "Now look at"
+  },
+  {
+   "t0": 4.293,
+   "t1": 4.841,
+   "txt": "the side."
+  },
+  {
+   "t0": 5.392,
+   "t1": 6.237,
+   "txt": "There's a little"
+  },
+  {
+   "t0": 6.237,
+   "t1": 6.501,
+   "txt": "door."
+  },
+  {
+   "t0": 6.781,
+   "t1": 7.532,
+   "txt": "Behind it,"
+  },
+  {
+   "t0": 7.532,
+   "t1": 8.658,
+   "txt": "a refrigerator."
+  },
+  {
+   "t0": 8.938,
+   "t1": 9.586,
+   "txt": "And in the"
+  },
+  {
+   "t0": 9.586,
+   "t1": 10.104,
+   "txt": "armrest,"
+  },
+  {
+   "t0": 10.104,
+   "t1": 10.816,
+   "txt": "a cold can."
+  },
+  {
+   "t0": 11.167,
+   "t1": 12.021,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 12.021,
+   "t1": 13.532,
+   "txt": "chair with refrigerator"
+  },
+  {
+   "t0": 13.532,
+   "t1": 14.845,
+   "txt": "and armrest beverage"
+  },
+  {
+   "t0": 14.845,
+   "t1": 15.305,
+   "txt": "cooler."
+  },
+  {
+   "t0": 15.725,
+   "t1": 16.365,
+   "txt": "And it was"
+  },
+  {
+   "t0": 16.365,
+   "t1": 16.941,
+   "txt": "approved."
+  },
+  {
+   "t0": 17.442,
+   "t1": 18.573,
+   "txt": "Inside the chair:"
+  },
+  {
+   "t0": 18.573,
+   "t1": 19.437,
+   "txt": "a compressor,"
+  },
+  {
+   "t0": 19.437,
+   "t1": 20.567,
+   "txt": "a condenser coil,"
+  },
+  {
+   "t0": 20.567,
+   "t1": 21.432,
+   "txt": "an air grill."
+  },
+  {
+   "t0": 21.712,
+   "t1": 22.507,
+   "txt": "If desired,"
+  },
+  {
+   "t0": 22.507,
+   "t1": 23.376,
+   "txt": "a small fan."
+  },
+  {
+   "t0": 23.727,
+   "t1": 24.698,
+   "txt": "The fridge door"
+  },
+  {
+   "t0": 24.698,
+   "t1": 25.475,
+   "txt": "is hinged at"
+  },
+  {
+   "t0": 25.475,
+   "t1": 26.187,
+   "txt": "the bottom,"
+  },
+  {
+   "t0": 26.187,
+   "t1": 26.899,
+   "txt": "so it opens"
+  },
+  {
+   "t0": 26.899,
+   "t1": 27.481,
+   "txt": "downward."
+  },
+  {
+   "t0": 27.761,
+   "t1": 28.319,
+   "txt": "A rack on"
+  },
+  {
+   "t0": 28.319,
+   "t1": 29.187,
+   "txt": "the door holds"
+  },
+  {
+   "t0": 29.187,
+   "t1": 29.745,
+   "txt": "the cans."
+  },
+  {
+   "t0": 30.096,
+   "t1": 30.768,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 30.768,
+   "t1": 31.44,
+   "txt": "says what it's"
+  },
+  {
+   "t0": 31.44,
+   "t1": 31.824,
+   "txt": "all for."
+  },
+  {
+   "t0": 32.175,
+   "t1": 33.585,
+   "txt": "To enjoy television"
+  },
+  {
+   "t0": 33.585,
+   "t1": 34.697,
+   "txt": "or merely relax"
+  },
+  {
+   "t0": 34.697,
+   "t1": 36.255,
+   "txt": "and consume beverages"
+  },
+  {
+   "t0": 36.255,
+   "t1": 37.738,
+   "txt": "and related products"
+  },
+  {
+   "t0": 37.738,
+   "t1": 39.147,
+   "txt": "without getting out"
+  },
+  {
+   "t0": 39.147,
+   "t1": 40.111,
+   "txt": "of the chair."
+  },
+  {
+   "t0": 40.562,
+   "t1": 41.476,
+   "txt": "The can holder"
+  },
+  {
+   "t0": 41.476,
+   "t1": 42.454,
+   "txt": "may be provided"
+  },
+  {
+   "t0": 42.454,
+   "t1": 43.302,
+   "txt": "either on the"
+  },
+  {
+   "t0": 43.302,
+   "t1": 44.542,
+   "txt": "left- or right-hand"
+  },
+  {
+   "t0": 44.542,
+   "t1": 45.064,
+   "txt": "armrest."
+  },
+  {
+   "t0": 45.564,
+   "t1": 46.63,
+   "txt": "Or on both."
+  },
+  {
+   "t0": 47.081,
+   "t1": 48.299,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 48.299,
+   "t1": 49.087,
+   "txt": "eighty-six."
+  },
+  {
+   "t0": 49.587,
+   "t1": 50.828,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 50.828,
+   "t1": 51.635,
+   "txt": "eighty-eight."
+  },
+  {
+   "t0": 52.086,
+   "t1": 53.131,
+   "txt": "Or on both."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.392
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.167
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.442
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 23.727
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 30.096
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 32.175
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 40.562
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 47.081
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 52.086
+  }
+ ],
+ "hook": "WHAT'S IN|THIS [CHAIR]?",
+ "hook2": "A [FRIDGE]|IN A CHAIR \u00b7 1988",
+ "hookSwitch": 2,
+ "num": "US 4,719,764"
+}

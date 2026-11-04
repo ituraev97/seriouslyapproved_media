@@ -1,0 +1,198 @@
+2,941,346
+
+9
+
+5. ‘The method of remote control of a lawn mower
+supplied with tractive and cutting power from an alternat-
+ing current circuit terminated in a motor which com-
+prises selectively varying the magnitude of current peaks
+of a first polarity or current peaks of a second polarity
+at a control point remote from said lawn mower, pro-
+ducing a first control function at said lawn mower in
+dependence upon variation in peaks of said first polarity
+and a second control function in dependence upon. varia-
+tions in peaks of said second polarity and separately con-
+trolling transmission of tractive power from said motor
+to one side of said mower in dependence upon said first
+control function and to the other side of said mower in
+dependence upon said second control function while
+maintaining continuous application of said cutting power.
+
+- 6. The method of claim 5 in which a counter clock-
+
+wise rotational motion is utilized to modify said peaks
+of first polarity and said first control function controls
+tractive power transmission to the left side of said mower
+and in which a clockwise rotational motion is. utilized
+to modify peaks of said second polarity and said second
+control function controls tractive power transmission to
+the right side of said mower. oe
+
+7. In a power lawn mower adapted to provide tractive
+power for laterally spaced wheels the combination com-
+prising separate driving connections to said wheels, a
+circuit of two conductors extending from each of said
+driving connections exclusively responsive to different sig-
+mower, means at said control point for selectively in-
+troducing at least two signals into said circiut, and trans-
+lating means in said circuit adjacent to each of said
+driving connections exclusively responsive to different sig-
+nals in said circuit and adapted selectively to alter said
+driving connections.
+
+8. In a Jawn mower having separate power transfer
+means for each of two drive wheels the combination
+comprising, an electrical circuit of two conductor ex-
+tending from a remote point to said mower, normally en-
+ergized solenoids for each of said power transfer means
+adapted normally to maintain applieation of tractive
+power to said wheels, a control circuit at said remote
+point for applying to said circuit electrical signals se-
+lectively of one of two distinct characteristics, and a
+means coupled to said circuit and to: both said solenoids
+and responsive to said electrical signals for selectively
+deenergizing said solenoids to remove tractive power
+from their associated wheels thereby to alter the course
+of said mower.
+
+9. A power and traction control system comprising an
+electrical power circuit, means at one end of said cir-
+cuit for translating the electrical power in said circuit
+into tractive mechanical forces, means at the other end
+of said circuit for selectively introducing therein an elec-
+trical component having one of two distinctive character-
+istics, and means at said one end adapted individually
+to control said tractive forces at one or the other side
+of said system in response respectively to said component
+of one or the other of said characteristics.
+
+10. In combinnation with a lawn mower having sepa-
+rate belts for driving each of two power wheels from an
+electrical motor, a course control system which com-
+prises means remote from said mower for selectively pro-
+ducing variations in either of two senses and in selectable
+magnitude the character of the electrical energy fed to
+said motor, means on said mower responsive to said varia-
+tions in a first sense for altering the power transfer to
+one of said wheels and responsive to said variations in
+a second sense for varying the power transfer to the
+second of said wheels.
+
+11. A remote control system for a lawn mower having
+separate belt means for applying power from a motor to
+each of two drive wheels which comprise a power circuit
+for applying electrical energy to said motor, a control
+element remote from said mower, a circuit intermediate
+
+10
+
+15
+
+20
+
+25
+
+30
+
+36
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+10
+said control element ard said. powét circuit and résponsive
+to said control element for selectively producing varia-
+tions in either of two senses the character of the electrical
+energy fed to said motor, a first means on said mower
+connected to said power circuit and responsive to said
+variations in a first sense for varying the power transfer
+through said belt means to one of said wheels, and means
+on said mower responsive to said variations in a second
+sense for varying the power transfer through said’ belt
+means to the second of said wheels.
+
+12. In a system utilizing electrical energy from a
+two conductor alternating current circuit and capable
+of at least two modes of power utilization, the combina-
+tion which comprises means remote from the point of
+power utilization for selectively producing variations in
+either of two senses the character of the electrical energy
+fed to said utilization point, means connected to said
+circuit adjacent said point of utilization and responsive
+
+: to variations in a first sense for controlling power utiliza-
+
+tion in one of said modes and means connected to said
+source adjacent said point of utilization and responsive to
+variations in a second sense for controlling power utiliza-
+tion in a second of said modes.
+
+13. The combination set forth in claim 12 wherein
+means are provided for selectively altering the magnitude
+of the positive peaks or the negative peaks of the said
+alternating current and wherein the means at said point
+of utilization comprise solenoid means selectively oper-
+able in dependence upon voltage levels in the range of
+control of the varying means.
+
+14. The combination set forth in claim 12 in which
+means are provided for introducing into said two wire
+system unidirectional components of electrical energy of
+positive or negative polarity and wherein said means at
+said utilization point are responsive to the presence or
+absence of said components of one polarity or the other
+to control.
+
+15. A course control system in combination with a
+lawn mower propelled by energy from a power circuit
+exciting an electrical motor comprising separate driving
+connections for applying tractive power from said motor
+to each side of said mower, means in said power circuit
+remote from said lawn mower for selectively producing
+slight modification of the character of said energy in
+either of two senses, a clutch means for controlling each
+of said driving connections, and circuit means responsive
+to said modifications in one of said senses for controlling
+one of said clutches and in the other of said senses for
+controlling the other of said clutches.
+
+16. A remote controlled lawn mower system supplied
+with tractive and cutting power from an alternating
+current circuit terminated in a motor which comprises
+a pair of transfer links between said motor and the right
+and left sides of said mower, a bridge network con-
+nected across said circuit, control means for each of said
+links coupled to said bridge and energized from said
+circuit normally to effect transmission of tractive power
+to both sides of said mower, means at a point in said
+circuit remote from said mower for producing selective
+modification of said alternating current in one or the
+other of said two senses, and sensing means in said bridge
+network responsive to the modifications for selectively
+deenergizing one or the other of said control means.
+
+17. A remote controlled lawn mower system supplied
+with tractive and cutting power from an alternating cur-
+rent circuit terminated in a motor which comprises a
+pair of tractive power transfer links between said motor
+and the sides of said mower each including clutch means,
+a bridge network connected across said circuit, control
+means for each of said clutch means coupled to said
+bridge network and excited from said circuit normally
+to maintain transmission of tractive power to both sides
+of said mower, means in said circuit at a point remote
+from said lawn mower for producing selective modifica-
+tions of said alternating current in one or the other of

@@ -1,0 +1,195 @@
+United States Patent Office
+
+2,941,346
+
+Patented June 21, 1960
+
+2,941,346
+
+METHOD AND APPARATUS FOR THE REMOTE
+CONTROL OF A LAWN MOWER
+
+- Edward Gordon Perry, 3117 Beverley Drive, Dallas, Tex.
+Filed Nov. 2, 1953, Ser. No. 389,592
+19 Claims. (Cl. 56—26)
+
+This invention relates to remote control of power utili-
+zation as by a transaction system or equivalent, and more
+particularly to the development of control functions for
+selectively energizing a sensing system in one of a plu-
+rality of distinct modes of operation. In a more spe-
+cific aspect, the character of electrical energy is selec-
+tively modified in either of two senses at a first station
+and ‘the modified energy is sensed at a second station for
+control‘ of the utilization of the electrical energy in
+either of two senses in response to the modification
+thereof.
+
+Remote control; requiring positive and certain action,
+in general involves complex instrumentation. Radio fre-
+quencies have been employed as well as many other
+specific systems for and modes of producing a desired
+control action. However, positive control combined with
+simplicity in instrumentation is a goal that has not here-
+tofore been readily achieved.
+
+The present invention relates to control of electrical
+power utilization where control action is produced in
+response to slight modification of the character of the
+power voltage at its source and thus does not require
+complex instrumentation, separate control circuits, or the
+use of radio or super power frequencies. At the same
+time, positive control may be maintained while utilizing
+components readily available at modest cost.
+
+The invention, in a broad aspect, comprises modifying
+the character of a voltage at or adjacent a power source
+selectively in either of two senses together with means at
+a power utilization point responsive to variations in the
+voltage in a first sense for controlling power utilization
+in a first mode and responsive to variations in the volt-
+age in a second sense for controlling power utilization in
+a second mode.
+
+In a more specific aspect there is provided control
+for a traction device having at least two modes of power
+utilization which includes the steps of modifying in either
+of two senses the character of the power voltage de-
+livered to the system and at the traction device selectively
+sensing variations in one sense and discriminating against
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+_ ‘placed in opposite conductors.
+
+50
+
+variations in the other sense for controlling respectively 5.
+
+either of the two modes of utilization.
+Further, alternating current normally having axial sym-
+
+metry at one point in a transmission channel is applied to .
+
+means for selectively producing dissymmetry in the alter-
+nating current of at least two distinct characteristi¢s.
+
+Coupled at a remote point to the transmission channel
+is a circuit having ‘a normal condition and two con-
+trasting conditions of operation which includes means
+responsive to variations in the character of the alter-
+nating current for selectively effecting the normal oper-
+ating condition or one or the other of the contrasting con-
+ditions.
+
+In a still more specific aspect of the invention, direc-
+tion control is provided for a lawn mower having two
+separate drives from a single motor which is carried by
+the mower and energized from a power circuit. Means
+are provided at one point in the power circuit for alter-
+
+60
+
+65
+
+2
+
+ing in. either of two senses the symmetry of the alter-
+nating current fed to said power circuit. Sensing méans.
+carried by the mower are provided for producing ‘two
+control functions respectively dependent upon variations.
+in symmetry. of the alternating current in one or the
+other of said two senses for selectively altering transfer’
+of mechanical power from the motor to one or the other
+of the mower drive means.
+
+For a more complete understanding of: the invention
+and for further objects and advantages thereof, reference
+may now be had to-the following description taken in
+conjunction with the accompanying drawings, in which:.
+
+Fig. 1 is a schematic diagram of a control system;
+
+Fig. 2 is a top view of a remote controlled law mower
+system;
+
+Fig. 3 is a side view partially broken away of the de-
+vice of Fig. 2;
+
+Fig. 4 is a front view of the device of Fig. 2;
+
+Figs. 5-10 are modifications of the portion of Fig. 1.
+which produces control functions;
+
+Figs. 11 and 12 are schematic diagrams of control
+function sensing systems; .
+
+Fig. 13. illustrates a lawn mower with direction. sensing
+means; and .
+
+Fig. 14 is a further modification of the invention..
+
+Before turning to a detailed description of. the: draws
+ings, it should be kept in mind that: the invention is.par-.
+ticularly adaptable ‘to systems utilizing power from .an.
+alternating current source, the control of power .use ‘be-
+ing accomplished by modifying slightly the character of
+the power energy. While the invention broadly may be
+applicable to various forms of power utilization and
+traction devices, for present purposes, the description will
+pertain to a preferred form of the invention such as an
+electrically driven lawn mower. From the following de-
+tailed description of this specific form, the utility. of the
+present method of remote control in a more general sense
+will become apparent.
+
+- In Fig. 1, there as shown a system suitable for control-
+ling mechanical forces applied to either blocks 10 or 11,
+developed from power from an alternating current source
+12. At a control point or station 13 a network is pro-—
+vided which includes a pair of single . pole double throw
+switches 14 and 15. For convenience, switches 14 and
+15 are connected in series in the line conductor 16 lead-
+ing from one terminal of source 12 but could as well be
+One terminal of each of
+switches 14 and 15 is interconnected by a conductor 17,
+The second terminals of switches 14 and 15 are intercon-
+nected by shunt 18. A rectifier 19 bridges conductor 17
+and shunt 18. An output conductor 20 leads from switch
+15 to a power utilization device such as motor 21. -A
+second conductor 22 connects the second terminal of
+source 12 to motor 21. A resistance 23 is connected
+between conductors 16 and 20 to form a parallel path
+around switches 14 and 15.
+
+Circuit operation at control station 13 may be under-
+stood mosi readily by considering steady state conditions,
+When conductor 16 is positive with respect to conductor
+22, current tends to flow from conductor 16 through
+motor 21 to conductor 22. When switch 14 is moved
+from normal position to its second position the back im-
+pedance of rectifier 19 prevents current flow through
+switch 15, and consequently current must flow through
+resistor 23. A substantial reduction in voltage is thus
+produced, the reduction being the IR drop in resister 23.
+However, when switch 14 is in its normal. position and
+switch 15 is moved from normal position to its second
+position, current may flow through the path including
+switch 14, rectifier 19 in the low impedance direction,
+and switch 15, experiencing no reduction.
+
+An effect opposite that above described is produced

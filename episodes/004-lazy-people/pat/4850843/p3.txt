@@ -1,0 +1,181 @@
+4,850,843
+
+1
+ICE CREAM SERVER
+
+BACKGROUND OF THE INVENTION
+
+1. Technical Field
+
+This invention relates generally to devices for dis-
+lodging and serving a scoop of ice cream from a con-
+tainer of ice cream, and more particularly to a new and
+improved ice cream server designed to facilitate the
+process.
+
+2. Background Information
+
+An ice cream server is used to transfer ice cream from
+a container to a serving location one scoop at a time,
+and a typical existing ice cream server includes a han-
+dle, a bowl, and a wiper mechanism for this purpose. In
+dishing up a scoop of ice cream, the user grasps the
+handle, scoops the bowl into the container of ice cream
+to dislodge a scoop, positions the bowl over the location
+where the scoop is to be deposited, and then actuates
+the wiper mechanism to scrape the scoop free from the
+bowl to complete the transfer.
+
+However, there are certain problems in doing this
+that need to be overcome. For example, the ice cream
+may be very cold and therefore somewhat hard so that
+it is difficult to scoop into the bowl. The user must
+struggle to dislodge a scoop or just wait until the ice
+cream warms sufficiently to soften.
+
+This problem is aggravated when by a half-full drum
+container. The user must reach into the drum, and this
+makes the process of dislodging a scoop all the more
+awkward. Consequently, it is desirable to have a new
+and improved ice cream server to facilitate the scooping
+of hard ice cream.
+
+SUMMARY OF THE INVENTION
+
+This invention alleviates the problem outlined above
+with a motorized ice cream server having a rotatable
+bowl, one embodiment including saw tooth projections
+on the lip of the bowl that cut into the ice cream at the
+push of a button. Thus, the ice cream server makes the
+scooping of hard ice cream far more convenient.
+
+Generally, an ice cream server constructed according
+to a major aspect of the invention includes a handle, a
+bowl supported by the handle, and motor means sup-
+ported by the handle for rotating the bowl relative to
+the handle in order to facilitate the scooping of ice
+cream with the bowl. These components may include a
+battery powered motor having a drive shaft and cou-
+pling means for coupling rotational movement from the
+drive shaft to the bowl. In addition, the bowl may in-
+clude a lip having a plurality of sawtooth like projec-
+tions arranged to facilitate the scooping of hard ice
+cream.
+
+According to another aspect of the invention, the
+handle extends along a longitudinal: axis of the handle,
+the drive shaft of the motor extends along a rotational
+axis of the motor, and the motor is mounted on the
+handle pivotally to enable a user to pivot the electric
+motor to a desired relationship of the longitudinal .axis
+of the handle and the rotational axis of the motor.
+
+According to yet another aspect of the invention,
+there is provided wiper means supported within the
+bowl for dislodging ice cream from the bowl. This may
+include a blade mounted within the bowl on the drive
+shaft.
+
+According to still another aspect, the coupling means
+includes a first unidirectional clutch device for coupling
+rotational movement from the drive shaft to the bowl
+
+10
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+65
+
+2
+
+when the drive shaft is rotating in a clockwise direction,
+and a second unidirectional clutch device for inhibiting
+rotational movement of the bow! when the drive shaft is
+rotating in a counterclockwise direction. A reversing
+switch may be included in order to reverse the direction
+of motor rotation, and this enables a user to rotate the
+wiper blade without the bowl rotating by switching to
+the counterclockwise direction.
+
+The above mentioned and other objects and features
+of this invention and the manner of attaining them will
+become apparent, and the invention itself will be best
+understood, by reference to the following description
+taken in conjunction with the accompanying illustrative
+drawings.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+FIG. 1 of the drawings is a perspective view of an ice
+cream server constructed according to the invention
+shown adjacent a container of ice cream;
+
+FIGS. 2 and 3 show operation of the ice cream server
+in dislodging a scoop;
+
+FIG. 4 is an enlarged cross sectional view of the distal
+end of the ice cream server; and
+
+FIG. 5 is a diagrammatic view showing electrical
+interconnections and an accompanying battery charger.
+
+DESCRIPTION OF THE PREFERRED
+EMBODIMENTS
+
+Referring now to the drawings, there is shown an ice
+cream server or apparatus 10 constructed according to
+the invention. It is illustrated in FIG. 1 above a conven-
+tional drum container 11 in a position to commence the
+process of scooping ice cream from the container.
+
+Generally, the apparatus 10 includes a handle 12, a
+motor assembly 13, and a bowl 14 in which is mounted
+a wiper blade or blade 15. These components are ar-
+ranged as subsequently described so that the motor
+assembly 13 causes the bowl 14 and the blade 15 to
+rotate relative to the handle 12 in order to facilitate the
+scooping of ice cream. A cutting edge portion or lip 16
+of the bowl 14 includes a plurality of sawtooth like
+projections 17 that cut into the ice cream to further
+facilitate the scooping process.
+
+As an idea of size, the illustrated handle assembly 12
+is approximately four to five centimeters in diameter
+and approximately twenty centimeters long, while the
+lip 16 of the bowi 14 is about five centimeters in diame-
+ter. Of course, these dimensions are not critical and
+various sizes and shapes can be employed within the
+broader inventive concepts disclosed, preferably so that
+the apparatus 10 can be grasped conveniently by a user.
+Known materials such as injection molded thermoplas-
+tic compositions and metal alloys can be used.
+
+The handle. assembly 12 extends along a longitudinal
+axis 18 from a proximal portion 19 that the user grasps
+to a distal yoke portion 20 by which the motor assembly
+13 is supported. The motor assembly 13 is mounted
+pivotally to the yoke portion 20 by known means such
+as screws and this enables pivotal movement about an
+axis 21. By pivoting the motor assembly 13 about the
+axis 21, the user can move a rotational axis 22 of the
+motor assembly 13 into a desired relationship with the
+longitudinal axis 18.
+
+When the two axes 18 and 22 are aligned as shown in
+FIG. 2, the apparatus 10 is disposed in a straight config-
+uration that facilitates scooping from within the con-
+tainer 11. This is done by advancing the bowl 14 to the

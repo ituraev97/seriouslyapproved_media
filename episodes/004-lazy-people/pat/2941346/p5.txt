@@ -1,0 +1,208 @@
+2,941,346
+
+3
+
+when ‘conductor 22 is positive with respect to conductor
+16. Moré specifically, when switch 14 is in its second
+position, current may flow through rectifier 19, experi-
+encing no reduction. — I
+its second position (with switch 14 in normal position)
+the current to motor 21 must flow through resistor 23
+and: is -substantially reduced.
+
+- From the foregoing, it will now be appreciated that
+when motor’ 21 is energized by alternating current from
+squice -12, the positive peaks or the negative peaks of
+the alternating current voltage are selectively modified
+or reduced,. depending upon the positions of switches 14
+and 15;. - Thus; in Fig. 1 the positive or the negative
+half-cyéle of the voltage from source 12 is selectively
+reduced in magnitude by operation of switch 14 or switch
+15.0 =
+
+- ‘The -variations in amplitude of positive and negative
+half-cycles of the power voltage applied to motor 21 are
+serised’ by a bridge network and applied to associated
+circuits at a utilization point 25. More particularly, ihe
+yoltage applied té the terminals of motor 21 is also ap-
+plied to’ terminals 26 and 27 of the bridge network 23.
+A first bridge arm adjacent terminal 26 includes recti-
+fier.30. ‘The second arm adjacent terminal 26 includes
+the rectifier 31 in series with a parallel circuit compris-
+ing condensor 32 and the relay coil 33. Similarly, the
+one arm adjacent terminal 27 includes a rectifier 34
+poled opposite réctifier 30. The second arm adjacent
+tefminal 27 includes rectifier 35 poled opposite rectifier
+31 and connected in series with the parallel circuit com-
+prising condenser 36 and relay coil 37. The horizontal
+diagonal of the bridge 28 comprises a parallel RC ciz-
+cuit including resistor 38 and condenser 39.
+
+: In. operation when conductor 16 is positive with re-
+spect to conductor 22, current in bridge 28 must flow
+from terminal 26 through rectifier 31, parallel circuit
+32, 33, RC circuit. 38, 39 and rectifier 34 to terminal
+27. Conversely, when conductor 22 is positive with re-
+spect to conductor 16, current must flow through recti-
+fier 35, parallel circuit 36, 37, RC circuit 38, 39, and
+rectifier 30 to terminal 26. The rectifiers 30, 31, 34
+and 35 are so poled that currents can flow through the
+RC circuit 38, 39 in but one direction. Therefore, the
+current flowing through circuits 32, 33 and 36, 37 serve
+essentially a8 a power supply source for charging con-
+denser 39 on each half-cycle. ; Ms
+
+A paif of circuits are connected in parallel with the
+bridge:28. A first circuit comprises the translating means
+such a8 armature 33a of relay 33 having a solenoid coil
+40 connected to the “closed” terminal 33d of relay 33.
+Similarly, armature 37a. of. relay 37, terminal 37b and
+sdlenoid 42 form a circuit in parallel with the bridge 28.
+
+When a half-cycle of voltage across circuit 32—33 is
+smaller in amplitude than the voltage developed across
+condenser 39 on a prior half-cycle, a control function re-
+duction in currerit through relay coil 33, may. be made
+
+“sufficient to release the armature 33a. Similar reduction
+
+of an opposite_half-cycle will release armature 37a.
+When circuits through armatures 33a and 37a are closed
+as. shown, the solenoids 40 and 42 are-energized by pow-
+er from source 12, thus applying mechanical forces to
+the’ utilization devices 10 and 11.
+through relay armatures 33a or 37a are broken by the
+selective action of switches 14 or 15, either one of ‘the
+decoupling means, solenoid 49 or solenoid 41 is de-en-
+ergized, removing the force applied to either utilization
+device 10 or 11.
+
+From the foregoing, it will be seen that the control ac-
+tion ‘48 produced by selectively altering the magnitude of
+‘positive -or negative peaks of the power voltage and
+then ‘sensing such alterations to develop control fune-
+tions for thé selective control of either of two forces.
+This ‘control -action found to be particularly useful is in
+connection with remote control of a conventional lawn
+mower. . Such ‘a Jawn mower system -has been shown in
+
+However, when switch 15 is in-
+
+on
+
+10
+
+15
+
+4
+
+some detail in Figs. 2-4. For the purpose of the follow-
+ing description, where appropriate like parts will be given
+the same reference characters as in Fig. 1.
+
+Referring now to Fig. 2, the lawn mower comprises
+a carriage 50 mounted on wheels 51 and 52. Motor 21
+is supported on carriage 50 and coupled by way of a
+belt 54 to an idler shaft-55. Shaft 55 in turn is cou-
+pled by beits 56 and 57 to drive pulleys fastened to
+each of wheels 51 and 52. In accordance. with the pres-
+ent invention, solenoids 40 and 42 are supported on the
+carriage 50 from members 50a and 50b and are linked
+through rods 60 and 62 respectively to rocker aims 63
+and 64. . . .
+
+As best seen in Fig. 3, rocker arm 63 is pivoted on a
+shaft 65 and in turn carries a second shaft 66 approxi-
+mately midway between shaft 65 and the link 60. An
+idler pulley 67 is mounted on shaft 66. When solenoid
+
+- 40 is de-energized, rocker arm 63 falls away from. belt
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+When the circuit”
+
+70
+
+75
+
+-in Fig. 1.
+
+56 and there is slippage between shaft 55 and wheel 51
+and consequently little or. mo tractive power is delivered
+to the drive pulley fastened to the mower wheel 51.
+However, when solenoid 40 is energized, idler pulley 67
+is forced against belt 56 bringing it into tension and thus
+producing the application of tractive force through belt
+56 to wheel 51. An identical arrangement is provided,
+as indicated in Figs. '2 and 4, for controlling the appli-
+cation of a tractive force to wheel 52.
+
+In operation switches 14 and 15, Fig. 1, are nor-
+mally in the positions shown in Fig. 1, and both relays
+48 and 42 are energized. Tractive power is thereupon
+delivered to wheels 51 and 52 and the mower moves
+straight ahead. If switch 14 is moved from normal to
+its second position, one wheel, for example wheel 51,
+will become immobilized but wheel 52 continues to turn.
+so that mower changes course. In the same manner
+wheel 51 may be controlled by switch 15. Selectability
+in the position of switches 14 and 15 provides ready.
+control for maneuvering the lawn mower, reducing sub-
+stantially the physical exertion otherwise historically. as-
+sociated with lawn maintenance.
+
+In Figs. 2-4, it will be noted that a cable reel 70 i
+provided which as best seen in Fig. 4, is mounted on
+a vertical shaft-71-suitably supported from-a frame 59.
+The reel includes a spool 72 and-a friction take-up plate
+73, the latter being positioned-under the spool 72 and
+in frictional engagement with a drive wheel 74 coupied.
+to the idler shaft 55. The frictional coupling between,
+plate 73 and wheel permits unspooling of cable 75 when
+the mower is moving away from a control station and
+causes cable 75 to be reeled. in as the mower moves to-
+ward a control station, thus keeping the mowing site
+free at all times of the cable and preventing entanglc-
+ment of the mower in the cable strands. The reel struc-
+ture includes slip rings and brushes (not shown) for
+completing the electrical circuit from cable 75 to motor
+21 and the associated control components. -
+
+In Fig. 2 it will be seen that cable 75 leads from the
+mower to the control station 13. A control box 13a
+houses a power switch 13b which serves to open the
+power circuit to the mower. A control knob 13c is
+provided to control both switch 14 and switch 15 shown
+Such an arrangement lends more positive
+coniro! and certainty upon the part of an operator which
+is requisite in order to -admit_use of the machine in
+many locations. Movement of a control_element to’ the
+right or to the left to produce a left turn or right-turn_
+
+of the controlled system may be confusing, depending ~--—~
+
+upon relative position of the control station and the
+course of the mower. However, the concept of rotat-
+ing control element or knob 13c in one sense or direc-
+tion to produce corresponding rotation of the mower in
+the same sense or direction is free from confusion... This
+feature of applicant’s invention is material in ultimate
+use of the device. ‘Control action is such that. rotation
+of ‘control 13¢ will produce a corresponding “rotation”

@@ -1,0 +1,487 @@
+{
+ "T": 51.15,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 4.965,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.033
+    ],
+    [
+     3.433,
+     4.414
+    ]
+   ],
+   "g": "fig",
+   "fig": "fork12",
+   "figno": "1 & 2"
+  },
+  {
+   "t0": 4.965,
+   "t1": 11.529,
+   "i": 1,
+   "segs": [
+    [
+     4.965,
+     6.714
+    ],
+    [
+     6.994,
+     9.213
+    ],
+    [
+     9.493,
+     11.178
+    ]
+   ],
+   "g": "fig",
+   "fig": "fork12",
+   "figno": "1 & 2",
+   "draw": false,
+   "calls": [
+    [
+     "BATTERY",
+     204,
+     372,
+     -90,
+     -30
+    ],
+    [
+     "MOTOR",
+     204,
+     600,
+     -90,
+     30
+    ],
+    [
+     "BUTTON",
+     600,
+     804,
+     90,
+     0
+    ]
+   ]
+  },
+  {
+   "t0": 11.529,
+   "t1": 16.269,
+   "i": 2,
+   "segs": [
+    [
+     11.529,
+     14.132
+    ],
+    [
+     14.552,
+     15.768
+    ]
+   ],
+   "g": "stamp",
+   "title": "MOTORIZED TWISTING|PASTA FORK",
+   "filed": "MAR. 4, 1991",
+   "date": "NOV. 5, 1991",
+   "at": 3.0
+  },
+  {
+   "t0": 16.269,
+   "t1": 19.692,
+   "i": 3,
+   "segs": [
+    [
+     16.269,
+     19.341
+    ]
+   ],
+   "g": "quote",
+   "q": "the only twisting motion is done by the wrist and hand of the user",
+   "hit": "wrist and hand of the user",
+   "src": "US 5,062,211 \u00b7 prior art",
+   "hide": true
+  },
+  {
+   "t0": 19.692,
+   "t1": 24.538,
+   "i": 4,
+   "segs": [
+    [
+     19.692,
+     24.087
+    ]
+   ],
+   "g": "quote",
+   "q": "the only twisting motion is done by the wrist and hand of the user",
+   "hit": "wrist and hand of the user",
+   "src": "US 5,062,211 \u00b7 prior art",
+   "typed": false
+  },
+  {
+   "t0": 24.538,
+   "t1": 31.943,
+   "i": 5,
+   "segs": [
+    [
+     24.538,
+     31.492
+    ]
+   ],
+   "g": "quote",
+   "q": "causing embarrassment to the user",
+   "hit": "embarrassment",
+   "src": "US 5,062,211 \u00b7 prior art"
+  },
+  {
+   "t0": 31.943,
+   "t1": 41.876,
+   "i": 6,
+   "segs": [
+    [
+     31.943,
+     35.314
+    ],
+    [
+     35.594,
+     41.525
+    ]
+   ],
+   "g": "quote",
+   "q": "retain the food in place while the implement is being raised to the user's mouth",
+   "hit": "raised to the user's mouth",
+   "src": "US 5,062,211 \u00b7 summary"
+  },
+  {
+   "t0": 41.876,
+   "t1": 46.944,
+   "i": 7,
+   "segs": [
+    [
+     41.876,
+     44.521
+    ],
+    [
+     45.021,
+     46.493
+    ]
+   ],
+   "g": "stamp",
+   "title": "MOTORIZED TWISTING|PASTA FORK",
+   "filed": "MAR. 4, 1991",
+   "date": "NOV. 5, 1991",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 46.944,
+   "t1": 51.15,
+   "i": 8,
+   "segs": [
+    [
+     46.944,
+     48.053
+    ]
+   ],
+   "g": "fig",
+   "fig": "fork12",
+   "figno": "1 & 2",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.033,
+   "txt": "A fork."
+  },
+  {
+   "t0": 3.433,
+   "t1": 4.414,
+   "txt": "With batteries."
+  },
+  {
+   "t0": 4.965,
+   "t1": 5.475,
+   "txt": "Inside:"
+  },
+  {
+   "t0": 5.475,
+   "t1": 6.277,
+   "txt": "a motor and"
+  },
+  {
+   "t0": 6.277,
+   "t1": 6.714,
+   "txt": "gears."
+  },
+  {
+   "t0": 6.994,
+   "t1": 7.961,
+   "txt": "Press the button,"
+  },
+  {
+   "t0": 7.961,
+   "t1": 8.644,
+   "txt": "and the fork"
+  },
+  {
+   "t0": 8.644,
+   "t1": 9.213,
+   "txt": "end turns."
+  },
+  {
+   "t0": 9.493,
+   "t1": 10.725,
+   "txt": "The spaghetti winds"
+  },
+  {
+   "t0": 10.725,
+   "t1": 11.178,
+   "txt": "itself."
+  },
+  {
+   "t0": 11.529,
+   "t1": 12.335,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 12.335,
+   "t1": 13.822,
+   "txt": "motorized twisting pasta"
+  },
+  {
+   "t0": 13.822,
+   "t1": 14.132,
+   "txt": "fork."
+  },
+  {
+   "t0": 14.552,
+   "t1": 15.192,
+   "txt": "And it was"
+  },
+  {
+   "t0": 15.192,
+   "t1": 15.768,
+   "txt": "approved."
+  },
+  {
+   "t0": 16.269,
+   "t1": 17.391,
+   "txt": "The patent explains"
+  },
+  {
+   "t0": 17.391,
+   "t1": 18.337,
+   "txt": "the problem with"
+  },
+  {
+   "t0": 18.337,
+   "t1": 19.341,
+   "txt": "an ordinary fork."
+  },
+  {
+   "t0": 19.692,
+   "t1": 20.878,
+   "txt": "The only twisting"
+  },
+  {
+   "t0": 20.878,
+   "t1": 21.854,
+   "txt": "motion is done"
+  },
+  {
+   "t0": 21.854,
+   "t1": 22.692,
+   "txt": "by the wrist"
+  },
+  {
+   "t0": 22.692,
+   "t1": 23.459,
+   "txt": "and hand of"
+  },
+  {
+   "t0": 23.459,
+   "t1": 24.087,
+   "txt": "the user."
+  },
+  {
+   "t0": 24.538,
+   "t1": 25.247,
+   "txt": "And if the"
+  },
+  {
+   "t0": 25.247,
+   "t1": 26.312,
+   "txt": "pasta slips off"
+  },
+  {
+   "t0": 26.312,
+   "t1": 27.021,
+   "txt": "on the way"
+  },
+  {
+   "t0": 27.021,
+   "t1": 27.234,
+   "txt": "up,"
+  },
+  {
+   "t0": 27.234,
+   "t1": 28.441,
+   "txt": "the patent warns,"
+  },
+  {
+   "t0": 28.441,
+   "t1": 29.15,
+   "txt": "it ends up"
+  },
+  {
+   "t0": 29.15,
+   "t1": 30.854,
+   "txt": "causing embarrassment to"
+  },
+  {
+   "t0": 30.854,
+   "t1": 31.492,
+   "txt": "the user."
+  },
+  {
+   "t0": 31.943,
+   "t1": 32.726,
+   "txt": "So the middle"
+  },
+  {
+   "t0": 32.726,
+   "t1": 33.629,
+   "txt": "tine is longer,"
+  },
+  {
+   "t0": 33.629,
+   "t1": 34.351,
+   "txt": "and the fork"
+  },
+  {
+   "t0": 34.351,
+   "t1": 35.314,
+   "txt": "spins around it."
+  },
+  {
+   "t0": 35.594,
+   "t1": 36.381,
+   "txt": "Then it holds"
+  },
+  {
+   "t0": 36.381,
+   "t1": 36.744,
+   "txt": "still,"
+  },
+  {
+   "t0": 36.744,
+   "t1": 37.531,
+   "txt": "to retain the"
+  },
+  {
+   "t0": 37.531,
+   "t1": 38.317,
+   "txt": "food in place"
+  },
+  {
+   "t0": 38.317,
+   "t1": 39.467,
+   "txt": "while the implement"
+  },
+  {
+   "t0": 39.467,
+   "t1": 40.375,
+   "txt": "is being raised"
+  },
+  {
+   "t0": 40.375,
+   "t1": 41.162,
+   "txt": "to the user's"
+  },
+  {
+   "t0": 41.162,
+   "t1": 41.525,
+   "txt": "mouth."
+  },
+  {
+   "t0": 41.876,
+   "t1": 43.009,
+   "txt": "Filed in March,"
+  },
+  {
+   "t0": 43.009,
+   "t1": 44.521,
+   "txt": "nineteen ninety-one."
+  },
+  {
+   "t0": 45.021,
+   "t1": 46.493,
+   "txt": "Approved in November."
+  },
+  {
+   "t0": 46.944,
+   "t1": 48.053,
+   "txt": "No more wrist."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 4.965
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.529
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.269
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 19.692
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 24.538
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 31.943
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 41.876
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 46.944
+  }
+ ],
+ "hook": "WHAT DOES|THIS [FORK] DO?",
+ "hook2": "THE [MOTORIZED]|PASTA FORK \u00b7 1991",
+ "hookSwitch": 2,
+ "num": "US 5,062,211"
+}

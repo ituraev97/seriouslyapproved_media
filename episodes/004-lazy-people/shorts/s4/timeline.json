@@ -1,0 +1,502 @@
+{
+ "T": 54.39,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.165,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.699
+    ],
+    [
+     4.099,
+     5.614
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed1",
+   "figno": "1"
+  },
+  {
+   "t0": 6.165,
+   "t1": 12.215,
+   "i": 1,
+   "segs": [
+    [
+     6.165,
+     9.749
+    ],
+    [
+     10.029,
+     11.864
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed2",
+   "figno": "2",
+   "calls": [
+    [
+     "PULL CORDS",
+     402,
+     306,
+     120,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 12.215,
+   "t1": 17.731,
+   "i": 2,
+   "segs": [
+    [
+     12.215,
+     14.988
+    ],
+    [
+     15.268,
+     17.38
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 17.731,
+   "t1": 21.724,
+   "i": 3,
+   "segs": [
+    [
+     17.731,
+     19.587
+    ],
+    [
+     20.007,
+     21.223
+    ]
+   ],
+   "g": "stamp",
+   "title": "BEDMAKING|DEVICE",
+   "filed": "JAN. 22, 1959",
+   "date": "MAR. 29, 1960",
+   "at": 2.6
+  },
+  {
+   "t0": 21.724,
+   "t1": 30.452,
+   "i": 4,
+   "segs": [
+    [
+     21.724,
+     30.001
+    ]
+   ],
+   "g": "quote",
+   "q": "since the work is routine and does not result in the creation of new economic wealth",
+   "hit": "new economic wealth",
+   "src": "US 2,930,053 \u00b7 col. 1"
+  },
+  {
+   "t0": 30.452,
+   "t1": 32.275,
+   "i": 5,
+   "segs": [
+    [
+     30.452,
+     31.924
+    ]
+   ],
+   "g": "quote",
+   "q": "kicked-out covers may be automatically re-tucked into place by the bed occupant merely by flipping a switch",
+   "hit": "flipping a switch",
+   "src": "US 2,930,053 \u00b7 col. 1",
+   "hide": true
+  },
+  {
+   "t0": 32.275,
+   "t1": 39.958,
+   "i": 6,
+   "segs": [
+    [
+     32.275,
+     39.507
+    ]
+   ],
+   "g": "quote",
+   "q": "kicked-out covers may be automatically re-tucked into place by the bed occupant merely by flipping a switch",
+   "hit": "flipping a switch",
+   "src": "US 2,930,053 \u00b7 col. 1",
+   "typed": false
+  },
+  {
+   "t0": 39.958,
+   "t1": 44.877,
+   "i": 7,
+   "segs": [
+    [
+     39.958,
+     41.58
+    ],
+    [
+     41.86,
+     44.526
+    ]
+   ],
+   "g": "quote",
+   "q": "merely slip on the stub shafts 38 and no harm is done",
+   "hit": "no harm is done",
+   "src": "US 2,930,053 \u00b7 col. 3"
+  },
+  {
+   "t0": 44.877,
+   "t1": 49.86,
+   "i": 8,
+   "segs": [
+    [
+     44.877,
+     46.968
+    ],
+    [
+     47.468,
+     49.409
+    ]
+   ],
+   "g": "stamp",
+   "title": "BEDMAKING|DEVICE",
+   "filed": "JAN. 22, 1959",
+   "date": "MAR. 29, 1960",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 49.86,
+   "t1": 54.39,
+   "i": 9,
+   "segs": [
+    [
+     49.86,
+     51.29
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.978,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.978,
+   "t1": 2.304,
+   "txt": "real invention from"
+  },
+  {
+   "t0": 2.304,
+   "t1": 3.699,
+   "txt": "nineteen fifty-nine."
+  },
+  {
+   "t0": 4.099,
+   "t1": 4.758,
+   "txt": "A bed that"
+  },
+  {
+   "t0": 4.758,
+   "t1": 5.614,
+   "txt": "makes itself."
+  },
+  {
+   "t0": 6.165,
+   "t1": 7.319,
+   "txt": "Under the mattress,"
+  },
+  {
+   "t0": 7.319,
+   "t1": 8.109,
+   "txt": "cords run out"
+  },
+  {
+   "t0": 8.109,
+   "t1": 9.02,
+   "txt": "from the center"
+  },
+  {
+   "t0": 9.02,
+   "t1": 9.749,
+   "txt": "like spokes."
+  },
+  {
+   "t0": 10.029,
+   "t1": 10.863,
+   "txt": "Clamps hold the"
+  },
+  {
+   "t0": 10.863,
+   "t1": 11.53,
+   "txt": "edges of the"
+  },
+  {
+   "t0": 11.53,
+   "t1": 11.864,
+   "txt": "sheet."
+  },
+  {
+   "t0": 12.215,
+   "t1": 13.118,
+   "txt": "Flip a switch,"
+  },
+  {
+   "t0": 13.118,
+   "t1": 13.827,
+   "txt": "and a motor"
+  },
+  {
+   "t0": 13.827,
+   "t1": 14.795,
+   "txt": "winds the cords"
+  },
+  {
+   "t0": 14.795,
+   "t1": 14.988,
+   "txt": "in."
+  },
+  {
+   "t0": 15.268,
+   "t1": 15.902,
+   "txt": "The sheet is"
+  },
+  {
+   "t0": 15.902,
+   "t1": 16.799,
+   "txt": "pulled tight from"
+  },
+  {
+   "t0": 16.799,
+   "t1": 17.38,
+   "txt": "every side."
+  },
+  {
+   "t0": 17.731,
+   "t1": 18.535,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 18.535,
+   "t1": 19.587,
+   "txt": "bedmaking device."
+  },
+  {
+   "t0": 20.007,
+   "t1": 20.647,
+   "txt": "And it was"
+  },
+  {
+   "t0": 20.647,
+   "t1": 21.223,
+   "txt": "approved."
+  },
+  {
+   "t0": 21.724,
+   "t1": 23.307,
+   "txt": "The patent's complaint"
+  },
+  {
+   "t0": 23.307,
+   "t1": 24.603,
+   "txt": "about making beds:"
+  },
+  {
+   "t0": 24.603,
+   "t1": 25.395,
+   "txt": "the work is"
+  },
+  {
+   "t0": 25.395,
+   "t1": 25.971,
+   "txt": "routine,"
+  },
+  {
+   "t0": 25.971,
+   "t1": 26.834,
+   "txt": "and does not"
+  },
+  {
+   "t0": 26.834,
+   "t1": 27.77,
+   "txt": "result in the"
+  },
+  {
+   "t0": 27.77,
+   "t1": 28.85,
+   "txt": "creation of new"
+  },
+  {
+   "t0": 28.85,
+   "t1": 30.001,
+   "txt": "economic wealth."
+  },
+  {
+   "t0": 30.452,
+   "t1": 31.004,
+   "txt": "And it works"
+  },
+  {
+   "t0": 31.004,
+   "t1": 31.648,
+   "txt": "with you still"
+  },
+  {
+   "t0": 31.648,
+   "t1": 31.924,
+   "txt": "in it."
+  },
+  {
+   "t0": 32.275,
+   "t1": 33.75,
+   "txt": "Kicked-out covers may"
+  },
+  {
+   "t0": 33.75,
+   "t1": 35.575,
+   "txt": "be automatically re-tucked"
+  },
+  {
+   "t0": 35.575,
+   "t1": 36.488,
+   "txt": "into place by"
+  },
+  {
+   "t0": 36.488,
+   "t1": 37.612,
+   "txt": "the bed occupant"
+  },
+  {
+   "t0": 37.612,
+   "t1": 38.875,
+   "txt": "merely by flipping"
+  },
+  {
+   "t0": 38.875,
+   "t1": 39.507,
+   "txt": "a switch."
+  },
+  {
+   "t0": 39.958,
+   "t1": 40.797,
+   "txt": "Hold the switch"
+  },
+  {
+   "t0": 40.797,
+   "t1": 41.58,
+   "txt": "down too long?"
+  },
+  {
+   "t0": 41.86,
+   "t1": 43.003,
+   "txt": "The pulleys merely"
+  },
+  {
+   "t0": 43.003,
+   "t1": 43.32,
+   "txt": "slip,"
+  },
+  {
+   "t0": 43.32,
+   "t1": 44.018,
+   "txt": "and no harm"
+  },
+  {
+   "t0": 44.018,
+   "t1": 44.526,
+   "txt": "is done."
+  },
+  {
+   "t0": 44.877,
+   "t1": 46.147,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 46.147,
+   "t1": 46.968,
+   "txt": "fifty-nine."
+  },
+  {
+   "t0": 47.468,
+   "t1": 48.961,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 48.961,
+   "t1": 49.409,
+   "txt": "sixty."
+  },
+  {
+   "t0": 49.86,
+   "t1": 50.789,
+   "txt": "The bed makes"
+  },
+  {
+   "t0": 50.789,
+   "t1": 51.29,
+   "txt": "itself."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.165
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 12.215
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.731
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.724
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 30.452
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 32.275
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 39.958
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 44.877
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 49.86
+  }
+ ],
+ "hook": "THIS BED|[MAKES ITSELF]",
+ "hook2": "THE BEDMAKING|[DEVICE] \u00b7 1960",
+ "hookSwitch": 3,
+ "num": "US 2,930,053"
+}

@@ -36,6 +36,11 @@ for _, _, ident in cands:
         continue
     m = [f for f in files if f.endswith("/" + name)]
     if m: hit = (ident, m[0]); break
+if not hit:   # disk ranges in names are not exact: fall back to the local disk index (disk_index.py build)
+    idxd = os.path.join(os.path.dirname(cache), "idx")
+    for fn in (sorted(os.listdir(idxd)) if os.path.isdir(idxd) else []):
+        m = [f for f in open(os.path.join(idxd, fn)).read().split("\n") if f.endswith("/" + name)]
+        if m: hit = (fn[:-4], m[0]); break
 if not hit: raise SystemExit(f"US {N} not on any archive.org disk (checked {len(cands)})")
 tif = os.path.join(out, f"{N}.tif")
 if not os.path.exists(tif) or os.path.getsize(tif) < 5000:
