@@ -687,5 +687,6 @@
  "hook": "WHAT DOES|THIS [FORK] DO?",
  "hook2": "THE [MOTORIZED]|PASTA FORK \u00b7 1991",
  "hookSwitch": 2,
- "num": "US 5,062,211"
+ "num": "US 5,062,211",
+ "tt": true
 }

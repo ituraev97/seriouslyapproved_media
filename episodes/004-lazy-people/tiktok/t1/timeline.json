@@ -731,5 +731,6 @@
  "hook": "WHAT'S IN|THIS [CHAIR]?",
  "hook2": "A [FRIDGE]|IN A CHAIR \u00b7 1988",
  "hookSwitch": 2,
- "num": "US 4,719,764"
+ "num": "US 4,719,764",
+ "tt": true
 }

@@ -717,5 +717,6 @@
  "hook": "THIS BED|[MAKES ITSELF]",
  "hook2": "THE BEDMAKING|[DEVICE] \u00b7 1960",
  "hookSwitch": 3,
- "num": "US 2,930,053"
+ "num": "US 2,930,053",
+ "tt": true
 }
