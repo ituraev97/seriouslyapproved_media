@@ -1,5 +1,6 @@
 # SERIOUSLY APPROVED · FILE 002 · TikTok t1 (>60 s) — US 5,913,750. Added lines are from the fact-checked long episode. Facts/quotes: ../../sources.md
 FMT = "short"
+TIKTOK = True
 NUM = "US 5,913,750"
 HOOK = "GUESS WHAT|THIS [RAMP] DOES"
 HOOK2 = "A [TREADMILL]|FOR CATS · 1999"

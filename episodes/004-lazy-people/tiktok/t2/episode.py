@@ -1,5 +1,6 @@
 # SERIOUSLY APPROVED · FILE 004 · TikTok t2 (>60 s), added lines from the fact-checked long episode — US 5,062,211. Facts/quotes: ../../sources.md
 FMT = "short"
+TIKTOK = True
 NUM = 'US 5,062,211'
 HOOK = 'WHAT DOES|THIS [FORK] DO?'
 HOOK2 = 'THE [MOTORIZED]|PASTA FORK · 1991'

@@ -1,5 +1,6 @@
 # SERIOUSLY APPROVED · FILE 004 · TikTok t1 (>60 s), added lines from the fact-checked long episode — US 4,719,764. Facts/quotes: ../../sources.md
 FMT = "short"
+TIKTOK = True
 NUM = 'US 4,719,764'
 HOOK = "WHAT'S IN|THIS [CHAIR]?"
 HOOK2 = 'A [FRIDGE]|IN A CHAIR · 1988'

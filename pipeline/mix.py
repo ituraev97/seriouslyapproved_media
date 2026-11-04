@@ -31,7 +31,7 @@ while t < tl["T"]:
     t += beat * 4; k += 1
 fade = np.ones(N); e = int(tl["T"] * SR); fade[e - SR:e] = np.linspace(1, 0, SR); fade[e:] = 0; mu *= fade
 # duck under voice
-env = np.abs(vo); env = ss.filtfilt(*ss.butter(2, 4 / (SR / 2)), env); duck = 1 - 0.55 * np.clip(env / (env.max() * .25), 0, 1)
+env = np.abs(vo); env = ss.filtfilt(*ss.butter(2, 4 / (SR / 2)), env); duck = 1 - 0.7 * np.clip(env / (env.max() * .25), 0, 1)
 mu *= duck
 # --- SFX
 sfx = np.zeros(N)
@@ -54,6 +54,6 @@ for s in tl["shots"]:
             tt = np.arange(int(SR * .08)) / SR; place(sfx, np.sin(2 * np.pi * 1200 * tt) * np.exp(-tt * 50), a_, .12)
     if s.get("ring"):
         tt = np.arange(int(SR * .08)) / SR; place(sfx, np.sin(2 * np.pi * 900 * tt) * np.exp(-tt * 50), t0, .12)
-mix = vo * 1.0 + mu * 0.22 + sfx
+mix = vo * 1.0 + mu * 0.12 + sfx   # music lowered 04.11.2026 (owner: too loud)
 mix = mix[: int(tl["T"] * SR)]; mix /= max(1e-9, np.abs(mix).max()) / 0.9
 sf.write(f"{ep}/mix.wav", np.c_[mix, mix].astype(np.float32), SR); print("ok", len(mix) / SR)

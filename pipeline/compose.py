@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Timeline from narration. usage: compose.py <episode_dir>  -> <ep>/timeline.json
-episode.py: FMT ('short'|'long'), LINES, optional HOOK/HOOK2/HOOK_SWITCH (shorts), NUM, TAIL, LEAD.
+episode.py: FMT ('short'|'long'), LINES, optional HOOK/HOOK2/HOOK_SWITCH (shorts), NUM, TAIL, LEAD, TIKTOK (True = TikTok safe-zone layout).
 Each shot lasts its line + a gap; subtitles are 2-3 word chunks timed inside each sentence."""
 import sys, os, json, re, importlib.util
 ep = os.path.abspath(sys.argv[1])
@@ -26,6 +26,6 @@ for i, ((text, shot, kind), m) in enumerate(zip(E.LINES, meta)):
 T = round(max(t + getattr(E, "TAIL", 1.6), getattr(E, "MIN_T", 0)), 2); shots[-1]["t1"] = T
 fmt = getattr(E, "FMT", "short")
 json.dump(dict(T=T, fmt=fmt, W=1920 if fmt == "long" else 1080, H=1080 if fmt == "long" else 1920, shots=shots, subs=subs, vo=vo,
-               hook=getattr(E, "HOOK", ""), hook2=getattr(E, "HOOK2", ""), hookSwitch=getattr(E, "HOOK_SWITCH", 10**6), num=getattr(E, "NUM", "")),
+               hook=getattr(E, "HOOK", ""), hook2=getattr(E, "HOOK2", ""), hookSwitch=getattr(E, "HOOK_SWITCH", 10**6), num=getattr(E, "NUM", ""), tt=bool(getattr(E, "TIKTOK", False))),
           open(f"{ep}/timeline.json", "w"), indent=1)
 print(fmt, "total", T, "s;", len(shots), "shots;", len(subs), "subtitle chunks")

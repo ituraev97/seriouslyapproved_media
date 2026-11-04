@@ -1,5 +1,6 @@
 # SERIOUSLY APPROVED · FILE 004 · TikTok t3 (>60 s), added lines from the fact-checked long episode — US 2,930,053. Facts/quotes: ../../sources.md
 FMT = "short"
+TIKTOK = True
 NUM = 'US 2,930,053'
 HOOK = 'THIS BED|[MAKES ITSELF]'
 HOOK2 = 'THE BEDMAKING|[DEVICE] · 1960'

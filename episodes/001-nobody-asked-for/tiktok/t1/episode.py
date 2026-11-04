@@ -1,5 +1,6 @@
 # SERIOUSLY APPROVED · FILE 001 · TikTok t1 (>60 s) — US 5,023,850. Every added line is from the fact-checked long episode. Facts/quotes: ../../sources.md
 FMT = "short"
+TIKTOK = True
 NUM = "US 5,023,850"
 HOOK = "LOOK AT|THIS [WATCH]"
 HOOK2 = "THE [DOG]|WATCH · 1991"

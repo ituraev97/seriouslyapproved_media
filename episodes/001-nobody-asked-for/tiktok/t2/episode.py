@@ -1,5 +1,6 @@
 # SERIOUSLY APPROVED · FILE 001 · TikTok t2 (>60 s) — US 5,675,318. Every added line is from the fact-checked long episode. Facts/quotes: ../../sources.md
 FMT = "short"
+TIKTOK = True
 NUM = "US 5,675,318"
 HOOK = "GUESS WHAT|THIS [WALL] DOES"
 HOOK2 = "THE [GRAFFITI]|BOUNCER · 1997"
