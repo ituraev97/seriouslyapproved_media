@@ -1,0 +1,768 @@
+{
+ "T": 79.78,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 8.778,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.401
+    ],
+    [
+     3.801,
+     4.974
+    ],
+    [
+     5.374,
+     6.633
+    ],
+    [
+     7.033,
+     8.227
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn4",
+   "figno": "4",
+   "calls": [
+    [
+     "CLIP",
+     234,
+     144,
+     -60,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 8.778,
+   "t1": 19.516,
+   "i": 1,
+   "segs": [
+    [
+     8.778,
+     10.72
+    ],
+    [
+     11.0,
+     11.746
+    ],
+    [
+     12.026,
+     12.922
+    ],
+    [
+     13.202,
+     14.525
+    ],
+    [
+     14.805,
+     15.53
+    ],
+    [
+     15.81,
+     16.898
+    ],
+    [
+     17.178,
+     17.989
+    ],
+    [
+     18.269,
+     19.165
+    ]
+   ],
+   "g": "quote",
+   "q": "wieners, boiled ham, hard boiled eggs, cheese, sliced peaches, pineapples, bananas and like fruit, and cherries, dates, figs, strawberries",
+   "hit": "hard boiled eggs",
+   "src": "US 1,706,491 \u00b7 description"
+  },
+  {
+   "t0": 19.516,
+   "t1": 23.95,
+   "i": 2,
+   "segs": [
+    [
+     19.516,
+     20.604
+    ],
+    [
+     21.024,
+     22.027
+    ],
+    [
+     22.447,
+     23.449
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINED DIPPING, COOKING, AND|ARTICLE-HOLDING APPARATUS",
+   "filed": "JUL. 5, 1927",
+   "date": "MAR. 26, 1929",
+   "at": 1.6
+  },
+  {
+   "t0": 23.95,
+   "t1": 30.491,
+   "i": 3,
+   "segs": [
+    [
+     23.95,
+     27.428
+    ],
+    [
+     27.708,
+     30.14
+    ]
+   ],
+   "g": "quote",
+   "q": "a clean, wholesome and tasty refreshment",
+   "hit": "tasty refreshment",
+   "src": "US 1,706,491 \u00b7 description"
+  },
+  {
+   "t0": 30.491,
+   "t1": 34.426,
+   "i": 4,
+   "segs": [
+    [
+     30.491,
+     34.075
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn4",
+   "figno": "4",
+   "draw": false,
+   "calls": [
+    [
+     "BATTER",
+     375,
+     500,
+     70,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 34.426,
+   "t1": 41.755,
+   "i": 5,
+   "segs": [
+    [
+     34.426,
+     37.37
+    ],
+    [
+     37.65,
+     41.404
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn9",
+   "figno": "9",
+   "calls": [
+    [
+     "KEPT WARM",
+     648,
+     333,
+     0,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 41.755,
+   "t1": 48.872,
+   "i": 6,
+   "segs": [
+    [
+     41.755,
+     43.057
+    ],
+    [
+     43.337,
+     48.521
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn8",
+   "figno": "8",
+   "calls": [
+    [
+     "COVER",
+     198,
+     27,
+     70,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 48.872,
+   "t1": 57.697,
+   "i": 7,
+   "segs": [
+    [
+     48.872,
+     51.069
+    ],
+    [
+     51.349,
+     53.482
+    ],
+    [
+     53.762,
+     57.346
+    ]
+   ],
+   "g": "quote",
+   "q": "that the amount of oil absorbed by the batter is practically nil",
+   "hit": "practically nil",
+   "src": "US 1,706,491 \u00b7 description"
+  },
+  {
+   "t0": 57.697,
+   "t1": 62.296,
+   "i": 8,
+   "segs": [
+    [
+     57.697,
+     58.657
+    ],
+    [
+     58.937,
+     61.945
+    ]
+   ],
+   "g": "quote",
+   "q": "if the article is fruit the flavor is not destroyed but rather the juice of the fruit flavors the surrounding pastry",
+   "hit": "surrounding pastry",
+   "src": "US 1,706,491 \u00b7 description"
+  },
+  {
+   "t0": 62.296,
+   "t1": 64.546,
+   "i": 9,
+   "segs": [
+    [
+     62.296,
+     64.195
+    ]
+   ],
+   "g": "quote",
+   "q": "the general appearance of the food product is that of a cruller on a stick",
+   "hit": "a cruller on a stick",
+   "src": "US 1,706,491 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 64.546,
+   "t1": 69.37,
+   "i": 10,
+   "segs": [
+    [
+     64.546,
+     68.919
+    ]
+   ],
+   "g": "quote",
+   "q": "the general appearance of the food product is that of a cruller on a stick",
+   "hit": "a cruller on a stick",
+   "src": "US 1,706,491 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 69.37,
+   "t1": 74.524,
+   "i": 11,
+   "segs": [
+    [
+     69.37,
+     71.418
+    ],
+    [
+     71.918,
+     74.073
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINED DIPPING, COOKING, AND|ARTICLE-HOLDING APPARATUS",
+   "filed": "JUL. 5, 1927",
+   "date": "MAR. 26, 1929",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 74.524,
+   "t1": 79.78,
+   "i": 12,
+   "segs": [
+    [
+     74.524,
+     76.679
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn9",
+   "figno": "9",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.934,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.934,
+   "t1": 1.973,
+   "txt": "real patent from"
+  },
+  {
+   "t0": 1.973,
+   "t1": 3.401,
+   "txt": "nineteen twenty-seven."
+  },
+  {
+   "t0": 3.801,
+   "t1": 4.387,
+   "txt": "A pot of"
+  },
+  {
+   "t0": 4.387,
+   "t1": 4.974,
+   "txt": "hot oil."
+  },
+  {
+   "t0": 5.374,
+   "t1": 6.381,
+   "txt": "Clips around the"
+  },
+  {
+   "t0": 6.381,
+   "t1": 6.633,
+   "txt": "rim."
+  },
+  {
+   "t0": 7.033,
+   "t1": 7.85,
+   "txt": "Sticks in the"
+  },
+  {
+   "t0": 7.85,
+   "t1": 8.227,
+   "txt": "clips."
+  },
+  {
+   "t0": 8.778,
+   "t1": 9.406,
+   "txt": "And this is"
+  },
+  {
+   "t0": 9.406,
+   "t1": 10.092,
+   "txt": "what goes on"
+  },
+  {
+   "t0": 10.092,
+   "t1": 10.72,
+   "txt": "the sticks."
+  },
+  {
+   "t0": 11.0,
+   "t1": 11.746,
+   "txt": "Wieners."
+  },
+  {
+   "t0": 12.026,
+   "t1": 12.922,
+   "txt": "Boiled ham."
+  },
+  {
+   "t0": 13.202,
+   "t1": 14.525,
+   "txt": "Hard boiled eggs."
+  },
+  {
+   "t0": 14.805,
+   "t1": 15.53,
+   "txt": "Cheese."
+  },
+  {
+   "t0": 15.81,
+   "t1": 16.898,
+   "txt": "Sliced peaches."
+  },
+  {
+   "t0": 17.178,
+   "t1": 17.989,
+   "txt": "Bananas."
+  },
+  {
+   "t0": 18.269,
+   "t1": 19.165,
+   "txt": "Strawberries."
+  },
+  {
+   "t0": 19.516,
+   "t1": 20.604,
+   "txt": "Dipped in batter."
+  },
+  {
+   "t0": 21.024,
+   "t1": 22.027,
+   "txt": "Deep fried."
+  },
+  {
+   "t0": 22.447,
+   "t1": 23.449,
+   "txt": "And approved."
+  },
+  {
+   "t0": 23.95,
+   "t1": 25.0,
+   "txt": "The patent calls"
+  },
+  {
+   "t0": 25.0,
+   "t1": 25.525,
+   "txt": "it a new"
+  },
+  {
+   "t0": 25.525,
+   "t1": 26.575,
+   "txt": "and novel edible"
+  },
+  {
+   "t0": 26.575,
+   "t1": 27.428,
+   "txt": "food product."
+  },
+  {
+   "t0": 27.708,
+   "t1": 28.207,
+   "txt": "A clean,"
+  },
+  {
+   "t0": 28.207,
+   "t1": 29.391,
+   "txt": "wholesome and tasty"
+  },
+  {
+   "t0": 29.391,
+   "t1": 30.14,
+   "txt": "refreshment."
+  },
+  {
+   "t0": 30.491,
+   "t1": 31.387,
+   "txt": "Each clip holds"
+  },
+  {
+   "t0": 31.387,
+   "t1": 32.462,
+   "txt": "one stick upright,"
+  },
+  {
+   "t0": 32.462,
+   "t1": 33.238,
+   "txt": "with the food"
+  },
+  {
+   "t0": 33.238,
+   "t1": 34.075,
+   "txt": "under the oil."
+  },
+  {
+   "t0": 34.426,
+   "t1": 35.214,
+   "txt": "When it's done,"
+  },
+  {
+   "t0": 35.214,
+   "t1": 35.793,
+   "txt": "you lay the"
+  },
+  {
+   "t0": 35.793,
+   "t1": 36.897,
+   "txt": "stick sideways across"
+  },
+  {
+   "t0": 36.897,
+   "t1": 37.37,
+   "txt": "the clip."
+  },
+  {
+   "t0": 37.65,
+   "t1": 38.588,
+   "txt": "The food hangs"
+  },
+  {
+   "t0": 38.588,
+   "t1": 39.527,
+   "txt": "above the oil,"
+  },
+  {
+   "t0": 39.527,
+   "t1": 40.197,
+   "txt": "to be kept"
+  },
+  {
+   "t0": 40.197,
+   "t1": 41.404,
+   "txt": "warm until served."
+  },
+  {
+   "t0": 41.755,
+   "t1": 42.509,
+   "txt": "A lid keeps"
+  },
+  {
+   "t0": 42.509,
+   "t1": 43.057,
+   "txt": "it tidy."
+  },
+  {
+   "t0": 43.337,
+   "t1": 44.373,
+   "txt": "For the purposes"
+  },
+  {
+   "t0": 44.373,
+   "t1": 45.54,
+   "txt": "of retaining heat,"
+  },
+  {
+   "t0": 45.54,
+   "t1": 46.577,
+   "txt": "confining odors,"
+  },
+  {
+   "t0": 46.577,
+   "t1": 47.808,
+   "txt": "preventing oil from"
+  },
+  {
+   "t0": 47.808,
+   "t1": 48.521,
+   "txt": "spattering."
+  },
+  {
+   "t0": 48.872,
+   "t1": 49.491,
+   "txt": "It cooks in"
+  },
+  {
+   "t0": 49.491,
+   "t1": 50.224,
+   "txt": "about one and"
+  },
+  {
+   "t0": 50.224,
+   "t1": 51.069,
+   "txt": "a half minutes."
+  },
+  {
+   "t0": 51.349,
+   "t1": 52.08,
+   "txt": "The crust is"
+  },
+  {
+   "t0": 52.08,
+   "t1": 52.995,
+   "txt": "crispy and well"
+  },
+  {
+   "t0": 52.995,
+   "t1": 53.482,
+   "txt": "browned."
+  },
+  {
+   "t0": 53.762,
+   "t1": 54.585,
+   "txt": "And the amount"
+  },
+  {
+   "t0": 54.585,
+   "t1": 55.466,
+   "txt": "of oil absorbed"
+  },
+  {
+   "t0": 55.466,
+   "t1": 56.23,
+   "txt": "by the batter"
+  },
+  {
+   "t0": 56.23,
+   "t1": 57.346,
+   "txt": "is practically nil."
+  },
+  {
+   "t0": 57.697,
+   "t1": 58.657,
+   "txt": "Chose fruit?"
+  },
+  {
+   "t0": 58.937,
+   "t1": 59.631,
+   "txt": "The juice of"
+  },
+  {
+   "t0": 59.631,
+   "t1": 60.615,
+   "txt": "the fruit flavors"
+  },
+  {
+   "t0": 60.615,
+   "t1": 61.945,
+   "txt": "the surrounding pastry."
+  },
+  {
+   "t0": 62.296,
+   "t1": 63.035,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 63.035,
+   "t1": 63.879,
+   "txt": "describes how it"
+  },
+  {
+   "t0": 63.879,
+   "t1": 64.195,
+   "txt": "looks."
+  },
+  {
+   "t0": 64.546,
+   "t1": 65.901,
+   "txt": "The general appearance"
+  },
+  {
+   "t0": 65.901,
+   "t1": 66.579,
+   "txt": "of the food"
+  },
+  {
+   "t0": 66.579,
+   "t1": 67.503,
+   "txt": "product is that"
+  },
+  {
+   "t0": 67.503,
+   "t1": 68.242,
+   "txt": "of a cruller"
+  },
+  {
+   "t0": 68.242,
+   "t1": 68.919,
+   "txt": "on a stick."
+  },
+  {
+   "t0": 69.37,
+   "t1": 70.531,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 70.531,
+   "t1": 71.418,
+   "txt": "twenty-seven."
+  },
+  {
+   "t0": 71.918,
+   "t1": 73.265,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 73.265,
+   "t1": 74.073,
+   "txt": "twenty-nine."
+  },
+  {
+   "t0": 74.524,
+   "t1": 74.928,
+   "txt": "Today,"
+  },
+  {
+   "t0": 74.928,
+   "t1": 75.669,
+   "txt": "you know it"
+  },
+  {
+   "t0": 75.669,
+   "t1": 76.409,
+   "txt": "as the corn"
+  },
+  {
+   "t0": 76.409,
+   "t1": 76.679,
+   "txt": "dog."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 8.778
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 19.516
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 23.95
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 30.491
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 34.426
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 41.755
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 48.872
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 57.697
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 62.296
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 64.546
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 69.37
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 74.524
+  }
+ ],
+ "hook": "WHAT GOES|ON THE [STICK]?",
+ "hook2": "THE [CORN DOG]|PATENT \u00b7 1929",
+ "hookSwitch": 2,
+ "num": "US 1,706,491",
+ "tt": true
+}

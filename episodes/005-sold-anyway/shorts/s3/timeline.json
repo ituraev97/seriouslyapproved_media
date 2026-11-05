@@ -1,0 +1,521 @@
+{
+ "T": 55.82,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.861,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.337
+    ],
+    [
+     3.737,
+     4.697
+    ],
+    [
+     5.097,
+     6.078
+    ],
+    [
+     6.478,
+     7.31
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy3",
+   "figno": "3",
+   "calls": [
+    [
+     "PEDAL",
+     621,
+     900,
+     -70,
+     -50
+    ]
+   ]
+  },
+  {
+   "t0": 7.861,
+   "t1": 12.183,
+   "i": 1,
+   "segs": [
+    [
+     7.861,
+     10.421
+    ],
+    [
+     10.701,
+     11.832
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy2",
+   "figno": "2",
+   "calls": [
+    [
+     "SUGAR",
+     486,
+     54,
+     80,
+     -10
+    ]
+   ]
+  },
+  {
+   "t0": 12.183,
+   "t1": 15.877,
+   "i": 2,
+   "segs": [
+    [
+     12.183,
+     13.74
+    ],
+    [
+     14.16,
+     15.376
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANDY-|MACHINE",
+   "filed": "DEC. 23, 1897",
+   "date": "JAN. 31, 1899",
+   "at": 1.8
+  },
+  {
+   "t0": 15.877,
+   "t1": 23.121,
+   "i": 3,
+   "segs": [
+    [
+     15.877,
+     18.544
+    ],
+    [
+     18.824,
+     22.77
+    ]
+   ],
+   "g": "quote",
+   "q": "thus forming into silk-like filaments and small beads of candy",
+   "hit": "silk-like filaments",
+   "src": "US 618,428 \u00b7 description"
+  },
+  {
+   "t0": 23.121,
+   "t1": 27.754,
+   "i": 4,
+   "segs": [
+    [
+     23.121,
+     27.303
+    ]
+   ],
+   "g": "quote",
+   "q": "propelled by foot-power in the manner of a lathe",
+   "hit": "foot-power",
+   "src": "US 618,428 \u00b7 description"
+  },
+  {
+   "t0": 27.754,
+   "t1": 34.441,
+   "i": 5,
+   "segs": [
+    [
+     27.754,
+     34.09
+    ]
+   ],
+   "g": "quote",
+   "q": "several different forms or proportions of filaments, beads, or solid bands of candy",
+   "hit": "solid bands of candy",
+   "src": "US 618,428 \u00b7 description"
+  },
+  {
+   "t0": 34.441,
+   "t1": 37.366,
+   "i": 6,
+   "segs": [
+    [
+     34.441,
+     36.915
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1"
+  },
+  {
+   "t0": 37.366,
+   "t1": 42.477,
+   "i": 7,
+   "segs": [
+    [
+     37.366,
+     39.414
+    ],
+    [
+     39.914,
+     42.026
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANDY-|MACHINE",
+   "filed": "DEC. 23, 1897",
+   "date": "JAN. 31, 1899",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 42.477,
+   "t1": 49.679,
+   "i": 8,
+   "segs": [
+    [
+     42.477,
+     46.275
+    ],
+    [
+     46.555,
+     49.328
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 49.679,
+   "t1": 55.82,
+   "i": 9,
+   "segs": [
+    [
+     49.679,
+     50.724
+    ],
+    [
+     51.144,
+     52.723
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy2",
+   "figno": "2",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.91,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.91,
+   "t1": 1.968,
+   "txt": "real machine from"
+  },
+  {
+   "t0": 1.968,
+   "t1": 3.337,
+   "txt": "eighteen ninety-seven."
+  },
+  {
+   "t0": 3.737,
+   "t1": 4.697,
+   "txt": "A gas tank."
+  },
+  {
+   "t0": 5.097,
+   "t1": 6.078,
+   "txt": "An air pump."
+  },
+  {
+   "t0": 6.478,
+   "t1": 7.31,
+   "txt": "And a pedal."
+  },
+  {
+   "t0": 7.861,
+   "t1": 8.359,
+   "txt": "On top,"
+  },
+  {
+   "t0": 8.359,
+   "t1": 9.141,
+   "txt": "a bowl that"
+  },
+  {
+   "t0": 9.141,
+   "t1": 9.994,
+   "txt": "spins over a"
+  },
+  {
+   "t0": 9.994,
+   "t1": 10.421,
+   "txt": "flame."
+  },
+  {
+   "t0": 10.701,
+   "t1": 11.433,
+   "txt": "You pour in"
+  },
+  {
+   "t0": 11.433,
+   "t1": 11.832,
+   "txt": "sugar."
+  },
+  {
+   "t0": 12.183,
+   "t1": 12.932,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 12.932,
+   "t1": 13.74,
+   "txt": "candy machine."
+  },
+  {
+   "t0": 14.16,
+   "t1": 14.8,
+   "txt": "And it was"
+  },
+  {
+   "t0": 14.8,
+   "t1": 15.376,
+   "txt": "approved."
+  },
+  {
+   "t0": 15.877,
+   "t1": 16.805,
+   "txt": "The melted sugar"
+  },
+  {
+   "t0": 16.805,
+   "t1": 17.5,
+   "txt": "flies out of"
+  },
+  {
+   "t0": 17.5,
+   "t1": 18.544,
+   "txt": "the spinning bowl."
+  },
+  {
+   "t0": 18.824,
+   "t1": 19.942,
+   "txt": "Thus forming into"
+  },
+  {
+   "t0": 19.942,
+   "t1": 21.455,
+   "txt": "silk-like filaments and"
+  },
+  {
+   "t0": 21.455,
+   "t1": 22.376,
+   "txt": "small beads of"
+  },
+  {
+   "t0": 22.376,
+   "t1": 22.77,
+   "txt": "candy."
+  },
+  {
+   "t0": 23.121,
+   "t1": 23.909,
+   "txt": "And the whole"
+  },
+  {
+   "t0": 23.909,
+   "t1": 25.0,
+   "txt": "thing is propelled"
+  },
+  {
+   "t0": 25.0,
+   "t1": 25.848,
+   "txt": "by foot-power,"
+  },
+  {
+   "t0": 25.848,
+   "t1": 26.636,
+   "txt": "in the manner"
+  },
+  {
+   "t0": 26.636,
+   "t1": 27.303,
+   "txt": "of a lathe."
+  },
+  {
+   "t0": 27.754,
+   "t1": 28.649,
+   "txt": "Turn the heat"
+  },
+  {
+   "t0": 28.649,
+   "t1": 29.407,
+   "txt": "up or down,"
+  },
+  {
+   "t0": 29.407,
+   "t1": 30.164,
+   "txt": "and you get"
+  },
+  {
+   "t0": 30.164,
+   "t1": 31.404,
+   "txt": "different forms of"
+  },
+  {
+   "t0": 31.404,
+   "t1": 32.092,
+   "txt": "filaments,"
+  },
+  {
+   "t0": 32.092,
+   "t1": 32.506,
+   "txt": "beads,"
+  },
+  {
+   "t0": 32.506,
+   "t1": 33.47,
+   "txt": "or solid bands"
+  },
+  {
+   "t0": 33.47,
+   "t1": 34.09,
+   "txt": "of candy."
+  },
+  {
+   "t0": 34.441,
+   "t1": 35.109,
+   "txt": "One of the"
+  },
+  {
+   "t0": 35.109,
+   "t1": 36.247,
+   "txt": "two inventors was"
+  },
+  {
+   "t0": 36.247,
+   "t1": 36.915,
+   "txt": "a dentist."
+  },
+  {
+   "t0": 37.366,
+   "t1": 38.527,
+   "txt": "Filed in eighteen"
+  },
+  {
+   "t0": 38.527,
+   "t1": 39.414,
+   "txt": "ninety-seven."
+  },
+  {
+   "t0": 39.914,
+   "t1": 41.234,
+   "txt": "Approved in eighteen"
+  },
+  {
+   "t0": 41.234,
+   "t1": 42.026,
+   "txt": "ninety-nine."
+  },
+  {
+   "t0": 42.477,
+   "t1": 43.886,
+   "txt": "At the nineteen-oh-four"
+  },
+  {
+   "t0": 43.886,
+   "t1": 44.682,
+   "txt": "World's Fair,"
+  },
+  {
+   "t0": 44.682,
+   "t1": 45.356,
+   "txt": "it was sold"
+  },
+  {
+   "t0": 45.356,
+   "t1": 46.275,
+   "txt": "as Fairy Floss."
+  },
+  {
+   "t0": 46.555,
+   "t1": 47.545,
+   "txt": "By one account,"
+  },
+  {
+   "t0": 47.545,
+   "t1": 49.328,
+   "txt": "sixty-eight thousand boxes."
+  },
+  {
+   "t0": 49.679,
+   "t1": 50.724,
+   "txt": "Cotton candy."
+  },
+  {
+   "t0": 51.144,
+   "t1": 52.174,
+   "txt": "Invented with a"
+  },
+  {
+   "t0": 52.174,
+   "t1": 52.723,
+   "txt": "dentist."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.861
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 12.183
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 15.877
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 23.121
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 27.754
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 34.441
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 37.366
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 42.477
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 49.679
+  }
+ ],
+ "hook": "WHAT DOES|THIS [MAKE]?",
+ "hook2": "[COTTON CANDY]|MACHINE \u00b7 1899",
+ "hookSwitch": 2,
+ "num": "US 618,428",
+ "tt": false
+}

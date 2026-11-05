@@ -1,0 +1,790 @@
+{
+ "T": 78.64,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.328,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.102
+    ],
+    [
+     3.502,
+     4.441
+    ],
+    [
+     4.841,
+     5.587
+    ],
+    [
+     5.987,
+     6.777
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop",
+   "figno": "1, 3 & 4"
+  },
+  {
+   "t0": 7.328,
+   "t1": 13.311,
+   "i": 1,
+   "segs": [
+    [
+     7.328,
+     12.96
+    ]
+   ],
+   "g": "quote",
+   "q": "which can be conveniently consumed without contamination by contact with the hand",
+   "hit": "contact with the hand",
+   "src": "US 1,505,592 \u00b7 description"
+  },
+  {
+   "t0": 13.311,
+   "t1": 17.16,
+   "i": 2,
+   "segs": [
+    [
+     13.311,
+     16.809
+    ]
+   ],
+   "g": "quote",
+   "q": "without the need for a plate, spoon, fork or other implement",
+   "hit": "other implement",
+   "src": "US 1,505,592 \u00b7 description"
+  },
+  {
+   "t0": 17.16,
+   "t1": 21.303,
+   "i": 3,
+   "segs": [
+    [
+     17.16,
+     19.166
+    ],
+    [
+     19.586,
+     20.802
+    ]
+   ],
+   "g": "stamp",
+   "title": "FROZEN|CONFECTIONERY",
+   "filed": "JUL. 19, 1924",
+   "date": "AUG. 19, 1924",
+   "at": 2.0
+  },
+  {
+   "t0": 21.303,
+   "t1": 26.67,
+   "i": 4,
+   "segs": [
+    [
+     21.303,
+     22.604
+    ],
+    [
+     22.884,
+     26.319
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop2",
+   "figno": "2",
+   "calls": [
+    [
+     "BOARD",
+     261,
+     45,
+     60,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 26.67,
+   "t1": 31.098,
+   "i": 5,
+   "segs": [
+    [
+     26.67,
+     27.438
+    ],
+    [
+     27.718,
+     30.747
+    ]
+   ],
+   "g": "quote",
+   "q": "small containers which may be ordinary test tubes are charged with the liquid syrup",
+   "hit": "ordinary test tubes",
+   "src": "US 1,505,592 \u00b7 description"
+  },
+  {
+   "t0": 31.098,
+   "t1": 39.11,
+   "i": 6,
+   "segs": [
+    [
+     31.098,
+     33.274
+    ],
+    [
+     33.554,
+     38.759
+    ]
+   ],
+   "g": "quote",
+   "q": "It will be noted that a substantial tensile force is required to withdraw the confection",
+   "hit": "substantial tensile force",
+   "src": "US 1,505,592 \u00b7 description"
+  },
+  {
+   "t0": 39.11,
+   "t1": 42.917,
+   "i": 7,
+   "segs": [
+    [
+     39.11,
+     42.566
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop",
+   "figno": "1, 3 & 4",
+   "draw": false,
+   "calls": [
+    [
+     "TEST TUBE",
+     150,
+     342,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 42.917,
+   "t1": 50.954,
+   "i": 8,
+   "segs": [
+    [
+     42.917,
+     44.219
+    ],
+    [
+     44.499,
+     47.656
+    ],
+    [
+     47.936,
+     50.603
+    ]
+   ],
+   "g": "quote",
+   "q": "The wooden handle is an insulator of heat",
+   "hit": "insulator of heat",
+   "src": "US 1,505,592 \u00b7 description"
+  },
+  {
+   "t0": 50.954,
+   "t1": 58.819,
+   "i": 9,
+   "segs": [
+    [
+     50.954,
+     52.81
+    ],
+    [
+     53.09,
+     55.01
+    ],
+    [
+     55.29,
+     58.468
+    ]
+   ],
+   "g": "quote",
+   "q": "as a refreshing drink derived from the solid on the stick",
+   "hit": "refreshing drink",
+   "src": "US 1,505,592 \u00b7 description"
+  },
+  {
+   "t0": 58.819,
+   "t1": 60.821,
+   "i": 10,
+   "segs": [
+    [
+     58.819,
+     60.27
+    ]
+   ],
+   "g": "quote",
+   "q": "leaving a white and colorless mass of ice or snow",
+   "hit": "colorless",
+   "src": "US 1,505,592 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 60.821,
+   "t1": 64.301,
+   "i": 11,
+   "segs": [
+    [
+     60.821,
+     63.85
+    ]
+   ],
+   "g": "quote",
+   "q": "leaving a white and colorless mass of ice or snow",
+   "hit": "colorless",
+   "src": "US 1,505,592 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 64.301,
+   "t1": 67.419,
+   "i": 12,
+   "segs": [
+    [
+     64.301,
+     66.968
+    ]
+   ],
+   "g": "stamp",
+   "title": "FROZEN|CONFECTIONERY",
+   "filed": "JUL. 19, 1924",
+   "date": "AUG. 19, 1924",
+   "big": true,
+   "at": 2.0
+  },
+  {
+   "t0": 67.419,
+   "t1": 73.469,
+   "i": 13,
+   "segs": [
+    [
+     67.419,
+     69.062
+    ],
+    [
+     69.342,
+     73.118
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop",
+   "figno": "1, 3 & 4",
+   "draw": false,
+   "calls": [
+    [
+     "FINISHED",
+     531,
+     342,
+     -60,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 73.469,
+   "t1": 78.64,
+   "i": 14,
+   "segs": [
+    [
+     73.469,
+     75.538
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop",
+   "figno": "1, 3 & 4",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.888,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.888,
+   "t1": 1.846,
+   "txt": "real patent from"
+  },
+  {
+   "t0": 1.846,
+   "t1": 3.102,
+   "txt": "nineteen twenty-four."
+  },
+  {
+   "t0": 3.502,
+   "t1": 4.441,
+   "txt": "A test tube."
+  },
+  {
+   "t0": 4.841,
+   "t1": 5.587,
+   "txt": "A stick."
+  },
+  {
+   "t0": 5.987,
+   "t1": 6.777,
+   "txt": "And syrup."
+  },
+  {
+   "t0": 7.328,
+   "t1": 7.924,
+   "txt": "The goal:"
+  },
+  {
+   "t0": 7.924,
+   "t1": 8.852,
+   "txt": "a frozen treat"
+  },
+  {
+   "t0": 8.852,
+   "t1": 9.58,
+   "txt": "that can be"
+  },
+  {
+   "t0": 9.58,
+   "t1": 11.369,
+   "txt": "eaten without contamination"
+  },
+  {
+   "t0": 11.369,
+   "t1": 12.363,
+   "txt": "by contact with"
+  },
+  {
+   "t0": 12.363,
+   "t1": 12.96,
+   "txt": "the hand."
+  },
+  {
+   "t0": 13.311,
+   "t1": 14.185,
+   "txt": "And without the"
+  },
+  {
+   "t0": 14.185,
+   "t1": 14.768,
+   "txt": "need for a"
+  },
+  {
+   "t0": 14.768,
+   "t1": 15.118,
+   "txt": "plate,"
+  },
+  {
+   "t0": 15.118,
+   "t1": 15.468,
+   "txt": "spoon,"
+  },
+  {
+   "t0": 15.468,
+   "t1": 16.226,
+   "txt": "fork or other"
+  },
+  {
+   "t0": 16.226,
+   "t1": 16.809,
+   "txt": "implement."
+  },
+  {
+   "t0": 17.16,
+   "t1": 18.288,
+   "txt": "It's called frozen"
+  },
+  {
+   "t0": 18.288,
+   "t1": 19.166,
+   "txt": "confectionery."
+  },
+  {
+   "t0": 19.586,
+   "t1": 20.226,
+   "txt": "And it was"
+  },
+  {
+   "t0": 20.226,
+   "t1": 20.802,
+   "txt": "approved."
+  },
+  {
+   "t0": 21.303,
+   "t1": 22.031,
+   "txt": "Fill the tubes"
+  },
+  {
+   "t0": 22.031,
+   "t1": 22.604,
+   "txt": "with syrup."
+  },
+  {
+   "t0": 22.884,
+   "t1": 23.487,
+   "txt": "A board on"
+  },
+  {
+   "t0": 23.487,
+   "t1": 24.27,
+   "txt": "top holds the"
+  },
+  {
+   "t0": 24.27,
+   "t1": 24.993,
+   "txt": "sticks down,"
+  },
+  {
+   "t0": 24.993,
+   "t1": 25.776,
+   "txt": "so they don't"
+  },
+  {
+   "t0": 25.776,
+   "t1": 26.319,
+   "txt": "float up."
+  },
+  {
+   "t0": 26.67,
+   "t1": 27.438,
+   "txt": "The mold?"
+  },
+  {
+   "t0": 27.718,
+   "t1": 29.106,
+   "txt": "Small containers which"
+  },
+  {
+   "t0": 29.106,
+   "t1": 30.053,
+   "txt": "may be ordinary"
+  },
+  {
+   "t0": 30.053,
+   "t1": 30.747,
+   "txt": "test tubes."
+  },
+  {
+   "t0": 31.098,
+   "t1": 31.629,
+   "txt": "Freeze it,"
+  },
+  {
+   "t0": 31.629,
+   "t1": 32.319,
+   "txt": "warm the tube"
+  },
+  {
+   "t0": 32.319,
+   "t1": 32.796,
+   "txt": "a little,"
+  },
+  {
+   "t0": 32.796,
+   "t1": 33.274,
+   "txt": "and pull."
+  },
+  {
+   "t0": 33.554,
+   "t1": 34.166,
+   "txt": "It will be"
+  },
+  {
+   "t0": 34.166,
+   "t1": 34.901,
+   "txt": "noted that a"
+  },
+  {
+   "t0": 34.901,
+   "t1": 36.432,
+   "txt": "substantial tensile force"
+  },
+  {
+   "t0": 36.432,
+   "t1": 37.29,
+   "txt": "is required to"
+  },
+  {
+   "t0": 37.29,
+   "t1": 38.759,
+   "txt": "withdraw the confection."
+  },
+  {
+   "t0": 39.11,
+   "t1": 40.053,
+   "txt": "Because the ice"
+  },
+  {
+   "t0": 40.053,
+   "t1": 40.933,
+   "txt": "comes out like"
+  },
+  {
+   "t0": 40.933,
+   "t1": 41.498,
+   "txt": "a piston,"
+  },
+  {
+   "t0": 41.498,
+   "t1": 42.566,
+   "txt": "against a vacuum."
+  },
+  {
+   "t0": 42.917,
+   "t1": 43.958,
+   "txt": "The wood matters"
+  },
+  {
+   "t0": 43.958,
+   "t1": 44.219,
+   "txt": "too."
+  },
+  {
+   "t0": 44.499,
+   "t1": 44.821,
+   "txt": "Bass,"
+  },
+  {
+   "t0": 44.821,
+   "t1": 45.916,
+   "txt": "birch and poplar,"
+  },
+  {
+   "t0": 45.916,
+   "t1": 47.012,
+   "txt": "being sapless and"
+  },
+  {
+   "t0": 47.012,
+   "t1": 47.656,
+   "txt": "tasteless."
+  },
+  {
+   "t0": 47.936,
+   "t1": 48.784,
+   "txt": "And the wooden"
+  },
+  {
+   "t0": 48.784,
+   "t1": 49.512,
+   "txt": "handle is an"
+  },
+  {
+   "t0": 49.512,
+   "t1": 50.603,
+   "txt": "insulator of heat."
+  },
+  {
+   "t0": 50.954,
+   "t1": 51.706,
+   "txt": "Then the patent"
+  },
+  {
+   "t0": 51.706,
+   "t1": 52.459,
+   "txt": "explains how to"
+  },
+  {
+   "t0": 52.459,
+   "t1": 52.81,
+   "txt": "eat it."
+  },
+  {
+   "t0": 53.09,
+   "t1": 53.81,
+   "txt": "You can suck"
+  },
+  {
+   "t0": 53.81,
+   "t1": 54.65,
+   "txt": "the flavor out"
+  },
+  {
+   "t0": 54.65,
+   "t1": 55.01,
+   "txt": "first."
+  },
+  {
+   "t0": 55.29,
+   "t1": 56.157,
+   "txt": "As a refreshing"
+  },
+  {
+   "t0": 56.157,
+   "t1": 57.197,
+   "txt": "drink derived from"
+  },
+  {
+   "t0": 57.197,
+   "t1": 57.89,
+   "txt": "the solid on"
+  },
+  {
+   "t0": 57.89,
+   "t1": 58.468,
+   "txt": "the stick."
+  },
+  {
+   "t0": 58.819,
+   "t1": 59.513,
+   "txt": "And what is"
+  },
+  {
+   "t0": 59.513,
+   "t1": 60.27,
+   "txt": "left behind?"
+  },
+  {
+   "t0": 60.821,
+   "t1": 61.788,
+   "txt": "Leaving a white"
+  },
+  {
+   "t0": 61.788,
+   "t1": 62.948,
+   "txt": "and colorless mass"
+  },
+  {
+   "t0": 62.948,
+   "t1": 63.528,
+   "txt": "of ice or"
+  },
+  {
+   "t0": 63.528,
+   "t1": 63.85,
+   "txt": "snow."
+  },
+  {
+   "t0": 64.301,
+   "t1": 65.444,
+   "txt": "Filed and approved"
+  },
+  {
+   "t0": 65.444,
+   "t1": 66.968,
+   "txt": "in nineteen twenty-four."
+  },
+  {
+   "t0": 67.419,
+   "t1": 68.35,
+   "txt": "Today it's called"
+  },
+  {
+   "t0": 68.35,
+   "t1": 69.062,
+   "txt": "the Popsicle."
+  },
+  {
+   "t0": 69.342,
+   "t1": 70.576,
+   "txt": "According to NPR,"
+  },
+  {
+   "t0": 70.576,
+   "t1": 71.738,
+   "txt": "some two billion"
+  },
+  {
+   "t0": 71.738,
+   "t1": 72.755,
+   "txt": "are sold every"
+  },
+  {
+   "t0": 72.755,
+   "t1": 73.118,
+   "txt": "year."
+  },
+  {
+   "t0": 73.469,
+   "t1": 74.18,
+   "txt": "A white and"
+  },
+  {
+   "t0": 74.18,
+   "t1": 75.279,
+   "txt": "colorless mass of"
+  },
+  {
+   "t0": 75.279,
+   "t1": 75.538,
+   "txt": "ice."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.328
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.311
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.16
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.303
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 26.67
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 31.098
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 39.11
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 42.917
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 50.954
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 58.819
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 60.821
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 64.301
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 67.419
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 73.469
+  }
+ ],
+ "hook": "WHY IS THIS|IN A [TEST TUBE]?",
+ "hook2": "ICE ON A|[STICK] \u00b7 1924",
+ "hookSwitch": 3,
+ "num": "US 1,505,592",
+ "tt": true
+}

@@ -1,0 +1,560 @@
+{
+ "T": 55.74,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.21,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.507
+    ],
+    [
+     3.907,
+     6.659
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac2",
+   "figno": "2",
+   "calls": [
+    [
+     "MOTOR",
+     459,
+     324,
+     -60,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 7.21,
+   "t1": 13.711,
+   "i": 1,
+   "segs": [
+    [
+     7.21,
+     8.917
+    ],
+    [
+     9.197,
+     10.754
+    ],
+    [
+     11.034,
+     13.36
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac2",
+   "figno": "2",
+   "draw": false,
+   "calls": [
+    [
+     "FAN",
+     414,
+     486,
+     60,
+     40
+    ],
+    [
+     "BRUSH",
+     801,
+     630,
+     -40,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 13.711,
+   "t1": 18.024,
+   "i": 2,
+   "segs": [
+    [
+     13.711,
+     15.887
+    ],
+    [
+     16.307,
+     17.523
+    ]
+   ],
+   "g": "stamp",
+   "title": "CARPET SWEEPER|AND CLEANER",
+   "filed": "SEPT. 14, 1907",
+   "date": "JUNE 2, 1908",
+   "at": 2.6
+  },
+  {
+   "t0": 18.024,
+   "t1": 25.695,
+   "i": 3,
+   "segs": [
+    [
+     18.024,
+     20.776
+    ],
+    [
+     21.056,
+     25.344
+    ]
+   ],
+   "g": "quote",
+   "q": "the wires 24 will be automatically wound upon the reel when it becomes slack",
+   "hit": "automatically wound",
+   "src": "US 889,823 \u00b7 description"
+  },
+  {
+   "t0": 25.695,
+   "t1": 27.547,
+   "i": 4,
+   "segs": [
+    [
+     25.695,
+     26.996
+    ]
+   ],
+   "g": "quote",
+   "q": "which in use may be connected to a common incandescent lamp socket in the usual manner",
+   "hit": "incandescent lamp socket",
+   "src": "US 889,823 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 27.547,
+   "t1": 34.898,
+   "i": 5,
+   "segs": [
+    [
+     27.547,
+     32.582
+    ],
+    [
+     33.082,
+     34.447
+    ]
+   ],
+   "g": "quote",
+   "q": "which in use may be connected to a common incandescent lamp socket in the usual manner",
+   "hit": "incandescent lamp socket",
+   "src": "US 889,823 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 34.898,
+   "t1": 41.63,
+   "i": 6,
+   "segs": [
+    [
+     34.898,
+     36.413
+    ],
+    [
+     36.693,
+     41.279
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac1",
+   "figno": "1",
+   "calls": [
+    [
+     "SACK",
+     54,
+     162,
+     70,
+     -50
+    ]
+   ]
+  },
+  {
+   "t0": 41.63,
+   "t1": 46.336,
+   "i": 7,
+   "segs": [
+    [
+     41.63,
+     43.55
+    ],
+    [
+     44.05,
+     45.885
+    ]
+   ],
+   "g": "stamp",
+   "title": "CARPET SWEEPER|AND CLEANER",
+   "filed": "SEPT. 14, 1907",
+   "date": "JUNE 2, 1908",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 46.336,
+   "t1": 50.871,
+   "i": 8,
+   "segs": [
+    [
+     46.336,
+     48.235
+    ],
+    [
+     48.515,
+     50.52
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac2",
+   "figno": "2",
+   "draw": false
+  },
+  {
+   "t0": 50.871,
+   "t1": 55.74,
+   "i": 9,
+   "segs": [
+    [
+     50.871,
+     52.642
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.968,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.968,
+   "t1": 2.272,
+   "txt": "real invention from"
+  },
+  {
+   "t0": 2.272,
+   "t1": 3.507,
+   "txt": "nineteen-oh-seven."
+  },
+  {
+   "t0": 3.907,
+   "t1": 4.555,
+   "txt": "A box on"
+  },
+  {
+   "t0": 4.555,
+   "t1": 5.121,
+   "txt": "wheels,"
+  },
+  {
+   "t0": 5.121,
+   "t1": 6.093,
+   "txt": "with a motor"
+  },
+  {
+   "t0": 6.093,
+   "t1": 6.659,
+   "txt": "on top."
+  },
+  {
+   "t0": 7.21,
+   "t1": 7.67,
+   "txt": "Inside,"
+  },
+  {
+   "t0": 7.67,
+   "t1": 8.392,
+   "txt": "a fan makes"
+  },
+  {
+   "t0": 8.392,
+   "t1": 8.917,
+   "txt": "suction."
+  },
+  {
+   "t0": 9.197,
+   "t1": 10.056,
+   "txt": "A spinning brush"
+  },
+  {
+   "t0": 10.056,
+   "t1": 10.754,
+   "txt": "at the front."
+  },
+  {
+   "t0": 11.034,
+   "t1": 11.715,
+   "txt": "And the dust"
+  },
+  {
+   "t0": 11.715,
+   "t1": 12.339,
+   "txt": "goes into a"
+  },
+  {
+   "t0": 12.339,
+   "t1": 12.963,
+   "txt": "sack on the"
+  },
+  {
+   "t0": 12.963,
+   "t1": 13.36,
+   "txt": "handle."
+  },
+  {
+   "t0": 13.711,
+   "t1": 14.436,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 14.436,
+   "t1": 15.44,
+   "txt": "carpet sweeper and"
+  },
+  {
+   "t0": 15.44,
+   "t1": 15.887,
+   "txt": "cleaner."
+  },
+  {
+   "t0": 16.307,
+   "t1": 16.947,
+   "txt": "And it was"
+  },
+  {
+   "t0": 16.947,
+   "t1": 17.523,
+   "txt": "approved."
+  },
+  {
+   "t0": 18.024,
+   "t1": 18.856,
+   "txt": "A spring reel"
+  },
+  {
+   "t0": 18.856,
+   "t1": 19.688,
+   "txt": "on the handle"
+  },
+  {
+   "t0": 19.688,
+   "t1": 20.456,
+   "txt": "winds up the"
+  },
+  {
+   "t0": 20.456,
+   "t1": 20.776,
+   "txt": "cord."
+  },
+  {
+   "t0": 21.056,
+   "t1": 21.913,
+   "txt": "The wires will"
+  },
+  {
+   "t0": 21.913,
+   "t1": 23.261,
+   "txt": "be automatically wound"
+  },
+  {
+   "t0": 23.261,
+   "t1": 24.057,
+   "txt": "upon the reel"
+  },
+  {
+   "t0": 24.057,
+   "t1": 24.976,
+   "txt": "when it becomes"
+  },
+  {
+   "t0": 24.976,
+   "t1": 25.344,
+   "txt": "slack."
+  },
+  {
+   "t0": 25.695,
+   "t1": 26.295,
+   "txt": "And where do"
+  },
+  {
+   "t0": 26.295,
+   "t1": 26.846,
+   "txt": "you plug it"
+  },
+  {
+   "t0": 26.846,
+   "t1": 26.996,
+   "txt": "in?"
+  },
+  {
+   "t0": 27.547,
+   "t1": 28.168,
+   "txt": "It may be"
+  },
+  {
+   "t0": 28.168,
+   "t1": 29.133,
+   "txt": "connected to a"
+  },
+  {
+   "t0": 29.133,
+   "t1": 30.788,
+   "txt": "common incandescent lamp"
+  },
+  {
+   "t0": 30.788,
+   "t1": 31.685,
+   "txt": "socket in the"
+  },
+  {
+   "t0": 31.685,
+   "t1": 32.582,
+   "txt": "usual manner."
+  },
+  {
+   "t0": 33.082,
+   "t1": 33.944,
+   "txt": "A light bulb"
+  },
+  {
+   "t0": 33.944,
+   "t1": 34.447,
+   "txt": "socket."
+  },
+  {
+   "t0": 34.898,
+   "t1": 35.605,
+   "txt": "The sack hangs"
+  },
+  {
+   "t0": 35.605,
+   "t1": 36.413,
+   "txt": "from the handle."
+  },
+  {
+   "t0": 36.693,
+   "t1": 37.712,
+   "txt": "According to the"
+  },
+  {
+   "t0": 37.712,
+   "t1": 39.05,
+   "txt": "inventor's biography,"
+  },
+  {
+   "t0": 39.05,
+   "t1": 40.133,
+   "txt": "the first version"
+  },
+  {
+   "t0": 40.133,
+   "t1": 41.279,
+   "txt": "used a pillowcase."
+  },
+  {
+   "t0": 41.63,
+   "t1": 43.55,
+   "txt": "Filed in nineteen-oh-seven."
+  },
+  {
+   "t0": 44.05,
+   "t1": 45.885,
+   "txt": "Approved in nineteen-oh-eight."
+  },
+  {
+   "t0": 46.336,
+   "t1": 47.095,
+   "txt": "The patent was"
+  },
+  {
+   "t0": 47.095,
+   "t1": 47.963,
+   "txt": "bought that same"
+  },
+  {
+   "t0": 47.963,
+   "t1": 48.235,
+   "txt": "year."
+  },
+  {
+   "t0": 48.515,
+   "t1": 49.183,
+   "txt": "By a leather"
+  },
+  {
+   "t0": 49.183,
+   "t1": 50.13,
+   "txt": "goods maker named"
+  },
+  {
+   "t0": 50.13,
+   "t1": 50.52,
+   "txt": "Hoover."
+  },
+  {
+   "t0": 50.871,
+   "t1": 51.704,
+   "txt": "Plugged into the"
+  },
+  {
+   "t0": 51.704,
+   "t1": 52.642,
+   "txt": "light bulb socket."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.21
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.711
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 18.024
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 25.695
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 27.547
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 34.898
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 41.63
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 46.336
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 50.871
+  }
+ ],
+ "hook": "WHERE DO YOU|PLUG [THIS] IN?",
+ "hook2": "THE [VACUUM]|CLEANER \u00b7 1908",
+ "hookSwitch": 2,
+ "num": "US 889,823",
+ "tt": false
+}

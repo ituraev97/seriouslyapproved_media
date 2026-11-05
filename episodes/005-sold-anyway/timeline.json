@@ -1,0 +1,6266 @@
+{
+ "T": 632.68,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.04,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.929
+    ],
+    [
+     2.429,
+     6.589
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn9",
+   "figno": "9",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929"
+  },
+  {
+   "t0": 7.04,
+   "t1": 20.228,
+   "i": 1,
+   "segs": [
+    [
+     7.04,
+     7.829
+    ],
+    [
+     8.329,
+     9.31
+    ],
+    [
+     9.81,
+     11.24
+    ],
+    [
+     11.74,
+     12.529
+    ],
+    [
+     13.029,
+     14.224
+    ],
+    [
+     14.724,
+     15.641
+    ],
+    [
+     16.141,
+     17.037
+    ],
+    [
+     17.537,
+     19.777
+    ]
+   ],
+   "g": "quote",
+   "q": "wieners, boiled ham, hard boiled eggs, cheese, sliced peaches, pineapples, bananas and like fruit, and cherries, dates, figs, strawberries",
+   "hit": "hard boiled eggs",
+   "src": "US 1,706,491 \u00b7 description",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929"
+  },
+  {
+   "t0": 20.228,
+   "t1": 25.074,
+   "i": 2,
+   "segs": [
+    [
+     20.228,
+     23.044
+    ],
+    [
+     23.464,
+     24.573
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINED DIPPING, COOKING, AND|ARTICLE-HOLDING APPARATUS",
+   "filed": "JUL. 5, 1927",
+   "date": "MAR. 26, 1929",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929",
+   "at": 2.6
+  },
+  {
+   "t0": 25.074,
+   "t1": 40.924,
+   "i": 3,
+   "segs": [
+    [
+     25.074,
+     31.602
+    ],
+    [
+     31.882,
+     34.506
+    ],
+    [
+     34.786,
+     36.002
+    ],
+    [
+     36.282,
+     39.397
+    ],
+    [
+     39.677,
+     40.573
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK? \u00b7 FILE 005",
+   "title": "8 Real Patents That|Sounded Weird",
+   "lines": [
+    "Real drawings. Real quotes.",
+    "Then they sold."
+   ],
+   "stamp": true,
+   "at": 9.0,
+   "hook": "WEIRD.|THEN [SOLD]",
+   "side": "FILE 005 \u00b7 DID IT WORK?"
+  },
+  {
+   "t0": 40.924,
+   "t1": 43.688,
+   "i": 4,
+   "segs": [
+    [
+     40.924,
+     41.756
+    ],
+    [
+     42.036,
+     43.337
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 1 OF 8",
+   "numeral": "1",
+   "title": "Dress-|Pin",
+   "lines": [
+    "US 6,281",
+    "Issued April 10, 1849"
+   ],
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849"
+  },
+  {
+   "t0": 43.688,
+   "t1": 47.114,
+   "i": 5,
+   "segs": [
+    [
+     43.688,
+     45.203
+    ],
+    [
+     45.483,
+     46.763
+    ]
+   ],
+   "g": "fig",
+   "fig": "pin12",
+   "figno": "1 & 2",
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849"
+  },
+  {
+   "t0": 47.114,
+   "t1": 57.409,
+   "i": 6,
+   "segs": [
+    [
+     47.114,
+     50.527
+    ],
+    [
+     50.807,
+     57.058
+    ]
+   ],
+   "g": "quote",
+   "q": "a pin made of one piece of wire or metal combining a spring, and clasp or catch",
+   "hit": "one piece of wire",
+   "src": "US 6,281 \u00b7 description",
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849"
+  },
+  {
+   "t0": 57.409,
+   "t1": 63.931,
+   "i": 7,
+   "segs": [
+    [
+     57.409,
+     58.732
+    ],
+    [
+     59.012,
+     60.633
+    ],
+    [
+     60.913,
+     63.58
+    ]
+   ],
+   "g": "fig",
+   "fig": "pin12",
+   "figno": "1 & 2",
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849",
+   "draw": false,
+   "calls": [
+    [
+     "COIL SPRING",
+     216,
+     99,
+     60,
+     60
+    ],
+    [
+     "CATCH",
+     45,
+     135,
+     40,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 63.931,
+   "t1": 69.447,
+   "i": 8,
+   "segs": [
+    [
+     63.931,
+     66.128
+    ],
+    [
+     66.408,
+     69.096
+    ]
+   ],
+   "g": "fig",
+   "fig": "pin12",
+   "figno": "1 & 2",
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849",
+   "draw": false,
+   "calls": [
+    [
+     "OPEN",
+     540,
+     135,
+     -40,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 69.447,
+   "t1": 74.601,
+   "i": 9,
+   "segs": [
+    [
+     69.447,
+     72.476
+    ],
+    [
+     72.756,
+     74.25
+    ]
+   ],
+   "g": "quote",
+   "q": "They may be made of common pin wire, or of the precious metals.",
+   "hit": "precious metals",
+   "src": "US 6,281 \u00b7 description",
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849"
+  },
+  {
+   "t0": 74.601,
+   "t1": 81.074,
+   "i": 10,
+   "segs": [
+    [
+     74.601,
+     80.723
+    ]
+   ],
+   "g": "quote",
+   "q": "there being no joint to break or pivot to wear or get loose as in other plans",
+   "hit": "no joint to break",
+   "src": "US 6,281 \u00b7 description",
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849"
+  },
+  {
+   "t0": 81.074,
+   "t1": 86.719,
+   "i": 11,
+   "segs": [
+    [
+     81.074,
+     83.08
+    ],
+    [
+     83.36,
+     86.368
+    ]
+   ],
+   "g": "fig",
+   "fig": "pin",
+   "figno": "1\u20138",
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849",
+   "calls": [
+    [
+     "ORNAMENT",
+     540,
+     657,
+     -60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 86.719,
+   "t1": 91.403,
+   "i": 12,
+   "segs": [
+    [
+     86.719,
+     88.447
+    ],
+    [
+     88.947,
+     90.952
+    ]
+   ],
+   "g": "stamp",
+   "title": "DRESS-|PIN",
+   "filed": "\u2014",
+   "date": "APR. 10, 1849",
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849",
+   "at": 2.0
+  },
+  {
+   "t0": 91.403,
+   "t1": 103.623,
+   "i": 13,
+   "segs": [
+    [
+     91.403,
+     92.299
+    ],
+    [
+     92.579,
+     93.56
+    ],
+    [
+     93.84,
+     100.475
+    ],
+    [
+     100.755,
+     103.272
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK?",
+   "title": "The Pin, Yes.",
+   "lines": [
+    "$15 debt \u00b7 rights sold for $400",
+    "source: History.com"
+   ],
+   "num": "US 6,281",
+   "hook": "ONE PIECE|OF [WIRE]",
+   "side": "US 6,281 \u00b7 1849"
+  },
+  {
+   "t0": 103.623,
+   "t1": 106.71,
+   "i": 14,
+   "segs": [
+    [
+     103.623,
+     104.498
+    ],
+    [
+     104.778,
+     105.397
+    ],
+    [
+     105.677,
+     106.359
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 2 OF 8",
+   "numeral": "2",
+   "title": "Improvement in|Ear-Mufflers",
+   "lines": [
+    "US 188,292",
+    "Filed & issued 1877"
+   ],
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877"
+  },
+  {
+   "t0": 106.71,
+   "t1": 115.811,
+   "i": 15,
+   "segs": [
+    [
+     106.71,
+     108.716
+    ],
+    [
+     108.996,
+     115.46
+    ]
+   ],
+   "g": "quote",
+   "q": "by which a simpler and more effective device of this character may be produced than is now in ordinary use",
+   "hit": "simpler and more effective",
+   "src": "US 188,292 \u00b7 description",
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877"
+  },
+  {
+   "t0": 115.811,
+   "t1": 122.671,
+   "i": 16,
+   "segs": [
+    [
+     115.811,
+     119.651
+    ],
+    [
+     119.931,
+     122.32
+    ]
+   ],
+   "g": "fig",
+   "fig": "ear1",
+   "figno": "1",
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877",
+   "calls": [
+    [
+     "SPRING BAND",
+     216,
+     27,
+     70,
+     50
+    ],
+    [
+     "PAD",
+     108,
+     297,
+     -40,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 122.671,
+   "t1": 130.961,
+   "i": 17,
+   "segs": [
+    [
+     122.671,
+     125.508
+    ],
+    [
+     125.788,
+     130.61
+    ]
+   ],
+   "g": "fig",
+   "fig": "ear1",
+   "figno": "1",
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877",
+   "draw": false,
+   "calls": [
+    [
+     "WIRE FRAME",
+     324,
+     324,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 130.961,
+   "t1": 138.461,
+   "i": 18,
+   "segs": [
+    [
+     130.961,
+     132.731
+    ],
+    [
+     133.011,
+     138.11
+    ]
+   ],
+   "g": "quote",
+   "q": "may be also lined or covered with fur, wool, skin, or any other fibrous non-conductor of heat",
+   "hit": "non-conductor of heat",
+   "src": "US 188,292 \u00b7 description",
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877"
+  },
+  {
+   "t0": 138.461,
+   "t1": 145.513,
+   "i": 19,
+   "segs": [
+    [
+     138.461,
+     140.85
+    ],
+    [
+     141.35,
+     145.062
+    ]
+   ],
+   "g": "fig",
+   "fig": "ear2",
+   "figno": "2",
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877"
+  },
+  {
+   "t0": 145.513,
+   "t1": 153.974,
+   "i": 20,
+   "segs": [
+    [
+     145.513,
+     147.668
+    ],
+    [
+     147.948,
+     153.623
+    ]
+   ],
+   "g": "fig",
+   "fig": "ear2",
+   "figno": "2",
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877",
+   "draw": false,
+   "calls": [
+    [
+     "PAD",
+     255,
+     205,
+     60,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 153.974,
+   "t1": 160.813,
+   "i": 21,
+   "segs": [
+    [
+     153.974,
+     155.211
+    ],
+    [
+     155.711,
+     160.362
+    ]
+   ],
+   "g": "quote",
+   "q": "in a manner which will be readily obvious to all conversant with such matters",
+   "hit": "readily obvious",
+   "src": "US 188,292 \u00b7 description",
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877"
+  },
+  {
+   "t0": 160.813,
+   "t1": 164.793,
+   "i": 22,
+   "segs": [
+    [
+     160.813,
+     161.602
+    ],
+    [
+     162.102,
+     164.342
+    ]
+   ],
+   "g": "stamp",
+   "title": "IMPROVEMENT IN|EAR-MUFFLERS",
+   "filed": "FEB. 8, 1877",
+   "date": "MAR. 13, 1877",
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877",
+   "at": 1.4
+  },
+  {
+   "t0": 164.793,
+   "t1": 178.763,
+   "i": 23,
+   "segs": [
+    [
+     164.793,
+     165.689
+    ],
+    [
+     165.969,
+     168.956
+    ],
+    [
+     169.236,
+     174.42
+    ],
+    [
+     174.7,
+     178.412
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK?",
+   "title": "Yes.|400,000 Pairs",
+   "lines": [
+    "Best year: 1936",
+    "source: Smithsonian Magazine"
+   ],
+   "num": "US 188,292",
+   "hook": "PADS FOR|YOUR [EARS]",
+   "side": "US 188,292 \u00b7 1877"
+  },
+  {
+   "t0": 178.763,
+   "t1": 183.236,
+   "i": 24,
+   "segs": [
+    [
+     178.763,
+     179.68
+    ],
+    [
+     179.96,
+     181.283
+    ],
+    [
+     181.563,
+     182.885
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 3 OF 8",
+   "numeral": "3",
+   "title": "Artificial|Straw",
+   "lines": [
+    "US 375,962",
+    "Filed 1887 \u00b7 Issued 1888"
+   ],
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888"
+  },
+  {
+   "t0": 183.236,
+   "t1": 190.142,
+   "i": 25,
+   "segs": [
+    [
+     183.236,
+     185.988
+    ],
+    [
+     186.268,
+     187.911
+    ],
+    [
+     188.191,
+     189.791
+    ]
+   ],
+   "g": "fig",
+   "fig": "straw",
+   "figno": "1\u20134",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888"
+  },
+  {
+   "t0": 190.142,
+   "t1": 196.509,
+   "i": 26,
+   "segs": [
+    [
+     190.142,
+     196.158
+    ]
+   ],
+   "g": "quote",
+   "q": "to provide a cheap, durable, and unobjectionable substitute for the natural straws",
+   "hit": "unobjectionable",
+   "src": "US 375,962 \u00b7 description",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888"
+  },
+  {
+   "t0": 196.509,
+   "t1": 203.652,
+   "i": 27,
+   "segs": [
+    [
+     196.509,
+     197.277
+    ],
+    [
+     197.557,
+     198.73
+    ],
+    [
+     199.01,
+     200.077
+    ],
+    [
+     200.357,
+     203.301
+    ]
+   ],
+   "g": "fig",
+   "fig": "straw4",
+   "figno": "4",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888",
+   "calls": [
+    [
+     "PAPER STRIP",
+     279,
+     324,
+     60,
+     60
+    ],
+    [
+     "SPINDLE",
+     315,
+     205,
+     0,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 203.652,
+   "t1": 209.763,
+   "i": 28,
+   "segs": [
+    [
+     203.652,
+     209.412
+    ]
+   ],
+   "g": "fig",
+   "fig": "straw4",
+   "figno": "4",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888",
+   "draw": false
+  },
+  {
+   "t0": 209.763,
+   "t1": 214.831,
+   "i": 29,
+   "segs": [
+    [
+     209.763,
+     212.728
+    ],
+    [
+     213.008,
+     214.48
+    ]
+   ],
+   "g": "fig",
+   "fig": "straw",
+   "figno": "1\u20134",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888",
+   "draw": false,
+   "calls": [
+    [
+     "FINISHED STRAW",
+     117,
+     540,
+     80,
+     0
+    ]
+   ]
+  },
+  {
+   "t0": 214.831,
+   "t1": 222.654,
+   "i": 30,
+   "segs": [
+    [
+     214.831,
+     218.287
+    ],
+    [
+     218.567,
+     220.53
+    ],
+    [
+     220.81,
+     222.303
+    ]
+   ],
+   "g": "quote",
+   "q": "colored in imitation of the natural straw",
+   "hit": "in imitation",
+   "src": "US 375,962 \u00b7 description",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888"
+  },
+  {
+   "t0": 222.654,
+   "t1": 224.861,
+   "i": 31,
+   "segs": [
+    [
+     222.654,
+     224.51
+    ]
+   ],
+   "g": "quote",
+   "q": "an imitation straw requiring close examination in order to distinguish it from the natural straw",
+   "hit": "close examination",
+   "src": "US 375,962 \u00b7 description",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888",
+   "hide": true
+  },
+  {
+   "t0": 224.861,
+   "t1": 232.118,
+   "i": 32,
+   "segs": [
+    [
+     224.861,
+     231.667
+    ]
+   ],
+   "g": "quote",
+   "q": "an imitation straw requiring close examination in order to distinguish it from the natural straw",
+   "hit": "close examination",
+   "src": "US 375,962 \u00b7 description",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888",
+   "typed": false
+  },
+  {
+   "t0": 232.118,
+   "t1": 236.077,
+   "i": 33,
+   "segs": [
+    [
+     232.118,
+     233.312
+    ],
+    [
+     233.812,
+     235.626
+    ]
+   ],
+   "g": "stamp",
+   "title": "ARTIFICIAL|STRAW",
+   "filed": "MAY 11, 1887",
+   "date": "JAN. 3, 1888",
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888",
+   "at": 1.6
+  },
+  {
+   "t0": 236.077,
+   "t1": 245.948,
+   "i": 34,
+   "segs": [
+    [
+     236.077,
+     236.973
+    ],
+    [
+     237.253,
+     240.773
+    ],
+    [
+     241.053,
+     245.597
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK?",
+   "title": "Yes.|Straws Won",
+   "lines": [
+    "By 1890: more straws than",
+    "cigarette holders \u00b7 source: Wikipedia"
+   ],
+   "num": "US 375,962",
+   "hook": "THE [FAKE]|STRAW",
+   "side": "US 375,962 \u00b7 1888"
+  },
+  {
+   "t0": 245.948,
+   "t1": 250.272,
+   "i": 35,
+   "segs": [
+    [
+     245.948,
+     246.865
+    ],
+    [
+     247.145,
+     247.913
+    ],
+    [
+     248.193,
+     249.921
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 4 OF 8",
+   "numeral": "4",
+   "title": "Candy-|Machine",
+   "lines": [
+    "US 618,428",
+    "Filed 1897 \u00b7 Issued 1899"
+   ],
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899"
+  },
+  {
+   "t0": 250.272,
+   "t1": 259.058,
+   "i": 36,
+   "segs": [
+    [
+     250.272,
+     250.848
+    ],
+    [
+     251.128,
+     251.939
+    ],
+    [
+     252.219,
+     255.355
+    ],
+    [
+     255.635,
+     258.707
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1",
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899"
+  },
+  {
+   "t0": 259.058,
+   "t1": 267.707,
+   "i": 37,
+   "segs": [
+    [
+     259.058,
+     267.356
+    ]
+   ],
+   "g": "quote",
+   "q": "to obtain an edible product consisting of the said filaments of melted and spun sugar or candy",
+   "hit": "spun sugar",
+   "src": "US 618,428 \u00b7 description",
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899"
+  },
+  {
+   "t0": 267.707,
+   "t1": 276.96,
+   "i": 38,
+   "segs": [
+    [
+     267.707,
+     269.286
+    ],
+    [
+     269.566,
+     271.678
+    ],
+    [
+     271.958,
+     276.609
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy2",
+   "figno": "2",
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899",
+   "calls": [
+    [
+     "SUGAR",
+     486,
+     54,
+     80,
+     -10
+    ],
+    [
+     "BURNER",
+     334,
+     152,
+     -60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 276.96,
+   "t1": 283.521,
+   "i": 39,
+   "segs": [
+    [
+     276.96,
+     278.944
+    ],
+    [
+     279.224,
+     283.17
+    ]
+   ],
+   "g": "quote",
+   "q": "thus forming into silk-like filaments and small beads of candy",
+   "hit": "silk-like filaments",
+   "src": "US 618,428 \u00b7 description",
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899"
+  },
+  {
+   "t0": 283.521,
+   "t1": 291.088,
+   "i": 40,
+   "segs": [
+    [
+     283.521,
+     284.78
+    ],
+    [
+     285.06,
+     288.601
+    ],
+    [
+     288.881,
+     290.737
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy3",
+   "figno": "3",
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899",
+   "calls": [
+    [
+     "PEDAL",
+     621,
+     900,
+     -70,
+     -50
+    ],
+    [
+     "GAS TANK",
+     207,
+     792,
+     -40,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 291.088,
+   "t1": 294.675,
+   "i": 41,
+   "segs": [
+    [
+     291.088,
+     294.224
+    ]
+   ],
+   "g": "quote",
+   "q": "propelled by foot-power in the manner of a lathe",
+   "hit": "foot-power",
+   "src": "US 618,428 \u00b7 description",
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899"
+  },
+  {
+   "t0": 294.675,
+   "t1": 301.362,
+   "i": 42,
+   "segs": [
+    [
+     294.675,
+     301.011
+    ]
+   ],
+   "g": "quote",
+   "q": "several different forms or proportions of filaments, beads, or solid bands of candy",
+   "hit": "solid bands of candy",
+   "src": "US 618,428 \u00b7 description",
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899"
+  },
+  {
+   "t0": 301.362,
+   "t1": 305.343,
+   "i": 43,
+   "segs": [
+    [
+     301.362,
+     302.429
+    ],
+    [
+     302.929,
+     304.892
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANDY-|MACHINE",
+   "filed": "DEC. 23, 1897",
+   "date": "JAN. 31, 1899",
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899",
+   "at": 1.4
+  },
+  {
+   "t0": 305.343,
+   "t1": 317.176,
+   "i": 44,
+   "segs": [
+    [
+     305.343,
+     306.239
+    ],
+    [
+     306.519,
+     310.316
+    ],
+    [
+     310.596,
+     316.825
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK?",
+   "title": "Yes.|Fairy Floss",
+   "lines": [
+    "68,655 boxes \u00b7 25\u00a2 \u00b7 1904 World's Fair",
+    "source: Wikipedia"
+   ],
+   "num": "US 618,428",
+   "hook": "THE [SUGAR]|MACHINE",
+   "side": "US 618,428 \u00b7 1899"
+  },
+  {
+   "t0": 317.176,
+   "t1": 320.005,
+   "i": 45,
+   "segs": [
+    [
+     317.176,
+     318.136
+    ],
+    [
+     318.416,
+     319.654
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 5 OF 8",
+   "numeral": "5",
+   "title": "Carpet Sweeper|and Cleaner",
+   "lines": [
+    "US 889,823",
+    "Filed 1907 \u00b7 Issued 1908"
+   ],
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908"
+  },
+  {
+   "t0": 320.005,
+   "t1": 326.14,
+   "i": 46,
+   "segs": [
+    [
+     320.005,
+     323.525
+    ],
+    [
+     323.805,
+     325.789
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac2",
+   "figno": "2",
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908"
+  },
+  {
+   "t0": 326.14,
+   "t1": 333.003,
+   "i": 47,
+   "segs": [
+    [
+     326.14,
+     327.377
+    ],
+    [
+     327.657,
+     329.385
+    ],
+    [
+     329.665,
+     332.652
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac2",
+   "figno": "2",
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908",
+   "draw": false,
+   "calls": [
+    [
+     "MOTOR",
+     459,
+     324,
+     -60,
+     -70
+    ],
+    [
+     "FAN",
+     414,
+     486,
+     60,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 333.003,
+   "t1": 338.37,
+   "i": 48,
+   "segs": [
+    [
+     333.003,
+     334.624
+    ],
+    [
+     334.904,
+     338.019
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac2",
+   "figno": "2",
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908",
+   "draw": false,
+   "calls": [
+    [
+     "BRUSH",
+     801,
+     630,
+     -40,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 338.37,
+   "t1": 341.558,
+   "i": 49,
+   "segs": [
+    [
+     338.37,
+     341.207
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac1",
+   "figno": "1",
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908",
+   "calls": [
+    [
+     "SACK",
+     54,
+     162,
+     70,
+     -50
+    ],
+    [
+     "MOTOR",
+     468,
+     315,
+     70,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 341.558,
+   "t1": 350.402,
+   "i": 50,
+   "segs": [
+    [
+     341.558,
+     348.129
+    ],
+    [
+     348.409,
+     350.051
+    ]
+   ],
+   "g": "fig",
+   "fig": "vac2",
+   "figno": "2",
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908",
+   "draw": false,
+   "calls": [
+    [
+     "SACK",
+     72,
+     360,
+     60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 350.402,
+   "t1": 357.348,
+   "i": 51,
+   "segs": [
+    [
+     350.402,
+     352.429
+    ],
+    [
+     352.709,
+     356.997
+    ]
+   ],
+   "g": "quote",
+   "q": "the wires 24 will be automatically wound upon the reel when it becomes slack",
+   "hit": "automatically wound",
+   "src": "US 889,823 \u00b7 description",
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908"
+  },
+  {
+   "t0": 357.348,
+   "t1": 363.812,
+   "i": 52,
+   "segs": [
+    [
+     357.348,
+     358.777
+    ],
+    [
+     359.277,
+     361.368
+    ],
+    [
+     361.868,
+     363.361
+    ]
+   ],
+   "g": "quote",
+   "q": "which in use may be connected to a common incandescent lamp socket in the usual manner",
+   "hit": "incandescent lamp socket",
+   "src": "US 889,823 \u00b7 description",
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908"
+  },
+  {
+   "t0": 363.812,
+   "t1": 367.771,
+   "i": 53,
+   "segs": [
+    [
+     363.812,
+     365.156
+    ],
+    [
+     365.656,
+     367.32
+    ]
+   ],
+   "g": "stamp",
+   "title": "CARPET SWEEPER|AND CLEANER",
+   "filed": "SEPT. 14, 1907",
+   "date": "JUNE 2, 1908",
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908",
+   "at": 1.8
+  },
+  {
+   "t0": 367.771,
+   "t1": 379.501,
+   "i": 54,
+   "segs": [
+    [
+     367.771,
+     368.667
+    ],
+    [
+     368.947,
+     371.337
+    ],
+    [
+     371.617,
+     375.627
+    ],
+    [
+     375.907,
+     379.15
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK?",
+   "title": "Yes.|Just Not His Name",
+   "lines": [
+    "Patent bought by W. H. Hoover, 1908",
+    "source: Wikipedia"
+   ],
+   "num": "US 889,823",
+   "hook": "A FAN|AND A [SACK]",
+   "side": "US 889,823 \u00b7 1908"
+  },
+  {
+   "t0": 379.501,
+   "t1": 382.201,
+   "i": 55,
+   "segs": [
+    [
+     379.501,
+     380.397
+    ],
+    [
+     380.677,
+     381.85
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 6 OF 8",
+   "numeral": "6",
+   "title": "Disappearing|Bed",
+   "lines": [
+    "US 1,185,124",
+    "Filed 1913 \u00b7 Issued 1916"
+   ],
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916"
+  },
+  {
+   "t0": 382.201,
+   "t1": 388.91,
+   "i": 56,
+   "segs": [
+    [
+     382.201,
+     388.559
+    ]
+   ],
+   "g": "quote",
+   "q": "beds which are adapted to be moved into a closet or recess when not in use",
+   "hit": "into a closet",
+   "src": "US 1,185,124 \u00b7 description",
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916"
+  },
+  {
+   "t0": 388.91,
+   "t1": 397.266,
+   "i": 57,
+   "segs": [
+    [
+     388.91,
+     390.659
+    ],
+    [
+     390.939,
+     392.219
+    ],
+    [
+     392.499,
+     396.915
+    ]
+   ],
+   "g": "quote",
+   "q": "so that they may be used in either chamber on opposite sides of the wall",
+   "hit": "opposite sides of the wall",
+   "src": "US 1,185,124 \u00b7 description",
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916"
+  },
+  {
+   "t0": 397.266,
+   "t1": 402.894,
+   "i": 58,
+   "segs": [
+    [
+     397.266,
+     398.482
+    ],
+    [
+     398.762,
+     399.445
+    ],
+    [
+     399.725,
+     400.621
+    ],
+    [
+     400.901,
+     402.543
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed1",
+   "figno": "1",
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916",
+   "calls": [
+    [
+     "WALL",
+     72,
+     144,
+     0,
+     -80
+    ],
+    [
+     "BED",
+     576,
+     72,
+     60,
+     60
+    ],
+    [
+     "DOOR",
+     650,
+     238,
+     0,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 402.894,
+   "t1": 409.139,
+   "i": 59,
+   "segs": [
+    [
+     402.894,
+     405.113
+    ],
+    [
+     405.393,
+     406.31
+    ],
+    [
+     406.59,
+     408.788
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed1",
+   "figno": "1",
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916",
+   "draw": false,
+   "calls": [
+    [
+     "THE OTHER ROOM",
+     414,
+     360,
+     80,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 409.139,
+   "t1": 415.316,
+   "i": 60,
+   "segs": [
+    [
+     409.139,
+     411.549
+    ],
+    [
+     411.829,
+     414.965
+    ]
+   ],
+   "g": "quote",
+   "q": "thereby preventing rattling as the door is moved",
+   "hit": "preventing rattling",
+   "src": "US 1,185,124 \u00b7 description",
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916"
+  },
+  {
+   "t0": 415.316,
+   "t1": 420.982,
+   "i": 61,
+   "segs": [
+    [
+     415.316,
+     418.047
+    ],
+    [
+     418.327,
+     420.631
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed2",
+   "figno": "2",
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916",
+   "calls": [
+    [
+     "THE BED",
+     450,
+     396,
+     70,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 420.982,
+   "t1": 427.992,
+   "i": 62,
+   "segs": [
+    [
+     420.982,
+     423.649
+    ],
+    [
+     424.149,
+     427.541
+    ]
+   ],
+   "g": "quote",
+   "q": "the bed is swung quicker than the door",
+   "hit": "quicker than the door",
+   "src": "US 1,185,124 \u00b7 description",
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916"
+  },
+  {
+   "t0": 427.992,
+   "t1": 432.804,
+   "i": 63,
+   "segs": [
+    [
+     427.992,
+     429.997
+    ],
+    [
+     430.497,
+     432.353
+    ]
+   ],
+   "g": "stamp",
+   "title": "DISAPPEARING|BED",
+   "filed": "JAN. 20, 1913",
+   "date": "MAY 30, 1916",
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916",
+   "at": 1.6
+  },
+  {
+   "t0": 432.804,
+   "t1": 447.584,
+   "i": 64,
+   "segs": [
+    [
+     432.804,
+     433.7
+    ],
+    [
+     433.98,
+     441.084
+    ],
+    [
+     441.364,
+     442.452
+    ],
+    [
+     442.732,
+     447.233
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK?",
+   "title": "Yes.|Too Well",
+   "lines": [
+    "\"Murphy bed\" ruled generic, 1989",
+    "source: Wikipedia"
+   ],
+   "num": "US 1,185,124",
+   "hook": "THE BED THAT|[DISAPPEARS]",
+   "side": "US 1,185,124 \u00b7 1916"
+  },
+  {
+   "t0": 447.584,
+   "t1": 450.477,
+   "i": 65,
+   "segs": [
+    [
+     447.584,
+     448.502
+    ],
+    [
+     448.782,
+     450.126
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 7 OF 8",
+   "numeral": "7",
+   "title": "Frozen|Confectionery",
+   "lines": [
+    "US 1,505,592",
+    "Filed 1924 \u00b7 Issued 1924"
+   ],
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924"
+  },
+  {
+   "t0": 450.477,
+   "t1": 460.686,
+   "i": 66,
+   "segs": [
+    [
+     450.477,
+     456.557
+    ],
+    [
+     456.837,
+     460.335
+    ]
+   ],
+   "g": "quote",
+   "q": "which can be conveniently consumed without contamination by contact with the hand",
+   "hit": "contact with the hand",
+   "src": "US 1,505,592 \u00b7 description",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924"
+  },
+  {
+   "t0": 460.686,
+   "t1": 465.115,
+   "i": 67,
+   "segs": [
+    [
+     460.686,
+     461.454
+    ],
+    [
+     461.734,
+     464.764
+    ]
+   ],
+   "g": "quote",
+   "q": "small containers which may be ordinary test tubes are charged with the liquid syrup",
+   "hit": "ordinary test tubes",
+   "src": "US 1,505,592 \u00b7 description",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924"
+  },
+  {
+   "t0": 465.115,
+   "t1": 471.743,
+   "i": 68,
+   "segs": [
+    [
+     465.115,
+     466.416
+    ],
+    [
+     466.696,
+     467.677
+    ],
+    [
+     467.957,
+     471.392
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop2",
+   "figno": "2",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924",
+   "calls": [
+    [
+     "BOARD",
+     261,
+     45,
+     60,
+     -40
+    ],
+    [
+     "TEST TUBES",
+     135,
+     144,
+     -60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 471.743,
+   "t1": 475.385,
+   "i": 69,
+   "segs": [
+    [
+     471.743,
+     472.49
+    ],
+    [
+     472.77,
+     473.986
+    ],
+    [
+     474.266,
+     475.034
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop",
+   "figno": "1, 3 & 4",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924",
+   "calls": [
+    [
+     "TEST TUBE",
+     150,
+     342,
+     40,
+     60
+    ],
+    [
+     "STICK",
+     108,
+     36,
+     60,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 475.385,
+   "t1": 484.677,
+   "i": 70,
+   "segs": [
+    [
+     475.385,
+     480.59
+    ],
+    [
+     480.87,
+     484.326
+    ]
+   ],
+   "g": "quote",
+   "q": "It will be noted that a substantial tensile force is required to withdraw the confection",
+   "hit": "substantial tensile force",
+   "src": "US 1,505,592 \u00b7 description",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924"
+  },
+  {
+   "t0": 484.677,
+   "t1": 492.713,
+   "i": 71,
+   "segs": [
+    [
+     484.677,
+     485.978
+    ],
+    [
+     486.258,
+     489.416
+    ],
+    [
+     489.696,
+     492.362
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop",
+   "figno": "1, 3 & 4",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924",
+   "draw": false,
+   "calls": [
+    [
+     "FINISHED",
+     531,
+     342,
+     -60,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 492.713,
+   "t1": 500.622,
+   "i": 72,
+   "segs": [
+    [
+     492.713,
+     494.612
+    ],
+    [
+     494.892,
+     496.812
+    ],
+    [
+     497.092,
+     500.271
+    ]
+   ],
+   "g": "quote",
+   "q": "as a refreshing drink derived from the solid on the stick",
+   "hit": "refreshing drink",
+   "src": "US 1,505,592 \u00b7 description",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924"
+  },
+  {
+   "t0": 500.622,
+   "t1": 502.623,
+   "i": 73,
+   "segs": [
+    [
+     500.622,
+     502.072
+    ]
+   ],
+   "g": "quote",
+   "q": "leaving a white and colorless mass of ice or snow",
+   "hit": "colorless",
+   "src": "US 1,505,592 \u00b7 description",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924",
+   "hide": true
+  },
+  {
+   "t0": 502.623,
+   "t1": 506.104,
+   "i": 74,
+   "segs": [
+    [
+     502.623,
+     505.653
+    ]
+   ],
+   "g": "quote",
+   "q": "leaving a white and colorless mass of ice or snow",
+   "hit": "colorless",
+   "src": "US 1,505,592 \u00b7 description",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924",
+   "typed": false
+  },
+  {
+   "t0": 506.104,
+   "t1": 510.148,
+   "i": 75,
+   "segs": [
+    [
+     506.104,
+     507.149
+    ],
+    [
+     507.649,
+     509.697
+    ]
+   ],
+   "g": "stamp",
+   "title": "FROZEN|CONFECTIONERY",
+   "filed": "JUL. 19, 1924",
+   "date": "AUG. 19, 1924",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924",
+   "at": 1.6
+  },
+  {
+   "t0": 510.148,
+   "t1": 521.342,
+   "i": 76,
+   "segs": [
+    [
+     510.148,
+     511.044
+    ],
+    [
+     511.324,
+     516.252
+    ],
+    [
+     516.532,
+     520.991
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK?",
+   "title": "Yes.|2 Billion a Year",
+   "lines": [
+    "Rights sold in the 1920s",
+    "source: NPR"
+   ],
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924"
+  },
+  {
+   "t0": 521.342,
+   "t1": 525.623,
+   "i": 77,
+   "segs": [
+    [
+     521.342,
+     522.302
+    ],
+    [
+     522.582,
+     523.755
+    ],
+    [
+     524.035,
+     525.272
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 8 OF 8",
+   "numeral": "8",
+   "title": "Combined Dipping, Cooking, and|Article-Holding Apparatus",
+   "lines": [
+    "US 1,706,491",
+    "Filed 1927 \u00b7 Issued 1929"
+   ],
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929"
+  },
+  {
+   "t0": 525.623,
+   "t1": 532.868,
+   "i": 78,
+   "segs": [
+    [
+     525.623,
+     529.25
+    ],
+    [
+     529.53,
+     532.517
+    ]
+   ],
+   "g": "quote",
+   "q": "a new and novel edible food product",
+   "hit": "new and novel",
+   "src": "US 1,706,491 \u00b7 description",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929"
+  },
+  {
+   "t0": 532.868,
+   "t1": 538.04,
+   "i": 79,
+   "segs": [
+    [
+     532.868,
+     537.689
+    ]
+   ],
+   "g": "quote",
+   "q": "a clean, wholesome and tasty refreshment",
+   "hit": "tasty refreshment",
+   "src": "US 1,706,491 \u00b7 description",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929"
+  },
+  {
+   "t0": 538.04,
+   "t1": 545.242,
+   "i": 80,
+   "segs": [
+    [
+     538.04,
+     540.877
+    ],
+    [
+     541.157,
+     544.891
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn4",
+   "figno": "4",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929",
+   "calls": [
+    [
+     "CLIP",
+     234,
+     144,
+     -60,
+     -40
+    ],
+    [
+     "BATTER",
+     375,
+     500,
+     70,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 545.242,
+   "t1": 553.726,
+   "i": 81,
+   "segs": [
+    [
+     545.242,
+     545.818
+    ],
+    [
+     546.098,
+     548.914
+    ],
+    [
+     549.194,
+     553.375
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn9",
+   "figno": "9",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929",
+   "calls": [
+    [
+     "COOKING",
+     360,
+     288,
+     40,
+     70
+    ],
+    [
+     "KEPT WARM",
+     648,
+     333,
+     0,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 553.726,
+   "t1": 560.842,
+   "i": 82,
+   "segs": [
+    [
+     553.726,
+     555.027
+    ],
+    [
+     555.307,
+     560.491
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn8",
+   "figno": "8",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929",
+   "calls": [
+    [
+     "COVER",
+     198,
+     27,
+     70,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 560.842,
+   "t1": 569.668,
+   "i": 83,
+   "segs": [
+    [
+     560.842,
+     563.04
+    ],
+    [
+     563.32,
+     565.453
+    ],
+    [
+     565.733,
+     569.317
+    ]
+   ],
+   "g": "quote",
+   "q": "that the amount of oil absorbed by the batter is practically nil",
+   "hit": "practically nil",
+   "src": "US 1,706,491 \u00b7 description",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929"
+  },
+  {
+   "t0": 569.668,
+   "t1": 577.915,
+   "i": 84,
+   "segs": [
+    [
+     569.668,
+     571.695
+    ],
+    [
+     571.975,
+     577.564
+    ]
+   ],
+   "g": "quote",
+   "q": "if the article is fruit the flavor is not destroyed but rather the juice of the fruit flavors the surrounding pastry",
+   "hit": "surrounding pastry",
+   "src": "US 1,706,491 \u00b7 description",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929"
+  },
+  {
+   "t0": 577.915,
+   "t1": 580.698,
+   "i": 85,
+   "segs": [
+    [
+     577.915,
+     580.347
+    ]
+   ],
+   "g": "quote",
+   "q": "the general appearance of the food product is that of a cruller on a stick",
+   "hit": "a cruller on a stick",
+   "src": "US 1,706,491 \u00b7 description",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929",
+   "hide": true
+  },
+  {
+   "t0": 580.698,
+   "t1": 585.522,
+   "i": 86,
+   "segs": [
+    [
+     580.698,
+     585.071
+    ]
+   ],
+   "g": "quote",
+   "q": "the general appearance of the food product is that of a cruller on a stick",
+   "hit": "a cruller on a stick",
+   "src": "US 1,706,491 \u00b7 description",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929",
+   "typed": false
+  },
+  {
+   "t0": 585.522,
+   "t1": 589.737,
+   "i": 87,
+   "segs": [
+    [
+     585.522,
+     586.802
+    ],
+    [
+     587.302,
+     589.286
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINED DIPPING, COOKING, AND|ARTICLE-HOLDING APPARATUS",
+   "filed": "JUL. 5, 1927",
+   "date": "MAR. 26, 1929",
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929",
+   "at": 2.0
+  },
+  {
+   "t0": 589.737,
+   "t1": 601.443,
+   "i": 88,
+   "segs": [
+    [
+     589.737,
+     590.633
+    ],
+    [
+     590.913,
+     594.583
+    ],
+    [
+     594.863,
+     601.092
+    ]
+   ],
+   "g": "title",
+   "kicker": "DID IT WORK?",
+   "title": "Yes.|The Corn Dog",
+   "lines": [
+    "Corny Dogs \u00b7 State Fair of Texas",
+    "1938\u20131942 \u00b7 source: Wikipedia"
+   ],
+   "num": "US 1,706,491",
+   "hook": "ANYTHING|ON A [STICK]",
+   "side": "US 1,706,491 \u00b7 1929"
+  },
+  {
+   "t0": 601.443,
+   "t1": 604.085,
+   "i": 89,
+   "segs": [
+    [
+     601.443,
+     603.534
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS WEEK'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 005"
+  },
+  {
+   "t0": 604.085,
+   "t1": 617.07,
+   "i": 90,
+   "segs": [
+    [
+     604.085,
+     606.239
+    ],
+    [
+     606.519,
+     615.245
+    ],
+    [
+     615.525,
+     616.719
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop",
+   "figno": "1, 3 & 4",
+   "num": "US 1,505,592",
+   "hook": "ICE IN A|[TEST TUBE]",
+   "side": "US 1,505,592 \u00b7 1924",
+   "draw": false
+  },
+  {
+   "t0": 617.07,
+   "t1": 625.765,
+   "i": 91,
+   "segs": [
+    [
+     617.07,
+     619.993
+    ],
+    [
+     620.273,
+     625.414
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "6,281 \u00b7 188,292 \u00b7 375,962 \u00b7 618,428",
+    "889,823 \u00b7 1,185,124",
+    "1,505,592 \u00b7 1,706,491"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 005"
+  },
+  {
+   "t0": 625.765,
+   "t1": 632.68,
+   "i": 92,
+   "segs": [
+    [
+     625.765,
+     627.451
+    ],
+    [
+     627.731,
+     629.331
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 005"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.968,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.968,
+   "t1": 1.654,
+   "txt": "pot of hot"
+  },
+  {
+   "t0": 1.654,
+   "t1": 1.929,
+   "txt": "oil."
+  },
+  {
+   "t0": 2.429,
+   "t1": 3.179,
+   "txt": "And this is"
+  },
+  {
+   "t0": 3.179,
+   "t1": 3.656,
+   "txt": "a list,"
+  },
+  {
+   "t0": 3.656,
+   "t1": 4.543,
+   "txt": "from a patent"
+  },
+  {
+   "t0": 4.543,
+   "t1": 5.702,
+   "txt": "filed in nineteen"
+  },
+  {
+   "t0": 5.702,
+   "t1": 6.589,
+   "txt": "twenty-seven."
+  },
+  {
+   "t0": 7.04,
+   "t1": 7.829,
+   "txt": "Wieners."
+  },
+  {
+   "t0": 8.329,
+   "t1": 9.31,
+   "txt": "Boiled ham."
+  },
+  {
+   "t0": 9.81,
+   "t1": 11.24,
+   "txt": "Hard boiled eggs."
+  },
+  {
+   "t0": 11.74,
+   "t1": 12.529,
+   "txt": "Cheese."
+  },
+  {
+   "t0": 13.029,
+   "t1": 14.224,
+   "txt": "Sliced peaches."
+  },
+  {
+   "t0": 14.724,
+   "t1": 15.641,
+   "txt": "Pineapples."
+  },
+  {
+   "t0": 16.141,
+   "t1": 17.037,
+   "txt": "Bananas."
+  },
+  {
+   "t0": 17.537,
+   "t1": 18.148,
+   "txt": "Cherries,"
+  },
+  {
+   "t0": 18.148,
+   "t1": 18.555,
+   "txt": "dates,"
+  },
+  {
+   "t0": 18.555,
+   "t1": 18.895,
+   "txt": "figs,"
+  },
+  {
+   "t0": 18.895,
+   "t1": 19.777,
+   "txt": "strawberries."
+  },
+  {
+   "t0": 20.228,
+   "t1": 20.815,
+   "txt": "All of it,"
+  },
+  {
+   "t0": 20.815,
+   "t1": 21.46,
+   "txt": "on a stick,"
+  },
+  {
+   "t0": 21.46,
+   "t1": 22.457,
+   "txt": "dipped in batter,"
+  },
+  {
+   "t0": 22.457,
+   "t1": 23.044,
+   "txt": "and fried."
+  },
+  {
+   "t0": 23.464,
+   "t1": 24.573,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 25.074,
+   "t1": 26.298,
+   "txt": "Some patents sound"
+  },
+  {
+   "t0": 26.298,
+   "t1": 27.046,
+   "txt": "ridiculous,"
+  },
+  {
+   "t0": 27.046,
+   "t1": 27.93,
+   "txt": "and then they"
+  },
+  {
+   "t0": 27.93,
+   "t1": 28.542,
+   "txt": "end up in"
+  },
+  {
+   "t0": 28.542,
+   "t1": 29.494,
+   "txt": "every kitchen,"
+  },
+  {
+   "t0": 29.494,
+   "t1": 30.378,
+   "txt": "every closet,"
+  },
+  {
+   "t0": 30.378,
+   "t1": 31.602,
+   "txt": "every county fair."
+  },
+  {
+   "t0": 31.882,
+   "t1": 32.248,
+   "txt": "Today:"
+  },
+  {
+   "t0": 32.248,
+   "t1": 33.347,
+   "txt": "eight real patents"
+  },
+  {
+   "t0": 33.347,
+   "t1": 34.506,
+   "txt": "that sounded weird."
+  },
+  {
+   "t0": 34.786,
+   "t1": 36.002,
+   "txt": "And sold anyway."
+  },
+  {
+   "t0": 36.282,
+   "t1": 37.109,
+   "txt": "For each one,"
+  },
+  {
+   "t0": 37.109,
+   "t1": 37.744,
+   "txt": "we ask the"
+  },
+  {
+   "t0": 37.744,
+   "t1": 38.888,
+   "txt": "only question that"
+  },
+  {
+   "t0": 38.888,
+   "t1": 39.397,
+   "txt": "matters."
+  },
+  {
+   "t0": 39.677,
+   "t1": 40.573,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 40.924,
+   "t1": 41.756,
+   "txt": "Number one."
+  },
+  {
+   "t0": 42.036,
+   "t1": 43.337,
+   "txt": "Eighteen forty-nine."
+  },
+  {
+   "t0": 43.688,
+   "t1": 44.305,
+   "txt": "This is the"
+  },
+  {
+   "t0": 44.305,
+   "t1": 45.203,
+   "txt": "whole invention."
+  },
+  {
+   "t0": 45.483,
+   "t1": 46.123,
+   "txt": "A piece of"
+  },
+  {
+   "t0": 46.123,
+   "t1": 46.443,
+   "txt": "wire,"
+  },
+  {
+   "t0": 46.443,
+   "t1": 46.763,
+   "txt": "bent."
+  },
+  {
+   "t0": 47.114,
+   "t1": 48.056,
+   "txt": "The patent calls"
+  },
+  {
+   "t0": 48.056,
+   "t1": 49.056,
+   "txt": "itself a faithful"
+  },
+  {
+   "t0": 49.056,
+   "t1": 50.527,
+   "txt": "and accurate description."
+  },
+  {
+   "t0": 50.807,
+   "t1": 51.919,
+   "txt": "And it describes"
+  },
+  {
+   "t0": 51.919,
+   "t1": 52.613,
+   "txt": "a pin made"
+  },
+  {
+   "t0": 52.613,
+   "t1": 53.447,
+   "txt": "of one piece"
+  },
+  {
+   "t0": 53.447,
+   "t1": 54.141,
+   "txt": "of wire or"
+  },
+  {
+   "t0": 54.141,
+   "t1": 55.322,
+   "txt": "metal combining a"
+  },
+  {
+   "t0": 55.322,
+   "t1": 55.808,
+   "txt": "spring,"
+  },
+  {
+   "t0": 55.808,
+   "t1": 56.641,
+   "txt": "and clasp or"
+  },
+  {
+   "t0": 56.641,
+   "t1": 57.058,
+   "txt": "catch."
+  },
+  {
+   "t0": 57.409,
+   "t1": 58.07,
+   "txt": "One end is"
+  },
+  {
+   "t0": 58.07,
+   "t1": 58.732,
+   "txt": "the point."
+  },
+  {
+   "t0": 59.012,
+   "t1": 59.721,
+   "txt": "In the middle,"
+  },
+  {
+   "t0": 59.721,
+   "t1": 60.076,
+   "txt": "a coil,"
+  },
+  {
+   "t0": 60.076,
+   "t1": 60.633,
+   "txt": "the spring."
+  },
+  {
+   "t0": 60.913,
+   "t1": 61.506,
+   "txt": "At the far"
+  },
+  {
+   "t0": 61.506,
+   "t1": 61.743,
+   "txt": "end,"
+  },
+  {
+   "t0": 61.743,
+   "t1": 62.513,
+   "txt": "a little hook"
+  },
+  {
+   "t0": 62.513,
+   "t1": 63.224,
+   "txt": "to catch the"
+  },
+  {
+   "t0": 63.224,
+   "t1": 63.58,
+   "txt": "point."
+  },
+  {
+   "t0": 63.931,
+   "t1": 64.349,
+   "txt": "Open it,"
+  },
+  {
+   "t0": 64.349,
+   "t1": 65.082,
+   "txt": "and the spring"
+  },
+  {
+   "t0": 65.082,
+   "t1": 65.919,
+   "txt": "throws the point"
+  },
+  {
+   "t0": 65.919,
+   "t1": 66.128,
+   "txt": "out."
+  },
+  {
+   "t0": 66.408,
+   "t1": 66.923,
+   "txt": "Close it,"
+  },
+  {
+   "t0": 66.923,
+   "t1": 67.666,
+   "txt": "and the point"
+  },
+  {
+   "t0": 67.666,
+   "t1": 68.238,
+   "txt": "is held by"
+  },
+  {
+   "t0": 68.238,
+   "t1": 69.096,
+   "txt": "its own spring."
+  },
+  {
+   "t0": 69.447,
+   "t1": 70.113,
+   "txt": "They may be"
+  },
+  {
+   "t0": 70.113,
+   "t1": 70.962,
+   "txt": "made of common"
+  },
+  {
+   "t0": 70.962,
+   "t1": 71.507,
+   "txt": "pin wire,"
+  },
+  {
+   "t0": 71.507,
+   "t1": 72.476,
+   "txt": "the patent says."
+  },
+  {
+   "t0": 72.756,
+   "t1": 73.294,
+   "txt": "Or of the"
+  },
+  {
+   "t0": 73.294,
+   "t1": 74.25,
+   "txt": "precious metals."
+  },
+  {
+   "t0": 74.601,
+   "t1": 75.343,
+   "txt": "And the main"
+  },
+  {
+   "t0": 75.343,
+   "t1": 76.209,
+   "txt": "selling point:"
+  },
+  {
+   "t0": 76.209,
+   "t1": 77.074,
+   "txt": "there being no"
+  },
+  {
+   "t0": 77.074,
+   "t1": 77.94,
+   "txt": "joint to break"
+  },
+  {
+   "t0": 77.94,
+   "t1": 78.621,
+   "txt": "or pivot to"
+  },
+  {
+   "t0": 78.621,
+   "t1": 79.301,
+   "txt": "wear or get"
+  },
+  {
+   "t0": 79.301,
+   "t1": 79.981,
+   "txt": "loose as in"
+  },
+  {
+   "t0": 79.981,
+   "t1": 80.723,
+   "txt": "other plans."
+  },
+  {
+   "t0": 81.074,
+   "t1": 82.109,
+   "txt": "The last figures"
+  },
+  {
+   "t0": 82.109,
+   "t1": 83.08,
+   "txt": "add decoration."
+  },
+  {
+   "t0": 83.36,
+   "t1": 84.704,
+   "txt": "Any ornamental design"
+  },
+  {
+   "t0": 84.704,
+   "t1": 85.664,
+   "txt": "may be attached"
+  },
+  {
+   "t0": 85.664,
+   "t1": 86.368,
+   "txt": "to the bar."
+  },
+  {
+   "t0": 86.719,
+   "t1": 87.398,
+   "txt": "You know it"
+  },
+  {
+   "t0": 87.398,
+   "t1": 88.2,
+   "txt": "as the safety"
+  },
+  {
+   "t0": 88.2,
+   "t1": 88.447,
+   "txt": "pin."
+  },
+  {
+   "t0": 88.947,
+   "t1": 89.569,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 89.569,
+   "t1": 90.952,
+   "txt": "eighteen forty-nine."
+  },
+  {
+   "t0": 91.403,
+   "t1": 92.299,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 92.579,
+   "t1": 93.56,
+   "txt": "The pin did."
+  },
+  {
+   "t0": 93.84,
+   "t1": 94.751,
+   "txt": "The story goes"
+  },
+  {
+   "t0": 94.751,
+   "t1": 95.922,
+   "txt": "that its inventor,"
+  },
+  {
+   "t0": 95.922,
+   "t1": 96.702,
+   "txt": "Walter Hunt,"
+  },
+  {
+   "t0": 96.702,
+   "t1": 98.003,
+   "txt": "owed someone fifteen"
+  },
+  {
+   "t0": 98.003,
+   "t1": 98.524,
+   "txt": "dollars,"
+  },
+  {
+   "t0": 98.524,
+   "t1": 99.499,
+   "txt": "and invented it"
+  },
+  {
+   "t0": 99.499,
+   "t1": 100.15,
+   "txt": "to pay the"
+  },
+  {
+   "t0": 100.15,
+   "t1": 100.475,
+   "txt": "debt."
+  },
+  {
+   "t0": 100.755,
+   "t1": 101.437,
+   "txt": "And then sold"
+  },
+  {
+   "t0": 101.437,
+   "t1": 102.171,
+   "txt": "the rights for"
+  },
+  {
+   "t0": 102.171,
+   "t1": 103.272,
+   "txt": "four hundred dollars."
+  },
+  {
+   "t0": 103.623,
+   "t1": 104.498,
+   "txt": "Number two."
+  },
+  {
+   "t0": 104.778,
+   "t1": 105.397,
+   "txt": "Maine."
+  },
+  {
+   "t0": 105.677,
+   "t1": 106.359,
+   "txt": "Winter."
+  },
+  {
+   "t0": 106.71,
+   "t1": 107.293,
+   "txt": "Two pads,"
+  },
+  {
+   "t0": 107.293,
+   "t1": 107.939,
+   "txt": "on a metal"
+  },
+  {
+   "t0": 107.939,
+   "t1": 108.716,
+   "txt": "spring band."
+  },
+  {
+   "t0": 108.996,
+   "t1": 110.262,
+   "txt": "The patent promises"
+  },
+  {
+   "t0": 110.262,
+   "t1": 111.128,
+   "txt": "a simpler and"
+  },
+  {
+   "t0": 111.128,
+   "t1": 112.528,
+   "txt": "more effective device"
+  },
+  {
+   "t0": 112.528,
+   "t1": 113.66,
+   "txt": "of this character"
+  },
+  {
+   "t0": 113.66,
+   "t1": 114.393,
+   "txt": "than is now"
+  },
+  {
+   "t0": 114.393,
+   "t1": 115.46,
+   "txt": "in ordinary use."
+  },
+  {
+   "t0": 115.811,
+   "t1": 116.515,
+   "txt": "The band is"
+  },
+  {
+   "t0": 116.515,
+   "t1": 117.795,
+   "txt": "a flattened metallic"
+  },
+  {
+   "t0": 117.795,
+   "t1": 118.243,
+   "txt": "spring,"
+  },
+  {
+   "t0": 118.243,
+   "t1": 119.651,
+   "txt": "semicircular in shape."
+  },
+  {
+   "t0": 119.931,
+   "t1": 120.811,
+   "txt": "Each pad hangs"
+  },
+  {
+   "t0": 120.811,
+   "t1": 121.44,
+   "txt": "from it on"
+  },
+  {
+   "t0": 121.44,
+   "t1": 122.006,
+   "txt": "a loop of"
+  },
+  {
+   "t0": 122.006,
+   "t1": 122.32,
+   "txt": "wire."
+  },
+  {
+   "t0": 122.671,
+   "t1": 123.69,
+   "txt": "The wire frame"
+  },
+  {
+   "t0": 123.69,
+   "t1": 124.417,
+   "txt": "can swing,"
+  },
+  {
+   "t0": 124.417,
+   "t1": 125.217,
+   "txt": "but only so"
+  },
+  {
+   "t0": 125.217,
+   "t1": 125.508,
+   "txt": "far."
+  },
+  {
+   "t0": 125.788,
+   "t1": 126.86,
+   "txt": "Little bends act"
+  },
+  {
+   "t0": 126.86,
+   "t1": 127.529,
+   "txt": "as a stop,"
+  },
+  {
+   "t0": 127.529,
+   "t1": 128.266,
+   "txt": "to keep the"
+  },
+  {
+   "t0": 128.266,
+   "t1": 129.404,
+   "txt": "pad from swinging"
+  },
+  {
+   "t0": 129.404,
+   "t1": 130.61,
+   "txt": "outwardly too far."
+  },
+  {
+   "t0": 130.961,
+   "t1": 131.646,
+   "txt": "The pads are"
+  },
+  {
+   "t0": 131.646,
+   "t1": 132.731,
+   "txt": "covered with cloth."
+  },
+  {
+   "t0": 133.011,
+   "t1": 133.682,
+   "txt": "And may be"
+  },
+  {
+   "t0": 133.682,
+   "t1": 134.689,
+   "txt": "lined with fur,"
+  },
+  {
+   "t0": 134.689,
+   "t1": 135.024,
+   "txt": "wool,"
+  },
+  {
+   "t0": 135.024,
+   "t1": 135.359,
+   "txt": "skin,"
+  },
+  {
+   "t0": 135.359,
+   "t1": 136.164,
+   "txt": "or any other"
+  },
+  {
+   "t0": 136.164,
+   "t1": 137.775,
+   "txt": "fibrous non-conductor of"
+  },
+  {
+   "t0": 137.775,
+   "t1": 138.11,
+   "txt": "heat."
+  },
+  {
+   "t0": 138.461,
+   "t1": 139.585,
+   "txt": "Figure two shows"
+  },
+  {
+   "t0": 139.585,
+   "t1": 140.569,
+   "txt": "the muffler in"
+  },
+  {
+   "t0": 140.569,
+   "t1": 140.85,
+   "txt": "use."
+  },
+  {
+   "t0": 141.35,
+   "t1": 142.45,
+   "txt": "A gentleman with"
+  },
+  {
+   "t0": 142.45,
+   "t1": 143.275,
+   "txt": "a fur collar"
+  },
+  {
+   "t0": 143.275,
+   "t1": 143.962,
+   "txt": "and a very"
+  },
+  {
+   "t0": 143.962,
+   "t1": 145.062,
+   "txt": "calm expression."
+  },
+  {
+   "t0": 145.513,
+   "t1": 146.27,
+   "txt": "The band goes"
+  },
+  {
+   "t0": 146.27,
+   "t1": 146.969,
+   "txt": "over the top"
+  },
+  {
+   "t0": 146.969,
+   "t1": 147.668,
+   "txt": "of the head."
+  },
+  {
+   "t0": 147.948,
+   "t1": 149.383,
+   "txt": "Its contractile action"
+  },
+  {
+   "t0": 149.383,
+   "t1": 150.361,
+   "txt": "pushes the pads"
+  },
+  {
+   "t0": 150.361,
+   "t1": 151.535,
+   "txt": "firmly against the"
+  },
+  {
+   "t0": 151.535,
+   "t1": 151.862,
+   "txt": "ears,"
+  },
+  {
+   "t0": 151.862,
+   "t1": 152.97,
+   "txt": "and protects them"
+  },
+  {
+   "t0": 152.97,
+   "t1": 153.623,
+   "txt": "from cold."
+  },
+  {
+   "t0": 153.974,
+   "t1": 155.211,
+   "txt": "How exactly?"
+  },
+  {
+   "t0": 155.711,
+   "t1": 156.402,
+   "txt": "In a manner"
+  },
+  {
+   "t0": 156.402,
+   "t1": 157.219,
+   "txt": "which will be"
+  },
+  {
+   "t0": 157.219,
+   "t1": 158.351,
+   "txt": "readily obvious to"
+  },
+  {
+   "t0": 158.351,
+   "t1": 159.545,
+   "txt": "all conversant with"
+  },
+  {
+   "t0": 159.545,
+   "t1": 160.362,
+   "txt": "such matters."
+  },
+  {
+   "t0": 160.813,
+   "t1": 161.602,
+   "txt": "Earmuffs."
+  },
+  {
+   "t0": 162.102,
+   "t1": 162.732,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 162.732,
+   "t1": 164.342,
+   "txt": "eighteen seventy-seven."
+  },
+  {
+   "t0": 164.793,
+   "t1": 165.689,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 165.969,
+   "t1": 167.343,
+   "txt": "Chester Greenwood built"
+  },
+  {
+   "t0": 167.343,
+   "t1": 168.179,
+   "txt": "a factory near"
+  },
+  {
+   "t0": 168.179,
+   "t1": 168.956,
+   "txt": "his hometown."
+  },
+  {
+   "t0": 169.236,
+   "t1": 169.996,
+   "txt": "In its best"
+  },
+  {
+   "t0": 169.996,
+   "t1": 170.342,
+   "txt": "year,"
+  },
+  {
+   "t0": 170.342,
+   "t1": 171.724,
+   "txt": "nineteen thirty-six,"
+  },
+  {
+   "t0": 171.724,
+   "t1": 172.553,
+   "txt": "it made over"
+  },
+  {
+   "t0": 172.553,
+   "t1": 174.005,
+   "txt": "four hundred thousand"
+  },
+  {
+   "t0": 174.005,
+   "t1": 174.42,
+   "txt": "pairs."
+  },
+  {
+   "t0": 174.7,
+   "t1": 175.552,
+   "txt": "His town still"
+  },
+  {
+   "t0": 175.552,
+   "t1": 177.255,
+   "txt": "celebrates Chester Greenwood"
+  },
+  {
+   "t0": 177.255,
+   "t1": 178.412,
+   "txt": "Day every December."
+  },
+  {
+   "t0": 178.763,
+   "t1": 179.68,
+   "txt": "Number three."
+  },
+  {
+   "t0": 179.96,
+   "t1": 180.93,
+   "txt": "Washington,"
+  },
+  {
+   "t0": 180.93,
+   "t1": 181.283,
+   "txt": "D.C."
+  },
+  {
+   "t0": 181.563,
+   "t1": 182.885,
+   "txt": "Eighteen eighty-seven."
+  },
+  {
+   "t0": 183.236,
+   "t1": 184.349,
+   "txt": "Before this patent,"
+  },
+  {
+   "t0": 184.349,
+   "t1": 185.286,
+   "txt": "a drinking straw"
+  },
+  {
+   "t0": 185.286,
+   "t1": 185.988,
+   "txt": "was a straw."
+  },
+  {
+   "t0": 186.268,
+   "t1": 187.295,
+   "txt": "An actual stalk"
+  },
+  {
+   "t0": 187.295,
+   "t1": 187.911,
+   "txt": "of grass."
+  },
+  {
+   "t0": 188.191,
+   "t1": 189.021,
+   "txt": "It made drinks"
+  },
+  {
+   "t0": 189.021,
+   "t1": 189.791,
+   "txt": "taste grassy."
+  },
+  {
+   "t0": 190.142,
+   "t1": 191.401,
+   "txt": "The patent's goal:"
+  },
+  {
+   "t0": 191.401,
+   "t1": 191.961,
+   "txt": "a cheap,"
+  },
+  {
+   "t0": 191.961,
+   "t1": 192.52,
+   "txt": "durable,"
+  },
+  {
+   "t0": 192.52,
+   "t1": 194.619,
+   "txt": "and unobjectionable substitute"
+  },
+  {
+   "t0": 194.619,
+   "t1": 195.668,
+   "txt": "for the natural"
+  },
+  {
+   "t0": 195.668,
+   "t1": 196.158,
+   "txt": "straws."
+  },
+  {
+   "t0": 196.509,
+   "t1": 197.277,
+   "txt": "The method."
+  },
+  {
+   "t0": 197.557,
+   "t1": 198.29,
+   "txt": "A strip of"
+  },
+  {
+   "t0": 198.29,
+   "t1": 198.73,
+   "txt": "paper."
+  },
+  {
+   "t0": 199.01,
+   "t1": 200.077,
+   "txt": "A spinning rod."
+  },
+  {
+   "t0": 200.357,
+   "t1": 201.138,
+   "txt": "The corner of"
+  },
+  {
+   "t0": 201.138,
+   "t1": 201.979,
+   "txt": "the strip goes"
+  },
+  {
+   "t0": 201.979,
+   "t1": 202.64,
+   "txt": "into a slit"
+  },
+  {
+   "t0": 202.64,
+   "t1": 203.301,
+   "txt": "in the rod."
+  },
+  {
+   "t0": 203.652,
+   "t1": 204.648,
+   "txt": "The rod turns,"
+  },
+  {
+   "t0": 204.648,
+   "t1": 205.714,
+   "txt": "the paper winds"
+  },
+  {
+   "t0": 205.714,
+   "t1": 206.568,
+   "txt": "around it in"
+  },
+  {
+   "t0": 206.568,
+   "t1": 207.208,
+   "txt": "a spiral,"
+  },
+  {
+   "t0": 207.208,
+   "t1": 207.848,
+   "txt": "and a dab"
+  },
+  {
+   "t0": 207.848,
+   "t1": 208.843,
+   "txt": "of paste holds"
+  },
+  {
+   "t0": 208.843,
+   "t1": 209.412,
+   "txt": "the end."
+  },
+  {
+   "t0": 209.763,
+   "t1": 210.504,
+   "txt": "Then the tube"
+  },
+  {
+   "t0": 210.504,
+   "t1": 211.303,
+   "txt": "is dipped into"
+  },
+  {
+   "t0": 211.303,
+   "t1": 211.759,
+   "txt": "a vat of"
+  },
+  {
+   "t0": 211.759,
+   "t1": 212.728,
+   "txt": "molten paraffine."
+  },
+  {
+   "t0": 213.008,
+   "t1": 213.806,
+   "txt": "That makes it"
+  },
+  {
+   "t0": 213.806,
+   "t1": 214.48,
+   "txt": "waterproof."
+  },
+  {
+   "t0": 214.831,
+   "t1": 215.634,
+   "txt": "And the paper"
+  },
+  {
+   "t0": 215.634,
+   "t1": 216.436,
+   "txt": "is colored in"
+  },
+  {
+   "t0": 216.436,
+   "t1": 217.423,
+   "txt": "imitation of the"
+  },
+  {
+   "t0": 217.423,
+   "t1": 218.287,
+   "txt": "natural straw."
+  },
+  {
+   "t0": 218.567,
+   "t1": 219.465,
+   "txt": "Because the goal"
+  },
+  {
+   "t0": 219.465,
+   "t1": 219.969,
+   "txt": "was not a"
+  },
+  {
+   "t0": 219.969,
+   "t1": 220.53,
+   "txt": "new thing."
+  },
+  {
+   "t0": 220.81,
+   "t1": 221.499,
+   "txt": "The goal was"
+  },
+  {
+   "t0": 221.499,
+   "t1": 222.303,
+   "txt": "a better fake."
+  },
+  {
+   "t0": 222.654,
+   "t1": 223.408,
+   "txt": "The patent is"
+  },
+  {
+   "t0": 223.408,
+   "t1": 224.104,
+   "txt": "proud of the"
+  },
+  {
+   "t0": 224.104,
+   "t1": 224.51,
+   "txt": "result."
+  },
+  {
+   "t0": 224.861,
+   "t1": 226.178,
+   "txt": "An imitation straw"
+  },
+  {
+   "t0": 226.178,
+   "t1": 228.154,
+   "txt": "requiring close examination"
+  },
+  {
+   "t0": 228.154,
+   "t1": 228.959,
+   "txt": "in order to"
+  },
+  {
+   "t0": 228.959,
+   "t1": 230.35,
+   "txt": "distinguish it from"
+  },
+  {
+   "t0": 230.35,
+   "t1": 231.667,
+   "txt": "the natural straw."
+  },
+  {
+   "t0": 232.118,
+   "t1": 233.312,
+   "txt": "The paper straw."
+  },
+  {
+   "t0": 233.812,
+   "t1": 234.339,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 234.339,
+   "t1": 235.626,
+   "txt": "eighteen eighty-eight."
+  },
+  {
+   "t0": 236.077,
+   "t1": 236.973,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 237.253,
+   "t1": 238.661,
+   "txt": "Marvin Stone's factory"
+  },
+  {
+   "t0": 238.661,
+   "t1": 239.621,
+   "txt": "had been making"
+  },
+  {
+   "t0": 239.621,
+   "t1": 240.773,
+   "txt": "cigarette holders."
+  },
+  {
+   "t0": 241.053,
+   "t1": 242.204,
+   "txt": "By eighteen ninety,"
+  },
+  {
+   "t0": 242.204,
+   "t1": 242.991,
+   "txt": "it was making"
+  },
+  {
+   "t0": 242.991,
+   "t1": 244.203,
+   "txt": "more drinking straws"
+  },
+  {
+   "t0": 244.203,
+   "t1": 245.597,
+   "txt": "than cigarette holders."
+  },
+  {
+   "t0": 245.948,
+   "t1": 246.865,
+   "txt": "Number four."
+  },
+  {
+   "t0": 247.145,
+   "t1": 247.913,
+   "txt": "Nashville."
+  },
+  {
+   "t0": 248.193,
+   "t1": 248.995,
+   "txt": "A dentist and"
+  },
+  {
+   "t0": 248.995,
+   "t1": 249.921,
+   "txt": "a confectioner."
+  },
+  {
+   "t0": 250.272,
+   "t1": 250.848,
+   "txt": "Yes."
+  },
+  {
+   "t0": 251.128,
+   "t1": 251.939,
+   "txt": "A dentist."
+  },
+  {
+   "t0": 252.219,
+   "t1": 253.307,
+   "txt": "William Morrison,"
+  },
+  {
+   "t0": 253.307,
+   "t1": 254.907,
+   "txt": "working with confectioner"
+  },
+  {
+   "t0": 254.907,
+   "t1": 255.355,
+   "txt": "John C."
+  },
+  {
+   "t0": 255.635,
+   "t1": 256.117,
+   "txt": "Wharton,"
+  },
+  {
+   "t0": 256.117,
+   "t1": 257.201,
+   "txt": "invented a machine"
+  },
+  {
+   "t0": 257.201,
+   "t1": 257.984,
+   "txt": "to turn sugar"
+  },
+  {
+   "t0": 257.984,
+   "t1": 258.707,
+   "txt": "into thread."
+  },
+  {
+   "t0": 259.058,
+   "t1": 259.845,
+   "txt": "The object,"
+  },
+  {
+   "t0": 259.845,
+   "t1": 260.918,
+   "txt": "in their words:"
+  },
+  {
+   "t0": 260.918,
+   "t1": 261.776,
+   "txt": "to obtain an"
+  },
+  {
+   "t0": 261.776,
+   "t1": 263.565,
+   "txt": "edible product consisting"
+  },
+  {
+   "t0": 263.565,
+   "t1": 264.352,
+   "txt": "of the said"
+  },
+  {
+   "t0": 264.352,
+   "t1": 265.711,
+   "txt": "filaments of melted"
+  },
+  {
+   "t0": 265.711,
+   "t1": 266.712,
+   "txt": "and spun sugar"
+  },
+  {
+   "t0": 266.712,
+   "t1": 267.356,
+   "txt": "or candy."
+  },
+  {
+   "t0": 267.707,
+   "t1": 268.254,
+   "txt": "A bowl on"
+  },
+  {
+   "t0": 268.254,
+   "t1": 269.286,
+   "txt": "a spinning shaft."
+  },
+  {
+   "t0": 269.566,
+   "t1": 270.652,
+   "txt": "A flame underneath"
+  },
+  {
+   "t0": 270.652,
+   "t1": 271.316,
+   "txt": "to melt the"
+  },
+  {
+   "t0": 271.316,
+   "t1": 271.678,
+   "txt": "sugar."
+  },
+  {
+   "t0": 271.958,
+   "t1": 272.914,
+   "txt": "The bowl spins,"
+  },
+  {
+   "t0": 272.914,
+   "t1": 273.806,
+   "txt": "and the melted"
+  },
+  {
+   "t0": 273.806,
+   "t1": 274.761,
+   "txt": "sugar flies out"
+  },
+  {
+   "t0": 274.761,
+   "t1": 275.844,
+   "txt": "through tiny gaps"
+  },
+  {
+   "t0": 275.844,
+   "t1": 276.609,
+   "txt": "at the edge."
+  },
+  {
+   "t0": 276.96,
+   "t1": 277.697,
+   "txt": "A ring around"
+  },
+  {
+   "t0": 277.697,
+   "t1": 278.774,
+   "txt": "the outside catches"
+  },
+  {
+   "t0": 278.774,
+   "t1": 278.944,
+   "txt": "it."
+  },
+  {
+   "t0": 279.224,
+   "t1": 280.342,
+   "txt": "Thus forming into"
+  },
+  {
+   "t0": 280.342,
+   "t1": 281.855,
+   "txt": "silk-like filaments and"
+  },
+  {
+   "t0": 281.855,
+   "t1": 282.776,
+   "txt": "small beads of"
+  },
+  {
+   "t0": 282.776,
+   "t1": 283.17,
+   "txt": "candy."
+  },
+  {
+   "t0": 283.521,
+   "t1": 284.301,
+   "txt": "Now the whole"
+  },
+  {
+   "t0": 284.301,
+   "t1": 284.78,
+   "txt": "machine."
+  },
+  {
+   "t0": 285.06,
+   "t1": 285.877,
+   "txt": "The flame is"
+  },
+  {
+   "t0": 285.877,
+   "t1": 286.558,
+   "txt": "fed from a"
+  },
+  {
+   "t0": 286.558,
+   "t1": 287.512,
+   "txt": "gasoline tank,"
+  },
+  {
+   "t0": 287.512,
+   "t1": 288.261,
+   "txt": "with an air"
+  },
+  {
+   "t0": 288.261,
+   "t1": 288.601,
+   "txt": "pump."
+  },
+  {
+   "t0": 288.881,
+   "t1": 290.057,
+   "txt": "And everything runs"
+  },
+  {
+   "t0": 290.057,
+   "t1": 290.737,
+   "txt": "on a pedal."
+  },
+  {
+   "t0": 291.088,
+   "t1": 292.656,
+   "txt": "Propelled by foot-power,"
+  },
+  {
+   "t0": 292.656,
+   "t1": 293.506,
+   "txt": "in the manner"
+  },
+  {
+   "t0": 293.506,
+   "t1": 294.224,
+   "txt": "of a lathe."
+  },
+  {
+   "t0": 294.675,
+   "t1": 295.571,
+   "txt": "Turn the heat"
+  },
+  {
+   "t0": 295.571,
+   "t1": 296.328,
+   "txt": "up or down,"
+  },
+  {
+   "t0": 296.328,
+   "t1": 297.086,
+   "txt": "and you get"
+  },
+  {
+   "t0": 297.086,
+   "t1": 298.325,
+   "txt": "different forms of"
+  },
+  {
+   "t0": 298.325,
+   "t1": 299.014,
+   "txt": "filaments,"
+  },
+  {
+   "t0": 299.014,
+   "t1": 299.427,
+   "txt": "beads,"
+  },
+  {
+   "t0": 299.427,
+   "t1": 300.392,
+   "txt": "or solid bands"
+  },
+  {
+   "t0": 300.392,
+   "t1": 301.011,
+   "txt": "of candy."
+  },
+  {
+   "t0": 301.362,
+   "t1": 302.429,
+   "txt": "Cotton candy."
+  },
+  {
+   "t0": 302.929,
+   "t1": 303.518,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 303.518,
+   "t1": 304.892,
+   "txt": "eighteen ninety-nine."
+  },
+  {
+   "t0": 305.343,
+   "t1": 306.239,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 306.519,
+   "t1": 307.927,
+   "txt": "At the nineteen-oh-four"
+  },
+  {
+   "t0": 307.927,
+   "t1": 308.724,
+   "txt": "World's Fair,"
+  },
+  {
+   "t0": 308.724,
+   "t1": 309.397,
+   "txt": "it was sold"
+  },
+  {
+   "t0": 309.397,
+   "t1": 310.316,
+   "txt": "as Fairy Floss."
+  },
+  {
+   "t0": 310.596,
+   "t1": 311.646,
+   "txt": "By one account,"
+  },
+  {
+   "t0": 311.646,
+   "t1": 313.116,
+   "txt": "sixty-eight thousand,"
+  },
+  {
+   "t0": 313.116,
+   "t1": 314.656,
+   "txt": "six hundred fifty-five"
+  },
+  {
+   "t0": 314.656,
+   "t1": 315.076,
+   "txt": "boxes,"
+  },
+  {
+   "t0": 315.076,
+   "t1": 316.475,
+   "txt": "at twenty-five cents"
+  },
+  {
+   "t0": 316.475,
+   "t1": 316.825,
+   "txt": "each."
+  },
+  {
+   "t0": 317.176,
+   "t1": 318.136,
+   "txt": "Number five."
+  },
+  {
+   "t0": 318.416,
+   "t1": 319.138,
+   "txt": "Canton,"
+  },
+  {
+   "t0": 319.138,
+   "t1": 319.654,
+   "txt": "Ohio."
+  },
+  {
+   "t0": 320.005,
+   "t1": 321.399,
+   "txt": "James Spangler worked"
+  },
+  {
+   "t0": 321.399,
+   "t1": 322.196,
+   "txt": "as a janitor"
+  },
+  {
+   "t0": 322.196,
+   "t1": 322.728,
+   "txt": "at a dry"
+  },
+  {
+   "t0": 322.728,
+   "t1": 323.525,
+   "txt": "goods store."
+  },
+  {
+   "t0": 323.805,
+   "t1": 324.341,
+   "txt": "He built a"
+  },
+  {
+   "t0": 324.341,
+   "t1": 325.145,
+   "txt": "machine to suck"
+  },
+  {
+   "t0": 325.145,
+   "t1": 325.789,
+   "txt": "up the dust."
+  },
+  {
+   "t0": 326.14,
+   "t1": 326.8,
+   "txt": "A box on"
+  },
+  {
+   "t0": 326.8,
+   "t1": 327.377,
+   "txt": "wheels."
+  },
+  {
+   "t0": 327.657,
+   "t1": 328.881,
+   "txt": "An electric motor"
+  },
+  {
+   "t0": 328.881,
+   "t1": 329.385,
+   "txt": "on top."
+  },
+  {
+   "t0": 329.665,
+   "t1": 330.083,
+   "txt": "Inside,"
+  },
+  {
+   "t0": 330.083,
+   "t1": 330.68,
+   "txt": "a fan that"
+  },
+  {
+   "t0": 330.68,
+   "t1": 331.696,
+   "txt": "turns fast enough"
+  },
+  {
+   "t0": 331.696,
+   "t1": 332.652,
+   "txt": "to make suction."
+  },
+  {
+   "t0": 333.003,
+   "t1": 333.705,
+   "txt": "At the front,"
+  },
+  {
+   "t0": 333.705,
+   "t1": 334.624,
+   "txt": "a spinning brush."
+  },
+  {
+   "t0": 334.904,
+   "t1": 335.921,
+   "txt": "Right behind it,"
+  },
+  {
+   "t0": 335.921,
+   "t1": 336.747,
+   "txt": "the fan pulls"
+  },
+  {
+   "t0": 336.747,
+   "t1": 337.51,
+   "txt": "the dust and"
+  },
+  {
+   "t0": 337.51,
+   "t1": 338.019,
+   "txt": "dirt in."
+  },
+  {
+   "t0": 338.37,
+   "t1": 339.079,
+   "txt": "And the dirt"
+  },
+  {
+   "t0": 339.079,
+   "t1": 339.729,
+   "txt": "goes into a"
+  },
+  {
+   "t0": 339.729,
+   "t1": 340.025,
+   "txt": "sack,"
+  },
+  {
+   "t0": 340.025,
+   "t1": 340.793,
+   "txt": "hung from the"
+  },
+  {
+   "t0": 340.793,
+   "t1": 341.207,
+   "txt": "handle."
+  },
+  {
+   "t0": 341.558,
+   "t1": 342.631,
+   "txt": "According to his"
+  },
+  {
+   "t0": 342.631,
+   "t1": 343.301,
+   "txt": "biography,"
+  },
+  {
+   "t0": 343.301,
+   "t1": 344.441,
+   "txt": "his early version"
+  },
+  {
+   "t0": 344.441,
+   "t1": 345.581,
+   "txt": "used a pillowcase"
+  },
+  {
+   "t0": 345.581,
+   "t1": 346.721,
+   "txt": "borrowed from the"
+  },
+  {
+   "t0": 346.721,
+   "t1": 347.525,
+   "txt": "store as the"
+  },
+  {
+   "t0": 347.525,
+   "t1": 348.129,
+   "txt": "dirt bag."
+  },
+  {
+   "t0": 348.409,
+   "t1": 348.992,
+   "txt": "And a broom"
+  },
+  {
+   "t0": 348.992,
+   "t1": 349.68,
+   "txt": "stick for the"
+  },
+  {
+   "t0": 349.68,
+   "t1": 350.051,
+   "txt": "handle."
+  },
+  {
+   "t0": 350.402,
+   "t1": 351.061,
+   "txt": "There is even"
+  },
+  {
+   "t0": 351.061,
+   "t1": 351.72,
+   "txt": "a spring reel"
+  },
+  {
+   "t0": 351.72,
+   "t1": 352.429,
+   "txt": "on the handle."
+  },
+  {
+   "t0": 352.709,
+   "t1": 353.567,
+   "txt": "The wires will"
+  },
+  {
+   "t0": 353.567,
+   "t1": 354.914,
+   "txt": "be automatically wound"
+  },
+  {
+   "t0": 354.914,
+   "t1": 355.711,
+   "txt": "upon the reel"
+  },
+  {
+   "t0": 355.711,
+   "t1": 356.629,
+   "txt": "when it becomes"
+  },
+  {
+   "t0": 356.629,
+   "t1": 356.997,
+   "txt": "slack."
+  },
+  {
+   "t0": 357.348,
+   "t1": 358.008,
+   "txt": "And where do"
+  },
+  {
+   "t0": 358.008,
+   "t1": 358.612,
+   "txt": "you plug it"
+  },
+  {
+   "t0": 358.612,
+   "t1": 358.777,
+   "txt": "in?"
+  },
+  {
+   "t0": 359.277,
+   "t1": 360.896,
+   "txt": "Nineteen-oh-seven had an"
+  },
+  {
+   "t0": 360.896,
+   "t1": 361.368,
+   "txt": "answer."
+  },
+  {
+   "t0": 361.868,
+   "t1": 362.615,
+   "txt": "Into a light"
+  },
+  {
+   "t0": 362.615,
+   "t1": 363.361,
+   "txt": "bulb socket."
+  },
+  {
+   "t0": 363.812,
+   "t1": 365.156,
+   "txt": "The vacuum cleaner."
+  },
+  {
+   "t0": 365.656,
+   "t1": 366.211,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 366.211,
+   "t1": 367.32,
+   "txt": "nineteen-oh-eight."
+  },
+  {
+   "t0": 367.771,
+   "t1": 368.667,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 368.947,
+   "t1": 369.925,
+   "txt": "Spangler showed it"
+  },
+  {
+   "t0": 369.925,
+   "t1": 370.631,
+   "txt": "to his cousin"
+  },
+  {
+   "t0": 370.631,
+   "t1": 371.337,
+   "txt": "Susan Hoover."
+  },
+  {
+   "t0": 371.617,
+   "t1": 372.295,
+   "txt": "Her husband,"
+  },
+  {
+   "t0": 372.295,
+   "t1": 373.481,
+   "txt": "William Henry Hoover,"
+  },
+  {
+   "t0": 373.481,
+   "t1": 374.441,
+   "txt": "bought the patent"
+  },
+  {
+   "t0": 374.441,
+   "t1": 375.627,
+   "txt": "in nineteen-oh-eight."
+  },
+  {
+   "t0": 375.907,
+   "t1": 376.268,
+   "txt": "Today,"
+  },
+  {
+   "t0": 376.268,
+   "t1": 377.529,
+   "txt": "most people associate"
+  },
+  {
+   "t0": 377.529,
+   "t1": 378.61,
+   "txt": "the vacuum cleaner"
+  },
+  {
+   "t0": 378.61,
+   "t1": 379.15,
+   "txt": "with him."
+  },
+  {
+   "t0": 379.501,
+   "t1": 380.397,
+   "txt": "Number six."
+  },
+  {
+   "t0": 380.677,
+   "t1": 381.85,
+   "txt": "San Francisco."
+  },
+  {
+   "t0": 382.201,
+   "t1": 383.622,
+   "txt": "The invention relates"
+  },
+  {
+   "t0": 383.622,
+   "t1": 384.501,
+   "txt": "to beds which"
+  },
+  {
+   "t0": 384.501,
+   "t1": 385.448,
+   "txt": "are adapted to"
+  },
+  {
+   "t0": 385.448,
+   "t1": 386.327,
+   "txt": "be moved into"
+  },
+  {
+   "t0": 386.327,
+   "t1": 387.071,
+   "txt": "a closet or"
+  },
+  {
+   "t0": 387.071,
+   "t1": 388.085,
+   "txt": "recess when not"
+  },
+  {
+   "t0": 388.085,
+   "t1": 388.559,
+   "txt": "in use."
+  },
+  {
+   "t0": 388.91,
+   "t1": 389.587,
+   "txt": "But this one"
+  },
+  {
+   "t0": 389.587,
+   "t1": 390.377,
+   "txt": "does more than"
+  },
+  {
+   "t0": 390.377,
+   "t1": 390.659,
+   "txt": "fold."
+  },
+  {
+   "t0": 390.939,
+   "t1": 391.739,
+   "txt": "It goes through"
+  },
+  {
+   "t0": 391.739,
+   "t1": 392.219,
+   "txt": "the wall."
+  },
+  {
+   "t0": 392.499,
+   "t1": 393.148,
+   "txt": "So that it"
+  },
+  {
+   "t0": 393.148,
+   "t1": 393.863,
+   "txt": "may be used"
+  },
+  {
+   "t0": 393.863,
+   "t1": 395.032,
+   "txt": "in either chamber,"
+  },
+  {
+   "t0": 395.032,
+   "t1": 396.136,
+   "txt": "on opposite sides"
+  },
+  {
+   "t0": 396.136,
+   "t1": 396.915,
+   "txt": "of the wall."
+  },
+  {
+   "t0": 397.266,
+   "t1": 397.845,
+   "txt": "Here it is"
+  },
+  {
+   "t0": 397.845,
+   "t1": 398.482,
+   "txt": "from above."
+  },
+  {
+   "t0": 398.762,
+   "t1": 399.445,
+   "txt": "The wall."
+  },
+  {
+   "t0": 399.725,
+   "t1": 400.621,
+   "txt": "An opening."
+  },
+  {
+   "t0": 400.901,
+   "t1": 401.37,
+   "txt": "The bed,"
+  },
+  {
+   "t0": 401.37,
+   "t1": 402.25,
+   "txt": "attached to the"
+  },
+  {
+   "t0": 402.25,
+   "t1": 402.543,
+   "txt": "door."
+  },
+  {
+   "t0": 402.894,
+   "t1": 403.706,
+   "txt": "Swing the door,"
+  },
+  {
+   "t0": 403.706,
+   "t1": 404.301,
+   "txt": "and the bed"
+  },
+  {
+   "t0": 404.301,
+   "t1": 405.113,
+   "txt": "swings with it."
+  },
+  {
+   "t0": 405.393,
+   "t1": 406.31,
+   "txt": "To this room."
+  },
+  {
+   "t0": 406.59,
+   "t1": 406.779,
+   "txt": "Or,"
+  },
+  {
+   "t0": 406.779,
+   "t1": 407.783,
+   "txt": "in dotted lines,"
+  },
+  {
+   "t0": 407.783,
+   "t1": 408.537,
+   "txt": "to the other"
+  },
+  {
+   "t0": 408.537,
+   "t1": 408.788,
+   "txt": "one."
+  },
+  {
+   "t0": 409.139,
+   "t1": 409.88,
+   "txt": "A spring and"
+  },
+  {
+   "t0": 409.88,
+   "t1": 410.684,
+   "txt": "a sliding arm"
+  },
+  {
+   "t0": 410.684,
+   "t1": 411.549,
+   "txt": "keep it close."
+  },
+  {
+   "t0": 411.829,
+   "t1": 413.631,
+   "txt": "Thereby preventing rattling"
+  },
+  {
+   "t0": 413.631,
+   "t1": 414.365,
+   "txt": "as the door"
+  },
+  {
+   "t0": 414.365,
+   "t1": 414.965,
+   "txt": "is moved."
+  },
+  {
+   "t0": 415.316,
+   "t1": 415.982,
+   "txt": "Folded up,"
+  },
+  {
+   "t0": 415.982,
+   "t1": 416.782,
+   "txt": "it stands on"
+  },
+  {
+   "t0": 416.782,
+   "t1": 417.714,
+   "txt": "end behind the"
+  },
+  {
+   "t0": 417.714,
+   "t1": 418.047,
+   "txt": "door."
+  },
+  {
+   "t0": 418.327,
+   "t1": 419.095,
+   "txt": "Like a closet"
+  },
+  {
+   "t0": 419.095,
+   "t1": 420.04,
+   "txt": "that is secretly"
+  },
+  {
+   "t0": 420.04,
+   "t1": 420.631,
+   "txt": "a bedroom."
+  },
+  {
+   "t0": 420.982,
+   "t1": 421.871,
+   "txt": "One detail the"
+  },
+  {
+   "t0": 421.871,
+   "t1": 422.95,
+   "txt": "patent is careful"
+  },
+  {
+   "t0": 422.95,
+   "t1": 423.649,
+   "txt": "to mention."
+  },
+  {
+   "t0": 424.149,
+   "t1": 424.84,
+   "txt": "As the door"
+  },
+  {
+   "t0": 424.84,
+   "t1": 425.217,
+   "txt": "opens,"
+  },
+  {
+   "t0": 425.217,
+   "t1": 425.845,
+   "txt": "the bed is"
+  },
+  {
+   "t0": 425.845,
+   "t1": 426.975,
+   "txt": "swung quicker than"
+  },
+  {
+   "t0": 426.975,
+   "t1": 427.541,
+   "txt": "the door."
+  },
+  {
+   "t0": 427.992,
+   "t1": 428.861,
+   "txt": "A Murphy bed,"
+  },
+  {
+   "t0": 428.861,
+   "t1": 429.997,
+   "txt": "by Mister Murphy."
+  },
+  {
+   "t0": 430.497,
+   "t1": 431.139,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 431.139,
+   "t1": 432.353,
+   "txt": "nineteen sixteen."
+  },
+  {
+   "t0": 432.804,
+   "t1": 433.7,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 433.98,
+   "t1": 434.8,
+   "txt": "So well that"
+  },
+  {
+   "t0": 434.8,
+   "t1": 436.439,
+   "txt": "in nineteen eighty-nine,"
+  },
+  {
+   "t0": 436.439,
+   "t1": 437.6,
+   "txt": "a federal appeals"
+  },
+  {
+   "t0": 437.6,
+   "t1": 438.693,
+   "txt": "court ruled that"
+  },
+  {
+   "t0": 438.693,
+   "t1": 439.65,
+   "txt": "Murphy bed had"
+  },
+  {
+   "t0": 439.65,
+   "t1": 440.742,
+   "txt": "become a generic"
+  },
+  {
+   "t0": 440.742,
+   "t1": 441.084,
+   "txt": "name."
+  },
+  {
+   "t0": 441.364,
+   "t1": 442.452,
+   "txt": "And the inventor?"
+  },
+  {
+   "t0": 442.732,
+   "t1": 444.056,
+   "txt": "According to legend,"
+  },
+  {
+   "t0": 444.056,
+   "t1": 444.784,
+   "txt": "he lived in"
+  },
+  {
+   "t0": 444.784,
+   "t1": 446.108,
+   "txt": "a one-room apartment"
+  },
+  {
+   "t0": 446.108,
+   "t1": 447.233,
+   "txt": "in San Francisco."
+  },
+  {
+   "t0": 447.584,
+   "t1": 448.502,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 448.782,
+   "t1": 449.348,
+   "txt": "Oakland,"
+  },
+  {
+   "t0": 449.348,
+   "t1": 450.126,
+   "txt": "California."
+  },
+  {
+   "t0": 450.477,
+   "t1": 451.085,
+   "txt": "The goal:"
+  },
+  {
+   "t0": 451.085,
+   "t1": 452.368,
+   "txt": "a frozen confection"
+  },
+  {
+   "t0": 452.368,
+   "t1": 453.111,
+   "txt": "that can be"
+  },
+  {
+   "t0": 453.111,
+   "t1": 454.935,
+   "txt": "eaten without contamination"
+  },
+  {
+   "t0": 454.935,
+   "t1": 455.949,
+   "txt": "by contact with"
+  },
+  {
+   "t0": 455.949,
+   "t1": 456.557,
+   "txt": "the hand."
+  },
+  {
+   "t0": 456.837,
+   "t1": 457.711,
+   "txt": "And without the"
+  },
+  {
+   "t0": 457.711,
+   "t1": 458.294,
+   "txt": "need for a"
+  },
+  {
+   "t0": 458.294,
+   "t1": 458.644,
+   "txt": "plate,"
+  },
+  {
+   "t0": 458.644,
+   "t1": 458.994,
+   "txt": "spoon,"
+  },
+  {
+   "t0": 458.994,
+   "t1": 459.752,
+   "txt": "fork or other"
+  },
+  {
+   "t0": 459.752,
+   "t1": 460.335,
+   "txt": "implement."
+  },
+  {
+   "t0": 460.686,
+   "t1": 461.454,
+   "txt": "The mold?"
+  },
+  {
+   "t0": 461.734,
+   "t1": 463.123,
+   "txt": "Small containers which"
+  },
+  {
+   "t0": 463.123,
+   "t1": 464.069,
+   "txt": "may be ordinary"
+  },
+  {
+   "t0": 464.069,
+   "t1": 464.764,
+   "txt": "test tubes."
+  },
+  {
+   "t0": 465.115,
+   "t1": 465.82,
+   "txt": "Fill the tube"
+  },
+  {
+   "t0": 465.82,
+   "t1": 466.416,
+   "txt": "with syrup."
+  },
+  {
+   "t0": 466.696,
+   "t1": 467.331,
+   "txt": "Put a stick"
+  },
+  {
+   "t0": 467.331,
+   "t1": 467.677,
+   "txt": "in it."
+  },
+  {
+   "t0": 467.957,
+   "t1": 468.56,
+   "txt": "A board on"
+  },
+  {
+   "t0": 468.56,
+   "t1": 469.343,
+   "txt": "top holds the"
+  },
+  {
+   "t0": 469.343,
+   "t1": 470.066,
+   "txt": "sticks down,"
+  },
+  {
+   "t0": 470.066,
+   "t1": 470.85,
+   "txt": "so they don't"
+  },
+  {
+   "t0": 470.85,
+   "t1": 471.392,
+   "txt": "float up."
+  },
+  {
+   "t0": 471.743,
+   "t1": 472.49,
+   "txt": "Freeze it."
+  },
+  {
+   "t0": 472.77,
+   "t1": 473.488,
+   "txt": "Warm the tube"
+  },
+  {
+   "t0": 473.488,
+   "t1": 473.986,
+   "txt": "a little."
+  },
+  {
+   "t0": 474.266,
+   "t1": 475.034,
+   "txt": "And pull."
+  },
+  {
+   "t0": 475.385,
+   "t1": 475.997,
+   "txt": "It will be"
+  },
+  {
+   "t0": 475.997,
+   "t1": 476.732,
+   "txt": "noted that a"
+  },
+  {
+   "t0": 476.732,
+   "t1": 478.263,
+   "txt": "substantial tensile force"
+  },
+  {
+   "t0": 478.263,
+   "t1": 479.12,
+   "txt": "is required to"
+  },
+  {
+   "t0": 479.12,
+   "t1": 480.59,
+   "txt": "withdraw the confection."
+  },
+  {
+   "t0": 480.87,
+   "t1": 481.813,
+   "txt": "Because the ice"
+  },
+  {
+   "t0": 481.813,
+   "t1": 482.692,
+   "txt": "comes out like"
+  },
+  {
+   "t0": 482.692,
+   "t1": 483.258,
+   "txt": "a piston,"
+  },
+  {
+   "t0": 483.258,
+   "t1": 484.326,
+   "txt": "against a vacuum."
+  },
+  {
+   "t0": 484.677,
+   "t1": 485.718,
+   "txt": "The wood matters"
+  },
+  {
+   "t0": 485.718,
+   "t1": 485.978,
+   "txt": "too."
+  },
+  {
+   "t0": 486.258,
+   "t1": 486.581,
+   "txt": "Bass,"
+  },
+  {
+   "t0": 486.581,
+   "t1": 487.676,
+   "txt": "birch and poplar,"
+  },
+  {
+   "t0": 487.676,
+   "t1": 488.771,
+   "txt": "being sapless and"
+  },
+  {
+   "t0": 488.771,
+   "t1": 489.416,
+   "txt": "tasteless."
+  },
+  {
+   "t0": 489.696,
+   "t1": 490.544,
+   "txt": "And the wooden"
+  },
+  {
+   "t0": 490.544,
+   "t1": 491.271,
+   "txt": "handle is an"
+  },
+  {
+   "t0": 491.271,
+   "t1": 492.362,
+   "txt": "insulator of heat."
+  },
+  {
+   "t0": 492.713,
+   "t1": 493.463,
+   "txt": "Then the patent"
+  },
+  {
+   "t0": 493.463,
+   "t1": 494.262,
+   "txt": "explains how you"
+  },
+  {
+   "t0": 494.262,
+   "t1": 494.612,
+   "txt": "eat it."
+  },
+  {
+   "t0": 494.892,
+   "t1": 495.612,
+   "txt": "You can suck"
+  },
+  {
+   "t0": 495.612,
+   "t1": 496.452,
+   "txt": "the flavor out"
+  },
+  {
+   "t0": 496.452,
+   "t1": 496.812,
+   "txt": "first."
+  },
+  {
+   "t0": 497.092,
+   "t1": 497.959,
+   "txt": "As a refreshing"
+  },
+  {
+   "t0": 497.959,
+   "t1": 498.999,
+   "txt": "drink derived from"
+  },
+  {
+   "t0": 498.999,
+   "t1": 499.693,
+   "txt": "the solid on"
+  },
+  {
+   "t0": 499.693,
+   "t1": 500.271,
+   "txt": "the stick."
+  },
+  {
+   "t0": 500.622,
+   "t1": 501.315,
+   "txt": "And what is"
+  },
+  {
+   "t0": 501.315,
+   "t1": 502.072,
+   "txt": "left behind?"
+  },
+  {
+   "t0": 502.623,
+   "t1": 503.59,
+   "txt": "Leaving a white"
+  },
+  {
+   "t0": 503.59,
+   "t1": 504.75,
+   "txt": "and colorless mass"
+  },
+  {
+   "t0": 504.75,
+   "t1": 505.33,
+   "txt": "of ice or"
+  },
+  {
+   "t0": 505.33,
+   "t1": 505.653,
+   "txt": "snow."
+  },
+  {
+   "t0": 506.104,
+   "t1": 507.149,
+   "txt": "The Popsicle."
+  },
+  {
+   "t0": 507.649,
+   "t1": 508.263,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 508.263,
+   "t1": 509.697,
+   "txt": "nineteen twenty-four."
+  },
+  {
+   "t0": 510.148,
+   "t1": 511.044,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 511.324,
+   "t1": 512.439,
+   "txt": "Frank Epperson sold"
+  },
+  {
+   "t0": 512.439,
+   "t1": 513.201,
+   "txt": "the rights in"
+  },
+  {
+   "t0": 513.201,
+   "t1": 514.492,
+   "txt": "the nineteen twenties,"
+  },
+  {
+   "t0": 514.492,
+   "t1": 515.313,
+   "txt": "and later said"
+  },
+  {
+   "t0": 515.313,
+   "t1": 516.252,
+   "txt": "he regretted it."
+  },
+  {
+   "t0": 516.532,
+   "t1": 517.775,
+   "txt": "According to NPR,"
+  },
+  {
+   "t0": 517.775,
+   "t1": 518.944,
+   "txt": "some two billion"
+  },
+  {
+   "t0": 518.944,
+   "t1": 520.26,
+   "txt": "Popsicles are sold"
+  },
+  {
+   "t0": 520.26,
+   "t1": 520.991,
+   "txt": "each year."
+  },
+  {
+   "t0": 521.342,
+   "t1": 522.302,
+   "txt": "And number eight."
+  },
+  {
+   "t0": 522.582,
+   "t1": 523.261,
+   "txt": "Back to the"
+  },
+  {
+   "t0": 523.261,
+   "t1": 523.755,
+   "txt": "hot oil."
+  },
+  {
+   "t0": 524.035,
+   "t1": 524.617,
+   "txt": "Buffalo,"
+  },
+  {
+   "t0": 524.617,
+   "t1": 525.272,
+   "txt": "New York."
+  },
+  {
+   "t0": 525.623,
+   "t1": 526.967,
+   "txt": "The patent describes"
+  },
+  {
+   "t0": 526.967,
+   "t1": 527.571,
+   "txt": "a new and"
+  },
+  {
+   "t0": 527.571,
+   "t1": 528.713,
+   "txt": "novel edible food"
+  },
+  {
+   "t0": 528.713,
+   "t1": 529.25,
+   "txt": "product."
+  },
+  {
+   "t0": 529.53,
+   "t1": 530.079,
+   "txt": "Food on a"
+  },
+  {
+   "t0": 530.079,
+   "t1": 530.444,
+   "txt": "stick,"
+  },
+  {
+   "t0": 530.444,
+   "t1": 531.602,
+   "txt": "coated with batter,"
+  },
+  {
+   "t0": 531.602,
+   "t1": 532.517,
+   "txt": "and deep fried."
+  },
+  {
+   "t0": 532.868,
+   "t1": 533.548,
+   "txt": "The result,"
+  },
+  {
+   "t0": 533.548,
+   "t1": 534.537,
+   "txt": "according to the"
+  },
+  {
+   "t0": 534.537,
+   "t1": 535.093,
+   "txt": "inventor,"
+  },
+  {
+   "t0": 535.093,
+   "t1": 535.773,
+   "txt": "is a clean,"
+  },
+  {
+   "t0": 535.773,
+   "t1": 536.947,
+   "txt": "wholesome and tasty"
+  },
+  {
+   "t0": 536.947,
+   "t1": 537.689,
+   "txt": "refreshment."
+  },
+  {
+   "t0": 538.04,
+   "t1": 538.819,
+   "txt": "The machine is"
+  },
+  {
+   "t0": 538.819,
+   "t1": 539.264,
+   "txt": "a pot of"
+  },
+  {
+   "t0": 539.264,
+   "t1": 540.043,
+   "txt": "oil with clips"
+  },
+  {
+   "t0": 540.043,
+   "t1": 540.877,
+   "txt": "around the rim."
+  },
+  {
+   "t0": 541.157,
+   "t1": 542.091,
+   "txt": "Each clip holds"
+  },
+  {
+   "t0": 542.091,
+   "t1": 542.713,
+   "txt": "one stick,"
+  },
+  {
+   "t0": 542.713,
+   "t1": 543.211,
+   "txt": "upright,"
+  },
+  {
+   "t0": 543.211,
+   "t1": 544.02,
+   "txt": "with the food"
+  },
+  {
+   "t0": 544.02,
+   "t1": 544.891,
+   "txt": "under the oil."
+  },
+  {
+   "t0": 545.242,
+   "t1": 545.818,
+   "txt": "Done?"
+  },
+  {
+   "t0": 546.098,
+   "t1": 546.919,
+   "txt": "Lift the stick"
+  },
+  {
+   "t0": 546.919,
+   "t1": 547.506,
+   "txt": "and lay it"
+  },
+  {
+   "t0": 547.506,
+   "t1": 548.62,
+   "txt": "sideways across the"
+  },
+  {
+   "t0": 548.62,
+   "t1": 548.914,
+   "txt": "clip."
+  },
+  {
+   "t0": 549.194,
+   "t1": 550.169,
+   "txt": "The food hangs"
+  },
+  {
+   "t0": 550.169,
+   "t1": 551.145,
+   "txt": "just above the"
+  },
+  {
+   "t0": 551.145,
+   "t1": 551.424,
+   "txt": "oil,"
+  },
+  {
+   "t0": 551.424,
+   "t1": 552.121,
+   "txt": "to be kept"
+  },
+  {
+   "t0": 552.121,
+   "t1": 553.375,
+   "txt": "warm until served."
+  },
+  {
+   "t0": 553.726,
+   "t1": 554.479,
+   "txt": "A lid keeps"
+  },
+  {
+   "t0": 554.479,
+   "t1": 555.027,
+   "txt": "it tidy."
+  },
+  {
+   "t0": 555.307,
+   "t1": 556.344,
+   "txt": "For the purposes"
+  },
+  {
+   "t0": 556.344,
+   "t1": 557.511,
+   "txt": "of retaining heat,"
+  },
+  {
+   "t0": 557.511,
+   "t1": 558.547,
+   "txt": "confining odors,"
+  },
+  {
+   "t0": 558.547,
+   "t1": 559.779,
+   "txt": "preventing oil from"
+  },
+  {
+   "t0": 559.779,
+   "t1": 560.491,
+   "txt": "spattering."
+  },
+  {
+   "t0": 560.842,
+   "t1": 561.462,
+   "txt": "It cooks in"
+  },
+  {
+   "t0": 561.462,
+   "t1": 562.195,
+   "txt": "about one and"
+  },
+  {
+   "t0": 562.195,
+   "t1": 563.04,
+   "txt": "a half minutes."
+  },
+  {
+   "t0": 563.32,
+   "t1": 564.051,
+   "txt": "The crust is"
+  },
+  {
+   "t0": 564.051,
+   "t1": 564.965,
+   "txt": "crispy and well"
+  },
+  {
+   "t0": 564.965,
+   "t1": 565.453,
+   "txt": "browned."
+  },
+  {
+   "t0": 565.733,
+   "t1": 566.556,
+   "txt": "And the amount"
+  },
+  {
+   "t0": 566.556,
+   "t1": 567.437,
+   "txt": "of oil absorbed"
+  },
+  {
+   "t0": 567.437,
+   "t1": 568.201,
+   "txt": "by the batter"
+  },
+  {
+   "t0": 568.201,
+   "t1": 569.317,
+   "txt": "is practically nil."
+  },
+  {
+   "t0": 569.668,
+   "t1": 570.344,
+   "txt": "If you chose"
+  },
+  {
+   "t0": 570.344,
+   "t1": 570.681,
+   "txt": "fruit,"
+  },
+  {
+   "t0": 570.681,
+   "t1": 571.413,
+   "txt": "there is good"
+  },
+  {
+   "t0": 571.413,
+   "t1": 571.695,
+   "txt": "news."
+  },
+  {
+   "t0": 571.975,
+   "t1": 572.791,
+   "txt": "The flavor is"
+  },
+  {
+   "t0": 572.791,
+   "t1": 573.67,
+   "txt": "not destroyed,"
+  },
+  {
+   "t0": 573.67,
+   "t1": 574.55,
+   "txt": "but rather the"
+  },
+  {
+   "t0": 574.55,
+   "t1": 575.303,
+   "txt": "juice of the"
+  },
+  {
+   "t0": 575.303,
+   "t1": 576.371,
+   "txt": "fruit flavors the"
+  },
+  {
+   "t0": 576.371,
+   "t1": 577.564,
+   "txt": "surrounding pastry."
+  },
+  {
+   "t0": 577.915,
+   "t1": 578.743,
+   "txt": "And the patent's"
+  },
+  {
+   "t0": 578.743,
+   "t1": 579.674,
+   "txt": "own description of"
+  },
+  {
+   "t0": 579.674,
+   "t1": 580.347,
+   "txt": "how it looks."
+  },
+  {
+   "t0": 580.698,
+   "t1": 582.053,
+   "txt": "The general appearance"
+  },
+  {
+   "t0": 582.053,
+   "t1": 582.731,
+   "txt": "of the food"
+  },
+  {
+   "t0": 582.731,
+   "t1": 583.655,
+   "txt": "product is that"
+  },
+  {
+   "t0": 583.655,
+   "t1": 584.394,
+   "txt": "of a cruller"
+  },
+  {
+   "t0": 584.394,
+   "t1": 585.071,
+   "txt": "on a stick."
+  },
+  {
+   "t0": 585.522,
+   "t1": 586.29,
+   "txt": "A cruller on"
+  },
+  {
+   "t0": 586.29,
+   "t1": 586.802,
+   "txt": "a stick."
+  },
+  {
+   "t0": 587.302,
+   "t1": 587.898,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 587.898,
+   "t1": 589.286,
+   "txt": "nineteen twenty-nine."
+  },
+  {
+   "t0": 589.737,
+   "t1": 590.633,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 590.913,
+   "t1": 592.224,
+   "txt": "Wikipedia cites this"
+  },
+  {
+   "t0": 592.224,
+   "t1": 593.076,
+   "txt": "patent in the"
+  },
+  {
+   "t0": 593.076,
+   "t1": 593.993,
+   "txt": "history of the"
+  },
+  {
+   "t0": 593.993,
+   "t1": 594.583,
+   "txt": "corn dog."
+  },
+  {
+   "t0": 594.863,
+   "t1": 595.753,
+   "txt": "About a decade"
+  },
+  {
+   "t0": 595.753,
+   "t1": 596.134,
+   "txt": "later,"
+  },
+  {
+   "t0": 596.134,
+   "t1": 597.342,
+   "txt": "the Fletcher family"
+  },
+  {
+   "t0": 597.342,
+   "t1": 597.66,
+   "txt": "says,"
+  },
+  {
+   "t0": 597.66,
+   "t1": 598.804,
+   "txt": "they brought their"
+  },
+  {
+   "t0": 598.804,
+   "t1": 599.63,
+   "txt": "Corny Dogs to"
+  },
+  {
+   "t0": 599.63,
+   "t1": 600.52,
+   "txt": "the State Fair"
+  },
+  {
+   "t0": 600.52,
+   "t1": 601.092,
+   "txt": "of Texas."
+  },
+  {
+   "t0": 601.443,
+   "t1": 602.227,
+   "txt": "So which one"
+  },
+  {
+   "t0": 602.227,
+   "t1": 602.946,
+   "txt": "is the most"
+  },
+  {
+   "t0": 602.946,
+   "t1": 603.534,
+   "txt": "approved?"
+  },
+  {
+   "t0": 604.085,
+   "t1": 604.926,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 604.926,
+   "t1": 606.239,
+   "txt": "the frozen confectionery."
+  },
+  {
+   "t0": 606.519,
+   "t1": 607.412,
+   "txt": "A patent that"
+  },
+  {
+   "t0": 607.412,
+   "t1": 608.1,
+   "txt": "tells you,"
+  },
+  {
+   "t0": 608.1,
+   "t1": 608.993,
+   "txt": "step by step,"
+  },
+  {
+   "t0": 608.993,
+   "t1": 609.748,
+   "txt": "how to suck"
+  },
+  {
+   "t0": 609.748,
+   "t1": 610.71,
+   "txt": "the flavor out"
+  },
+  {
+   "t0": 610.71,
+   "t1": 611.809,
+   "txt": "of your dessert,"
+  },
+  {
+   "t0": 611.809,
+   "t1": 612.634,
+   "txt": "until only a"
+  },
+  {
+   "t0": 612.634,
+   "t1": 613.939,
+   "txt": "white and colorless"
+  },
+  {
+   "t0": 613.939,
+   "t1": 614.695,
+   "txt": "mass of ice"
+  },
+  {
+   "t0": 614.695,
+   "t1": 615.245,
+   "txt": "remains."
+  },
+  {
+   "t0": 615.525,
+   "t1": 616.387,
+   "txt": "Two billion a"
+  },
+  {
+   "t0": 616.387,
+   "t1": 616.719,
+   "txt": "year."
+  },
+  {
+   "t0": 617.07,
+   "t1": 618.19,
+   "txt": "Every patent quote"
+  },
+  {
+   "t0": 618.19,
+   "t1": 618.998,
+   "txt": "in this video"
+  },
+  {
+   "t0": 618.998,
+   "t1": 619.682,
+   "txt": "is word for"
+  },
+  {
+   "t0": 619.682,
+   "t1": 619.993,
+   "txt": "word."
+  },
+  {
+   "t0": 620.273,
+   "t1": 621.111,
+   "txt": "The numbers and"
+  },
+  {
+   "t0": 621.111,
+   "t1": 621.95,
+   "txt": "the sources for"
+  },
+  {
+   "t0": 621.95,
+   "t1": 622.676,
+   "txt": "the sales are"
+  },
+  {
+   "t0": 622.676,
+   "t1": 623.738,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 623.738,
+   "t1": 624.297,
+   "txt": "so you can"
+  },
+  {
+   "t0": 624.297,
+   "t1": 625.414,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 625.765,
+   "t1": 626.826,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 626.826,
+   "t1": 627.451,
+   "txt": "every day."
+  },
+  {
+   "t0": 627.731,
+   "t1": 628.302,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 628.302,
+   "t1": 629.159,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 629.159,
+   "t1": 629.331,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.04
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 20.228
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 25.074
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 40.924
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 43.688
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 47.114
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 57.409
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 63.931
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 69.447
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 74.601
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 81.074
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 86.719
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 91.403
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 103.623
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 106.71
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 115.811
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 122.671
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 130.961
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 138.461
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 145.513
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 153.974
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 160.813
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 164.793
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 178.763
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 183.236
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 190.142
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 196.509
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 203.652
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 209.763
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 214.831
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 222.654
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 224.861
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 232.118
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 236.077
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 245.948
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 250.272
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 259.058
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 267.707
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 276.96
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 283.521
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 291.088
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 294.675
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 301.362
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 305.343
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 317.176
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 320.005
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 326.14
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 333.003
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 338.37
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 341.558
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 350.402
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 357.348
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 363.812
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 367.771
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 379.501
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 382.201
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 388.91
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 397.266
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 402.894
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 409.139
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 415.316
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 420.982
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 427.992
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 432.804
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 447.584
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 450.477
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 460.686
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 465.115
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 471.743
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 475.385
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 484.677
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 492.713
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 500.622
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 502.623
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 506.104
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 510.148
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 521.342
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 525.623
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 532.868
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 538.04
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 545.242
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 553.726
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 560.842
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 569.668
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 577.915
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 580.698
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 585.522
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 589.737
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 601.443
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 604.085
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 617.07
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 625.765
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": "",
+ "tt": false
+}
