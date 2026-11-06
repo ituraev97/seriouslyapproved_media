@@ -1,0 +1,528 @@
+{
+ "T": 54.64,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.328,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.417
+    ],
+    [
+     3.817,
+     5.033
+    ],
+    [
+     5.433,
+     6.777
+    ]
+   ],
+   "g": "fig",
+   "fig": "nav12",
+   "figno": "1 \u00b7 2"
+  },
+  {
+   "t0": 7.328,
+   "t1": 11.391,
+   "i": 1,
+   "segs": [
+    [
+     7.328,
+     11.04
+    ]
+   ],
+   "g": "fig",
+   "fig": "nav3",
+   "figno": "3"
+  },
+  {
+   "t0": 11.391,
+   "t1": 17.325,
+   "i": 2,
+   "segs": [
+    [
+     11.391,
+     15.188
+    ],
+    [
+     15.608,
+     16.824
+    ]
+   ],
+   "g": "stamp",
+   "title": "REVERSIBLE CAP USED AS|NAVIGATIONAL AID",
+   "filed": "DEC. 28, 1981",
+   "date": "JAN. 5, 1988",
+   "at": 3.6
+  },
+  {
+   "t0": 17.325,
+   "t1": 21.068,
+   "i": 3,
+   "segs": [
+    [
+     17.325,
+     20.717
+    ]
+   ],
+   "g": "quote",
+   "q": "Many helmsmen refer to the phrase \"red, right, return\"",
+   "hit": "red, right, return",
+   "src": "US 4,716,599 \u00b7 background"
+  },
+  {
+   "t0": 21.068,
+   "t1": 23.126,
+   "i": 4,
+   "segs": [
+    [
+     21.068,
+     22.775
+    ]
+   ],
+   "g": "quote",
+   "q": "However, many persons who navigate private boats become confused and take buoys on the wrong side.",
+   "hit": "wrong side",
+   "src": "US 4,716,599 \u00b7 background",
+   "hide": true
+  },
+  {
+   "t0": 23.126,
+   "t1": 30.019,
+   "i": 5,
+   "segs": [
+    [
+     23.126,
+     29.568
+    ]
+   ],
+   "g": "quote",
+   "q": "However, many persons who navigate private boats become confused and take buoys on the wrong side.",
+   "hit": "wrong side",
+   "src": "US 4,716,599 \u00b7 background",
+   "typed": false
+  },
+  {
+   "t0": 30.019,
+   "t1": 38.098,
+   "i": 6,
+   "segs": [
+    [
+     30.019,
+     33.113
+    ],
+    [
+     33.393,
+     35.611
+    ],
+    [
+     35.891,
+     37.747
+    ]
+   ],
+   "g": "fig",
+   "fig": "nav12",
+   "figno": "1 \u00b7 2",
+   "draw": false,
+   "calls": [
+    [
+     "LEAVING HARBOR",
+     281,
+     485,
+     -60,
+     90
+    ],
+    [
+     "RED RIGHT RETURNING",
+     845,
+     527,
+     -170,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 38.098,
+   "t1": 45.641,
+   "i": 7,
+   "segs": [
+    [
+     38.098,
+     41.64
+    ],
+    [
+     41.92,
+     45.29
+    ]
+   ],
+   "g": "quote",
+   "q": "through the upper lens portions of a pair of glasses worn by the wearer of the hat",
+   "hit": "upper lens portions",
+   "src": "US 4,716,599 \u00b7 col. 3"
+  },
+  {
+   "t0": 45.641,
+   "t1": 50.496,
+   "i": 8,
+   "segs": [
+    [
+     45.641,
+     47.497
+    ],
+    [
+     47.997,
+     50.045
+    ]
+   ],
+   "g": "stamp",
+   "title": "REVERSIBLE CAP USED AS|NAVIGATIONAL AID",
+   "filed": "DEC. 28, 1981",
+   "date": "JAN. 5, 1988",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 50.496,
+   "t1": 54.64,
+   "i": 9,
+   "segs": [
+    [
+     50.496,
+     51.542
+    ]
+   ],
+   "g": "fig",
+   "fig": "nav12",
+   "figno": "1 \u00b7 2",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.417,
+   "txt": "A baseball cap."
+  },
+  {
+   "t0": 3.817,
+   "t1": 4.627,
+   "txt": "Split down the"
+  },
+  {
+   "t0": 4.627,
+   "t1": 5.033,
+   "txt": "middle."
+  },
+  {
+   "t0": 5.433,
+   "t1": 6.037,
+   "txt": "Half red,"
+  },
+  {
+   "t0": 6.037,
+   "t1": 6.777,
+   "txt": "half black."
+  },
+  {
+   "t0": 7.328,
+   "t1": 8.082,
+   "txt": "On the water,"
+  },
+  {
+   "t0": 8.082,
+   "t1": 8.836,
+   "txt": "you must pass"
+  },
+  {
+   "t0": 8.836,
+   "t1": 9.59,
+   "txt": "red and black"
+  },
+  {
+   "t0": 9.59,
+   "t1": 10.286,
+   "txt": "buoys on the"
+  },
+  {
+   "t0": 10.286,
+   "t1": 11.04,
+   "txt": "correct side."
+  },
+  {
+   "t0": 11.391,
+   "t1": 12.34,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 12.34,
+   "t1": 13.727,
+   "txt": "reversible cap used"
+  },
+  {
+   "t0": 13.727,
+   "t1": 15.188,
+   "txt": "as navigational aid."
+  },
+  {
+   "t0": 15.608,
+   "t1": 16.248,
+   "txt": "And it was"
+  },
+  {
+   "t0": 16.248,
+   "t1": 16.824,
+   "txt": "approved."
+  },
+  {
+   "t0": 17.325,
+   "t1": 18.614,
+   "txt": "Many helmsmen refer"
+  },
+  {
+   "t0": 18.614,
+   "t1": 19.564,
+   "txt": "to the phrase,"
+  },
+  {
+   "t0": 19.564,
+   "t1": 19.835,
+   "txt": "red,"
+  },
+  {
+   "t0": 19.835,
+   "t1": 20.242,
+   "txt": "right,"
+  },
+  {
+   "t0": 20.242,
+   "t1": 20.717,
+   "txt": "return."
+  },
+  {
+   "t0": 21.068,
+   "t1": 21.732,
+   "txt": "But the patent"
+  },
+  {
+   "t0": 21.732,
+   "t1": 22.775,
+   "txt": "has noticed something."
+  },
+  {
+   "t0": 23.126,
+   "t1": 23.68,
+   "txt": "However,"
+  },
+  {
+   "t0": 23.68,
+   "t1": 24.788,
+   "txt": "many persons who"
+  },
+  {
+   "t0": 24.788,
+   "t1": 26.312,
+   "txt": "navigate private boats"
+  },
+  {
+   "t0": 26.312,
+   "t1": 27.629,
+   "txt": "become confused and"
+  },
+  {
+   "t0": 27.629,
+   "t1": 28.529,
+   "txt": "take buoys on"
+  },
+  {
+   "t0": 28.529,
+   "t1": 29.568,
+   "txt": "the wrong side."
+  },
+  {
+   "t0": 30.019,
+   "t1": 30.205,
+   "txt": "So:"
+  },
+  {
+   "t0": 30.205,
+   "t1": 30.947,
+   "txt": "heading out,"
+  },
+  {
+   "t0": 30.947,
+   "t1": 31.566,
+   "txt": "the tag in"
+  },
+  {
+   "t0": 31.566,
+   "t1": 32.68,
+   "txt": "front says leaving"
+  },
+  {
+   "t0": 32.68,
+   "t1": 33.113,
+   "txt": "harbor."
+  },
+  {
+   "t0": 33.393,
+   "t1": 34.075,
+   "txt": "Coming back,"
+  },
+  {
+   "t0": 34.075,
+   "t1": 34.758,
+   "txt": "you turn the"
+  },
+  {
+   "t0": 34.758,
+   "t1": 35.611,
+   "txt": "cap inside out."
+  },
+  {
+   "t0": 35.891,
+   "t1": 36.55,
+   "txt": "Now it says"
+  },
+  {
+   "t0": 36.55,
+   "t1": 37.747,
+   "txt": "red right returning."
+  },
+  {
+   "t0": 38.098,
+   "t1": 38.807,
+   "txt": "The visor is"
+  },
+  {
+   "t0": 38.807,
+   "t1": 39.102,
+   "txt": "long,"
+  },
+  {
+   "t0": 39.102,
+   "t1": 39.692,
+   "txt": "so you can"
+  },
+  {
+   "t0": 39.692,
+   "t1": 40.518,
+   "txt": "see the colors"
+  },
+  {
+   "t0": 40.518,
+   "t1": 41.64,
+   "txt": "without looking up."
+  },
+  {
+   "t0": 41.92,
+   "t1": 42.9,
+   "txt": "Even through the"
+  },
+  {
+   "t0": 42.9,
+   "t1": 44.065,
+   "txt": "upper lens portions"
+  },
+  {
+   "t0": 44.065,
+   "t1": 44.616,
+   "txt": "of a pair"
+  },
+  {
+   "t0": 44.616,
+   "t1": 45.29,
+   "txt": "of glasses."
+  },
+  {
+   "t0": 45.641,
+   "t1": 46.768,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 46.768,
+   "t1": 47.497,
+   "txt": "eighty-one."
+  },
+  {
+   "t0": 47.997,
+   "t1": 49.239,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 49.239,
+   "t1": 50.045,
+   "txt": "eighty-eight."
+  },
+  {
+   "t0": 50.496,
+   "t1": 51.542,
+   "txt": "Inside out."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.328
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.391
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.325
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.068
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 23.126
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 30.019
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 38.098
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 45.641
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 50.496
+  }
+ ],
+ "hook": "WHY IS THIS|CAP [HALF RED]?",
+ "hook2": "THE CAP THAT|[STEERS] \u00b7 1988",
+ "hookSwitch": 2,
+ "num": "US 4,716,599",
+ "tt": false
+}

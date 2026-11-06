@@ -1,0 +1,542 @@
+{
+ "T": 58.51,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.12,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     4.569
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank1",
+   "figno": "1",
+   "calls": [
+    [
+     "HAT",
+     274,
+     116,
+     80,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 5.12,
+   "t1": 8.012,
+   "i": 1,
+   "segs": [
+    [
+     5.12,
+     6.058
+    ],
+    [
+     6.338,
+     7.661
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 8.012,
+   "t1": 12.218,
+   "i": 2,
+   "segs": [
+    [
+     8.012,
+     10.081
+    ],
+    [
+     10.501,
+     11.717
+    ]
+   ],
+   "g": "stamp",
+   "title": "MINIATURE|HATS",
+   "filed": "MAR. 17, 1971",
+   "date": "JULY 31, 1973",
+   "at": 2.6
+  },
+  {
+   "t0": 12.218,
+   "t1": 21.468,
+   "i": 3,
+   "segs": [
+    [
+     12.218,
+     13.648
+    ],
+    [
+     13.928,
+     21.117
+    ]
+   ],
+   "g": "quote",
+   "q": "certain restaurant chains sell or give away plastic hats for use by customers to provide a carnival atmosphere",
+   "hit": "carnival atmosphere",
+   "src": "US 3,748,660 \u00b7 summary"
+  },
+  {
+   "t0": 21.468,
+   "t1": 28.691,
+   "i": 4,
+   "segs": [
+    [
+     21.468,
+     24.86
+    ],
+    [
+     25.14,
+     28.34
+    ]
+   ],
+   "g": "quote",
+   "q": "I have found that such hats may serve the secondary purpose of a coin bank.",
+   "hit": "coin bank",
+   "src": "US 3,748,660 \u00b7 summary",
+   "hide": true
+  },
+  {
+   "t0": 28.691,
+   "t1": 33.771,
+   "i": 5,
+   "segs": [
+    [
+     28.691,
+     33.32
+    ]
+   ],
+   "g": "quote",
+   "q": "I have found that such hats may serve the secondary purpose of a coin bank.",
+   "hit": "coin bank",
+   "src": "US 3,748,660 \u00b7 summary",
+   "typed": false
+  },
+  {
+   "t0": 33.771,
+   "t1": 41.122,
+   "i": 6,
+   "segs": [
+    [
+     33.771,
+     36.118
+    ],
+    [
+     36.398,
+     40.771
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank4",
+   "figno": "4",
+   "calls": [
+    [
+     "COIN SLOT",
+     225,
+     210,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 41.122,
+   "t1": 47.641,
+   "i": 7,
+   "segs": [
+    [
+     41.122,
+     44.834
+    ],
+    [
+     45.114,
+     47.29
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank7",
+   "figno": "7",
+   "calls": [
+    [
+     "PLUG",
+     282,
+     180,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 47.641,
+   "t1": 53.03,
+   "i": 8,
+   "segs": [
+    [
+     47.641,
+     49.732
+    ],
+    [
+     50.232,
+     52.579
+    ]
+   ],
+   "g": "stamp",
+   "title": "MINIATURE|HATS",
+   "filed": "MAR. 17, 1971",
+   "date": "JULY 31, 1973",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 53.03,
+   "t1": 58.51,
+   "i": 9,
+   "segs": [
+    [
+     53.03,
+     54.075
+    ],
+    [
+     54.495,
+     55.412
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 2.649,
+   "txt": "A man,"
+  },
+  {
+   "t0": 2.649,
+   "t1": 3.545,
+   "txt": "wearing a very"
+  },
+  {
+   "t0": 3.545,
+   "t1": 4.569,
+   "txt": "small derby hat."
+  },
+  {
+   "t0": 5.12,
+   "t1": 6.058,
+   "txt": "It's plastic."
+  },
+  {
+   "t0": 6.338,
+   "t1": 7.132,
+   "txt": "And it's hiding"
+  },
+  {
+   "t0": 7.132,
+   "t1": 7.661,
+   "txt": "something."
+  },
+  {
+   "t0": 8.012,
+   "t1": 8.781,
+   "txt": "The patent is"
+  },
+  {
+   "t0": 8.781,
+   "t1": 10.081,
+   "txt": "called miniature hats."
+  },
+  {
+   "t0": 10.501,
+   "t1": 11.141,
+   "txt": "And it was"
+  },
+  {
+   "t0": 11.141,
+   "t1": 11.717,
+   "txt": "approved."
+  },
+  {
+   "t0": 12.218,
+   "t1": 13.112,
+   "txt": "It explains the"
+  },
+  {
+   "t0": 13.112,
+   "t1": 13.648,
+   "txt": "business."
+  },
+  {
+   "t0": 13.928,
+   "t1": 15.623,
+   "txt": "Certain restaurant chains"
+  },
+  {
+   "t0": 15.623,
+   "t1": 16.437,
+   "txt": "sell or give"
+  },
+  {
+   "t0": 16.437,
+   "t1": 17.59,
+   "txt": "away plastic hats"
+  },
+  {
+   "t0": 17.59,
+   "t1": 18.268,
+   "txt": "for use by"
+  },
+  {
+   "t0": 18.268,
+   "t1": 19.625,
+   "txt": "customers to provide"
+  },
+  {
+   "t0": 19.625,
+   "t1": 21.117,
+   "txt": "a carnival atmosphere."
+  },
+  {
+   "t0": 21.468,
+   "t1": 22.044,
+   "txt": "But a hat"
+  },
+  {
+   "t0": 22.044,
+   "t1": 23.388,
+   "txt": "merely for decorative"
+  },
+  {
+   "t0": 23.388,
+   "t1": 24.412,
+   "txt": "purposes was not"
+  },
+  {
+   "t0": 24.412,
+   "t1": 24.86,
+   "txt": "enough."
+  },
+  {
+   "t0": 25.14,
+   "t1": 25.793,
+   "txt": "It is also"
+  },
+  {
+   "t0": 25.793,
+   "t1": 27.034,
+   "txt": "desirable that they"
+  },
+  {
+   "t0": 27.034,
+   "t1": 28.079,
+   "txt": "have a secondary"
+  },
+  {
+   "t0": 28.079,
+   "t1": 28.34,
+   "txt": "use."
+  },
+  {
+   "t0": 28.691,
+   "t1": 29.473,
+   "txt": "I have found"
+  },
+  {
+   "t0": 29.473,
+   "t1": 30.386,
+   "txt": "that such hats"
+  },
+  {
+   "t0": 30.386,
+   "t1": 31.234,
+   "txt": "may serve the"
+  },
+  {
+   "t0": 31.234,
+   "t1": 32.538,
+   "txt": "secondary purpose of"
+  },
+  {
+   "t0": 32.538,
+   "t1": 33.32,
+   "txt": "a coin bank."
+  },
+  {
+   "t0": 33.771,
+   "t1": 34.228,
+   "txt": "Inside,"
+  },
+  {
+   "t0": 34.228,
+   "t1": 35.336,
+   "txt": "a paperboard plug"
+  },
+  {
+   "t0": 35.336,
+   "t1": 36.118,
+   "txt": "with a slot."
+  },
+  {
+   "t0": 36.398,
+   "t1": 37.792,
+   "txt": "Preferably long enough"
+  },
+  {
+   "t0": 37.792,
+   "t1": 38.807,
+   "txt": "to accommodate a"
+  },
+  {
+   "t0": 38.807,
+   "t1": 39.63,
+   "txt": "coin of fifty"
+  },
+  {
+   "t0": 39.63,
+   "t1": 40.771,
+   "txt": "cent denomination."
+  },
+  {
+   "t0": 41.122,
+   "t1": 42.099,
+   "txt": "The rubber band"
+  },
+  {
+   "t0": 42.099,
+   "t1": 43.011,
+   "txt": "that holds the"
+  },
+  {
+   "t0": 43.011,
+   "t1": 43.727,
+   "txt": "hat on also"
+  },
+  {
+   "t0": 43.727,
+   "t1": 44.834,
+   "txt": "crosses the slot."
+  },
+  {
+   "t0": 45.114,
+   "t1": 45.84,
+   "txt": "A coin goes"
+  },
+  {
+   "t0": 45.84,
+   "t1": 46.037,
+   "txt": "in,"
+  },
+  {
+   "t0": 46.037,
+   "t1": 46.961,
+   "txt": "the band snaps"
+  },
+  {
+   "t0": 46.961,
+   "t1": 47.29,
+   "txt": "back."
+  },
+  {
+   "t0": 47.641,
+   "t1": 48.867,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 48.867,
+   "t1": 49.732,
+   "txt": "seventy-one."
+  },
+  {
+   "t0": 50.232,
+   "t1": 51.612,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 51.612,
+   "t1": 52.579,
+   "txt": "seventy-three."
+  },
+  {
+   "t0": 53.03,
+   "t1": 54.075,
+   "txt": "Fifty cents."
+  },
+  {
+   "t0": 54.495,
+   "t1": 55.412,
+   "txt": "On your head."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.12
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 8.012
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 12.218
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.468
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 28.691
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 33.771
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 41.122
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 47.641
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 53.03
+  }
+ ],
+ "hook": "LOOK AT|THIS [HAT]",
+ "hook2": "THIS HAT|IS A [BANK] \u00b7 1973",
+ "hookSwitch": 2,
+ "num": "US 3,748,660",
+ "tt": false
+}

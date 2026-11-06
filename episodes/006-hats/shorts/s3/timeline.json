@@ -1,0 +1,539 @@
+{
+ "T": 54.79,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.733,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.395
+    ],
+    [
+     3.795,
+     5.182
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1"
+  },
+  {
+   "t0": 5.733,
+   "t1": 10.329,
+   "i": 1,
+   "segs": [
+    [
+     5.733,
+     9.978
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "JELLY BEAN",
+     342,
+     114,
+     90,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 10.329,
+   "t1": 16.712,
+   "i": 2,
+   "segs": [
+    [
+     10.329,
+     14.575
+    ],
+    [
+     14.995,
+     16.211
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANDY CONTAINER REMOVABLY|CONNECTED TO A CHILD'S CAP",
+   "filed": "FEB. 9, 1973",
+   "date": "MAY 28, 1974",
+   "at": 4.2
+  },
+  {
+   "t0": 16.712,
+   "t1": 21.033,
+   "i": 3,
+   "segs": [
+    [
+     16.712,
+     18.418
+    ],
+    [
+     18.698,
+     20.682
+    ]
+   ],
+   "g": "quote",
+   "q": "Children like to eat jelly beans",
+   "hit": "jelly beans",
+   "src": "US 3,813,016 \u00b7 background"
+  },
+  {
+   "t0": 21.033,
+   "t1": 26.867,
+   "i": 4,
+   "segs": [
+    [
+     21.033,
+     26.516
+    ]
+   ],
+   "g": "quote",
+   "q": "A child also likes to have his hands free and enjoys wearing ornaments of any kind.",
+   "hit": "ornaments of any kind",
+   "src": "US 3,813,016 \u00b7 background"
+  },
+  {
+   "t0": 26.867,
+   "t1": 32.981,
+   "i": 5,
+   "segs": [
+    [
+     26.867,
+     28.872
+    ],
+    [
+     29.152,
+     32.63
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy2",
+   "figno": "2",
+   "calls": [
+    [
+     "DRUM",
+     189,
+     208,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 32.981,
+   "t1": 36.916,
+   "i": 6,
+   "segs": [
+    [
+     32.981,
+     36.565
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "CORD",
+     858,
+     395,
+     60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 36.916,
+   "t1": 39.336,
+   "i": 7,
+   "segs": [
+    [
+     36.916,
+     38.985
+    ]
+   ],
+   "g": "quote",
+   "q": "The jelly bean shaped container C may have jelly beans therein if desired.",
+   "hit": "if desired",
+   "src": "US 3,813,016 \u00b7 operation",
+   "hide": true
+  },
+  {
+   "t0": 39.336,
+   "t1": 45.151,
+   "i": 8,
+   "segs": [
+    [
+     39.336,
+     43.155
+    ],
+    [
+     43.655,
+     44.7
+    ]
+   ],
+   "g": "quote",
+   "q": "The jelly bean shaped container C may have jelly beans therein if desired.",
+   "hit": "if desired",
+   "src": "US 3,813,016 \u00b7 operation",
+   "typed": false
+  },
+  {
+   "t0": 45.151,
+   "t1": 50.667,
+   "i": 9,
+   "segs": [
+    [
+     45.151,
+     47.327
+    ],
+    [
+     47.827,
+     50.216
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANDY CONTAINER REMOVABLY|CONNECTED TO A CHILD'S CAP",
+   "filed": "FEB. 9, 1973",
+   "date": "MAY 28, 1974",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 50.667,
+   "t1": 54.79,
+   "i": 10,
+   "segs": [
+    [
+     50.667,
+     51.691
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.395,
+   "txt": "A child's cap."
+  },
+  {
+   "t0": 3.795,
+   "t1": 4.918,
+   "txt": "With something on"
+  },
+  {
+   "t0": 4.918,
+   "t1": 5.182,
+   "txt": "top."
+  },
+  {
+   "t0": 5.733,
+   "t1": 7.013,
+   "txt": "A plastic container"
+  },
+  {
+   "t0": 7.013,
+   "t1": 7.822,
+   "txt": "in the shape"
+  },
+  {
+   "t0": 7.822,
+   "t1": 8.631,
+   "txt": "of a greatly"
+  },
+  {
+   "t0": 8.631,
+   "t1": 9.978,
+   "txt": "enlarged jelly bean."
+  },
+  {
+   "t0": 10.329,
+   "t1": 11.192,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 11.192,
+   "t1": 12.85,
+   "txt": "candy container removably"
+  },
+  {
+   "t0": 12.85,
+   "t1": 13.779,
+   "txt": "connected to a"
+  },
+  {
+   "t0": 13.779,
+   "t1": 14.575,
+   "txt": "child's cap."
+  },
+  {
+   "t0": 14.995,
+   "t1": 15.635,
+   "txt": "And it was"
+  },
+  {
+   "t0": 15.635,
+   "t1": 16.211,
+   "txt": "approved."
+  },
+  {
+   "t0": 16.712,
+   "t1": 17.618,
+   "txt": "The patent starts"
+  },
+  {
+   "t0": 17.618,
+   "t1": 18.418,
+   "txt": "with a finding."
+  },
+  {
+   "t0": 18.698,
+   "t1": 19.69,
+   "txt": "Children like to"
+  },
+  {
+   "t0": 19.69,
+   "t1": 20.682,
+   "txt": "eat jelly beans."
+  },
+  {
+   "t0": 21.033,
+   "t1": 21.769,
+   "txt": "And a child"
+  },
+  {
+   "t0": 21.769,
+   "t1": 22.638,
+   "txt": "also likes to"
+  },
+  {
+   "t0": 22.638,
+   "t1": 23.574,
+   "txt": "have his hands"
+  },
+  {
+   "t0": 23.574,
+   "t1": 24.577,
+   "txt": "free and enjoys"
+  },
+  {
+   "t0": 24.577,
+   "t1": 25.914,
+   "txt": "wearing ornaments of"
+  },
+  {
+   "t0": 25.914,
+   "t1": 26.516,
+   "txt": "any kind."
+  },
+  {
+   "t0": 26.867,
+   "t1": 27.325,
+   "txt": "To get a"
+  },
+  {
+   "t0": 27.325,
+   "t1": 27.669,
+   "txt": "snack,"
+  },
+  {
+   "t0": 27.669,
+   "t1": 28.357,
+   "txt": "you pull the"
+  },
+  {
+   "t0": 28.357,
+   "t1": 28.872,
+   "txt": "bean off."
+  },
+  {
+   "t0": 29.152,
+   "t1": 30.071,
+   "txt": "A cord unwinds"
+  },
+  {
+   "t0": 30.071,
+   "t1": 31.383,
+   "txt": "from a spring-loaded"
+  },
+  {
+   "t0": 31.383,
+   "t1": 32.367,
+   "txt": "drum inside the"
+  },
+  {
+   "t0": 32.367,
+   "t1": 32.63,
+   "txt": "cap."
+  },
+  {
+   "t0": 32.981,
+   "t1": 33.77,
+   "txt": "Then you jerk"
+  },
+  {
+   "t0": 33.77,
+   "t1": 34.499,
+   "txt": "on the cord,"
+  },
+  {
+   "t0": 34.499,
+   "t1": 35.228,
+   "txt": "and the drum"
+  },
+  {
+   "t0": 35.228,
+   "t1": 36.079,
+   "txt": "winds the cord"
+  },
+  {
+   "t0": 36.079,
+   "t1": 36.565,
+   "txt": "back up."
+  },
+  {
+   "t0": 36.916,
+   "t1": 37.625,
+   "txt": "And one line"
+  },
+  {
+   "t0": 37.625,
+   "t1": 38.571,
+   "txt": "is worth reading"
+  },
+  {
+   "t0": 38.571,
+   "t1": 38.985,
+   "txt": "slowly."
+  },
+  {
+   "t0": 39.336,
+   "t1": 40.258,
+   "txt": "The jelly bean"
+  },
+  {
+   "t0": 40.258,
+   "t1": 41.575,
+   "txt": "shaped container may"
+  },
+  {
+   "t0": 41.575,
+   "t1": 42.628,
+   "txt": "have jelly beans"
+  },
+  {
+   "t0": 42.628,
+   "t1": 43.155,
+   "txt": "therein."
+  },
+  {
+   "t0": 43.655,
+   "t1": 44.7,
+   "txt": "If desired."
+  },
+  {
+   "t0": 45.151,
+   "t1": 46.344,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 46.344,
+   "t1": 47.327,
+   "txt": "seventy-three."
+  },
+  {
+   "t0": 47.827,
+   "t1": 49.275,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 49.275,
+   "t1": 50.216,
+   "txt": "seventy-four."
+  },
+  {
+   "t0": 50.667,
+   "t1": 51.691,
+   "txt": "If desired."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.733
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 10.329
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.712
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.033
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 26.867
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 32.981
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 36.916
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 39.336
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 45.151
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 50.667
+  }
+ ],
+ "hook": "LOOK AT|THIS [CAP]",
+ "hook2": "JELLY BEANS|ON [TOP] \u00b7 1974",
+ "hookSwitch": 2,
+ "num": "US 3,813,016",
+ "tt": false
+}

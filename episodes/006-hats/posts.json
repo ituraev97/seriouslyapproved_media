@@ -1,0 +1,16 @@
+{
+ "long": {"title": "8 Real Hat Patents That Do Way Too Much (All Approved)", "tags": ["weird patents", "hat patents", "weird inventions", "strange inventions", "patents", "history", "funny inventions", "baseball cap glove", "umbrella hat"]},
+ "shorts": [
+  {"id": "s1", "time": "08:00", "title": "The U.S. Approved a Baseball Cap That's Also a Glove", "line": "A baseball cap with a glove stitched inside. Really approved.", "num": "US 4,628,543", "year": 1986, "url": "https://patents.google.com/patent/US4628543"},
+  {"id": "s2", "time": "10:30", "title": "The U.S. Approved a Tackle Box You Wear on Your Cap", "line": "A tackle box that snaps onto the top of your cap. Really approved.", "num": "US 5,070,546", "year": 1991, "url": "https://patents.google.com/patent/US5070546"},
+  {"id": "s3", "time": "13:00", "title": "The U.S. Approved a Jelly Bean Box for Your Cap", "line": "A jelly-bean-shaped candy box on top of a cap, on a spring-loaded cord. Really approved.", "num": "US 3,813,016", "year": 1974, "url": "https://patents.google.com/patent/US3813016A/en"},
+  {"id": "s4", "time": "15:00", "title": "The U.S. Approved a Party Hat That's a Piggy Bank", "line": "A tiny plastic party hat with a coin slot inside. Really approved.", "num": "US 3,748,660", "year": 1973, "url": "https://patents.google.com/patent/US3748660"},
+  {"id": "s5", "time": "19:00", "title": "The U.S. Approved a Cap That Tells You How to Steer", "line": "A half-red, half-black cap you turn inside out to pass buoys on the right side. Really approved.", "num": "US 4,716,599", "year": 1988, "url": "https://patents.google.com/patent/US4716599"},
+  {"id": "s6", "time": "22:00", "title": "The U.S. Approved a Tennis Racket Cover That's a Cap", "line": "Unzip the racket cover and half of it is a cap. Really approved.", "num": "US 4,080,665", "year": 1978, "url": "https://patents.google.com/patent/US4080665"}
+ ],
+ "tiktok": [
+  {"id": "t1", "time": "09:30", "title": "The U.S. Approved a Baseball Cap That's Also a Glove", "hook": "This baseball cap has a glove hidden inside.", "num": "4,628,543", "year": 1986},
+  {"id": "t2", "time": "14:30", "title": "The U.S. Approved a Tackle Box You Wear on Your Cap", "hook": "Somebody patented a tackle box that snaps onto your cap.", "num": "5,070,546", "year": 1991},
+  {"id": "t3", "time": "20:30", "title": "The U.S. Approved a Jelly Bean Box for Your Cap", "hook": "A giant jelly bean on top of a cap. On a spring-loaded cord.", "num": "3,813,016", "year": 1974}
+ ]
+}

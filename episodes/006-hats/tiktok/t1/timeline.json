@@ -1,0 +1,724 @@
+{
+ "T": 78.7,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.584,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.417
+    ],
+    [
+     3.817,
+     5.033
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove1",
+   "figno": "1"
+  },
+  {
+   "t0": 5.584,
+   "t1": 9.412,
+   "i": 1,
+   "segs": [
+    [
+     5.584,
+     9.061
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove2",
+   "figno": "2",
+   "calls": [
+    [
+     "GLOVE",
+     366,
+     240,
+     70,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 9.412,
+   "t1": 14.706,
+   "i": 2,
+   "segs": [
+    [
+     9.412,
+     12.569
+    ],
+    [
+     12.989,
+     14.205
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINATION CAP AND|BASEBALL GLOVE",
+   "filed": "OCT. 25, 1985",
+   "date": "DEC. 16, 1986",
+   "at": 3.4
+  },
+  {
+   "t0": 14.706,
+   "t1": 21.439,
+   "i": 3,
+   "segs": [
+    [
+     14.706,
+     19.4
+    ],
+    [
+     19.68,
+     21.088
+    ]
+   ],
+   "g": "quote",
+   "q": "balls are hit into spectator seating areas",
+   "hit": "spectator seating",
+   "src": "US 4,628,543 \u00b7 history"
+  },
+  {
+   "t0": 21.439,
+   "t1": 29.003,
+   "i": 4,
+   "segs": [
+    [
+     21.439,
+     22.783
+    ],
+    [
+     23.063,
+     28.652
+    ]
+   ],
+   "g": "quote",
+   "q": "Unfortunately, the baseball glove is just another personal belonging which must be carried to and from the game",
+   "hit": "just another personal belonging",
+   "src": "US 4,628,543 \u00b7 history"
+  },
+  {
+   "t0": 29.003,
+   "t1": 34.581,
+   "i": 5,
+   "segs": [
+    [
+     29.003,
+     34.23
+    ]
+   ],
+   "g": "quote",
+   "q": "subject to theft or accidental misplacement if left unattended",
+   "hit": "accidental misplacement",
+   "src": "US 4,628,543 \u00b7 history"
+  },
+  {
+   "t0": 34.581,
+   "t1": 41.804,
+   "i": 6,
+   "segs": [
+    [
+     34.581,
+     36.117
+    ],
+    [
+     36.397,
+     41.453
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 41.804,
+   "t1": 49.477,
+   "i": 7,
+   "segs": [
+    [
+     41.804,
+     44.598
+    ],
+    [
+     44.878,
+     46.542
+    ],
+    [
+     46.822,
+     49.126
+    ]
+   ],
+   "g": "quote",
+   "q": "the inner liner 25 is shown as being in the shape of a hand, particularly a right hand",
+   "hit": "particularly a right hand",
+   "src": "US 4,628,543 \u00b7 col. 3"
+  },
+  {
+   "t0": 49.477,
+   "t1": 57.3,
+   "i": 8,
+   "segs": [
+    [
+     49.477,
+     54.896
+    ],
+    [
+     55.176,
+     56.093
+    ],
+    [
+     56.373,
+     56.949
+    ]
+   ],
+   "g": "quote",
+   "q": "a person need only insert their hand through the opening formed in the back of the cap",
+   "hit": "insert their hand",
+   "src": "US 4,628,543 \u00b7 col. 4"
+  },
+  {
+   "t0": 57.3,
+   "t1": 61.622,
+   "i": 9,
+   "segs": [
+    [
+     57.3,
+     58.815
+    ],
+    [
+     59.095,
+     61.271
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove3",
+   "figno": "3",
+   "calls": [
+    [
+     "MITT",
+     264,
+     222,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 61.622,
+   "t1": 68.717,
+   "i": 10,
+   "segs": [
+    [
+     61.622,
+     63.755
+    ],
+    [
+     64.035,
+     68.366
+    ]
+   ],
+   "g": "quote",
+   "q": "is that the cap would not resemble a traditional or conventional cap",
+   "hit": "would not resemble",
+   "src": "US 4,628,543 \u00b7 col. 4"
+  },
+  {
+   "t0": 68.717,
+   "t1": 73.913,
+   "i": 11,
+   "segs": [
+    [
+     68.717,
+     70.808
+    ],
+    [
+     71.308,
+     73.462
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINATION CAP AND|BASEBALL GLOVE",
+   "filed": "OCT. 25, 1985",
+   "date": "DEC. 16, 1986",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 73.913,
+   "t1": 78.7,
+   "i": 12,
+   "segs": [
+    [
+     73.913,
+     75.599
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove2",
+   "figno": "2",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.417,
+   "txt": "A baseball cap."
+  },
+  {
+   "t0": 3.817,
+   "t1": 5.033,
+   "txt": "Now look underneath."
+  },
+  {
+   "t0": 5.584,
+   "t1": 6.723,
+   "txt": "Stitched inside the"
+  },
+  {
+   "t0": 6.723,
+   "t1": 7.083,
+   "txt": "crown,"
+  },
+  {
+   "t0": 7.083,
+   "t1": 7.802,
+   "txt": "in the shape"
+  },
+  {
+   "t0": 7.802,
+   "t1": 8.402,
+   "txt": "of a hand,"
+  },
+  {
+   "t0": 8.402,
+   "t1": 9.061,
+   "txt": "is a glove."
+  },
+  {
+   "t0": 9.412,
+   "t1": 10.285,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 10.285,
+   "t1": 11.562,
+   "txt": "combination cap and"
+  },
+  {
+   "t0": 11.562,
+   "t1": 12.569,
+   "txt": "baseball glove."
+  },
+  {
+   "t0": 12.989,
+   "t1": 13.629,
+   "txt": "And it was"
+  },
+  {
+   "t0": 13.629,
+   "t1": 14.205,
+   "txt": "approved."
+  },
+  {
+   "t0": 14.706,
+   "t1": 15.367,
+   "txt": "At a game,"
+  },
+  {
+   "t0": 15.367,
+   "t1": 16.689,
+   "txt": "the patent observes,"
+  },
+  {
+   "t0": 16.689,
+   "t1": 17.549,
+   "txt": "balls are hit"
+  },
+  {
+   "t0": 17.549,
+   "t1": 19.003,
+   "txt": "into spectator seating"
+  },
+  {
+   "t0": 19.003,
+   "t1": 19.4,
+   "txt": "areas."
+  },
+  {
+   "t0": 19.68,
+   "t1": 20.551,
+   "txt": "So fans bring"
+  },
+  {
+   "t0": 20.551,
+   "t1": 21.088,
+   "txt": "a glove."
+  },
+  {
+   "t0": 21.439,
+   "t1": 22.081,
+   "txt": "And that is"
+  },
+  {
+   "t0": 22.081,
+   "t1": 22.783,
+   "txt": "the problem."
+  },
+  {
+   "t0": 23.063,
+   "t1": 24.156,
+   "txt": "The baseball glove"
+  },
+  {
+   "t0": 24.156,
+   "t1": 25.068,
+   "txt": "is just another"
+  },
+  {
+   "t0": 25.068,
+   "t1": 26.526,
+   "txt": "personal belonging which"
+  },
+  {
+   "t0": 26.526,
+   "t1": 27.437,
+   "txt": "must be carried"
+  },
+  {
+   "t0": 27.437,
+   "t1": 28.105,
+   "txt": "to and from"
+  },
+  {
+   "t0": 28.105,
+   "t1": 28.652,
+   "txt": "the game."
+  },
+  {
+   "t0": 29.003,
+   "t1": 29.897,
+   "txt": "An item which"
+  },
+  {
+   "t0": 29.897,
+   "t1": 30.791,
+   "txt": "is subject to"
+  },
+  {
+   "t0": 30.791,
+   "t1": 32.098,
+   "txt": "theft or accidental"
+  },
+  {
+   "t0": 32.098,
+   "t1": 33.473,
+   "txt": "misplacement if left"
+  },
+  {
+   "t0": 33.473,
+   "t1": 34.23,
+   "txt": "unattended."
+  },
+  {
+   "t0": 34.581,
+   "t1": 35.239,
+   "txt": "So the glove"
+  },
+  {
+   "t0": 35.239,
+   "t1": 35.897,
+   "txt": "hides in the"
+  },
+  {
+   "t0": 35.897,
+   "t1": 36.117,
+   "txt": "hat."
+  },
+  {
+   "t0": 36.397,
+   "t1": 37.146,
+   "txt": "A person may"
+  },
+  {
+   "t0": 37.146,
+   "t1": 37.895,
+   "txt": "wear the cap"
+  },
+  {
+   "t0": 37.895,
+   "t1": 38.706,
+   "txt": "on their head"
+  },
+  {
+   "t0": 38.706,
+   "t1": 39.455,
+   "txt": "just as they"
+  },
+  {
+   "t0": 39.455,
+   "t1": 40.392,
+   "txt": "would any other"
+  },
+  {
+   "t0": 40.392,
+   "t1": 41.453,
+   "txt": "conventional cap."
+  },
+  {
+   "t0": 41.804,
+   "t1": 42.629,
+   "txt": "But the liner"
+  },
+  {
+   "t0": 42.629,
+   "t1": 43.392,
+   "txt": "inside is in"
+  },
+  {
+   "t0": 43.392,
+   "t1": 44.154,
+   "txt": "the shape of"
+  },
+  {
+   "t0": 44.154,
+   "t1": 44.598,
+   "txt": "a hand."
+  },
+  {
+   "t0": 44.878,
+   "t1": 46.21,
+   "txt": "Particularly a right"
+  },
+  {
+   "t0": 46.21,
+   "t1": 46.542,
+   "txt": "hand."
+  },
+  {
+   "t0": 46.822,
+   "t1": 48.035,
+   "txt": "With finger cavities"
+  },
+  {
+   "t0": 48.035,
+   "t1": 48.702,
+   "txt": "and a thumb"
+  },
+  {
+   "t0": 48.702,
+   "t1": 49.126,
+   "txt": "cavity."
+  },
+  {
+   "t0": 49.477,
+   "t1": 50.098,
+   "txt": "When a ball"
+  },
+  {
+   "t0": 50.098,
+   "t1": 50.945,
+   "txt": "comes your way,"
+  },
+  {
+   "t0": 50.945,
+   "t1": 51.679,
+   "txt": "you need only"
+  },
+  {
+   "t0": 51.679,
+   "t1": 52.582,
+   "txt": "insert your hand"
+  },
+  {
+   "t0": 52.582,
+   "t1": 53.654,
+   "txt": "through the opening"
+  },
+  {
+   "t0": 53.654,
+   "t1": 54.275,
+   "txt": "in the back"
+  },
+  {
+   "t0": 54.275,
+   "t1": 54.896,
+   "txt": "of the cap."
+  },
+  {
+   "t0": 55.176,
+   "t1": 56.093,
+   "txt": "Take it off."
+  },
+  {
+   "t0": 56.373,
+   "t1": 56.949,
+   "txt": "Catch."
+  },
+  {
+   "t0": 57.3,
+   "t1": 58.086,
+   "txt": "There's even a"
+  },
+  {
+   "t0": 58.086,
+   "t1": 58.815,
+   "txt": "mitt version."
+  },
+  {
+   "t0": 59.095,
+   "t1": 60.183,
+   "txt": "And pockets inside"
+  },
+  {
+   "t0": 60.183,
+   "t1": 61.271,
+   "txt": "for extra padding."
+  },
+  {
+   "t0": 61.622,
+   "t1": 62.256,
+   "txt": "Why not put"
+  },
+  {
+   "t0": 62.256,
+   "t1": 63.063,
+   "txt": "the fingers on"
+  },
+  {
+   "t0": 63.063,
+   "t1": 63.755,
+   "txt": "the outside?"
+  },
+  {
+   "t0": 64.035,
+   "t1": 65.011,
+   "txt": "Because then the"
+  },
+  {
+   "t0": 65.011,
+   "t1": 65.804,
+   "txt": "cap would not"
+  },
+  {
+   "t0": 65.804,
+   "t1": 67.146,
+   "txt": "resemble a traditional"
+  },
+  {
+   "t0": 67.146,
+   "t1": 68.366,
+   "txt": "or conventional cap."
+  },
+  {
+   "t0": 68.717,
+   "t1": 69.943,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 69.943,
+   "t1": 70.808,
+   "txt": "eighty-five."
+  },
+  {
+   "t0": 71.308,
+   "t1": 72.698,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 72.698,
+   "t1": 73.462,
+   "txt": "eighty-six."
+  },
+  {
+   "t0": 73.913,
+   "t1": 75.262,
+   "txt": "Particularly a right"
+  },
+  {
+   "t0": 75.262,
+   "t1": 75.599,
+   "txt": "hand."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.584
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 9.412
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 14.706
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.439
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 29.003
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 34.581
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 41.804
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 49.477
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 57.3
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 61.622
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 68.717
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 73.913
+  }
+ ],
+ "hook": "LOOK UNDER|THIS [CAP]",
+ "hook2": "THE CAP IS|A [GLOVE] \u00b7 1986",
+ "hookSwitch": 2,
+ "num": "US 4,628,543",
+ "tt": true
+}

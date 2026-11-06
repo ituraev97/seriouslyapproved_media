@@ -1,0 +1,6088 @@
+{
+ "T": 615.91,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 4.074,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.929
+    ],
+    [
+     2.429,
+     3.623
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove2",
+   "figno": "2",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 4.074,
+   "t1": 7.903,
+   "i": 1,
+   "segs": [
+    [
+     4.074,
+     7.552
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove2",
+   "figno": "2",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986",
+   "draw": false,
+   "calls": [
+    [
+     "GLOVE",
+     366,
+     240,
+     70,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 7.903,
+   "t1": 9.513,
+   "i": 2,
+   "segs": [
+    [
+     7.903,
+     9.012
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINATION CAP AND|BASEBALL GLOVE",
+   "filed": "OCT. 25, 1985",
+   "date": "DEC. 16, 1986",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 9.513,
+   "t1": 23.189,
+   "i": 3,
+   "segs": [
+    [
+     9.513,
+     10.985
+    ],
+    [
+     11.265,
+     12.396
+    ],
+    [
+     12.676,
+     15.172
+    ],
+    [
+     15.452,
+     18.694
+    ],
+    [
+     18.974,
+     21.022
+    ],
+    [
+     21.302,
+     22.838
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE SHELF \u00b7 FILE 006",
+   "title": "8 Real Hat Patents|That Do Too Much",
+   "lines": [
+    "Real drawings. Real quotes.",
+    "Really approved."
+   ],
+   "stamp": true,
+   "at": 7.0,
+   "hook": "HATS THAT DO|TOO [MUCH]",
+   "side": "FILE 006 \u00b7 THE SHELF"
+  },
+  {
+   "t0": 23.189,
+   "t1": 25.676,
+   "i": 4,
+   "segs": [
+    [
+     23.189,
+     24.021
+    ],
+    [
+     24.301,
+     25.325
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 1 OF 8",
+   "numeral": "1",
+   "title": "Combination Tennis Racket|Cover and Cap or Hat",
+   "lines": [
+    "US 4,080,665",
+    "Filed 1976 \u00b7 Issued 1978"
+   ],
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978"
+  },
+  {
+   "t0": 25.676,
+   "t1": 30.513,
+   "i": 5,
+   "segs": [
+    [
+     25.676,
+     27.703
+    ],
+    [
+     27.983,
+     29.37
+    ],
+    [
+     29.65,
+     30.162
+    ]
+   ],
+   "g": "fig",
+   "fig": "rack1",
+   "figno": "1",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978"
+  },
+  {
+   "t0": 30.513,
+   "t1": 37.864,
+   "i": 6,
+   "segs": [
+    [
+     30.513,
+     33.329
+    ],
+    [
+     33.609,
+     37.513
+    ]
+   ],
+   "g": "quote",
+   "q": "Various types of caps and hats are, of course, also well known.",
+   "hit": "of course",
+   "src": "US 4,080,665 \u00b7 prior art",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978"
+  },
+  {
+   "t0": 37.864,
+   "t1": 42.923,
+   "i": 7,
+   "segs": [
+    [
+     37.864,
+     42.472
+    ]
+   ],
+   "g": "quote",
+   "q": "is considered to be entirely unique",
+   "hit": "entirely unique",
+   "src": "US 4,080,665 \u00b7 prior art",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978"
+  },
+  {
+   "t0": 42.923,
+   "t1": 49.551,
+   "i": 8,
+   "segs": [
+    [
+     42.923,
+     43.84
+    ],
+    [
+     44.12,
+     45.848
+    ],
+    [
+     46.128,
+     49.2
+    ]
+   ],
+   "g": "fig",
+   "fig": "rack2",
+   "figno": "2",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978",
+   "calls": [
+    [
+     "CAP",
+     312,
+     132,
+     80,
+     -50
+    ],
+    [
+     "COVER",
+     312,
+     522,
+     80,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 49.551,
+   "t1": 55.259,
+   "i": 9,
+   "segs": [
+    [
+     49.551,
+     51.215
+    ],
+    [
+     51.495,
+     54.908
+    ]
+   ],
+   "g": "fig",
+   "fig": "rack2",
+   "figno": "2",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978",
+   "draw": false
+  },
+  {
+   "t0": 55.259,
+   "t1": 61.544,
+   "i": 10,
+   "segs": [
+    [
+     55.259,
+     57.115
+    ],
+    [
+     57.395,
+     61.193
+    ]
+   ],
+   "g": "fig",
+   "fig": "rack3",
+   "figno": "3",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978",
+   "calls": [
+    [
+     "SAME CAP",
+     192,
+     78,
+     70,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 61.544,
+   "t1": 70.471,
+   "i": 11,
+   "segs": [
+    [
+     61.544,
+     70.12
+    ]
+   ],
+   "g": "quote",
+   "q": "the user need only detach a part of the tennis racket cover from it to be provided with a hat or cap suitable for play",
+   "hit": "suitable for play",
+   "src": "US 4,080,665 \u00b7 summary",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978"
+  },
+  {
+   "t0": 70.471,
+   "t1": 79.123,
+   "i": 12,
+   "segs": [
+    [
+     70.471,
+     73.137
+    ],
+    [
+     73.417,
+     78.772
+    ]
+   ],
+   "g": "fig",
+   "fig": "rack9",
+   "figno": "9",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978"
+  },
+  {
+   "t0": 79.123,
+   "t1": 84.277,
+   "i": 13,
+   "segs": [
+    [
+     79.123,
+     80.254
+    ],
+    [
+     80.534,
+     83.926
+    ]
+   ],
+   "g": "quote",
+   "q": "when the cap may be moist with sweat or the like",
+   "hit": "moist with sweat",
+   "src": "US 4,080,665 \u00b7 col. 3",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978",
+   "hide": true
+  },
+  {
+   "t0": 84.277,
+   "t1": 87.437,
+   "i": 14,
+   "segs": [
+    [
+     84.277,
+     86.986
+    ]
+   ],
+   "g": "quote",
+   "q": "when the cap may be moist with sweat or the like",
+   "hit": "moist with sweat",
+   "src": "US 4,080,665 \u00b7 col. 3",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978",
+   "typed": false
+  },
+  {
+   "t0": 87.437,
+   "t1": 93.871,
+   "i": 15,
+   "segs": [
+    [
+     87.437,
+     90.957
+    ],
+    [
+     91.457,
+     93.42
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINATION TENNIS RACKET|COVER AND CAP OR HAT",
+   "filed": "OCT. 12, 1976",
+   "date": "MAR. 28, 1978",
+   "num": "US 4,080,665",
+   "hook": "THE RACKET|[WEARS] A CAP",
+   "side": "US 4,080,665 \u00b7 1978",
+   "at": 2.4
+  },
+  {
+   "t0": 93.871,
+   "t1": 96.059,
+   "i": 16,
+   "segs": [
+    [
+     93.871,
+     94.745
+    ],
+    [
+     95.025,
+     95.708
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 2 OF 8",
+   "numeral": "2",
+   "title": "Hat Convertible|into Umbrella",
+   "lines": [
+    "US 1,532,310",
+    "Filed 1920 \u00b7 Issued 1925"
+   ],
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925"
+  },
+  {
+   "t0": 96.059,
+   "t1": 102.09,
+   "i": 17,
+   "segs": [
+    [
+     96.059,
+     98.662
+    ],
+    [
+     98.942,
+     100.435
+    ],
+    [
+     100.715,
+     101.739
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb1",
+   "figno": "1",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925"
+  },
+  {
+   "t0": 102.09,
+   "t1": 109.908,
+   "i": 18,
+   "segs": [
+    [
+     102.09,
+     109.557
+    ]
+   ],
+   "g": "quote",
+   "q": "a hat which can be transformed into an umbrella or parasol by unfolding the same",
+   "hit": "umbrella or parasol",
+   "src": "US 1,532,310 \u00b7 p. 1",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925"
+  },
+  {
+   "t0": 109.908,
+   "t1": 118.072,
+   "i": 19,
+   "segs": [
+    [
+     109.908,
+     111.486
+    ],
+    [
+     111.766,
+     115.244
+    ],
+    [
+     115.524,
+     117.721
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb4",
+   "figno": "4",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925"
+  },
+  {
+   "t0": 118.072,
+   "t1": 124.162,
+   "i": 20,
+   "segs": [
+    [
+     118.072,
+     123.811
+    ]
+   ],
+   "g": "quote",
+   "q": "If opened entirely or even only halfway outwards, the hat protects from rain or sunshine",
+   "hit": "rain or sunshine",
+   "src": "US 1,532,310 \u00b7 p. 1",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925"
+  },
+  {
+   "t0": 124.162,
+   "t1": 130.958,
+   "i": 21,
+   "segs": [
+    [
+     124.162,
+     125.506
+    ],
+    [
+     125.786,
+     130.607
+    ]
+   ],
+   "g": "quote",
+   "q": "This enables the device to be ready for use at any moment and instantaneously",
+   "hit": "instantaneously",
+   "src": "US 1,532,310 \u00b7 p. 1",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925"
+  },
+  {
+   "t0": 130.958,
+   "t1": 143.389,
+   "i": 22,
+   "segs": [
+    [
+     130.958,
+     135.182
+    ],
+    [
+     135.462,
+     138.598
+    ],
+    [
+     138.878,
+     143.038
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb2",
+   "figno": "2",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925"
+  },
+  {
+   "t0": 143.389,
+   "t1": 147.559,
+   "i": 23,
+   "segs": [
+    [
+     143.389,
+     147.208
+    ]
+   ],
+   "g": "quote",
+   "q": "enables the hat to maintain its character of a hat even in unfolded condition and to keep a surer hold on the head",
+   "hit": "surer hold on the head",
+   "src": "US 1,532,310 \u00b7 p. 1",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925",
+   "hide": true
+  },
+  {
+   "t0": 147.559,
+   "t1": 156.287,
+   "i": 24,
+   "segs": [
+    [
+     147.559,
+     155.836
+    ]
+   ],
+   "g": "quote",
+   "q": "enables the hat to maintain its character of a hat even in unfolded condition and to keep a surer hold on the head",
+   "hit": "surer hold on the head",
+   "src": "US 1,532,310 \u00b7 p. 1",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925",
+   "typed": false
+  },
+  {
+   "t0": 156.287,
+   "t1": 163.967,
+   "i": 25,
+   "segs": [
+    [
+     156.287,
+     158.1
+    ],
+    [
+     158.6,
+     161.139
+    ],
+    [
+     161.639,
+     163.516
+    ]
+   ],
+   "g": "stamp",
+   "title": "HAT CONVERTIBLE|INTO UMBRELLA",
+   "filed": "NOV. 12, 1920",
+   "date": "APR. 7, 1925",
+   "num": "US 1,532,310",
+   "hook": "THE HAT|[UMBRELLA]",
+   "side": "US 1,532,310 \u00b7 1925",
+   "at": 3.2
+  },
+  {
+   "t0": 163.967,
+   "t1": 166.241,
+   "i": 26,
+   "segs": [
+    [
+     163.967,
+     164.885
+    ],
+    [
+     165.165,
+     165.89
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 3 OF 8",
+   "numeral": "3",
+   "title": "Fan Hat|Apparatus",
+   "lines": [
+    "US 3,908,199",
+    "Filed 1974 \u00b7 Issued 1975"
+   ],
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 166.241,
+   "t1": 171.44,
+   "i": 27,
+   "segs": [
+    [
+     166.241,
+     167.905
+    ],
+    [
+     168.185,
+     168.868
+    ],
+    [
+     169.148,
+     171.089
+    ]
+   ],
+   "g": "fig",
+   "fig": "fan1",
+   "figno": "1",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 171.44,
+   "t1": 175.996,
+   "i": 28,
+   "segs": [
+    [
+     171.44,
+     173.488
+    ],
+    [
+     173.768,
+     175.645
+    ]
+   ],
+   "g": "quote",
+   "q": "Folding hand fans are well known.",
+   "hit": "well known",
+   "src": "US 3,908,199 \u00b7 background",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 175.996,
+   "t1": 185.203,
+   "i": 29,
+   "segs": [
+    [
+     175.996,
+     181.906
+    ],
+    [
+     182.186,
+     184.852
+    ]
+   ],
+   "g": "quote",
+   "q": "useful for holding in a hand and moving back and forth to propel air currents toward the face",
+   "hit": "toward the face",
+   "src": "US 3,908,199 \u00b7 background",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 185.203,
+   "t1": 187.794,
+   "i": 30,
+   "segs": [
+    [
+     185.203,
+     187.443
+    ]
+   ],
+   "g": "quote",
+   "q": "Use of the fans has been limited to propelling air and to decorations.",
+   "hit": "limited",
+   "src": "US 3,908,199 \u00b7 background",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975",
+   "hide": true
+  },
+  {
+   "t0": 187.794,
+   "t1": 192.853,
+   "i": 31,
+   "segs": [
+    [
+     187.794,
+     192.402
+    ]
+   ],
+   "g": "quote",
+   "q": "Use of the fans has been limited to propelling air and to decorations.",
+   "hit": "limited",
+   "src": "US 3,908,199 \u00b7 background",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975",
+   "typed": false
+  },
+  {
+   "t0": 192.853,
+   "t1": 195.594,
+   "i": 32,
+   "segs": [
+    [
+     192.853,
+     195.243
+    ]
+   ],
+   "g": "fig",
+   "fig": "fan2",
+   "figno": "2",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 195.594,
+   "t1": 203.481,
+   "i": 33,
+   "segs": [
+    [
+     195.594,
+     198.474
+    ],
+    [
+     198.754,
+     200.823
+    ],
+    [
+     201.103,
+     203.13
+    ]
+   ],
+   "g": "fig",
+   "fig": "fan3",
+   "figno": "3",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 203.481,
+   "t1": 208.994,
+   "i": 34,
+   "segs": [
+    [
+     203.481,
+     208.643
+    ]
+   ],
+   "g": "quote",
+   "q": "The present invention creates from a hand fan a unique readily collapsible hat.",
+   "hit": "collapsible hat",
+   "src": "US 3,908,199 \u00b7 summary",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 208.994,
+   "t1": 216.988,
+   "i": 35,
+   "segs": [
+    [
+     208.994,
+     210.637
+    ],
+    [
+     210.917,
+     214.821
+    ],
+    [
+     215.101,
+     216.637
+    ]
+   ],
+   "g": "fig",
+   "fig": "fan7",
+   "figno": "7",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 216.988,
+   "t1": 222.922,
+   "i": 36,
+   "segs": [
+    [
+     216.988,
+     222.471
+    ]
+   ],
+   "g": "quote",
+   "q": "Crown 72 of the hat is formed of adjacent flat ribs and is well vented.",
+   "hit": "well vented",
+   "src": "US 3,908,199 \u00b7 col. 4",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975"
+  },
+  {
+   "t0": 222.922,
+   "t1": 229.343,
+   "i": 37,
+   "segs": [
+    [
+     222.922,
+     224.244
+    ],
+    [
+     224.744,
+     226.216
+    ],
+    [
+     226.716,
+     228.892
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN HAT|APPARATUS",
+   "filed": "AUG. 22, 1974",
+   "date": "SEPT. 30, 1975",
+   "num": "US 3,908,199",
+   "hook": "A FAN YOU|CAN [WEAR]",
+   "side": "US 3,908,199 \u00b7 1975",
+   "at": 2.6
+  },
+  {
+   "t0": 229.343,
+   "t1": 231.702,
+   "i": 38,
+   "segs": [
+    [
+     229.343,
+     230.261
+    ],
+    [
+     230.541,
+     231.351
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 4 OF 8",
+   "numeral": "4",
+   "title": "Miniature|Hats",
+   "lines": [
+    "US 3,748,660",
+    "Filed 1971 \u00b7 Issued 1973"
+   ],
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973"
+  },
+  {
+   "t0": 231.702,
+   "t1": 234.656,
+   "i": 39,
+   "segs": [
+    [
+     231.702,
+     234.305
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank1",
+   "figno": "1",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973",
+   "calls": [
+    [
+     "HAT",
+     274,
+     116,
+     80,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 234.656,
+   "t1": 244.183,
+   "i": 40,
+   "segs": [
+    [
+     234.656,
+     236.363
+    ],
+    [
+     236.643,
+     243.832
+    ]
+   ],
+   "g": "quote",
+   "q": "certain restaurant chains sell or give away plastic hats for use by customers to provide a carnival atmosphere",
+   "hit": "carnival atmosphere",
+   "src": "US 3,748,660 \u00b7 summary",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973"
+  },
+  {
+   "t0": 244.183,
+   "t1": 251.275,
+   "i": 41,
+   "segs": [
+    [
+     244.183,
+     250.924
+    ]
+   ],
+   "g": "quote",
+   "q": "customers may collect a complete selection of hat styles by regularly patronizing a restaurant",
+   "hit": "regularly patronizing",
+   "src": "US 3,748,660 \u00b7 summary",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973"
+  },
+  {
+   "t0": 251.275,
+   "t1": 258.925,
+   "i": 42,
+   "segs": [
+    [
+     251.275,
+     255.094
+    ],
+    [
+     255.374,
+     258.574
+    ]
+   ],
+   "g": "quote",
+   "q": "I have found that such hats may serve the secondary purpose of a coin bank.",
+   "hit": "coin bank",
+   "src": "US 3,748,660 \u00b7 summary",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973",
+   "hide": true
+  },
+  {
+   "t0": 258.925,
+   "t1": 264.005,
+   "i": 43,
+   "segs": [
+    [
+     258.925,
+     263.554
+    ]
+   ],
+   "g": "quote",
+   "q": "I have found that such hats may serve the secondary purpose of a coin bank.",
+   "hit": "coin bank",
+   "src": "US 3,748,660 \u00b7 summary",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973",
+   "typed": false
+  },
+  {
+   "t0": 264.005,
+   "t1": 272.572,
+   "i": 44,
+   "segs": [
+    [
+     264.005,
+     266.885
+    ],
+    [
+     267.165,
+     272.221
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank4",
+   "figno": "4",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973",
+   "calls": [
+    [
+     "COIN SLOT",
+     225,
+     210,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 272.572,
+   "t1": 281.099,
+   "i": 45,
+   "segs": [
+    [
+     272.572,
+     276.924
+    ],
+    [
+     277.204,
+     279.295
+    ],
+    [
+     279.575,
+     280.748
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank7",
+   "figno": "7",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973",
+   "calls": [
+    [
+     "PLUG",
+     282,
+     180,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 281.099,
+   "t1": 287.832,
+   "i": 46,
+   "segs": [
+    [
+     281.099,
+     286.177
+    ],
+    [
+     286.457,
+     287.481
+    ]
+   ],
+   "g": "quote",
+   "q": "prevents the coins within the hat from being shaken or otherwise removed from the body of the hat",
+   "hit": "shaken",
+   "src": "US 3,748,660 \u00b7 col. 4",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973"
+  },
+  {
+   "t0": 287.832,
+   "t1": 291.065,
+   "i": 47,
+   "segs": [
+    [
+     287.832,
+     289.517
+    ],
+    [
+     289.797,
+     290.714
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank5",
+   "figno": "5",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973"
+  },
+  {
+   "t0": 291.065,
+   "t1": 293.827,
+   "i": 48,
+   "segs": [
+    [
+     291.065,
+     293.476
+    ]
+   ],
+   "g": "fig",
+   "fig": "bank9",
+   "figno": "9",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973"
+  },
+  {
+   "t0": 293.827,
+   "t1": 299.898,
+   "i": 49,
+   "segs": [
+    [
+     293.827,
+     296.771
+    ],
+    [
+     297.271,
+     299.447
+    ]
+   ],
+   "g": "stamp",
+   "title": "MINIATURE|HATS",
+   "filed": "MAR. 17, 1971",
+   "date": "JULY 31, 1973",
+   "num": "US 3,748,660",
+   "hook": "THE HAT|[PIGGY BANK]",
+   "side": "US 3,748,660 \u00b7 1973",
+   "at": 2.2
+  },
+  {
+   "t0": 299.898,
+   "t1": 302.172,
+   "i": 50,
+   "segs": [
+    [
+     299.898,
+     300.858
+    ],
+    [
+     301.138,
+     301.821
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 5 OF 8",
+   "numeral": "5",
+   "title": "Reversible Cap Used|as Navigational Aid",
+   "lines": [
+    "US 4,716,599",
+    "Filed 1981 \u00b7 Issued 1988"
+   ],
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988"
+  },
+  {
+   "t0": 302.172,
+   "t1": 307.155,
+   "i": 51,
+   "segs": [
+    [
+     302.172,
+     304.348
+    ],
+    [
+     304.628,
+     306.804
+    ]
+   ],
+   "g": "fig",
+   "fig": "nav3",
+   "figno": "3",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988"
+  },
+  {
+   "t0": 307.155,
+   "t1": 310.898,
+   "i": 52,
+   "segs": [
+    [
+     307.155,
+     310.547
+    ]
+   ],
+   "g": "quote",
+   "q": "Many helmsmen refer to the phrase \"red, right, return\"",
+   "hit": "red, right, return",
+   "src": "US 4,716,599 \u00b7 background",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988"
+  },
+  {
+   "t0": 310.898,
+   "t1": 312.955,
+   "i": 53,
+   "segs": [
+    [
+     310.898,
+     312.604
+    ]
+   ],
+   "g": "quote",
+   "q": "However, many persons who navigate private boats become confused and take buoys on the wrong side.",
+   "hit": "wrong side",
+   "src": "US 4,716,599 \u00b7 background",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988",
+   "hide": true
+  },
+  {
+   "t0": 312.955,
+   "t1": 319.849,
+   "i": 54,
+   "segs": [
+    [
+     312.955,
+     319.398
+    ]
+   ],
+   "g": "quote",
+   "q": "However, many persons who navigate private boats become confused and take buoys on the wrong side.",
+   "hit": "wrong side",
+   "src": "US 4,716,599 \u00b7 background",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988",
+   "typed": false
+  },
+  {
+   "t0": 319.849,
+   "t1": 327.155,
+   "i": 55,
+   "segs": [
+    [
+     319.849,
+     326.804
+    ]
+   ],
+   "g": "quote",
+   "q": "even an unexperienced helmsman",
+   "hit": "unexperienced",
+   "src": "US 4,716,599 \u00b7 background",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988"
+  },
+  {
+   "t0": 327.155,
+   "t1": 333.786,
+   "i": 56,
+   "segs": [
+    [
+     327.155,
+     328.392
+    ],
+    [
+     328.672,
+     329.867
+    ],
+    [
+     330.147,
+     332.024
+    ],
+    [
+     332.304,
+     333.435
+    ]
+   ],
+   "g": "fig",
+   "fig": "nav12",
+   "figno": "1 \u00b7 2",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988"
+  },
+  {
+   "t0": 333.786,
+   "t1": 342.462,
+   "i": 57,
+   "segs": [
+    [
+     333.786,
+     337.135
+    ],
+    [
+     337.415,
+     339.634
+    ],
+    [
+     339.914,
+     342.111
+    ]
+   ],
+   "g": "fig",
+   "fig": "nav12",
+   "figno": "1 \u00b7 2",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988",
+   "draw": false,
+   "calls": [
+    [
+     "LEAVING HARBOR",
+     281,
+     485,
+     -60,
+     90
+    ],
+    [
+     "RED RIGHT RETURNING",
+     845,
+     527,
+     -170,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 342.462,
+   "t1": 350.538,
+   "i": 58,
+   "segs": [
+    [
+     342.462,
+     346.537
+    ],
+    [
+     346.817,
+     350.187
+    ]
+   ],
+   "g": "quote",
+   "q": "through the upper lens portions of a pair of glasses worn by the wearer of the hat",
+   "hit": "upper lens portions",
+   "src": "US 4,716,599 \u00b7 col. 3",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988"
+  },
+  {
+   "t0": 350.538,
+   "t1": 357.716,
+   "i": 59,
+   "segs": [
+    [
+     350.538,
+     357.365
+    ]
+   ],
+   "g": "quote",
+   "q": "whether the helmsman of the boat has the hat properly positioned on his head",
+   "hit": "properly positioned",
+   "src": "US 4,716,599 \u00b7 objects",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988"
+  },
+  {
+   "t0": 357.716,
+   "t1": 364.086,
+   "i": 60,
+   "segs": [
+    [
+     357.716,
+     362.111
+    ],
+    [
+     362.611,
+     363.635
+    ]
+   ],
+   "g": "quote",
+   "q": "be of simple construction and substantially automatic in operation",
+   "hit": "substantially automatic",
+   "src": "US 4,716,599 \u00b7 objects",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988"
+  },
+  {
+   "t0": 364.086,
+   "t1": 368.941,
+   "i": 61,
+   "segs": [
+    [
+     364.086,
+     365.942
+    ],
+    [
+     366.442,
+     368.49
+    ]
+   ],
+   "g": "stamp",
+   "title": "REVERSIBLE CAP USED AS|NAVIGATIONAL AID",
+   "filed": "DEC. 28, 1981",
+   "date": "JAN. 5, 1988",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988",
+   "at": 2.6
+  },
+  {
+   "t0": 368.941,
+   "t1": 371.236,
+   "i": 62,
+   "segs": [
+    [
+     368.941,
+     369.837
+    ],
+    [
+     370.117,
+     370.885
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 6 OF 8",
+   "numeral": "6",
+   "title": "Candy Container Removably|Connected to a Child's Cap",
+   "lines": [
+    "US 3,813,016",
+    "Filed 1973 \u00b7 Issued 1974"
+   ],
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974"
+  },
+  {
+   "t0": 371.236,
+   "t1": 375.643,
+   "i": 63,
+   "segs": [
+    [
+     371.236,
+     373.028
+    ],
+    [
+     373.308,
+     375.292
+    ]
+   ],
+   "g": "quote",
+   "q": "Children like to eat jelly beans",
+   "hit": "jelly beans",
+   "src": "US 3,813,016 \u00b7 background",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974"
+  },
+  {
+   "t0": 375.643,
+   "t1": 382.268,
+   "i": 64,
+   "segs": [
+    [
+     375.643,
+     380.059
+    ],
+    [
+     380.339,
+     381.917
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974",
+   "calls": [
+    [
+     "JELLY BEAN",
+     342,
+     114,
+     90,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 382.268,
+   "t1": 389.513,
+   "i": 65,
+   "segs": [
+    [
+     382.268,
+     383.207
+    ],
+    [
+     383.487,
+     389.162
+    ]
+   ],
+   "g": "quote",
+   "q": "A child also likes to have his hands free and enjoys wearing ornaments of any kind.",
+   "hit": "ornaments of any kind",
+   "src": "US 3,813,016 \u00b7 background",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974"
+  },
+  {
+   "t0": 389.513,
+   "t1": 395.157,
+   "i": 66,
+   "segs": [
+    [
+     389.513,
+     391.625
+    ],
+    [
+     391.905,
+     394.806
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974",
+   "draw": false,
+   "calls": [
+    [
+     "JOINT",
+     346,
+     332,
+     -90,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 395.157,
+   "t1": 401.783,
+   "i": 67,
+   "segs": [
+    [
+     395.157,
+     397.674
+    ],
+    [
+     397.954,
+     401.432
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy2",
+   "figno": "2",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974",
+   "calls": [
+    [
+     "DRUM",
+     189,
+     208,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 401.783,
+   "t1": 407.448,
+   "i": 68,
+   "segs": [
+    [
+     401.783,
+     404.215
+    ],
+    [
+     404.495,
+     407.097
+    ]
+   ],
+   "g": "quote",
+   "q": "will prevent the container from becoming lost",
+   "hit": "becoming lost",
+   "src": "US 3,813,016 \u00b7 summary",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974"
+  },
+  {
+   "t0": 407.448,
+   "t1": 415.567,
+   "i": 69,
+   "segs": [
+    [
+     407.448,
+     409.432
+    ],
+    [
+     409.712,
+     415.216
+    ]
+   ],
+   "g": "fig",
+   "fig": "candy1",
+   "figno": "1",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974",
+   "draw": false,
+   "calls": [
+    [
+     "CORD",
+     858,
+     395,
+     60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 415.567,
+   "t1": 424.302,
+   "i": 70,
+   "segs": [
+    [
+     415.567,
+     423.951
+    ]
+   ],
+   "g": "quote",
+   "q": "may be shaped like a jelly bean so as to have the same shape as the container C, but on a much smaller scale",
+   "hit": "much smaller scale",
+   "src": "US 3,813,016 \u00b7 col. 3",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974"
+  },
+  {
+   "t0": 424.302,
+   "t1": 428.579,
+   "i": 71,
+   "segs": [
+    [
+     424.302,
+     428.228
+    ]
+   ],
+   "g": "quote",
+   "q": "The jelly bean shaped container C may have jelly beans therein if desired.",
+   "hit": "if desired",
+   "src": "US 3,813,016 \u00b7 operation",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974",
+   "hide": true
+  },
+  {
+   "t0": 428.579,
+   "t1": 434.394,
+   "i": 72,
+   "segs": [
+    [
+     428.579,
+     432.397
+    ],
+    [
+     432.897,
+     433.943
+    ]
+   ],
+   "g": "quote",
+   "q": "The jelly bean shaped container C may have jelly beans therein if desired.",
+   "hit": "if desired",
+   "src": "US 3,813,016 \u00b7 operation",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974",
+   "typed": false
+  },
+  {
+   "t0": 434.394,
+   "t1": 439.078,
+   "i": 73,
+   "segs": [
+    [
+     434.394,
+     435.994
+    ],
+    [
+     436.494,
+     438.627
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANDY CONTAINER REMOVABLY|CONNECTED TO A CHILD'S CAP",
+   "filed": "FEB. 9, 1973",
+   "date": "MAY 28, 1974",
+   "num": "US 3,813,016",
+   "hook": "JELLY BEANS|ON [TOP]",
+   "side": "US 3,813,016 \u00b7 1974",
+   "at": 1.8
+  },
+  {
+   "t0": 439.078,
+   "t1": 441.309,
+   "i": 74,
+   "segs": [
+    [
+     439.078,
+     439.995
+    ],
+    [
+     440.275,
+     440.958
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 7 OF 8",
+   "numeral": "7",
+   "title": "Container for|Mounting on Headgear",
+   "lines": [
+    "US 5,070,546",
+    "Filed 1990 \u00b7 Issued 1991"
+   ],
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991"
+  },
+  {
+   "t0": 441.309,
+   "t1": 447.124,
+   "i": 75,
+   "segs": [
+    [
+     441.309,
+     443.229
+    ],
+    [
+     443.509,
+     446.773
+    ]
+   ],
+   "g": "quote",
+   "q": "There are thousands of types of tackle boxes for fishing gear.",
+   "hit": "thousands",
+   "src": "US 5,070,546 \u00b7 related art",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991"
+  },
+  {
+   "t0": 447.124,
+   "t1": 455.966,
+   "i": 76,
+   "segs": [
+    [
+     447.124,
+     455.615
+    ]
+   ],
+   "g": "quote",
+   "q": "Every type of container from old cigar boxes to the most sophisticated space age construction has been used to store tackle.",
+   "hit": "space age",
+   "src": "US 5,070,546 \u00b7 related art",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991"
+  },
+  {
+   "t0": 455.966,
+   "t1": 464.727,
+   "i": 77,
+   "segs": [
+    [
+     455.966,
+     459.315
+    ],
+    [
+     459.595,
+     460.918
+    ],
+    [
+     461.198,
+     464.376
+    ]
+   ],
+   "g": "fig",
+   "fig": "tackle1",
+   "figno": "1",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991"
+  },
+  {
+   "t0": 464.727,
+   "t1": 471.63,
+   "i": 78,
+   "segs": [
+    [
+     464.727,
+     468.375
+    ],
+    [
+     468.655,
+     471.279
+    ]
+   ],
+   "g": "fig",
+   "fig": "tackle2",
+   "figno": "2",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991",
+   "calls": [
+    [
+     "BUTTON",
+     520,
+     160,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 471.63,
+   "t1": 477.424,
+   "i": 79,
+   "segs": [
+    [
+     471.63,
+     472.868
+    ],
+    [
+     473.148,
+     477.073
+    ]
+   ],
+   "g": "quote",
+   "q": "the person wearing the cap is going to move about, and look down",
+   "hit": "look down",
+   "src": "US 5,070,546 \u00b7 description",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991"
+  },
+  {
+   "t0": 477.424,
+   "t1": 488.106,
+   "i": 80,
+   "segs": [
+    [
+     477.424,
+     481.136
+    ],
+    [
+     481.416,
+     485.32
+    ],
+    [
+     485.6,
+     487.755
+    ]
+   ],
+   "g": "quote",
+   "q": "Boxes larger than that can be worn but they become unwieldy.",
+   "hit": "unwieldy",
+   "src": "US 5,070,546 \u00b7 description",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991"
+  },
+  {
+   "t0": 488.106,
+   "t1": 491.763,
+   "i": 81,
+   "segs": [
+    [
+     488.106,
+     491.412
+    ]
+   ],
+   "g": "quote",
+   "q": "the container may be larger than the head of the wearer and serve as a sun shade as well as storage container",
+   "hit": "larger than the head",
+   "src": "US 5,070,546 \u00b7 description",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991",
+   "hide": true
+  },
+  {
+   "t0": 491.763,
+   "t1": 499.276,
+   "i": 82,
+   "segs": [
+    [
+     491.763,
+     498.825
+    ]
+   ],
+   "g": "quote",
+   "q": "the container may be larger than the head of the wearer and serve as a sun shade as well as storage container",
+   "hit": "larger than the head",
+   "src": "US 5,070,546 \u00b7 description",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991",
+   "typed": false
+  },
+  {
+   "t0": 499.276,
+   "t1": 508.957,
+   "i": 83,
+   "segs": [
+    [
+     499.276,
+     500.854
+    ],
+    [
+     501.134,
+     503.566
+    ],
+    [
+     503.846,
+     505.425
+    ],
+    [
+     505.705,
+     508.606
+    ]
+   ],
+   "g": "fig",
+   "fig": "tackle5",
+   "figno": "5",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991",
+   "calls": [
+    [
+     "MINI CAP",
+     400,
+     80,
+     100,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 508.957,
+   "t1": 513.044,
+   "i": 84,
+   "segs": [
+    [
+     508.957,
+     510.152
+    ],
+    [
+     510.652,
+     512.593
+    ]
+   ],
+   "g": "stamp",
+   "title": "CONTAINER FOR MOUNTING|ON HEADGEAR",
+   "filed": "JUNE 12, 1990",
+   "date": "DEC. 10, 1991",
+   "num": "US 5,070,546",
+   "hook": "A TACKLE BOX|ON YOUR [HEAD]",
+   "side": "US 5,070,546 \u00b7 1991",
+   "at": 1.6
+  },
+  {
+   "t0": 513.044,
+   "t1": 515.51,
+   "i": 85,
+   "segs": [
+    [
+     513.044,
+     513.919
+    ],
+    [
+     514.199,
+     515.159
+    ]
+   ],
+   "g": "title",
+   "kicker": "PATENT No. 8 OF 8",
+   "numeral": "8",
+   "title": "Combination Cap|and Baseball Glove",
+   "lines": [
+    "US 4,628,543",
+    "Filed 1985 \u00b7 Issued 1986"
+   ],
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 515.51,
+   "t1": 522.242,
+   "i": 86,
+   "segs": [
+    [
+     515.51,
+     520.203
+    ],
+    [
+     520.483,
+     521.891
+    ]
+   ],
+   "g": "quote",
+   "q": "balls are hit into spectator seating areas",
+   "hit": "spectator seating",
+   "src": "US 4,628,543 \u00b7 history",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 522.242,
+   "t1": 523.937,
+   "i": 87,
+   "segs": [
+    [
+     522.242,
+     523.586
+    ]
+   ],
+   "g": "quote",
+   "q": "Unfortunately, the baseball glove is just another personal belonging which must be carried to and from the game",
+   "hit": "just another personal belonging",
+   "src": "US 4,628,543 \u00b7 history",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986",
+   "hide": true
+  },
+  {
+   "t0": 523.937,
+   "t1": 531.45,
+   "i": 88,
+   "segs": [
+    [
+     523.937,
+     530.999
+    ]
+   ],
+   "g": "quote",
+   "q": "Unfortunately, the baseball glove is just another personal belonging which must be carried to and from the game",
+   "hit": "just another personal belonging",
+   "src": "US 4,628,543 \u00b7 history",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986",
+   "typed": false
+  },
+  {
+   "t0": 531.45,
+   "t1": 537.027,
+   "i": 89,
+   "segs": [
+    [
+     531.45,
+     536.676
+    ]
+   ],
+   "g": "quote",
+   "q": "subject to theft or accidental misplacement if left unattended",
+   "hit": "accidental misplacement",
+   "src": "US 4,628,543 \u00b7 history",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 537.027,
+   "t1": 544.613,
+   "i": 90,
+   "segs": [
+    [
+     537.027,
+     538.926
+    ],
+    [
+     539.206,
+     544.262
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove1",
+   "figno": "1",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 544.613,
+   "t1": 553.439,
+   "i": 91,
+   "segs": [
+    [
+     544.613,
+     548.56
+    ],
+    [
+     548.84,
+     550.504
+    ],
+    [
+     550.784,
+     553.088
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove2",
+   "figno": "2",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986",
+   "calls": [
+    [
+     "HAND",
+     366,
+     240,
+     70,
+     -70
+    ],
+    [
+     "OPENING",
+     534,
+     258,
+     60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 553.439,
+   "t1": 561.28,
+   "i": 92,
+   "segs": [
+    [
+     553.439,
+     558.857
+    ],
+    [
+     559.137,
+     560.929
+    ]
+   ],
+   "g": "quote",
+   "q": "a person need only insert their hand through the opening formed in the back of the cap",
+   "hit": "insert their hand",
+   "src": "US 4,628,543 \u00b7 col. 4",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 561.28,
+   "t1": 565.666,
+   "i": 93,
+   "segs": [
+    [
+     561.28,
+     562.859
+    ],
+    [
+     563.139,
+     565.315
+    ]
+   ],
+   "g": "fig",
+   "fig": "glove3",
+   "figno": "3",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986",
+   "calls": [
+    [
+     "MITT",
+     264,
+     222,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 565.666,
+   "t1": 575.324,
+   "i": 94,
+   "segs": [
+    [
+     565.666,
+     567.799
+    ],
+    [
+     568.079,
+     569.487
+    ],
+    [
+     569.767,
+     574.973
+    ]
+   ],
+   "g": "quote",
+   "q": "is that the cap would not resemble a traditional or conventional cap",
+   "hit": "would not resemble",
+   "src": "US 4,628,543 \u00b7 col. 4",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 575.324,
+   "t1": 583.229,
+   "i": 95,
+   "segs": [
+    [
+     575.324,
+     577.265
+    ],
+    [
+     577.765,
+     582.778
+    ]
+   ],
+   "g": "quote",
+   "q": "for selective use as a cap for covering a person's head or a baseball glove",
+   "hit": "or a baseball glove",
+   "src": "US 4,628,543 \u00b7 claim 1",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986"
+  },
+  {
+   "t0": 583.229,
+   "t1": 587.615,
+   "i": 96,
+   "segs": [
+    [
+     583.229,
+     584.616
+    ],
+    [
+     585.116,
+     587.164
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINATION CAP AND|BASEBALL GLOVE",
+   "filed": "OCT. 25, 1985",
+   "date": "DEC. 16, 1986",
+   "num": "US 4,628,543",
+   "hook": "THE CAP IS|A [GLOVE]",
+   "side": "US 4,628,543 \u00b7 1986",
+   "at": 1.8
+  },
+  {
+   "t0": 587.615,
+   "t1": 590.257,
+   "i": 97,
+   "segs": [
+    [
+     587.615,
+     589.706
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS WEEK'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 006"
+  },
+  {
+   "t0": 590.257,
+   "t1": 601.533,
+   "i": 98,
+   "segs": [
+    [
+     590.257,
+     592.091
+    ],
+    [
+     592.371,
+     601.182
+    ]
+   ],
+   "g": "fig",
+   "fig": "nav12",
+   "figno": "1 \u00b7 2",
+   "num": "US 4,716,599",
+   "hook": "THE CAP THAT|[STEERS]",
+   "side": "US 4,716,599 \u00b7 1988",
+   "draw": false
+  },
+  {
+   "t0": 601.533,
+   "t1": 608.991,
+   "i": 99,
+   "segs": [
+    [
+     601.533,
+     604.861
+    ],
+    [
+     605.141,
+     608.64
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "4,080,665 \u00b7 1,532,310 \u00b7 3,908,199",
+    "3,748,660 \u00b7 4,716,599 \u00b7 3,813,016",
+    "5,070,546 \u00b7 4,628,543"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 006"
+  },
+  {
+   "t0": 608.991,
+   "t1": 615.91,
+   "i": 100,
+   "segs": [
+    [
+     608.991,
+     610.676
+    ],
+    [
+     610.956,
+     612.556
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 006"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.996,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.996,
+   "t1": 1.929,
+   "txt": "baseball cap."
+  },
+  {
+   "t0": 2.429,
+   "t1": 3.623,
+   "txt": "Look underneath."
+  },
+  {
+   "t0": 4.074,
+   "t1": 5.213,
+   "txt": "Stitched inside the"
+  },
+  {
+   "t0": 5.213,
+   "t1": 5.573,
+   "txt": "crown,"
+  },
+  {
+   "t0": 5.573,
+   "t1": 6.293,
+   "txt": "in the shape"
+  },
+  {
+   "t0": 6.293,
+   "t1": 6.892,
+   "txt": "of a hand,"
+  },
+  {
+   "t0": 6.892,
+   "t1": 7.552,
+   "txt": "is a glove."
+  },
+  {
+   "t0": 7.903,
+   "t1": 9.012,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 9.513,
+   "t1": 10.985,
+   "txt": "Somebody invented it."
+  },
+  {
+   "t0": 11.265,
+   "t1": 12.396,
+   "txt": "Somebody filed it."
+  },
+  {
+   "t0": 12.676,
+   "t1": 13.488,
+   "txt": "And the United"
+  },
+  {
+   "t0": 13.488,
+   "t1": 14.649,
+   "txt": "States Patent Office"
+  },
+  {
+   "t0": 14.649,
+   "t1": 15.172,
+   "txt": "said yes."
+  },
+  {
+   "t0": 15.452,
+   "t1": 15.826,
+   "txt": "Today,"
+  },
+  {
+   "t0": 15.826,
+   "t1": 16.948,
+   "txt": "eight real patents"
+  },
+  {
+   "t0": 16.948,
+   "t1": 17.759,
+   "txt": "for hats that"
+  },
+  {
+   "t0": 17.759,
+   "t1": 18.383,
+   "txt": "do way too"
+  },
+  {
+   "t0": 18.383,
+   "t1": 18.694,
+   "txt": "much."
+  },
+  {
+   "t0": 18.974,
+   "t1": 19.429,
+   "txt": "A hat is"
+  },
+  {
+   "t0": 19.429,
+   "t1": 20.283,
+   "txt": "supposed to sit"
+  },
+  {
+   "t0": 20.283,
+   "t1": 21.022,
+   "txt": "on your head."
+  },
+  {
+   "t0": 21.302,
+   "t1": 22.156,
+   "txt": "These ones have"
+  },
+  {
+   "t0": 22.156,
+   "t1": 22.838,
+   "txt": "other plans."
+  },
+  {
+   "t0": 23.189,
+   "t1": 24.021,
+   "txt": "Number one."
+  },
+  {
+   "t0": 24.301,
+   "t1": 25.325,
+   "txt": "The tennis court."
+  },
+  {
+   "t0": 25.676,
+   "t1": 26.197,
+   "txt": "This is a"
+  },
+  {
+   "t0": 26.197,
+   "t1": 27.124,
+   "txt": "tennis racket in"
+  },
+  {
+   "t0": 27.124,
+   "t1": 27.703,
+   "txt": "its cover."
+  },
+  {
+   "t0": 27.983,
+   "t1": 29.37,
+   "txt": "Nothing unusual."
+  },
+  {
+   "t0": 29.65,
+   "t1": 30.162,
+   "txt": "Yet."
+  },
+  {
+   "t0": 30.513,
+   "t1": 31.47,
+   "txt": "The patent starts"
+  },
+  {
+   "t0": 31.47,
+   "t1": 32.54,
+   "txt": "with what everybody"
+  },
+  {
+   "t0": 32.54,
+   "t1": 33.329,
+   "txt": "already knows."
+  },
+  {
+   "t0": 33.609,
+   "t1": 34.667,
+   "txt": "Various types of"
+  },
+  {
+   "t0": 34.667,
+   "t1": 35.528,
+   "txt": "caps and hats"
+  },
+  {
+   "t0": 35.528,
+   "t1": 35.792,
+   "txt": "are,"
+  },
+  {
+   "t0": 35.792,
+   "t1": 36.454,
+   "txt": "of course,"
+  },
+  {
+   "t0": 36.454,
+   "t1": 37.513,
+   "txt": "also well known."
+  },
+  {
+   "t0": 37.864,
+   "t1": 38.837,
+   "txt": "But putting the"
+  },
+  {
+   "t0": 38.837,
+   "t1": 39.681,
+   "txt": "two together,"
+  },
+  {
+   "t0": 39.681,
+   "t1": 40.2,
+   "txt": "it says,"
+  },
+  {
+   "t0": 40.2,
+   "t1": 41.239,
+   "txt": "is considered to"
+  },
+  {
+   "t0": 41.239,
+   "t1": 42.472,
+   "txt": "be entirely unique."
+  },
+  {
+   "t0": 42.923,
+   "t1": 43.84,
+   "txt": "Here is how."
+  },
+  {
+   "t0": 44.12,
+   "t1": 45.046,
+   "txt": "The cover comes"
+  },
+  {
+   "t0": 45.046,
+   "t1": 45.848,
+   "txt": "in two parts."
+  },
+  {
+   "t0": 46.128,
+   "t1": 47.006,
+   "txt": "Unzip one side"
+  },
+  {
+   "t0": 47.006,
+   "t1": 47.821,
+   "txt": "of the cover,"
+  },
+  {
+   "t0": 47.821,
+   "t1": 48.636,
+   "txt": "and that side"
+  },
+  {
+   "t0": 48.636,
+   "t1": 49.2,
+   "txt": "is a cap."
+  },
+  {
+   "t0": 49.551,
+   "t1": 50.324,
+   "txt": "The bill zips"
+  },
+  {
+   "t0": 50.324,
+   "t1": 51.215,
+   "txt": "onto the cover."
+  },
+  {
+   "t0": 51.495,
+   "t1": 52.268,
+   "txt": "The crown is"
+  },
+  {
+   "t0": 52.268,
+   "t1": 52.912,
+   "txt": "crushable,"
+  },
+  {
+   "t0": 52.912,
+   "t1": 53.62,
+   "txt": "so it folds"
+  },
+  {
+   "t0": 53.62,
+   "t1": 54.458,
+   "txt": "flat over the"
+  },
+  {
+   "t0": 54.458,
+   "t1": 54.908,
+   "txt": "racket."
+  },
+  {
+   "t0": 55.259,
+   "t1": 55.878,
+   "txt": "Take it off,"
+  },
+  {
+   "t0": 55.878,
+   "t1": 56.445,
+   "txt": "and it goes"
+  },
+  {
+   "t0": 56.445,
+   "t1": 57.115,
+   "txt": "on your head."
+  },
+  {
+   "t0": 57.395,
+   "t1": 58.471,
+   "txt": "Snap fasteners in"
+  },
+  {
+   "t0": 58.471,
+   "t1": 59.484,
+   "txt": "the back provide"
+  },
+  {
+   "t0": 59.484,
+   "t1": 60.56,
+   "txt": "an adjustment for"
+  },
+  {
+   "t0": 60.56,
+   "t1": 61.193,
+   "txt": "head size."
+  },
+  {
+   "t0": 61.544,
+   "t1": 62.518,
+   "txt": "In the patent's"
+  },
+  {
+   "t0": 62.518,
+   "t1": 62.908,
+   "txt": "words,"
+  },
+  {
+   "t0": 62.908,
+   "t1": 63.753,
+   "txt": "the user need"
+  },
+  {
+   "t0": 63.753,
+   "t1": 64.597,
+   "txt": "only detach a"
+  },
+  {
+   "t0": 64.597,
+   "t1": 65.312,
+   "txt": "part of the"
+  },
+  {
+   "t0": 65.312,
+   "t1": 66.546,
+   "txt": "tennis racket cover"
+  },
+  {
+   "t0": 66.546,
+   "t1": 67.196,
+   "txt": "from it to"
+  },
+  {
+   "t0": 67.196,
+   "t1": 68.236,
+   "txt": "be provided with"
+  },
+  {
+   "t0": 68.236,
+   "t1": 68.755,
+   "txt": "a hat or"
+  },
+  {
+   "t0": 68.755,
+   "t1": 69.795,
+   "txt": "cap suitable for"
+  },
+  {
+   "t0": 69.795,
+   "t1": 70.12,
+   "txt": "play."
+  },
+  {
+   "t0": 70.471,
+   "t1": 71.277,
+   "txt": "There is also"
+  },
+  {
+   "t0": 71.277,
+   "t1": 72.145,
+   "txt": "a hat version,"
+  },
+  {
+   "t0": 72.145,
+   "t1": 72.827,
+   "txt": "with a full"
+  },
+  {
+   "t0": 72.827,
+   "t1": 73.137,
+   "txt": "brim."
+  },
+  {
+   "t0": 73.417,
+   "t1": 74.236,
+   "txt": "A draw string"
+  },
+  {
+   "t0": 74.236,
+   "t1": 75.433,
+   "txt": "collapses the crown"
+  },
+  {
+   "t0": 75.433,
+   "t1": 76.0,
+   "txt": "to a flat"
+  },
+  {
+   "t0": 76.0,
+   "t1": 76.63,
+   "txt": "condition,"
+  },
+  {
+   "t0": 76.63,
+   "t1": 77.386,
+   "txt": "and the brim"
+  },
+  {
+   "t0": 77.386,
+   "t1": 78.331,
+   "txt": "zips around the"
+  },
+  {
+   "t0": 78.331,
+   "t1": 78.772,
+   "txt": "racket."
+  },
+  {
+   "t0": 79.123,
+   "t1": 80.254,
+   "txt": "One more detail."
+  },
+  {
+   "t0": 80.534,
+   "t1": 81.018,
+   "txt": "A flap of"
+  },
+  {
+   "t0": 81.018,
+   "t1": 81.88,
+   "txt": "fabric keeps the"
+  },
+  {
+   "t0": 81.88,
+   "t1": 82.58,
+   "txt": "cap away from"
+  },
+  {
+   "t0": 82.58,
+   "t1": 83.333,
+   "txt": "the springs of"
+  },
+  {
+   "t0": 83.333,
+   "t1": 83.926,
+   "txt": "the racket."
+  },
+  {
+   "t0": 84.277,
+   "t1": 84.983,
+   "txt": "When the cap"
+  },
+  {
+   "t0": 84.983,
+   "t1": 85.69,
+   "txt": "may be moist"
+  },
+  {
+   "t0": 85.69,
+   "t1": 86.456,
+   "txt": "with sweat or"
+  },
+  {
+   "t0": 86.456,
+   "t1": 86.986,
+   "txt": "the like."
+  },
+  {
+   "t0": 87.437,
+   "t1": 88.205,
+   "txt": "So after the"
+  },
+  {
+   "t0": 88.205,
+   "t1": 88.589,
+   "txt": "match,"
+  },
+  {
+   "t0": 88.589,
+   "t1": 89.485,
+   "txt": "the sweaty cap"
+  },
+  {
+   "t0": 89.485,
+   "t1": 90.253,
+   "txt": "goes back on"
+  },
+  {
+   "t0": 90.253,
+   "t1": 90.957,
+   "txt": "the racket."
+  },
+  {
+   "t0": 91.457,
+   "t1": 92.009,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 92.009,
+   "t1": 93.42,
+   "txt": "nineteen seventy-eight."
+  },
+  {
+   "t0": 93.871,
+   "t1": 94.745,
+   "txt": "Number two."
+  },
+  {
+   "t0": 95.025,
+   "t1": 95.708,
+   "txt": "The weather."
+  },
+  {
+   "t0": 96.059,
+   "t1": 96.58,
+   "txt": "This is a"
+  },
+  {
+   "t0": 96.58,
+   "t1": 97.447,
+   "txt": "lady's hat from"
+  },
+  {
+   "t0": 97.447,
+   "t1": 98.662,
+   "txt": "nineteen twenty-five."
+  },
+  {
+   "t0": 98.942,
+   "t1": 99.626,
+   "txt": "Its brim is"
+  },
+  {
+   "t0": 99.626,
+   "t1": 100.435,
+   "txt": "not finished."
+  },
+  {
+   "t0": 100.715,
+   "t1": 101.739,
+   "txt": "It keeps going."
+  },
+  {
+   "t0": 102.09,
+   "t1": 102.718,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 102.718,
+   "t1": 103.765,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 103.765,
+   "t1": 104.183,
+   "txt": "words:"
+  },
+  {
+   "t0": 104.183,
+   "t1": 104.951,
+   "txt": "a hat which"
+  },
+  {
+   "t0": 104.951,
+   "t1": 106.207,
+   "txt": "can be transformed"
+  },
+  {
+   "t0": 106.207,
+   "t1": 107.324,
+   "txt": "into an umbrella"
+  },
+  {
+   "t0": 107.324,
+   "t1": 108.231,
+   "txt": "or parasol by"
+  },
+  {
+   "t0": 108.231,
+   "t1": 109.557,
+   "txt": "unfolding the same."
+  },
+  {
+   "t0": 109.908,
+   "t1": 110.792,
+   "txt": "Inside the hat"
+  },
+  {
+   "t0": 110.792,
+   "t1": 111.486,
+   "txt": "is a frame."
+  },
+  {
+   "t0": 111.766,
+   "t1": 112.101,
+   "txt": "Rods,"
+  },
+  {
+   "t0": 112.101,
+   "t1": 112.97,
+   "txt": "hinged in two"
+  },
+  {
+   "t0": 112.97,
+   "t1": 113.371,
+   "txt": "parts,"
+  },
+  {
+   "t0": 113.371,
+   "t1": 114.241,
+   "txt": "like the ribs"
+  },
+  {
+   "t0": 114.241,
+   "t1": 115.244,
+   "txt": "of an umbrella."
+  },
+  {
+   "t0": 115.524,
+   "t1": 116.274,
+   "txt": "And this frame"
+  },
+  {
+   "t0": 116.274,
+   "t1": 117.078,
+   "txt": "is covered like"
+  },
+  {
+   "t0": 117.078,
+   "t1": 117.721,
+   "txt": "an umbrella."
+  },
+  {
+   "t0": 118.072,
+   "t1": 119.302,
+   "txt": "If opened entirely"
+  },
+  {
+   "t0": 119.302,
+   "t1": 120.122,
+   "txt": "or even only"
+  },
+  {
+   "t0": 120.122,
+   "t1": 121.283,
+   "txt": "halfway outwards,"
+  },
+  {
+   "t0": 121.283,
+   "t1": 122.376,
+   "txt": "the hat protects"
+  },
+  {
+   "t0": 122.376,
+   "t1": 123.196,
+   "txt": "from rain or"
+  },
+  {
+   "t0": 123.196,
+   "t1": 123.811,
+   "txt": "sunshine."
+  },
+  {
+   "t0": 124.162,
+   "t1": 125.031,
+   "txt": "The idea is"
+  },
+  {
+   "t0": 125.031,
+   "t1": 125.506,
+   "txt": "speed."
+  },
+  {
+   "t0": 125.786,
+   "t1": 126.828,
+   "txt": "This enables the"
+  },
+  {
+   "t0": 126.828,
+   "t1": 127.61,
+   "txt": "device to be"
+  },
+  {
+   "t0": 127.61,
+   "t1": 128.457,
+   "txt": "ready for use"
+  },
+  {
+   "t0": 128.457,
+   "t1": 129.304,
+   "txt": "at any moment"
+  },
+  {
+   "t0": 129.304,
+   "t1": 130.607,
+   "txt": "and instantaneously."
+  },
+  {
+   "t0": 130.958,
+   "t1": 131.923,
+   "txt": "Fold it entirely"
+  },
+  {
+   "t0": 131.923,
+   "t1": 132.467,
+   "txt": "together,"
+  },
+  {
+   "t0": 132.467,
+   "t1": 133.311,
+   "txt": "and the patent"
+  },
+  {
+   "t0": 133.311,
+   "t1": 134.035,
+   "txt": "says you get"
+  },
+  {
+   "t0": 134.035,
+   "t1": 134.699,
+   "txt": "the form of"
+  },
+  {
+   "t0": 134.699,
+   "t1": 135.182,
+   "txt": "a toque."
+  },
+  {
+   "t0": 135.462,
+   "t1": 136.186,
+   "txt": "Fold in only"
+  },
+  {
+   "t0": 136.186,
+   "t1": 137.09,
+   "txt": "a few segments,"
+  },
+  {
+   "t0": 137.09,
+   "t1": 137.754,
+   "txt": "and you get"
+  },
+  {
+   "t0": 137.754,
+   "t1": 138.598,
+   "txt": "another shape."
+  },
+  {
+   "t0": 138.878,
+   "t1": 139.651,
+   "txt": "Stand all the"
+  },
+  {
+   "t0": 139.651,
+   "t1": 140.661,
+   "txt": "rods straight up,"
+  },
+  {
+   "t0": 140.661,
+   "t1": 141.315,
+   "txt": "and you get"
+  },
+  {
+   "t0": 141.315,
+   "t1": 142.265,
+   "txt": "a pointed shape,"
+  },
+  {
+   "t0": 142.265,
+   "t1": 143.038,
+   "txt": "for instance."
+  },
+  {
+   "t0": 143.389,
+   "t1": 144.391,
+   "txt": "And unlike other"
+  },
+  {
+   "t0": 144.391,
+   "t1": 145.267,
+   "txt": "umbrella hats,"
+  },
+  {
+   "t0": 145.267,
+   "t1": 146.143,
+   "txt": "this one never"
+  },
+  {
+   "t0": 146.143,
+   "t1": 146.957,
+   "txt": "stops being a"
+  },
+  {
+   "t0": 146.957,
+   "t1": 147.208,
+   "txt": "hat."
+  },
+  {
+   "t0": 147.559,
+   "t1": 148.593,
+   "txt": "It enables the"
+  },
+  {
+   "t0": 148.593,
+   "t1": 149.702,
+   "txt": "hat to maintain"
+  },
+  {
+   "t0": 149.702,
+   "t1": 150.884,
+   "txt": "its character of"
+  },
+  {
+   "t0": 150.884,
+   "t1": 151.623,
+   "txt": "a hat even"
+  },
+  {
+   "t0": 151.623,
+   "t1": 153.249,
+   "txt": "in unfolded condition,"
+  },
+  {
+   "t0": 153.249,
+   "t1": 154.062,
+   "txt": "and to keep"
+  },
+  {
+   "t0": 154.062,
+   "t1": 154.949,
+   "txt": "a surer hold"
+  },
+  {
+   "t0": 154.949,
+   "t1": 155.836,
+   "txt": "on the head."
+  },
+  {
+   "t0": 156.287,
+   "t1": 157.571,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 157.571,
+   "t1": 158.1,
+   "txt": "twenty."
+  },
+  {
+   "t0": 158.6,
+   "t1": 159.809,
+   "txt": "Approved almost four"
+  },
+  {
+   "t0": 159.809,
+   "t1": 160.414,
+   "txt": "and a half"
+  },
+  {
+   "t0": 160.414,
+   "t1": 161.139,
+   "txt": "years later."
+  },
+  {
+   "t0": 161.639,
+   "t1": 162.543,
+   "txt": "Ready for use"
+  },
+  {
+   "t0": 162.543,
+   "t1": 163.516,
+   "txt": "at any moment."
+  },
+  {
+   "t0": 163.967,
+   "t1": 164.885,
+   "txt": "Number three."
+  },
+  {
+   "t0": 165.165,
+   "t1": 165.89,
+   "txt": "The heat."
+  },
+  {
+   "t0": 166.241,
+   "t1": 166.817,
+   "txt": "This is a"
+  },
+  {
+   "t0": 166.817,
+   "t1": 167.905,
+   "txt": "folding hand fan."
+  },
+  {
+   "t0": 168.185,
+   "t1": 168.868,
+   "txt": "Closed."
+  },
+  {
+   "t0": 169.148,
+   "t1": 169.869,
+   "txt": "The ribs have"
+  },
+  {
+   "t0": 169.869,
+   "t1": 170.645,
+   "txt": "a strange bend"
+  },
+  {
+   "t0": 170.645,
+   "t1": 171.089,
+   "txt": "in them."
+  },
+  {
+   "t0": 171.44,
+   "t1": 172.35,
+   "txt": "The patent opens"
+  },
+  {
+   "t0": 172.35,
+   "t1": 173.033,
+   "txt": "with a short"
+  },
+  {
+   "t0": 173.033,
+   "t1": 173.488,
+   "txt": "history."
+  },
+  {
+   "t0": 173.768,
+   "t1": 174.765,
+   "txt": "Folding hand fans"
+  },
+  {
+   "t0": 174.765,
+   "t1": 175.645,
+   "txt": "are well known."
+  },
+  {
+   "t0": 175.996,
+   "t1": 176.91,
+   "txt": "They are useful"
+  },
+  {
+   "t0": 176.91,
+   "t1": 177.763,
+   "txt": "for holding in"
+  },
+  {
+   "t0": 177.763,
+   "t1": 178.372,
+   "txt": "a hand and"
+  },
+  {
+   "t0": 178.372,
+   "t1": 179.286,
+   "txt": "moving back and"
+  },
+  {
+   "t0": 179.286,
+   "t1": 180.2,
+   "txt": "forth to propel"
+  },
+  {
+   "t0": 180.2,
+   "t1": 181.357,
+   "txt": "air currents toward"
+  },
+  {
+   "t0": 181.357,
+   "t1": 181.906,
+   "txt": "the face."
+  },
+  {
+   "t0": 182.186,
+   "t1": 183.312,
+   "txt": "Usually the folding"
+  },
+  {
+   "t0": 183.312,
+   "t1": 184.2,
+   "txt": "fans are highly"
+  },
+  {
+   "t0": 184.2,
+   "t1": 184.852,
+   "txt": "decorative."
+  },
+  {
+   "t0": 185.203,
+   "t1": 185.928,
+   "txt": "And then it"
+  },
+  {
+   "t0": 185.928,
+   "t1": 187.443,
+   "txt": "identifies the problem."
+  },
+  {
+   "t0": 187.794,
+   "t1": 188.493,
+   "txt": "Use of the"
+  },
+  {
+   "t0": 188.493,
+   "t1": 189.4,
+   "txt": "fans has been"
+  },
+  {
+   "t0": 189.4,
+   "t1": 190.866,
+   "txt": "limited to propelling"
+  },
+  {
+   "t0": 190.866,
+   "t1": 191.565,
+   "txt": "air and to"
+  },
+  {
+   "t0": 191.565,
+   "t1": 192.402,
+   "txt": "decorations."
+  },
+  {
+   "t0": 192.853,
+   "t1": 193.887,
+   "txt": "Open it partway,"
+  },
+  {
+   "t0": 193.887,
+   "t1": 194.661,
+   "txt": "and it works"
+  },
+  {
+   "t0": 194.661,
+   "t1": 195.243,
+   "txt": "as a fan."
+  },
+  {
+   "t0": 195.594,
+   "t1": 196.39,
+   "txt": "Keep opening,"
+  },
+  {
+   "t0": 196.39,
+   "t1": 197.064,
+   "txt": "all the way"
+  },
+  {
+   "t0": 197.064,
+   "t1": 197.738,
+   "txt": "around in a"
+  },
+  {
+   "t0": 197.738,
+   "t1": 198.474,
+   "txt": "full circle."
+  },
+  {
+   "t0": 198.754,
+   "t1": 199.569,
+   "txt": "Snap the last"
+  },
+  {
+   "t0": 199.569,
+   "t1": 200.196,
+   "txt": "rib to the"
+  },
+  {
+   "t0": 200.196,
+   "t1": 200.823,
+   "txt": "first one."
+  },
+  {
+   "t0": 201.103,
+   "t1": 202.057,
+   "txt": "The bends become"
+  },
+  {
+   "t0": 202.057,
+   "t1": 202.712,
+   "txt": "a crown and"
+  },
+  {
+   "t0": 202.712,
+   "t1": 203.13,
+   "txt": "a brim."
+  },
+  {
+   "t0": 203.481,
+   "t1": 204.926,
+   "txt": "The present invention"
+  },
+  {
+   "t0": 204.926,
+   "t1": 205.89,
+   "txt": "creates from a"
+  },
+  {
+   "t0": 205.89,
+   "t1": 206.578,
+   "txt": "hand fan a"
+  },
+  {
+   "t0": 206.578,
+   "t1": 208.368,
+   "txt": "unique readily collapsible"
+  },
+  {
+   "t0": 208.368,
+   "t1": 208.643,
+   "txt": "hat."
+  },
+  {
+   "t0": 208.994,
+   "t1": 209.785,
+   "txt": "There is also"
+  },
+  {
+   "t0": 209.785,
+   "t1": 210.637,
+   "txt": "a sport model."
+  },
+  {
+   "t0": 210.917,
+   "t1": 211.862,
+   "txt": "The middle ribs"
+  },
+  {
+   "t0": 211.862,
+   "t1": 212.554,
+   "txt": "are longer,"
+  },
+  {
+   "t0": 212.554,
+   "t1": 213.876,
+   "txt": "producing a beak-like"
+  },
+  {
+   "t0": 213.876,
+   "t1": 214.821,
+   "txt": "sport hat brim."
+  },
+  {
+   "t0": 215.101,
+   "t1": 215.869,
+   "txt": "A sport cap,"
+  },
+  {
+   "t0": 215.869,
+   "t1": 216.637,
+   "txt": "made of fan."
+  },
+  {
+   "t0": 216.988,
+   "t1": 217.924,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 217.924,
+   "t1": 218.86,
+   "txt": "notes that the"
+  },
+  {
+   "t0": 218.86,
+   "t1": 219.863,
+   "txt": "crown is formed"
+  },
+  {
+   "t0": 219.863,
+   "t1": 220.933,
+   "txt": "of adjacent flat"
+  },
+  {
+   "t0": 220.933,
+   "t1": 221.668,
+   "txt": "ribs and is"
+  },
+  {
+   "t0": 221.668,
+   "t1": 222.471,
+   "txt": "well vented."
+  },
+  {
+   "t0": 222.922,
+   "t1": 223.966,
+   "txt": "Fan when you're"
+  },
+  {
+   "t0": 223.966,
+   "t1": 224.244,
+   "txt": "hot."
+  },
+  {
+   "t0": 224.744,
+   "t1": 225.664,
+   "txt": "Hat when you're"
+  },
+  {
+   "t0": 225.664,
+   "t1": 226.216,
+   "txt": "also hot."
+  },
+  {
+   "t0": 226.716,
+   "t1": 227.348,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 227.348,
+   "t1": 228.892,
+   "txt": "nineteen seventy-five."
+  },
+  {
+   "t0": 229.343,
+   "t1": 230.261,
+   "txt": "Number four."
+  },
+  {
+   "t0": 230.541,
+   "t1": 231.351,
+   "txt": "The party."
+  },
+  {
+   "t0": 231.702,
+   "t1": 232.26,
+   "txt": "This is a"
+  },
+  {
+   "t0": 232.26,
+   "t1": 233.066,
+   "txt": "man wearing a"
+  },
+  {
+   "t0": 233.066,
+   "t1": 234.057,
+   "txt": "very small derby"
+  },
+  {
+   "t0": 234.057,
+   "t1": 234.305,
+   "txt": "hat."
+  },
+  {
+   "t0": 234.656,
+   "t1": 235.669,
+   "txt": "The patent explains"
+  },
+  {
+   "t0": 235.669,
+   "t1": 236.363,
+   "txt": "the business."
+  },
+  {
+   "t0": 236.643,
+   "t1": 238.338,
+   "txt": "Certain restaurant chains"
+  },
+  {
+   "t0": 238.338,
+   "t1": 239.152,
+   "txt": "sell or give"
+  },
+  {
+   "t0": 239.152,
+   "t1": 240.305,
+   "txt": "away plastic hats"
+  },
+  {
+   "t0": 240.305,
+   "t1": 240.983,
+   "txt": "for use by"
+  },
+  {
+   "t0": 240.983,
+   "t1": 242.34,
+   "txt": "customers to provide"
+  },
+  {
+   "t0": 242.34,
+   "t1": 243.832,
+   "txt": "a carnival atmosphere."
+  },
+  {
+   "t0": 244.183,
+   "t1": 244.876,
+   "txt": "The plan is"
+  },
+  {
+   "t0": 244.876,
+   "t1": 246.01,
+   "txt": "that customers may"
+  },
+  {
+   "t0": 246.01,
+   "t1": 247.144,
+   "txt": "collect a complete"
+  },
+  {
+   "t0": 247.144,
+   "t1": 248.152,
+   "txt": "selection of hat"
+  },
+  {
+   "t0": 248.152,
+   "t1": 249.349,
+   "txt": "styles by regularly"
+  },
+  {
+   "t0": 249.349,
+   "t1": 250.924,
+   "txt": "patronizing a restaurant."
+  },
+  {
+   "t0": 251.275,
+   "t1": 251.839,
+   "txt": "But a hat"
+  },
+  {
+   "t0": 251.839,
+   "t1": 252.715,
+   "txt": "that is merely"
+  },
+  {
+   "t0": 252.715,
+   "t1": 254.155,
+   "txt": "for decorative purposes"
+  },
+  {
+   "t0": 254.155,
+   "t1": 255.094,
+   "txt": "was not enough."
+  },
+  {
+   "t0": 255.374,
+   "t1": 256.027,
+   "txt": "It is also"
+  },
+  {
+   "t0": 256.027,
+   "t1": 257.268,
+   "txt": "desirable that they"
+  },
+  {
+   "t0": 257.268,
+   "t1": 258.313,
+   "txt": "have a secondary"
+  },
+  {
+   "t0": 258.313,
+   "t1": 258.574,
+   "txt": "use."
+  },
+  {
+   "t0": 258.925,
+   "t1": 259.707,
+   "txt": "I have found"
+  },
+  {
+   "t0": 259.707,
+   "t1": 260.62,
+   "txt": "that such hats"
+  },
+  {
+   "t0": 260.62,
+   "t1": 261.468,
+   "txt": "may serve the"
+  },
+  {
+   "t0": 261.468,
+   "t1": 262.772,
+   "txt": "secondary purpose of"
+  },
+  {
+   "t0": 262.772,
+   "t1": 263.554,
+   "txt": "a coin bank."
+  },
+  {
+   "t0": 264.005,
+   "t1": 264.987,
+   "txt": "Inside the hat,"
+  },
+  {
+   "t0": 264.987,
+   "t1": 266.1,
+   "txt": "a paperboard plug"
+  },
+  {
+   "t0": 266.1,
+   "t1": 266.885,
+   "txt": "with a slot."
+  },
+  {
+   "t0": 267.165,
+   "t1": 267.861,
+   "txt": "The slot is"
+  },
+  {
+   "t0": 267.861,
+   "t1": 269.251,
+   "txt": "preferably long enough"
+  },
+  {
+   "t0": 269.251,
+   "t1": 270.262,
+   "txt": "to accommodate a"
+  },
+  {
+   "t0": 270.262,
+   "t1": 271.084,
+   "txt": "coin of fifty"
+  },
+  {
+   "t0": 271.084,
+   "t1": 272.221,
+   "txt": "cent denomination."
+  },
+  {
+   "t0": 272.572,
+   "t1": 273.505,
+   "txt": "The rubber band"
+  },
+  {
+   "t0": 273.505,
+   "t1": 274.375,
+   "txt": "that holds the"
+  },
+  {
+   "t0": 274.375,
+   "t1": 275.059,
+   "txt": "hat on your"
+  },
+  {
+   "t0": 275.059,
+   "t1": 275.93,
+   "txt": "head also runs"
+  },
+  {
+   "t0": 275.93,
+   "t1": 276.924,
+   "txt": "across the slot."
+  },
+  {
+   "t0": 277.204,
+   "t1": 277.901,
+   "txt": "Push a coin"
+  },
+  {
+   "t0": 277.901,
+   "t1": 278.091,
+   "txt": "in,"
+  },
+  {
+   "t0": 278.091,
+   "t1": 278.852,
+   "txt": "and the band"
+  },
+  {
+   "t0": 278.852,
+   "t1": 279.295,
+   "txt": "flexes."
+  },
+  {
+   "t0": 279.575,
+   "t1": 280.422,
+   "txt": "Then it snaps"
+  },
+  {
+   "t0": 280.422,
+   "t1": 280.748,
+   "txt": "back."
+  },
+  {
+   "t0": 281.099,
+   "t1": 281.852,
+   "txt": "So the coins"
+  },
+  {
+   "t0": 281.852,
+   "t1": 282.666,
+   "txt": "are kept from"
+  },
+  {
+   "t0": 282.666,
+   "t1": 283.607,
+   "txt": "being shaken or"
+  },
+  {
+   "t0": 283.607,
+   "t1": 284.986,
+   "txt": "otherwise removed from"
+  },
+  {
+   "t0": 284.986,
+   "t1": 285.675,
+   "txt": "the body of"
+  },
+  {
+   "t0": 285.675,
+   "t1": 286.177,
+   "txt": "the hat."
+  },
+  {
+   "t0": 286.457,
+   "t1": 287.3,
+   "txt": "While you wear"
+  },
+  {
+   "t0": 287.3,
+   "t1": 287.481,
+   "txt": "it."
+  },
+  {
+   "t0": 287.832,
+   "t1": 288.413,
+   "txt": "There is a"
+  },
+  {
+   "t0": 288.413,
+   "t1": 289.285,
+   "txt": "top hat version"
+  },
+  {
+   "t0": 289.285,
+   "t1": 289.517,
+   "txt": "too."
+  },
+  {
+   "t0": 289.797,
+   "t1": 290.714,
+   "txt": "With stars."
+  },
+  {
+   "t0": 291.065,
+   "t1": 291.708,
+   "txt": "And the hats"
+  },
+  {
+   "t0": 291.708,
+   "t1": 292.458,
+   "txt": "nest together,"
+  },
+  {
+   "t0": 292.458,
+   "t1": 293.476,
+   "txt": "for cheap shipping."
+  },
+  {
+   "t0": 293.827,
+   "t1": 294.547,
+   "txt": "A party hat"
+  },
+  {
+   "t0": 294.547,
+   "t1": 295.528,
+   "txt": "that saves your"
+  },
+  {
+   "t0": 295.528,
+   "t1": 295.921,
+   "txt": "money,"
+  },
+  {
+   "t0": 295.921,
+   "t1": 296.771,
+   "txt": "on your head."
+  },
+  {
+   "t0": 297.271,
+   "t1": 297.883,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 297.883,
+   "t1": 299.447,
+   "txt": "nineteen seventy-three."
+  },
+  {
+   "t0": 299.898,
+   "t1": 300.858,
+   "txt": "Number five."
+  },
+  {
+   "t0": 301.138,
+   "t1": 301.821,
+   "txt": "The boat."
+  },
+  {
+   "t0": 302.172,
+   "t1": 302.98,
+   "txt": "On the water,"
+  },
+  {
+   "t0": 302.98,
+   "t1": 303.788,
+   "txt": "buoys are red"
+  },
+  {
+   "t0": 303.788,
+   "t1": 304.348,
+   "txt": "or black."
+  },
+  {
+   "t0": 304.628,
+   "t1": 305.235,
+   "txt": "And you have"
+  },
+  {
+   "t0": 305.235,
+   "t1": 305.842,
+   "txt": "to pass them"
+  },
+  {
+   "t0": 305.842,
+   "t1": 306.551,
+   "txt": "on the correct"
+  },
+  {
+   "t0": 306.551,
+   "t1": 306.804,
+   "txt": "side."
+  },
+  {
+   "t0": 307.155,
+   "t1": 308.444,
+   "txt": "Many helmsmen refer"
+  },
+  {
+   "t0": 308.444,
+   "t1": 309.393,
+   "txt": "to the phrase,"
+  },
+  {
+   "t0": 309.393,
+   "t1": 309.665,
+   "txt": "red,"
+  },
+  {
+   "t0": 309.665,
+   "t1": 310.072,
+   "txt": "right,"
+  },
+  {
+   "t0": 310.072,
+   "t1": 310.547,
+   "txt": "return."
+  },
+  {
+   "t0": 310.898,
+   "t1": 311.561,
+   "txt": "But the patent"
+  },
+  {
+   "t0": 311.561,
+   "t1": 312.604,
+   "txt": "has noticed something."
+  },
+  {
+   "t0": 312.955,
+   "t1": 313.51,
+   "txt": "However,"
+  },
+  {
+   "t0": 313.51,
+   "t1": 314.618,
+   "txt": "many persons who"
+  },
+  {
+   "t0": 314.618,
+   "t1": 316.142,
+   "txt": "navigate private boats"
+  },
+  {
+   "t0": 316.142,
+   "t1": 317.458,
+   "txt": "become confused and"
+  },
+  {
+   "t0": 317.458,
+   "t1": 318.359,
+   "txt": "take buoys on"
+  },
+  {
+   "t0": 318.359,
+   "t1": 319.398,
+   "txt": "the wrong side."
+  },
+  {
+   "t0": 319.849,
+   "t1": 320.852,
+   "txt": "What is needed,"
+  },
+  {
+   "t0": 320.852,
+   "t1": 321.387,
+   "txt": "it says,"
+  },
+  {
+   "t0": 321.387,
+   "t1": 322.056,
+   "txt": "is a means"
+  },
+  {
+   "t0": 322.056,
+   "t1": 322.925,
+   "txt": "by which even"
+  },
+  {
+   "t0": 322.925,
+   "t1": 324.597,
+   "txt": "an unexperienced helmsman"
+  },
+  {
+   "t0": 324.597,
+   "t1": 325.6,
+   "txt": "may be afforded"
+  },
+  {
+   "t0": 325.6,
+   "t1": 326.804,
+   "txt": "a rapid reference."
+  },
+  {
+   "t0": 327.155,
+   "t1": 328.038,
+   "txt": "The solution is"
+  },
+  {
+   "t0": 328.038,
+   "t1": 328.392,
+   "txt": "a cap."
+  },
+  {
+   "t0": 328.672,
+   "t1": 329.468,
+   "txt": "Split down the"
+  },
+  {
+   "t0": 329.468,
+   "t1": 329.867,
+   "txt": "middle."
+  },
+  {
+   "t0": 330.147,
+   "t1": 331.018,
+   "txt": "One half red,"
+  },
+  {
+   "t0": 331.018,
+   "t1": 332.024,
+   "txt": "one half black."
+  },
+  {
+   "t0": 332.304,
+   "t1": 333.435,
+   "txt": "Inside and out."
+  },
+  {
+   "t0": 333.786,
+   "t1": 334.467,
+   "txt": "Heading out,"
+  },
+  {
+   "t0": 334.467,
+   "t1": 335.091,
+   "txt": "you wear it"
+  },
+  {
+   "t0": 335.091,
+   "t1": 335.773,
+   "txt": "with the tag"
+  },
+  {
+   "t0": 335.773,
+   "t1": 336.738,
+   "txt": "that says leaving"
+  },
+  {
+   "t0": 336.738,
+   "t1": 337.135,
+   "txt": "harbor."
+  },
+  {
+   "t0": 337.415,
+   "t1": 338.098,
+   "txt": "Coming back,"
+  },
+  {
+   "t0": 338.098,
+   "t1": 338.78,
+   "txt": "you turn the"
+  },
+  {
+   "t0": 338.78,
+   "t1": 339.634,
+   "txt": "cap inside out."
+  },
+  {
+   "t0": 339.914,
+   "t1": 340.604,
+   "txt": "Now the tag"
+  },
+  {
+   "t0": 340.604,
+   "t1": 341.483,
+   "txt": "says red right"
+  },
+  {
+   "t0": 341.483,
+   "t1": 342.111,
+   "txt": "returning."
+  },
+  {
+   "t0": 342.462,
+   "t1": 343.181,
+   "txt": "The visor is"
+  },
+  {
+   "t0": 343.181,
+   "t1": 343.481,
+   "txt": "long,"
+  },
+  {
+   "t0": 343.481,
+   "t1": 344.08,
+   "txt": "so you can"
+  },
+  {
+   "t0": 344.08,
+   "t1": 344.919,
+   "txt": "see the colors"
+  },
+  {
+   "t0": 344.919,
+   "t1": 345.878,
+   "txt": "under it without"
+  },
+  {
+   "t0": 345.878,
+   "t1": 346.537,
+   "txt": "looking up."
+  },
+  {
+   "t0": 346.817,
+   "t1": 347.797,
+   "txt": "Even through the"
+  },
+  {
+   "t0": 347.797,
+   "t1": 348.962,
+   "txt": "upper lens portions"
+  },
+  {
+   "t0": 348.962,
+   "t1": 349.513,
+   "txt": "of a pair"
+  },
+  {
+   "t0": 349.513,
+   "t1": 350.187,
+   "txt": "of glasses."
+  },
+  {
+   "t0": 350.538,
+   "t1": 351.392,
+   "txt": "And the colors"
+  },
+  {
+   "t0": 351.392,
+   "t1": 352.245,
+   "txt": "on the outside"
+  },
+  {
+   "t0": 352.245,
+   "t1": 353.22,
+   "txt": "let other people"
+  },
+  {
+   "t0": 353.22,
+   "t1": 354.256,
+   "txt": "check whether the"
+  },
+  {
+   "t0": 354.256,
+   "t1": 355.232,
+   "txt": "helmsman has the"
+  },
+  {
+   "t0": 355.232,
+   "t1": 356.634,
+   "txt": "hat properly positioned"
+  },
+  {
+   "t0": 356.634,
+   "t1": 357.365,
+   "txt": "on his head."
+  },
+  {
+   "t0": 357.716,
+   "t1": 358.7,
+   "txt": "The patent also"
+  },
+  {
+   "t0": 358.7,
+   "t1": 359.553,
+   "txt": "hopes it will"
+  },
+  {
+   "t0": 359.553,
+   "t1": 361.258,
+   "txt": "be substantially automatic"
+  },
+  {
+   "t0": 361.258,
+   "t1": 362.111,
+   "txt": "in operation."
+  },
+  {
+   "t0": 362.611,
+   "t1": 363.262,
+   "txt": "It is a"
+  },
+  {
+   "t0": 363.262,
+   "t1": 363.635,
+   "txt": "hat."
+  },
+  {
+   "t0": 364.086,
+   "t1": 365.213,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 365.213,
+   "t1": 365.942,
+   "txt": "eighty-one."
+  },
+  {
+   "t0": 366.442,
+   "t1": 367.683,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 367.683,
+   "t1": 368.49,
+   "txt": "eighty-eight."
+  },
+  {
+   "t0": 368.941,
+   "t1": 369.837,
+   "txt": "Number six."
+  },
+  {
+   "t0": 370.117,
+   "t1": 370.885,
+   "txt": "The snack."
+  },
+  {
+   "t0": 371.236,
+   "t1": 372.286,
+   "txt": "The patent begins"
+  },
+  {
+   "t0": 372.286,
+   "t1": 373.028,
+   "txt": "with a fact."
+  },
+  {
+   "t0": 373.308,
+   "t1": 374.3,
+   "txt": "Children like to"
+  },
+  {
+   "t0": 374.3,
+   "t1": 375.292,
+   "txt": "eat jelly beans."
+  },
+  {
+   "t0": 375.643,
+   "t1": 376.697,
+   "txt": "So the container"
+  },
+  {
+   "t0": 376.697,
+   "t1": 377.356,
+   "txt": "is made in"
+  },
+  {
+   "t0": 377.356,
+   "t1": 378.147,
+   "txt": "the shape of"
+  },
+  {
+   "t0": 378.147,
+   "t1": 379.334,
+   "txt": "a greatly enlarged"
+  },
+  {
+   "t0": 379.334,
+   "t1": 380.059,
+   "txt": "jelly bean."
+  },
+  {
+   "t0": 380.339,
+   "t1": 381.007,
+   "txt": "And it goes"
+  },
+  {
+   "t0": 381.007,
+   "t1": 381.553,
+   "txt": "on top of"
+  },
+  {
+   "t0": 381.553,
+   "t1": 381.917,
+   "txt": "a cap."
+  },
+  {
+   "t0": 382.268,
+   "t1": 383.207,
+   "txt": "Why the cap?"
+  },
+  {
+   "t0": 383.487,
+   "t1": 384.477,
+   "txt": "Because a child"
+  },
+  {
+   "t0": 384.477,
+   "t1": 385.335,
+   "txt": "also likes to"
+  },
+  {
+   "t0": 385.335,
+   "t1": 386.258,
+   "txt": "have his hands"
+  },
+  {
+   "t0": 386.258,
+   "t1": 387.248,
+   "txt": "free and enjoys"
+  },
+  {
+   "t0": 387.248,
+   "t1": 388.568,
+   "txt": "wearing ornaments of"
+  },
+  {
+   "t0": 388.568,
+   "t1": 389.162,
+   "txt": "any kind."
+  },
+  {
+   "t0": 389.513,
+   "t1": 390.345,
+   "txt": "The bean sits"
+  },
+  {
+   "t0": 390.345,
+   "t1": 391.241,
+   "txt": "on a universal"
+  },
+  {
+   "t0": 391.241,
+   "t1": 391.625,
+   "txt": "joint."
+  },
+  {
+   "t0": 391.905,
+   "t1": 392.449,
+   "txt": "It can be"
+  },
+  {
+   "t0": 392.449,
+   "t1": 393.295,
+   "txt": "swung into any"
+  },
+  {
+   "t0": 393.295,
+   "t1": 394.806,
+   "txt": "angular position desired."
+  },
+  {
+   "t0": 395.157,
+   "t1": 395.615,
+   "txt": "To get a"
+  },
+  {
+   "t0": 395.615,
+   "t1": 395.958,
+   "txt": "snack,"
+  },
+  {
+   "t0": 395.958,
+   "t1": 396.645,
+   "txt": "you pull the"
+  },
+  {
+   "t0": 396.645,
+   "t1": 397.388,
+   "txt": "bean off your"
+  },
+  {
+   "t0": 397.388,
+   "t1": 397.674,
+   "txt": "head."
+  },
+  {
+   "t0": 397.954,
+   "t1": 398.873,
+   "txt": "A cord unwinds"
+  },
+  {
+   "t0": 398.873,
+   "t1": 400.185,
+   "txt": "from a spring-loaded"
+  },
+  {
+   "t0": 400.185,
+   "t1": 401.169,
+   "txt": "drum inside the"
+  },
+  {
+   "t0": 401.169,
+   "t1": 401.432,
+   "txt": "cap."
+  },
+  {
+   "t0": 401.783,
+   "t1": 402.634,
+   "txt": "The cord means"
+  },
+  {
+   "t0": 402.634,
+   "t1": 403.303,
+   "txt": "the bean is"
+  },
+  {
+   "t0": 403.303,
+   "t1": 404.215,
+   "txt": "never far away."
+  },
+  {
+   "t0": 404.495,
+   "t1": 405.325,
+   "txt": "It will prevent"
+  },
+  {
+   "t0": 405.325,
+   "t1": 406.322,
+   "txt": "the container from"
+  },
+  {
+   "t0": 406.322,
+   "t1": 407.097,
+   "txt": "becoming lost."
+  },
+  {
+   "t0": 407.448,
+   "t1": 408.28,
+   "txt": "Open the lid,"
+  },
+  {
+   "t0": 408.28,
+   "t1": 408.536,
+   "txt": "eat,"
+  },
+  {
+   "t0": 408.536,
+   "t1": 409.432,
+   "txt": "close the lid."
+  },
+  {
+   "t0": 409.712,
+   "t1": 410.593,
+   "txt": "Put the bean"
+  },
+  {
+   "t0": 410.593,
+   "t1": 411.474,
+   "txt": "back on top,"
+  },
+  {
+   "t0": 411.474,
+   "t1": 412.281,
+   "txt": "jerk on the"
+  },
+  {
+   "t0": 412.281,
+   "t1": 412.648,
+   "txt": "cord,"
+  },
+  {
+   "t0": 412.648,
+   "t1": 413.528,
+   "txt": "and the drum"
+  },
+  {
+   "t0": 413.528,
+   "t1": 414.409,
+   "txt": "winds up the"
+  },
+  {
+   "t0": 414.409,
+   "t1": 415.216,
+   "txt": "extra cord."
+  },
+  {
+   "t0": 415.567,
+   "t1": 416.353,
+   "txt": "Even the air"
+  },
+  {
+   "t0": 416.353,
+   "t1": 417.139,
+   "txt": "vents in the"
+  },
+  {
+   "t0": 417.139,
+   "t1": 417.794,
+   "txt": "cap may be"
+  },
+  {
+   "t0": 417.794,
+   "t1": 418.646,
+   "txt": "shaped like a"
+  },
+  {
+   "t0": 418.646,
+   "t1": 419.366,
+   "txt": "jelly bean,"
+  },
+  {
+   "t0": 419.366,
+   "t1": 419.89,
+   "txt": "so as to"
+  },
+  {
+   "t0": 419.89,
+   "t1": 420.742,
+   "txt": "have the same"
+  },
+  {
+   "t0": 420.742,
+   "t1": 421.528,
+   "txt": "shape as the"
+  },
+  {
+   "t0": 421.528,
+   "t1": 422.183,
+   "txt": "container,"
+  },
+  {
+   "t0": 422.183,
+   "t1": 422.707,
+   "txt": "but on a"
+  },
+  {
+   "t0": 422.707,
+   "t1": 423.951,
+   "txt": "much smaller scale."
+  },
+  {
+   "t0": 424.302,
+   "t1": 425.101,
+   "txt": "And one line"
+  },
+  {
+   "t0": 425.101,
+   "t1": 426.165,
+   "txt": "in the operation"
+  },
+  {
+   "t0": 426.165,
+   "t1": 427.23,
+   "txt": "section is worth"
+  },
+  {
+   "t0": 427.23,
+   "t1": 428.228,
+   "txt": "reading slowly."
+  },
+  {
+   "t0": 428.579,
+   "t1": 429.5,
+   "txt": "The jelly bean"
+  },
+  {
+   "t0": 429.5,
+   "t1": 430.817,
+   "txt": "shaped container may"
+  },
+  {
+   "t0": 430.817,
+   "t1": 431.871,
+   "txt": "have jelly beans"
+  },
+  {
+   "t0": 431.871,
+   "t1": 432.397,
+   "txt": "therein."
+  },
+  {
+   "t0": 432.897,
+   "t1": 433.943,
+   "txt": "If desired."
+  },
+  {
+   "t0": 434.394,
+   "t1": 435.994,
+   "txt": "Optional jelly beans."
+  },
+  {
+   "t0": 436.494,
+   "t1": 437.113,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 437.113,
+   "t1": 438.627,
+   "txt": "nineteen seventy-four."
+  },
+  {
+   "t0": 439.078,
+   "t1": 439.995,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 440.275,
+   "t1": 440.958,
+   "txt": "The lake."
+  },
+  {
+   "t0": 441.309,
+   "t1": 442.333,
+   "txt": "The patent opens"
+  },
+  {
+   "t0": 442.333,
+   "t1": 443.229,
+   "txt": "with a census."
+  },
+  {
+   "t0": 443.509,
+   "t1": 444.56,
+   "txt": "There are thousands"
+  },
+  {
+   "t0": 444.56,
+   "t1": 445.169,
+   "txt": "of types of"
+  },
+  {
+   "t0": 445.169,
+   "t1": 446.054,
+   "txt": "tackle boxes for"
+  },
+  {
+   "t0": 446.054,
+   "t1": 446.773,
+   "txt": "fishing gear."
+  },
+  {
+   "t0": 447.124,
+   "t1": 448.059,
+   "txt": "Every type of"
+  },
+  {
+   "t0": 448.059,
+   "t1": 449.355,
+   "txt": "container from old"
+  },
+  {
+   "t0": 449.355,
+   "t1": 450.362,
+   "txt": "cigar boxes to"
+  },
+  {
+   "t0": 450.362,
+   "t1": 451.945,
+   "txt": "the most sophisticated"
+  },
+  {
+   "t0": 451.945,
+   "t1": 453.528,
+   "txt": "space age construction"
+  },
+  {
+   "t0": 453.528,
+   "t1": 454.463,
+   "txt": "has been used"
+  },
+  {
+   "t0": 454.463,
+   "t1": 455.615,
+   "txt": "to store tackle."
+  },
+  {
+   "t0": 455.966,
+   "t1": 456.636,
+   "txt": "But for the"
+  },
+  {
+   "t0": 456.636,
+   "t1": 457.549,
+   "txt": "wade fisherman,"
+  },
+  {
+   "t0": 457.549,
+   "t1": 458.523,
+   "txt": "storage space is"
+  },
+  {
+   "t0": 458.523,
+   "t1": 459.315,
+   "txt": "at a premium."
+  },
+  {
+   "t0": 459.595,
+   "t1": 460.291,
+   "txt": "So here is"
+  },
+  {
+   "t0": 460.291,
+   "t1": 460.918,
+   "txt": "one more."
+  },
+  {
+   "t0": 461.198,
+   "t1": 462.234,
+   "txt": "A small plastic"
+  },
+  {
+   "t0": 462.234,
+   "t1": 462.511,
+   "txt": "box,"
+  },
+  {
+   "t0": 462.511,
+   "t1": 463.962,
+   "txt": "with compartments and"
+  },
+  {
+   "t0": 463.962,
+   "t1": 464.376,
+   "txt": "a lid."
+  },
+  {
+   "t0": 464.727,
+   "t1": 465.385,
+   "txt": "Cuts in the"
+  },
+  {
+   "t0": 465.385,
+   "t1": 466.342,
+   "txt": "bottom snap over"
+  },
+  {
+   "t0": 466.342,
+   "t1": 467.119,
+   "txt": "the button on"
+  },
+  {
+   "t0": 467.119,
+   "t1": 467.598,
+   "txt": "top of a"
+  },
+  {
+   "t0": 467.598,
+   "t1": 468.375,
+   "txt": "baseball cap."
+  },
+  {
+   "t0": 468.655,
+   "t1": 469.905,
+   "txt": "At approximately the"
+  },
+  {
+   "t0": 469.905,
+   "t1": 470.717,
+   "txt": "apogee of the"
+  },
+  {
+   "t0": 470.717,
+   "t1": 471.279,
+   "txt": "headgear."
+  },
+  {
+   "t0": 471.63,
+   "t1": 472.347,
+   "txt": "The lid has"
+  },
+  {
+   "t0": 472.347,
+   "t1": 472.868,
+   "txt": "a latch."
+  },
+  {
+   "t0": 473.148,
+   "t1": 474.172,
+   "txt": "Because the person"
+  },
+  {
+   "t0": 474.172,
+   "t1": 475.025,
+   "txt": "wearing the cap"
+  },
+  {
+   "t0": 475.025,
+   "t1": 475.651,
+   "txt": "is going to"
+  },
+  {
+   "t0": 475.651,
+   "t1": 476.277,
+   "txt": "move about,"
+  },
+  {
+   "t0": 476.277,
+   "t1": 477.073,
+   "txt": "and look down."
+  },
+  {
+   "t0": 477.424,
+   "t1": 478.072,
+   "txt": "The box may"
+  },
+  {
+   "t0": 478.072,
+   "t1": 478.838,
+   "txt": "be about four"
+  },
+  {
+   "t0": 478.838,
+   "t1": 479.84,
+   "txt": "inches square and"
+  },
+  {
+   "t0": 479.84,
+   "t1": 480.841,
+   "txt": "be comfortable to"
+  },
+  {
+   "t0": 480.841,
+   "t1": 481.136,
+   "txt": "wear."
+  },
+  {
+   "t0": 481.416,
+   "t1": 482.58,
+   "txt": "Boxes larger than"
+  },
+  {
+   "t0": 482.58,
+   "t1": 483.334,
+   "txt": "that can be"
+  },
+  {
+   "t0": 483.334,
+   "t1": 483.676,
+   "txt": "worn,"
+  },
+  {
+   "t0": 483.676,
+   "t1": 484.704,
+   "txt": "but they become"
+  },
+  {
+   "t0": 484.704,
+   "t1": 485.32,
+   "txt": "unwieldy."
+  },
+  {
+   "t0": 485.6,
+   "t1": 486.851,
+   "txt": "Smaller boxes have"
+  },
+  {
+   "t0": 486.851,
+   "t1": 487.755,
+   "txt": "less utility."
+  },
+  {
+   "t0": 488.106,
+   "t1": 488.667,
+   "txt": "Although,"
+  },
+  {
+   "t0": 488.667,
+   "t1": 489.541,
+   "txt": "in some cases,"
+  },
+  {
+   "t0": 489.541,
+   "t1": 490.601,
+   "txt": "the patent allows"
+  },
+  {
+   "t0": 490.601,
+   "t1": 491.412,
+   "txt": "a bigger one."
+  },
+  {
+   "t0": 491.763,
+   "t1": 492.918,
+   "txt": "The container may"
+  },
+  {
+   "t0": 492.918,
+   "t1": 493.868,
+   "txt": "be larger than"
+  },
+  {
+   "t0": 493.868,
+   "t1": 494.615,
+   "txt": "the head of"
+  },
+  {
+   "t0": 494.615,
+   "t1": 495.362,
+   "txt": "the wearer,"
+  },
+  {
+   "t0": 495.362,
+   "t1": 496.177,
+   "txt": "and serve as"
+  },
+  {
+   "t0": 496.177,
+   "t1": 496.924,
+   "txt": "a sun shade"
+  },
+  {
+   "t0": 496.924,
+   "t1": 497.603,
+   "txt": "as well as"
+  },
+  {
+   "t0": 497.603,
+   "t1": 498.825,
+   "txt": "storage container."
+  },
+  {
+   "t0": 499.276,
+   "t1": 499.766,
+   "txt": "And it is"
+  },
+  {
+   "t0": 499.766,
+   "t1": 500.419,
+   "txt": "not only for"
+  },
+  {
+   "t0": 500.419,
+   "t1": 500.854,
+   "txt": "fishing."
+  },
+  {
+   "t0": 501.134,
+   "t1": 502.046,
+   "txt": "The same button"
+  },
+  {
+   "t0": 502.046,
+   "t1": 502.776,
+   "txt": "holds a tiny"
+  },
+  {
+   "t0": 502.776,
+   "t1": 503.566,
+   "txt": "baseball cap."
+  },
+  {
+   "t0": 503.846,
+   "t1": 504.373,
+   "txt": "On top of"
+  },
+  {
+   "t0": 504.373,
+   "t1": 505.425,
+   "txt": "your baseball cap."
+  },
+  {
+   "t0": 505.705,
+   "t1": 506.517,
+   "txt": "Or a miniature"
+  },
+  {
+   "t0": 506.517,
+   "t1": 507.446,
+   "txt": "football helmet,"
+  },
+  {
+   "t0": 507.446,
+   "t1": 508.606,
+   "txt": "for football season."
+  },
+  {
+   "t0": 508.957,
+   "t1": 509.64,
+   "txt": "A box on"
+  },
+  {
+   "t0": 509.64,
+   "t1": 510.152,
+   "txt": "a hat."
+  },
+  {
+   "t0": 510.652,
+   "t1": 511.254,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 511.254,
+   "t1": 512.593,
+   "txt": "nineteen ninety-one."
+  },
+  {
+   "t0": 513.044,
+   "t1": 513.919,
+   "txt": "Number eight."
+  },
+  {
+   "t0": 514.199,
+   "t1": 515.159,
+   "txt": "The ballpark."
+  },
+  {
+   "t0": 515.51,
+   "t1": 516.171,
+   "txt": "At a game,"
+  },
+  {
+   "t0": 516.171,
+   "t1": 517.493,
+   "txt": "the patent observes,"
+  },
+  {
+   "t0": 517.493,
+   "t1": 518.352,
+   "txt": "balls are hit"
+  },
+  {
+   "t0": 518.352,
+   "t1": 519.807,
+   "txt": "into spectator seating"
+  },
+  {
+   "t0": 519.807,
+   "t1": 520.203,
+   "txt": "areas."
+  },
+  {
+   "t0": 520.483,
+   "t1": 521.355,
+   "txt": "So fans bring"
+  },
+  {
+   "t0": 521.355,
+   "t1": 521.891,
+   "txt": "a glove."
+  },
+  {
+   "t0": 522.242,
+   "t1": 522.885,
+   "txt": "And that is"
+  },
+  {
+   "t0": 522.885,
+   "t1": 523.586,
+   "txt": "the problem."
+  },
+  {
+   "t0": 523.937,
+   "t1": 524.87,
+   "txt": "Unfortunately,"
+  },
+  {
+   "t0": 524.87,
+   "t1": 526.069,
+   "txt": "the baseball glove"
+  },
+  {
+   "t0": 526.069,
+   "t1": 527.068,
+   "txt": "is just another"
+  },
+  {
+   "t0": 527.068,
+   "t1": 528.667,
+   "txt": "personal belonging which"
+  },
+  {
+   "t0": 528.667,
+   "t1": 529.666,
+   "txt": "must be carried"
+  },
+  {
+   "t0": 529.666,
+   "t1": 530.399,
+   "txt": "to and from"
+  },
+  {
+   "t0": 530.399,
+   "t1": 530.999,
+   "txt": "the game."
+  },
+  {
+   "t0": 531.45,
+   "t1": 532.344,
+   "txt": "An item which"
+  },
+  {
+   "t0": 532.344,
+   "t1": 533.238,
+   "txt": "is subject to"
+  },
+  {
+   "t0": 533.238,
+   "t1": 534.544,
+   "txt": "theft or accidental"
+  },
+  {
+   "t0": 534.544,
+   "t1": 535.92,
+   "txt": "misplacement if left"
+  },
+  {
+   "t0": 535.92,
+   "t1": 536.676,
+   "txt": "unattended."
+  },
+  {
+   "t0": 537.027,
+   "t1": 537.977,
+   "txt": "The solution looks"
+  },
+  {
+   "t0": 537.977,
+   "t1": 538.715,
+   "txt": "like any other"
+  },
+  {
+   "t0": 538.715,
+   "t1": 538.926,
+   "txt": "cap."
+  },
+  {
+   "t0": 539.206,
+   "t1": 539.955,
+   "txt": "A person may"
+  },
+  {
+   "t0": 539.955,
+   "t1": 540.704,
+   "txt": "wear the cap"
+  },
+  {
+   "t0": 540.704,
+   "t1": 541.516,
+   "txt": "on their head"
+  },
+  {
+   "t0": 541.516,
+   "t1": 542.265,
+   "txt": "just as they"
+  },
+  {
+   "t0": 542.265,
+   "t1": 543.201,
+   "txt": "would any other"
+  },
+  {
+   "t0": 543.201,
+   "t1": 544.262,
+   "txt": "conventional cap."
+  },
+  {
+   "t0": 544.613,
+   "t1": 545.291,
+   "txt": "But inside,"
+  },
+  {
+   "t0": 545.291,
+   "t1": 546.216,
+   "txt": "the inner liner"
+  },
+  {
+   "t0": 546.216,
+   "t1": 546.895,
+   "txt": "is shown as"
+  },
+  {
+   "t0": 546.895,
+   "t1": 547.635,
+   "txt": "being in the"
+  },
+  {
+   "t0": 547.635,
+   "t1": 548.251,
+   "txt": "shape of a"
+  },
+  {
+   "t0": 548.251,
+   "t1": 548.56,
+   "txt": "hand."
+  },
+  {
+   "t0": 548.84,
+   "t1": 550.171,
+   "txt": "Particularly a right"
+  },
+  {
+   "t0": 550.171,
+   "t1": 550.504,
+   "txt": "hand."
+  },
+  {
+   "t0": 550.784,
+   "t1": 551.996,
+   "txt": "With finger cavities"
+  },
+  {
+   "t0": 551.996,
+   "t1": 552.663,
+   "txt": "and a thumb"
+  },
+  {
+   "t0": 552.663,
+   "t1": 553.088,
+   "txt": "cavity."
+  },
+  {
+   "t0": 553.439,
+   "t1": 554.06,
+   "txt": "When a ball"
+  },
+  {
+   "t0": 554.06,
+   "t1": 554.906,
+   "txt": "comes your way,"
+  },
+  {
+   "t0": 554.906,
+   "t1": 555.64,
+   "txt": "you need only"
+  },
+  {
+   "t0": 555.64,
+   "t1": 556.543,
+   "txt": "insert your hand"
+  },
+  {
+   "t0": 556.543,
+   "t1": 557.616,
+   "txt": "through the opening"
+  },
+  {
+   "t0": 557.616,
+   "t1": 558.236,
+   "txt": "in the back"
+  },
+  {
+   "t0": 558.236,
+   "t1": 558.857,
+   "txt": "of the cap."
+  },
+  {
+   "t0": 559.137,
+   "t1": 559.752,
+   "txt": "Then take it"
+  },
+  {
+   "t0": 559.752,
+   "t1": 560.417,
+   "txt": "off your head"
+  },
+  {
+   "t0": 560.417,
+   "t1": 560.929,
+   "txt": "and catch."
+  },
+  {
+   "t0": 561.28,
+   "t1": 562.013,
+   "txt": "There is also"
+  },
+  {
+   "t0": 562.013,
+   "t1": 562.859,
+   "txt": "a mitt version."
+  },
+  {
+   "t0": 563.139,
+   "t1": 564.227,
+   "txt": "And pockets inside"
+  },
+  {
+   "t0": 564.227,
+   "t1": 565.315,
+   "txt": "for extra padding."
+  },
+  {
+   "t0": 565.666,
+   "t1": 566.3,
+   "txt": "Why not put"
+  },
+  {
+   "t0": 566.3,
+   "t1": 567.107,
+   "txt": "the fingers on"
+  },
+  {
+   "t0": 567.107,
+   "t1": 567.799,
+   "txt": "the outside?"
+  },
+  {
+   "t0": 568.079,
+   "t1": 569.311,
+   "txt": "The patent considered"
+  },
+  {
+   "t0": 569.311,
+   "t1": 569.487,
+   "txt": "it."
+  },
+  {
+   "t0": 569.767,
+   "t1": 570.973,
+   "txt": "The disadvantage is"
+  },
+  {
+   "t0": 570.973,
+   "t1": 571.735,
+   "txt": "that the cap"
+  },
+  {
+   "t0": 571.735,
+   "t1": 572.878,
+   "txt": "would not resemble"
+  },
+  {
+   "t0": 572.878,
+   "t1": 573.894,
+   "txt": "a traditional or"
+  },
+  {
+   "t0": 573.894,
+   "t1": 574.973,
+   "txt": "conventional cap."
+  },
+  {
+   "t0": 575.324,
+   "t1": 576.052,
+   "txt": "So the glove"
+  },
+  {
+   "t0": 576.052,
+   "t1": 577.022,
+   "txt": "hides inside the"
+  },
+  {
+   "t0": 577.022,
+   "t1": 577.265,
+   "txt": "hat."
+  },
+  {
+   "t0": 577.765,
+   "t1": 578.949,
+   "txt": "For selective use"
+  },
+  {
+   "t0": 578.949,
+   "t1": 579.506,
+   "txt": "as a cap"
+  },
+  {
+   "t0": 579.506,
+   "t1": 580.481,
+   "txt": "for covering a"
+  },
+  {
+   "t0": 580.481,
+   "t1": 581.455,
+   "txt": "person's head,"
+  },
+  {
+   "t0": 581.455,
+   "t1": 582.361,
+   "txt": "or a baseball"
+  },
+  {
+   "t0": 582.361,
+   "t1": 582.778,
+   "txt": "glove."
+  },
+  {
+   "t0": 583.229,
+   "t1": 584.032,
+   "txt": "Two things,"
+  },
+  {
+   "t0": 584.032,
+   "t1": 584.616,
+   "txt": "one hat."
+  },
+  {
+   "t0": 585.116,
+   "t1": 585.752,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 585.752,
+   "t1": 587.164,
+   "txt": "nineteen eighty-six."
+  },
+  {
+   "t0": 587.615,
+   "t1": 588.399,
+   "txt": "So which one"
+  },
+  {
+   "t0": 588.399,
+   "t1": 589.118,
+   "txt": "is the most"
+  },
+  {
+   "t0": 589.118,
+   "t1": 589.706,
+   "txt": "approved?"
+  },
+  {
+   "t0": 590.257,
+   "t1": 591.095,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 591.095,
+   "t1": 592.091,
+   "txt": "the navigation cap."
+  },
+  {
+   "t0": 592.371,
+   "t1": 593.365,
+   "txt": "Because it took"
+  },
+  {
+   "t0": 593.365,
+   "t1": 594.226,
+   "txt": "just over six"
+  },
+  {
+   "t0": 594.226,
+   "t1": 595.352,
+   "txt": "years from filing"
+  },
+  {
+   "t0": 595.352,
+   "t1": 596.147,
+   "txt": "to approval,"
+  },
+  {
+   "t0": 596.147,
+   "t1": 596.744,
+   "txt": "for a hat"
+  },
+  {
+   "t0": 596.744,
+   "t1": 597.538,
+   "txt": "that is half"
+  },
+  {
+   "t0": 597.538,
+   "t1": 597.803,
+   "txt": "red,"
+  },
+  {
+   "t0": 597.803,
+   "t1": 598.532,
+   "txt": "half black,"
+  },
+  {
+   "t0": 598.532,
+   "t1": 599.261,
+   "txt": "and goes on"
+  },
+  {
+   "t0": 599.261,
+   "t1": 600.255,
+   "txt": "inside out when"
+  },
+  {
+   "t0": 600.255,
+   "t1": 601.182,
+   "txt": "you come home."
+  },
+  {
+   "t0": 601.533,
+   "t1": 602.365,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 602.365,
+   "t1": 603.138,
+   "txt": "this video is"
+  },
+  {
+   "t0": 603.138,
+   "t1": 603.91,
+   "txt": "word for word"
+  },
+  {
+   "t0": 603.91,
+   "t1": 604.861,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 605.141,
+   "t1": 605.961,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 605.961,
+   "t1": 607.0,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 607.0,
+   "t1": 607.546,
+   "txt": "so you can"
+  },
+  {
+   "t0": 607.546,
+   "t1": 608.64,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 608.991,
+   "t1": 610.052,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 610.052,
+   "t1": 610.676,
+   "txt": "every day."
+  },
+  {
+   "t0": 610.956,
+   "t1": 611.527,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 611.527,
+   "t1": 612.385,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 612.385,
+   "t1": 612.556,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 4.074
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 7.903
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 9.513
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 23.189
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 25.676
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 30.513
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 37.864
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 42.923
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 49.551
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 55.259
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 61.544
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 70.471
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 79.123
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 84.277
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 87.437
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 93.871
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 96.059
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 102.09
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 109.908
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 118.072
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 124.162
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 130.958
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 143.389
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 147.559
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 156.287
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 163.967
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 166.241
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 171.44
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 175.996
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 185.203
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 187.794
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 192.853
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 195.594
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 203.481
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 208.994
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 216.988
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 222.922
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 229.343
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 231.702
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 234.656
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 244.183
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 251.275
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 258.925
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 264.005
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 272.572
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 281.099
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 287.832
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 291.065
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 293.827
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 299.898
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 302.172
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 307.155
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 310.898
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 312.955
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 319.849
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 327.155
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 333.786
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 342.462
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 350.538
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 357.716
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 364.086
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 368.941
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 371.236
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 375.643
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 382.268
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 389.513
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 395.157
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 401.783
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 407.448
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 415.567
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 424.302
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 428.579
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 434.394
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 439.078
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 441.309
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 447.124
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 455.966
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 464.727
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 471.63
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 477.424
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 488.106
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 491.763
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 499.276
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 508.957
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 513.044
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 515.51
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 522.242
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 523.937
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 531.45
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 537.027
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 544.613
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 553.439
+  },
+  {
+   "f": "vo/094.wav",
+   "t": 561.28
+  },
+  {
+   "f": "vo/095.wav",
+   "t": 565.666
+  },
+  {
+   "f": "vo/096.wav",
+   "t": 575.324
+  },
+  {
+   "f": "vo/097.wav",
+   "t": 583.229
+  },
+  {
+   "f": "vo/098.wav",
+   "t": 587.615
+  },
+  {
+   "f": "vo/099.wav",
+   "t": 590.257
+  },
+  {
+   "f": "vo/100.wav",
+   "t": 601.533
+  },
+  {
+   "f": "vo/101.wav",
+   "t": 608.991
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": "",
+ "tt": false
+}

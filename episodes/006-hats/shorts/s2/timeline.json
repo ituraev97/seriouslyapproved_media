@@ -1,0 +1,504 @@
+{
+ "T": 52.98,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.034,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.865
+    ],
+    [
+     2.265,
+     3.801
+    ],
+    [
+     4.201,
+     6.483
+    ]
+   ],
+   "g": "fig",
+   "fig": "tackle1",
+   "figno": "1"
+  },
+  {
+   "t0": 7.034,
+   "t1": 12.255,
+   "i": 1,
+   "segs": [
+    [
+     7.034,
+     8.293
+    ],
+    [
+     8.573,
+     10.258
+    ],
+    [
+     10.538,
+     11.904
+    ]
+   ],
+   "g": "fig",
+   "fig": "tackle2",
+   "figno": "2",
+   "calls": [
+    [
+     "BUTTON",
+     520,
+     160,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 12.255,
+   "t1": 16.909,
+   "i": 2,
+   "segs": [
+    [
+     12.255,
+     14.772
+    ],
+    [
+     15.192,
+     16.408
+    ]
+   ],
+   "g": "stamp",
+   "title": "CONTAINER FOR MOUNTING|ON HEADGEAR",
+   "filed": "JUNE 12, 1990",
+   "date": "DEC. 10, 1991",
+   "at": 3.2
+  },
+  {
+   "t0": 16.909,
+   "t1": 22.724,
+   "i": 3,
+   "segs": [
+    [
+     16.909,
+     18.829
+    ],
+    [
+     19.109,
+     22.373
+    ]
+   ],
+   "g": "quote",
+   "q": "There are thousands of types of tackle boxes for fishing gear.",
+   "hit": "thousands",
+   "src": "US 5,070,546 \u00b7 related art"
+  },
+  {
+   "t0": 22.724,
+   "t1": 28.518,
+   "i": 4,
+   "segs": [
+    [
+     22.724,
+     23.961
+    ],
+    [
+     24.241,
+     28.167
+    ]
+   ],
+   "g": "quote",
+   "q": "the person wearing the cap is going to move about, and look down",
+   "hit": "look down",
+   "src": "US 5,070,546 \u00b7 description"
+  },
+  {
+   "t0": 28.518,
+   "t1": 35.207,
+   "i": 5,
+   "segs": [
+    [
+     28.518,
+     30.672
+    ],
+    [
+     30.952,
+     34.856
+    ]
+   ],
+   "g": "quote",
+   "q": "Boxes larger than that can be worn but they become unwieldy.",
+   "hit": "unwieldy",
+   "src": "US 5,070,546 \u00b7 description"
+  },
+  {
+   "t0": 35.207,
+   "t1": 43.85,
+   "i": 6,
+   "segs": [
+    [
+     35.207,
+     43.399
+    ]
+   ],
+   "g": "quote",
+   "q": "the container may be larger than the head of the wearer and serve as a sun shade as well as storage container",
+   "hit": "larger than the head",
+   "src": "US 5,070,546 \u00b7 description"
+  },
+  {
+   "t0": 43.85,
+   "t1": 48.684,
+   "i": 7,
+   "segs": [
+    [
+     43.85,
+     45.621
+    ],
+    [
+     46.121,
+     48.233
+    ]
+   ],
+   "g": "stamp",
+   "title": "CONTAINER FOR MOUNTING|ON HEADGEAR",
+   "filed": "JUNE 12, 1990",
+   "date": "DEC. 10, 1991",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 48.684,
+   "t1": 52.98,
+   "i": 8,
+   "segs": [
+    [
+     48.684,
+     49.879
+    ]
+   ],
+   "g": "fig",
+   "fig": "tackle2",
+   "figno": "2",
+   "draw": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.918,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.918,
+   "t1": 1.865,
+   "txt": "real invention."
+  },
+  {
+   "t0": 2.265,
+   "t1": 3.477,
+   "txt": "A small plastic"
+  },
+  {
+   "t0": 3.477,
+   "t1": 3.801,
+   "txt": "box."
+  },
+  {
+   "t0": 4.201,
+   "t1": 5.342,
+   "txt": "With compartments,"
+  },
+  {
+   "t0": 5.342,
+   "t1": 5.722,
+   "txt": "a lid,"
+  },
+  {
+   "t0": 5.722,
+   "t1": 6.483,
+   "txt": "and a latch."
+  },
+  {
+   "t0": 7.034,
+   "t1": 7.835,
+   "txt": "Now look where"
+  },
+  {
+   "t0": 7.835,
+   "t1": 8.293,
+   "txt": "it goes."
+  },
+  {
+   "t0": 8.573,
+   "t1": 9.205,
+   "txt": "On top of"
+  },
+  {
+   "t0": 9.205,
+   "t1": 10.258,
+   "txt": "a baseball cap."
+  },
+  {
+   "t0": 10.538,
+   "t1": 11.278,
+   "txt": "It snaps over"
+  },
+  {
+   "t0": 11.278,
+   "t1": 11.904,
+   "txt": "the button."
+  },
+  {
+   "t0": 12.255,
+   "t1": 12.951,
+   "txt": "It's called a"
+  },
+  {
+   "t0": 12.951,
+   "t1": 14.129,
+   "txt": "container for mounting"
+  },
+  {
+   "t0": 14.129,
+   "t1": 14.772,
+   "txt": "on headgear."
+  },
+  {
+   "t0": 15.192,
+   "t1": 15.832,
+   "txt": "And it was"
+  },
+  {
+   "t0": 15.832,
+   "t1": 16.408,
+   "txt": "approved."
+  },
+  {
+   "t0": 16.909,
+   "t1": 17.933,
+   "txt": "The patent opens"
+  },
+  {
+   "t0": 17.933,
+   "t1": 18.829,
+   "txt": "with a census."
+  },
+  {
+   "t0": 19.109,
+   "t1": 20.16,
+   "txt": "There are thousands"
+  },
+  {
+   "t0": 20.16,
+   "t1": 20.769,
+   "txt": "of types of"
+  },
+  {
+   "t0": 20.769,
+   "t1": 21.654,
+   "txt": "tackle boxes for"
+  },
+  {
+   "t0": 21.654,
+   "t1": 22.373,
+   "txt": "fishing gear."
+  },
+  {
+   "t0": 22.724,
+   "t1": 23.44,
+   "txt": "The lid has"
+  },
+  {
+   "t0": 23.44,
+   "t1": 23.961,
+   "txt": "a latch."
+  },
+  {
+   "t0": 24.241,
+   "t1": 25.265,
+   "txt": "Because the person"
+  },
+  {
+   "t0": 25.265,
+   "t1": 26.119,
+   "txt": "wearing the cap"
+  },
+  {
+   "t0": 26.119,
+   "t1": 26.744,
+   "txt": "is going to"
+  },
+  {
+   "t0": 26.744,
+   "t1": 27.37,
+   "txt": "move about,"
+  },
+  {
+   "t0": 27.37,
+   "t1": 28.167,
+   "txt": "and look down."
+  },
+  {
+   "t0": 28.518,
+   "t1": 29.141,
+   "txt": "The box may"
+  },
+  {
+   "t0": 29.141,
+   "t1": 29.879,
+   "txt": "be about four"
+  },
+  {
+   "t0": 29.879,
+   "t1": 30.672,
+   "txt": "inches square."
+  },
+  {
+   "t0": 30.952,
+   "t1": 32.117,
+   "txt": "Boxes larger than"
+  },
+  {
+   "t0": 32.117,
+   "t1": 32.87,
+   "txt": "that can be"
+  },
+  {
+   "t0": 32.87,
+   "t1": 33.213,
+   "txt": "worn,"
+  },
+  {
+   "t0": 33.213,
+   "t1": 34.24,
+   "txt": "but they become"
+  },
+  {
+   "t0": 34.24,
+   "t1": 34.856,
+   "txt": "unwieldy."
+  },
+  {
+   "t0": 35.207,
+   "t1": 36.179,
+   "txt": "In some cases,"
+  },
+  {
+   "t0": 36.179,
+   "t1": 37.359,
+   "txt": "the container may"
+  },
+  {
+   "t0": 37.359,
+   "t1": 38.331,
+   "txt": "be larger than"
+  },
+  {
+   "t0": 38.331,
+   "t1": 39.095,
+   "txt": "the head of"
+  },
+  {
+   "t0": 39.095,
+   "t1": 39.859,
+   "txt": "the wearer,"
+  },
+  {
+   "t0": 39.859,
+   "t1": 40.692,
+   "txt": "and serve as"
+  },
+  {
+   "t0": 40.692,
+   "t1": 41.455,
+   "txt": "a sun shade"
+  },
+  {
+   "t0": 41.455,
+   "t1": 42.15,
+   "txt": "as well as"
+  },
+  {
+   "t0": 42.15,
+   "t1": 43.399,
+   "txt": "storage container."
+  },
+  {
+   "t0": 43.85,
+   "t1": 45.105,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 45.105,
+   "t1": 45.621,
+   "txt": "ninety."
+  },
+  {
+   "t0": 46.121,
+   "t1": 47.484,
+   "txt": "Approved in nineteen"
+  },
+  {
+   "t0": 47.484,
+   "t1": 48.233,
+   "txt": "ninety-one."
+  },
+  {
+   "t0": 48.684,
+   "t1": 49.367,
+   "txt": "As a sun"
+  },
+  {
+   "t0": 49.367,
+   "t1": 49.879,
+   "txt": "shade."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.034
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 12.255
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.909
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 22.724
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 28.518
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 35.207
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 43.85
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 48.684
+  }
+ ],
+ "hook": "WHAT'S ON|THIS [CAP]?",
+ "hook2": "A TACKLE BOX|ON A [CAP] \u00b7 1991",
+ "hookSwitch": 2,
+ "num": "US 5,070,546",
+ "tt": false
+}
