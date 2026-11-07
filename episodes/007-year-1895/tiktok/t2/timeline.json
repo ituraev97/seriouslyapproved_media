@@ -1,0 +1,651 @@
+{
+ "T": 71.03,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.762,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.779
+    ],
+    [
+     2.179,
+     6.211
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THIRD WHEEL",
+     158,
+     592,
+     80,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 6.762,
+   "t1": 12.831,
+   "i": 1,
+   "segs": [
+    [
+     6.762,
+     12.48
+    ]
+   ],
+   "g": "quote",
+   "q": "upon the rails of an ordinary railway track",
+   "hit": "railway track",
+   "src": "US 535,674 \u00b7 description"
+  },
+  {
+   "t0": 12.831,
+   "t1": 16.333,
+   "i": 2,
+   "segs": [
+    [
+     12.831,
+     13.663
+    ],
+    [
+     14.083,
+     15.832
+    ]
+   ],
+   "g": "stamp",
+   "title": "ATTACHMENT|FOR BICYCLES",
+   "filed": "AUG. 4, 1894",
+   "date": "MAR. 12, 1895",
+   "at": 0.6
+  },
+  {
+   "t0": 16.333,
+   "t1": 24.687,
+   "i": 3,
+   "segs": [
+    [
+     16.333,
+     18.296
+    ],
+    [
+     18.576,
+     24.336
+    ]
+   ],
+   "g": "quote",
+   "q": "a device of great simplicity and cheapness, which may be applied to any safety bicycle",
+   "hit": "any safety bicycle",
+   "src": "US 535,674 \u00b7 description"
+  },
+  {
+   "t0": 24.687,
+   "t1": 29.539,
+   "i": 4,
+   "segs": [
+    [
+     24.687,
+     29.188
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 29.539,
+   "t1": 33.346,
+   "i": 5,
+   "segs": [
+    [
+     29.539,
+     32.995
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail2",
+   "figno": "2",
+   "calls": [
+    [
+     "CONCAVE RIM",
+     300,
+     400,
+     100,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 33.346,
+   "t1": 40.889,
+   "i": 6,
+   "segs": [
+    [
+     33.346,
+     35.373
+    ],
+    [
+     35.653,
+     40.538
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail2",
+   "figno": "2",
+   "draw": false
+  },
+  {
+   "t0": 40.889,
+   "t1": 49.435,
+   "i": 7,
+   "segs": [
+    [
+     40.889,
+     45.881
+    ],
+    [
+     46.161,
+     49.084
+    ]
+   ],
+   "g": "quote",
+   "q": "enables the machine to be practically self-steering",
+   "hit": "self-steering",
+   "src": "US 535,674 \u00b7 description"
+  },
+  {
+   "t0": 49.435,
+   "t1": 54.052,
+   "i": 8,
+   "segs": [
+    [
+     49.435,
+     53.701
+    ]
+   ],
+   "g": "quote",
+   "q": "the machine will follow the rails like an ordinary car",
+   "hit": "like an ordinary car",
+   "src": "US 535,674 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 54.052,
+   "t1": 58.258,
+   "i": 9,
+   "segs": [
+    [
+     54.052,
+     57.807
+    ]
+   ],
+   "g": "quote",
+   "q": "the machine will follow the rails like an ordinary car",
+   "hit": "like an ordinary car",
+   "src": "US 535,674 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 58.258,
+   "t1": 62.705,
+   "i": 10,
+   "segs": [
+    [
+     58.258,
+     62.354
+    ]
+   ],
+   "g": "quote",
+   "q": "may be folded into a very small compass",
+   "hit": "very small compass",
+   "src": "US 535,674 \u00b7 description"
+  },
+  {
+   "t0": 62.705,
+   "t1": 71.03,
+   "i": 11,
+   "segs": [
+    [
+     62.705,
+     64.838
+    ],
+    [
+     65.338,
+     68.176
+    ]
+   ],
+   "g": "stamp",
+   "title": "ATTACHMENT|FOR BICYCLES",
+   "filed": "AUG. 4, 1894",
+   "date": "MAR. 12, 1895",
+   "big": true,
+   "at": 2.0
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.779,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.179,
+   "t1": 2.851,
+   "txt": "A bicycle,"
+  },
+  {
+   "t0": 2.851,
+   "t1": 3.658,
+   "txt": "with a third"
+  },
+  {
+   "t0": 3.658,
+   "t1": 4.061,
+   "txt": "wheel,"
+  },
+  {
+   "t0": 4.061,
+   "t1": 4.935,
+   "txt": "built to ride"
+  },
+  {
+   "t0": 4.935,
+   "t1": 6.211,
+   "txt": "on railroad tracks."
+  },
+  {
+   "t0": 6.762,
+   "t1": 7.368,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 7.368,
+   "t1": 8.377,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 8.377,
+   "t1": 8.78,
+   "txt": "words:"
+  },
+  {
+   "t0": 8.78,
+   "t1": 9.655,
+   "txt": "a bicycle run"
+  },
+  {
+   "t0": 9.655,
+   "t1": 10.596,
+   "txt": "upon the rails"
+  },
+  {
+   "t0": 10.596,
+   "t1": 11.538,
+   "txt": "of an ordinary"
+  },
+  {
+   "t0": 11.538,
+   "t1": 12.48,
+   "txt": "railway track."
+  },
+  {
+   "t0": 12.831,
+   "t1": 13.663,
+   "txt": "Approved."
+  },
+  {
+   "t0": 14.083,
+   "t1": 14.471,
+   "txt": "March,"
+  },
+  {
+   "t0": 14.471,
+   "t1": 15.832,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 16.333,
+   "t1": 16.824,
+   "txt": "And it is"
+  },
+  {
+   "t0": 16.824,
+   "t1": 17.423,
+   "txt": "not for one"
+  },
+  {
+   "t0": 17.423,
+   "t1": 18.296,
+   "txt": "special machine."
+  },
+  {
+   "t0": 18.576,
+   "t1": 19.034,
+   "txt": "It is a"
+  },
+  {
+   "t0": 19.034,
+   "t1": 20.016,
+   "txt": "device of great"
+  },
+  {
+   "t0": 20.016,
+   "t1": 21.652,
+   "txt": "simplicity and cheapness,"
+  },
+  {
+   "t0": 21.652,
+   "t1": 22.437,
+   "txt": "which may be"
+  },
+  {
+   "t0": 22.437,
+   "t1": 23.354,
+   "txt": "applied to any"
+  },
+  {
+   "t0": 23.354,
+   "t1": 24.336,
+   "txt": "safety bicycle."
+  },
+  {
+   "t0": 24.687,
+   "t1": 25.601,
+   "txt": "A small third"
+  },
+  {
+   "t0": 25.601,
+   "t1": 26.515,
+   "txt": "wheel runs on"
+  },
+  {
+   "t0": 26.515,
+   "t1": 27.781,
+   "txt": "the opposite rail,"
+  },
+  {
+   "t0": 27.781,
+   "t1": 28.696,
+   "txt": "held by three"
+  },
+  {
+   "t0": 28.696,
+   "t1": 29.188,
+   "txt": "braces."
+  },
+  {
+   "t0": 29.539,
+   "t1": 30.555,
+   "txt": "The third wheel"
+  },
+  {
+   "t0": 30.555,
+   "t1": 31.436,
+   "txt": "has a concave"
+  },
+  {
+   "t0": 31.436,
+   "t1": 31.707,
+   "txt": "rim,"
+  },
+  {
+   "t0": 31.707,
+   "t1": 32.385,
+   "txt": "so it hugs"
+  },
+  {
+   "t0": 32.385,
+   "t1": 32.995,
+   "txt": "the rail."
+  },
+  {
+   "t0": 33.346,
+   "t1": 34.296,
+   "txt": "The braces even"
+  },
+  {
+   "t0": 34.296,
+   "t1": 35.373,
+   "txt": "adjust in length."
+  },
+  {
+   "t0": 35.653,
+   "t1": 36.478,
+   "txt": "Each is made"
+  },
+  {
+   "t0": 36.478,
+   "t1": 37.373,
+   "txt": "in two parts,"
+  },
+  {
+   "t0": 37.373,
+   "t1": 38.13,
+   "txt": "joined by a"
+  },
+  {
+   "t0": 38.13,
+   "t1": 39.299,
+   "txt": "pipe coupling and"
+  },
+  {
+   "t0": 39.299,
+   "t1": 40.056,
+   "txt": "held by set"
+  },
+  {
+   "t0": 40.056,
+   "t1": 40.538,
+   "txt": "screws."
+  },
+  {
+   "t0": 40.889,
+   "t1": 41.791,
+   "txt": "And because the"
+  },
+  {
+   "t0": 41.791,
+   "t1": 42.693,
+   "txt": "braces hold the"
+  },
+  {
+   "t0": 42.693,
+   "t1": 43.535,
+   "txt": "steering fork,"
+  },
+  {
+   "t0": 43.535,
+   "t1": 44.438,
+   "txt": "the patent says"
+  },
+  {
+   "t0": 44.438,
+   "t1": 45.28,
+   "txt": "no steering is"
+  },
+  {
+   "t0": 45.28,
+   "t1": 45.881,
+   "txt": "necessary."
+  },
+  {
+   "t0": 46.161,
+   "t1": 46.933,
+   "txt": "It enables the"
+  },
+  {
+   "t0": 46.933,
+   "t1": 47.65,
+   "txt": "machine to be"
+  },
+  {
+   "t0": 47.65,
+   "t1": 49.084,
+   "txt": "practically self-steering."
+  },
+  {
+   "t0": 49.435,
+   "t1": 50.227,
+   "txt": "All the rider"
+  },
+  {
+   "t0": 50.227,
+   "t1": 50.837,
+   "txt": "need do is"
+  },
+  {
+   "t0": 50.837,
+   "t1": 51.629,
+   "txt": "to simply use"
+  },
+  {
+   "t0": 51.629,
+   "t1": 52.543,
+   "txt": "his strength to"
+  },
+  {
+   "t0": 52.543,
+   "t1": 53.701,
+   "txt": "propel the machine."
+  },
+  {
+   "t0": 54.052,
+   "t1": 55.058,
+   "txt": "And the machine"
+  },
+  {
+   "t0": 55.058,
+   "t1": 56.064,
+   "txt": "will follow the"
+  },
+  {
+   "t0": 56.064,
+   "t1": 56.935,
+   "txt": "rails like an"
+  },
+  {
+   "t0": 56.935,
+   "t1": 57.807,
+   "txt": "ordinary car."
+  },
+  {
+   "t0": 58.258,
+   "t1": 58.981,
+   "txt": "When you are"
+  },
+  {
+   "t0": 58.981,
+   "t1": 59.282,
+   "txt": "done,"
+  },
+  {
+   "t0": 59.282,
+   "t1": 60.487,
+   "txt": "the whole attachment"
+  },
+  {
+   "t0": 60.487,
+   "t1": 61.21,
+   "txt": "folds into a"
+  },
+  {
+   "t0": 61.21,
+   "t1": 62.354,
+   "txt": "very small compass."
+  },
+  {
+   "t0": 62.705,
+   "t1": 63.583,
+   "txt": "A bicycle that"
+  },
+  {
+   "t0": 63.583,
+   "t1": 64.336,
+   "txt": "thinks it is"
+  },
+  {
+   "t0": 64.336,
+   "t1": 64.838,
+   "txt": "a train."
+  },
+  {
+   "t0": 65.338,
+   "t1": 65.919,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 65.919,
+   "t1": 66.821,
+   "txt": "March twelfth,"
+  },
+  {
+   "t0": 66.821,
+   "t1": 68.176,
+   "txt": "eighteen ninety-five."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.762
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 12.831
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.333
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 24.687
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 29.539
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 33.346
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 40.889
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 49.435
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 54.052
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 58.258
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 62.705
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "A BIKE FOR|[RAILS] \u00b7 1895",
+ "hookSwitch": 2,
+ "num": "US 535,674",
+ "tt": true
+}

@@ -1,0 +1,6222 @@
+{
+ "T": 628.73,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.93,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.145
+    ],
+    [
+     3.645,
+     5.479
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 5.93,
+   "t1": 14.609,
+   "i": 1,
+   "segs": [
+    [
+     5.93,
+     6.933
+    ],
+    [
+     7.213,
+     9.965
+    ],
+    [
+     10.245,
+     12.848
+    ],
+    [
+     13.128,
+     14.258
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "LAMP",
+     46,
+     330,
+     70,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 14.609,
+   "t1": 18.218,
+   "i": 2,
+   "segs": [
+    [
+     14.609,
+     15.719
+    ],
+    [
+     16.139,
+     17.717
+    ]
+   ],
+   "g": "stamp",
+   "title": "ELECTRIC-WIRE-CONTAINING|HAT OR CAP BAND",
+   "filed": "JUNE 10, 1895",
+   "date": "AUG. 13, 1895",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 18.218,
+   "t1": 33.447,
+   "i": 3,
+   "segs": [
+    [
+     18.218,
+     19.562
+    ],
+    [
+     19.842,
+     22.381
+    ],
+    [
+     22.661,
+     24.581
+    ],
+    [
+     24.861,
+     33.096
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE YEAR FILE \u00b7 FILE 007",
+   "title": "The Weirdest|Patents of 1895",
+   "lines": [
+    "Real drawings. Real quotes.",
+    "Really approved."
+   ],
+   "stamp": true,
+   "at": 8.0,
+   "hook": "THE YEAR|[1895]",
+   "side": "FILE 007 \u00b7 THE YEAR FILE"
+  },
+  {
+   "t0": 33.447,
+   "t1": 35.891,
+   "i": 4,
+   "segs": [
+    [
+     33.447,
+     34.279
+    ],
+    [
+     34.559,
+     35.54
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 1 OF 9",
+   "numeral": "1",
+   "title": "Cane-|Umbrella",
+   "lines": [
+    "US 531,878",
+    "Filed 1894 \u00b7 Issued Jan. 1, 1895"
+   ],
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895"
+  },
+  {
+   "t0": 35.891,
+   "t1": 44.951,
+   "i": 5,
+   "segs": [
+    [
+     35.891,
+     41.246
+    ],
+    [
+     41.526,
+     42.763
+    ],
+    [
+     43.043,
+     44.6
+    ]
+   ],
+   "g": "fig",
+   "fig": "cu2",
+   "figno": "2",
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895"
+  },
+  {
+   "t0": 44.951,
+   "t1": 53.369,
+   "i": 6,
+   "segs": [
+    [
+     44.951,
+     47.277
+    ],
+    [
+     47.557,
+     53.018
+    ]
+   ],
+   "g": "quote",
+   "q": "The object of this invention is to simplify the construction and operation of cane umbrellas",
+   "hit": "cane umbrellas",
+   "src": "US 531,878 \u00b7 description",
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895"
+  },
+  {
+   "t0": 53.369,
+   "t1": 58.663,
+   "i": 7,
+   "segs": [
+    [
+     53.369,
+     58.212
+    ]
+   ],
+   "g": "quote",
+   "q": "The object of this invention is to simplify the construction and operation of cane umbrellas",
+   "hit": "simplify",
+   "src": "US 531,878 \u00b7 description",
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895",
+   "typed": false
+  },
+  {
+   "t0": 58.663,
+   "t1": 64.862,
+   "i": 8,
+   "segs": [
+    [
+     58.663,
+     59.687
+    ],
+    [
+     59.967,
+     64.511
+    ]
+   ],
+   "g": "fig",
+   "fig": "cu1",
+   "figno": "1 \u00b7 2",
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895",
+   "calls": [
+    [
+     "CANE",
+     244,
+     685,
+     -90,
+     40
+    ],
+    [
+     "UMBRELLA",
+     487,
+     122,
+     60,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 64.862,
+   "t1": 76.437,
+   "i": 9,
+   "segs": [
+    [
+     64.862,
+     68.766
+    ],
+    [
+     69.046,
+     76.086
+    ]
+   ],
+   "g": "fig",
+   "fig": "cu1",
+   "figno": "1",
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "KNOB",
+     472,
+     921,
+     80,
+     20
+    ]
+   ]
+  },
+  {
+   "t0": 76.437,
+   "t1": 85.516,
+   "i": 10,
+   "segs": [
+    [
+     76.437,
+     82.794
+    ],
+    [
+     83.074,
+     85.165
+    ]
+   ],
+   "g": "fig",
+   "fig": "cu2",
+   "figno": "2",
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "CATCH",
+     52,
+     762,
+     60,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 85.516,
+   "t1": 92.544,
+   "i": 11,
+   "segs": [
+    [
+     85.516,
+     92.193
+    ]
+   ],
+   "g": "quote",
+   "q": "the other end of the cane can remain permanently closed",
+   "hit": "permanently closed",
+   "src": "US 531,878 \u00b7 description",
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895"
+  },
+  {
+   "t0": 92.544,
+   "t1": 96.908,
+   "i": 12,
+   "segs": [
+    [
+     92.544,
+     93.888
+    ],
+    [
+     94.388,
+     96.457
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANE-|UMBRELLA",
+   "filed": "SEPT. 20, 1894",
+   "date": "JAN. 1, 1895",
+   "num": "US 531,878",
+   "hook": "THE CANE|[UMBRELLA]",
+   "side": "US 531,878 \u00b7 JAN. 1, 1895",
+   "at": 1.6
+  },
+  {
+   "t0": 96.908,
+   "t1": 99.203,
+   "i": 13,
+   "segs": [
+    [
+     96.908,
+     97.783
+    ],
+    [
+     98.063,
+     98.852
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 2 OF 9",
+   "numeral": "2",
+   "title": "Fan Attachment|for Swings",
+   "lines": [
+    "US 533,149",
+    "Filed 1894 \u00b7 Issued 1895"
+   ],
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895"
+  },
+  {
+   "t0": 99.203,
+   "t1": 106.298,
+   "i": 14,
+   "segs": [
+    [
+     99.203,
+     101.998
+    ],
+    [
+     102.278,
+     105.947
+    ]
+   ],
+   "g": "fig",
+   "fig": "fan1",
+   "figno": "1",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895"
+  },
+  {
+   "t0": 106.298,
+   "t1": 115.633,
+   "i": 15,
+   "segs": [
+    [
+     106.298,
+     107.536
+    ],
+    [
+     107.816,
+     115.282
+    ]
+   ],
+   "g": "quote",
+   "q": "a simple and cheap attachment adapted to fan the occupant of a swing during the oscillation of the swing",
+   "hit": "fan the occupant",
+   "src": "US 533,149 \u00b7 description",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895"
+  },
+  {
+   "t0": 115.633,
+   "t1": 122.368,
+   "i": 16,
+   "segs": [
+    [
+     115.633,
+     116.764
+    ],
+    [
+     117.044,
+     119.369
+    ],
+    [
+     119.649,
+     122.017
+    ]
+   ],
+   "g": "fig",
+   "fig": "fan1",
+   "figno": "1",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "FAN",
+     483,
+     495,
+     60,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 122.368,
+   "t1": 127.69,
+   "i": 17,
+   "segs": [
+    [
+     122.368,
+     127.339
+    ]
+   ],
+   "g": "quote",
+   "q": "the fan 8 will swing in the direction contrary to that the occupant of the swing moves",
+   "hit": "contrary",
+   "src": "US 533,149 \u00b7 description",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895",
+   "hide": true
+  },
+  {
+   "t0": 127.69,
+   "t1": 130.168,
+   "i": 18,
+   "segs": [
+    [
+     127.69,
+     129.717
+    ]
+   ],
+   "g": "quote",
+   "q": "the fan 8 will swing in the direction contrary to that the occupant of the swing moves, and, as is obvious, will fan him",
+   "hit": "will fan him",
+   "src": "US 533,149 \u00b7 description",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895",
+   "typed": false
+  },
+  {
+   "t0": 130.168,
+   "t1": 142.105,
+   "i": 19,
+   "segs": [
+    [
+     130.168,
+     132.514
+    ],
+    [
+     132.794,
+     141.754
+    ]
+   ],
+   "g": "quote",
+   "q": "the occupant of the swing would derive no benefit from air thrown off from the fan in other than a downward direction",
+   "hit": "no benefit",
+   "src": "US 533,149 \u00b7 description",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895"
+  },
+  {
+   "t0": 142.105,
+   "t1": 147.726,
+   "i": 20,
+   "segs": [
+    [
+     142.105,
+     147.375
+    ]
+   ],
+   "g": "fig",
+   "fig": "fan2",
+   "figno": "2",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895"
+  },
+  {
+   "t0": 147.726,
+   "t1": 156.143,
+   "i": 21,
+   "segs": [
+    [
+     147.726,
+     149.752
+    ],
+    [
+     150.032,
+     155.792
+    ]
+   ],
+   "g": "quote",
+   "q": "a needless amount of motion on the part of the fan makes a swing needlessly hard to operate",
+   "hit": "needlessly hard",
+   "src": "US 533,149 \u00b7 description",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895"
+  },
+  {
+   "t0": 156.143,
+   "t1": 162.193,
+   "i": 22,
+   "segs": [
+    [
+     156.143,
+     157.701
+    ],
+    [
+     157.981,
+     161.842
+    ]
+   ],
+   "g": "quote",
+   "q": "whether it be an ordinary seat, a cradle, a hammock, or so on",
+   "hit": "or so on",
+   "src": "US 533,149 \u00b7 description",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895"
+  },
+  {
+   "t0": 162.193,
+   "t1": 168.572,
+   "i": 23,
+   "segs": [
+    [
+     162.193,
+     163.046
+    ],
+    [
+     163.546,
+     164.954
+    ],
+    [
+     165.454,
+     168.121
+    ]
+   ],
+   "g": "stamp",
+   "title": "FAN ATTACHMENT|FOR SWINGS",
+   "filed": "MAR. 23, 1894",
+   "date": "JAN. 29, 1895",
+   "num": "US 533,149",
+   "hook": "A FAN FOR|YOUR [SWING]",
+   "side": "US 533,149 \u00b7 JAN. 29, 1895",
+   "at": 2.4
+  },
+  {
+   "t0": 168.572,
+   "t1": 170.995,
+   "i": 24,
+   "segs": [
+    [
+     168.572,
+     169.489
+    ],
+    [
+     169.769,
+     170.644
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 3 OF 9",
+   "numeral": "3",
+   "title": "Attachment|for Bicycles",
+   "lines": [
+    "US 535,674",
+    "Filed 1894 \u00b7 Issued 1895"
+   ],
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895"
+  },
+  {
+   "t0": 170.995,
+   "t1": 175.146,
+   "i": 25,
+   "segs": [
+    [
+     170.995,
+     172.936
+    ],
+    [
+     173.216,
+     174.795
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail1",
+   "figno": "1",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895"
+  },
+  {
+   "t0": 175.146,
+   "t1": 181.9,
+   "i": 26,
+   "segs": [
+    [
+     175.146,
+     176.767
+    ],
+    [
+     177.047,
+     181.549
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail1",
+   "figno": "1",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "THIRD WHEEL",
+     158,
+     592,
+     80,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 181.9,
+   "t1": 187.968,
+   "i": 27,
+   "segs": [
+    [
+     181.9,
+     187.617
+    ]
+   ],
+   "g": "quote",
+   "q": "upon the rails of an ordinary railway track",
+   "hit": "railway track",
+   "src": "US 535,674 \u00b7 description",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895"
+  },
+  {
+   "t0": 187.968,
+   "t1": 196.322,
+   "i": 28,
+   "segs": [
+    [
+     187.968,
+     189.931
+    ],
+    [
+     190.211,
+     195.971
+    ]
+   ],
+   "g": "quote",
+   "q": "a device of great simplicity and cheapness, which may be applied to any safety bicycle",
+   "hit": "any safety bicycle",
+   "src": "US 535,674 \u00b7 description",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895"
+  },
+  {
+   "t0": 196.322,
+   "t1": 200.129,
+   "i": 29,
+   "segs": [
+    [
+     196.322,
+     199.778
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail2",
+   "figno": "2",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895",
+   "calls": [
+    [
+     "CONCAVE RIM",
+     300,
+     400,
+     100,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 200.129,
+   "t1": 208.674,
+   "i": 30,
+   "segs": [
+    [
+     200.129,
+     205.121
+    ],
+    [
+     205.401,
+     208.323
+    ]
+   ],
+   "g": "quote",
+   "q": "enables the machine to be practically self-steering",
+   "hit": "self-steering",
+   "src": "US 535,674 \u00b7 description",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895"
+  },
+  {
+   "t0": 208.674,
+   "t1": 213.292,
+   "i": 31,
+   "segs": [
+    [
+     208.674,
+     212.941
+    ]
+   ],
+   "g": "quote",
+   "q": "the machine will follow the rails like an ordinary car",
+   "hit": "like an ordinary car",
+   "src": "US 535,674 \u00b7 description",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895",
+   "hide": true
+  },
+  {
+   "t0": 213.292,
+   "t1": 217.498,
+   "i": 32,
+   "segs": [
+    [
+     213.292,
+     217.047
+    ]
+   ],
+   "g": "quote",
+   "q": "the machine will follow the rails like an ordinary car",
+   "hit": "like an ordinary car",
+   "src": "US 535,674 \u00b7 description",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895",
+   "typed": false
+  },
+  {
+   "t0": 217.498,
+   "t1": 221.945,
+   "i": 33,
+   "segs": [
+    [
+     217.498,
+     221.594
+    ]
+   ],
+   "g": "quote",
+   "q": "may be folded into a very small compass",
+   "hit": "very small compass",
+   "src": "US 535,674 \u00b7 description",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895"
+  },
+  {
+   "t0": 221.945,
+   "t1": 227.461,
+   "i": 34,
+   "segs": [
+    [
+     221.945,
+     224.078
+    ],
+    [
+     224.578,
+     227.01
+    ]
+   ],
+   "g": "stamp",
+   "title": "ATTACHMENT|FOR BICYCLES",
+   "filed": "AUG. 4, 1894",
+   "date": "MAR. 12, 1895",
+   "num": "US 535,674",
+   "hook": "A BICYCLE|FOR [RAILS]",
+   "side": "US 535,674 \u00b7 MAR. 12, 1895",
+   "at": 2.6
+  },
+  {
+   "t0": 227.461,
+   "t1": 229.841,
+   "i": 35,
+   "segs": [
+    [
+     227.461,
+     228.378
+    ],
+    [
+     228.658,
+     229.49
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 4 OF 9",
+   "numeral": "4",
+   "title": "Velocipede|Hobby-Horse",
+   "lines": [
+    "US 543,874",
+    "Filed 1894 \u00b7 Issued 1895"
+   ],
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895"
+  },
+  {
+   "t0": 229.841,
+   "t1": 237.171,
+   "i": 36,
+   "segs": [
+    [
+     229.841,
+     234.833
+    ],
+    [
+     235.113,
+     236.82
+    ]
+   ],
+   "g": "fig",
+   "fig": "hh1",
+   "figno": "1",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895"
+  },
+  {
+   "t0": 237.171,
+   "t1": 240.779,
+   "i": 37,
+   "segs": [
+    [
+     237.171,
+     240.328
+    ]
+   ],
+   "g": "quote",
+   "q": "My invention relates to a hobby-horse velocipede",
+   "hit": "hobby-horse velocipede",
+   "src": "US 543,874 \u00b7 description",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895"
+  },
+  {
+   "t0": 240.779,
+   "t1": 246.018,
+   "i": 38,
+   "segs": [
+    [
+     240.779,
+     242.998
+    ],
+    [
+     243.278,
+     245.667
+    ]
+   ],
+   "g": "fig",
+   "fig": "hh1",
+   "figno": "1",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "RACKS",
+     460,
+     342,
+     90,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 246.018,
+   "t1": 252.62,
+   "i": 39,
+   "segs": [
+    [
+     246.018,
+     252.269
+    ]
+   ],
+   "g": "fig",
+   "fig": "hh1",
+   "figno": "1",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895",
+   "draw": false,
+   "vb": "300 200 500 400"
+  },
+  {
+   "t0": 252.62,
+   "t1": 262.616,
+   "i": 40,
+   "segs": [
+    [
+     252.62,
+     253.964
+    ],
+    [
+     254.244,
+     262.265
+    ]
+   ],
+   "g": "quote",
+   "q": "when the hobby-horse is rocked forward the sprocket-wheel 13 is rotated",
+   "hit": "rocked forward",
+   "src": "US 543,874 \u00b7 description",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895"
+  },
+  {
+   "t0": 262.616,
+   "t1": 272.061,
+   "i": 41,
+   "segs": [
+    [
+     262.616,
+     265.006
+    ],
+    [
+     265.286,
+     267.27
+    ],
+    [
+     267.55,
+     271.71
+    ]
+   ],
+   "g": "fig",
+   "fig": "hh1",
+   "figno": "1",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895",
+   "draw": false,
+   "vb": "300 200 500 400",
+   "calls": [
+    [
+     "GEARS",
+     460,
+     342,
+     80,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 272.061,
+   "t1": 275.484,
+   "i": 42,
+   "segs": [
+    [
+     272.061,
+     275.133
+    ]
+   ],
+   "g": "fig",
+   "fig": "hh1",
+   "figno": "1",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "BACK WHEELS",
+     738,
+     481,
+     60,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 275.484,
+   "t1": 282.067,
+   "i": 43,
+   "segs": [
+    [
+     275.484,
+     278.193
+    ],
+    [
+     278.473,
+     281.716
+    ]
+   ],
+   "g": "quote",
+   "q": "the forward portion of the hobby-horse may be moved up and down",
+   "hit": "up and down",
+   "src": "US 543,874 \u00b7 description",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895"
+  },
+  {
+   "t0": 282.067,
+   "t1": 287.86,
+   "i": 44,
+   "segs": [
+    [
+     282.067,
+     284.371
+    ],
+    [
+     284.871,
+     287.409
+    ]
+   ],
+   "g": "stamp",
+   "title": "VELOCIPEDE|HOBBY-HORSE",
+   "filed": "OCT. 22, 1894",
+   "date": "AUG. 6, 1895",
+   "num": "US 543,874",
+   "hook": "THE HORSE|WITH [WHEELS]",
+   "side": "US 543,874 \u00b7 AUG. 6, 1895",
+   "at": 2.6
+  },
+  {
+   "t0": 287.86,
+   "t1": 290.433,
+   "i": 45,
+   "segs": [
+    [
+     287.86,
+     288.82
+    ],
+    [
+     289.1,
+     290.082
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 5 OF 9",
+   "numeral": "5",
+   "title": "Electric-Wire-Containing|Hat or Cap Band",
+   "lines": [
+    "US 544,419",
+    "Filed June 1895 \u00b7 Issued Aug. 1895"
+   ],
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 290.433,
+   "t1": 297.25,
+   "i": 46,
+   "segs": [
+    [
+     290.433,
+     292.054
+    ],
+    [
+     292.334,
+     296.899
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 297.25,
+   "t1": 305.415,
+   "i": 47,
+   "segs": [
+    [
+     297.25,
+     298.893
+    ],
+    [
+     299.173,
+     300.517
+    ],
+    [
+     300.797,
+     305.064
+    ]
+   ],
+   "g": "quote",
+   "q": "adapted to have an incandescent light attached to it",
+   "hit": "incandescent light",
+   "src": "US 544,419 \u00b7 description",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 305.415,
+   "t1": 313.472,
+   "i": 48,
+   "segs": [
+    [
+     305.415,
+     307.185
+    ],
+    [
+     307.465,
+     310.025
+    ],
+    [
+     310.305,
+     313.121
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat7",
+   "figno": "7",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895",
+   "calls": [
+    [
+     "LAMP",
+     90,
+     130,
+     60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 313.472,
+   "t1": 319.69,
+   "i": 49,
+   "segs": [
+    [
+     313.472,
+     319.339
+    ]
+   ],
+   "g": "quote",
+   "q": "Under this construction the lamp may be attached to and removed from the band with perfect convenience.",
+   "hit": "perfect convenience",
+   "src": "US 544,419 \u00b7 description",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 319.69,
+   "t1": 327.894,
+   "i": 50,
+   "segs": [
+    [
+     319.69,
+     324.917
+    ],
+    [
+     325.197,
+     327.543
+    ]
+   ],
+   "g": "quote",
+   "q": "composed of enameled leather, or otherwise constructed, so as to be waterproof",
+   "hit": "waterproof",
+   "src": "US 544,419 \u00b7 description",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 327.894,
+   "t1": 337.827,
+   "i": 51,
+   "segs": [
+    [
+     327.894,
+     329.26
+    ],
+    [
+     329.54,
+     337.476
+    ]
+   ],
+   "g": "quote",
+   "q": "lead down from the hat or cap over the body to some source of electrical energy",
+   "hit": "over the body",
+   "src": "US 544,419 \u00b7 description",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 337.827,
+   "t1": 343.02,
+   "i": 52,
+   "segs": [
+    [
+     337.827,
+     342.669
+    ]
+   ],
+   "g": "quote",
+   "q": "a dynamo carried upon a bicycle, or what not",
+   "hit": "or what not",
+   "src": "US 544,419 \u00b7 description",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895",
+   "hide": true
+  },
+  {
+   "t0": 343.02,
+   "t1": 344.481,
+   "i": 53,
+   "segs": [
+    [
+     343.02,
+     343.98
+    ]
+   ],
+   "g": "quote",
+   "q": "a dynamo carried upon a bicycle, or what not",
+   "hit": "or what not",
+   "src": "US 544,419 \u00b7 description",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895",
+   "typed": false
+  },
+  {
+   "t0": 344.481,
+   "t1": 351.064,
+   "i": 54,
+   "segs": [
+    [
+     344.481,
+     347.276
+    ],
+    [
+     347.556,
+     350.713
+    ]
+   ],
+   "g": "fig",
+   "fig": "band",
+   "figno": "2a",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 351.064,
+   "t1": 356.977,
+   "i": 55,
+   "segs": [
+    [
+     351.064,
+     356.526
+    ]
+   ],
+   "g": "quote",
+   "q": "The hat or cap will otherwise be worn just the same as any ordinary hat or cap",
+   "hit": "any ordinary hat",
+   "src": "US 544,419 \u00b7 description",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895"
+  },
+  {
+   "t0": 356.977,
+   "t1": 363.697,
+   "i": 56,
+   "segs": [
+    [
+     356.977,
+     358.15
+    ],
+    [
+     358.65,
+     359.973
+    ],
+    [
+     360.473,
+     363.246
+    ]
+   ],
+   "g": "stamp",
+   "title": "ELECTRIC-WIRE-CONTAINING|HAT OR CAP BAND",
+   "filed": "JUNE 10, 1895",
+   "date": "AUG. 13, 1895",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895",
+   "at": 1.8
+  },
+  {
+   "t0": 363.697,
+   "t1": 373.165,
+   "i": 57,
+   "segs": [
+    [
+     363.697,
+     364.593
+    ],
+    [
+     364.873,
+     367.177
+    ],
+    [
+     367.457,
+     368.353
+    ],
+    [
+     368.633,
+     372.814
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 6 OF 9",
+   "numeral": "6",
+   "title": "Toy|(Drum-Beater)",
+   "lines": [
+    "US 546,021",
+    "Filed 1895 \u00b7 Issued Sept. 10, 1895"
+   ],
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 373.165,
+   "t1": 379.343,
+   "i": 58,
+   "segs": [
+    [
+     373.165,
+     374.424
+    ],
+    [
+     374.704,
+     378.992
+    ]
+   ],
+   "g": "quote",
+   "q": "a toy drum-beater, consisting of a figure, preferably that of a monkey",
+   "hit": "preferably that of a monkey",
+   "src": "US 546,021 \u00b7 description",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 379.343,
+   "t1": 387.401,
+   "i": 59,
+   "segs": [
+    [
+     379.343,
+     384.207
+    ],
+    [
+     384.487,
+     385.511
+    ],
+    [
+     385.791,
+     387.05
+    ]
+   ],
+   "g": "fig",
+   "fig": "mk1",
+   "figno": "1",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 387.401,
+   "t1": 393.109,
+   "i": 60,
+   "segs": [
+    [
+     387.401,
+     388.275
+    ],
+    [
+     388.555,
+     392.758
+    ]
+   ],
+   "g": "fig",
+   "fig": "mk1",
+   "figno": "1",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "DRUM",
+     248,
+     611,
+     80,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 393.109,
+   "t1": 399.436,
+   "i": 61,
+   "segs": [
+    [
+     393.109,
+     395.264
+    ],
+    [
+     395.544,
+     399.085
+    ]
+   ],
+   "g": "fig",
+   "fig": "mk2",
+   "figno": "2",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 399.436,
+   "t1": 408.216,
+   "i": 62,
+   "segs": [
+    [
+     399.436,
+     402.956
+    ],
+    [
+     403.236,
+     407.865
+    ]
+   ],
+   "g": "quote",
+   "q": "the regular time or marching-beat of the drum",
+   "hit": "marching-beat",
+   "src": "US 546,021 \u00b7 description",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 408.216,
+   "t1": 414.053,
+   "i": 63,
+   "segs": [
+    [
+     408.216,
+     409.347
+    ],
+    [
+     409.627,
+     413.702
+    ]
+   ],
+   "g": "quote",
+   "q": "a moderate movement being preferable",
+   "hit": "moderate movement",
+   "src": "US 546,021 \u00b7 description",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895",
+   "hide": true
+  },
+  {
+   "t0": 414.053,
+   "t1": 416.765,
+   "i": 64,
+   "segs": [
+    [
+     414.053,
+     416.314
+    ]
+   ],
+   "g": "quote",
+   "q": "a moderate movement being preferable",
+   "hit": "moderate movement",
+   "src": "US 546,021 \u00b7 description",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895",
+   "typed": false
+  },
+  {
+   "t0": 416.765,
+   "t1": 426.481,
+   "i": 65,
+   "segs": [
+    [
+     416.765,
+     426.13
+    ]
+   ],
+   "g": "quote",
+   "q": "not easily injured",
+   "hit": "not easily injured",
+   "src": "US 546,021 \u00b7 description",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 426.481,
+   "t1": 430.099,
+   "i": 66,
+   "segs": [
+    [
+     426.481,
+     428.273
+    ],
+    [
+     428.773,
+     429.648
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOY",
+   "filed": "MAR. 2, 1895",
+   "date": "SEPT. 10, 1895",
+   "num": "US 546,021",
+   "hook": "THE MONKEY|[DRUMMER]",
+   "side": "US 546,021 \u00b7 SEPT. 10, 1895",
+   "at": 1.8
+  },
+  {
+   "t0": 430.099,
+   "t1": 433.634,
+   "i": 67,
+   "segs": [
+    [
+     430.099,
+     431.016
+    ],
+    [
+     431.296,
+     432.107
+    ],
+    [
+     432.387,
+     433.283
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 7 OF 9",
+   "numeral": "7",
+   "title": "Toy|(Climbing Spider)",
+   "lines": [
+    "US 545,958",
+    "Filed 1895 \u00b7 Issued Sept. 10, 1895"
+   ],
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 433.634,
+   "t1": 438.126,
+   "i": 68,
+   "segs": [
+    [
+     433.634,
+     435.277
+    ],
+    [
+     435.557,
+     437.775
+    ]
+   ],
+   "g": "fig",
+   "fig": "sp1",
+   "figno": "1",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895",
+   "calls": [
+    [
+     "FLY",
+     204,
+     170,
+     60,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 438.126,
+   "t1": 445.989,
+   "i": 69,
+   "segs": [
+    [
+     438.126,
+     441.774
+    ],
+    [
+     442.054,
+     445.638
+    ]
+   ],
+   "g": "fig",
+   "fig": "sp2",
+   "figno": "2",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 445.989,
+   "t1": 450.735,
+   "i": 70,
+   "segs": [
+    [
+     445.989,
+     450.384
+    ]
+   ],
+   "g": "quote",
+   "q": "taking up the string as a spider does his web",
+   "hit": "as a spider does his web",
+   "src": "US 545,958 \u00b7 description",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 450.735,
+   "t1": 456.718,
+   "i": 71,
+   "segs": [
+    [
+     450.735,
+     456.367
+    ]
+   ],
+   "g": "fig",
+   "fig": "sp2",
+   "figno": "2",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "LEGS",
+     51,
+     420,
+     60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 456.718,
+   "t1": 458.946,
+   "i": 72,
+   "segs": [
+    [
+     456.718,
+     458.595
+    ]
+   ],
+   "g": "quote",
+   "q": "so that the spider will seem to be trying to catch it",
+   "hit": "trying to catch it",
+   "src": "US 545,958 \u00b7 description",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895",
+   "hide": true
+  },
+  {
+   "t0": 458.946,
+   "t1": 462.064,
+   "i": 73,
+   "segs": [
+    [
+     458.946,
+     461.613
+    ]
+   ],
+   "g": "quote",
+   "q": "so that the spider will seem to be trying to catch it",
+   "hit": "trying to catch it",
+   "src": "US 545,958 \u00b7 description",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895",
+   "typed": false
+  },
+  {
+   "t0": 462.064,
+   "t1": 475.138,
+   "i": 74,
+   "segs": [
+    [
+     462.064,
+     463.792
+    ],
+    [
+     464.072,
+     466.312
+    ],
+    [
+     466.592,
+     472.501
+    ],
+    [
+     472.781,
+     474.787
+    ]
+   ],
+   "g": "quote",
+   "q": "imparts, probably, a more life-like appearance to the movements of the legs",
+   "hit": "probably",
+   "src": "US 545,958 \u00b7 description",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 475.138,
+   "t1": 481.446,
+   "i": 75,
+   "segs": [
+    [
+     475.138,
+     476.204
+    ],
+    [
+     476.484,
+     479.77
+    ],
+    [
+     480.05,
+     481.095
+    ]
+   ],
+   "g": "fig",
+   "fig": "sp1",
+   "figno": "1",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "NOT AN INSECT",
+     178,
+     713,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 481.446,
+   "t1": 485.917,
+   "i": 76,
+   "segs": [
+    [
+     481.446,
+     484.091
+    ],
+    [
+     484.591,
+     485.466
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOY",
+   "filed": "APR. 4, 1895",
+   "date": "SEPT. 10, 1895",
+   "num": "US 545,958",
+   "hook": "THE SPIDER|AND THE [FLY]",
+   "side": "US 545,958 \u00b7 SEPT. 10, 1895",
+   "at": 2.0
+  },
+  {
+   "t0": 485.917,
+   "t1": 489.196,
+   "i": 77,
+   "segs": [
+    [
+     485.917,
+     486.792
+    ],
+    [
+     487.072,
+     487.882
+    ],
+    [
+     488.162,
+     488.845
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 8 OF 9",
+   "numeral": "8",
+   "title": "Marine|Velocipede",
+   "lines": [
+    "US 546,105",
+    "Filed 1893 \u00b7 Issued Sept. 10, 1895"
+   ],
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 489.196,
+   "t1": 496.571,
+   "i": 78,
+   "segs": [
+    [
+     489.196,
+     492.951
+    ],
+    [
+     493.231,
+     495.087
+    ],
+    [
+     495.367,
+     496.22
+    ]
+   ],
+   "g": "fig",
+   "fig": "mv2",
+   "figno": "2",
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 496.571,
+   "t1": 502.727,
+   "i": 79,
+   "segs": [
+    [
+     496.571,
+     500.816
+    ],
+    [
+     501.096,
+     502.376
+    ]
+   ],
+   "g": "quote",
+   "q": "two cigar-shaped cylinders or floats arranged parallel to each other",
+   "hit": "cigar-shaped",
+   "src": "US 546,105 \u00b7 description",
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 502.727,
+   "t1": 507.305,
+   "i": 80,
+   "segs": [
+    [
+     502.727,
+     504.882
+    ],
+    [
+     505.162,
+     506.954
+    ]
+   ],
+   "g": "fig",
+   "fig": "mv1",
+   "figno": "1",
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895",
+   "calls": [
+    [
+     "PROPELLING WHEEL",
+     157,
+     435,
+     80,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 507.305,
+   "t1": 515.619,
+   "i": 81,
+   "segs": [
+    [
+     507.305,
+     510.078
+    ],
+    [
+     510.358,
+     513.601
+    ],
+    [
+     513.881,
+     515.268
+    ]
+   ],
+   "g": "fig",
+   "fig": "mv1",
+   "figno": "1",
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895",
+   "draw": false
+  },
+  {
+   "t0": 515.619,
+   "t1": 521.602,
+   "i": 82,
+   "segs": [
+    [
+     515.619,
+     521.251
+    ]
+   ],
+   "g": "fig",
+   "fig": "mv2",
+   "figno": "2",
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895",
+   "draw": false,
+   "calls": [
+    [
+     "SEAT",
+     191,
+     760,
+     80,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 521.602,
+   "t1": 529.889,
+   "i": 83,
+   "segs": [
+    [
+     521.602,
+     529.538
+    ]
+   ],
+   "g": "quote",
+   "q": "may be fixed an umbrella, flag, or other convenient device, at pleasure",
+   "hit": "at pleasure",
+   "src": "US 546,105 \u00b7 description",
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 529.889,
+   "t1": 539.266,
+   "i": 84,
+   "segs": [
+    [
+     529.889,
+     531.894
+    ],
+    [
+     532.174,
+     538.915
+    ]
+   ],
+   "g": "quote",
+   "q": "there are no obstructions to become clogged with vegetable or other floating matter",
+   "hit": "vegetable",
+   "src": "US 546,105 \u00b7 description",
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 539.266,
+   "t1": 546.349,
+   "i": 85,
+   "segs": [
+    [
+     539.266,
+     541.229
+    ],
+    [
+     541.729,
+     543.841
+    ],
+    [
+     544.341,
+     545.898
+    ]
+   ],
+   "g": "stamp",
+   "title": "MARINE|VELOCIPEDE",
+   "filed": "MAY 6, 1893",
+   "date": "SEPT. 10, 1895",
+   "num": "US 546,105",
+   "hook": "A BICYCLE|ON [WATER]",
+   "side": "US 546,105 \u00b7 SEPT. 10, 1895",
+   "at": 2.6
+  },
+  {
+   "t0": 546.349,
+   "t1": 550.226,
+   "i": 86,
+   "segs": [
+    [
+     546.349,
+     547.181
+    ],
+    [
+     547.461,
+     548.272
+    ],
+    [
+     548.552,
+     549.875
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895 \u00b7 PATENT No. 9 OF 9",
+   "numeral": "9",
+   "title": "Canopy|for Bicycles",
+   "lines": [
+    "US 546,104",
+    "Filed 1894 \u00b7 Issued Sept. 10, 1895"
+   ],
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 550.226,
+   "t1": 556.385,
+   "i": 87,
+   "segs": [
+    [
+     550.226,
+     552.21
+    ],
+    [
+     552.49,
+     554.346
+    ],
+    [
+     554.626,
+     556.034
+    ]
+   ],
+   "g": "fig",
+   "fig": "can1",
+   "figno": "1",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895",
+   "calls": [
+    [
+     "CANOPY FRAME",
+     220,
+     70,
+     80,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 556.385,
+   "t1": 561.92,
+   "i": 88,
+   "segs": [
+    [
+     556.385,
+     561.569
+    ]
+   ],
+   "g": "quote",
+   "q": "for protecting the rider from the rays of the sun and to shelter him from rain",
+   "hit": "rays of the sun",
+   "src": "US 546,104 \u00b7 description",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 561.92,
+   "t1": 567.177,
+   "i": 89,
+   "segs": [
+    [
+     561.92,
+     566.826
+    ]
+   ],
+   "g": "quote",
+   "q": "it offers no obstruction in riding against the wind",
+   "hit": "no obstruction",
+   "src": "US 546,104 \u00b7 description",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 567.177,
+   "t1": 568.652,
+   "i": 90,
+   "segs": [
+    [
+     567.177,
+     568.201
+    ]
+   ],
+   "g": "fig",
+   "fig": "can3",
+   "figno": "3",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 568.652,
+   "t1": 572.459,
+   "i": 91,
+   "segs": [
+    [
+     568.652,
+     572.108
+    ]
+   ],
+   "g": "quote",
+   "q": "may be arranged at an angle, to operate as a sail for accelerating the speed of the bicycle to assist the rider",
+   "hit": "as a sail",
+   "src": "US 546,104 \u00b7 description",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895",
+   "hide": true
+  },
+  {
+   "t0": 572.459,
+   "t1": 576.622,
+   "i": 92,
+   "segs": [
+    [
+     572.459,
+     576.171
+    ]
+   ],
+   "g": "quote",
+   "q": "may be arranged at an angle, to operate as a sail for accelerating the speed of the bicycle to assist the rider",
+   "hit": "as a sail",
+   "src": "US 546,104 \u00b7 description",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895",
+   "typed": false
+  },
+  {
+   "t0": 576.622,
+   "t1": 583.568,
+   "i": 93,
+   "segs": [
+    [
+     576.622,
+     578.393
+    ],
+    [
+     578.673,
+     583.217
+    ]
+   ],
+   "g": "fig",
+   "fig": "can7",
+   "figno": "7",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895"
+  },
+  {
+   "t0": 583.568,
+   "t1": 590.343,
+   "i": 94,
+   "segs": [
+    [
+     583.568,
+     585.424
+    ],
+    [
+     585.704,
+     589.992
+    ]
+   ],
+   "g": "fig",
+   "fig": "can1",
+   "figno": "1",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895",
+   "draw": false
+  },
+  {
+   "t0": 590.343,
+   "t1": 597.831,
+   "i": 95,
+   "segs": [
+    [
+     590.343,
+     592.242
+    ],
+    [
+     592.742,
+     593.851
+    ],
+    [
+     594.351,
+     597.38
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANOPY|FOR BICYCLES",
+   "filed": "SEPT. 27, 1894",
+   "date": "SEPT. 10, 1895",
+   "num": "US 546,104",
+   "hook": "A ROOF FOR|YOUR [BICYCLE]",
+   "side": "US 546,104 \u00b7 SEPT. 10, 1895",
+   "at": 3.4
+  },
+  {
+   "t0": 597.831,
+   "t1": 602.265,
+   "i": 96,
+   "segs": [
+    [
+     597.831,
+     601.714
+    ]
+   ],
+   "g": "title",
+   "kicker": "1895'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 007"
+  },
+  {
+   "t0": 602.265,
+   "t1": 614.357,
+   "i": 97,
+   "segs": [
+    [
+     602.265,
+     603.502
+    ],
+    [
+     603.782,
+     610.822
+    ],
+    [
+     611.102,
+     612.788
+    ],
+    [
+     613.068,
+     614.006
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "num": "US 544,419",
+   "hook": "A HAT WITH|A [LIGHT]",
+   "side": "US 544,419 \u00b7 AUG. 13, 1895",
+   "draw": false
+  },
+  {
+   "t0": 614.357,
+   "t1": 621.815,
+   "i": 98,
+   "segs": [
+    [
+     614.357,
+     617.685
+    ],
+    [
+     617.965,
+     621.464
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "531,878 \u00b7 533,149 \u00b7 535,674",
+    "543,874 \u00b7 544,419 \u00b7 546,021",
+    "545,958 \u00b7 546,105 \u00b7 546,104"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 007"
+  },
+  {
+   "t0": 621.815,
+   "t1": 628.73,
+   "i": 99,
+   "segs": [
+    [
+     621.815,
+     623.5
+    ],
+    [
+     623.78,
+     625.38
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 007"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.353,
+   "txt": "These are real"
+  },
+  {
+   "t0": 1.353,
+   "t1": 3.145,
+   "txt": "Victorian-era inventions."
+  },
+  {
+   "t0": 3.645,
+   "t1": 4.341,
+   "txt": "This one is"
+  },
+  {
+   "t0": 4.341,
+   "t1": 5.479,
+   "txt": "a policeman's hat."
+  },
+  {
+   "t0": 5.93,
+   "t1": 6.62,
+   "txt": "Look at the"
+  },
+  {
+   "t0": 6.62,
+   "t1": 6.933,
+   "txt": "band."
+  },
+  {
+   "t0": 7.213,
+   "t1": 7.838,
+   "txt": "That is an"
+  },
+  {
+   "t0": 7.838,
+   "t1": 8.714,
+   "txt": "electric lamp,"
+  },
+  {
+   "t0": 8.714,
+   "t1": 9.34,
+   "txt": "in its own"
+  },
+  {
+   "t0": 9.34,
+   "t1": 9.965,
+   "txt": "reflector."
+  },
+  {
+   "t0": 10.245,
+   "t1": 11.014,
+   "txt": "The wires run"
+  },
+  {
+   "t0": 11.014,
+   "t1": 11.546,
+   "txt": "down to a"
+  },
+  {
+   "t0": 11.546,
+   "t1": 12.434,
+   "txt": "battery in your"
+  },
+  {
+   "t0": 12.434,
+   "t1": 12.848,
+   "txt": "pocket."
+  },
+  {
+   "t0": 13.128,
+   "t1": 14.258,
+   "txt": "Or something else."
+  },
+  {
+   "t0": 14.609,
+   "t1": 15.719,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 16.139,
+   "t1": 17.717,
+   "txt": "In eighteen ninety-five."
+  },
+  {
+   "t0": 18.218,
+   "t1": 19.002,
+   "txt": "Welcome to the"
+  },
+  {
+   "t0": 19.002,
+   "t1": 19.562,
+   "txt": "year file."
+  },
+  {
+   "t0": 19.842,
+   "t1": 20.414,
+   "txt": "One year,"
+  },
+  {
+   "t0": 20.414,
+   "t1": 21.556,
+   "txt": "nine real patents,"
+  },
+  {
+   "t0": 21.556,
+   "t1": 22.381,
+   "txt": "all approved."
+  },
+  {
+   "t0": 22.661,
+   "t1": 23.321,
+   "txt": "The year is"
+  },
+  {
+   "t0": 23.321,
+   "t1": 24.581,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 24.861,
+   "t1": 25.817,
+   "txt": "America is in"
+  },
+  {
+   "t0": 25.817,
+   "t1": 26.993,
+   "txt": "a bicycle craze,"
+  },
+  {
+   "t0": 26.993,
+   "t1": 28.317,
+   "txt": "the electric light"
+  },
+  {
+   "t0": 28.317,
+   "t1": 29.272,
+   "txt": "is still new,"
+  },
+  {
+   "t0": 29.272,
+   "t1": 30.302,
+   "txt": "and the United"
+  },
+  {
+   "t0": 30.302,
+   "t1": 31.772,
+   "txt": "States Patent Office"
+  },
+  {
+   "t0": 31.772,
+   "t1": 32.36,
+   "txt": "is very,"
+  },
+  {
+   "t0": 32.36,
+   "t1": 33.096,
+   "txt": "very busy."
+  },
+  {
+   "t0": 33.447,
+   "t1": 34.279,
+   "txt": "Number one."
+  },
+  {
+   "t0": 34.559,
+   "t1": 35.54,
+   "txt": "New Year's Day."
+  },
+  {
+   "t0": 35.891,
+   "t1": 36.828,
+   "txt": "The very first"
+  },
+  {
+   "t0": 36.828,
+   "t1": 37.698,
+   "txt": "patent on our"
+  },
+  {
+   "t0": 37.698,
+   "t1": 38.702,
+   "txt": "list was issued"
+  },
+  {
+   "t0": 38.702,
+   "t1": 39.84,
+   "txt": "on January first,"
+  },
+  {
+   "t0": 39.84,
+   "t1": 41.246,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 41.526,
+   "t1": 41.959,
+   "txt": "It is a"
+  },
+  {
+   "t0": 41.959,
+   "t1": 42.763,
+   "txt": "walking cane."
+  },
+  {
+   "t0": 43.043,
+   "t1": 44.126,
+   "txt": "With an umbrella"
+  },
+  {
+   "t0": 44.126,
+   "t1": 44.6,
+   "txt": "inside."
+  },
+  {
+   "t0": 44.951,
+   "t1": 45.708,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 45.708,
+   "t1": 46.466,
+   "txt": "does not claim"
+  },
+  {
+   "t0": 46.466,
+   "t1": 46.952,
+   "txt": "to be the"
+  },
+  {
+   "t0": 46.952,
+   "t1": 47.277,
+   "txt": "first."
+  },
+  {
+   "t0": 47.557,
+   "t1": 48.308,
+   "txt": "Its object,"
+  },
+  {
+   "t0": 48.308,
+   "t1": 48.854,
+   "txt": "it says,"
+  },
+  {
+   "t0": 48.854,
+   "t1": 49.809,
+   "txt": "is to simplify"
+  },
+  {
+   "t0": 49.809,
+   "t1": 51.175,
+   "txt": "the construction and"
+  },
+  {
+   "t0": 51.175,
+   "t1": 52.335,
+   "txt": "operation of cane"
+  },
+  {
+   "t0": 52.335,
+   "t1": 53.018,
+   "txt": "umbrellas."
+  },
+  {
+   "t0": 53.369,
+   "t1": 54.381,
+   "txt": "So by eighteen"
+  },
+  {
+   "t0": 54.381,
+   "t1": 55.248,
+   "txt": "ninety-five,"
+  },
+  {
+   "t0": 55.248,
+   "t1": 56.838,
+   "txt": "cane umbrellas already"
+  },
+  {
+   "t0": 56.838,
+   "t1": 58.212,
+   "txt": "needed simplifying."
+  },
+  {
+   "t0": 58.663,
+   "t1": 59.325,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 59.325,
+   "t1": 59.687,
+   "txt": "trick."
+  },
+  {
+   "t0": 59.967,
+   "t1": 60.944,
+   "txt": "Pull the umbrella"
+  },
+  {
+   "t0": 60.944,
+   "t1": 61.52,
+   "txt": "out of the"
+  },
+  {
+   "t0": 61.52,
+   "t1": 61.807,
+   "txt": "cane,"
+  },
+  {
+   "t0": 61.807,
+   "t1": 62.67,
+   "txt": "turn it around,"
+  },
+  {
+   "t0": 62.67,
+   "t1": 63.303,
+   "txt": "and push it"
+  },
+  {
+   "t0": 63.303,
+   "t1": 63.935,
+   "txt": "back in the"
+  },
+  {
+   "t0": 63.935,
+   "t1": 64.511,
+   "txt": "other way."
+  },
+  {
+   "t0": 64.862,
+   "t1": 65.617,
+   "txt": "Now the knob"
+  },
+  {
+   "t0": 65.617,
+   "t1": 66.247,
+   "txt": "at the end"
+  },
+  {
+   "t0": 66.247,
+   "t1": 66.94,
+   "txt": "of the cane"
+  },
+  {
+   "t0": 66.94,
+   "t1": 67.758,
+   "txt": "is the handle"
+  },
+  {
+   "t0": 67.758,
+   "t1": 68.766,
+   "txt": "of the umbrella."
+  },
+  {
+   "t0": 69.046,
+   "t1": 70.023,
+   "txt": "In the patent's"
+  },
+  {
+   "t0": 70.023,
+   "t1": 70.415,
+   "txt": "words,"
+  },
+  {
+   "t0": 70.415,
+   "t1": 71.197,
+   "txt": "it forms its"
+  },
+  {
+   "t0": 71.197,
+   "t1": 71.979,
+   "txt": "top when the"
+  },
+  {
+   "t0": 71.979,
+   "t1": 72.761,
+   "txt": "cane is used"
+  },
+  {
+   "t0": 72.761,
+   "t1": 73.543,
+   "txt": "for walking,"
+  },
+  {
+   "t0": 73.543,
+   "t1": 74.456,
+   "txt": "and its bottom"
+  },
+  {
+   "t0": 74.456,
+   "t1": 75.564,
+   "txt": "when the umbrella"
+  },
+  {
+   "t0": 75.564,
+   "t1": 76.086,
+   "txt": "is open."
+  },
+  {
+   "t0": 76.437,
+   "t1": 76.91,
+   "txt": "Closed,"
+  },
+  {
+   "t0": 76.91,
+   "t1": 78.195,
+   "txt": "the umbrella slides"
+  },
+  {
+   "t0": 78.195,
+   "t1": 79.21,
+   "txt": "into the hollow"
+  },
+  {
+   "t0": 79.21,
+   "t1": 80.021,
+   "txt": "cane until a"
+  },
+  {
+   "t0": 80.021,
+   "t1": 80.9,
+   "txt": "rim stops it,"
+  },
+  {
+   "t0": 80.9,
+   "t1": 81.644,
+   "txt": "and a catch"
+  },
+  {
+   "t0": 81.644,
+   "t1": 82.388,
+   "txt": "holds it in"
+  },
+  {
+   "t0": 82.388,
+   "t1": 82.794,
+   "txt": "place."
+  },
+  {
+   "t0": 83.074,
+   "t1": 84.119,
+   "txt": "From the outside,"
+  },
+  {
+   "t0": 84.119,
+   "t1": 84.734,
+   "txt": "it is just"
+  },
+  {
+   "t0": 84.734,
+   "t1": 85.165,
+   "txt": "a cane."
+  },
+  {
+   "t0": 85.516,
+   "t1": 86.461,
+   "txt": "And because the"
+  },
+  {
+   "t0": 86.461,
+   "t1": 87.594,
+   "txt": "umbrella only ever"
+  },
+  {
+   "t0": 87.594,
+   "t1": 88.35,
+   "txt": "goes in from"
+  },
+  {
+   "t0": 88.35,
+   "t1": 88.854,
+   "txt": "one end,"
+  },
+  {
+   "t0": 88.854,
+   "t1": 89.673,
+   "txt": "the other end"
+  },
+  {
+   "t0": 89.673,
+   "t1": 90.366,
+   "txt": "of the cane"
+  },
+  {
+   "t0": 90.366,
+   "t1": 91.752,
+   "txt": "can remain permanently"
+  },
+  {
+   "t0": 91.752,
+   "t1": 92.193,
+   "txt": "closed."
+  },
+  {
+   "t0": 92.544,
+   "t1": 93.408,
+   "txt": "No cap to"
+  },
+  {
+   "t0": 93.408,
+   "t1": 93.888,
+   "txt": "lose."
+  },
+  {
+   "t0": 94.388,
+   "t1": 95.25,
+   "txt": "Approved on the"
+  },
+  {
+   "t0": 95.25,
+   "t1": 95.94,
+   "txt": "first day of"
+  },
+  {
+   "t0": 95.94,
+   "t1": 96.457,
+   "txt": "the year."
+  },
+  {
+   "t0": 96.908,
+   "t1": 97.783,
+   "txt": "Number two."
+  },
+  {
+   "t0": 98.063,
+   "t1": 98.852,
+   "txt": "The porch."
+  },
+  {
+   "t0": 99.203,
+   "t1": 100.193,
+   "txt": "Four weeks later,"
+  },
+  {
+   "t0": 100.193,
+   "t1": 101.183,
+   "txt": "the Patent Office"
+  },
+  {
+   "t0": 101.183,
+   "t1": 101.998,
+   "txt": "approved this."
+  },
+  {
+   "t0": 102.278,
+   "t1": 102.843,
+   "txt": "A frame,"
+  },
+  {
+   "t0": 102.843,
+   "t1": 103.407,
+   "txt": "a swing,"
+  },
+  {
+   "t0": 103.407,
+   "t1": 104.042,
+   "txt": "and a big"
+  },
+  {
+   "t0": 104.042,
+   "t1": 104.959,
+   "txt": "flat board on"
+  },
+  {
+   "t0": 104.959,
+   "t1": 105.947,
+   "txt": "two long arms."
+  },
+  {
+   "t0": 106.298,
+   "t1": 107.123,
+   "txt": "The board is"
+  },
+  {
+   "t0": 107.123,
+   "t1": 107.536,
+   "txt": "a fan."
+  },
+  {
+   "t0": 107.816,
+   "t1": 108.855,
+   "txt": "The patent wants"
+  },
+  {
+   "t0": 108.855,
+   "t1": 109.634,
+   "txt": "a simple and"
+  },
+  {
+   "t0": 109.634,
+   "t1": 111.192,
+   "txt": "cheap attachment adapted"
+  },
+  {
+   "t0": 111.192,
+   "t1": 111.841,
+   "txt": "to fan the"
+  },
+  {
+   "t0": 111.841,
+   "t1": 112.685,
+   "txt": "occupant of a"
+  },
+  {
+   "t0": 112.685,
+   "t1": 113.724,
+   "txt": "swing during the"
+  },
+  {
+   "t0": 113.724,
+   "t1": 114.893,
+   "txt": "oscillation of the"
+  },
+  {
+   "t0": 114.893,
+   "t1": 115.282,
+   "txt": "swing."
+  },
+  {
+   "t0": 115.633,
+   "t1": 116.45,
+   "txt": "It works like"
+  },
+  {
+   "t0": 116.45,
+   "t1": 116.764,
+   "txt": "this."
+  },
+  {
+   "t0": 117.044,
+   "t1": 117.838,
+   "txt": "When you swing"
+  },
+  {
+   "t0": 117.838,
+   "t1": 118.292,
+   "txt": "forward,"
+  },
+  {
+   "t0": 118.292,
+   "t1": 119.086,
+   "txt": "the fan swings"
+  },
+  {
+   "t0": 119.086,
+   "t1": 119.369,
+   "txt": "back."
+  },
+  {
+   "t0": 119.649,
+   "t1": 120.458,
+   "txt": "When you swing"
+  },
+  {
+   "t0": 120.458,
+   "t1": 120.747,
+   "txt": "back,"
+  },
+  {
+   "t0": 120.747,
+   "t1": 121.555,
+   "txt": "the fan swings"
+  },
+  {
+   "t0": 121.555,
+   "t1": 122.017,
+   "txt": "forward."
+  },
+  {
+   "t0": 122.368,
+   "t1": 123.114,
+   "txt": "The fan will"
+  },
+  {
+   "t0": 123.114,
+   "t1": 123.86,
+   "txt": "swing in the"
+  },
+  {
+   "t0": 123.86,
+   "t1": 125.164,
+   "txt": "direction contrary to"
+  },
+  {
+   "t0": 125.164,
+   "t1": 126.221,
+   "txt": "that the occupant"
+  },
+  {
+   "t0": 126.221,
+   "t1": 126.966,
+   "txt": "of the swing"
+  },
+  {
+   "t0": 126.966,
+   "t1": 127.339,
+   "txt": "moves."
+  },
+  {
+   "t0": 127.69,
+   "t1": 127.952,
+   "txt": "And,"
+  },
+  {
+   "t0": 127.952,
+   "t1": 128.867,
+   "txt": "as is obvious,"
+  },
+  {
+   "t0": 128.867,
+   "t1": 129.717,
+   "txt": "will fan him."
+  },
+  {
+   "t0": 130.168,
+   "t1": 130.865,
+   "txt": "Why not let"
+  },
+  {
+   "t0": 130.865,
+   "t1": 131.563,
+   "txt": "the fan fly"
+  },
+  {
+   "t0": 131.563,
+   "t1": 132.07,
+   "txt": "in a big"
+  },
+  {
+   "t0": 132.07,
+   "t1": 132.514,
+   "txt": "circle?"
+  },
+  {
+   "t0": 132.794,
+   "t1": 133.31,
+   "txt": "Because,"
+  },
+  {
+   "t0": 133.31,
+   "t1": 134.599,
+   "txt": "the patent explains,"
+  },
+  {
+   "t0": 134.599,
+   "t1": 135.566,
+   "txt": "the occupant of"
+  },
+  {
+   "t0": 135.566,
+   "t1": 136.533,
+   "txt": "the swing would"
+  },
+  {
+   "t0": 136.533,
+   "t1": 137.629,
+   "txt": "derive no benefit"
+  },
+  {
+   "t0": 137.629,
+   "t1": 138.596,
+   "txt": "from air thrown"
+  },
+  {
+   "t0": 138.596,
+   "t1": 139.369,
+   "txt": "off from the"
+  },
+  {
+   "t0": 139.369,
+   "t1": 140.143,
+   "txt": "fan in other"
+  },
+  {
+   "t0": 140.143,
+   "t1": 141.11,
+   "txt": "than a downward"
+  },
+  {
+   "t0": 141.11,
+   "t1": 141.754,
+   "txt": "direction."
+  },
+  {
+   "t0": 142.105,
+   "t1": 142.921,
+   "txt": "You can build"
+  },
+  {
+   "t0": 142.921,
+   "t1": 144.113,
+   "txt": "the frame anywhere,"
+  },
+  {
+   "t0": 144.113,
+   "t1": 144.74,
+   "txt": "or hang it"
+  },
+  {
+   "t0": 144.74,
+   "t1": 145.555,
+   "txt": "by ropes from"
+  },
+  {
+   "t0": 145.555,
+   "t1": 146.308,
+   "txt": "trees or the"
+  },
+  {
+   "t0": 146.308,
+   "t1": 147.375,
+   "txt": "roofs of porches."
+  },
+  {
+   "t0": 147.726,
+   "t1": 148.57,
+   "txt": "The patent also"
+  },
+  {
+   "t0": 148.57,
+   "t1": 149.752,
+   "txt": "worries about effort."
+  },
+  {
+   "t0": 150.032,
+   "t1": 151.158,
+   "txt": "A needless amount"
+  },
+  {
+   "t0": 151.158,
+   "t1": 151.952,
+   "txt": "of motion on"
+  },
+  {
+   "t0": 151.952,
+   "t1": 152.681,
+   "txt": "the part of"
+  },
+  {
+   "t0": 152.681,
+   "t1": 153.541,
+   "txt": "the fan makes"
+  },
+  {
+   "t0": 153.541,
+   "t1": 154.733,
+   "txt": "a swing needlessly"
+  },
+  {
+   "t0": 154.733,
+   "t1": 155.792,
+   "txt": "hard to operate."
+  },
+  {
+   "t0": 156.143,
+   "t1": 156.862,
+   "txt": "And swing is"
+  },
+  {
+   "t0": 156.862,
+   "t1": 157.701,
+   "txt": "meant broadly."
+  },
+  {
+   "t0": 157.981,
+   "t1": 158.846,
+   "txt": "Whether it be"
+  },
+  {
+   "t0": 158.846,
+   "t1": 159.978,
+   "txt": "an ordinary seat,"
+  },
+  {
+   "t0": 159.978,
+   "t1": 160.577,
+   "txt": "a cradle,"
+  },
+  {
+   "t0": 160.577,
+   "t1": 161.243,
+   "txt": "a hammock,"
+  },
+  {
+   "t0": 161.243,
+   "t1": 161.842,
+   "txt": "or so on."
+  },
+  {
+   "t0": 162.193,
+   "t1": 163.046,
+   "txt": "You swing."
+  },
+  {
+   "t0": 163.546,
+   "t1": 164.584,
+   "txt": "The fan swings"
+  },
+  {
+   "t0": 164.584,
+   "t1": 164.954,
+   "txt": "back."
+  },
+  {
+   "t0": 165.454,
+   "t1": 166.086,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 166.086,
+   "t1": 168.121,
+   "txt": "January eighteen ninety-five."
+  },
+  {
+   "t0": 168.572,
+   "t1": 169.489,
+   "txt": "Number three."
+  },
+  {
+   "t0": 169.769,
+   "t1": 170.644,
+   "txt": "The railroad."
+  },
+  {
+   "t0": 170.995,
+   "t1": 171.714,
+   "txt": "This is an"
+  },
+  {
+   "t0": 171.714,
+   "t1": 172.936,
+   "txt": "ordinary bicycle."
+  },
+  {
+   "t0": 173.216,
+   "t1": 173.87,
+   "txt": "Look at what"
+  },
+  {
+   "t0": 173.87,
+   "t1": 174.632,
+   "txt": "it is standing"
+  },
+  {
+   "t0": 174.632,
+   "t1": 174.795,
+   "txt": "on."
+  },
+  {
+   "t0": 175.146,
+   "t1": 176.313,
+   "txt": "Those are railroad"
+  },
+  {
+   "t0": 176.313,
+   "t1": 176.767,
+   "txt": "tracks."
+  },
+  {
+   "t0": 177.047,
+   "t1": 177.962,
+   "txt": "A small third"
+  },
+  {
+   "t0": 177.962,
+   "t1": 178.876,
+   "txt": "wheel runs on"
+  },
+  {
+   "t0": 178.876,
+   "t1": 180.142,
+   "txt": "the opposite rail,"
+  },
+  {
+   "t0": 180.142,
+   "t1": 181.056,
+   "txt": "held by three"
+  },
+  {
+   "t0": 181.056,
+   "t1": 181.549,
+   "txt": "braces."
+  },
+  {
+   "t0": 181.9,
+   "t1": 182.505,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 182.505,
+   "t1": 183.514,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 183.514,
+   "t1": 183.918,
+   "txt": "words:"
+  },
+  {
+   "t0": 183.918,
+   "t1": 184.792,
+   "txt": "a bicycle run"
+  },
+  {
+   "t0": 184.792,
+   "t1": 185.734,
+   "txt": "upon the rails"
+  },
+  {
+   "t0": 185.734,
+   "t1": 186.675,
+   "txt": "of an ordinary"
+  },
+  {
+   "t0": 186.675,
+   "t1": 187.617,
+   "txt": "railway track."
+  },
+  {
+   "t0": 187.968,
+   "t1": 188.459,
+   "txt": "And it is"
+  },
+  {
+   "t0": 188.459,
+   "t1": 189.058,
+   "txt": "not for one"
+  },
+  {
+   "t0": 189.058,
+   "t1": 189.931,
+   "txt": "special machine."
+  },
+  {
+   "t0": 190.211,
+   "t1": 190.669,
+   "txt": "It is a"
+  },
+  {
+   "t0": 190.669,
+   "t1": 191.651,
+   "txt": "device of great"
+  },
+  {
+   "t0": 191.651,
+   "t1": 193.287,
+   "txt": "simplicity and cheapness,"
+  },
+  {
+   "t0": 193.287,
+   "t1": 194.072,
+   "txt": "which may be"
+  },
+  {
+   "t0": 194.072,
+   "t1": 194.989,
+   "txt": "applied to any"
+  },
+  {
+   "t0": 194.989,
+   "t1": 195.971,
+   "txt": "safety bicycle."
+  },
+  {
+   "t0": 196.322,
+   "t1": 197.338,
+   "txt": "The third wheel"
+  },
+  {
+   "t0": 197.338,
+   "t1": 198.219,
+   "txt": "has a concave"
+  },
+  {
+   "t0": 198.219,
+   "t1": 198.49,
+   "txt": "rim,"
+  },
+  {
+   "t0": 198.49,
+   "t1": 199.168,
+   "txt": "so it hugs"
+  },
+  {
+   "t0": 199.168,
+   "t1": 199.778,
+   "txt": "the rail."
+  },
+  {
+   "t0": 200.129,
+   "t1": 201.031,
+   "txt": "And because the"
+  },
+  {
+   "t0": 201.031,
+   "t1": 201.933,
+   "txt": "braces hold the"
+  },
+  {
+   "t0": 201.933,
+   "t1": 202.775,
+   "txt": "steering fork,"
+  },
+  {
+   "t0": 202.775,
+   "t1": 203.677,
+   "txt": "the patent says"
+  },
+  {
+   "t0": 203.677,
+   "t1": 204.519,
+   "txt": "no steering is"
+  },
+  {
+   "t0": 204.519,
+   "t1": 205.121,
+   "txt": "necessary."
+  },
+  {
+   "t0": 205.401,
+   "t1": 206.173,
+   "txt": "It enables the"
+  },
+  {
+   "t0": 206.173,
+   "t1": 206.89,
+   "txt": "machine to be"
+  },
+  {
+   "t0": 206.89,
+   "t1": 208.323,
+   "txt": "practically self-steering."
+  },
+  {
+   "t0": 208.674,
+   "t1": 209.467,
+   "txt": "All the rider"
+  },
+  {
+   "t0": 209.467,
+   "t1": 210.076,
+   "txt": "need do is"
+  },
+  {
+   "t0": 210.076,
+   "t1": 210.869,
+   "txt": "to simply use"
+  },
+  {
+   "t0": 210.869,
+   "t1": 211.783,
+   "txt": "his strength to"
+  },
+  {
+   "t0": 211.783,
+   "t1": 212.941,
+   "txt": "propel the machine."
+  },
+  {
+   "t0": 213.292,
+   "t1": 214.298,
+   "txt": "And the machine"
+  },
+  {
+   "t0": 214.298,
+   "t1": 215.303,
+   "txt": "will follow the"
+  },
+  {
+   "t0": 215.303,
+   "t1": 216.175,
+   "txt": "rails like an"
+  },
+  {
+   "t0": 216.175,
+   "t1": 217.047,
+   "txt": "ordinary car."
+  },
+  {
+   "t0": 217.498,
+   "t1": 218.22,
+   "txt": "When you are"
+  },
+  {
+   "t0": 218.22,
+   "t1": 218.522,
+   "txt": "done,"
+  },
+  {
+   "t0": 218.522,
+   "t1": 219.726,
+   "txt": "the whole attachment"
+  },
+  {
+   "t0": 219.726,
+   "t1": 220.449,
+   "txt": "folds into a"
+  },
+  {
+   "t0": 220.449,
+   "t1": 221.594,
+   "txt": "very small compass."
+  },
+  {
+   "t0": 221.945,
+   "t1": 222.823,
+   "txt": "A bicycle that"
+  },
+  {
+   "t0": 222.823,
+   "t1": 223.576,
+   "txt": "thinks it is"
+  },
+  {
+   "t0": 223.576,
+   "t1": 224.078,
+   "txt": "a train."
+  },
+  {
+   "t0": 224.578,
+   "t1": 225.186,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 225.186,
+   "t1": 227.01,
+   "txt": "March eighteen ninety-five."
+  },
+  {
+   "t0": 227.461,
+   "t1": 228.378,
+   "txt": "Number four."
+  },
+  {
+   "t0": 228.658,
+   "t1": 229.49,
+   "txt": "The stable."
+  },
+  {
+   "t0": 229.841,
+   "t1": 231.268,
+   "txt": "In eighteen ninety-five,"
+  },
+  {
+   "t0": 231.268,
+   "t1": 232.1,
+   "txt": "you could have"
+  },
+  {
+   "t0": 232.1,
+   "t1": 233.05,
+   "txt": "a rocking horse,"
+  },
+  {
+   "t0": 233.05,
+   "t1": 233.764,
+   "txt": "or you could"
+  },
+  {
+   "t0": 233.764,
+   "t1": 234.833,
+   "txt": "have a velocipede."
+  },
+  {
+   "t0": 235.113,
+   "t1": 236.231,
+   "txt": "This patent refused"
+  },
+  {
+   "t0": 236.231,
+   "t1": 236.82,
+   "txt": "to choose."
+  },
+  {
+   "t0": 237.171,
+   "t1": 238.515,
+   "txt": "My invention relates"
+  },
+  {
+   "t0": 238.515,
+   "t1": 239.589,
+   "txt": "to a hobby-horse"
+  },
+  {
+   "t0": 239.589,
+   "t1": 240.328,
+   "txt": "velocipede."
+  },
+  {
+   "t0": 240.779,
+   "t1": 241.519,
+   "txt": "The horse sits"
+  },
+  {
+   "t0": 241.519,
+   "t1": 242.047,
+   "txt": "on a frame"
+  },
+  {
+   "t0": 242.047,
+   "t1": 242.998,
+   "txt": "with three wheels."
+  },
+  {
+   "t0": 243.278,
+   "t1": 244.147,
+   "txt": "Under the saddle"
+  },
+  {
+   "t0": 244.147,
+   "t1": 244.907,
+   "txt": "are two curved"
+  },
+  {
+   "t0": 244.907,
+   "t1": 245.667,
+   "txt": "toothed racks."
+  },
+  {
+   "t0": 246.018,
+   "t1": 246.965,
+   "txt": "Rock the horse,"
+  },
+  {
+   "t0": 246.965,
+   "t1": 247.786,
+   "txt": "and the racks"
+  },
+  {
+   "t0": 247.786,
+   "t1": 248.733,
+   "txt": "turn the gears,"
+  },
+  {
+   "t0": 248.733,
+   "t1": 249.617,
+   "txt": "the gears turn"
+  },
+  {
+   "t0": 249.617,
+   "t1": 250.122,
+   "txt": "a chain,"
+  },
+  {
+   "t0": 250.122,
+   "t1": 250.943,
+   "txt": "and the chain"
+  },
+  {
+   "t0": 250.943,
+   "t1": 251.827,
+   "txt": "turns the back"
+  },
+  {
+   "t0": 251.827,
+   "t1": 252.269,
+   "txt": "wheels."
+  },
+  {
+   "t0": 252.62,
+   "t1": 253.353,
+   "txt": "And it works"
+  },
+  {
+   "t0": 253.353,
+   "t1": 253.964,
+   "txt": "both ways."
+  },
+  {
+   "t0": 254.244,
+   "t1": 255.497,
+   "txt": "When the hobby-horse"
+  },
+  {
+   "t0": 255.497,
+   "t1": 256.563,
+   "txt": "is rocked forward"
+  },
+  {
+   "t0": 256.563,
+   "t1": 257.879,
+   "txt": "the sprocket-wheel is"
+  },
+  {
+   "t0": 257.879,
+   "t1": 258.38,
+   "txt": "rotated,"
+  },
+  {
+   "t0": 258.38,
+   "t1": 259.195,
+   "txt": "and also when"
+  },
+  {
+   "t0": 259.195,
+   "t1": 259.947,
+   "txt": "the horse is"
+  },
+  {
+   "t0": 259.947,
+   "t1": 261.2,
+   "txt": "rocked rearward said"
+  },
+  {
+   "t0": 261.2,
+   "t1": 262.265,
+   "txt": "wheel is rotated."
+  },
+  {
+   "t0": 262.616,
+   "t1": 263.52,
+   "txt": "Each gear only"
+  },
+  {
+   "t0": 263.52,
+   "t1": 264.489,
+   "txt": "turns the shaft"
+  },
+  {
+   "t0": 264.489,
+   "t1": 265.006,
+   "txt": "one way."
+  },
+  {
+   "t0": 265.286,
+   "t1": 266.079,
+   "txt": "A ratchet lets"
+  },
+  {
+   "t0": 266.079,
+   "t1": 266.646,
+   "txt": "it slip on"
+  },
+  {
+   "t0": 266.646,
+   "t1": 267.27,
+   "txt": "the return."
+  },
+  {
+   "t0": 267.55,
+   "t1": 268.203,
+   "txt": "So one rack"
+  },
+  {
+   "t0": 268.203,
+   "t1": 268.976,
+   "txt": "drives on the"
+  },
+  {
+   "t0": 268.976,
+   "t1": 269.749,
+   "txt": "forward rock,"
+  },
+  {
+   "t0": 269.749,
+   "t1": 270.521,
+   "txt": "and the other"
+  },
+  {
+   "t0": 270.521,
+   "t1": 271.413,
+   "txt": "on the backward"
+  },
+  {
+   "t0": 271.413,
+   "t1": 271.71,
+   "txt": "rock."
+  },
+  {
+   "t0": 272.061,
+   "t1": 272.957,
+   "txt": "So every rock,"
+  },
+  {
+   "t0": 272.957,
+   "t1": 273.981,
+   "txt": "forward or back,"
+  },
+  {
+   "t0": 273.981,
+   "t1": 275.133,
+   "txt": "moves you forward."
+  },
+  {
+   "t0": 275.484,
+   "t1": 276.026,
+   "txt": "To steer,"
+  },
+  {
+   "t0": 276.026,
+   "t1": 276.628,
+   "txt": "there is a"
+  },
+  {
+   "t0": 276.628,
+   "t1": 277.41,
+   "txt": "handle on top"
+  },
+  {
+   "t0": 277.41,
+   "t1": 278.193,
+   "txt": "of the horse."
+  },
+  {
+   "t0": 278.473,
+   "t1": 279.132,
+   "txt": "And the front"
+  },
+  {
+   "t0": 279.132,
+   "t1": 279.74,
+   "txt": "of the horse"
+  },
+  {
+   "t0": 279.74,
+   "t1": 280.348,
+   "txt": "may be moved"
+  },
+  {
+   "t0": 280.348,
+   "t1": 280.905,
+   "txt": "up and down"
+  },
+  {
+   "t0": 280.905,
+   "t1": 281.716,
+   "txt": "while you steer."
+  },
+  {
+   "t0": 282.067,
+   "t1": 282.741,
+   "txt": "A horse that"
+  },
+  {
+   "t0": 282.741,
+   "t1": 283.472,
+   "txt": "rocks its way"
+  },
+  {
+   "t0": 283.472,
+   "t1": 284.371,
+   "txt": "down the street."
+  },
+  {
+   "t0": 284.871,
+   "t1": 285.488,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 285.488,
+   "t1": 287.409,
+   "txt": "August eighteen ninety-five."
+  },
+  {
+   "t0": 287.86,
+   "t1": 288.82,
+   "txt": "Number five."
+  },
+  {
+   "t0": 289.1,
+   "t1": 290.082,
+   "txt": "The night shift."
+  },
+  {
+   "t0": 290.433,
+   "t1": 290.973,
+   "txt": "Back to the"
+  },
+  {
+   "t0": 290.973,
+   "t1": 291.563,
+   "txt": "hat from the"
+  },
+  {
+   "t0": 291.563,
+   "t1": 292.054,
+   "txt": "beginning."
+  },
+  {
+   "t0": 292.334,
+   "t1": 293.004,
+   "txt": "Figure one,"
+  },
+  {
+   "t0": 293.004,
+   "t1": 293.978,
+   "txt": "according to the"
+  },
+  {
+   "t0": 293.978,
+   "t1": 294.404,
+   "txt": "patent,"
+  },
+  {
+   "t0": 294.404,
+   "t1": 295.378,
+   "txt": "is a perspective"
+  },
+  {
+   "t0": 295.378,
+   "t1": 295.925,
+   "txt": "view of a"
+  },
+  {
+   "t0": 295.925,
+   "t1": 296.899,
+   "txt": "policeman's hat."
+  },
+  {
+   "t0": 297.25,
+   "t1": 298.189,
+   "txt": "The invention is"
+  },
+  {
+   "t0": 298.189,
+   "t1": 298.893,
+   "txt": "not the hat."
+  },
+  {
+   "t0": 299.173,
+   "t1": 299.677,
+   "txt": "It is the"
+  },
+  {
+   "t0": 299.677,
+   "t1": 300.517,
+   "txt": "band around it."
+  },
+  {
+   "t0": 300.797,
+   "t1": 301.816,
+   "txt": "A removable band"
+  },
+  {
+   "t0": 301.816,
+   "t1": 302.771,
+   "txt": "adapted to have"
+  },
+  {
+   "t0": 302.771,
+   "t1": 304.108,
+   "txt": "an incandescent light"
+  },
+  {
+   "t0": 304.108,
+   "t1": 305.064,
+   "txt": "attached to it."
+  },
+  {
+   "t0": 305.415,
+   "t1": 306.477,
+   "txt": "Inside the band"
+  },
+  {
+   "t0": 306.477,
+   "t1": 307.185,
+   "txt": "run wires."
+  },
+  {
+   "t0": 307.465,
+   "t1": 308.18,
+   "txt": "At the front"
+  },
+  {
+   "t0": 308.18,
+   "t1": 308.835,
+   "txt": "is a little"
+  },
+  {
+   "t0": 308.835,
+   "t1": 309.549,
+   "txt": "tab with two"
+  },
+  {
+   "t0": 309.549,
+   "t1": 310.025,
+   "txt": "buttons."
+  },
+  {
+   "t0": 310.305,
+   "t1": 310.869,
+   "txt": "The lamp,"
+  },
+  {
+   "t0": 310.869,
+   "t1": 311.494,
+   "txt": "in its own"
+  },
+  {
+   "t0": 311.494,
+   "t1": 312.12,
+   "txt": "reflector,"
+  },
+  {
+   "t0": 312.12,
+   "t1": 313.121,
+   "txt": "snaps onto them."
+  },
+  {
+   "t0": 313.472,
+   "t1": 314.895,
+   "txt": "Under this construction,"
+  },
+  {
+   "t0": 314.895,
+   "t1": 315.606,
+   "txt": "the lamp may"
+  },
+  {
+   "t0": 315.606,
+   "t1": 316.435,
+   "txt": "be attached to"
+  },
+  {
+   "t0": 316.435,
+   "t1": 317.383,
+   "txt": "and removed from"
+  },
+  {
+   "t0": 317.383,
+   "t1": 318.154,
+   "txt": "the band with"
+  },
+  {
+   "t0": 318.154,
+   "t1": 319.339,
+   "txt": "perfect convenience."
+  },
+  {
+   "t0": 319.69,
+   "t1": 320.682,
+   "txt": "The band itself"
+  },
+  {
+   "t0": 320.682,
+   "t1": 321.212,
+   "txt": "is made,"
+  },
+  {
+   "t0": 321.212,
+   "t1": 322.138,
+   "txt": "by preference,"
+  },
+  {
+   "t0": 322.138,
+   "t1": 323.461,
+   "txt": "of enameled leather,"
+  },
+  {
+   "t0": 323.461,
+   "t1": 323.99,
+   "txt": "so as to"
+  },
+  {
+   "t0": 323.99,
+   "t1": 324.917,
+   "txt": "be waterproof."
+  },
+  {
+   "t0": 325.197,
+   "t1": 325.629,
+   "txt": "Useful,"
+  },
+  {
+   "t0": 325.629,
+   "t1": 326.185,
+   "txt": "for a hat"
+  },
+  {
+   "t0": 326.185,
+   "t1": 327.358,
+   "txt": "with electricity in"
+  },
+  {
+   "t0": 327.358,
+   "t1": 327.543,
+   "txt": "it."
+  },
+  {
+   "t0": 327.894,
+   "t1": 328.829,
+   "txt": "Then the body"
+  },
+  {
+   "t0": 328.829,
+   "t1": 329.26,
+   "txt": "wires."
+  },
+  {
+   "t0": 329.54,
+   "t1": 330.47,
+   "txt": "They are called"
+  },
+  {
+   "t0": 330.47,
+   "t1": 330.78,
+   "txt": "that,"
+  },
+  {
+   "t0": 330.78,
+   "t1": 332.02,
+   "txt": "the patent explains,"
+  },
+  {
+   "t0": 332.02,
+   "t1": 333.074,
+   "txt": "because they lead"
+  },
+  {
+   "t0": 333.074,
+   "t1": 333.88,
+   "txt": "down from the"
+  },
+  {
+   "t0": 333.88,
+   "t1": 334.5,
+   "txt": "hat or cap"
+  },
+  {
+   "t0": 334.5,
+   "t1": 335.306,
+   "txt": "over the body"
+  },
+  {
+   "t0": 335.306,
+   "t1": 336.174,
+   "txt": "to some source"
+  },
+  {
+   "t0": 336.174,
+   "t1": 337.476,
+   "txt": "of electrical energy."
+  },
+  {
+   "t0": 337.827,
+   "t1": 338.746,
+   "txt": "Whether that be"
+  },
+  {
+   "t0": 338.746,
+   "t1": 339.788,
+   "txt": "a battery carried"
+  },
+  {
+   "t0": 339.788,
+   "t1": 340.646,
+   "txt": "in the pocket,"
+  },
+  {
+   "t0": 340.646,
+   "t1": 341.321,
+   "txt": "or a dynamo"
+  },
+  {
+   "t0": 341.321,
+   "t1": 342.179,
+   "txt": "carried upon a"
+  },
+  {
+   "t0": 342.179,
+   "t1": 342.669,
+   "txt": "bicycle."
+  },
+  {
+   "t0": 343.02,
+   "t1": 343.98,
+   "txt": "Or what not."
+  },
+  {
+   "t0": 344.481,
+   "t1": 345.271,
+   "txt": "The band even"
+  },
+  {
+   "t0": 345.271,
+   "t1": 346.122,
+   "txt": "adjusts to fit"
+  },
+  {
+   "t0": 346.122,
+   "t1": 347.276,
+   "txt": "any particular hat."
+  },
+  {
+   "t0": 347.556,
+   "t1": 348.44,
+   "txt": "And otherwise,"
+  },
+  {
+   "t0": 348.44,
+   "t1": 349.703,
+   "txt": "the patent promises,"
+  },
+  {
+   "t0": 349.703,
+   "t1": 350.713,
+   "txt": "nothing changes."
+  },
+  {
+   "t0": 351.064,
+   "t1": 351.802,
+   "txt": "The hat or"
+  },
+  {
+   "t0": 351.802,
+   "t1": 353.131,
+   "txt": "cap will otherwise"
+  },
+  {
+   "t0": 353.131,
+   "t1": 354.016,
+   "txt": "be worn just"
+  },
+  {
+   "t0": 354.016,
+   "t1": 354.828,
+   "txt": "the same as"
+  },
+  {
+   "t0": 354.828,
+   "t1": 356.009,
+   "txt": "any ordinary hat"
+  },
+  {
+   "t0": 356.009,
+   "t1": 356.526,
+   "txt": "or cap."
+  },
+  {
+   "t0": 356.977,
+   "t1": 358.15,
+   "txt": "Filed in June."
+  },
+  {
+   "t0": 358.65,
+   "t1": 359.973,
+   "txt": "Approved in August."
+  },
+  {
+   "t0": 360.473,
+   "t1": 361.311,
+   "txt": "Just over two"
+  },
+  {
+   "t0": 361.311,
+   "t1": 361.763,
+   "txt": "months,"
+  },
+  {
+   "t0": 361.763,
+   "t1": 362.343,
+   "txt": "for a hat"
+  },
+  {
+   "t0": 362.343,
+   "t1": 363.246,
+   "txt": "that plugs in."
+  },
+  {
+   "t0": 363.697,
+   "t1": 364.593,
+   "txt": "Number six."
+  },
+  {
+   "t0": 364.873,
+   "t1": 365.869,
+   "txt": "September tenth,"
+  },
+  {
+   "t0": 365.869,
+   "t1": 367.177,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 367.457,
+   "t1": 368.353,
+   "txt": "A busy day."
+  },
+  {
+   "t0": 368.633,
+   "t1": 369.457,
+   "txt": "The last four"
+  },
+  {
+   "t0": 369.457,
+   "t1": 370.344,
+   "txt": "patents on our"
+  },
+  {
+   "t0": 370.344,
+   "t1": 371.167,
+   "txt": "list were all"
+  },
+  {
+   "t0": 371.167,
+   "t1": 371.991,
+   "txt": "issued on the"
+  },
+  {
+   "t0": 371.991,
+   "t1": 372.814,
+   "txt": "same Tuesday."
+  },
+  {
+   "t0": 373.165,
+   "t1": 374.004,
+   "txt": "The first is"
+  },
+  {
+   "t0": 374.004,
+   "t1": 374.424,
+   "txt": "a toy."
+  },
+  {
+   "t0": 374.704,
+   "t1": 375.856,
+   "txt": "A toy drum-beater,"
+  },
+  {
+   "t0": 375.856,
+   "t1": 376.816,
+   "txt": "consisting of a"
+  },
+  {
+   "t0": 376.816,
+   "t1": 377.264,
+   "txt": "figure,"
+  },
+  {
+   "t0": 377.264,
+   "t1": 378.416,
+   "txt": "preferably that of"
+  },
+  {
+   "t0": 378.416,
+   "t1": 378.992,
+   "txt": "a monkey."
+  },
+  {
+   "t0": 379.343,
+   "t1": 380.205,
+   "txt": "The patent was"
+  },
+  {
+   "t0": 380.205,
+   "t1": 381.129,
+   "txt": "assigned to the"
+  },
+  {
+   "t0": 381.129,
+   "t1": 382.668,
+   "txt": "Waterbury Button Company,"
+  },
+  {
+   "t0": 382.668,
+   "t1": 383.468,
+   "txt": "of Waterbury,"
+  },
+  {
+   "t0": 383.468,
+   "t1": 384.207,
+   "txt": "Connecticut."
+  },
+  {
+   "t0": 384.487,
+   "t1": 385.511,
+   "txt": "A button company."
+  },
+  {
+   "t0": 385.791,
+   "t1": 386.649,
+   "txt": "With a drumming"
+  },
+  {
+   "t0": 386.649,
+   "t1": 387.05,
+   "txt": "monkey."
+  },
+  {
+   "t0": 387.401,
+   "t1": 388.275,
+   "txt": "Here he is."
+  },
+  {
+   "t0": 388.555,
+   "t1": 389.235,
+   "txt": "A coat with"
+  },
+  {
+   "t0": 389.235,
+   "t1": 389.73,
+   "txt": "buttons,"
+  },
+  {
+   "t0": 389.73,
+   "t1": 390.348,
+   "txt": "a hat with"
+  },
+  {
+   "t0": 390.348,
+   "t1": 390.842,
+   "txt": "a plume,"
+  },
+  {
+   "t0": 390.842,
+   "t1": 391.46,
+   "txt": "a stick in"
+  },
+  {
+   "t0": 391.46,
+   "t1": 392.078,
+   "txt": "each hand,"
+  },
+  {
+   "t0": 392.078,
+   "t1": 392.758,
+   "txt": "and a drum."
+  },
+  {
+   "t0": 393.109,
+   "t1": 394.152,
+   "txt": "Inside his body"
+  },
+  {
+   "t0": 394.152,
+   "t1": 394.986,
+   "txt": "is a toothed"
+  },
+  {
+   "t0": 394.986,
+   "t1": 395.264,
+   "txt": "bar."
+  },
+  {
+   "t0": 395.544,
+   "t1": 396.46,
+   "txt": "Hold the handle"
+  },
+  {
+   "t0": 396.46,
+   "t1": 397.192,
+   "txt": "in one hand,"
+  },
+  {
+   "t0": 397.192,
+   "t1": 397.986,
+   "txt": "and slide the"
+  },
+  {
+   "t0": 397.986,
+   "t1": 398.719,
+   "txt": "bar with the"
+  },
+  {
+   "t0": 398.719,
+   "t1": 399.085,
+   "txt": "other."
+  },
+  {
+   "t0": 399.436,
+   "t1": 400.868,
+   "txt": "Each drum-stick striking"
+  },
+  {
+   "t0": 400.868,
+   "t1": 401.524,
+   "txt": "the drum at"
+  },
+  {
+   "t0": 401.524,
+   "t1": 402.479,
+   "txt": "each movement of"
+  },
+  {
+   "t0": 402.479,
+   "t1": 402.956,
+   "txt": "the bar."
+  },
+  {
+   "t0": 403.236,
+   "t1": 403.924,
+   "txt": "The result,"
+  },
+  {
+   "t0": 403.924,
+   "t1": 404.925,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 404.925,
+   "t1": 405.801,
+   "txt": "is the regular"
+  },
+  {
+   "t0": 405.801,
+   "t1": 407.115,
+   "txt": "time or marching-beat"
+  },
+  {
+   "t0": 407.115,
+   "t1": 407.865,
+   "txt": "of the drum."
+  },
+  {
+   "t0": 408.216,
+   "t1": 408.907,
+   "txt": "Speed is up"
+  },
+  {
+   "t0": 408.907,
+   "t1": 409.347,
+   "txt": "to you."
+  },
+  {
+   "t0": 409.627,
+   "t1": 410.362,
+   "txt": "The bar may"
+  },
+  {
+   "t0": 410.362,
+   "t1": 411.163,
+   "txt": "be slid back"
+  },
+  {
+   "t0": 411.163,
+   "t1": 412.232,
+   "txt": "and forth slowly"
+  },
+  {
+   "t0": 412.232,
+   "t1": 412.967,
+   "txt": "or quickly,"
+  },
+  {
+   "t0": 412.967,
+   "t1": 413.702,
+   "txt": "as desired."
+  },
+  {
+   "t0": 414.053,
+   "t1": 415.246,
+   "txt": "A moderate movement"
+  },
+  {
+   "t0": 415.246,
+   "t1": 416.314,
+   "txt": "being preferable."
+  },
+  {
+   "t0": 416.765,
+   "t1": 417.695,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 417.695,
+   "t1": 418.426,
+   "txt": "ends with a"
+  },
+  {
+   "t0": 418.426,
+   "t1": 418.957,
+   "txt": "promise:"
+  },
+  {
+   "t0": 418.957,
+   "t1": 419.887,
+   "txt": "a device which"
+  },
+  {
+   "t0": 419.887,
+   "t1": 421.215,
+   "txt": "will readily attract"
+  },
+  {
+   "t0": 421.215,
+   "t1": 422.145,
+   "txt": "the attention,"
+  },
+  {
+   "t0": 422.145,
+   "t1": 422.942,
+   "txt": "and which is"
+  },
+  {
+   "t0": 422.942,
+   "t1": 424.868,
+   "txt": "comparatively inexpensive and"
+  },
+  {
+   "t0": 424.868,
+   "t1": 426.13,
+   "txt": "not easily injured."
+  },
+  {
+   "t0": 426.481,
+   "t1": 427.285,
+   "txt": "A monkey with"
+  },
+  {
+   "t0": 427.285,
+   "t1": 428.273,
+   "txt": "a marching beat."
+  },
+  {
+   "t0": 428.773,
+   "t1": 429.648,
+   "txt": "Approved."
+  },
+  {
+   "t0": 430.099,
+   "t1": 431.016,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 431.296,
+   "t1": 432.107,
+   "txt": "Same day."
+  },
+  {
+   "t0": 432.387,
+   "t1": 433.283,
+   "txt": "Another toy."
+  },
+  {
+   "t0": 433.634,
+   "t1": 434.182,
+   "txt": "This is a"
+  },
+  {
+   "t0": 434.182,
+   "t1": 434.851,
+   "txt": "spider on a"
+  },
+  {
+   "t0": 434.851,
+   "t1": 435.277,
+   "txt": "thread."
+  },
+  {
+   "t0": 435.557,
+   "t1": 436.276,
+   "txt": "And near the"
+  },
+  {
+   "t0": 436.276,
+   "t1": 436.876,
+   "txt": "top of the"
+  },
+  {
+   "t0": 436.876,
+   "t1": 437.535,
+   "txt": "thread is a"
+  },
+  {
+   "t0": 437.535,
+   "t1": 437.775,
+   "txt": "fly."
+  },
+  {
+   "t0": 438.126,
+   "t1": 439.254,
+   "txt": "Inside the spider"
+  },
+  {
+   "t0": 439.254,
+   "t1": 440.05,
+   "txt": "is a spring,"
+  },
+  {
+   "t0": 440.05,
+   "t1": 441.045,
+   "txt": "like the spring"
+  },
+  {
+   "t0": 441.045,
+   "t1": 441.774,
+   "txt": "of a watch."
+  },
+  {
+   "t0": 442.054,
+   "t1": 443.014,
+   "txt": "Pull the thread"
+  },
+  {
+   "t0": 443.014,
+   "t1": 443.27,
+   "txt": "out,"
+  },
+  {
+   "t0": 443.27,
+   "t1": 443.718,
+   "txt": "let go,"
+  },
+  {
+   "t0": 443.718,
+   "t1": 444.614,
+   "txt": "and the spring"
+  },
+  {
+   "t0": 444.614,
+   "t1": 445.446,
+   "txt": "winds it back"
+  },
+  {
+   "t0": 445.446,
+   "t1": 445.638,
+   "txt": "up."
+  },
+  {
+   "t0": 445.989,
+   "t1": 446.918,
+   "txt": "Which makes the"
+  },
+  {
+   "t0": 446.918,
+   "t1": 447.722,
+   "txt": "spider climb,"
+  },
+  {
+   "t0": 447.722,
+   "t1": 448.527,
+   "txt": "taking up the"
+  },
+  {
+   "t0": 448.527,
+   "t1": 449.208,
+   "txt": "string as a"
+  },
+  {
+   "t0": 449.208,
+   "t1": 450.136,
+   "txt": "spider does his"
+  },
+  {
+   "t0": 450.136,
+   "t1": 450.384,
+   "txt": "web."
+  },
+  {
+   "t0": 450.735,
+   "t1": 451.53,
+   "txt": "And while it"
+  },
+  {
+   "t0": 451.53,
+   "t1": 451.994,
+   "txt": "climbs,"
+  },
+  {
+   "t0": 451.994,
+   "t1": 453.054,
+   "txt": "a crank vibrates"
+  },
+  {
+   "t0": 453.054,
+   "t1": 453.65,
+   "txt": "the legs,"
+  },
+  {
+   "t0": 453.65,
+   "t1": 454.445,
+   "txt": "so they move"
+  },
+  {
+   "t0": 454.445,
+   "t1": 455.108,
+   "txt": "in a rapid"
+  },
+  {
+   "t0": 455.108,
+   "t1": 456.367,
+   "txt": "and natural manner."
+  },
+  {
+   "t0": 456.718,
+   "t1": 457.344,
+   "txt": "The fly is"
+  },
+  {
+   "t0": 457.344,
+   "t1": 458.157,
+   "txt": "there for one"
+  },
+  {
+   "t0": 458.157,
+   "t1": 458.595,
+   "txt": "reason."
+  },
+  {
+   "t0": 458.946,
+   "t1": 459.521,
+   "txt": "So that the"
+  },
+  {
+   "t0": 459.521,
+   "t1": 460.358,
+   "txt": "spider will seem"
+  },
+  {
+   "t0": 460.358,
+   "t1": 460.986,
+   "txt": "to be trying"
+  },
+  {
+   "t0": 460.986,
+   "t1": 461.613,
+   "txt": "to catch it."
+  },
+  {
+   "t0": 462.064,
+   "t1": 462.866,
+   "txt": "There is even"
+  },
+  {
+   "t0": 462.866,
+   "t1": 463.792,
+   "txt": "a deluxe model."
+  },
+  {
+   "t0": 464.072,
+   "t1": 465.222,
+   "txt": "Two slotted plates,"
+  },
+  {
+   "t0": 465.222,
+   "t1": 466.009,
+   "txt": "three legs on"
+  },
+  {
+   "t0": 466.009,
+   "t1": 466.312,
+   "txt": "each."
+  },
+  {
+   "t0": 466.592,
+   "t1": 467.588,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 467.588,
+   "t1": 468.318,
+   "txt": "it imparts,"
+  },
+  {
+   "t0": 468.318,
+   "t1": 468.916,
+   "txt": "probably,"
+  },
+  {
+   "t0": 468.916,
+   "t1": 469.978,
+   "txt": "a more life-like"
+  },
+  {
+   "t0": 469.978,
+   "t1": 471.107,
+   "txt": "appearance to the"
+  },
+  {
+   "t0": 471.107,
+   "t1": 472.169,
+   "txt": "movements of the"
+  },
+  {
+   "t0": 472.169,
+   "t1": 472.501,
+   "txt": "legs."
+  },
+  {
+   "t0": 472.781,
+   "t1": 473.297,
+   "txt": "But it is"
+  },
+  {
+   "t0": 473.297,
+   "t1": 474.214,
+   "txt": "more complex and"
+  },
+  {
+   "t0": 474.214,
+   "t1": 474.787,
+   "txt": "expensive."
+  },
+  {
+   "t0": 475.138,
+   "t1": 476.204,
+   "txt": "One small note."
+  },
+  {
+   "t0": 476.484,
+   "t1": 477.495,
+   "txt": "Again and again,"
+  },
+  {
+   "t0": 477.495,
+   "t1": 478.506,
+   "txt": "the patent calls"
+  },
+  {
+   "t0": 478.506,
+   "t1": 479.327,
+   "txt": "the spider an"
+  },
+  {
+   "t0": 479.327,
+   "t1": 479.77,
+   "txt": "insect."
+  },
+  {
+   "t0": 480.05,
+   "t1": 480.899,
+   "txt": "We will allow"
+  },
+  {
+   "t0": 480.899,
+   "t1": 481.095,
+   "txt": "it."
+  },
+  {
+   "t0": 481.446,
+   "t1": 482.478,
+   "txt": "A spider forever"
+  },
+  {
+   "t0": 482.478,
+   "t1": 483.317,
+   "txt": "chasing a fly"
+  },
+  {
+   "t0": 483.317,
+   "t1": 484.091,
+   "txt": "up a string."
+  },
+  {
+   "t0": 484.591,
+   "t1": 485.466,
+   "txt": "Approved."
+  },
+  {
+   "t0": 485.917,
+   "t1": 486.792,
+   "txt": "Number eight."
+  },
+  {
+   "t0": 487.072,
+   "t1": 487.882,
+   "txt": "Same day."
+  },
+  {
+   "t0": 488.162,
+   "t1": 488.845,
+   "txt": "The lake."
+  },
+  {
+   "t0": 489.196,
+   "t1": 489.904,
+   "txt": "If you can"
+  },
+  {
+   "t0": 489.904,
+   "t1": 491.109,
+   "txt": "ride a velocipede"
+  },
+  {
+   "t0": 491.109,
+   "t1": 491.817,
+   "txt": "on a road,"
+  },
+  {
+   "t0": 491.817,
+   "t1": 492.526,
+   "txt": "why not on"
+  },
+  {
+   "t0": 492.526,
+   "t1": 492.951,
+   "txt": "water."
+  },
+  {
+   "t0": 493.231,
+   "t1": 493.849,
+   "txt": "This is a"
+  },
+  {
+   "t0": 493.849,
+   "t1": 495.087,
+   "txt": "marine velocipede."
+  },
+  {
+   "t0": 495.367,
+   "t1": 496.22,
+   "txt": "From above."
+  },
+  {
+   "t0": 496.571,
+   "t1": 498.218,
+   "txt": "Two cigar-shaped cylinders"
+  },
+  {
+   "t0": 498.218,
+   "t1": 498.852,
+   "txt": "or floats,"
+  },
+  {
+   "t0": 498.852,
+   "t1": 500.119,
+   "txt": "arranged parallel to"
+  },
+  {
+   "t0": 500.119,
+   "t1": 500.816,
+   "txt": "each other."
+  },
+  {
+   "t0": 501.096,
+   "t1": 502.039,
+   "txt": "A seat between"
+  },
+  {
+   "t0": 502.039,
+   "t1": 502.376,
+   "txt": "them."
+  },
+  {
+   "t0": 502.727,
+   "t1": 503.481,
+   "txt": "From the side,"
+  },
+  {
+   "t0": 503.481,
+   "t1": 504.074,
+   "txt": "you can see"
+  },
+  {
+   "t0": 504.074,
+   "t1": 504.882,
+   "txt": "what drives it."
+  },
+  {
+   "t0": 505.162,
+   "t1": 506.031,
+   "txt": "A big propelling"
+  },
+  {
+   "t0": 506.031,
+   "t1": 506.682,
+   "txt": "wheel at the"
+  },
+  {
+   "t0": 506.682,
+   "t1": 506.954,
+   "txt": "back."
+  },
+  {
+   "t0": 507.305,
+   "t1": 508.38,
+   "txt": "Between the floats,"
+  },
+  {
+   "t0": 508.38,
+   "t1": 509.286,
+   "txt": "above the water,"
+  },
+  {
+   "t0": 509.286,
+   "t1": 510.078,
+   "txt": "sits the body."
+  },
+  {
+   "t0": 510.358,
+   "t1": 511.007,
+   "txt": "It rests on"
+  },
+  {
+   "t0": 511.007,
+   "t1": 511.714,
+   "txt": "beams at the"
+  },
+  {
+   "t0": 511.714,
+   "t1": 512.009,
+   "txt": "back,"
+  },
+  {
+   "t0": 512.009,
+   "t1": 512.481,
+   "txt": "and on a"
+  },
+  {
+   "t0": 512.481,
+   "t1": 513.247,
+   "txt": "spring at the"
+  },
+  {
+   "t0": 513.247,
+   "t1": 513.601,
+   "txt": "front."
+  },
+  {
+   "t0": 513.881,
+   "t1": 514.632,
+   "txt": "A suspension,"
+  },
+  {
+   "t0": 514.632,
+   "t1": 515.268,
+   "txt": "for a boat."
+  },
+  {
+   "t0": 515.619,
+   "t1": 516.666,
+   "txt": "The rider steers"
+  },
+  {
+   "t0": 516.666,
+   "t1": 517.649,
+   "txt": "with handles on"
+  },
+  {
+   "t0": 517.649,
+   "t1": 518.107,
+   "txt": "a post,"
+  },
+  {
+   "t0": 518.107,
+   "t1": 519.286,
+   "txt": "which pull cables,"
+  },
+  {
+   "t0": 519.286,
+   "t1": 520.203,
+   "txt": "which turn two"
+  },
+  {
+   "t0": 520.203,
+   "t1": 521.251,
+   "txt": "rudders at once."
+  },
+  {
+   "t0": 521.602,
+   "t1": 522.402,
+   "txt": "And there is"
+  },
+  {
+   "t0": 522.402,
+   "t1": 523.336,
+   "txt": "a second post,"
+  },
+  {
+   "t0": 523.336,
+   "t1": 524.269,
+   "txt": "upon the upper"
+  },
+  {
+   "t0": 524.269,
+   "t1": 525.069,
+   "txt": "end of which"
+  },
+  {
+   "t0": 525.069,
+   "t1": 525.87,
+   "txt": "may be fixed"
+  },
+  {
+   "t0": 525.87,
+   "t1": 526.67,
+   "txt": "an umbrella,"
+  },
+  {
+   "t0": 526.67,
+   "t1": 527.003,
+   "txt": "flag,"
+  },
+  {
+   "t0": 527.003,
+   "t1": 528.271,
+   "txt": "or other convenient"
+  },
+  {
+   "t0": 528.271,
+   "t1": 528.737,
+   "txt": "device,"
+  },
+  {
+   "t0": 528.737,
+   "t1": 529.538,
+   "txt": "at pleasure."
+  },
+  {
+   "t0": 529.889,
+   "t1": 530.703,
+   "txt": "The patent is"
+  },
+  {
+   "t0": 530.703,
+   "t1": 531.455,
+   "txt": "proud of its"
+  },
+  {
+   "t0": 531.455,
+   "t1": 531.894,
+   "txt": "cables."
+  },
+  {
+   "t0": 532.174,
+   "t1": 533.002,
+   "txt": "They run close"
+  },
+  {
+   "t0": 533.002,
+   "t1": 534.007,
+   "txt": "along the floats,"
+  },
+  {
+   "t0": 534.007,
+   "t1": 534.717,
+   "txt": "so there are"
+  },
+  {
+   "t0": 534.717,
+   "t1": 535.781,
+   "txt": "no obstructions to"
+  },
+  {
+   "t0": 535.781,
+   "t1": 536.905,
+   "txt": "become clogged with"
+  },
+  {
+   "t0": 536.905,
+   "t1": 537.969,
+   "txt": "vegetable or other"
+  },
+  {
+   "t0": 537.969,
+   "t1": 538.915,
+   "txt": "floating matter."
+  },
+  {
+   "t0": 539.266,
+   "t1": 539.959,
+   "txt": "Filed in May"
+  },
+  {
+   "t0": 539.959,
+   "t1": 541.229,
+   "txt": "eighteen ninety-three."
+  },
+  {
+   "t0": 541.729,
+   "t1": 542.847,
+   "txt": "Approved more than"
+  },
+  {
+   "t0": 542.847,
+   "t1": 543.841,
+   "txt": "two years later."
+  },
+  {
+   "t0": 544.341,
+   "t1": 545.379,
+   "txt": "A bicycle that"
+  },
+  {
+   "t0": 545.379,
+   "t1": 545.898,
+   "txt": "floats."
+  },
+  {
+   "t0": 546.349,
+   "t1": 547.181,
+   "txt": "Number nine."
+  },
+  {
+   "t0": 547.461,
+   "t1": 548.272,
+   "txt": "Same day."
+  },
+  {
+   "t0": 548.552,
+   "t1": 549.875,
+   "txt": "One last bicycle."
+  },
+  {
+   "t0": 550.226,
+   "t1": 550.908,
+   "txt": "A tall stem"
+  },
+  {
+   "t0": 550.908,
+   "t1": 551.838,
+   "txt": "clamps onto the"
+  },
+  {
+   "t0": 551.838,
+   "t1": 552.21,
+   "txt": "frame."
+  },
+  {
+   "t0": 552.49,
+   "t1": 552.954,
+   "txt": "On top,"
+  },
+  {
+   "t0": 552.954,
+   "t1": 553.749,
+   "txt": "the frame of"
+  },
+  {
+   "t0": 553.749,
+   "t1": 554.346,
+   "txt": "a canopy."
+  },
+  {
+   "t0": 554.626,
+   "t1": 555.238,
+   "txt": "A roof for"
+  },
+  {
+   "t0": 555.238,
+   "t1": 556.034,
+   "txt": "your bicycle."
+  },
+  {
+   "t0": 556.385,
+   "t1": 557.178,
+   "txt": "It exists for"
+  },
+  {
+   "t0": 557.178,
+   "t1": 558.397,
+   "txt": "protecting the rider"
+  },
+  {
+   "t0": 558.397,
+   "t1": 559.19,
+   "txt": "from the rays"
+  },
+  {
+   "t0": 559.19,
+   "t1": 559.861,
+   "txt": "of the sun,"
+  },
+  {
+   "t0": 559.861,
+   "t1": 560.715,
+   "txt": "and to shelter"
+  },
+  {
+   "t0": 560.715,
+   "t1": 561.569,
+   "txt": "him from rain."
+  },
+  {
+   "t0": 561.92,
+   "t1": 562.565,
+   "txt": "Held flat,"
+  },
+  {
+   "t0": 562.565,
+   "t1": 563.598,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 563.598,
+   "t1": 564.373,
+   "txt": "it offers no"
+  },
+  {
+   "t0": 564.373,
+   "t1": 565.729,
+   "txt": "obstruction in riding"
+  },
+  {
+   "t0": 565.729,
+   "t1": 566.826,
+   "txt": "against the wind."
+  },
+  {
+   "t0": 567.177,
+   "t1": 568.201,
+   "txt": "But tilt it."
+  },
+  {
+   "t0": 568.652,
+   "t1": 569.304,
+   "txt": "And it may"
+  },
+  {
+   "t0": 569.304,
+   "t1": 570.217,
+   "txt": "be arranged at"
+  },
+  {
+   "t0": 570.217,
+   "t1": 570.804,
+   "txt": "an angle,"
+  },
+  {
+   "t0": 570.804,
+   "t1": 571.652,
+   "txt": "to operate as"
+  },
+  {
+   "t0": 571.652,
+   "t1": 572.108,
+   "txt": "a sail."
+  },
+  {
+   "t0": 572.459,
+   "t1": 573.718,
+   "txt": "For accelerating the"
+  },
+  {
+   "t0": 573.718,
+   "t1": 574.473,
+   "txt": "speed of the"
+  },
+  {
+   "t0": 574.473,
+   "t1": 575.542,
+   "txt": "bicycle to assist"
+  },
+  {
+   "t0": 575.542,
+   "t1": 576.171,
+   "txt": "the rider."
+  },
+  {
+   "t0": 576.622,
+   "t1": 577.39,
+   "txt": "There is also"
+  },
+  {
+   "t0": 577.39,
+   "t1": 578.393,
+   "txt": "a second version."
+  },
+  {
+   "t0": 578.673,
+   "t1": 579.647,
+   "txt": "Here the canopy"
+  },
+  {
+   "t0": 579.647,
+   "t1": 580.231,
+   "txt": "sits on a"
+  },
+  {
+   "t0": 580.231,
+   "t1": 581.205,
+   "txt": "square frame of"
+  },
+  {
+   "t0": 581.205,
+   "t1": 581.529,
+   "txt": "bars,"
+  },
+  {
+   "t0": 581.529,
+   "t1": 582.438,
+   "txt": "mounted on top"
+  },
+  {
+   "t0": 582.438,
+   "t1": 583.217,
+   "txt": "of the stem."
+  },
+  {
+   "t0": 583.568,
+   "t1": 584.353,
+   "txt": "It folds up"
+  },
+  {
+   "t0": 584.353,
+   "t1": 585.138,
+   "txt": "when not in"
+  },
+  {
+   "t0": 585.138,
+   "t1": 585.424,
+   "txt": "use."
+  },
+  {
+   "t0": 585.704,
+   "t1": 586.226,
+   "txt": "And for a"
+  },
+  {
+   "t0": 586.226,
+   "t1": 587.095,
+   "txt": "lady's bicycle,"
+  },
+  {
+   "t0": 587.095,
+   "t1": 587.906,
+   "txt": "the clamps are"
+  },
+  {
+   "t0": 587.906,
+   "t1": 588.775,
+   "txt": "attached to the"
+  },
+  {
+   "t0": 588.775,
+   "t1": 589.992,
+   "txt": "steering-bar instead."
+  },
+  {
+   "t0": 590.343,
+   "t1": 590.801,
+   "txt": "A roof,"
+  },
+  {
+   "t0": 590.801,
+   "t1": 591.521,
+   "txt": "a sunshade,"
+  },
+  {
+   "t0": 591.521,
+   "t1": 592.242,
+   "txt": "and a sail."
+  },
+  {
+   "t0": 592.742,
+   "t1": 593.851,
+   "txt": "On a bicycle."
+  },
+  {
+   "t0": 594.351,
+   "t1": 594.944,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 594.944,
+   "t1": 595.997,
+   "txt": "September tenth,"
+  },
+  {
+   "t0": 595.997,
+   "t1": 597.38,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 597.831,
+   "t1": 598.835,
+   "txt": "So which patent"
+  },
+  {
+   "t0": 598.835,
+   "t1": 600.375,
+   "txt": "of eighteen ninety-five"
+  },
+  {
+   "t0": 600.375,
+   "t1": 601.112,
+   "txt": "is the most"
+  },
+  {
+   "t0": 601.112,
+   "t1": 601.714,
+   "txt": "approved?"
+  },
+  {
+   "t0": 602.265,
+   "t1": 603.09,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 603.09,
+   "t1": 603.502,
+   "txt": "the hat."
+  },
+  {
+   "t0": 603.782,
+   "t1": 604.76,
+   "txt": "Two months from"
+  },
+  {
+   "t0": 604.76,
+   "t1": 605.999,
+   "txt": "filing to approval,"
+  },
+  {
+   "t0": 605.999,
+   "t1": 607.107,
+   "txt": "for a policeman's"
+  },
+  {
+   "t0": 607.107,
+   "t1": 607.759,
+   "txt": "hat with a"
+  },
+  {
+   "t0": 607.759,
+   "t1": 608.476,
+   "txt": "lamp on its"
+  },
+  {
+   "t0": 608.476,
+   "t1": 608.802,
+   "txt": "band,"
+  },
+  {
+   "t0": 608.802,
+   "t1": 609.453,
+   "txt": "wired to a"
+  },
+  {
+   "t0": 609.453,
+   "t1": 610.366,
+   "txt": "battery in the"
+  },
+  {
+   "t0": 610.366,
+   "t1": 610.822,
+   "txt": "pocket."
+  },
+  {
+   "t0": 611.102,
+   "t1": 611.875,
+   "txt": "Or a dynamo"
+  },
+  {
+   "t0": 611.875,
+   "t1": 612.788,
+   "txt": "on a bicycle."
+  },
+  {
+   "t0": 613.068,
+   "t1": 614.006,
+   "txt": "Or what not."
+  },
+  {
+   "t0": 614.357,
+   "t1": 615.189,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 615.189,
+   "t1": 615.962,
+   "txt": "this video is"
+  },
+  {
+   "t0": 615.962,
+   "t1": 616.734,
+   "txt": "word for word"
+  },
+  {
+   "t0": 616.734,
+   "t1": 617.685,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 617.965,
+   "t1": 618.785,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 618.785,
+   "t1": 619.824,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 619.824,
+   "t1": 620.371,
+   "txt": "so you can"
+  },
+  {
+   "t0": 620.371,
+   "t1": 621.464,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 621.815,
+   "t1": 622.876,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 622.876,
+   "t1": 623.5,
+   "txt": "every day."
+  },
+  {
+   "t0": 623.78,
+   "t1": 624.352,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 624.352,
+   "t1": 625.209,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 625.209,
+   "t1": 625.38,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.93
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 14.609
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 18.218
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 33.447
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 35.891
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 44.951
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 53.369
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 58.663
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 64.862
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 76.437
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 85.516
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 92.544
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 96.908
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 99.203
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 106.298
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 115.633
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 122.368
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 127.69
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 130.168
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 142.105
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 147.726
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 156.143
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 162.193
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 168.572
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 170.995
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 175.146
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 181.9
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 187.968
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 196.322
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 200.129
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 208.674
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 213.292
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 217.498
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 221.945
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 227.461
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 229.841
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 237.171
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 240.779
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 246.018
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 252.62
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 262.616
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 272.061
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 275.484
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 282.067
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 287.86
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 290.433
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 297.25
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 305.415
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 313.472
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 319.69
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 327.894
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 337.827
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 343.02
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 344.481
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 351.064
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 356.977
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 363.697
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 373.165
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 379.343
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 387.401
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 393.109
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 399.436
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 408.216
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 414.053
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 416.765
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 426.481
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 430.099
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 433.634
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 438.126
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 445.989
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 450.735
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 456.718
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 458.946
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 462.064
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 475.138
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 481.446
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 485.917
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 489.196
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 496.571
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 502.727
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 507.305
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 515.619
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 521.602
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 529.889
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 539.266
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 546.349
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 550.226
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 556.385
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 561.92
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 567.177
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 568.652
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 572.459
+  },
+  {
+   "f": "vo/094.wav",
+   "t": 576.622
+  },
+  {
+   "f": "vo/095.wav",
+   "t": 583.568
+  },
+  {
+   "f": "vo/096.wav",
+   "t": 590.343
+  },
+  {
+   "f": "vo/097.wav",
+   "t": 597.831
+  },
+  {
+   "f": "vo/098.wav",
+   "t": 602.265
+  },
+  {
+   "f": "vo/099.wav",
+   "t": 614.357
+  },
+  {
+   "f": "vo/100.wav",
+   "t": 621.815
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": "",
+ "tt": false
+}

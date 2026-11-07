@@ -1,0 +1,711 @@
+{
+ "T": 77.52,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 9.152,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.273
+    ],
+    [
+     3.773,
+     8.701
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 9.152,
+   "t1": 13.537,
+   "i": 1,
+   "segs": [
+    [
+     9.152,
+     10.154
+    ],
+    [
+     10.434,
+     13.186
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "LAMP",
+     46,
+     330,
+     70,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 13.537,
+   "t1": 19.721,
+   "i": 2,
+   "segs": [
+    [
+     13.537,
+     14.647
+    ],
+    [
+     15.067,
+     17.392
+    ],
+    [
+     17.812,
+     19.22
+    ]
+   ],
+   "g": "stamp",
+   "title": "ELECTRIC-WIRE-CONTAINING|HAT OR CAP BAND",
+   "filed": "JUNE 10, 1895",
+   "date": "AUG. 13, 1895",
+   "at": 1.0
+  },
+  {
+   "t0": 19.721,
+   "t1": 27.885,
+   "i": 3,
+   "segs": [
+    [
+     19.721,
+     21.364
+    ],
+    [
+     21.644,
+     22.988
+    ],
+    [
+     23.268,
+     27.534
+    ]
+   ],
+   "g": "quote",
+   "q": "adapted to have an incandescent light attached to it",
+   "hit": "incandescent light",
+   "src": "US 544,419 \u00b7 description"
+  },
+  {
+   "t0": 27.885,
+   "t1": 34.62,
+   "i": 4,
+   "segs": [
+    [
+     27.885,
+     29.656
+    ],
+    [
+     29.936,
+     32.496
+    ],
+    [
+     32.776,
+     34.269
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat7",
+   "figno": "7",
+   "calls": [
+    [
+     "LAMP",
+     90,
+     130,
+     60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 34.62,
+   "t1": 40.838,
+   "i": 5,
+   "segs": [
+    [
+     34.62,
+     40.487
+    ]
+   ],
+   "g": "quote",
+   "q": "Under this construction the lamp may be attached to and removed from the band with perfect convenience.",
+   "hit": "perfect convenience",
+   "src": "US 544,419 \u00b7 description"
+  },
+  {
+   "t0": 40.838,
+   "t1": 49.042,
+   "i": 6,
+   "segs": [
+    [
+     40.838,
+     46.065
+    ],
+    [
+     46.345,
+     48.691
+    ]
+   ],
+   "g": "quote",
+   "q": "composed of enameled leather, or otherwise constructed, so as to be waterproof",
+   "hit": "waterproof",
+   "src": "US 544,419 \u00b7 description"
+  },
+  {
+   "t0": 49.042,
+   "t1": 56.073,
+   "i": 7,
+   "segs": [
+    [
+     49.042,
+     50.408
+    ],
+    [
+     50.688,
+     55.722
+    ]
+   ],
+   "g": "quote",
+   "q": "lead down from the hat or cap over the body to some source of electrical energy",
+   "hit": "over the body",
+   "src": "US 544,419 \u00b7 description"
+  },
+  {
+   "t0": 56.073,
+   "t1": 61.267,
+   "i": 8,
+   "segs": [
+    [
+     56.073,
+     60.916
+    ]
+   ],
+   "g": "quote",
+   "q": "a dynamo carried upon a bicycle, or what not",
+   "hit": "or what not",
+   "src": "US 544,419 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 61.267,
+   "t1": 62.728,
+   "i": 9,
+   "segs": [
+    [
+     61.267,
+     62.227
+    ]
+   ],
+   "g": "quote",
+   "q": "a dynamo carried upon a bicycle, or what not",
+   "hit": "or what not",
+   "src": "US 544,419 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 62.728,
+   "t1": 69.756,
+   "i": 10,
+   "segs": [
+    [
+     62.728,
+     69.405
+    ]
+   ],
+   "g": "quote",
+   "q": "The hat or cap will otherwise be worn just the same as any ordinary hat or cap",
+   "hit": "any ordinary hat",
+   "src": "US 544,419 \u00b7 description"
+  },
+  {
+   "t0": 69.756,
+   "t1": 77.52,
+   "i": 11,
+   "segs": [
+    [
+     69.756,
+     71.122
+    ],
+    [
+     71.622,
+     74.672
+    ]
+   ],
+   "g": "stamp",
+   "title": "ELECTRIC-WIRE-CONTAINING|HAT OR CAP BAND",
+   "filed": "JUNE 10, 1895",
+   "date": "AUG. 13, 1895",
+   "big": true,
+   "at": 1.6
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.922,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.922,
+   "t1": 1.938,
+   "txt": "real patent from"
+  },
+  {
+   "t0": 1.938,
+   "t1": 3.273,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 3.773,
+   "t1": 4.495,
+   "txt": "Figure one,"
+  },
+  {
+   "t0": 4.495,
+   "t1": 5.547,
+   "txt": "according to the"
+  },
+  {
+   "t0": 5.547,
+   "t1": 6.007,
+   "txt": "patent,"
+  },
+  {
+   "t0": 6.007,
+   "t1": 7.058,
+   "txt": "is a perspective"
+  },
+  {
+   "t0": 7.058,
+   "t1": 7.649,
+   "txt": "view of a"
+  },
+  {
+   "t0": 7.649,
+   "t1": 8.701,
+   "txt": "policeman's hat."
+  },
+  {
+   "t0": 9.152,
+   "t1": 9.841,
+   "txt": "Look at the"
+  },
+  {
+   "t0": 9.841,
+   "t1": 10.154,
+   "txt": "band."
+  },
+  {
+   "t0": 10.434,
+   "t1": 11.06,
+   "txt": "That is an"
+  },
+  {
+   "t0": 11.06,
+   "t1": 11.935,
+   "txt": "electric lamp,"
+  },
+  {
+   "t0": 11.935,
+   "t1": 12.561,
+   "txt": "in its own"
+  },
+  {
+   "t0": 12.561,
+   "t1": 13.186,
+   "txt": "reflector."
+  },
+  {
+   "t0": 13.537,
+   "t1": 14.647,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 15.067,
+   "t1": 16.053,
+   "txt": "Filed in June,"
+  },
+  {
+   "t0": 16.053,
+   "t1": 17.392,
+   "txt": "approved in August."
+  },
+  {
+   "t0": 17.812,
+   "t1": 18.727,
+   "txt": "Just over two"
+  },
+  {
+   "t0": 18.727,
+   "t1": 19.22,
+   "txt": "months."
+  },
+  {
+   "t0": 19.721,
+   "t1": 20.66,
+   "txt": "The invention is"
+  },
+  {
+   "t0": 20.66,
+   "t1": 21.364,
+   "txt": "not the hat."
+  },
+  {
+   "t0": 21.644,
+   "t1": 22.148,
+   "txt": "It is the"
+  },
+  {
+   "t0": 22.148,
+   "t1": 22.988,
+   "txt": "band around it."
+  },
+  {
+   "t0": 23.268,
+   "t1": 24.287,
+   "txt": "A removable band"
+  },
+  {
+   "t0": 24.287,
+   "t1": 25.242,
+   "txt": "adapted to have"
+  },
+  {
+   "t0": 25.242,
+   "t1": 26.579,
+   "txt": "an incandescent light"
+  },
+  {
+   "t0": 26.579,
+   "t1": 27.534,
+   "txt": "attached to it."
+  },
+  {
+   "t0": 27.885,
+   "t1": 28.948,
+   "txt": "Inside the band"
+  },
+  {
+   "t0": 28.948,
+   "t1": 29.656,
+   "txt": "run wires."
+  },
+  {
+   "t0": 29.936,
+   "t1": 30.65,
+   "txt": "At the front"
+  },
+  {
+   "t0": 30.65,
+   "t1": 31.305,
+   "txt": "is a little"
+  },
+  {
+   "t0": 31.305,
+   "t1": 32.02,
+   "txt": "tab with two"
+  },
+  {
+   "t0": 32.02,
+   "t1": 32.496,
+   "txt": "buttons."
+  },
+  {
+   "t0": 32.776,
+   "t1": 33.647,
+   "txt": "The lamp snaps"
+  },
+  {
+   "t0": 33.647,
+   "t1": 34.269,
+   "txt": "onto them."
+  },
+  {
+   "t0": 34.62,
+   "t1": 36.043,
+   "txt": "Under this construction,"
+  },
+  {
+   "t0": 36.043,
+   "t1": 36.754,
+   "txt": "the lamp may"
+  },
+  {
+   "t0": 36.754,
+   "t1": 37.583,
+   "txt": "be attached to"
+  },
+  {
+   "t0": 37.583,
+   "t1": 38.531,
+   "txt": "and removed from"
+  },
+  {
+   "t0": 38.531,
+   "t1": 39.302,
+   "txt": "the band with"
+  },
+  {
+   "t0": 39.302,
+   "t1": 40.487,
+   "txt": "perfect convenience."
+  },
+  {
+   "t0": 40.838,
+   "t1": 41.83,
+   "txt": "The band itself"
+  },
+  {
+   "t0": 41.83,
+   "t1": 42.36,
+   "txt": "is made,"
+  },
+  {
+   "t0": 42.36,
+   "t1": 43.286,
+   "txt": "by preference,"
+  },
+  {
+   "t0": 43.286,
+   "t1": 44.609,
+   "txt": "of enameled leather,"
+  },
+  {
+   "t0": 44.609,
+   "t1": 45.138,
+   "txt": "so as to"
+  },
+  {
+   "t0": 45.138,
+   "t1": 46.065,
+   "txt": "be waterproof."
+  },
+  {
+   "t0": 46.345,
+   "t1": 46.777,
+   "txt": "Useful,"
+  },
+  {
+   "t0": 46.777,
+   "t1": 47.333,
+   "txt": "for a hat"
+  },
+  {
+   "t0": 47.333,
+   "t1": 48.506,
+   "txt": "with electricity in"
+  },
+  {
+   "t0": 48.506,
+   "t1": 48.691,
+   "txt": "it."
+  },
+  {
+   "t0": 49.042,
+   "t1": 49.977,
+   "txt": "Then the body"
+  },
+  {
+   "t0": 49.977,
+   "t1": 50.408,
+   "txt": "wires."
+  },
+  {
+   "t0": 50.688,
+   "t1": 51.569,
+   "txt": "They lead down"
+  },
+  {
+   "t0": 51.569,
+   "t1": 52.324,
+   "txt": "from the hat"
+  },
+  {
+   "t0": 52.324,
+   "t1": 53.016,
+   "txt": "or cap over"
+  },
+  {
+   "t0": 53.016,
+   "t1": 53.708,
+   "txt": "the body to"
+  },
+  {
+   "t0": 53.708,
+   "t1": 54.59,
+   "txt": "some source of"
+  },
+  {
+   "t0": 54.59,
+   "t1": 55.722,
+   "txt": "electrical energy."
+  },
+  {
+   "t0": 56.073,
+   "t1": 56.993,
+   "txt": "Whether that be"
+  },
+  {
+   "t0": 56.993,
+   "t1": 58.035,
+   "txt": "a battery carried"
+  },
+  {
+   "t0": 58.035,
+   "t1": 58.893,
+   "txt": "in the pocket,"
+  },
+  {
+   "t0": 58.893,
+   "t1": 59.567,
+   "txt": "or a dynamo"
+  },
+  {
+   "t0": 59.567,
+   "t1": 60.426,
+   "txt": "carried upon a"
+  },
+  {
+   "t0": 60.426,
+   "t1": 60.916,
+   "txt": "bicycle."
+  },
+  {
+   "t0": 61.267,
+   "t1": 62.227,
+   "txt": "Or what not."
+  },
+  {
+   "t0": 62.728,
+   "t1": 63.682,
+   "txt": "And otherwise,"
+  },
+  {
+   "t0": 63.682,
+   "t1": 65.045,
+   "txt": "the patent promises,"
+  },
+  {
+   "t0": 65.045,
+   "t1": 65.726,
+   "txt": "the hat or"
+  },
+  {
+   "t0": 65.726,
+   "t1": 66.475,
+   "txt": "cap will be"
+  },
+  {
+   "t0": 66.475,
+   "t1": 67.361,
+   "txt": "worn just the"
+  },
+  {
+   "t0": 67.361,
+   "t1": 68.111,
+   "txt": "same as any"
+  },
+  {
+   "t0": 68.111,
+   "t1": 69.133,
+   "txt": "ordinary hat or"
+  },
+  {
+   "t0": 69.133,
+   "t1": 69.405,
+   "txt": "cap."
+  },
+  {
+   "t0": 69.756,
+   "t1": 70.475,
+   "txt": "A hat that"
+  },
+  {
+   "t0": 70.475,
+   "t1": 71.122,
+   "txt": "plugs in."
+  },
+  {
+   "t0": 71.622,
+   "t1": 72.194,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 72.194,
+   "t1": 73.338,
+   "txt": "August thirteenth,"
+  },
+  {
+   "t0": 73.338,
+   "t1": 74.672,
+   "txt": "eighteen ninety-five."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 9.152
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.537
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 19.721
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 27.885
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 34.62
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 40.838
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 49.042
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 56.073
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 61.267
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 62.728
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 69.756
+  }
+ ],
+ "hook": "LOOK AT|THIS [HAT]",
+ "hook2": "A HAT WITH|A [LAMP] \u00b7 1895",
+ "hookSwitch": 2,
+ "num": "US 544,419",
+ "tt": true
+}

@@ -1,0 +1,320 @@
+{
+ "T": 34.25,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.786,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.273
+    ],
+    [
+     3.773,
+     7.335
+    ]
+   ],
+   "g": "fig",
+   "fig": "can1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "CANOPY FRAME",
+     220,
+     70,
+     80,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 7.786,
+   "t1": 13.044,
+   "i": 1,
+   "segs": [
+    [
+     7.786,
+     12.693
+    ]
+   ],
+   "g": "quote",
+   "q": "for protecting the rider from the rays of the sun and to shelter him from rain",
+   "hit": "rays of the sun",
+   "src": "US 546,104 \u00b7 description"
+  },
+  {
+   "t0": 13.044,
+   "t1": 17.208,
+   "i": 2,
+   "segs": [
+    [
+     13.044,
+     14.26
+    ],
+    [
+     14.68,
+     16.707
+    ]
+   ],
+   "g": "stamp",
+   "title": "CANOPY|FOR BICYCLES",
+   "filed": "SEPT. 27, 1894",
+   "date": "SEPT. 10, 1895",
+   "at": 1.0
+  },
+  {
+   "t0": 17.208,
+   "t1": 22.465,
+   "i": 3,
+   "segs": [
+    [
+     17.208,
+     22.114
+    ]
+   ],
+   "g": "quote",
+   "q": "it offers no obstruction in riding against the wind",
+   "hit": "no obstruction",
+   "src": "US 546,104 \u00b7 description"
+  },
+  {
+   "t0": 22.465,
+   "t1": 27.683,
+   "i": 4,
+   "segs": [
+    [
+     22.465,
+     23.703
+    ],
+    [
+     23.983,
+     27.332
+    ]
+   ],
+   "g": "quote",
+   "q": "may be arranged at an angle, to operate as a sail for accelerating the speed of the bicycle to assist the rider",
+   "hit": "as a sail",
+   "src": "US 546,104 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 27.683,
+   "t1": 34.25,
+   "i": 5,
+   "segs": [
+    [
+     27.683,
+     31.395
+    ]
+   ],
+   "g": "quote",
+   "q": "may be arranged at an angle, to operate as a sail for accelerating the speed of the bicycle to assist the rider",
+   "hit": "as a sail",
+   "src": "US 546,104 \u00b7 description",
+   "typed": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.922,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.922,
+   "t1": 1.938,
+   "txt": "real patent from"
+  },
+  {
+   "t0": 1.938,
+   "t1": 3.273,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 3.773,
+   "t1": 4.579,
+   "txt": "A canopy for"
+  },
+  {
+   "t0": 4.579,
+   "t1": 5.252,
+   "txt": "a bicycle,"
+  },
+  {
+   "t0": 5.252,
+   "t1": 6.193,
+   "txt": "shown with the"
+  },
+  {
+   "t0": 6.193,
+   "t1": 7.335,
+   "txt": "covering removed."
+  },
+  {
+   "t0": 7.786,
+   "t1": 8.332,
+   "txt": "It is for"
+  },
+  {
+   "t0": 8.332,
+   "t1": 9.543,
+   "txt": "protecting the rider"
+  },
+  {
+   "t0": 9.543,
+   "t1": 10.331,
+   "txt": "from the rays"
+  },
+  {
+   "t0": 10.331,
+   "t1": 10.997,
+   "txt": "of the sun,"
+  },
+  {
+   "t0": 10.997,
+   "t1": 11.845,
+   "txt": "and to shelter"
+  },
+  {
+   "t0": 11.845,
+   "t1": 12.693,
+   "txt": "him from rain."
+  },
+  {
+   "t0": 13.044,
+   "t1": 13.684,
+   "txt": "And it was"
+  },
+  {
+   "t0": 13.684,
+   "t1": 14.26,
+   "txt": "approved."
+  },
+  {
+   "t0": 14.68,
+   "t1": 15.334,
+   "txt": "September,"
+  },
+  {
+   "t0": 15.334,
+   "t1": 16.707,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 17.208,
+   "t1": 17.853,
+   "txt": "Held flat,"
+  },
+  {
+   "t0": 17.853,
+   "t1": 18.886,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 18.886,
+   "t1": 19.661,
+   "txt": "it offers no"
+  },
+  {
+   "t0": 19.661,
+   "t1": 21.017,
+   "txt": "obstruction in riding"
+  },
+  {
+   "t0": 21.017,
+   "t1": 22.114,
+   "txt": "against the wind."
+  },
+  {
+   "t0": 22.465,
+   "t1": 23.14,
+   "txt": "But read the"
+  },
+  {
+   "t0": 23.14,
+   "t1": 23.703,
+   "txt": "next part."
+  },
+  {
+   "t0": 23.983,
+   "t1": 24.598,
+   "txt": "It may be"
+  },
+  {
+   "t0": 24.598,
+   "t1": 25.555,
+   "txt": "arranged at an"
+  },
+  {
+   "t0": 25.555,
+   "t1": 25.965,
+   "txt": "angle,"
+  },
+  {
+   "t0": 25.965,
+   "t1": 26.854,
+   "txt": "to operate as"
+  },
+  {
+   "t0": 26.854,
+   "t1": 27.332,
+   "txt": "a sail."
+  },
+  {
+   "t0": 27.683,
+   "t1": 28.941,
+   "txt": "For accelerating the"
+  },
+  {
+   "t0": 28.941,
+   "t1": 29.696,
+   "txt": "speed of the"
+  },
+  {
+   "t0": 29.696,
+   "t1": 30.766,
+   "txt": "bicycle to assist"
+  },
+  {
+   "t0": 30.766,
+   "t1": 31.395,
+   "txt": "the rider."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.786
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.044
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.208
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 22.465
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 27.683
+  }
+ ],
+ "hook": "READ WHAT|IT [SAYS]",
+ "hook2": "A BIKE WITH|A [ROOF] \u00b7 1895",
+ "hookSwitch": 2,
+ "num": "US 546,104",
+ "tt": false
+}

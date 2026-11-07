@@ -1,0 +1,284 @@
+{
+ "T": 30.18,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.762,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.779
+    ],
+    [
+     2.179,
+     6.211
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THIRD WHEEL",
+     158,
+     592,
+     80,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 6.762,
+   "t1": 13.876,
+   "i": 1,
+   "segs": [
+    [
+     6.762,
+     13.525
+    ]
+   ],
+   "g": "quote",
+   "q": "the machine will follow the rails like an ordinary car",
+   "hit": "like an ordinary car",
+   "src": "US 535,674 \u00b7 description"
+  },
+  {
+   "t0": 13.876,
+   "t1": 17.378,
+   "i": 2,
+   "segs": [
+    [
+     13.876,
+     14.708
+    ],
+    [
+     15.128,
+     16.877
+    ]
+   ],
+   "g": "stamp",
+   "title": "ATTACHMENT|FOR BICYCLES",
+   "filed": "AUG. 4, 1894",
+   "date": "MAR. 12, 1895",
+   "at": 0.6
+  },
+  {
+   "t0": 17.378,
+   "t1": 23.428,
+   "i": 3,
+   "segs": [
+    [
+     17.378,
+     20.77
+    ],
+    [
+     21.05,
+     23.077
+    ]
+   ],
+   "g": "fig",
+   "fig": "rail2",
+   "figno": "2",
+   "draw": false
+  },
+  {
+   "t0": 23.428,
+   "t1": 30.18,
+   "i": 4,
+   "segs": [
+    [
+     23.428,
+     27.332
+    ]
+   ],
+   "g": "quote",
+   "q": "enables the machine to be practically self-steering",
+   "hit": "self-steering",
+   "src": "US 535,674 \u00b7 description"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.779,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.179,
+   "t1": 2.851,
+   "txt": "A bicycle,"
+  },
+  {
+   "t0": 2.851,
+   "t1": 3.658,
+   "txt": "with a third"
+  },
+  {
+   "t0": 3.658,
+   "t1": 4.061,
+   "txt": "wheel,"
+  },
+  {
+   "t0": 4.061,
+   "t1": 4.935,
+   "txt": "built to ride"
+  },
+  {
+   "t0": 4.935,
+   "t1": 6.211,
+   "txt": "on railroad tracks."
+  },
+  {
+   "t0": 6.762,
+   "t1": 7.719,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 7.719,
+   "t1": 8.612,
+   "txt": "the rider need"
+  },
+  {
+   "t0": 8.612,
+   "t1": 9.378,
+   "txt": "only use his"
+  },
+  {
+   "t0": 9.378,
+   "t1": 9.952,
+   "txt": "strength,"
+  },
+  {
+   "t0": 9.952,
+   "t1": 10.909,
+   "txt": "and the machine"
+  },
+  {
+   "t0": 10.909,
+   "t1": 11.866,
+   "txt": "will follow the"
+  },
+  {
+   "t0": 11.866,
+   "t1": 12.696,
+   "txt": "rails like an"
+  },
+  {
+   "t0": 12.696,
+   "t1": 13.525,
+   "txt": "ordinary car."
+  },
+  {
+   "t0": 13.876,
+   "t1": 14.708,
+   "txt": "Approved."
+  },
+  {
+   "t0": 15.128,
+   "t1": 15.517,
+   "txt": "March,"
+  },
+  {
+   "t0": 15.517,
+   "t1": 16.877,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 17.378,
+   "t1": 18.422,
+   "txt": "The little wheel"
+  },
+  {
+   "t0": 18.422,
+   "t1": 19.27,
+   "txt": "has a concave"
+  },
+  {
+   "t0": 19.27,
+   "t1": 19.531,
+   "txt": "rim,"
+  },
+  {
+   "t0": 19.531,
+   "t1": 20.183,
+   "txt": "so it hugs"
+  },
+  {
+   "t0": 20.183,
+   "t1": 20.77,
+   "txt": "the rail."
+  },
+  {
+   "t0": 21.05,
+   "t1": 21.838,
+   "txt": "And the braces"
+  },
+  {
+   "t0": 21.838,
+   "t1": 22.796,
+   "txt": "hold the steering"
+  },
+  {
+   "t0": 22.796,
+   "t1": 23.077,
+   "txt": "fork."
+  },
+  {
+   "t0": 23.428,
+   "t1": 23.611,
+   "txt": "So,"
+  },
+  {
+   "t0": 23.611,
+   "t1": 24.526,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 24.526,
+   "t1": 24.892,
+   "txt": "words,"
+  },
+  {
+   "t0": 24.892,
+   "t1": 25.746,
+   "txt": "the machine is"
+  },
+  {
+   "t0": 25.746,
+   "t1": 27.332,
+   "txt": "practically self-steering."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.762
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.876
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.378
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 23.428
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "A BIKE FOR|[RAILS] \u00b7 1895",
+ "hookSwitch": 2,
+ "num": "US 535,674",
+ "tt": false
+}

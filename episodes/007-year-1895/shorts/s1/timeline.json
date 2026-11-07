@@ -1,0 +1,305 @@
+{
+ "T": 32.5,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.482,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     3.273
+    ],
+    [
+     3.773,
+     5.031
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 5.482,
+   "t1": 13.879,
+   "i": 1,
+   "segs": [
+    [
+     5.482,
+     7.36
+    ],
+    [
+     7.64,
+     13.528
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "LAMP",
+     46,
+     330,
+     70,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 13.879,
+   "t1": 18.234,
+   "i": 2,
+   "segs": [
+    [
+     13.879,
+     14.988
+    ],
+    [
+     15.408,
+     17.733
+    ]
+   ],
+   "g": "stamp",
+   "title": "ELECTRIC-WIRE-CONTAINING|HAT OR CAP BAND",
+   "filed": "JUNE 10, 1895",
+   "date": "AUG. 13, 1895",
+   "at": 1.0
+  },
+  {
+   "t0": 18.234,
+   "t1": 24.068,
+   "i": 3,
+   "segs": [
+    [
+     18.234,
+     23.717
+    ]
+   ],
+   "g": "quote",
+   "q": "The hat or cap will otherwise be worn just the same as any ordinary hat or cap",
+   "hit": "any ordinary hat",
+   "src": "US 544,419 \u00b7 description"
+  },
+  {
+   "t0": 24.068,
+   "t1": 28.643,
+   "i": 4,
+   "segs": [
+    [
+     24.068,
+     28.292
+    ]
+   ],
+   "g": "quote",
+   "q": "a dynamo carried upon a bicycle, or what not",
+   "hit": "or what not",
+   "src": "US 544,419 \u00b7 description",
+   "hide": true
+  },
+  {
+   "t0": 28.643,
+   "t1": 32.5,
+   "i": 5,
+   "segs": [
+    [
+     28.643,
+     29.603
+    ]
+   ],
+   "g": "quote",
+   "q": "a dynamo carried upon a bicycle, or what not",
+   "hit": "or what not",
+   "src": "US 544,419 \u00b7 description",
+   "typed": false
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.922,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.922,
+   "t1": 1.938,
+   "txt": "real patent from"
+  },
+  {
+   "t0": 1.938,
+   "t1": 3.273,
+   "txt": "eighteen ninety-five."
+  },
+  {
+   "t0": 3.773,
+   "t1": 5.031,
+   "txt": "A policeman's hat."
+  },
+  {
+   "t0": 5.482,
+   "t1": 6.171,
+   "txt": "On the band"
+  },
+  {
+   "t0": 6.171,
+   "t1": 7.047,
+   "txt": "is an electric"
+  },
+  {
+   "t0": 7.047,
+   "t1": 7.36,
+   "txt": "lamp."
+  },
+  {
+   "t0": 7.64,
+   "t1": 8.517,
+   "txt": "The wires lead"
+  },
+  {
+   "t0": 8.517,
+   "t1": 9.331,
+   "txt": "down over the"
+  },
+  {
+   "t0": 9.331,
+   "t1": 10.083,
+   "txt": "body to some"
+  },
+  {
+   "t0": 10.083,
+   "t1": 11.335,
+   "txt": "source of electrical"
+  },
+  {
+   "t0": 11.335,
+   "t1": 11.774,
+   "txt": "energy,"
+  },
+  {
+   "t0": 11.774,
+   "t1": 12.651,
+   "txt": "like a battery"
+  },
+  {
+   "t0": 12.651,
+   "t1": 13.528,
+   "txt": "in the pocket."
+  },
+  {
+   "t0": 13.879,
+   "t1": 14.988,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 15.408,
+   "t1": 16.395,
+   "txt": "Filed in June,"
+  },
+  {
+   "t0": 16.395,
+   "t1": 17.733,
+   "txt": "approved in August."
+  },
+  {
+   "t0": 18.234,
+   "t1": 18.928,
+   "txt": "Otherwise,"
+  },
+  {
+   "t0": 18.928,
+   "t1": 20.316,
+   "txt": "the patent promises,"
+  },
+  {
+   "t0": 20.316,
+   "t1": 21.01,
+   "txt": "it is worn"
+  },
+  {
+   "t0": 21.01,
+   "t1": 21.913,
+   "txt": "just the same"
+  },
+  {
+   "t0": 21.913,
+   "t1": 22.954,
+   "txt": "as any ordinary"
+  },
+  {
+   "t0": 22.954,
+   "t1": 23.717,
+   "txt": "hat or cap."
+  },
+  {
+   "t0": 24.068,
+   "t1": 24.671,
+   "txt": "And if you"
+  },
+  {
+   "t0": 24.671,
+   "t1": 25.335,
+   "txt": "do not have"
+  },
+  {
+   "t0": 25.335,
+   "t1": 25.939,
+   "txt": "a battery,"
+  },
+  {
+   "t0": 25.939,
+   "t1": 26.542,
+   "txt": "there is a"
+  },
+  {
+   "t0": 26.542,
+   "t1": 27.689,
+   "txt": "dynamo carried upon"
+  },
+  {
+   "t0": 27.689,
+   "t1": 28.292,
+   "txt": "a bicycle."
+  },
+  {
+   "t0": 28.643,
+   "t1": 29.603,
+   "txt": "Or what not."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.482
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.879
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 18.234
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 24.068
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 28.643
+  }
+ ],
+ "hook": "LOOK AT|THIS [HAT]",
+ "hook2": "A HAT WITH|A [LAMP] \u00b7 1895",
+ "hookSwitch": 2,
+ "num": "US 544,419",
+ "tt": false
+}

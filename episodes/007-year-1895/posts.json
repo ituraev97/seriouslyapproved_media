@@ -1,0 +1,13 @@
+{
+ "long": {"time": "16:00", "title": "9 Weird Victorian Inventions That Got Real Patents (1895)", "tags": ["weird victorian inventions", "victorian inventions", "weird patents", "1895 inventions", "1890s inventions", "strange inventions", "weird inventions", "old patents", "bicycle inventions", "weird history", "funny inventions", "patents", "history", "victorian era"]},
+ "shorts": [
+  {"id": "s1", "time": "10:30", "template": "drawing reveal", "title": "The U.S. Approved a Policeman's Hat With a Lamp", "line": "A policeman's hat with an electric lamp on the band, wired to a battery in your pocket. Really approved.", "num": "US 544,419", "year": 1895, "url": "https://patents.google.com/patent/US544419"},
+  {"id": "s2", "time": "15:00", "template": "approved or denied?", "title": "This Is a Real Patent for a Bicycle on Train Tracks", "line": "A third wheel on the opposite rail, and your bicycle follows the tracks. Really approved.", "num": "US 535,674", "year": 1895, "url": "https://patents.google.com/patent/US535674"},
+  {"id": "s3", "time": "19:00", "template": "verbatim quote", "title": "The U.S. Approved a Bicycle With a Roof and a Sail", "line": "A canopy for your bicycle that tilts into a sail. Really approved.", "num": "US 546,104", "year": 1895, "url": "https://patents.google.com/patent/US546104"}
+ ],
+ "tiktok": [
+  {"id": "t1", "time": "09:30", "title": "The U.S. Approved a Policeman's Hat With a Lamp", "hook": "A policeman's hat with an electric lamp on it. Approved.", "num": "544,419", "year": 1895},
+  {"id": "t2", "time": "14:30", "title": "This Is a Real Patent for a Bicycle on Train Tracks", "hook": "Approved or denied? A bicycle built to ride on railroad tracks.", "num": "535,674", "year": 1895},
+  {"id": "t3", "time": "20:30", "title": "The U.S. Approved a Bicycle With a Roof and a Sail", "hook": "A roof for your bicycle. Tilt it, and it is a sail.", "num": "546,104", "year": 1895}
+ ]
+}
