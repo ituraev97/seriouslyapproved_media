@@ -1,0 +1,171 @@
+4,995,374
+
+15
+
+will pass a delayed electrical trigger, control or com-
+mand signal along lead 325 and through the relay coil
+327 to ground so as to energize the relay coil 327. The
+energization of the relay coil 327 causes the closing of
+the switch elements 305 and 311, as indicated by the
+telay-operated dashed line 330, and the closure of the
+switch elements 305 and 311 of the normally-open
+switches 303 and 309 of the switch assembly 301 con-
+nects the switch elements 305 and 311 to the contacts
+307 and 313, respectively, thus supplying the 110V AC
+input power from the input 275 to the electrical sole-
+noid terminals via leads 277 and 279, closed switch
+elements 305 and 311, and leads 283 and 281, respec-
+tively. This, as previously described, will energize the
+coil 287 of the solenoid 285 and fire the thrust member
+or rod 291 longitudinally forward so that the front end
+portion 293 and its impact surface 297 extends through
+the firing aperture at the closure end of the tube, ini-
+tially impacts the ball positioned in the “ready” or “fir-
+ing” position, and continues to move forward as the ball
+is propelled up the hollow interior of the tube and out
+the launch aperture so it may continue along its airborne
+trajectory or path of flight to be chased, fetched and
+returned by the dog to begin the cycle anew.
+
+FIG. 16 includes an optical sensor 329 wherein a
+light-emitting diode or LED 331 emits light waves 335
+which are normally detected by the base of the photo-
+transistor 333 and, depending on the configuration, the
+failure of the light waves 335 to reach the base of the
+phototransistor 333 can be used to generate or stop the
+generation of a control signal which may be used as a
+trigger signal whenever the ball passes between the
+LED 331 and the phototransistor 333 to block the pas-
+sage of light therebetween. Any similar, conventional,
+electrical, electro-mechanical, opto-electrical or optical
+system may be used for sensing the presence of the ball
+at a particular point in the launch tube and generating
+the trigger signal for use as previously described, as
+known in the sensing art.
+
+It will be understood, by those of ordinary skill in the
+art, that the shape of the cylindrical launch tube need
+not be a right cylinder. The shape could, for example,
+be of an oval-shaped cross section, square, rectangular,
+or of a continuously increasing dimension, as desired.
+However, the circular cross-section of the preferred
+embodiment appears to be best-suited for a clean launch
+at maximum initial velocity. Furthermore, the exact
+ratio of the internal diameter of the hollow interior of
+the launch tube to the diameter of the ball could also be
+varied. For example, the inside diameter could go from
+just slightly greater than the diameter of the ball to
+much, much greater, such as two times the diameter of
+the ball, but in the preferred embodiment, an intermedi-
+ate ratio was used. It will also be understood that vari-
+ous means can be used in both the preferred embodi-
+ment and in the alternative embodiment to vary the
+azimuth or direction of the shot or throw and to control
+the elevation.
+
+If for example, the firing aperture were an oval hav-
+ing its long axis oriented with the vertical center axis of
+the front panel, the elevation could be controlled, and if
+the axis were oriented horizontally, the azimuth could
+be varied. Similarly, different front panels could be
+used, each having an aperture placed higher or lower
+than another, and the distal end or open mouth of the
+launch tube could be positioned within or adjacent to
+these different apertures simply by changing the front
+panel and positioning the open mouth of the tube within
+
+5
+
+—
+
+0
+
+35
+
+40
+
+45
+
+50
+
+60
+
+65
+
+16
+
+the launch aperture. Furthermore, it will be understood
+that the positioning means for the tube could be a solid
+triangular ramp or any type of mechanism known to the
+art so long as the front end of the tube is positioned at a
+vertically higher elevation than the rear end of the tube
+to ensure a path of flight or flight trajectory for the ball
+launched, thrown, or tossed therefrom.
+
+Furthermore, the collecting means used in the vari-
+ous embodiments of this invention could be varied in
+shape and size, to suit the needs of the user without
+changing the present invention. As previsouly stated,
+the number of downwardly sloping sides and vertical
+sides of the top ball-collecting portion can also be var-
+ied, without departing from this invention.
+
+Anyone of ordinary skill in the electrical arts will
+realize that the means for detecting the presence of the
+ball at a predetermined position as it rolls down the
+hollow interior of the tube are many. For example,
+electrical means, mechanical means, electro-mechanical
+means, optical means, electro-optical means, and the
+like can be used, a known in the art, to sense the pres-
+ence of the ball at a particular location as it rolls down
+the hollow interior of the tube.
+
+It will also be understood that various means can be
+used to provide a delay sufficient to ensure that the ball
+has come to rest at the bottom of the tube in its “firing”
+or “ready” position prior to energizing the solenoid for
+the launch. Yet further, it will also be understood that
+the bail-firing mechanism can be anything actuatable by
+an electrical command to impact the ball at its “ready”
+position, and not necessarily the central thrust rod of an
+electrical solenoid, as used herein. Lastly, it will be
+understood that this Patent Application was written and
+is primarily directed toward the use of the ball-launch-
+ing apparatus of the present invention for playing throw
+and fetch with a pet dog, but it will also be realized that
+any ball-fetching animal could be exercised and amused
+by the present apparatus even including the use of the
+present apparatus with smali children to keep them
+occupied while a parent watches them at his or her
+leisure.
+
+Furthermore, as previously stated, it will also be
+understood that the present apparatus can be used to
+play throw and catch with a dog, a small child, a youth.
+or other ball-retrieving animal while the owner or
+human being rests, even after a normal human being
+gets tired, by human beings having little physical
+strength for throwing the ball and the like. Adults may
+even be entertained, as well as children, by watching
+the operation of the ball-launching apparatus of the
+present invention, and it may even be used for entertain-
+ment at carnivals, or the like, where a ball is manually
+placed in the ball-collecting area or hopper and fed into
+the barrel for firing by a contestant trying to knock over
+something or hit something such as a target or the like.
+
+Therefore, it will be recognized by those of ordinary
+skill in the art that various modifications, variations,
+substitutions, changes, and alterations can be made in
+the form, structure, circuitry, detail and method of
+operation of the present invention without departing
+from the actual spirit and scope thereof, which is limited
+only by the appended claims.
+
+I claim:
+
+1. A doggie toy apparatus for launching a ball on an
+airborne trajectory, and for continuing to repeatedly
+re-launch the ball for as long as a dog fetches said
+launched ball and returns same for re-launching, said
+doggie toy apparatus comprising:

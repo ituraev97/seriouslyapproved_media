@@ -1,0 +1,636 @@
+{
+ "T": 73.81,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.224,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.779
+    ],
+    [
+     2.179,
+     4.078
+    ],
+    [
+     4.478,
+     5.673
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE UMBRELLA",
+     300,
+     110,
+     60,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 6.224,
+   "t1": 12.42,
+   "i": 1,
+   "segs": [
+    [
+     6.224,
+     12.069
+    ]
+   ],
+   "g": "quote",
+   "q": "Animals as well as humans require protection from the rain when they are being walked.",
+   "hit": "as well as humans",
+   "src": "US 5,918,611 \u00b7 description"
+  },
+  {
+   "t0": 12.42,
+   "t1": 15.645,
+   "i": 2,
+   "segs": [
+    [
+     12.42,
+     13.252
+    ],
+    [
+     13.672,
+     15.144
+    ]
+   ],
+   "g": "stamp",
+   "title": "ANIMAL|UMBRELLA",
+   "filed": "APR. 2, 1997",
+   "date": "JULY 6, 1999",
+   "at": 0.6
+  },
+  {
+   "t0": 15.645,
+   "t1": 24.636,
+   "i": 3,
+   "segs": [
+    [
+     15.645,
+     24.285
+    ]
+   ],
+   "g": "quote",
+   "q": "It is not a simple task to have the walker hold an umbrella both over himself and the animal he is walking.",
+   "hit": "not a simple task",
+   "src": "US 5,918,611 \u00b7 description"
+  },
+  {
+   "t0": 24.636,
+   "t1": 34.016,
+   "i": 4,
+   "segs": [
+    [
+     24.636,
+     27.665
+    ],
+    [
+     27.945,
+     29.78
+    ],
+    [
+     30.06,
+     33.665
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE SADDLE",
+     250,
+     370,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 34.016,
+   "t1": 36.366,
+   "i": 5,
+   "segs": [
+    [
+     34.016,
+     35.915
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb2",
+   "figno": "2"
+  },
+  {
+   "t0": 36.366,
+   "t1": 44.058,
+   "i": 6,
+   "segs": [
+    [
+     36.366,
+     39.118
+    ],
+    [
+     39.398,
+     43.707
+    ]
+   ],
+   "g": "quote",
+   "q": "STILL YET ANOTHER OBJECT of the present invention is to provide an animal umbrella that is self-supporting.",
+   "hit": "STILL YET ANOTHER",
+   "src": "US 5,918,611 \u00b7 description"
+  },
+  {
+   "t0": 44.058,
+   "t1": 51.827,
+   "i": 7,
+   "segs": [
+    [
+     44.058,
+     51.376
+    ]
+   ],
+   "g": "quote",
+   "q": "FINALLY, STILL YET ANOTHER EXAMPLE",
+   "hit": "FINALLY",
+   "src": "US 5,918,611 \u00b7 description"
+  },
+  {
+   "t0": 51.827,
+   "t1": 61.802,
+   "i": 8,
+   "segs": [
+    [
+     51.827,
+     53.149
+    ],
+    [
+     53.429,
+     61.451
+    ]
+   ],
+   "g": "quote",
+   "q": "an animal umbrella that is in the form of a cap with pointed ears extending outwardly therefrom",
+   "hit": "pointed ears",
+   "src": "US 5,918,611 \u00b7 description"
+  },
+  {
+   "t0": 61.802,
+   "t1": 65.803,
+   "i": 9,
+   "segs": [
+    [
+     61.802,
+     63.594
+    ],
+    [
+     63.874,
+     65.452
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb4",
+   "figno": "4"
+  },
+  {
+   "t0": 65.803,
+   "t1": 73.81,
+   "i": 10,
+   "segs": [
+    [
+     65.803,
+     67.894
+    ],
+    [
+     68.394,
+     70.954
+    ]
+   ],
+   "g": "stamp",
+   "title": "ANIMAL|UMBRELLA",
+   "filed": "APR. 2, 1997",
+   "date": "JULY 6, 1999",
+   "big": true,
+   "at": 2.0
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.779,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.179,
+   "t1": 3.129,
+   "txt": "An umbrella that"
+  },
+  {
+   "t0": 3.129,
+   "t1": 4.078,
+   "txt": "the dog carries."
+  },
+  {
+   "t0": 4.478,
+   "t1": 5.274,
+   "txt": "On its own"
+  },
+  {
+   "t0": 5.274,
+   "t1": 5.673,
+   "txt": "back."
+  },
+  {
+   "t0": 6.224,
+   "t1": 7.128,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 7.128,
+   "t1": 8.032,
+   "txt": "animals as well"
+  },
+  {
+   "t0": 8.032,
+   "t1": 9.056,
+   "txt": "as humans require"
+  },
+  {
+   "t0": 9.056,
+   "t1": 10.201,
+   "txt": "protection from the"
+  },
+  {
+   "t0": 10.201,
+   "t1": 11.045,
+   "txt": "rain when they"
+  },
+  {
+   "t0": 11.045,
+   "t1": 12.069,
+   "txt": "are being walked."
+  },
+  {
+   "t0": 12.42,
+   "t1": 13.252,
+   "txt": "Approved."
+  },
+  {
+   "t0": 13.672,
+   "t1": 15.144,
+   "txt": "Nineteen ninety-nine."
+  },
+  {
+   "t0": 15.645,
+   "t1": 16.481,
+   "txt": "The problem,"
+  },
+  {
+   "t0": 16.481,
+   "t1": 17.317,
+   "txt": "it explains:"
+  },
+  {
+   "t0": 17.317,
+   "t1": 17.944,
+   "txt": "it is not"
+  },
+  {
+   "t0": 17.944,
+   "t1": 18.85,
+   "txt": "a simple task"
+  },
+  {
+   "t0": 18.85,
+   "t1": 19.617,
+   "txt": "to have the"
+  },
+  {
+   "t0": 19.617,
+   "t1": 20.592,
+   "txt": "walker hold an"
+  },
+  {
+   "t0": 20.592,
+   "t1": 21.846,
+   "txt": "umbrella both over"
+  },
+  {
+   "t0": 21.846,
+   "t1": 22.891,
+   "txt": "himself and the"
+  },
+  {
+   "t0": 22.891,
+   "t1": 23.728,
+   "txt": "animal he is"
+  },
+  {
+   "t0": 23.728,
+   "t1": 24.285,
+   "txt": "walking."
+  },
+  {
+   "t0": 24.636,
+   "t1": 25.316,
+   "txt": "So a saddle"
+  },
+  {
+   "t0": 25.316,
+   "t1": 26.182,
+   "txt": "clips onto the"
+  },
+  {
+   "t0": 26.182,
+   "t1": 27.233,
+   "txt": "dog's harness and"
+  },
+  {
+   "t0": 27.233,
+   "t1": 27.665,
+   "txt": "collar."
+  },
+  {
+   "t0": 27.945,
+   "t1": 28.732,
+   "txt": "A pole rises"
+  },
+  {
+   "t0": 28.732,
+   "t1": 29.78,
+   "txt": "from the saddle."
+  },
+  {
+   "t0": 30.06,
+   "t1": 30.768,
+   "txt": "And on top,"
+  },
+  {
+   "t0": 30.768,
+   "t1": 31.863,
+   "txt": "a folding canopy,"
+  },
+  {
+   "t0": 31.863,
+   "t1": 32.635,
+   "txt": "with a drape"
+  },
+  {
+   "t0": 32.635,
+   "t1": 33.665,
+   "txt": "around the edge."
+  },
+  {
+   "t0": 34.016,
+   "t1": 34.776,
+   "txt": "From behind,"
+  },
+  {
+   "t0": 34.776,
+   "t1": 35.599,
+   "txt": "it looks like"
+  },
+  {
+   "t0": 35.599,
+   "t1": 35.915,
+   "txt": "this."
+  },
+  {
+   "t0": 36.366,
+   "t1": 37.229,
+   "txt": "The patent lists"
+  },
+  {
+   "t0": 37.229,
+   "t1": 38.093,
+   "txt": "its objects with"
+  },
+  {
+   "t0": 38.093,
+   "t1": 39.118,
+   "txt": "growing excitement."
+  },
+  {
+   "t0": 39.398,
+   "t1": 40.475,
+   "txt": "Still yet another"
+  },
+  {
+   "t0": 40.475,
+   "t1": 41.236,
+   "txt": "object is an"
+  },
+  {
+   "t0": 41.236,
+   "t1": 42.503,
+   "txt": "animal umbrella that"
+  },
+  {
+   "t0": 42.503,
+   "t1": 43.707,
+   "txt": "is self-supporting."
+  },
+  {
+   "t0": 44.058,
+   "t1": 45.01,
+   "txt": "Even its list"
+  },
+  {
+   "t0": 45.01,
+   "t1": 46.327,
+   "txt": "of earlier patents"
+  },
+  {
+   "t0": 46.327,
+   "t1": 47.205,
+   "txt": "builds up to"
+  },
+  {
+   "t0": 47.205,
+   "t1": 47.571,
+   "txt": "this,"
+  },
+  {
+   "t0": 47.571,
+   "t1": 48.961,
+   "txt": "in capital letters:"
+  },
+  {
+   "t0": 48.961,
+   "t1": 49.546,
+   "txt": "finally,"
+  },
+  {
+   "t0": 49.546,
+   "t1": 50.79,
+   "txt": "still yet another"
+  },
+  {
+   "t0": 50.79,
+   "t1": 51.376,
+   "txt": "example."
+  },
+  {
+   "t0": 51.827,
+   "t1": 52.378,
+   "txt": "And it was"
+  },
+  {
+   "t0": 52.378,
+   "t1": 53.149,
+   "txt": "not the first."
+  },
+  {
+   "t0": 53.429,
+   "t1": 54.575,
+   "txt": "Among the earlier"
+  },
+  {
+   "t0": 54.575,
+   "t1": 55.654,
+   "txt": "patents it lists"
+  },
+  {
+   "t0": 55.654,
+   "t1": 56.463,
+   "txt": "is an animal"
+  },
+  {
+   "t0": 56.463,
+   "t1": 57.474,
+   "txt": "umbrella in the"
+  },
+  {
+   "t0": 57.474,
+   "t1": 58.08,
+   "txt": "form of a"
+  },
+  {
+   "t0": 58.08,
+   "t1": 59.159,
+   "txt": "cap with pointed"
+  },
+  {
+   "t0": 59.159,
+   "t1": 60.777,
+   "txt": "ears extending outwardly"
+  },
+  {
+   "t0": 60.777,
+   "t1": 61.451,
+   "txt": "therefrom."
+  },
+  {
+   "t0": 61.802,
+   "t1": 62.506,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 62.506,
+   "t1": 63.338,
+   "txt": "canopy on its"
+  },
+  {
+   "t0": 63.338,
+   "t1": 63.594,
+   "txt": "own."
+  },
+  {
+   "t0": 63.874,
+   "t1": 64.4,
+   "txt": "It folds,"
+  },
+  {
+   "t0": 64.4,
+   "t1": 65.452,
+   "txt": "like any umbrella."
+  },
+  {
+   "t0": 65.803,
+   "t1": 66.437,
+   "txt": "A dog that"
+  },
+  {
+   "t0": 66.437,
+   "t1": 67.324,
+   "txt": "brings its own"
+  },
+  {
+   "t0": 67.324,
+   "t1": 67.894,
+   "txt": "umbrella."
+  },
+  {
+   "t0": 68.394,
+   "t1": 69.052,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 69.052,
+   "t1": 70.954,
+   "txt": "July nineteen ninety-nine."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.224
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 12.42
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 15.645
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 24.636
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 34.016
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 36.366
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 44.058
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 51.827
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 61.802
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 65.803
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "A DOG WITH|AN [UMBRELLA]",
+ "hookSwitch": 2,
+ "num": "US 5,918,611",
+ "tt": true
+}

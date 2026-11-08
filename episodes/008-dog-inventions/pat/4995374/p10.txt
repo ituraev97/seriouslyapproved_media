@@ -1,0 +1,161 @@
+4,995,374
+
+11
+
+feed aperture and is again launched on its airborne tra-
+jectory to start the chase and fetch cycle again.
+
+FIG. 10A illustrates the position of the ball 33 in the
+“ready” or “firing” position 167 within the hollow inte-
+rior 109 of the launch tube 93 immediately adjacent to
+and abutting the interior surface of the closure member
+97 such that the center of gravity of the ball is aligned
+with the longitudinal axis 231 of the solenoid rod 129. It
+will be noted that the center axis of the tube 93 which is
+represented by reference numeral 175 is displaced up-
+wardly from the impact axis 231 and is parallel thereto
+but not correspondent thereto. This is because, in the
+preferred embodiment of the present invention, the
+inner diameter of the launch tube 93 is much greater
+than the diameter of the ball so as to avoid or at least
+minimize contact with the ball once it is actually
+launched, which would otherwise decrease its initial
+velocity. The center of the firing aperture 123 is also
+aligned with the launch axis or impact axis 231, and it
+will be seen that the contact surface 137 of the solenoid
+rod portion 129 is aligned directly with the aperture 123
+and in a rearward or “cocked” position ready to fire.
+
+FIG. 10B shows the rod portion 129 extended into
+the aperture 123 so that the impact surface 137 meets
+the surface of the bail 133 along its center of gravity for
+firing or launching same. This is the initial contact or
+launch position and an intermediate point on the longi-
+tudinal forward extension of the rod 129 by the solenoid
+127 once it is energized. The direction of motion of the
+rod portion 129 is shown by the directional arrow 237.
+
+FIG. 10C illustrates the position of the ball 33 in the
+hollow interior 109 of the launch tube 93 after it has
+impacted the impact surface 137 of the rod 129 and
+begun its path of treavel up the tube 93, as indicated by
+the directional arrow 233. The solenoid rod portion 129
+is moving to its maximum forward point as indicated by
+directional arrow 239, through the firing aperture 123
+and after this point, the impact surface 137 never again
+contacts the ball 33.
+
+FIG. 10D shows the rod portion 129 moving in the
+opposite direction, as indicated by the directional arrow
+241, to retract itself back into the hollow interior or
+core of the solenoid 127 until it reaches the “cocked” or
+“ready” position shown in FIG. 10A. Meanwhile, the
+ball continues its upward movement within the hollow
+interior 109 of the launch tube 93, as indicated by the
+directional arrow 235, and it will so continue its move-
+ment until it passes through the launch aperture 25 and
+settles on its airborne trajectory or line of flight, as
+previously described.
+
+In summary, FIGS. 10A-10D illustrate the firing
+operation of the launch system of the present invention,
+and the thrust member 129 is shown as having a longitu-
+dinal axis 231 which passes through a central portion of
+the aperture 123 and extends through the cneter of
+gravity of the ball 33 when the ball 33 is in the “firing”
+position 167. The directional arrow 237 shows the initial
+direction of motion of the thrust rod or member 129 and
+the impact member 137 at the distal end of the rod 129
+just as it contacts or initially strikes the outer surface of
+the ball 33. Arrow 239 shows the continued forward
+motion of the thrust rod 129 even after the ball has
+cleared the impact surface and proceeds on its journey,
+as indicated by directional arrow 233. Arrow 241 shows
+the rod 129 as it is pulled back or retracted into the
+hollow interior or core of the solenoid 127 until it again
+reches the “cocked” position of FIG. 10A. Arrow 235
+
+ry
+
+5
+
+40
+
+30
+
+35
+
+60
+
+12
+shows the motion of the ball as it continues its upward
+launch.
+
+FIG. 11A shows the sensing mechanism 240 of the
+preferred embodiment of the present invention 95 in-
+cluding an electro-mechanical switch 117 having a pair
+of switch outputs 243 and 245 and a moveable or posi-
+tionable, elongated switch member or sensing member
+19 which is connected to the switch 117 via a pivot pin
+or similar mechamism 242. The switch arm 119 is nor-
+mally spring-biased in a first position, as shown in FIG.
+11A, so that it is disposed at least partially through the
+sensing aperture 115 so that its non-connected end por-
+tion extends into the hollow interior 109 of the launch
+tube 93 and into the track 111 of a downwardly rolling
+ball 33. The switch arm 119 is normally spring-biased in
+this positon and for as long as it is in this position, the
+switch 117 remains in an “off” state so that no signal is
+generated between the output lead or outputs 243 and
+245.
+
+FIG. 11B illustrates the ball 33 as rolling down the
+track 111 until it contacts the inwardly extending end
+portion of the sensing arm or switch member 119. At
+this point, the weight of the ball 33 overcomes the nor-
+mal bias of the switch member 119 and depresses the
+inwardly-extending end portion of the switch arm 119
+back into the sensing aperture 115 and out of the track
+or path 111 of the rolling ball 33. The directional arrow
+249 is used to indicate that the ball is rolling smoothly
+downward along the track or path 111 within the hol-
+low interior 109 of the launch tube 93 toward the clo-
+sure member 97 at the lower end, not shown in FIG.
+11A and 11B. Reference numeral 247 shows the actual
+point of contact between the exterior surface of the ball
+33 and the inwardly extending end portion of the switch
+arm 119. When the switch arm 119 is moved to this
+second or opposite position, it causes the switch 117 to
+change to its “on” state causing an electrical output or
+trigger signal to appear between the output leads 243
+and 245, as known in the art and as hereinafter de-
+scribed. The directional arrow 249 indicates that the
+ball 33 continues rolling along the track 111 past the
+spring arm 119 (allowing it to be self-biased back into
+the first position to terminate the generation of the trig-
+ger signal) as it proceeds in the direction of the arrow
+249 toward the ultimate “ready” position 167 adjacent
+the closure member 97 at the lower end of the tube 93,
+as shown in FIG. 10A.
+
+FIGS. 12 and 13 show an alternate embodiment to
+the upper or top collection portion 77 of the ball-throw-
+ing apparatus of the preferred embodiment of FIGS. 4,
+5 and 6. In the embodiment of FIGS. 12 and 13, the
+generally square horizontal plate 61 having the supply
+aperture 63 disposed in the center thereof comunicates
+with a ball-conducting conduit via the hollow interior
+135 which is disposed in the center of the top portion 77
+instead of being disposed between the center and the
+front plate or panel 49. In FIG. 12 it will be observed
+that the square base 61 is disposed equal distance be-
+tween the elongated rectangular sides 43 and 45 and
+equal distance between the rear end panel 47 and the
+front end panel 49. It will also be seen that all of the
+interior sides 65, 67, 69 and 71 slope downwardly and
+inwardly toward the four sides of the square plate 61 so
+that no matter where the ball is dropped within the
+upper distal edges 57, it rolls down one of the inwardly
+sloped surfaces to be dropped through the aperture 63
+and into the hollow interior of the launch tube 93, as
+illustrated in FIG. 12. It will be understood, that in the

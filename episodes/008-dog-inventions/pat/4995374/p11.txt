@@ -1,0 +1,176 @@
+4,995,374
+
+13
+
+earlier-described embodiment of the ball-collecting top
+portion 77, that the upper portions 59 of the rear panel
+47 and the upper portion 71 of the front panel 49 can be
+either vertical or inwardly sloped, or different from one
+another, without greatly affecting the operation previ-
+ously described. However, when the aperture 63 is
+disposed in the center of the top ball-collecting portion
+77, it is essential that all four surfaces extending down-
+wardly to the four sides of the plate 61 be sloping sur-
+faces, as shown in FIG. 12.
+
+FIG. 13 illustrates that the ball-supplying aperture 63
+opens onto the hollow interior 253 of a ball-conducting
+conduit 251 whose opposite end is contiguous with or
+corresponds to the ball-loading aperture 113 of the hol-
+low launch tube 93. The ball 33 then passes into the
+hollow interior 109 of the tube 103 and, after some
+additional bouncing as it moves downward therein, it
+settles into a smooth rolling motion, and under the force
+of gravity alone, proceeds downwardly in the tube 93
+until it reaches the “ready” position 167 of FIG. 10A, as
+previously described.
+
+FIG. 14 shows an electrical schematic diagram of the
+preferred embodiment of the control circuit or system
+of the present invention. In FIG. 14, the control cir-
+cuitry 261 is shown as including a first electrical or
+electro-mechanical switch 263 having an elongated
+switch actuation arm or member 265. The circuitry 261
+also includes a conventional solid state digital time de-
+lay/relay 273 including an eight-connector unit 271
+having connector pins P1-P8. A lead 269 is connected
+between the switch input terminal of switch 263 and the
+P4 pin of the pin connector unit 271 of the time delay/-
+relay 273. A second lead 267 extends from the output of
+the switch 263 to the PS pin of the pin connector unit
+271 of the time delay/relay 273. The time delay/relay
+273 is, as conventionally known, a commercially avail-
+able device, such as a time delay/relay manufactured by
+
+Dayton Electric Manufacturing Company of Chicago,
+' Ill. as Model No.’s 5X828E+, 6X153E+, 6X601E+,
+and the like. Such a time delay/relay 273 combines solid
+state digital timing circuits with an electro-mechanical
+relay for the control of power loads.
+
+A conventional 110V AC input 275 is connected to a
+source of external AC power, as previosuly described,
+and the input leads 277 and 279 are connected to the
+pins P7 and PI, respectively, of the pin unit 271 of the
+time delay/relay 273, respectively. The input of the
+solenoid 285 is conencted via lead 281 to pin P3 of the
+pin connector unit 271 of the time delay/relay 273 while
+the solenoid output is connected via lead 283 to the P6
+pin of the pin connector unit 271 of the time delay/relay
+273. As shown in FIG. 14, solenoid 285 includes a plu-
+rality of coils or wires 287 wraped about a hollow longi-
+tudinal core 289 to form a central passage or core
+through the longitudinal length of the solenoid 285. The
+coil is comprised of a continuously would wire 287
+which is would about the hollow core 289 and to form
+same, as conventionally known in the art. Positioned
+longitudinally within the hollow central core 289 is an
+elongated thrust member 291 having a first or forward
+end portion 293 containing an impact surface 297 at its
+distal end and a second or rear end portion 295.
+
+Under normal operation, when the solenoid 285 has
+its electrical coil or solenoid coil 287 de-energized, the
+thrust member or rod 291 is biased to be positioned as
+shown in FIG. 14 with the front end portion 293 being
+retracted a greater distance into the hollow core 289
+than the rear end portion 295. When the solenoid coil
+
+10
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+14
+
+287 is energized, the rod 291 is fired or thrust forwardly
+so that the front end portion 293 extends a far greater
+distance out of the hollow interior or core 289 and the
+contact surface 297 can extend through the firing aper-
+ture and contact the ball in its “ready” position for
+firing same, as previously described. Immediately after
+firing, the solenoid coil 287 will again be de-energized
+to draw or retract the front end portion 293 back into
+the hollwo interior 289 of the core of the solenoid 285
+so that the rear portion 295 of the thrust member or rod
+291 extends to a greater distance rearwardly of the
+solenoid 285 when it is in its “cocked” or normally
+de-energized state.
+
+FIG. 15 is a electrical schematic representation illus-
+trating generally the operation of the circuit or system
+261 of FIG. 14 without the use of the time delay/relay
+273 for the purpose of explanation only. In FIG. 15, the
+110V AC input 275 is connected to the solenoid 285
+through a double-pull, double-throw, relay-operated
+switch assembly 301 having a first normally-open
+swtich 303 which includes a relay-operated switch arm
+305 and an electrical switch contact 307. The double-
+pull, double-throw switch assembly 301 also includes a
+second normally-open swtich 309 having a normally-
+open switch arm 311 and a corresponding electrical
+switch contact 313.
+
+Both of the switch arms 305 and 311 are relay-
+operated, as indicated by the dashed line 330, and both
+are normally open so that no power is suppled to the
+solenoid 285 causing it to remain in its normal or non-
+energized state. Whenever power is supplied to the
+110V AC input 275, power is supplied via leads 277 and
+279 to the switch arms 305 and 309, respectively, of the
+switches 303 and 309, respectively, of the switching unit
+301. However, no power is supplied to the solenoid 285
+until the switch elements 305 and 311 are closed upon
+the contacts 307 and 313, as hereinafter described.
+Switch contact 307 is connected via lead 283 to one
+terminal of the solenoid 285 while the opposite terminal
+of the solenoid 285 is connected via lead 281 to the
+switch contact 313. Again, the solenoid 285 is shown in
+the de-energized state wherein the front end 293 of the
+elongated longitudinal thrust member or rod 291 is
+substantially withdrawn or retracted into the hollow
+interior or core 289 of the solenoid 285 in a “cocked”
+position to await firing when the relay coil thereof is
+energized.
+
+Meanwhile, let us assume that the ball 33 is dropped
+into the collection area, and passes through the collec-
+tion aperture and ball-conducting conduit to drop
+through the load aperture of the launch tube and into
+the hollow interior thereof. As it strikes the hollow
+interior, it will initially bounce as it begins to roll down-
+ward along the roll track and at some point along the
+roll track, it will roll over the switching arm causing the
+
+*normally-open switching arm 317 of the normally-open
+
+switch 315 to close on contact 319 and supply an electri-
+cal trigger or control signal to the time delay circuit 323
+via lead 321. The extent or duration of the time delay
+can be manually adjusted, and it will normally be se-
+lected so that the delayed trigger signal outputs on lead
+325 after a predetermined time sufficient for the ball to
+roll past the sensing aperture, contact the iner surface of
+the rear end closure element and stop bouncing to settle
+into a steady state “ready” or “firing” position, as previ-
+ously described.
+
+After the ball has had sufficient time to come to rest
+in the “ready” or “firing” position, the delay circuit 323

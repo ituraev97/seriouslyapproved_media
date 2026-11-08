@@ -1,0 +1,263 @@
+{
+ "T": 28.45,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.224,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.779
+    ],
+    [
+     2.179,
+     4.078
+    ],
+    [
+     4.478,
+     5.673
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE UMBRELLA",
+     300,
+     110,
+     60,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 6.224,
+   "t1": 12.42,
+   "i": 1,
+   "segs": [
+    [
+     6.224,
+     12.069
+    ]
+   ],
+   "g": "quote",
+   "q": "Animals as well as humans require protection from the rain when they are being walked.",
+   "hit": "as well as humans",
+   "src": "US 5,918,611 \u00b7 description"
+  },
+  {
+   "t0": 12.42,
+   "t1": 15.645,
+   "i": 2,
+   "segs": [
+    [
+     12.42,
+     13.252
+    ],
+    [
+     13.672,
+     15.144
+    ]
+   ],
+   "g": "stamp",
+   "title": "ANIMAL|UMBRELLA",
+   "filed": "APR. 2, 1997",
+   "date": "JULY 6, 1999",
+   "at": 0.6
+  },
+  {
+   "t0": 15.645,
+   "t1": 20.988,
+   "i": 3,
+   "segs": [
+    [
+     15.645,
+     20.637
+    ]
+   ],
+   "g": "fig",
+   "fig": "umb1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE SADDLE",
+     250,
+     370,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 20.988,
+   "t1": 28.45,
+   "i": 4,
+   "segs": [
+    [
+     20.988,
+     25.596
+    ]
+   ],
+   "g": "quote",
+   "q": "STILL YET ANOTHER OBJECT of the present invention is to provide an animal umbrella that is self-supporting.",
+   "hit": "self-supporting",
+   "src": "US 5,918,611 \u00b7 description"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.779,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.179,
+   "t1": 3.129,
+   "txt": "An umbrella that"
+  },
+  {
+   "t0": 3.129,
+   "t1": 4.078,
+   "txt": "the dog carries."
+  },
+  {
+   "t0": 4.478,
+   "t1": 5.274,
+   "txt": "On its own"
+  },
+  {
+   "t0": 5.274,
+   "t1": 5.673,
+   "txt": "back."
+  },
+  {
+   "t0": 6.224,
+   "t1": 7.128,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 7.128,
+   "t1": 8.032,
+   "txt": "animals as well"
+  },
+  {
+   "t0": 8.032,
+   "t1": 9.056,
+   "txt": "as humans require"
+  },
+  {
+   "t0": 9.056,
+   "t1": 10.201,
+   "txt": "protection from the"
+  },
+  {
+   "t0": 10.201,
+   "t1": 11.045,
+   "txt": "rain when they"
+  },
+  {
+   "t0": 11.045,
+   "t1": 12.069,
+   "txt": "are being walked."
+  },
+  {
+   "t0": 12.42,
+   "t1": 13.252,
+   "txt": "Approved."
+  },
+  {
+   "t0": 13.672,
+   "t1": 15.144,
+   "txt": "Nineteen ninety-nine."
+  },
+  {
+   "t0": 15.645,
+   "t1": 16.577,
+   "txt": "A saddle clips"
+  },
+  {
+   "t0": 16.577,
+   "t1": 17.708,
+   "txt": "onto the harness,"
+  },
+  {
+   "t0": 17.708,
+   "t1": 18.441,
+   "txt": "a pole goes"
+  },
+  {
+   "t0": 18.441,
+   "t1": 18.64,
+   "txt": "up,"
+  },
+  {
+   "t0": 18.64,
+   "t1": 19.572,
+   "txt": "and the canopy"
+  },
+  {
+   "t0": 19.572,
+   "t1": 20.238,
+   "txt": "even has a"
+  },
+  {
+   "t0": 20.238,
+   "t1": 20.637,
+   "txt": "drape."
+  },
+  {
+   "t0": 20.988,
+   "t1": 22.175,
+   "txt": "Still yet another"
+  },
+  {
+   "t0": 22.175,
+   "t1": 22.664,
+   "txt": "object:"
+  },
+  {
+   "t0": 22.664,
+   "t1": 23.92,
+   "txt": "an animal umbrella"
+  },
+  {
+   "t0": 23.92,
+   "t1": 25.596,
+   "txt": "that is self-supporting."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.224
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 12.42
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 15.645
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 20.988
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "A DOG WITH|AN [UMBRELLA]",
+ "hookSwitch": 2,
+ "num": "US 5,918,611",
+ "tt": false
+}

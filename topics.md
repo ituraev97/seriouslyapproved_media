@@ -10,7 +10,7 @@ Status: todo | done YYYY-MM-DD | skip (reason). Formats rotate by weekday (RUNBO
 | 005 | DID IT WORK? | Weird Patents That Actually Sold | done 2026-11-06 |
 | 006 | THE SHELF | Hats That Do Too Much | done 2026-11-07 |
 | 007 | THE YEAR FILE | The Weirdest Patents of 1895 | done 2026-11-08 |
-| 008 | THE SHELF | Dog Inventions Nobody Asked For | todo |
+| 008 | THE SHELF | Dog Inventions Nobody Asked For (as "Ranking the Weirdest Dog Inventions") | done 2026-11-09 |
 | 009 | THE SHELF | Breakfast Machines | todo |
 | 010 | ONE PATENT | (pick from the pilot's strongest patent) | skip (every pilot patent is in used_patents.json) |
 | 011 | THE SHELF | Bathroom Patents | todo |

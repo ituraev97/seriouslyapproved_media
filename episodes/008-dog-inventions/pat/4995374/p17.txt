@@ -1,0 +1,178 @@
+4,995,374
+
+25
+ball-receiving aperture for giding any returned ball at
+least one of dropped and otherwise deposited on said
+downwardly sloping surface means to roll under the
+force of gravity alone toward and into said ball-réeceiv-
+ing aperture for loading into the hollow interior of said
+barrel via said ball-loading aperture.
+
+41. The toy apparatus of claim 40 wherein said ball-
+receiving aperture is disposed in the proximate center of
+said top portion.
+
+42. The toy apparatus of claim 41 wherein said bail-
+receiving means further includes a hollow conduit
+means having one end communicating with said ball-
+receiving aperture and its opposite end communicating
+with said ball-feeding aperture for supplying any ball
+passing through said ball-receiving aperture toward and
+through said ball-laoding aperture and into said hollow
+interior of said barrel. ;
+
+43. The toy apparatus of claim 40 wherein said ball-
+receiving aperture is operably disposed in the bottom of
+said top portion between said front panel and the center
+of said top portion.
+
+44, The toy apparatus of claim 43 wherein said ball-
+receiving means further includes a hollow conduit
+means having one end communicating with said ball-
+receiving aperture and its opposite end communicating
+with said ball-feeding aperture for supplying any ball
+passed through said ball-receiving aperture toward and
+through said ball-loading aperture and into said hollow
+interior of said barrel.
+
+45. The toy apparatus of claim 34 wherein said barrel
+includes a sensing aperture operably disposed through
+said lower inwardly disposed arcuately-curved interior
+portion and communicating with said hollow interior of
+said barrel.
+
+46. The toy apparatus of claim 45 wherein said sens-
+ing means is operably disposed at least one of within and
+at least partially through said sensing aperture for de-
+tecting the passage of a downwardly descending ball
+rolling over said sensing aperture along said lower in-
+wardly disposed arcuately-curved portion.
+
+47. The toy apparatus of claim 46 wherein said sens-
+ing means includes an electro-mechanical device re-
+sponsive to the rolling passage of said ball over said
+sensing aperture for generating said command signal.
+
+48. The toy apparatus of claim 46 wherein said sens-
+ing means includes a light source and a light detector.
+
+49. The toy apparatus of claim 46 wherein said sens-
+ing means includes an electro-mechanical switch having
+an elongated switch member, said switch having a nor-
+mally-off switching state whenever said elongated
+switch member is in a first sensing position and a second
+“on” switching state whenever said elongated switch
+member is moved to a second ball-detection position,
+_ said switch being operatively disposed on the exterior
+
+of said barrel and at least one of within and adjacent to
+said sensing aperture such that said elongated switch
+member extends at least partially through said sensing
+aperture, above the level of said lower, inwardly dis-
+posed, arcuately-curved interior of said barrel and into
+the path of any ball rolling downwardly therealong
+when said elongated switch member is in said first sens-
+ing position, said elongated switch member being re-
+sponsive to physical contact with the downwardly roll-
+ing ball and its passage thereover for switching to said
+second position and turning said switch on to generate
+said command signal.
+
+50. The toy apparatus of claim 34 wherein said closed
+distal lower end of said barrel ncludes a ball-firing aper-
+
+10
+
+20
+
+25
+
+35
+
+40
+
+45
+
+35
+
+60
+
+26
+
+ture therethrough, and wherein said ball-shooting
+means further includes an elongated rod having a ball-
+impacting end portion, said elongated rod having a
+cocked position wherein said ball-impacting end por-
+tion is disposed exterior to the hollow interior of said
+barrel and longitudinaly aligned with said ball-firing
+aperture and a fired position wherein said ball-impact-
+ing end portion extends longitudinally through said
+ball-firing aperture and into the hollow interior of said
+barrel for impacting said ball disposed in said firing
+position and thrusting same upwardly through the hol-
+low interior of said barrel, out of said open mouth, and
+into said airborne trajectory, said elongated rod shifting
+from said cocked position to said fired position at a
+predetermined time after the generation of said com-
+mand signal.
+
+51. The toy apparatus of claim 50 wherein said ball-
+shooting means further includes an electrical solenoid
+having a solenoid coil formed about a holow, centrai,
+longitudinal core and a longitudinally oriented central
+solenoid rod mounted within said core and having a
+first non-extending cocked rod position whenever said
+solenoid coil is de-energized and a second extended
+fired position once said solenoid coil is energized.
+
+52. The toy apparatus of claim 51 wherein said ball-
+shooting means further includes an electrical delay
+means responsive to said generated command signal for
+generating a delayed command signal at a predeter-
+mined later time, said predetermined later time being at
+least sufficient to enable the ball, rolling down the hol-
+low interior of said barrel and bouncing off of said
+closed distal end, to come to rest in said ball-firing posi-
+tion, and means responsive to said delayed command
+signal for energizing said solenoid coil to fire said posi-
+tioned ball.
+
+53. The toy apparatus of claim 52 wherein said means
+responsive to said delayed command signal include
+normally-open switching means operatively coupled to
+said source of electrical energy for energizing said sole-
+noid coil, said switching means being responsive to said
+delayed command signal for switching from a normally-
+open state to a closed state for powering said solenoid
+coil for energizing same and firing said positioned ball.
+
+54. The toy apparatus of claim 53 wherein said source
+
+.of electrical potential includes a pair of 110 VAC inputs,
+
+a first electrical connection between one of said 110
+VAC inputs and the input of said solenoid coil, a second
+electrical connection between the other of said 110
+VAC inputs and the output of said solenoid coil, first
+and second, normally-opened, relay-operated switching
+elements operatively disposed in said first and second
+electrical connections, and a relay coil means respon-
+sive to said delayed command signal for closing said
+first and second relay-operated switching means to
+complete an electrical path between said 110 VAC
+source and said solenoid coil for energizing same and
+launching said ball out of said launching tube and into
+said airborne trajectory to be chased, fetched, and re-
+turned by said dog.
+
+55. An automatic ball-throwing system for throwing
+and re-throwing a ball for enabling a ball-fetching ami-
+nal to chase and fetch the ball over and over again for
+as long as the animal continues to return the fetched ball
+after each chase, said automatic ball-throwing system
+comprising:
+
+an elongated cylinder includifg a hollow interior, a
+
+longitudinal axis through said hollow interior, a
+front end portion having an open mouth at the

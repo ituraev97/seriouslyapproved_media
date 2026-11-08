@@ -1,0 +1,180 @@
+4,995,374
+
+29
+
+to the planes of said side panels, said rear panel
+being similarly dimensioned to said front panel;
+
+a generally rectangular bottom panel for supporting
+said positioning means, the plane of said bottom
+panel being generally perpendicular to the planes
+of said side panels, said front panel and said rear
+panel; and
+
+a top portion operatively closing said housing means
+for forming a box-like strucutre having a hollow
+interior, said top portion including said ball-collect-
+ing means.
+
+61. The automatic ball-throwing system of claim 60
+
+wherein said top portion of said housing means com-
+prises:
+
+—
+
+0
+
+a generally rectangular rim means formed by the 15
+
+vertical upper edge portion of said side panels, said
+front panel and said rear panel, said rim means
+bounding said ball-collection area for preventing
+the escape of a ball at least one of dropped and
+otherwise deposited therewithin;
+
+a lower surface portion operatively disposed below
+said rim;
+
+a ball return aperture operatively disposed centrally
+within said lower surface portion for at least one of
+communicating with and corresponding to said
+ball-loading aperture of said cylinder; and
+
+downwardly and inwardly sloping surface means
+operatively connecting said rim means and the
+borders of said lower surface for guiding a ball
+deposited within said collection area downwardly
+under the force of gravity alone and into and
+through said bal] return aperture for feeding same
+into the hollow interior of said cylinder to be
+thrown again.
+
+62. The automatic ball-throwing aperture of claim 61
+wherein said ball return aperture is operatively disposed
+in the proximate center of said top portion and includes
+ball conduit means operatively connecting siad ball
+return aperture to said ball-loading aperture for supply-
+ing the ball from said ball return aperture to said ball-
+loading aperture and loading same into the hollow inte-
+rior of said cylinder.
+
+63. The automatic ball-throwing system of claim 55
+wherein said sensing means comprises an electrical
+switch having an open switch state and a closed switch
+state, said switch including an elongated switch-operat-
+ing element normally biased in a first position where it
+is operatively extended through said sensing aperture of
+said cylinder and into the hollow interior thereof above
+said rolling track for maintaining said electrical switch
+in said normally-open switch state, said elongated
+switch-operating element being responsive to contact
+with the ball rolling downwardly along said rolling
+track and over said elongated switch-operating element
+for shifting to a second position and activating said
+electrical switch to said closed switch state to generate
+said comman signal.
+
+64. The automatic ball-throwing system of claim 5
+wherein said electrical source includes a 110 VAC
+source, said electrical connector menas includes at least
+a first and second electrical connector for connecting
+said source to said solenoid coil, and wherein said elec-
+tricla switching means includes a first and second relay-
+operated normally-open switch disposed in said first
+
+20
+
+25
+
+30
+
+40
+
+45
+
+50
+
+60
+
+65
+
+30
+
+and second electrical connectors, respectively, and
+wherein said delay means includes a normally de-ener-
+gizing relay coil responsive to said delay command
+signal for energizing to close said first and second nor-
+mally-opened relay-operated switches and supply 110
+VAC power for energizing said solenoid coil to fire said
+thrust member forward and launch said ball along said
+airborne trajectory.
+65. A ball-launching apparatus for propelling a ball
+on an airborne path to be chased and fetched by a ball-
+fetching animal repeatedly for as long as the animal
+continues to return the fetched ball after each succes-
+sive chase, said bail-launching apparatus comprising:
+an elongated, generally cylindrical, bali-launching
+tube having a hollow interior, a launch opening at
+the distal front end of said tube, a closure member
+having an aperture therethrough operably disposed
+adjacent the rear end of said tube, and a loading
+aperture adjacent said front end of said tube;
+
+means for positioning said tube for elevating said
+front opening substantially above the level of said
+rear closure member;
+
+means for collecting a returned ball and feeding same
+
+through said loading aperture and into the hollow
+interior of said tube;
+means for detecting the presence of the ball at a pre-
+determined position as it rolls down the hollow
+interior of the tube and before it comes to rest
+adjacent said closure member; and
+
+electro-mechanical means operably disposed behind
+said rear closure member of said tube and being
+responsive to said detecting means and to a prede-
+termined time delay sufficient to allow the ball to
+come to rest adjacent the rear end of said tube for
+launching said ball through said hollow interior,
+out said front opening, and along said airbonre path
+to once again be chased, fetched and returned by
+said ball-fetching animal.
+
+66. A ball-launching system for a dog’s ball compris-
+ing:
+
+a ball-launching tube having a hollow interior, an
+
+open front end, and a rear end portion;
+
+means for elevating said open front end of said tube a
+
+substantial distance above the level of said rear end
+portion for launching a ball on an airborne path to
+be chased, fetched and returned by a dog;
+
+means for feeding a returned ball into the hollow
+
+interior of said tube;
+
+means for detecting a ball loaded into the hollow
+
+interior of said tube as it rolls downwardly past a
+predetermined position and before it comes to rest
+at a firing position adjacent said rear end portion of
+said tube; and ;
+means operatively disposed exterior to said tube and
+at least partially behind said rear end portion of
+said tube and responsive to said detection means
+and to a predetermined time delay sufficient for
+said ball to come to rest in said firing position for
+launching same upwardly through the hollow inte-
+rior of said tube, out of said open front end, and
+along said airborne path to again be chased, fetched
+
+and returned by said dog.
+* * * * *

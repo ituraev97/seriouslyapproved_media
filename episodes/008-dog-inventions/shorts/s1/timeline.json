@@ -1,0 +1,264 @@
+{
+ "T": 26.35,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.653,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.078
+    ],
+    [
+     2.578,
+     3.261
+    ],
+    [
+     3.761,
+     4.593
+    ],
+    [
+     5.093,
+     6.202
+    ]
+   ],
+   "g": "fig",
+   "fig": "gog3",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "GOGGLES",
+     138,
+     282,
+     80,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 6.653,
+   "t1": 11.612,
+   "i": 1,
+   "segs": [
+    [
+     6.653,
+     11.261
+    ]
+   ],
+   "g": "quote",
+   "q": "pets, and primarily dogs, who enjoy hanging their heads out of the windows of moving cars.",
+   "hit": "out of the windows",
+   "src": "US 5,732,415 \u00b7 description"
+  },
+  {
+   "t0": 11.612,
+   "t1": 14.816,
+   "i": 2,
+   "segs": [
+    [
+     11.612,
+     12.444
+    ],
+    [
+     12.864,
+     14.315
+    ]
+   ],
+   "g": "stamp",
+   "title": "ADJUSTABLE|PET EYEWEAR",
+   "filed": "FEB. 24, 1997",
+   "date": "MAR. 31, 1998",
+   "at": 0.6
+  },
+  {
+   "t0": 14.816,
+   "t1": 20.743,
+   "i": 3,
+   "segs": [
+    [
+     14.816,
+     16.181
+    ],
+    [
+     16.461,
+     17.656
+    ],
+    [
+     17.936,
+     18.661
+    ],
+    [
+     18.941,
+     20.392
+    ]
+   ],
+   "g": "fig",
+   "fig": "gog5",
+   "figno": "5",
+   "draw": false,
+   "calls": [
+    [
+     "FLIPPED UP",
+     536,
+     109,
+     100,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 20.743,
+   "t1": 26.35,
+   "i": 4,
+   "segs": [
+    [
+     20.743,
+     23.452
+    ]
+   ],
+   "g": "quote",
+   "q": "The world may never know.",
+   "hit": "never know",
+   "src": "US 5,732,415 \u00b7 description"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.214,
+   "txt": "This is a"
+  },
+  {
+   "t0": 1.214,
+   "t1": 2.078,
+   "txt": "real U.S."
+  },
+  {
+   "t0": 2.578,
+   "t1": 3.261,
+   "txt": "patent."
+  },
+  {
+   "t0": 3.761,
+   "t1": 4.593,
+   "txt": "Goggles."
+  },
+  {
+   "t0": 5.093,
+   "t1": 6.202,
+   "txt": "For your dog."
+  },
+  {
+   "t0": 6.653,
+   "t1": 7.371,
+   "txt": "They are for"
+  },
+  {
+   "t0": 7.371,
+   "t1": 8.209,
+   "txt": "dogs who enjoy"
+  },
+  {
+   "t0": 8.209,
+   "t1": 9.346,
+   "txt": "hanging their heads"
+  },
+  {
+   "t0": 9.346,
+   "t1": 9.944,
+   "txt": "out of the"
+  },
+  {
+   "t0": 9.944,
+   "t1": 10.962,
+   "txt": "windows of moving"
+  },
+  {
+   "t0": 10.962,
+   "t1": 11.261,
+   "txt": "cars."
+  },
+  {
+   "t0": 11.612,
+   "t1": 12.444,
+   "txt": "Approved."
+  },
+  {
+   "t0": 12.864,
+   "t1": 14.315,
+   "txt": "Nineteen ninety-eight."
+  },
+  {
+   "t0": 14.816,
+   "t1": 15.466,
+   "txt": "But why do"
+  },
+  {
+   "t0": 15.466,
+   "t1": 16.181,
+   "txt": "dogs do it?"
+  },
+  {
+   "t0": 16.461,
+   "t1": 17.656,
+   "txt": "The patent guesses."
+  },
+  {
+   "t0": 17.936,
+   "t1": 18.661,
+   "txt": "The wind."
+  },
+  {
+   "t0": 18.941,
+   "t1": 20.392,
+   "txt": "The passing countryside."
+  },
+  {
+   "t0": 20.743,
+   "t1": 21.866,
+   "txt": "Its final answer:"
+  },
+  {
+   "t0": 21.866,
+   "t1": 22.725,
+   "txt": "the world may"
+  },
+  {
+   "t0": 22.725,
+   "t1": 23.452,
+   "txt": "never know."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.653
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.612
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 14.816
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 20.743
+  }
+ ],
+ "hook": "LOOK AT|THIS [DOG]",
+ "hook2": "GOGGLES FOR|[DOGS] \u00b7 1998",
+ "hookSwitch": 2,
+ "num": "US 5,732,415",
+ "tt": false
+}

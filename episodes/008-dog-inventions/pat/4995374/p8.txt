@@ -1,0 +1,172 @@
+4,995,374
+
+7
+
+support or base on which the remainder of the appara-
+tus is positioned as hereinafter described.
+
+Vertically, downwardly-extending, distal end por-
+tions 83 of the lower end portion 81 of the rear panel 47
+and the lower end portion 85 of the front panel 49, as
+well as the lower end portions of the side panels 43 and
+45, form a hollow or recess 87 beneath the horizontal
+bottom panel 89. As seen in FIG. 5, the box-like housing
+23 of the ball-throwing apparatus 21 of the preferred
+embodiment of the present invention includes a substan-
+tially hollow interior 91 into which is positioned a gen-
+erally right circular cylinder, barrel or Jaunch tube 93.
+The launch tube 93 includes an open mouth 95 at its
+front end and a rear closure member 97 at its rear end.
+The tube 93 includes an upper or raised front end por-
+tion 99, a lower or rear end poriton 101, and an interme-
+diate cylindrical portion 103 integrally existing therebe-
+tween. The launch tube 93 includes an upper longitudi-
+nal barrel wall or sleeve 105 and a corresponding lower
+longitudinal barrel wall or sleeve 107, both of which
+extend substantially the entire length of the tube 93. The
+tube 93 includes a hollow cylindrical barrel or tube
+interior 109 and contains an arcuately curved interior
+ball track 111 on the interior inner surface of the lower
+barrel wall or sleeve portion 107.
+
+Furthermore, the launch tube 93 includes a ball-load-
+ing aperture or port 113 through the upper longitudinal
+wall or sleeve portion 105 in the upper or raised front
+end portion 99 thereof. In addition, a sensing aperture
+115 is provided in the lower longitudinal barrel wall 107
+of either the intermediate portion 103 or the rear end
+portion 101 of the longitudinal tube 93.
+
+In the preferred embodiment of FIG. 5, an electrical
+switch 117 is mounted on the exterior surface of the
+lower barrel wall 107 and the switch 117 includes a
+moveable, extending contact arm or member 119. The
+arm 119 is normally-biased to a first position, as shown
+in FIG. 5, where it extends at least partially through the
+sensing aperture 115 and into the ball path or track 111
+so that any ball 33 rolling down the track 111 will
+contact the switch trigger arm 119 and turn the switch
+from its normally “off” position to its ‘ton’ position, as
+hereinafter described.
+
+Lastly, the tube 93 includes a lower rear end portion
+101 which terminates in a closure member 97 having a
+thrust or firing aperture 123 therethrough. A “ball
+ready” or “firing” position 121 exists on the track 111
+between the sensing aperture 115 and the rear closure
+member 97, as hereinafter described. The lower arcuate
+sleeve portion 107 may be disposed on a ramp or sup-
+port member 125 for positioning the tube 93.
+
+The system 21 further includes an electrical solenoid
+127 which includes a longitudinally positionable thrust
+rod having a first thrust end portion 129 and a second
+opposite end portion 131. The longitudinal axis of the
+thrust rod comprising the end portions 129 and 131 is
+aligned with the center of the aperture 123 and with the
+center of gravity of the ball 33 when the ball 33 is in the
+“ready” position 121, as hereinafter described, so that
+when the impact end portion 129 moves forwardly, the
+contact surface 137 at the distal end of the thrust rod
+portion 129 strikes the ball at its approximate center of
+gravity and launches it up the hollow interior 109 of the
+tube 93.
+
+The ball-feeding or ball-supplying aperture 63 of the
+top collection protion 77 of the housing 23 is conencted
+to the ball-loading aperture or port 113 of the tube 93
+via a ball-conducting passage or conduit 133 having a
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+30
+
+35
+
+60
+
+65
+
+8
+
+substantially hollow circular cylindrical interior 135
+adapted to freely pass the ball from the collection area
+or plate 61 of the upper or top collection portion 77 and
+allow the ball to drop through the feed aperture 63, pass
+through the hollow interior 135 of the ball-transmitting
+conduit 133 and then drop through the ball-loading
+aperture or port 113 into the hollow interior 109 of the
+launch tube 93. After bouncing for some predetermined
+period of time, the ball rolls smoothly downward along
+the track 111 toward the ready positon 121.
+
+FIG. 6 is a top plan view of the ball-throwing appara-
+tus 21 of FIGS. 4 and 5. FIG. 6 illustrates a control
+circuitry or relay/delay circuitry box 141 having a
+power in conenctor 143 connected to the electrical
+power cord 73 of FIG. 4. Additionally, electrical lead
+145 connects the control circuitry 141 to the input of
+the solenoid 127 while the solenoid output is connected
+via lead 147 back to the control circuitry of box 141.
+Lastly, an electrical lead 149 connects the electrical
+switch 117 of the sensing means of the present invention
+back to an input of the control circuitry box 141.
+
+FIG. 7 illustrates the loading process of the ball-
+throwing apparatus or system 21 of the present inven-
+tion. In FIG. 7, the ball 33 is represented in its various
+positions which are numbered within the interior of the
+ball 33, as hereinafter described. The first bal! position
+(ball 1) is indicated by ball 151 as it is dropping down-
+wardly into the collection area 77 of the top portion 53
+of the housing 23 by the dog 29, as shown in FIG. 3.
+The heavy black directional arrow shows that the ball
+151 is being dropped vertically downward into the
+colelction area 77. As the ball 151 contacts the ramp or
+downwardly sloping surface 65, it gradually stops
+bouncing and rolls smoothly, as shown by the ball in
+position 2 as represented by ball 153. Finally, the ball
+comes to rest on the plate 61 adjacent the aperture 63
+and, by the force of gravity alone, falls downwardly
+through the hollow interior 135 of the ball-conducting
+or transporting passge 133 as indicated by the third ball
+represented by reference numeral 155. In the position of
+ball 155, the ball is now within the hollow interior 135
+of the conduit 133 between the upper feed aperture 63
+and the lower ball-loading aperture 113. In the fourth
+position, ball 4 is shown as having contacted the track
+111 and bounced until it settles into a smooth down-
+wardly rolling motion, as represented by the fourth
+position of the ball represented by reference numeral
+157. Lastly, in the fifth position , the ball indicated by
+reference numeral 159 is shown as having rolled down-
+wardly along the track 111 toward the closure member
+97 and is presently passing over the sensing aperture 115
+sO as to move the sensing arm 119 of the switch 117
+downwardly to change the state of the switch 117 from
+its normally “off” state to its “on” state and generate a
+trigger or control signal for controlling the firing of the
+ball, as hereinafter described. The ball in the fifth posi-
+tion or sensing position is represented by reference
+numeral 159, and it is still rolling in the direction shown
+by the heavy dark arrow toward the closure member 97
+at the end of the launch tube 93.
+
+In FIG. 8, the ball 161 is shown as it begins to pass off
+of the switch member 119 along the track 111 as it
+continues to roll smoothly downward from position 6,
+as indicated by reference numeral 161, toward the inte-
+rior surface of the closure member 97. When it reaches
+this position and stops bouncing off of the closure mem-
+ber 97, the ball comes to rest in the “ready” or “firing”
+position 121 represented by the positioned ball 163 (in

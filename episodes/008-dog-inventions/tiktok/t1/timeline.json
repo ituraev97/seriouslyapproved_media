@@ -1,0 +1,659 @@
+{
+ "T": 73.04,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.653,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.078
+    ],
+    [
+     2.578,
+     3.261
+    ],
+    [
+     3.761,
+     4.593
+    ],
+    [
+     5.093,
+     6.202
+    ]
+   ],
+   "g": "fig",
+   "fig": "gog3",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "GOGGLES",
+     138,
+     282,
+     80,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 6.653,
+   "t1": 13.724,
+   "i": 1,
+   "segs": [
+    [
+     6.653,
+     13.373
+    ]
+   ],
+   "g": "quote",
+   "q": "It is, therefore, an object of the invention to protect the eyes of animals, and particularly canines.",
+   "hit": "particularly canines",
+   "src": "US 5,732,415 \u00b7 description"
+  },
+  {
+   "t0": 13.724,
+   "t1": 16.928,
+   "i": 2,
+   "segs": [
+    [
+     13.724,
+     14.556
+    ],
+    [
+     14.976,
+     16.427
+    ]
+   ],
+   "g": "stamp",
+   "title": "ADJUSTABLE|PET EYEWEAR",
+   "filed": "FEB. 24, 1997",
+   "date": "MAR. 31, 1998",
+   "at": 0.6
+  },
+  {
+   "t0": 16.928,
+   "t1": 23.828,
+   "i": 3,
+   "segs": [
+    [
+     16.928,
+     23.477
+    ]
+   ],
+   "g": "quote",
+   "q": "pets, and primarily dogs, who enjoy hanging their heads out of the windows of moving cars.",
+   "hit": "out of the windows",
+   "src": "US 5,732,415 \u00b7 description"
+  },
+  {
+   "t0": 23.828,
+   "t1": 30.624,
+   "i": 4,
+   "segs": [
+    [
+     23.828,
+     25.684
+    ],
+    [
+     25.964,
+     30.273
+    ]
+   ],
+   "g": "quote",
+   "q": "Perhaps this is because they enjoy the feel of the wind against their skin.",
+   "hit": "the wind",
+   "src": "US 5,732,415 \u00b7 description"
+  },
+  {
+   "t0": 30.624,
+   "t1": 35.327,
+   "i": 5,
+   "segs": [
+    [
+     30.624,
+     34.976
+    ]
+   ],
+   "g": "quote",
+   "q": "Perhaps it is simply that they like to look outward at the passing countryside.",
+   "hit": "passing countryside",
+   "src": "US 5,732,415 \u00b7 description"
+  },
+  {
+   "t0": 35.327,
+   "t1": 37.258,
+   "i": 6,
+   "segs": [
+    [
+     35.327,
+     36.757
+    ]
+   ],
+   "g": "quote",
+   "q": "The world may never know.",
+   "hit": "never know",
+   "src": "US 5,732,415 \u00b7 description"
+  },
+  {
+   "t0": 37.258,
+   "t1": 42.899,
+   "i": 7,
+   "segs": [
+    [
+     37.258,
+     42.548
+    ]
+   ],
+   "g": "fig",
+   "fig": "gog3",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "STRAP",
+     312,
+     300,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 42.899,
+   "t1": 47.605,
+   "i": 8,
+   "segs": [
+    [
+     42.899,
+     45.523
+    ],
+    [
+     45.803,
+     47.254
+    ]
+   ],
+   "g": "fig",
+   "fig": "gog5",
+   "figno": "5",
+   "draw": false,
+   "calls": [
+    [
+     "FLIPPED UP",
+     536,
+     109,
+     100,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 47.605,
+   "t1": 55.788,
+   "i": 9,
+   "segs": [
+    [
+     47.605,
+     49.93
+    ],
+    [
+     50.21,
+     55.437
+    ]
+   ],
+   "g": "fig",
+   "fig": "gog79",
+   "figno": "2",
+   "label": false
+  },
+  {
+   "t0": 55.788,
+   "t1": 64.824,
+   "i": 10,
+   "segs": [
+    [
+     55.788,
+     56.876
+    ],
+    [
+     57.156,
+     64.473
+    ]
+   ],
+   "g": "quote",
+   "q": "As instinct commands, the animal desires to extend his head out an open window and into the onrushing wind.",
+   "hit": "As instinct commands",
+   "src": "US 4,178,742 \u00b7 description"
+  },
+  {
+   "t0": 64.824,
+   "t1": 73.04,
+   "i": 11,
+   "segs": [
+    [
+     64.824,
+     65.784
+    ],
+    [
+     66.284,
+     67.33
+    ],
+    [
+     67.83,
+     68.811
+    ],
+    [
+     69.311,
+     70.186
+    ]
+   ],
+   "g": "stamp",
+   "title": "ADJUSTABLE|PET EYEWEAR",
+   "filed": "FEB. 24, 1997",
+   "date": "MAR. 31, 1998",
+   "big": true,
+   "at": 1.8
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.214,
+   "txt": "This is a"
+  },
+  {
+   "t0": 1.214,
+   "t1": 2.078,
+   "txt": "real U.S."
+  },
+  {
+   "t0": 2.578,
+   "t1": 3.261,
+   "txt": "patent."
+  },
+  {
+   "t0": 3.761,
+   "t1": 4.593,
+   "txt": "Goggles."
+  },
+  {
+   "t0": 5.093,
+   "t1": 6.202,
+   "txt": "For your dog."
+  },
+  {
+   "t0": 6.653,
+   "t1": 7.073,
+   "txt": "It is,"
+  },
+  {
+   "t0": 7.073,
+   "t1": 7.773,
+   "txt": "therefore,"
+  },
+  {
+   "t0": 7.773,
+   "t1": 8.613,
+   "txt": "an object of"
+  },
+  {
+   "t0": 8.613,
+   "t1": 9.733,
+   "txt": "the invention to"
+  },
+  {
+   "t0": 9.733,
+   "t1": 10.853,
+   "txt": "protect the eyes"
+  },
+  {
+   "t0": 10.853,
+   "t1": 11.623,
+   "txt": "of animals,"
+  },
+  {
+   "t0": 11.623,
+   "t1": 13.373,
+   "txt": "and particularly canines."
+  },
+  {
+   "t0": 13.724,
+   "t1": 14.556,
+   "txt": "Approved."
+  },
+  {
+   "t0": 14.976,
+   "t1": 16.427,
+   "txt": "Nineteen ninety-eight."
+  },
+  {
+   "t0": 16.928,
+   "t1": 17.555,
+   "txt": "It is for"
+  },
+  {
+   "t0": 17.555,
+   "t1": 17.903,
+   "txt": "pets,"
+  },
+  {
+   "t0": 17.903,
+   "t1": 19.227,
+   "txt": "and primarily dogs,"
+  },
+  {
+   "t0": 19.227,
+   "t1": 20.411,
+   "txt": "who enjoy hanging"
+  },
+  {
+   "t0": 20.411,
+   "t1": 21.456,
+   "txt": "their heads out"
+  },
+  {
+   "t0": 21.456,
+   "t1": 22.432,
+   "txt": "of the windows"
+  },
+  {
+   "t0": 22.432,
+   "t1": 23.477,
+   "txt": "of moving cars."
+  },
+  {
+   "t0": 23.828,
+   "t1": 24.367,
+   "txt": "And then,"
+  },
+  {
+   "t0": 24.367,
+   "t1": 25.445,
+   "txt": "the patent wonders"
+  },
+  {
+   "t0": 25.445,
+   "t1": 25.684,
+   "txt": "why."
+  },
+  {
+   "t0": 25.964,
+   "t1": 26.874,
+   "txt": "Perhaps this is"
+  },
+  {
+   "t0": 26.874,
+   "t1": 27.967,
+   "txt": "because they enjoy"
+  },
+  {
+   "t0": 27.967,
+   "t1": 28.635,
+   "txt": "the feel of"
+  },
+  {
+   "t0": 28.635,
+   "t1": 29.606,
+   "txt": "the wind against"
+  },
+  {
+   "t0": 29.606,
+   "t1": 30.273,
+   "txt": "their skin."
+  },
+  {
+   "t0": 30.624,
+   "t1": 31.379,
+   "txt": "Perhaps it is"
+  },
+  {
+   "t0": 31.379,
+   "t1": 32.307,
+   "txt": "simply that they"
+  },
+  {
+   "t0": 32.307,
+   "t1": 33.003,
+   "txt": "like to look"
+  },
+  {
+   "t0": 33.003,
+   "t1": 33.816,
+   "txt": "outward at the"
+  },
+  {
+   "t0": 33.816,
+   "t1": 34.976,
+   "txt": "passing countryside."
+  },
+  {
+   "t0": 35.327,
+   "t1": 36.102,
+   "txt": "The world may"
+  },
+  {
+   "t0": 36.102,
+   "t1": 36.757,
+   "txt": "never know."
+  },
+  {
+   "t0": 37.258,
+   "t1": 38.533,
+   "txt": "Whatever the reason,"
+  },
+  {
+   "t0": 38.533,
+   "t1": 39.297,
+   "txt": "the dog gets"
+  },
+  {
+   "t0": 39.297,
+   "t1": 40.254,
+   "txt": "a clear goggle,"
+  },
+  {
+   "t0": 40.254,
+   "t1": 41.273,
+   "txt": "with straps that"
+  },
+  {
+   "t0": 41.273,
+   "t1": 41.975,
+   "txt": "run back to"
+  },
+  {
+   "t0": 41.975,
+   "t1": 42.548,
+   "txt": "a collar."
+  },
+  {
+   "t0": 42.899,
+   "t1": 43.555,
+   "txt": "And when the"
+  },
+  {
+   "t0": 43.555,
+   "t1": 44.102,
+   "txt": "car stops,"
+  },
+  {
+   "t0": 44.102,
+   "t1": 44.758,
+   "txt": "they flip up"
+  },
+  {
+   "t0": 44.758,
+   "t1": 45.523,
+   "txt": "onto the head."
+  },
+  {
+   "t0": 45.803,
+   "t1": 47.254,
+   "txt": "Like aviator goggles."
+  },
+  {
+   "t0": 47.605,
+   "t1": 48.44,
+   "txt": "And these were"
+  },
+  {
+   "t0": 48.44,
+   "t1": 49.215,
+   "txt": "not the first"
+  },
+  {
+   "t0": 49.215,
+   "t1": 49.93,
+   "txt": "dog goggles."
+  },
+  {
+   "t0": 50.21,
+   "t1": 51.23,
+   "txt": "Back in nineteen"
+  },
+  {
+   "t0": 51.23,
+   "t1": 52.059,
+   "txt": "seventy-nine,"
+  },
+  {
+   "t0": 52.059,
+   "t1": 53.27,
+   "txt": "another patent drew"
+  },
+  {
+   "t0": 53.27,
+   "t1": 54.736,
+   "txt": "a schnauzer-looking dog"
+  },
+  {
+   "t0": 54.736,
+   "t1": 55.437,
+   "txt": "in goggles."
+  },
+  {
+   "t0": 55.788,
+   "t1": 56.556,
+   "txt": "That one was"
+  },
+  {
+   "t0": 56.556,
+   "t1": 56.876,
+   "txt": "sure."
+  },
+  {
+   "t0": 57.156,
+   "t1": 58.677,
+   "txt": "As instinct commands,"
+  },
+  {
+   "t0": 58.677,
+   "t1": 59.982,
+   "txt": "the animal desires"
+  },
+  {
+   "t0": 59.982,
+   "t1": 60.923,
+   "txt": "to extend his"
+  },
+  {
+   "t0": 60.923,
+   "t1": 61.72,
+   "txt": "head out an"
+  },
+  {
+   "t0": 61.72,
+   "t1": 62.807,
+   "txt": "open window and"
+  },
+  {
+   "t0": 62.807,
+   "t1": 64.111,
+   "txt": "into the onrushing"
+  },
+  {
+   "t0": 64.111,
+   "t1": 64.473,
+   "txt": "wind."
+  },
+  {
+   "t0": 64.824,
+   "t1": 65.784,
+   "txt": "Two patents."
+  },
+  {
+   "t0": 66.284,
+   "t1": 67.33,
+   "txt": "Two theories."
+  },
+  {
+   "t0": 67.83,
+   "t1": 68.811,
+   "txt": "One window."
+  },
+  {
+   "t0": 69.311,
+   "t1": 70.186,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.653
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.724
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.928
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 23.828
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 30.624
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 35.327
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 37.258
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 42.899
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 47.605
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 55.788
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 64.824
+  }
+ ],
+ "hook": "LOOK AT|THIS [DOG]",
+ "hook2": "GOGGLES FOR|[DOGS] \u00b7 1998",
+ "hookSwitch": 2,
+ "num": "US 5,732,415",
+ "tt": true
+}

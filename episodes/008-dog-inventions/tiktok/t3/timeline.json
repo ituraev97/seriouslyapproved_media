@@ -1,0 +1,616 @@
+{
+ "T": 67.96,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 8.624,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.569
+    ],
+    [
+     2.849,
+     4.939
+    ],
+    [
+     5.219,
+     6.99
+    ],
+    [
+     7.27,
+     8.273
+    ]
+   ],
+   "g": "fig",
+   "fig": "wheel1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE TRACK",
+     60,
+     330,
+     80,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 8.624,
+   "t1": 15.033,
+   "i": 1,
+   "segs": [
+    [
+     8.624,
+     14.682
+    ]
+   ],
+   "g": "quote",
+   "q": "to be operated by the gravity or weight of an animal, as a dog, goat or sheep",
+   "hit": "a dog, goat or sheep",
+   "src": "US 528,066 \u00b7 description"
+  },
+  {
+   "t0": 15.033,
+   "t1": 22.339,
+   "i": 2,
+   "segs": [
+    [
+     15.033,
+     21.988
+    ]
+   ],
+   "g": "fig",
+   "fig": "wheel2",
+   "figno": "2"
+  },
+  {
+   "t0": 22.339,
+   "t1": 28.821,
+   "i": 3,
+   "segs": [
+    [
+     22.339,
+     23.512
+    ],
+    [
+     23.792,
+     25.862
+    ],
+    [
+     26.142,
+     27.251
+    ],
+    [
+     27.531,
+     28.47
+    ]
+   ],
+   "g": "quote",
+   "q": "a milk or cream separator, a churn, a pump, a sewing machine, a washing machine, a printing press",
+   "hit": "a churn, a pump",
+   "src": "US 528,066 \u00b7 description"
+  },
+  {
+   "t0": 28.821,
+   "t1": 32.417,
+   "i": 4,
+   "segs": [
+    [
+     28.821,
+     30.271
+    ],
+    [
+     30.551,
+     32.066
+    ]
+   ],
+   "g": "quote",
+   "q": "a milk or cream separator, a churn, a pump, a sewing machine, a washing machine, a printing press",
+   "hit": "a washing machine",
+   "src": "US 528,066 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 32.417,
+   "t1": 35.386,
+   "i": 5,
+   "segs": [
+    [
+     32.417,
+     33.377
+    ],
+    [
+     33.797,
+     34.885
+    ]
+   ],
+   "g": "quote",
+   "q": "a milk or cream separator, a churn, a pump, a sewing machine, a washing machine, a printing press",
+   "hit": "a printing press",
+   "src": "US 528,066 \u00b7 description",
+   "typed": false
+  },
+  {
+   "t0": 35.386,
+   "t1": 44.956,
+   "i": 6,
+   "segs": [
+    [
+     35.386,
+     41.082
+    ],
+    [
+     41.362,
+     44.605
+    ]
+   ],
+   "g": "quote",
+   "q": "a wheel that is strong, light of weight and easily operated",
+   "hit": "easily operated",
+   "src": "US 528,066 \u00b7 description"
+  },
+  {
+   "t0": 44.956,
+   "t1": 54.483,
+   "i": 7,
+   "segs": [
+    [
+     44.956,
+     47.025
+    ],
+    [
+     47.305,
+     54.132
+    ]
+   ],
+   "g": "quote",
+   "q": "provides sufficient space for the convenient travel therein of the dog or other animal that runs the wheel.",
+   "hit": "convenient travel",
+   "src": "US 528,066 \u00b7 description"
+  },
+  {
+   "t0": 54.483,
+   "t1": 60.212,
+   "i": 8,
+   "segs": [
+    [
+     54.483,
+     55.976
+    ],
+    [
+     56.256,
+     59.861
+    ]
+   ],
+   "g": "fig",
+   "fig": "wheel3",
+   "figno": "3"
+  },
+  {
+   "t0": 60.212,
+   "t1": 67.96,
+   "i": 9,
+   "segs": [
+    [
+     60.212,
+     62.047
+    ],
+    [
+     62.547,
+     65.107
+    ]
+   ],
+   "g": "stamp",
+   "title": "TREAD-|WHEEL",
+   "filed": "JUNE 28, 1894",
+   "date": "OCT. 23, 1894",
+   "big": true,
+   "at": 2.0
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.09,
+   "txt": "A real patent"
+  },
+  {
+   "t0": 1.09,
+   "t1": 2.569,
+   "txt": "from eighteen ninety-four."
+  },
+  {
+   "t0": 2.849,
+   "t1": 3.633,
+   "txt": "A big wheel,"
+  },
+  {
+   "t0": 3.633,
+   "t1": 4.221,
+   "txt": "for a dog"
+  },
+  {
+   "t0": 4.221,
+   "t1": 4.939,
+   "txt": "to walk in."
+  },
+  {
+   "t0": 5.219,
+   "t1": 6.133,
+   "txt": "The patent lists"
+  },
+  {
+   "t0": 6.133,
+   "t1": 6.762,
+   "txt": "what it can"
+  },
+  {
+   "t0": 6.762,
+   "t1": 6.99,
+   "txt": "run."
+  },
+  {
+   "t0": 7.27,
+   "t1": 8.273,
+   "txt": "Counting down."
+  },
+  {
+   "t0": 8.624,
+   "t1": 9.09,
+   "txt": "It is a"
+  },
+  {
+   "t0": 9.09,
+   "t1": 10.022,
+   "txt": "tread wheel to"
+  },
+  {
+   "t0": 10.022,
+   "t1": 10.954,
+   "txt": "be operated by"
+  },
+  {
+   "t0": 10.954,
+   "t1": 11.886,
+   "txt": "the gravity or"
+  },
+  {
+   "t0": 11.886,
+   "t1": 12.685,
+   "txt": "weight of an"
+  },
+  {
+   "t0": 12.685,
+   "t1": 13.151,
+   "txt": "animal,"
+  },
+  {
+   "t0": 13.151,
+   "t1": 13.75,
+   "txt": "as a dog,"
+  },
+  {
+   "t0": 13.75,
+   "t1": 14.682,
+   "txt": "goat or sheep."
+  },
+  {
+   "t0": 15.033,
+   "t1": 15.911,
+   "txt": "The dog walks"
+  },
+  {
+   "t0": 15.911,
+   "t1": 16.789,
+   "txt": "on the inside"
+  },
+  {
+   "t0": 16.789,
+   "t1": 17.532,
+   "txt": "of the rim,"
+  },
+  {
+   "t0": 17.532,
+   "t1": 18.612,
+   "txt": "the wheel turns,"
+  },
+  {
+   "t0": 18.612,
+   "t1": 19.287,
+   "txt": "and a belt"
+  },
+  {
+   "t0": 19.287,
+   "t1": 20.503,
+   "txt": "around the outside"
+  },
+  {
+   "t0": 20.503,
+   "t1": 21.65,
+   "txt": "carries the power"
+  },
+  {
+   "t0": 21.65,
+   "t1": 21.988,
+   "txt": "away."
+  },
+  {
+   "t0": 22.339,
+   "t1": 23.512,
+   "txt": "Now the countdown."
+  },
+  {
+   "t0": 23.792,
+   "t1": 24.078,
+   "txt": "Six,"
+  },
+  {
+   "t0": 24.078,
+   "t1": 24.72,
+   "txt": "a milk or"
+  },
+  {
+   "t0": 24.72,
+   "t1": 25.862,
+   "txt": "cream separator."
+  },
+  {
+   "t0": 26.142,
+   "t1": 26.568,
+   "txt": "Five,"
+  },
+  {
+   "t0": 26.568,
+   "t1": 27.251,
+   "txt": "a churn."
+  },
+  {
+   "t0": 27.531,
+   "t1": 27.922,
+   "txt": "Four,"
+  },
+  {
+   "t0": 27.922,
+   "t1": 28.47,
+   "txt": "a pump."
+  },
+  {
+   "t0": 28.821,
+   "t1": 29.199,
+   "txt": "Three,"
+  },
+  {
+   "t0": 29.199,
+   "t1": 30.271,
+   "txt": "a sewing machine."
+  },
+  {
+   "t0": 30.551,
+   "t1": 30.827,
+   "txt": "Two,"
+  },
+  {
+   "t0": 30.827,
+   "t1": 32.066,
+   "txt": "a washing machine."
+  },
+  {
+   "t0": 32.417,
+   "t1": 33.377,
+   "txt": "And number one."
+  },
+  {
+   "t0": 33.797,
+   "t1": 34.885,
+   "txt": "A printing press."
+  },
+  {
+   "t0": 35.386,
+   "t1": 36.106,
+   "txt": "The object,"
+  },
+  {
+   "t0": 36.106,
+   "t1": 36.761,
+   "txt": "in its own"
+  },
+  {
+   "t0": 36.761,
+   "t1": 37.154,
+   "txt": "words,"
+  },
+  {
+   "t0": 37.154,
+   "t1": 37.808,
+   "txt": "is a wheel"
+  },
+  {
+   "t0": 37.808,
+   "t1": 38.791,
+   "txt": "that is strong,"
+  },
+  {
+   "t0": 38.791,
+   "t1": 39.773,
+   "txt": "light of weight"
+  },
+  {
+   "t0": 39.773,
+   "t1": 41.082,
+   "txt": "and easily operated."
+  },
+  {
+   "t0": 41.362,
+   "t1": 42.631,
+   "txt": "Easily operated by"
+  },
+  {
+   "t0": 42.631,
+   "t1": 42.983,
+   "txt": "whom,"
+  },
+  {
+   "t0": 42.983,
+   "t1": 43.759,
+   "txt": "it does not"
+  },
+  {
+   "t0": 43.759,
+   "t1": 44.605,
+   "txt": "need to say."
+  },
+  {
+   "t0": 44.956,
+   "t1": 45.726,
+   "txt": "The patent makes"
+  },
+  {
+   "t0": 45.726,
+   "t1": 46.351,
+   "txt": "sure there is"
+  },
+  {
+   "t0": 46.351,
+   "t1": 47.025,
+   "txt": "room in there."
+  },
+  {
+   "t0": 47.305,
+   "t1": 48.412,
+   "txt": "The wheel provides"
+  },
+  {
+   "t0": 48.412,
+   "t1": 49.642,
+   "txt": "sufficient space for"
+  },
+  {
+   "t0": 49.642,
+   "t1": 50.934,
+   "txt": "the convenient travel"
+  },
+  {
+   "t0": 50.934,
+   "t1": 51.795,
+   "txt": "therein of the"
+  },
+  {
+   "t0": 51.795,
+   "t1": 52.533,
+   "txt": "dog or other"
+  },
+  {
+   "t0": 52.533,
+   "t1": 53.517,
+   "txt": "animal that runs"
+  },
+  {
+   "t0": 53.517,
+   "t1": 54.132,
+   "txt": "the wheel."
+  },
+  {
+   "t0": 54.483,
+   "t1": 55.13,
+   "txt": "There is even"
+  },
+  {
+   "t0": 55.13,
+   "t1": 55.976,
+   "txt": "a speed governor."
+  },
+  {
+   "t0": 56.256,
+   "t1": 57.214,
+   "txt": "A little weighted"
+  },
+  {
+   "t0": 57.214,
+   "t1": 58.115,
+   "txt": "lever that keeps"
+  },
+  {
+   "t0": 58.115,
+   "t1": 58.904,
+   "txt": "the wheel from"
+  },
+  {
+   "t0": 58.904,
+   "t1": 59.861,
+   "txt": "running too fast."
+  },
+  {
+   "t0": 60.212,
+   "t1": 61.654,
+   "txt": "A dog-powered printing"
+  },
+  {
+   "t0": 61.654,
+   "t1": 62.047,
+   "txt": "press."
+  },
+  {
+   "t0": 62.547,
+   "t1": 63.153,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 63.153,
+   "t1": 65.107,
+   "txt": "October eighteen ninety-four."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 8.624
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 15.033
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 22.339
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 28.821
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 32.417
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 35.386
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 44.956
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 54.483
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 60.212
+  }
+ ],
+ "hook": "WHAT CAN A|[DOG] RUN?",
+ "hook2": "A WHEEL FOR|[DOGS] \u00b7 1894",
+ "hookSwitch": 9,
+ "num": "US 528,066",
+ "tt": true
+}

@@ -1,0 +1,175 @@
+4,995,374
+
+27
+
+distal front end thereof, a rear end portion having
+closure means at the distal rear end thereof, an
+intermediate cylindrical portion integrally con-
+necting said front and rear end portions, a top cy-
+lindrical wail extending the length of said cylinder,
+a bottom cylindrical wall opposite said top cylin-
+drical wall and extending the length of said cylin-
+der, said bottom cylindrical wall having an arcu-
+ately-curved interior surface adapted to form a
+rolling track for a ball inserted into the hollow
+interior of said cylinder, the inside diameter of said
+cylinder being substantially greater than the diame-
+ter of said bail for preventing the build-up of com-
+pressed air which might otherwise slot the initial
+launch velocity of the ball once thrown, a ball-
+loading aperture formed in the top cylindrical wall
+of an intermediate cylindrical portion of said cylin-
+der, a sensing aperture operatively disposed in said
+bottom cylindrical wall of said intermediate cylin-
+drical portion for communicating with the hollow
+interior thereof, said sensing aperture being dis-
+posed a predetermined distance rearwardly of said
+loading aperture, said predetermined distance
+being sufficient to ensure that a ball passing down-
+wardly through said loading aperture and dropping
+onto said rolling track has stopped bouncing and
+settled into a smooth rolling motion before passing
+over said sensing aperture, the rear end portion of
+said hollow interior of said cylinder including a
+portion of said rolling track adjacent said rear end
+closure means for defining a bail-launching posi-
+tion, and a thrust aperture operatively disposed in
+said rear end closure means along the vertical cen-
+ter line thereof and spaced a predetermined dis-
+tance below a horizontal center line so as to be
+longitudinally aligned with the center of gravity of
+said loaded ball when said ball is in said ball-
+launching position;
+
+means for positioning said cylinder such that said
+open mouth is elevated higher than the rear end
+portion and said longitudinal axis forms an acute
+angle with a horizontal support plane through said
+rear end portion, said acute angle being slected to
+throw said ball on said airborne trajectory;
+
+sensing means mounted on said cylinder and.at least
+partially within said sensing aperture for detecting
+the passage of said downwardly rolling ball there-
+over for generating a command signal;
+
+electrical delay means responsive to the generation of
+said command signal for generating a delayed com-
+mand signal at a predetermined period of time
+later, the predetermined period of time being at
+least sufficient to ensure that said ball has reached
+the end of said hollow interior of said cylinder and
+settled to rest in said ball-launching position;
+
+solenoid means includng an elongated, generally cy-
+lindrical solenoid coil having a hollow longitudinal
+interior and an elongated piston-like thrust member
+operatively mounted for reciprocal movement
+with said hollow interior of said solenoid coil, one
+end portion of said thrust member including a distal
+end having a ball-impacting surface thereon, said
+one end postion having a withdrawn rest position
+wherein said one end portion of said thrust member
+is pulled back rearwardly of said thrust aperture
+when said solenoid coil is de-energized, and then
+extended forward to a firing position whenever
+said one end portion of said thrust member extends
+
+0
+
+25
+
+30
+
+35
+
+45
+
+50
+
+60
+
+65
+
+28
+
+at least a predetermined distance through said
+thrust aperture and into the hollow interior of the
+rear end portion of said cylinder for impacting said
+ball in said ball-launching position and propelling
+same upwardly through the hollow interior of said
+cylinder, out of said open mouth and along said
+airborne trajectory to be chased, fetched and re-
+turned again by said animal;
+
+ball-collecting means including means for guiding a
+returned ball at least one of dropped and otherwise
+deposited therein to said loading aperture for re-
+loading the hollow interior of said cylinder for the
+next throw;
+
+an electrical source for energizing said solenoid coil;
+
+electrical connector means operatively connecting
+said source to said solenoid coil; and
+
+electrical switching means operatively disposed in
+said connexction means, said electrical switching
+means having a normally-open switch position and
+a closed switch position, said electrical switching
+means switching from said normally-open position
+to said closed position in response to the generation
+of said delayed comand signal for energizing said
+solenoid coil and firing said thrust member from
+said rest position to said forward firing position for
+impacting said ball and throwing same from within
+the hollow interior of said cylinder.
+
+56. The automatic ball-throwing system of claim 55
+wherein said positioning means includes a first manual-
+ly-operable means for selecting the elevation of said
+cylinder at the open mouth thereof and hence the height
+of the airborne trajectory of the thrown ball.
+
+57. The automatic ball-throwing system of claim 56
+wherein said positioning means further includes a sec-
+ond manually-operable means for selecting the azimuth
+of the longitudinal axis of the hollow interior of said
+cylinder and hence the direction in which the ball is
+thrown.
+
+58. The automatic ball-throwing system of claim 55
+wherein said ball-collecting means includes a ball return
+aperture at least one of communicating with and cor-
+resonding to said ball-loading aperture of said cylinder,
+a ball collection area dimensioned much greater than
+said bal] return aperture, and surface means connecting
+said ball collection area to said ball return aperture for
+guiding a fetched and returned ball at least one of
+dropped and otherwise deposited within said ball col-
+lection area downwardly under the force of gravity
+alone and into and through said ball return aperture for
+loading said ball into the hollow interior of said cylin-
+der.
+
+59. The automatic ball-throwing system of claim 55
+further including housing means for substantially en-
+closing at least said cylinder, said positioning means,
+and said sensing means, said electrical delay means, said
+solenoid means and said electrical switching means.
+
+60. The automatic bali-throwing system of claim 59
+wherein said housing means comprises:
+
+a pair of elongated, similarly dimensioned, longitudi-
+nal, rectangular, opposite side panels whose planes
+are generally parallel to one another;
+
+a generally rectangular rear panel;
+
+a generally rectangular front pane! having a ball-
+launching aperture operatively disposed therein for
+at least one of communicating with and being co-
+terminous with ‘said open mouth of said cylinder,
+the plane of said front panel being generally paral-
+lel to the plane of said rear panel and perpendicular

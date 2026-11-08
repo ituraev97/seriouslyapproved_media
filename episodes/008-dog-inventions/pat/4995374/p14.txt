@@ -1,0 +1,180 @@
+4,995,374
+
+19
+outside diameter of said elongated cylindrical bar-
+rel if the front end thereof extends therein or there-
+through and substantially equal to the inside diame-
+ter of said hollow interior of said barrel if the distal
+front end thereof is coterminous with and abutting
+said ball-launching circular front aperture;
+an elongated, generally rectangular bottom panel
+adapted to be operably disposed on a generally
+horizontal surface and including a plane generally
+perpendicular to the planes of said opposite side
+panels, said front panel, and said rear panel, and
+coterminous with the lower edge portions thereof
+for forming a general box-like enclosure having an
+Open top and a hollow interior;
+
+top structure means mounted about the top edge
+portions of said opposite side panels, said front
+panel and said rear panel for substantially closing
+said box-like enclosure and forming a hollow inte-
+rior therein; and
+
+said top structure means including an upper ball col-
+
+lection area at least the size of said bottom panel, a
+lower ball-receiving surface, a ball-feeding aper-
+ture operably disposed centrally within said lower
+bal-receiving surface, said ball-receiving surface
+being dimensioned such that any ball coming into
+contact therewith must, by the force of gravity
+alone, fall into and through said ball-feeding aper-
+ture to be loaded into the hollow interior of said
+barrel via said ball-loading aperture, and down-
+wardly and inwardly sloping surface means opera-
+bly extending between said upper ball collection
+area and said lower ball-receiving surface for guid-
+ing any ball at least one of dropped into or other-
+wise deposited within said collection area into said
+ball-receiving aperture solely by the force of grav-
+ity.
+
+6. The doggie toy apparatus of claim 5 wherein said
+ball collection area includes a raised rim extending at
+least a seventh predetermined distance above the upper
+end of said downwardly and inwardly sloping surface
+means, said rim including the vertically extending upper
+edge portions of said opposite side panels, said front
+panel ‘and said rear panel joined to form an open top
+rectangular collection area having vertical sides for
+preventing the escape of any ball dropped or otherwise
+deposited therein.
+
+7. The doggie toy apparatus of claim 6 wherein said
+ball-feeding aperture and said lower ball-receiving sur-
+face are disposed at the proximate center of said top
+strucutre means and said apparatus further includes a
+substantially hollow ball conduit means joining said
+ball-feeding aperture and said ball-loading aperture.
+
+8. The doggie toy apparatus of claim 6 wherein said
+ball-feeding aperture and said lower ball-receiving sur-
+face are disposed on the longitudinal center line of said
+top structure means and spaced an eighth predeter-
+mined distance from the rear of said front panel, and
+wherein said ball-feeding aperture is at least one of
+coterminous and coexistent with said ball-loading aper-
+ture and operatively coupled to said ball-loading aper-
+ture via a ball conduit means operatively connected
+therebetween.
+
+9. The doggie toy apparatus of claim 5 wherein said
+ball-feeding aperture and said lower ball-receiving sur-
+face are disposed at the proximate center of said top
+structure means and said apparatus further includes a
+substantially hollow ball conduit means joining said
+ball-feeding aperture and said ball-loading aperture.
+
+-_
+
+5
+
+25
+
+30
+
+35
+
+40
+
+45
+
+60
+
+20
+
+10. The doggie toy apparatus of claim 5 wherein said
+ball-feeding aperture and said lower bail-receiving sur-
+face are disposed on the longitudinal center line of said
+top structure means and spaced an eighth predeter-
+mined distance to the rear of said front panel, and
+wherein said ball-feeding aperture is at least one of
+coterminous and coexistent with said ball-loading aper-
+ture and operatively coupled to said bali-loading aper-
+ture via a ball conduit means connected therebetween.
+
+11. The doggie toy apparatus of claim 1 wherein said
+ball-sensing means includes electfomechanical ball-
+detecting means.
+
+12. The doggie toy apparatus of claim 1 wherein said
+ball-sensing means includes at least one of electrical
+means, electromechanical means, mechanical means,
+electro-optical means, and optical means for detecting
+the passage of a ball over said second aperture.
+
+13. The doggie toy apparatus of claim 1 wherein said
+sensing means includes an electrical switch having a
+normally-open “off”? switch state and a closed ‘‘on”
+switch state, said electrical switch further including an
+elongated switching arm normally biased to a first
+switch arm position for maintaining said electrical
+switch in said normally-open ‘off’ switch state and
+mechanically movable to a second switch arm position
+for switching said electrical switch from said normally-
+open “off” switch state to said closed “on” switch state
+and generating said trigger signal in response thereto,
+said sensing means being mounted on the exterior sur-
+face of said elongated cylindrical barrel such that said
+elongated switching arm extends at least partially
+through said second aperture and into the path of a ball
+rolling downwardly within the hollow interior or said
+barrel when said elongated switch arm is in said first
+switch arm positon, said elongated switch arm being
+responsive to the passage of said downwardly rolling
+ball thereover for moving from said first switch arm
+positon to said second switch arm position and turning
+said electrical switch from said “off” state to said ‘ton”
+state to generate said trigger signal in response thereto.
+
+14. The doggie toy apparatus of claim 13 wherein said
+ball-launching means comprises:
+
+a solenoid incluidng a solenoid coil having a hollow
+
+core therethrough;
+
+an elongated longitudinal solenoid rod mounted for
+
+reciprocal movement within said hollow core;
+the longitudinal axis of said solenoid rod being
+aligned with said first aperture and the center of
+gravity of a ball at rest in said “ball ready” position;
+
+said solenoid having a first end portion terminating in
+a ball-impacting surface, said first end portion hav-
+ing a first reciprocal position wherein said impact
+surface is displaced a ninth predetermined distance
+rearwardly of said second aperture when said sole-
+noid coil is de-energized and a second reciprocal
+position wherein said impact surface and at least a
+tenth predetermined length of said first end portion
+of said solenoid rod extends through said second
+aperture and into the hollow interior of said barrel
+when said solenoid coil is energized;
+
+a source of AC electrical power for energizing said
+
+solenoid coil;
+
+electrical conductor means for transmitting said AC
+
+electrical power from said source to said solenoid
+coil; and
+
+control means operatively coupled in said conductor
+
+means and responsive to said trigger signal for
+controlling the supply of said AC electrical power

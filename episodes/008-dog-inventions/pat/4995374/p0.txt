@@ -1,0 +1,75 @@
+United States Patent 115;
+Black
+
+[54] THROW AND FETCH DOGGIE TOY
+
+William L. Black, 2800 N. State Rd.
+7, Margate, Fla. 33063
+
+{21] Appl. No.: 484,126
+
+[76] Inventor:
+
+[22] Filed: Feb. 23, 1990
+
+[Si] Int. CLS AO1K 15/02; A63B 69/40
+[52] U.S. Ch. oe ceseesessesssstsseeesnsseuee 124/54; 124/32;
+119/29
+[58] Field of Search ............00.. 124/1, 32, 54, 77, 82;
+119/29; 273/26 D; D30/160; D21/210
+
+[56] References Cited
+
+U.S. PATENT DOCUMENTS
+
+D, 294,411 2/1988 Merriman D30/160
+2,474,054 6/1949 Jones ......... we 124/32 X
+3,611,996 10/1971 Wegner ou. cssssssssesseeees 119/29
+3,640,263 2/1972 Rhodes ...... 124/32 X
+4,267,799 5/1981 Bacon .....cecssssssesesesssessssesesees 119/29
+4,579,100 4/1986 Whitaker ...... we 124/32 X
+4,579,340 4/1986 Jenkins et al. ue. 124/54 X
+
+Primary Examiner—Randolph A. Reese
+Assistant Examiner—Jeffrey L. Thompson
+Attorney, Agent, or Firm—Charles P. Padgett, Jr.
+
+[57] ABSTRACT
+
+A ball-launching system for a dog’s ball which automat-
+ically launches or shoots a ball along an airborne path,
+
+4,995,374
+Feb. 26, 1991
+
+{11] Patent Number:
+(45) Date of Patent:
+
+thereby enabling the dog to chase the ball, fetch it and
+return it to the system. The system includes a ball col-
+lection area for receiving the returned ball, dropped or
+otherwise deposited therein by the dog, and for feeding
+the returned ball, under the force of gravity along, into
+the hollow interior of a ball-launching tube. As the ball
+rolls down the hollow interior of the tube, a sensing
+device detects the passage of the ball therover and gen-
+erates a command signal. The command signal is de-
+layed a predetermined period of time, sufficient to en-
+able the ball to contact the rear end of the tube and
+come to rest in a firing position. A delayed signal is then
+used to energize a relay coil and operate a normally-
+open switching element disposed in a path between the
+source of electrical power and a solenoid coil for clos-
+ing the relay-operated switches and energizing the sole-
+noid coil to shift a piston-like solenoid rod from a
+cooked or withdrawn position to a forwardly-extended
+position in which the distal end of the rod extends
+through an aperture in the rear end of the tube and
+impacts a ball at rest in the firing position adjacent the
+closed end of the tube for firing or launching the ball up
+the hollow interior of the tube, out of the open mouth
+and on an airborne trajectory to again be chased,
+fetched and returned by a dog to begin the cycle anew.
+
+66 Claims, 4 Drawing Sheets
+

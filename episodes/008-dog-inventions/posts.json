@@ -1,0 +1,13 @@
+{
+ "long": {"time": "16:00", "title": "Ranking the Weirdest Dog Inventions (All Real Patents)", "tags": ["weird dog inventions", "dog inventions", "dog patents", "weird patents", "weird inventions", "strange inventions", "dog gadgets", "inventions for dogs", "funny dog inventions", "useless inventions", "old patents", "dog goggles", "dog umbrella", "weird history"]},
+ "shorts": [
+  {"id": "s1", "time": "10:30", "template": "drawing reveal", "title": "The U.S. Approved Goggles for Dogs", "line": "Goggles for dogs who hang their heads out of car windows. The patent's verdict on why: the world may never know.", "num": "US 5,732,415", "year": 1998, "url": "https://patents.google.com/patent/US5732415"},
+  {"id": "s2", "time": "15:00", "template": "approved or denied?", "title": "This Is a Real Patent for a Dog Umbrella", "line": "An umbrella the dog carries on its own back. Approved or denied?", "num": "US 5,918,611", "year": 1999, "url": "https://patents.google.com/patent/US5918611"},
+  {"id": "s3", "time": "19:00", "template": "countdown", "title": "This Is a Real Patent for a Dog-Powered Wheel", "line": "A wheel for a dog to walk in, and the six machines the patent says it can run.", "num": "US 528,066", "year": 1894, "url": "https://patents.google.com/patent/US528066"}
+ ],
+ "tiktok": [
+  {"id": "t1", "time": "09:30", "title": "The U.S. Approved Goggles for Dogs", "hook": "Goggles for dogs who hang their heads out of car windows. Why do they do it? The world may never know.", "num": "5,732,415", "year": 1998},
+  {"id": "t2", "time": "14:30", "title": "This Is a Real Patent for a Dog Umbrella", "hook": "Approved or denied? An umbrella the dog carries on its own back.", "num": "5,918,611", "year": 1999},
+  {"id": "t3", "time": "20:30", "title": "This Is a Real Patent for a Dog-Powered Wheel", "hook": "A wheel for your dog to walk in. It runs a churn, a washing machine and a printing press.", "num": "528,066", "year": 1894}
+ ]
+}

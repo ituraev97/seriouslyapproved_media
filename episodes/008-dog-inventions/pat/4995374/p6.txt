@@ -1,0 +1,187 @@
+4,995,374
+
+3
+
+as the aminal continues to.return the fetched ball to the
+apparatus after each successive chase.
+
+The ball-launching apparatus of the preferred em-
+bodiment of the present invention includes an elon-
+gated, generally cylindrical, ball-launching tube having
+a hollow interior, an opening at the front end Of the tube
+and a closure member at the rear end of the tube. Means
+are provided for positioning the tube for elevating the
+front opening above the level of the rear closure mem-
+ber in order that the ball may be launched on the air-
+borne path or trajectory.
+
+Means are also provided for collecting a returned ball
+and feeding it back into the hollow interior of the tube.
+Means are provided for detecting the presence of the
+ball at a predetermined position as it rolls down the
+hollow interior of the tube. Means are further provided
+which are responsive to the ball having come to rest
+adjacent the closed rear end of the tube for launching
+the ball through the holiow interior, out the front open-
+ing, and along the airborne path to once again be
+chased, fetched and returned by the ball-fetching ani-
+mal.
+
+Preferably, the ball-throwing apparatus of this inven-
+tion includes a housing substantially completely enclos-
+ing the apparatus and wherein the top portion of the
+housing comprises a ball-collecting area, hopper or
+trough which catches the ball when it is dropped into
+the apparatus by the dog and directs the ball down-
+wardly to be fed into the launch tube for a subsequent
+re-launch. The housing, and/or the launch tube, may be
+made from at least one of a transparent and translucent
+plastic material for enabling an observer to visually
+view or observe the operation of at least the launch tube
+porion of the apparatus. .
+
+In one embodiment, means are provided for manually
+adjusting the azimuth or elevation of the launch, the
+azimuth or direction of the launch, or both. Various
+types of ball-sensing mechanisms may be provided such
+as physical sensing members on electrical switches,
+electro-optical means, opetical means, and the like.
+
+Preferably, an electrical solenoid having a hollow
+central core is provided with a reciprocally moveable
+longitudinal rod which is used as the launch or firing
+mechanism. The rod has a first predetermined position
+wherein the impact end is substantially drawn into the
+coil of the solenoid and a second predetermined posi-
+tion wherein the rod is extended longitudinally to im-
+pact and fire the ball once the solenoid is energized. The
+energization of the solenoid is controlled by electrical
+delay means and a signal from the sensing means so as to
+ensure that the bali has reached or settled in a position
+at the downward end of the launch tube and is still or
+motionless prior to impact.
+
+These and other objects and advantages of the pres-
+ent invention will become more fully understood after
+reading the detailed description of the preferred em-
+bodiments of the present invention, the claims, and the
+brief description of the drawings, which are briefly
+discussed hereinbelow.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+FIG. 1 is a perspective view of the automatic ball-
+launching apparatus of the present invention as it is seen
+throwing a ball to be chased, fetched and returned by a
+dog;
+
+FIG. 2 is a perspective view of the atuomatic ball-
+launching apparatus of FIG. 1 as the dog is returning
+the fetched ball to the ball-launching apparatus;
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+60
+
+65
+
+4
+
+FIG. 3 is a perspective view of the automatic ball-
+launching apparatus of FIGS. 1 and 2 showing the dog
+dropping or otherwise depositing the returned ball for
+feeding same back to the apparatus to be launched
+again;
+
+FIG. 4 is a perspective view of the ball-launching
+apparatus of the preferred embodiment of the present
+invention;
+
+FIG. 5 is a sectional side view of the ball-launching
+apparatus of FIG. 4 taken along view lines 5—5 thereof:
+
+FIG. 6 is a top plan view, partially cut away, of the
+ball-launching apparatus of FIGS. 4 and 5;
+
+FIG. 7 is a schematic side view of the ball-launching
+apparatus of the present invention used for illustrating
+the ball-loading steps of the system;
+
+FIG. 8 is a schematic side view of the ball-launching
+apparatus of the present invention illustrating the ball-
+firing steps of the system;
+
+FIG. 9 is a perspective view of an alternate embodi-
+ment of the ball-throwing apparatus of the present in-
+vention; ;
+
+FIG. 10A is a sectional side view of the rear end
+poriton of the launch tube and the firing mechanism of
+the apparatus of FIGS. 4, 5 and 6 wherein the bail is in
+the “ready” or “firing” position;
+
+FIG. 10B is a sectional side view, as in FIG. 10A,
+shwoing the moment of impact of the firing mechanism
+with the properly positioned ball;
+
+FIG. 10C is a sectional side view, as seen in FIGS.
+10A and 10B, showing the final position of the firing
+mechanism and the ball as it is initially propelled up the
+launch tube;
+
+FIG. 10D is a sectional side view, as in FIGS. 10A,
+10B and 10C, illustrating the firing mechanism having
+returned to its initial position and the impacted ball
+proceeding upwardly in the tube for launch;
+
+FIG. 11A is a sectional side view of a portion of the
+launch tube illustrating the preferred embodiment of the
+ball-sensing apparatus of the system of the present in-
+vention in a first “no ball sensed’ position;
+
+FIG. 11B is a sectional side view of a portion of the
+launch tube illustrating the ball in a second “ball
+sensed“ position;
+
+FIG. 12 is a top plan view of an alternate embodiment
+of the ball-collection means of the housing or enclosure
+of the ball-launching apparatus of FIG. 4;
+
+FIG. 13 is side view, partially in section, of the appa-
+ratus of FIG. 12 illustrating a modified ball-feeding
+system of the ball-launching apparatus of FIG. 4,
+
+FIG. 14 is an electrical schematic diagram of the
+control system of the ball-launching apparatus of the
+present invention;
+
+FIG. 15 is a more detailed electrical schematic dia-
+gram of the circuitry of FIG. 14, and
+
+FIG. 16 is a schematical representation of an alternate
+ball-sensing system for the ball-launching apparatus of
+the present invention.
+
+DETAILED DESCRIPTION OF THE
+PREFERRED EMBODIMENTS
+
+FIG. 1 shows the ball-launching apparatus 21 as in-
+cluding a housing, enclosure, or case 23 having a front
+launch aperture 25 therein. A ball-fetching aminal, or
+dog 29, is shown as chasing the ball 33 which has been
+launched from the launch aperture 25 of the apparatus
+21 on an airborne trajectory or path of flight 31. The
+dog is going in the fetch direction, as indicated by the
+directional arrow 35, and both the housing 23 of the ball
