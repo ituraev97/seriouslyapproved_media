@@ -1,0 +1,729 @@
+{
+ "T": 78.33,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.4,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.078
+    ],
+    [
+     2.578,
+     3.261
+    ],
+    [
+     3.761,
+     5.126
+    ],
+    [
+     5.626,
+     6.949
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube10",
+   "figno": "10",
+   "draw": false,
+   "calls": [
+    [
+     "A CUBE",
+     180,
+     300,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 7.4,
+   "t1": 11.612,
+   "i": 1,
+   "segs": [
+    [
+     7.4,
+     11.261
+    ]
+   ],
+   "g": "quote",
+   "q": "changing a whole boiled egg into an aesthetic cubic shape",
+   "hit": "aesthetic cubic shape",
+   "src": "US 4,092,093 \u00b7 description"
+  },
+  {
+   "t0": 11.612,
+   "t1": 14.901,
+   "i": 2,
+   "segs": [
+    [
+     11.612,
+     12.444
+    ],
+    [
+     12.864,
+     14.4
+    ]
+   ],
+   "g": "stamp",
+   "title": "APPARATUS FOR|DEFORMING BOILED EGG",
+   "filed": "JUNE 16, 1976",
+   "date": "MAY 30, 1978",
+   "at": 0.6
+  },
+  {
+   "t0": 14.901,
+   "t1": 27.628,
+   "i": 3,
+   "segs": [
+    [
+     14.901,
+     17.098
+    ],
+    [
+     17.378,
+     27.277
+    ]
+   ],
+   "g": "quote",
+   "q": "troublesome and time-consuming to change the original natural shape of the boiled egg into a desired shape by cutting it with a knife",
+   "hit": "troublesome",
+   "src": "US 4,092,093 \u00b7 description"
+  },
+  {
+   "t0": 27.628,
+   "t1": 34.598,
+   "i": 4,
+   "segs": [
+    [
+     27.628,
+     28.993
+    ],
+    [
+     29.273,
+     31.663
+    ],
+    [
+     31.943,
+     34.247
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube1",
+   "figno": "1",
+   "calls": [
+    [
+     "THE CAP",
+     230,
+     40,
+     110,
+     -20
+    ]
+   ]
+  },
+  {
+   "t0": 34.598,
+   "t1": 41.351,
+   "i": 5,
+   "segs": [
+    [
+     34.598,
+     35.878
+    ],
+    [
+     36.158,
+     41.0
+    ]
+   ],
+   "g": "quote",
+   "q": "is required to be equal to a cubic root of the volume of an egg.",
+   "hit": "cubic root",
+   "src": "US 4,092,093 \u00b7 description"
+  },
+  {
+   "t0": 41.351,
+   "t1": 46.98,
+   "i": 6,
+   "segs": [
+    [
+     41.351,
+     42.845
+    ],
+    [
+     43.265,
+     44.331
+    ],
+    [
+     44.751,
+     46.479
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube7",
+   "figno": "7",
+   "calls": [
+    [
+     "SQUARE YOLK",
+     187,
+     466,
+     100,
+     90
+    ]
+   ]
+  },
+  {
+   "t0": 46.98,
+   "t1": 52.963,
+   "i": 7,
+   "segs": [
+    [
+     46.98,
+     52.612
+    ]
+   ],
+   "g": "quote",
+   "q": "it is desirable to cool the egg-containing apparatus in water or in a refrigerator",
+   "hit": "in a refrigerator",
+   "src": "US 4,092,093 \u00b7 description"
+  },
+  {
+   "t0": 52.963,
+   "t1": 62.298,
+   "i": 8,
+   "segs": [
+    [
+     52.963,
+     54.649
+    ],
+    [
+     54.929,
+     61.947
+    ]
+   ],
+   "g": "quote",
+   "q": "a triangular, a square, a rectangular, a pentagonal, a hexagonal shape, or a round shape",
+   "hit": "a pentagonal, a hexagonal",
+   "src": "US 4,092,093 \u00b7 description"
+  },
+  {
+   "t0": 62.298,
+   "t1": 68.516,
+   "i": 9,
+   "segs": [
+    [
+     62.298,
+     68.165
+    ]
+   ],
+   "g": "quote",
+   "q": "desired indented letters or symbols onto the surface of this boiled egg",
+   "hit": "letters or symbols",
+   "src": "US 4,092,093 \u00b7 description"
+  },
+  {
+   "t0": 68.516,
+   "t1": 71.939,
+   "i": 10,
+   "segs": [
+    [
+     68.516,
+     71.588
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube10",
+   "figno": "10",
+   "draw": false,
+   "calls": [
+    [
+     "THE PATTERN",
+     150,
+     110,
+     110,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 71.939,
+   "t1": 78.33,
+   "i": 11,
+   "segs": [
+    [
+     71.939,
+     72.814
+    ],
+    [
+     73.314,
+     74.103
+    ],
+    [
+     74.603,
+     75.478
+    ]
+   ],
+   "g": "stamp",
+   "title": "APPARATUS FOR|DEFORMING BOILED EGG",
+   "filed": "JUNE 16, 1976",
+   "date": "MAY 30, 1978",
+   "big": true,
+   "at": 1.2
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.214,
+   "txt": "This is a"
+  },
+  {
+   "t0": 1.214,
+   "t1": 2.078,
+   "txt": "real U.S."
+  },
+  {
+   "t0": 2.578,
+   "t1": 3.261,
+   "txt": "patent."
+  },
+  {
+   "t0": 3.761,
+   "t1": 5.126,
+   "txt": "A hard-boiled egg."
+  },
+  {
+   "t0": 5.626,
+   "t1": 6.601,
+   "txt": "Pressed into a"
+  },
+  {
+   "t0": 6.601,
+   "t1": 6.949,
+   "txt": "cube."
+  },
+  {
+   "t0": 7.4,
+   "t1": 7.943,
+   "txt": "Its goal:"
+  },
+  {
+   "t0": 7.943,
+   "t1": 8.908,
+   "txt": "changing a whole"
+  },
+  {
+   "t0": 8.908,
+   "t1": 9.813,
+   "txt": "boiled egg into"
+  },
+  {
+   "t0": 9.813,
+   "t1": 10.899,
+   "txt": "an aesthetic cubic"
+  },
+  {
+   "t0": 10.899,
+   "t1": 11.261,
+   "txt": "shape."
+  },
+  {
+   "t0": 11.612,
+   "t1": 12.444,
+   "txt": "Approved."
+  },
+  {
+   "t0": 12.864,
+   "t1": 14.4,
+   "txt": "Nineteen seventy-eight."
+  },
+  {
+   "t0": 14.901,
+   "t1": 15.581,
+   "txt": "And it starts"
+  },
+  {
+   "t0": 15.581,
+   "t1": 16.418,
+   "txt": "with a complaint"
+  },
+  {
+   "t0": 16.418,
+   "t1": 17.098,
+   "txt": "about knives."
+  },
+  {
+   "t0": 17.378,
+   "t1": 17.8,
+   "txt": "It is,"
+  },
+  {
+   "t0": 17.8,
+   "t1": 18.361,
+   "txt": "however,"
+  },
+  {
+   "t0": 18.361,
+   "t1": 20.467,
+   "txt": "troublesome and time-consuming"
+  },
+  {
+   "t0": 20.467,
+   "t1": 21.38,
+   "txt": "to change the"
+  },
+  {
+   "t0": 21.38,
+   "t1": 22.924,
+   "txt": "original natural shape"
+  },
+  {
+   "t0": 22.924,
+   "t1": 23.837,
+   "txt": "of the boiled"
+  },
+  {
+   "t0": 23.837,
+   "t1": 24.539,
+   "txt": "egg into a"
+  },
+  {
+   "t0": 24.539,
+   "t1": 25.662,
+   "txt": "desired shape by"
+  },
+  {
+   "t0": 25.662,
+   "t1": 26.715,
+   "txt": "cutting it with"
+  },
+  {
+   "t0": 26.715,
+   "t1": 27.277,
+   "txt": "a knife."
+  },
+  {
+   "t0": 27.628,
+   "t1": 28.249,
+   "txt": "So here is"
+  },
+  {
+   "t0": 28.249,
+   "t1": 28.993,
+   "txt": "the machine."
+  },
+  {
+   "t0": 29.273,
+   "t1": 30.154,
+   "txt": "A square tube,"
+  },
+  {
+   "t0": 30.154,
+   "t1": 30.72,
+   "txt": "a piston,"
+  },
+  {
+   "t0": 30.72,
+   "t1": 31.411,
+   "txt": "and a screw"
+  },
+  {
+   "t0": 31.411,
+   "t1": 31.663,
+   "txt": "cap."
+  },
+  {
+   "t0": 31.943,
+   "t1": 32.519,
+   "txt": "You drop in"
+  },
+  {
+   "t0": 32.519,
+   "t1": 33.147,
+   "txt": "a peeled egg"
+  },
+  {
+   "t0": 33.147,
+   "t1": 33.723,
+   "txt": "while it is"
+  },
+  {
+   "t0": 33.723,
+   "t1": 34.247,
+   "txt": "still hot."
+  },
+  {
+   "t0": 34.598,
+   "t1": 35.377,
+   "txt": "The patent did"
+  },
+  {
+   "t0": 35.377,
+   "t1": 35.878,
+   "txt": "the math."
+  },
+  {
+   "t0": 36.158,
+   "t1": 37.0,
+   "txt": "Each side is"
+  },
+  {
+   "t0": 37.0,
+   "t1": 37.982,
+   "txt": "required to be"
+  },
+  {
+   "t0": 37.982,
+   "t1": 38.684,
+   "txt": "equal to a"
+  },
+  {
+   "t0": 38.684,
+   "t1": 39.597,
+   "txt": "cubic root of"
+  },
+  {
+   "t0": 39.597,
+   "t1": 40.509,
+   "txt": "the volume of"
+  },
+  {
+   "t0": 40.509,
+   "t1": 41.0,
+   "txt": "an egg."
+  },
+  {
+   "t0": 41.351,
+   "t1": 42.126,
+   "txt": "Then you screw"
+  },
+  {
+   "t0": 42.126,
+   "t1": 42.845,
+   "txt": "the cap down."
+  },
+  {
+   "t0": 43.265,
+   "t1": 43.798,
+   "txt": "And look at"
+  },
+  {
+   "t0": 43.798,
+   "t1": 44.331,
+   "txt": "the middle."
+  },
+  {
+   "t0": 44.751,
+   "t1": 45.5,
+   "txt": "Even the yolk"
+  },
+  {
+   "t0": 45.5,
+   "t1": 46.479,
+   "txt": "comes out square."
+  },
+  {
+   "t0": 46.98,
+   "t1": 47.651,
+   "txt": "Then it is"
+  },
+  {
+   "t0": 47.651,
+   "t1": 48.791,
+   "txt": "desirable to cool"
+  },
+  {
+   "t0": 48.791,
+   "t1": 50.668,
+   "txt": "the egg-containing apparatus"
+  },
+  {
+   "t0": 50.668,
+   "t1": 51.405,
+   "txt": "in water or"
+  },
+  {
+   "t0": 51.405,
+   "t1": 52.612,
+   "txt": "in a refrigerator."
+  },
+  {
+   "t0": 52.963,
+   "t1": 53.588,
+   "txt": "And a cube"
+  },
+  {
+   "t0": 53.588,
+   "t1": 54.274,
+   "txt": "is only the"
+  },
+  {
+   "t0": 54.274,
+   "t1": 54.649,
+   "txt": "start."
+  },
+  {
+   "t0": 54.929,
+   "t1": 55.941,
+   "txt": "The patent also"
+  },
+  {
+   "t0": 55.941,
+   "t1": 57.223,
+   "txt": "lists a triangular,"
+  },
+  {
+   "t0": 57.223,
+   "t1": 57.831,
+   "txt": "a square,"
+  },
+  {
+   "t0": 57.831,
+   "t1": 58.775,
+   "txt": "a rectangular,"
+  },
+  {
+   "t0": 58.775,
+   "t1": 59.653,
+   "txt": "a pentagonal,"
+  },
+  {
+   "t0": 59.653,
+   "t1": 60.868,
+   "txt": "a hexagonal shape,"
+  },
+  {
+   "t0": 60.868,
+   "t1": 61.542,
+   "txt": "or a round"
+  },
+  {
+   "t0": 61.542,
+   "t1": 61.947,
+   "txt": "shape."
+  },
+  {
+   "t0": 62.298,
+   "t1": 63.058,
+   "txt": "It can even"
+  },
+  {
+   "t0": 63.058,
+   "t1": 64.576,
+   "txt": "press desired indented"
+  },
+  {
+   "t0": 64.576,
+   "t1": 65.818,
+   "txt": "letters or symbols"
+  },
+  {
+   "t0": 65.818,
+   "t1": 66.923,
+   "txt": "onto the surface"
+  },
+  {
+   "t0": 66.923,
+   "t1": 67.889,
+   "txt": "of this boiled"
+  },
+  {
+   "t0": 67.889,
+   "t1": 68.165,
+   "txt": "egg."
+  },
+  {
+   "t0": 68.516,
+   "t1": 69.179,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 69.179,
+   "t1": 70.022,
+   "txt": "finished cube,"
+  },
+  {
+   "t0": 70.022,
+   "t1": 70.805,
+   "txt": "with a little"
+  },
+  {
+   "t0": 70.805,
+   "t1": 71.588,
+   "txt": "swirl on top."
+  },
+  {
+   "t0": 71.939,
+   "t1": 72.814,
+   "txt": "A cube."
+  },
+  {
+   "t0": 73.314,
+   "t1": 74.103,
+   "txt": "An egg."
+  },
+  {
+   "t0": 74.603,
+   "t1": 75.478,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.4
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.612
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 14.901
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 27.628
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 34.598
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 41.351
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 46.98
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 52.963
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 62.298
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 68.516
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 71.939
+  }
+ ],
+ "hook": "LOOK AT|THIS [EGG]",
+ "hook2": "THE SQUARE|[EGG] \u00b7 1978",
+ "hookSwitch": 2,
+ "num": "US 4,092,093",
+ "tt": true
+}

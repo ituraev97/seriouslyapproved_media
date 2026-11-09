@@ -1,0 +1,6378 @@
+{
+ "T": 645.84,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.348,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.014
+    ],
+    [
+     2.514,
+     3.645
+    ],
+    [
+     4.145,
+     6.897
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube10",
+   "figno": "10",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978",
+   "calls": [
+    [
+     "A CUBE",
+     180,
+     300,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 7.348,
+   "t1": 13.437,
+   "i": 1,
+   "segs": [
+    [
+     7.348,
+     13.086
+    ]
+   ],
+   "g": "quote",
+   "q": "changing a whole boiled egg into an aesthetic cubic shape",
+   "hit": "aesthetic cubic shape",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 13.437,
+   "t1": 17.004,
+   "i": 2,
+   "segs": [
+    [
+     13.437,
+     14.547
+    ],
+    [
+     14.967,
+     16.503
+    ]
+   ],
+   "g": "stamp",
+   "title": "APPARATUS FOR|DEFORMING BOILED EGG",
+   "filed": "JUNE 16, 1976",
+   "date": "MAY 30, 1978",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 17.004,
+   "t1": 34.707,
+   "i": 3,
+   "segs": [
+    [
+     17.004,
+     21.1
+    ],
+    [
+     21.38,
+     26.884
+    ],
+    [
+     27.164,
+     30.044
+    ],
+    [
+     30.324,
+     34.356
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE SHELF \u00b7 FILE 009",
+   "title": "Weird Breakfast|Inventions",
+   "lines": [
+    "Real patents. Ranked.",
+    "All approved."
+   ],
+   "stamp": true,
+   "at": 8.0,
+   "hook": "10 WEIRD|[BREAKFAST] PATENTS",
+   "side": "FILE 009 \u00b7 THE SHELF"
+  },
+  {
+   "t0": 34.707,
+   "t1": 37.45,
+   "i": 4,
+   "segs": [
+    [
+     34.707,
+     35.581
+    ],
+    [
+     35.861,
+     37.099
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 10 OF 10",
+   "numeral": "10",
+   "title": "Bacon|Cooking Aid",
+   "lines": [
+    "US 2,513,839",
+    "Filed 1945 \u00b7 Issued 1950"
+   ],
+   "num": "US 2,513,839",
+   "hook": "A PAPERWEIGHT|FOR [BACON]",
+   "side": "US 2,513,839 \u00b7 1950"
+  },
+  {
+   "t0": 37.45,
+   "t1": 42.025,
+   "i": 5,
+   "segs": [
+    [
+     37.45,
+     41.674
+    ]
+   ],
+   "g": "fig",
+   "fig": "bacon1",
+   "figno": "1",
+   "num": "US 2,513,839",
+   "hook": "A PAPERWEIGHT|FOR [BACON]",
+   "side": "US 2,513,839 \u00b7 1950",
+   "calls": [
+    [
+     "THE PADDLE",
+     560,
+     250,
+     120,
+     -90
+    ]
+   ]
+  },
+  {
+   "t0": 42.025,
+   "t1": 48.648,
+   "i": 6,
+   "segs": [
+    [
+     42.025,
+     48.297
+    ]
+   ],
+   "g": "quote",
+   "q": "curling and crimping of bacon strips during the cooking operation",
+   "hit": "curling and crimping",
+   "src": "US 2,513,839 \u00b7 description",
+   "num": "US 2,513,839",
+   "hook": "A PAPERWEIGHT|FOR [BACON]",
+   "side": "US 2,513,839 \u00b7 1950"
+  },
+  {
+   "t0": 48.648,
+   "t1": 55.593,
+   "i": 7,
+   "segs": [
+    [
+     48.648,
+     52.616
+    ],
+    [
+     52.896,
+     55.242
+    ]
+   ],
+   "g": "fig",
+   "fig": "bacon1",
+   "figno": "1",
+   "num": "US 2,513,839",
+   "hook": "A PAPERWEIGHT|FOR [BACON]",
+   "side": "US 2,513,839 \u00b7 1950",
+   "draw": false,
+   "calls": [
+    [
+     "THE RIM",
+     760,
+     120,
+     -170,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 55.593,
+   "t1": 61.918,
+   "i": 8,
+   "segs": [
+    [
+     55.593,
+     61.567
+    ]
+   ],
+   "g": "quote",
+   "q": "under the action of the weight, so that substantial pressure is supplied to the bacon",
+   "hit": "substantial pressure",
+   "src": "US 2,513,839 \u00b7 description",
+   "num": "US 2,513,839",
+   "hook": "A PAPERWEIGHT|FOR [BACON]",
+   "side": "US 2,513,839 \u00b7 1950"
+  },
+  {
+   "t0": 61.918,
+   "t1": 68.199,
+   "i": 9,
+   "segs": [
+    [
+     61.918,
+     67.848
+    ]
+   ],
+   "g": "quote",
+   "q": "permits cooking from both sides at the same time and with better contact",
+   "hit": "both sides",
+   "src": "US 2,513,839 \u00b7 description",
+   "num": "US 2,513,839",
+   "hook": "A PAPERWEIGHT|FOR [BACON]",
+   "side": "US 2,513,839 \u00b7 1950"
+  },
+  {
+   "t0": 68.199,
+   "t1": 76.797,
+   "i": 10,
+   "segs": [
+    [
+     68.199,
+     69.799
+    ],
+    [
+     70.299,
+     72.326
+    ],
+    [
+     72.826,
+     76.346
+    ]
+   ],
+   "g": "stamp",
+   "title": "BACON|COOKING AID",
+   "filed": "NOV. 30, 1945",
+   "date": "JULY 4, 1950",
+   "num": "US 2,513,839",
+   "hook": "A PAPERWEIGHT|FOR [BACON]",
+   "side": "US 2,513,839 \u00b7 1950",
+   "at": 2.2
+  },
+  {
+   "t0": 76.797,
+   "t1": 80.265,
+   "i": 11,
+   "segs": [
+    [
+     76.797,
+     77.629
+    ],
+    [
+     77.909,
+     79.914
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 9 OF 10",
+   "numeral": "9",
+   "title": "Egg-Cup",
+   "lines": [
+    "US 510,085",
+    "Filed 1893 \u00b7 Issued 1893"
+   ],
+   "num": "US 510,085",
+   "hook": "THE EJECTOR|[EGG CUP]",
+   "side": "US 510,085 \u00b7 1893"
+  },
+  {
+   "t0": 80.265,
+   "t1": 85.952,
+   "i": 12,
+   "segs": [
+    [
+     80.265,
+     82.42
+    ],
+    [
+     82.7,
+     85.601
+    ]
+   ],
+   "g": "quote",
+   "q": "My invention relates to improvements in egg-cups",
+   "hit": "improvements",
+   "src": "US 510,085 \u00b7 description",
+   "num": "US 510,085",
+   "hook": "THE EJECTOR|[EGG CUP]",
+   "side": "US 510,085 \u00b7 1893"
+  },
+  {
+   "t0": 85.952,
+   "t1": 92.151,
+   "i": 13,
+   "segs": [
+    [
+     85.952,
+     88.854
+    ],
+    [
+     89.134,
+     91.8
+    ]
+   ],
+   "g": "fig",
+   "fig": "egg1",
+   "figno": "1",
+   "num": "US 510,085",
+   "hook": "THE EJECTOR|[EGG CUP]",
+   "side": "US 510,085 \u00b7 1893",
+   "calls": [
+    [
+     "THE RING",
+     70,
+     130,
+     -40,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 92.151,
+   "t1": 98.308,
+   "i": 14,
+   "segs": [
+    [
+     92.151,
+     94.434
+    ],
+    [
+     94.714,
+     97.957
+    ]
+   ],
+   "g": "quote",
+   "q": "the removal of the egg-shell is often somewhat troublesome",
+   "hit": "somewhat troublesome",
+   "src": "US 510,085 \u00b7 description",
+   "num": "US 510,085",
+   "hook": "THE EJECTOR|[EGG CUP]",
+   "side": "US 510,085 \u00b7 1893"
+  },
+  {
+   "t0": 98.308,
+   "t1": 103.376,
+   "i": 15,
+   "segs": [
+    [
+     98.308,
+     99.908
+    ],
+    [
+     100.188,
+     103.025
+    ]
+   ],
+   "g": "fig",
+   "fig": "egg1",
+   "figno": "1",
+   "num": "US 510,085",
+   "hook": "THE EJECTOR|[EGG CUP]",
+   "side": "US 510,085 \u00b7 1893",
+   "draw": false,
+   "calls": [
+    [
+     "THE SPRING",
+     260,
+     560,
+     80,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 103.376,
+   "t1": 108.698,
+   "i": 16,
+   "segs": [
+    [
+     103.376,
+     108.347
+    ]
+   ],
+   "g": "quote",
+   "q": "The egg-shell is afterward ejected by the upward pressure of a plate",
+   "hit": "ejected",
+   "src": "US 510,085 \u00b7 description",
+   "num": "US 510,085",
+   "hook": "THE EJECTOR|[EGG CUP]",
+   "side": "US 510,085 \u00b7 1893"
+  },
+  {
+   "t0": 108.698,
+   "t1": 115.397,
+   "i": 17,
+   "segs": [
+    [
+     108.698,
+     109.914
+    ],
+    [
+     110.414,
+     111.907
+    ],
+    [
+     112.407,
+     114.946
+    ]
+   ],
+   "g": "stamp",
+   "title": "EGG-|CUP",
+   "filed": "APR. 29, 1893",
+   "date": "DEC. 5, 1893",
+   "num": "US 510,085",
+   "hook": "THE EJECTOR|[EGG CUP]",
+   "side": "US 510,085 \u00b7 1893",
+   "at": 2.4
+  },
+  {
+   "t0": 115.397,
+   "t1": 118.524,
+   "i": 18,
+   "segs": [
+    [
+     115.397,
+     116.271
+    ],
+    [
+     116.551,
+     118.173
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 8 OF 10",
+   "numeral": "8",
+   "title": "Egg-|Opener",
+   "lines": [
+    "US 886,266",
+    "Filed 1907 \u00b7 Issued 1908"
+   ],
+   "num": "US 886,266",
+   "hook": "THE EGG|[OPENER]",
+   "side": "US 886,266 \u00b7 1908"
+  },
+  {
+   "t0": 118.524,
+   "t1": 127.261,
+   "i": 19,
+   "segs": [
+    [
+     118.524,
+     120.444
+    ],
+    [
+     120.724,
+     126.91
+    ]
+   ],
+   "g": "quote",
+   "q": "the purpose of the invention is to provide a very simple and economic device for opening eggs",
+   "hit": "very simple",
+   "src": "US 886,266 \u00b7 description",
+   "num": "US 886,266",
+   "hook": "THE EGG|[OPENER]",
+   "side": "US 886,266 \u00b7 1908"
+  },
+  {
+   "t0": 127.261,
+   "t1": 129.874,
+   "i": 20,
+   "segs": [
+    [
+     127.261,
+     129.373
+    ]
+   ],
+   "g": "fig",
+   "fig": "open1",
+   "figno": "1",
+   "num": "US 886,266",
+   "hook": "THE EGG|[OPENER]",
+   "side": "US 886,266 \u00b7 1908",
+   "calls": [
+    [
+     "THE EGG",
+     360,
+     70,
+     120,
+     -30
+    ]
+   ]
+  },
+  {
+   "t0": 129.874,
+   "t1": 139.828,
+   "i": 21,
+   "segs": [
+    [
+     129.874,
+     133.458
+    ],
+    [
+     133.738,
+     139.477
+    ]
+   ],
+   "g": "quote",
+   "q": "adapted to pierce the shell of the egg laid on the cradle",
+   "hit": "pierce the shell",
+   "src": "US 886,266 \u00b7 description",
+   "num": "US 886,266",
+   "hook": "THE EGG|[OPENER]",
+   "side": "US 886,266 \u00b7 1908"
+  },
+  {
+   "t0": 139.828,
+   "t1": 144.382,
+   "i": 22,
+   "segs": [
+    [
+     139.828,
+     144.031
+    ]
+   ],
+   "g": "fig",
+   "fig": "open3",
+   "figno": "3",
+   "num": "US 886,266",
+   "hook": "THE EGG|[OPENER]",
+   "side": "US 886,266 \u00b7 1908",
+   "calls": [
+    [
+     "THE JAWS",
+     470,
+     330,
+     140,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 144.382,
+   "t1": 151.269,
+   "i": 23,
+   "segs": [
+    [
+     144.382,
+     145.598
+    ],
+    [
+     145.878,
+     147.03
+    ],
+    [
+     147.31,
+     149.08
+    ],
+    [
+     149.36,
+     150.918
+    ]
+   ],
+   "g": "quote",
+   "q": "and in so doing will throw off the empty shell.",
+   "hit": "throw off",
+   "src": "US 886,266 \u00b7 description",
+   "num": "US 886,266",
+   "hook": "THE EGG|[OPENER]",
+   "side": "US 886,266 \u00b7 1908"
+  },
+  {
+   "t0": 151.269,
+   "t1": 159.748,
+   "i": 24,
+   "segs": [
+    [
+     151.269,
+     153.594
+    ],
+    [
+     154.094,
+     155.182
+    ],
+    [
+     155.682,
+     157.047
+    ],
+    [
+     157.547,
+     159.297
+    ]
+   ],
+   "g": "stamp",
+   "title": "EGG-|OPENER",
+   "filed": "AUG. 19, 1907",
+   "date": "APR. 28, 1908",
+   "num": "US 886,266",
+   "hook": "THE EGG|[OPENER]",
+   "side": "US 886,266 \u00b7 1908",
+   "at": 2.6
+  },
+  {
+   "t0": 159.748,
+   "t1": 162.725,
+   "i": 25,
+   "segs": [
+    [
+     159.748,
+     160.665
+    ],
+    [
+     160.945,
+     162.374
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 7 OF 10",
+   "numeral": "7",
+   "title": "Automatic Egg-|Boiling Apparatus",
+   "lines": [
+    "US 546,255",
+    "Filed 1895 \u00b7 Issued 1895"
+   ],
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895"
+  },
+  {
+   "t0": 162.725,
+   "t1": 166.164,
+   "i": 26,
+   "segs": [
+    [
+     162.725,
+     164.048
+    ],
+    [
+     164.468,
+     165.663
+    ]
+   ],
+   "g": "fig",
+   "fig": "boil1",
+   "figno": "I",
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895",
+   "calls": [
+    [
+     "THE TANK",
+     470,
+     110,
+     100,
+     -50
+    ]
+   ]
+  },
+  {
+   "t0": 166.164,
+   "t1": 173.28,
+   "i": 27,
+   "segs": [
+    [
+     166.164,
+     169.385
+    ],
+    [
+     169.665,
+     172.929
+    ]
+   ],
+   "g": "fig",
+   "fig": "boil1",
+   "figno": "I",
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895",
+   "draw": false,
+   "calls": [
+    [
+     "THE EGGS",
+     230,
+     1250,
+     120,
+     40
+    ],
+    [
+     "THE WHEEL",
+     370,
+     480,
+     -90,
+     -90
+    ]
+   ]
+  },
+  {
+   "t0": 173.28,
+   "t1": 180.268,
+   "i": 28,
+   "segs": [
+    [
+     173.28,
+     175.968
+    ],
+    [
+     176.248,
+     179.917
+    ]
+   ],
+   "g": "fig",
+   "fig": "boil1",
+   "figno": "I",
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895",
+   "draw": false,
+   "calls": [
+    [
+     "THE BUCKET",
+     420,
+     700,
+     120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 180.268,
+   "t1": 189.433,
+   "i": 29,
+   "segs": [
+    [
+     180.268,
+     182.956
+    ],
+    [
+     183.236,
+     189.082
+    ]
+   ],
+   "g": "quote",
+   "q": "the same quantity of water may discharge in two, three, four, and six minutes",
+   "hit": "two, three, four, and six minutes",
+   "src": "US 546,255 \u00b7 description",
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895"
+  },
+  {
+   "t0": 189.433,
+   "t1": 195.842,
+   "i": 30,
+   "segs": [
+    [
+     189.433,
+     195.491
+    ]
+   ],
+   "g": "quote",
+   "q": "so long as this remains the case the egg-basket will remain lowered",
+   "hit": "remain lowered",
+   "src": "US 546,255 \u00b7 description",
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895"
+  },
+  {
+   "t0": 195.842,
+   "t1": 205.687,
+   "i": 31,
+   "segs": [
+    [
+     195.842,
+     205.336
+    ]
+   ],
+   "g": "quote",
+   "q": "the bucket with its contents becomes heavier than the egg-basket and its contents",
+   "hit": "heavier",
+   "src": "US 546,255 \u00b7 description",
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895"
+  },
+  {
+   "t0": 205.687,
+   "t1": 212.95,
+   "i": 32,
+   "segs": [
+    [
+     205.687,
+     212.449
+    ]
+   ],
+   "g": "quote",
+   "q": "the operator always knows to a certainty that the valve is correctly set into either position",
+   "hit": "to a certainty",
+   "src": "US 546,255 \u00b7 description",
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895"
+  },
+  {
+   "t0": 212.95,
+   "t1": 219.457,
+   "i": 33,
+   "segs": [
+    [
+     212.95,
+     214.145
+    ],
+    [
+     214.645,
+     215.84
+    ],
+    [
+     216.34,
+     219.006
+    ]
+   ],
+   "g": "stamp",
+   "title": "AUTOMATIC EGG-|BOILING APPARATUS",
+   "filed": "JUNE 29, 1895",
+   "date": "SEPT. 10, 1895",
+   "num": "US 546,255",
+   "hook": "THE EGG-BOILING|[TOWER]",
+   "side": "US 546,255 \u00b7 1895",
+   "at": 2.2
+  },
+  {
+   "t0": 219.457,
+   "t1": 222.862,
+   "i": 34,
+   "segs": [
+    [
+     219.457,
+     220.353
+    ],
+    [
+     220.633,
+     222.511
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 6 OF 10",
+   "numeral": "6",
+   "title": "Combined Alarm Clock|and Article Heater",
+   "lines": [
+    "US 1,513,685",
+    "Filed 1923 \u00b7 Issued 1924"
+   ],
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924"
+  },
+  {
+   "t0": 222.862,
+   "t1": 227.357,
+   "i": 35,
+   "segs": [
+    [
+     222.862,
+     224.014
+    ],
+    [
+     224.294,
+     225.574
+    ],
+    [
+     225.854,
+     227.006
+    ]
+   ],
+   "g": "fig",
+   "fig": "alarm1",
+   "figno": "1",
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924",
+   "calls": [
+    [
+     "THE CLOCK",
+     165,
+     760,
+     110,
+     40
+    ],
+    [
+     "THE COFFEE",
+     165,
+     390,
+     110,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 227.357,
+   "t1": 231.782,
+   "i": 36,
+   "segs": [
+    [
+     227.357,
+     231.431
+    ]
+   ],
+   "g": "quote",
+   "q": "A further object is that of providing a clock having means adapted to give an alarm at a set hour,",
+   "hit": "at a set hour",
+   "src": "US 1,513,685 \u00b7 description",
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924"
+  },
+  {
+   "t0": 231.782,
+   "t1": 238.235,
+   "i": 37,
+   "segs": [
+    [
+     231.782,
+     237.884
+    ]
+   ],
+   "g": "quote",
+   "q": "the lamp is illuminated, and the preparation of the coffee is started and continues",
+   "hit": "the coffee is started",
+   "src": "US 1,513,685 \u00b7 description",
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924"
+  },
+  {
+   "t0": 238.235,
+   "t1": 243.836,
+   "i": 38,
+   "segs": [
+    [
+     238.235,
+     240.667
+    ],
+    [
+     240.947,
+     243.485
+    ]
+   ],
+   "g": "fig",
+   "fig": "alarm2",
+   "figno": "2",
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924",
+   "calls": [
+    [
+     "THE CUP",
+     300,
+     490,
+     -40,
+     -90
+    ]
+   ]
+  },
+  {
+   "t0": 243.836,
+   "t1": 248.71,
+   "i": 39,
+   "segs": [
+    [
+     243.836,
+     248.359
+    ]
+   ],
+   "g": "quote",
+   "q": "When the cup 65 is about full of coffee,",
+   "hit": "about full of coffee",
+   "src": "US 1,513,685 \u00b7 description",
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924"
+  },
+  {
+   "t0": 248.71,
+   "t1": 256.884,
+   "i": 40,
+   "segs": [
+    [
+     248.71,
+     256.433
+    ]
+   ],
+   "g": "quote",
+   "q": "the coffee percolator ceases operation, the light of the lamp goes out, the alarm is sounded a second time",
+   "hit": "a second time",
+   "src": "US 1,513,685 \u00b7 description",
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924"
+  },
+  {
+   "t0": 256.884,
+   "t1": 264.671,
+   "i": 41,
+   "segs": [
+    [
+     256.884,
+     258.484
+    ],
+    [
+     258.984,
+     261.672
+    ],
+    [
+     262.172,
+     264.22
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINED ALARM CLOCK|AND ARTICLE HEATER",
+   "filed": "JAN. 4, 1923",
+   "date": "OCT. 28, 1924",
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924",
+   "at": 3.0
+  },
+  {
+   "t0": 264.671,
+   "t1": 267.478,
+   "i": 42,
+   "segs": [
+    [
+     264.671,
+     265.631
+    ],
+    [
+     265.911,
+     267.127
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 5 OF 10",
+   "numeral": "5",
+   "title": "Combination Toasting|and Buttering Apparatus",
+   "lines": [
+    "US 3,670,642",
+    "Filed 1970 \u00b7 Issued 1972"
+   ],
+   "num": "US 3,670,642",
+   "hook": "THE TOAST|[DROP TOWER]",
+   "side": "US 3,670,642 \u00b7 1972"
+  },
+  {
+   "t0": 267.478,
+   "t1": 278.37,
+   "i": 43,
+   "segs": [
+    [
+     267.478,
+     271.766
+    ],
+    [
+     272.046,
+     278.019
+    ]
+   ],
+   "g": "quote",
+   "q": "where it may be baked onto the heating elements",
+   "hit": "baked onto",
+   "src": "US 3,670,642 \u00b7 description",
+   "num": "US 3,670,642",
+   "hook": "THE TOAST|[DROP TOWER]",
+   "side": "US 3,670,642 \u00b7 1972"
+  },
+  {
+   "t0": 278.37,
+   "t1": 282.649,
+   "i": 44,
+   "segs": [
+    [
+     278.37,
+     279.565
+    ],
+    [
+     279.845,
+     282.298
+    ]
+   ],
+   "g": "fig",
+   "fig": "toast1",
+   "figno": "1",
+   "num": "US 3,670,642",
+   "hook": "THE TOAST|[DROP TOWER]",
+   "side": "US 3,670,642 \u00b7 1972",
+   "calls": [
+    [
+     "THE BREAD",
+     120,
+     150,
+     110,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 282.649,
+   "t1": 286.834,
+   "i": 45,
+   "segs": [
+    [
+     282.649,
+     284.633
+    ],
+    [
+     285.053,
+     286.333
+    ]
+   ],
+   "g": "fig",
+   "fig": "toast1",
+   "figno": "1",
+   "num": "US 3,670,642",
+   "hook": "THE TOAST|[DROP TOWER]",
+   "side": "US 3,670,642 \u00b7 1972",
+   "draw": false,
+   "calls": [
+    [
+     "THE DROP",
+     140,
+     640,
+     110,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 286.834,
+   "t1": 293.396,
+   "i": 46,
+   "segs": [
+    [
+     286.834,
+     289.991
+    ],
+    [
+     290.271,
+     293.045
+    ]
+   ],
+   "g": "fig",
+   "fig": "toast1",
+   "figno": "1",
+   "num": "US 3,670,642",
+   "hook": "THE TOAST|[DROP TOWER]",
+   "side": "US 3,670,642 \u00b7 1972",
+   "draw": false,
+   "calls": [
+    [
+     "THE BLADE",
+     260,
+     830,
+     140,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 293.396,
+   "t1": 300.232,
+   "i": 47,
+   "segs": [
+    [
+     293.396,
+     299.881
+    ]
+   ],
+   "g": "quote",
+   "q": "so the toast slice 25 is buttered and sliced as it falls downwardly through the lower compartment 15.",
+   "hit": "buttered and sliced",
+   "src": "US 3,670,642 \u00b7 description",
+   "num": "US 3,670,642",
+   "hook": "THE TOAST|[DROP TOWER]",
+   "side": "US 3,670,642 \u00b7 1972"
+  },
+  {
+   "t0": 300.232,
+   "t1": 308.308,
+   "i": 48,
+   "segs": [
+    [
+     300.232,
+     302.216
+    ],
+    [
+     302.496,
+     307.957
+    ]
+   ],
+   "g": "quote",
+   "q": "the apparatus then cycled a couple of times to spray warm soapy water through the nozzle 63 to clean it.",
+   "hit": "warm soapy water",
+   "src": "US 3,670,642 \u00b7 description",
+   "num": "US 3,670,642",
+   "hook": "THE TOAST|[DROP TOWER]",
+   "side": "US 3,670,642 \u00b7 1972"
+  },
+  {
+   "t0": 308.308,
+   "t1": 313.227,
+   "i": 49,
+   "segs": [
+    [
+     308.308,
+     309.844
+    ],
+    [
+     310.344,
+     312.776
+    ]
+   ],
+   "g": "stamp",
+   "title": "COMBINATION TOASTING|AND BUTTERING APPARATUS",
+   "filed": "SEPT. 14, 1970",
+   "date": "JUNE 20, 1972",
+   "num": "US 3,670,642",
+   "hook": "THE TOAST|[DROP TOWER]",
+   "side": "US 3,670,642 \u00b7 1972",
+   "at": 1.8
+  },
+  {
+   "t0": 313.227,
+   "t1": 316.141,
+   "i": 50,
+   "segs": [
+    [
+     313.227,
+     314.145
+    ],
+    [
+     314.425,
+     315.79
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 4 OF 10",
+   "numeral": "4",
+   "title": "Automated|Pancake Maker",
+   "lines": [
+    "US 5,481,963",
+    "Filed 1995 \u00b7 Issued 1996"
+   ],
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996"
+  },
+  {
+   "t0": 316.141,
+   "t1": 319.801,
+   "i": 51,
+   "segs": [
+    [
+     316.141,
+     317.314
+    ],
+    [
+     317.594,
+     319.45
+    ]
+   ],
+   "g": "fig",
+   "fig": "pan1",
+   "figno": "1",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996",
+   "calls": [
+    [
+     "THE PANCAKES",
+     470,
+     820,
+     160,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 319.801,
+   "t1": 332.808,
+   "i": 52,
+   "segs": [
+    [
+     319.801,
+     320.761
+    ],
+    [
+     321.041,
+     326.289
+    ],
+    [
+     326.569,
+     332.457
+    ]
+   ],
+   "g": "quote",
+   "q": "In many restaurants where the cooking grille surface is zealously guarded, pancakes are not served.",
+   "hit": "zealously guarded",
+   "src": "US 5,481,963 \u00b7 description",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996"
+  },
+  {
+   "t0": 332.808,
+   "t1": 340.263,
+   "i": 53,
+   "segs": [
+    [
+     332.808,
+     339.912
+    ]
+   ],
+   "g": "quote",
+   "q": "automatically cooking, flipping, monogramming and discharging a plurality of pancakes",
+   "hit": "monogramming",
+   "src": "US 5,481,963 \u00b7 description",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996"
+  },
+  {
+   "t0": 340.263,
+   "t1": 345.871,
+   "i": 54,
+   "segs": [
+    [
+     340.263,
+     341.245
+    ],
+    [
+     341.665,
+     343.286
+    ],
+    [
+     343.706,
+     345.37
+    ]
+   ],
+   "g": "fig",
+   "fig": "pan5",
+   "figno": "5",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996",
+   "calls": [
+    [
+     "GOOD MORNIN",
+     230,
+     800,
+     -40,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 345.871,
+   "t1": 351.854,
+   "i": 55,
+   "segs": [
+    [
+     345.871,
+     351.503
+    ]
+   ],
+   "g": "quote",
+   "q": "to dispense the batter out the exit like toothpaste",
+   "hit": "like toothpaste",
+   "src": "US 5,481,963 \u00b7 description",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996"
+  },
+  {
+   "t0": 351.854,
+   "t1": 360.936,
+   "i": 56,
+   "segs": [
+    [
+     351.854,
+     356.889
+    ],
+    [
+     357.169,
+     358.875
+    ],
+    [
+     359.155,
+     360.585
+    ]
+   ],
+   "g": "fig",
+   "fig": "pan4",
+   "figno": "4",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996",
+   "calls": [
+    [
+     "THE FLIP",
+     420,
+     330,
+     120,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 360.936,
+   "t1": 368.981,
+   "i": 57,
+   "segs": [
+    [
+     360.936,
+     368.53
+    ]
+   ],
+   "g": "quote",
+   "q": "total entrapment of half-cooked pancakes 37 during all flipping and transfer exercises",
+   "hit": "total entrapment",
+   "src": "US 5,481,963 \u00b7 description",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996"
+  },
+  {
+   "t0": 368.981,
+   "t1": 373.194,
+   "i": 58,
+   "segs": [
+    [
+     368.981,
+     372.843
+    ]
+   ],
+   "g": "fig",
+   "fig": "pan6",
+   "figno": "6",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996",
+   "calls": [
+    [
+     "BREAKFAST",
+     600,
+     1310,
+     160,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 373.194,
+   "t1": 377.983,
+   "i": 59,
+   "segs": [
+    [
+     373.194,
+     377.482
+    ]
+   ],
+   "g": "quote",
+   "q": "the apparatus can be made to be coin operated",
+   "hit": "coin operated",
+   "src": "US 5,481,963 \u00b7 description",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996"
+  },
+  {
+   "t0": 377.983,
+   "t1": 383.691,
+   "i": 60,
+   "segs": [
+    [
+     377.983,
+     379.967
+    ],
+    [
+     380.467,
+     383.24
+    ]
+   ],
+   "g": "stamp",
+   "title": "AUTOMATED|PANCAKE MAKER",
+   "filed": "APR. 24, 1995",
+   "date": "JAN. 9, 1996",
+   "num": "US 5,481,963",
+   "hook": "THE PANCAKE|[ROBOT]",
+   "side": "US 5,481,963 \u00b7 1996",
+   "at": 2.0
+  },
+  {
+   "t0": 383.691,
+   "t1": 386.818,
+   "i": 61,
+   "segs": [
+    [
+     383.691,
+     384.608
+    ],
+    [
+     384.888,
+     386.467
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 3 OF 10",
+   "numeral": "3",
+   "title": "Fruit-Eating|Shield",
+   "lines": [
+    "US 1,324,659",
+    "Filed 1919 \u00b7 Issued 1919"
+   ],
+   "num": "US 1,324,659",
+   "hook": "A SHIELD FOR|[GRAPEFRUIT]",
+   "side": "US 1,324,659 \u00b7 1919"
+  },
+  {
+   "t0": 386.818,
+   "t1": 397.329,
+   "i": 62,
+   "segs": [
+    [
+     386.818,
+     388.098
+    ],
+    [
+     388.378,
+     390.17
+    ],
+    [
+     390.45,
+     396.978
+    ]
+   ],
+   "g": "quote",
+   "q": "the manipulation of a spoon therein causes the juice to be ejected and sprayed to great disadvantage",
+   "hit": "great disadvantage",
+   "src": "US 1,324,659 \u00b7 description",
+   "num": "US 1,324,659",
+   "hook": "A SHIELD FOR|[GRAPEFRUIT]",
+   "side": "US 1,324,659 \u00b7 1919"
+  },
+  {
+   "t0": 397.329,
+   "t1": 401.907,
+   "i": 63,
+   "segs": [
+    [
+     397.329,
+     398.63
+    ],
+    [
+     398.91,
+     401.556
+    ]
+   ],
+   "g": "fig",
+   "fig": "shield1",
+   "figno": "1",
+   "num": "US 1,324,659",
+   "hook": "A SHIELD FOR|[GRAPEFRUIT]",
+   "side": "US 1,324,659 \u00b7 1919",
+   "calls": [
+    [
+     "THE SHIELD",
+     300,
+     150,
+     -80,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 401.907,
+   "t1": 407.762,
+   "i": 64,
+   "segs": [
+    [
+     401.907,
+     407.411
+    ]
+   ],
+   "g": "quote",
+   "q": "so as to form a pocket under which a spoon is manipulated",
+   "hit": "a spoon is manipulated",
+   "src": "US 1,324,659 \u00b7 description",
+   "num": "US 1,324,659",
+   "hook": "A SHIELD FOR|[GRAPEFRUIT]",
+   "side": "US 1,324,659 \u00b7 1919"
+  },
+  {
+   "t0": 407.762,
+   "t1": 411.889,
+   "i": 65,
+   "segs": [
+    [
+     407.762,
+     411.538
+    ]
+   ],
+   "g": "fig",
+   "fig": "shield1",
+   "figno": "1",
+   "num": "US 1,324,659",
+   "hook": "A SHIELD FOR|[GRAPEFRUIT]",
+   "side": "US 1,324,659 \u00b7 1919",
+   "draw": false,
+   "calls": [
+    [
+     "FINGER RING",
+     90,
+     270,
+     -60,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 411.889,
+   "t1": 419.365,
+   "i": 66,
+   "segs": [
+    [
+     411.889,
+     419.014
+    ]
+   ],
+   "g": "quote",
+   "q": "the eatable or pulp portion of the fruit is visible by reason of the transparency of the shield",
+   "hit": "visible",
+   "src": "US 1,324,659 \u00b7 description",
+   "num": "US 1,324,659",
+   "hook": "A SHIELD FOR|[GRAPEFRUIT]",
+   "side": "US 1,324,659 \u00b7 1919"
+  },
+  {
+   "t0": 419.365,
+   "t1": 424.945,
+   "i": 67,
+   "segs": [
+    [
+     419.365,
+     421.52
+    ],
+    [
+     422.02,
+     424.494
+    ]
+   ],
+   "g": "stamp",
+   "title": "FRUIT-EATING|SHIELD",
+   "filed": "MAY 20, 1919",
+   "date": "DEC. 9, 1919",
+   "num": "US 1,324,659",
+   "hook": "A SHIELD FOR|[GRAPEFRUIT]",
+   "side": "US 1,324,659 \u00b7 1919",
+   "at": 2.0
+  },
+  {
+   "t0": 424.945,
+   "t1": 430.568,
+   "i": 68,
+   "segs": [
+    [
+     424.945,
+     427.484
+    ],
+    [
+     427.764,
+     430.217
+    ]
+   ],
+   "g": "fig",
+   "fig": "gfb1",
+   "figno": "1",
+   "num": "US 1,661,036",
+   "hook": "A HAT FOR|[GRAPEFRUIT]",
+   "side": "US 1,661,036 \u00b7 1928",
+   "calls": [
+    [
+     "THE HOOD",
+     250,
+     130,
+     110,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 430.568,
+   "t1": 436.127,
+   "i": 69,
+   "segs": [
+    [
+     430.568,
+     434.28
+    ],
+    [
+     434.56,
+     435.776
+    ]
+   ],
+   "g": "quote",
+   "q": "for preventing the spattering of the juice when eating the fruit",
+   "hit": "spattering",
+   "src": "US 1,661,036 \u00b7 description",
+   "num": "US 1,661,036",
+   "hook": "A HAT FOR|[GRAPEFRUIT]",
+   "side": "US 1,661,036 \u00b7 1928"
+  },
+  {
+   "t0": 436.127,
+   "t1": 440.364,
+   "i": 70,
+   "segs": [
+    [
+     436.127,
+     437.791
+    ],
+    [
+     438.071,
+     440.013
+    ]
+   ],
+   "g": "quote",
+   "q": "thrown away after a single use",
+   "hit": "single use",
+   "src": "US 1,661,036 \u00b7 description",
+   "num": "US 1,661,036",
+   "hook": "A HAT FOR|[GRAPEFRUIT]",
+   "side": "US 1,661,036 \u00b7 1928"
+  },
+  {
+   "t0": 440.364,
+   "t1": 445.238,
+   "i": 71,
+   "segs": [
+    [
+     440.364,
+     444.737
+    ]
+   ],
+   "g": "quote",
+   "q": "may be used to bear advertising matter",
+   "hit": "advertising matter",
+   "src": "US 1,661,036 \u00b7 description",
+   "num": "US 1,661,036",
+   "hook": "A HAT FOR|[GRAPEFRUIT]",
+   "side": "US 1,661,036 \u00b7 1928"
+  },
+  {
+   "t0": 445.238,
+   "t1": 449.752,
+   "i": 72,
+   "segs": [
+    [
+     445.238,
+     446.881
+    ],
+    [
+     447.381,
+     449.301
+    ]
+   ],
+   "g": "stamp",
+   "title": "GRAPEFRUIT|SHIELD",
+   "filed": "FEB. 15, 1927",
+   "date": "FEB. 28, 1928",
+   "num": "US 1,661,036",
+   "hook": "A HAT FOR|[GRAPEFRUIT]",
+   "side": "US 1,661,036 \u00b7 1928",
+   "at": 1.8
+  },
+  {
+   "t0": 449.752,
+   "t1": 452.473,
+   "i": 73,
+   "segs": [
+    [
+     449.752,
+     450.626
+    ],
+    [
+     450.906,
+     452.122
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 2 OF 10",
+   "numeral": "2",
+   "title": "Crispy Cereal|Serving Piece",
+   "lines": [
+    "US 4,986,433",
+    "Filed 1990 \u00b7 Issued 1991"
+   ],
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991"
+  },
+  {
+   "t0": 452.473,
+   "t1": 459.248,
+   "i": 74,
+   "segs": [
+    [
+     452.473,
+     454.308
+    ],
+    [
+     454.588,
+     458.897
+    ]
+   ],
+   "g": "quote",
+   "q": "Soggy cereal is so undesirable that many people will not eat it",
+   "hit": "so undesirable",
+   "src": "US 4,986,433 \u00b7 description",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991"
+  },
+  {
+   "t0": 459.248,
+   "t1": 466.453,
+   "i": 75,
+   "segs": [
+    [
+     459.248,
+     461.339
+    ],
+    [
+     461.619,
+     463.283
+    ],
+    [
+     463.563,
+     466.102
+    ]
+   ],
+   "g": "quote",
+   "q": "the cereal eventually becomes soggy anyway.",
+   "hit": "soggy anyway",
+   "src": "US 4,986,433 \u00b7 description",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991"
+  },
+  {
+   "t0": 466.453,
+   "t1": 478.113,
+   "i": 76,
+   "segs": [
+    [
+     466.453,
+     471.722
+    ],
+    [
+     472.002,
+     477.762
+    ]
+   ],
+   "g": "quote",
+   "q": "simply discard the soggy cereal and its milk, which can be wasteful and costly",
+   "hit": "wasteful and costly",
+   "src": "US 4,986,433 \u00b7 description",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991"
+  },
+  {
+   "t0": 478.113,
+   "t1": 485.749,
+   "i": 77,
+   "segs": [
+    [
+     478.113,
+     479.457
+    ],
+    [
+     479.737,
+     480.59
+    ],
+    [
+     480.87,
+     482.342
+    ],
+    [
+     482.622,
+     483.817
+    ],
+    [
+     484.097,
+     485.398
+    ]
+   ],
+   "g": "fig",
+   "fig": "cereal1",
+   "figno": "1",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991",
+   "calls": [
+    [
+     "CEREAL",
+     570,
+     60,
+     -170,
+     -10
+    ],
+    [
+     "MILK",
+     170,
+     300,
+     -60,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 485.749,
+   "t1": 495.298,
+   "i": 78,
+   "segs": [
+    [
+     485.749,
+     488.288
+    ],
+    [
+     488.568,
+     494.947
+    ]
+   ],
+   "g": "quote",
+   "q": "The slope of the chute then causes the measured portion of cereal to slide under the influence of gravity",
+   "hit": "slide",
+   "src": "US 4,986,433 \u00b7 description",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991"
+  },
+  {
+   "t0": 495.298,
+   "t1": 499.903,
+   "i": 79,
+   "segs": [
+    [
+     495.298,
+     497.047
+    ],
+    [
+     497.467,
+     498.171
+    ],
+    [
+     498.591,
+     499.402
+    ]
+   ],
+   "g": "fig",
+   "fig": "cereal3",
+   "figno": "3",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991",
+   "calls": [
+    [
+     "WHEE",
+     470,
+     170,
+     120,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 499.903,
+   "t1": 507.723,
+   "i": 80,
+   "segs": [
+    [
+     499.903,
+     502.484
+    ],
+    [
+     502.764,
+     507.372
+    ]
+   ],
+   "g": "quote",
+   "q": "the weighted base 13 helps to counteract the forces generated by the chute",
+   "hit": "the forces generated by the chute",
+   "src": "US 4,986,433 \u00b7 description",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991"
+  },
+  {
+   "t0": 507.723,
+   "t1": 513.215,
+   "i": 81,
+   "segs": [
+    [
+     507.723,
+     512.864
+    ]
+   ],
+   "g": "quote",
+   "q": "no matter how leisurely a breakfast he enjoys",
+   "hit": "leisurely",
+   "src": "US 4,986,433 \u00b7 description",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991"
+  },
+  {
+   "t0": 513.215,
+   "t1": 518.561,
+   "i": 82,
+   "segs": [
+    [
+     513.215,
+     514.922
+    ],
+    [
+     515.422,
+     518.11
+    ]
+   ],
+   "g": "stamp",
+   "title": "CRISPY CEREAL|SERVING PIECE",
+   "filed": "JUNE 4, 1990",
+   "date": "JAN. 22, 1991",
+   "num": "US 4,986,433",
+   "hook": "A SLIDE FOR|[CEREAL]",
+   "side": "US 4,986,433 \u00b7 1991",
+   "at": 1.8
+  },
+  {
+   "t0": 518.561,
+   "t1": 522.2,
+   "i": 83,
+   "segs": [
+    [
+     518.561,
+     519.436
+    ],
+    [
+     519.716,
+     521.849
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 1 OF 10",
+   "numeral": "1",
+   "title": "Apparatus for|Deforming Boiled Egg",
+   "lines": [
+    "US 4,092,093",
+    "Filed 1976 \u00b7 Issued 1978"
+   ],
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 522.2,
+   "t1": 536.167,
+   "i": 84,
+   "segs": [
+    [
+     522.2,
+     523.16
+    ],
+    [
+     523.44,
+     525.637
+    ],
+    [
+     525.917,
+     535.816
+    ]
+   ],
+   "g": "quote",
+   "q": "troublesome and time-consuming to change the original natural shape of the boiled egg into a desired shape by cutting it with a knife",
+   "hit": "troublesome",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 536.167,
+   "t1": 540.361,
+   "i": 85,
+   "segs": [
+    [
+     536.167,
+     537.34
+    ],
+    [
+     537.62,
+     540.01
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube1",
+   "figno": "1",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978",
+   "calls": [
+    [
+     "THE CAP",
+     230,
+     40,
+     110,
+     -20
+    ]
+   ]
+  },
+  {
+   "t0": 540.361,
+   "t1": 549.954,
+   "i": 86,
+   "segs": [
+    [
+     540.361,
+     542.409
+    ],
+    [
+     542.689,
+     543.969
+    ],
+    [
+     544.249,
+     549.603
+    ]
+   ],
+   "g": "quote",
+   "q": "is required to be equal to a cubic root of the volume of an egg.",
+   "hit": "cubic root",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 549.954,
+   "t1": 556.236,
+   "i": 87,
+   "segs": [
+    [
+     549.954,
+     555.885
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube1",
+   "figno": "1",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978",
+   "draw": false,
+   "calls": [
+    [
+     "3.9 CM",
+     200,
+     450,
+     120,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 556.236,
+   "t1": 565.464,
+   "i": 88,
+   "segs": [
+    [
+     556.236,
+     558.54
+    ],
+    [
+     558.82,
+     565.113
+    ]
+   ],
+   "g": "quote",
+   "q": "the boiled egg 20 is progressively pressed by the pressing surface 13 of the pressing member 3",
+   "hit": "progressively pressed",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 565.464,
+   "t1": 570.816,
+   "i": 89,
+   "segs": [
+    [
+     565.464,
+     567.064
+    ],
+    [
+     567.484,
+     568.551
+    ],
+    [
+     568.971,
+     570.315
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube7",
+   "figno": "7",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978",
+   "calls": [
+    [
+     "SQUARE YOLK",
+     187,
+     466,
+     100,
+     90
+    ]
+   ]
+  },
+  {
+   "t0": 570.816,
+   "t1": 576.738,
+   "i": 90,
+   "segs": [
+    [
+     570.816,
+     572.16
+    ],
+    [
+     572.44,
+     576.387
+    ]
+   ],
+   "g": "quote",
+   "q": "the yolk 21 itself will be deformed substantially into a cubic shape as shown in FIG. 7",
+   "hit": "cubic shape",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 576.738,
+   "t1": 585.753,
+   "i": 91,
+   "segs": [
+    [
+     576.738,
+     579.49
+    ],
+    [
+     579.77,
+     585.402
+    ]
+   ],
+   "g": "quote",
+   "q": "it is desirable to cool the egg-containing apparatus in water or in a refrigerator",
+   "hit": "in a refrigerator",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 585.753,
+   "t1": 590.52,
+   "i": 92,
+   "segs": [
+    [
+     585.753,
+     590.169
+    ]
+   ],
+   "g": "quote",
+   "q": "Whereupon, the deformed boiled egg will easily come out from the main body 2.",
+   "hit": "easily come out",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 590.52,
+   "t1": 596.399,
+   "i": 93,
+   "segs": [
+    [
+     590.52,
+     592.696
+    ],
+    [
+     592.976,
+     596.048
+    ]
+   ],
+   "g": "fig",
+   "fig": "cube10",
+   "figno": "10",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978",
+   "calls": [
+    [
+     "THE PATTERN",
+     150,
+     110,
+     110,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 596.399,
+   "t1": 605.734,
+   "i": 94,
+   "segs": [
+    [
+     596.399,
+     598.084
+    ],
+    [
+     598.364,
+     605.383
+    ]
+   ],
+   "g": "quote",
+   "q": "a triangular, a square, a rectangular, a pentagonal, a hexagonal shape, or a round shape",
+   "hit": "a pentagonal, a hexagonal",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 605.734,
+   "t1": 613.149,
+   "i": 95,
+   "segs": [
+    [
+     605.734,
+     610.47
+    ],
+    [
+     610.75,
+     612.798
+    ]
+   ],
+   "g": "quote",
+   "q": "desired indented letters or symbols onto the surface of this boiled egg",
+   "hit": "letters or symbols",
+   "src": "US 4,092,093 \u00b7 description",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978"
+  },
+  {
+   "t0": 613.149,
+   "t1": 618.525,
+   "i": 96,
+   "segs": [
+    [
+     613.149,
+     614.023
+    ],
+    [
+     614.523,
+     615.313
+    ],
+    [
+     615.813,
+     618.074
+    ]
+   ],
+   "g": "stamp",
+   "title": "APPARATUS FOR|DEFORMING BOILED EGG",
+   "filed": "JUNE 16, 1976",
+   "date": "MAY 30, 1978",
+   "num": "US 4,092,093",
+   "hook": "THE SQUARE|[EGG]",
+   "side": "US 4,092,093 \u00b7 1978",
+   "big": true,
+   "at": 2.2
+  },
+  {
+   "t0": 618.525,
+   "t1": 623.444,
+   "i": 97,
+   "segs": [
+    [
+     618.525,
+     619.869
+    ],
+    [
+     620.269,
+     622.893
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS SHELF'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 009"
+  },
+  {
+   "t0": 623.444,
+   "t1": 631.462,
+   "i": 98,
+   "segs": [
+    [
+     623.444,
+     625.193
+    ],
+    [
+     625.473,
+     628.396
+    ],
+    [
+     628.676,
+     629.593
+    ],
+    [
+     629.873,
+     631.111
+    ]
+   ],
+   "g": "quote",
+   "q": "the coffee percolator ceases operation, the light of the lamp goes out, the alarm is sounded a second time",
+   "hit": "a second time",
+   "src": "US 1,513,685 \u00b7 description",
+   "num": "US 1,513,685",
+   "hook": "THE ALARM CLOCK|THAT MAKES [COFFEE]",
+   "side": "US 1,513,685 \u00b7 1924",
+   "typed": false
+  },
+  {
+   "t0": 631.462,
+   "t1": 638.919,
+   "i": 99,
+   "segs": [
+    [
+     631.462,
+     634.79
+    ],
+    [
+     635.07,
+     638.568
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "2,513,839 \u00b7 510,085 \u00b7 886,266",
+    "546,255 \u00b7 1,513,685 \u00b7 3,670,642",
+    "5,481,963 \u00b7 1,324,659 \u00b7 1,661,036",
+    "4,986,433 \u00b7 4,092,093"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 009"
+  },
+  {
+   "t0": 638.919,
+   "t1": 645.84,
+   "i": 100,
+   "segs": [
+    [
+     638.919,
+     640.605
+    ],
+    [
+     640.885,
+     642.485
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 009"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.949,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.949,
+   "t1": 2.014,
+   "txt": "hard-boiled egg."
+  },
+  {
+   "t0": 2.514,
+   "t1": 3.174,
+   "txt": "It is a"
+  },
+  {
+   "t0": 3.174,
+   "t1": 3.645,
+   "txt": "cube."
+  },
+  {
+   "t0": 4.145,
+   "t1": 4.895,
+   "txt": "And it comes"
+  },
+  {
+   "t0": 4.895,
+   "t1": 5.583,
+   "txt": "from a real"
+  },
+  {
+   "t0": 5.583,
+   "t1": 6.897,
+   "txt": "United States patent."
+  },
+  {
+   "t0": 7.348,
+   "t1": 8.508,
+   "txt": "The patent's goal,"
+  },
+  {
+   "t0": 8.508,
+   "t1": 9.153,
+   "txt": "in its own"
+  },
+  {
+   "t0": 9.153,
+   "t1": 9.54,
+   "txt": "words:"
+  },
+  {
+   "t0": 9.54,
+   "t1": 10.572,
+   "txt": "changing a whole"
+  },
+  {
+   "t0": 10.572,
+   "t1": 11.539,
+   "txt": "boiled egg into"
+  },
+  {
+   "t0": 11.539,
+   "t1": 12.699,
+   "txt": "an aesthetic cubic"
+  },
+  {
+   "t0": 12.699,
+   "t1": 13.086,
+   "txt": "shape."
+  },
+  {
+   "t0": 13.437,
+   "t1": 14.547,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 14.967,
+   "t1": 16.503,
+   "txt": "Nineteen seventy-eight."
+  },
+  {
+   "t0": 17.004,
+   "t1": 17.435,
+   "txt": "Today,"
+  },
+  {
+   "t0": 17.435,
+   "t1": 18.8,
+   "txt": "ten weird breakfast"
+  },
+  {
+   "t0": 18.8,
+   "t1": 20.165,
+   "txt": "inventions that got"
+  },
+  {
+   "t0": 20.165,
+   "t1": 21.1,
+   "txt": "real patents."
+  },
+  {
+   "t0": 21.38,
+   "t1": 21.719,
+   "txt": "Eggs,"
+  },
+  {
+   "t0": 21.719,
+   "t1": 22.127,
+   "txt": "bacon,"
+  },
+  {
+   "t0": 22.127,
+   "t1": 22.535,
+   "txt": "toast,"
+  },
+  {
+   "t0": 22.535,
+   "t1": 23.146,
+   "txt": "pancakes,"
+  },
+  {
+   "t0": 23.146,
+   "t1": 23.622,
+   "txt": "coffee,"
+  },
+  {
+   "t0": 23.622,
+   "t1": 24.098,
+   "txt": "cereal,"
+  },
+  {
+   "t0": 24.098,
+   "t1": 25.321,
+   "txt": "and one grapefruit"
+  },
+  {
+   "t0": 25.321,
+   "t1": 26.884,
+   "txt": "that needed protection."
+  },
+  {
+   "t0": 27.164,
+   "t1": 28.692,
+   "txt": "From eighteen ninety-three"
+  },
+  {
+   "t0": 28.692,
+   "t1": 30.044,
+   "txt": "to nineteen ninety-six."
+  },
+  {
+   "t0": 30.324,
+   "t1": 31.249,
+   "txt": "Real drawings,"
+  },
+  {
+   "t0": 31.249,
+   "t1": 32.042,
+   "txt": "real quotes,"
+  },
+  {
+   "t0": 32.042,
+   "t1": 33.166,
+   "txt": "counted down from"
+  },
+  {
+   "t0": 33.166,
+   "t1": 34.356,
+   "txt": "weird to weirdest."
+  },
+  {
+   "t0": 34.707,
+   "t1": 35.581,
+   "txt": "Number ten."
+  },
+  {
+   "t0": 35.861,
+   "t1": 37.099,
+   "txt": "The bacon problem."
+  },
+  {
+   "t0": 37.45,
+   "t1": 38.073,
+   "txt": "Here is a"
+  },
+  {
+   "t0": 38.073,
+   "t1": 38.835,
+   "txt": "frying pan,"
+  },
+  {
+   "t0": 38.835,
+   "t1": 39.596,
+   "txt": "some bacon,"
+  },
+  {
+   "t0": 39.596,
+   "t1": 40.427,
+   "txt": "and a paddle"
+  },
+  {
+   "t0": 40.427,
+   "t1": 41.258,
+   "txt": "lying on top"
+  },
+  {
+   "t0": 41.258,
+   "t1": 41.674,
+   "txt": "of it."
+  },
+  {
+   "t0": 42.025,
+   "t1": 42.634,
+   "txt": "The enemy,"
+  },
+  {
+   "t0": 42.634,
+   "t1": 43.608,
+   "txt": "according to the"
+  },
+  {
+   "t0": 43.608,
+   "t1": 44.034,
+   "txt": "patent,"
+  },
+  {
+   "t0": 44.034,
+   "t1": 44.887,
+   "txt": "is the curling"
+  },
+  {
+   "t0": 44.887,
+   "t1": 45.8,
+   "txt": "and crimping of"
+  },
+  {
+   "t0": 45.8,
+   "t1": 46.957,
+   "txt": "bacon strips during"
+  },
+  {
+   "t0": 46.957,
+   "t1": 48.297,
+   "txt": "the cooking operation."
+  },
+  {
+   "t0": 48.648,
+   "t1": 49.395,
+   "txt": "So the paddle"
+  },
+  {
+   "t0": 49.395,
+   "t1": 49.913,
+   "txt": "is a flat"
+  },
+  {
+   "t0": 49.913,
+   "t1": 50.603,
+   "txt": "metal plate,"
+  },
+  {
+   "t0": 50.603,
+   "t1": 51.523,
+   "txt": "called a platen,"
+  },
+  {
+   "t0": 51.523,
+   "t1": 52.271,
+   "txt": "with a weight"
+  },
+  {
+   "t0": 52.271,
+   "t1": 52.616,
+   "txt": "on it."
+  },
+  {
+   "t0": 52.896,
+   "t1": 53.754,
+   "txt": "The bent handle"
+  },
+  {
+   "t0": 53.754,
+   "t1": 54.441,
+   "txt": "rests on the"
+  },
+  {
+   "t0": 54.441,
+   "t1": 55.013,
+   "txt": "rim of the"
+  },
+  {
+   "t0": 55.013,
+   "t1": 55.242,
+   "txt": "pan."
+  },
+  {
+   "t0": 55.593,
+   "t1": 56.196,
+   "txt": "And then it"
+  },
+  {
+   "t0": 56.196,
+   "t1": 57.073,
+   "txt": "just sits there,"
+  },
+  {
+   "t0": 57.073,
+   "t1": 57.95,
+   "txt": "under the action"
+  },
+  {
+   "t0": 57.95,
+   "t1": 58.717,
+   "txt": "of the weight,"
+  },
+  {
+   "t0": 58.717,
+   "t1": 59.758,
+   "txt": "so that substantial"
+  },
+  {
+   "t0": 59.758,
+   "t1": 60.854,
+   "txt": "pressure is supplied"
+  },
+  {
+   "t0": 60.854,
+   "t1": 61.567,
+   "txt": "to the bacon."
+  },
+  {
+   "t0": 61.918,
+   "t1": 62.583,
+   "txt": "The payoff,"
+  },
+  {
+   "t0": 62.583,
+   "t1": 63.067,
+   "txt": "it says,"
+  },
+  {
+   "t0": 63.067,
+   "t1": 63.673,
+   "txt": "is that it"
+  },
+  {
+   "t0": 63.673,
+   "t1": 64.883,
+   "txt": "permits cooking from"
+  },
+  {
+   "t0": 64.883,
+   "t1": 65.67,
+   "txt": "both sides at"
+  },
+  {
+   "t0": 65.67,
+   "t1": 66.456,
+   "txt": "the same time"
+  },
+  {
+   "t0": 66.456,
+   "t1": 67.364,
+   "txt": "and with better"
+  },
+  {
+   "t0": 67.364,
+   "t1": 67.848,
+   "txt": "contact."
+  },
+  {
+   "t0": 68.199,
+   "t1": 69.382,
+   "txt": "A paperweight for"
+  },
+  {
+   "t0": 69.382,
+   "t1": 69.799,
+   "txt": "bacon."
+  },
+  {
+   "t0": 70.299,
+   "t1": 71.53,
+   "txt": "Filed in nineteen"
+  },
+  {
+   "t0": 71.53,
+   "t1": 72.326,
+   "txt": "forty-five."
+  },
+  {
+   "t0": 72.826,
+   "t1": 73.926,
+   "txt": "And approved on"
+  },
+  {
+   "t0": 73.926,
+   "t1": 74.879,
+   "txt": "the Fourth of"
+  },
+  {
+   "t0": 74.879,
+   "t1": 75.246,
+   "txt": "July,"
+  },
+  {
+   "t0": 75.246,
+   "t1": 76.346,
+   "txt": "nineteen fifty."
+  },
+  {
+   "t0": 76.797,
+   "t1": 77.629,
+   "txt": "Number nine."
+  },
+  {
+   "t0": 77.909,
+   "t1": 78.556,
+   "txt": "An egg cup"
+  },
+  {
+   "t0": 78.556,
+   "t1": 79.332,
+   "txt": "with an exit"
+  },
+  {
+   "t0": 79.332,
+   "t1": 79.914,
+   "txt": "strategy."
+  },
+  {
+   "t0": 80.265,
+   "t1": 81.179,
+   "txt": "It starts like"
+  },
+  {
+   "t0": 81.179,
+   "t1": 82.159,
+   "txt": "an ordinary egg"
+  },
+  {
+   "t0": 82.159,
+   "t1": 82.42,
+   "txt": "cup."
+  },
+  {
+   "t0": 82.7,
+   "t1": 83.935,
+   "txt": "My invention relates"
+  },
+  {
+   "t0": 83.935,
+   "t1": 85.046,
+   "txt": "to improvements in"
+  },
+  {
+   "t0": 85.046,
+   "t1": 85.601,
+   "txt": "egg-cups."
+  },
+  {
+   "t0": 85.952,
+   "t1": 86.612,
+   "txt": "The top is"
+  },
+  {
+   "t0": 86.612,
+   "t1": 87.601,
+   "txt": "a little basket"
+  },
+  {
+   "t0": 87.601,
+   "t1": 88.854,
+   "txt": "of flexible strips."
+  },
+  {
+   "t0": 89.134,
+   "t1": 89.871,
+   "txt": "A ring slides"
+  },
+  {
+   "t0": 89.871,
+   "t1": 90.722,
+   "txt": "up and squeezes"
+  },
+  {
+   "t0": 90.722,
+   "t1": 91.573,
+   "txt": "them around the"
+  },
+  {
+   "t0": 91.573,
+   "t1": 91.8,
+   "txt": "egg."
+  },
+  {
+   "t0": 92.151,
+   "t1": 92.836,
+   "txt": "But the real"
+  },
+  {
+   "t0": 92.836,
+   "t1": 93.863,
+   "txt": "problem came after"
+  },
+  {
+   "t0": 93.863,
+   "t1": 94.434,
+   "txt": "breakfast."
+  },
+  {
+   "t0": 94.714,
+   "t1": 95.51,
+   "txt": "The removal of"
+  },
+  {
+   "t0": 95.51,
+   "t1": 96.421,
+   "txt": "the egg-shell is"
+  },
+  {
+   "t0": 96.421,
+   "t1": 97.957,
+   "txt": "often somewhat troublesome."
+  },
+  {
+   "t0": 98.308,
+   "t1": 98.993,
+   "txt": "So look down"
+  },
+  {
+   "t0": 98.993,
+   "t1": 99.908,
+   "txt": "the hollow stem."
+  },
+  {
+   "t0": 100.188,
+   "t1": 100.767,
+   "txt": "There is a"
+  },
+  {
+   "t0": 100.767,
+   "t1": 100.998,
+   "txt": "rod,"
+  },
+  {
+   "t0": 100.998,
+   "t1": 101.519,
+   "txt": "a spring,"
+  },
+  {
+   "t0": 101.519,
+   "t1": 102.214,
+   "txt": "and a button"
+  },
+  {
+   "t0": 102.214,
+   "t1": 103.025,
+   "txt": "at the bottom."
+  },
+  {
+   "t0": 103.376,
+   "t1": 104.359,
+   "txt": "Press the button,"
+  },
+  {
+   "t0": 104.359,
+   "t1": 105.341,
+   "txt": "and the egg-shell"
+  },
+  {
+   "t0": 105.341,
+   "t1": 106.497,
+   "txt": "is afterward ejected"
+  },
+  {
+   "t0": 106.497,
+   "t1": 107.248,
+   "txt": "by the upward"
+  },
+  {
+   "t0": 107.248,
+   "t1": 108.0,
+   "txt": "pressure of a"
+  },
+  {
+   "t0": 108.0,
+   "t1": 108.347,
+   "txt": "plate."
+  },
+  {
+   "t0": 108.698,
+   "t1": 109.914,
+   "txt": "An ejector seat."
+  },
+  {
+   "t0": 110.414,
+   "t1": 111.267,
+   "txt": "For an empty"
+  },
+  {
+   "t0": 111.267,
+   "t1": 111.907,
+   "txt": "eggshell."
+  },
+  {
+   "t0": 112.407,
+   "t1": 112.978,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 112.978,
+   "t1": 114.946,
+   "txt": "December eighteen ninety-three."
+  },
+  {
+   "t0": 115.397,
+   "t1": 116.271,
+   "txt": "Number eight."
+  },
+  {
+   "t0": 116.551,
+   "t1": 117.446,
+   "txt": "Opening the egg,"
+  },
+  {
+   "t0": 117.446,
+   "t1": 118.173,
+   "txt": "the long way."
+  },
+  {
+   "t0": 118.524,
+   "t1": 119.515,
+   "txt": "The patent opens"
+  },
+  {
+   "t0": 119.515,
+   "t1": 120.444,
+   "txt": "with a promise."
+  },
+  {
+   "t0": 120.724,
+   "t1": 121.697,
+   "txt": "The purpose of"
+  },
+  {
+   "t0": 121.697,
+   "t1": 122.809,
+   "txt": "the invention is"
+  },
+  {
+   "t0": 122.809,
+   "t1": 123.643,
+   "txt": "to provide a"
+  },
+  {
+   "t0": 123.643,
+   "t1": 124.686,
+   "txt": "very simple and"
+  },
+  {
+   "t0": 124.686,
+   "t1": 126.007,
+   "txt": "economic device for"
+  },
+  {
+   "t0": 126.007,
+   "t1": 126.91,
+   "txt": "opening eggs."
+  },
+  {
+   "t0": 127.261,
+   "t1": 128.036,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 128.036,
+   "t1": 129.373,
+   "txt": "very simple device."
+  },
+  {
+   "t0": 129.874,
+   "t1": 130.737,
+   "txt": "Two halves on"
+  },
+  {
+   "t0": 130.737,
+   "t1": 131.268,
+   "txt": "a hinge,"
+  },
+  {
+   "t0": 131.268,
+   "t1": 132.065,
+   "txt": "like a clam,"
+  },
+  {
+   "t0": 132.065,
+   "t1": 132.927,
+   "txt": "with two long"
+  },
+  {
+   "t0": 132.927,
+   "t1": 133.458,
+   "txt": "handles."
+  },
+  {
+   "t0": 133.738,
+   "t1": 134.456,
+   "txt": "The egg sits"
+  },
+  {
+   "t0": 134.456,
+   "t1": 135.113,
+   "txt": "on a little"
+  },
+  {
+   "t0": 135.113,
+   "t1": 136.189,
+   "txt": "cradle with spurs,"
+  },
+  {
+   "t0": 136.189,
+   "t1": 137.205,
+   "txt": "adapted to pierce"
+  },
+  {
+   "t0": 137.205,
+   "t1": 137.923,
+   "txt": "the shell of"
+  },
+  {
+   "t0": 137.923,
+   "t1": 138.64,
+   "txt": "the egg laid"
+  },
+  {
+   "t0": 138.64,
+   "t1": 139.477,
+   "txt": "on the cradle."
+  },
+  {
+   "t0": 139.828,
+   "t1": 141.029,
+   "txt": "Squeeze the handles,"
+  },
+  {
+   "t0": 141.029,
+   "t1": 141.989,
+   "txt": "and toothed jaws"
+  },
+  {
+   "t0": 141.989,
+   "t1": 142.71,
+   "txt": "close in and"
+  },
+  {
+   "t0": 142.71,
+   "t1": 143.61,
+   "txt": "crack the shell"
+  },
+  {
+   "t0": 143.61,
+   "t1": 144.031,
+   "txt": "in two."
+  },
+  {
+   "t0": 144.382,
+   "t1": 145.354,
+   "txt": "Then open it"
+  },
+  {
+   "t0": 145.354,
+   "t1": 145.598,
+   "txt": "up."
+  },
+  {
+   "t0": 145.878,
+   "t1": 146.759,
+   "txt": "The egg falls"
+  },
+  {
+   "t0": 146.759,
+   "t1": 147.03,
+   "txt": "out."
+  },
+  {
+   "t0": 147.31,
+   "t1": 148.14,
+   "txt": "And the springs"
+  },
+  {
+   "t0": 148.14,
+   "t1": 148.748,
+   "txt": "do one last"
+  },
+  {
+   "t0": 148.748,
+   "t1": 149.08,
+   "txt": "thing."
+  },
+  {
+   "t0": 149.36,
+   "t1": 150.087,
+   "txt": "They throw off"
+  },
+  {
+   "t0": 150.087,
+   "t1": 150.918,
+   "txt": "the empty shell."
+  },
+  {
+   "t0": 151.269,
+   "t1": 151.719,
+   "txt": "Spurs,"
+  },
+  {
+   "t0": 151.719,
+   "t1": 152.094,
+   "txt": "jaws,"
+  },
+  {
+   "t0": 152.094,
+   "t1": 153.594,
+   "txt": "latches and springs."
+  },
+  {
+   "t0": 154.094,
+   "t1": 155.182,
+   "txt": "Very simple."
+  },
+  {
+   "t0": 155.682,
+   "t1": 157.047,
+   "txt": "Very economic."
+  },
+  {
+   "t0": 157.547,
+   "t1": 158.13,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 158.13,
+   "t1": 159.297,
+   "txt": "nineteen oh eight."
+  },
+  {
+   "t0": 159.748,
+   "t1": 160.665,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 160.945,
+   "t1": 161.688,
+   "txt": "The egg timer"
+  },
+  {
+   "t0": 161.688,
+   "t1": 162.374,
+   "txt": "is a bucket."
+  },
+  {
+   "t0": 162.725,
+   "t1": 163.491,
+   "txt": "This is one"
+  },
+  {
+   "t0": 163.491,
+   "t1": 164.048,
+   "txt": "machine."
+  },
+  {
+   "t0": 164.468,
+   "t1": 165.663,
+   "txt": "It boils eggs."
+  },
+  {
+   "t0": 166.164,
+   "t1": 166.999,
+   "txt": "At the bottom,"
+  },
+  {
+   "t0": 166.999,
+   "t1": 167.715,
+   "txt": "the eggs sit"
+  },
+  {
+   "t0": 167.715,
+   "t1": 168.371,
+   "txt": "in a basket"
+  },
+  {
+   "t0": 168.371,
+   "t1": 169.385,
+   "txt": "in boiling water."
+  },
+  {
+   "t0": 169.665,
+   "t1": 170.598,
+   "txt": "The basket hangs"
+  },
+  {
+   "t0": 170.598,
+   "t1": 171.297,
+   "txt": "from a chain"
+  },
+  {
+   "t0": 171.297,
+   "t1": 171.996,
+   "txt": "that runs up"
+  },
+  {
+   "t0": 171.996,
+   "t1": 172.579,
+   "txt": "and over a"
+  },
+  {
+   "t0": 172.579,
+   "t1": 172.929,
+   "txt": "wheel."
+  },
+  {
+   "t0": 173.28,
+   "t1": 173.981,
+   "txt": "On the other"
+  },
+  {
+   "t0": 173.981,
+   "t1": 174.566,
+   "txt": "end of the"
+  },
+  {
+   "t0": 174.566,
+   "t1": 175.208,
+   "txt": "chain is an"
+  },
+  {
+   "t0": 175.208,
+   "t1": 175.968,
+   "txt": "empty bucket."
+  },
+  {
+   "t0": 176.248,
+   "t1": 177.03,
+   "txt": "And above it,"
+  },
+  {
+   "t0": 177.03,
+   "t1": 177.692,
+   "txt": "a tank runs"
+  },
+  {
+   "t0": 177.692,
+   "t1": 178.474,
+   "txt": "a thin stream"
+  },
+  {
+   "t0": 178.474,
+   "t1": 179.256,
+   "txt": "of water into"
+  },
+  {
+   "t0": 179.256,
+   "t1": 179.917,
+   "txt": "the bucket."
+  },
+  {
+   "t0": 180.268,
+   "t1": 181.036,
+   "txt": "You choose the"
+  },
+  {
+   "t0": 181.036,
+   "t1": 181.859,
+   "txt": "cooking time by"
+  },
+  {
+   "t0": 181.859,
+   "t1": 182.956,
+   "txt": "choosing the nozzle."
+  },
+  {
+   "t0": 183.236,
+   "t1": 184.233,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 184.233,
+   "t1": 185.362,
+   "txt": "the same quantity"
+  },
+  {
+   "t0": 185.362,
+   "t1": 186.159,
+   "txt": "of water may"
+  },
+  {
+   "t0": 186.159,
+   "t1": 187.288,
+   "txt": "discharge in two,"
+  },
+  {
+   "t0": 187.288,
+   "t1": 187.687,
+   "txt": "three,"
+  },
+  {
+   "t0": 187.687,
+   "t1": 188.019,
+   "txt": "four,"
+  },
+  {
+   "t0": 188.019,
+   "t1": 189.082,
+   "txt": "and six minutes."
+  },
+  {
+   "t0": 189.433,
+   "t1": 190.182,
+   "txt": "At first the"
+  },
+  {
+   "t0": 190.182,
+   "t1": 191.244,
+   "txt": "eggs are heavier,"
+  },
+  {
+   "t0": 191.244,
+   "t1": 191.931,
+   "txt": "and so long"
+  },
+  {
+   "t0": 191.931,
+   "t1": 192.868,
+   "txt": "as this remains"
+  },
+  {
+   "t0": 192.868,
+   "t1": 193.618,
+   "txt": "the case the"
+  },
+  {
+   "t0": 193.618,
+   "t1": 194.992,
+   "txt": "egg-basket will remain"
+  },
+  {
+   "t0": 194.992,
+   "t1": 195.491,
+   "txt": "lowered."
+  },
+  {
+   "t0": 195.842,
+   "t1": 196.587,
+   "txt": "And when the"
+  },
+  {
+   "t0": 196.587,
+   "t1": 197.518,
+   "txt": "bucket with its"
+  },
+  {
+   "t0": 197.518,
+   "t1": 199.007,
+   "txt": "contents becomes heavier"
+  },
+  {
+   "t0": 199.007,
+   "t1": 200.186,
+   "txt": "than the egg-basket"
+  },
+  {
+   "t0": 200.186,
+   "t1": 201.241,
+   "txt": "and its contents,"
+  },
+  {
+   "t0": 201.241,
+   "t1": 202.171,
+   "txt": "the bucket goes"
+  },
+  {
+   "t0": 202.171,
+   "t1": 202.481,
+   "txt": "down,"
+  },
+  {
+   "t0": 202.481,
+   "t1": 203.288,
+   "txt": "the eggs come"
+  },
+  {
+   "t0": 203.288,
+   "t1": 203.474,
+   "txt": "up,"
+  },
+  {
+   "t0": 203.474,
+   "t1": 204.281,
+   "txt": "and the water"
+  },
+  {
+   "t0": 204.281,
+   "t1": 205.336,
+   "txt": "shuts itself off."
+  },
+  {
+   "t0": 205.687,
+   "t1": 206.732,
+   "txt": "Each valve even"
+  },
+  {
+   "t0": 206.732,
+   "t1": 207.43,
+   "txt": "has stops,"
+  },
+  {
+   "t0": 207.43,
+   "t1": 208.475,
+   "txt": "so the operator"
+  },
+  {
+   "t0": 208.475,
+   "t1": 209.521,
+   "txt": "always knows to"
+  },
+  {
+   "t0": 209.521,
+   "t1": 210.637,
+   "txt": "a certainty that"
+  },
+  {
+   "t0": 210.637,
+   "t1": 211.473,
+   "txt": "the valve is"
+  },
+  {
+   "t0": 211.473,
+   "t1": 212.449,
+   "txt": "correctly set."
+  },
+  {
+   "t0": 212.95,
+   "t1": 214.145,
+   "txt": "A plumbing tower."
+  },
+  {
+   "t0": 214.645,
+   "t1": 215.498,
+   "txt": "To boil an"
+  },
+  {
+   "t0": 215.498,
+   "t1": 215.84,
+   "txt": "egg."
+  },
+  {
+   "t0": 216.34,
+   "t1": 216.94,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 216.94,
+   "t1": 219.006,
+   "txt": "September eighteen ninety-five."
+  },
+  {
+   "t0": 219.457,
+   "t1": 220.353,
+   "txt": "Number six."
+  },
+  {
+   "t0": 220.633,
+   "t1": 221.487,
+   "txt": "The alarm clock"
+  },
+  {
+   "t0": 221.487,
+   "t1": 222.511,
+   "txt": "that makes coffee."
+  },
+  {
+   "t0": 222.862,
+   "t1": 223.589,
+   "txt": "Clock at the"
+  },
+  {
+   "t0": 223.589,
+   "t1": 224.014,
+   "txt": "bottom."
+  },
+  {
+   "t0": 224.294,
+   "t1": 224.987,
+   "txt": "Coffee pot in"
+  },
+  {
+   "t0": 224.987,
+   "t1": 225.574,
+   "txt": "the middle."
+  },
+  {
+   "t0": 225.854,
+   "t1": 226.651,
+   "txt": "A lamp on"
+  },
+  {
+   "t0": 226.651,
+   "t1": 227.006,
+   "txt": "top."
+  },
+  {
+   "t0": 227.357,
+   "t1": 227.921,
+   "txt": "The goal:"
+  },
+  {
+   "t0": 227.921,
+   "t1": 228.798,
+   "txt": "a clock having"
+  },
+  {
+   "t0": 228.798,
+   "t1": 229.801,
+   "txt": "means adapted to"
+  },
+  {
+   "t0": 229.801,
+   "t1": 230.616,
+   "txt": "give an alarm"
+  },
+  {
+   "t0": 230.616,
+   "t1": 231.118,
+   "txt": "at a set"
+  },
+  {
+   "t0": 231.118,
+   "t1": 231.431,
+   "txt": "hour."
+  },
+  {
+   "t0": 231.782,
+   "t1": 232.489,
+   "txt": "And at that"
+  },
+  {
+   "t0": 232.489,
+   "t1": 232.81,
+   "txt": "hour,"
+  },
+  {
+   "t0": 232.81,
+   "t1": 233.516,
+   "txt": "the lamp is"
+  },
+  {
+   "t0": 233.516,
+   "t1": 234.287,
+   "txt": "illuminated,"
+  },
+  {
+   "t0": 234.287,
+   "t1": 235.507,
+   "txt": "and the preparation"
+  },
+  {
+   "t0": 235.507,
+   "t1": 236.342,
+   "txt": "of the coffee"
+  },
+  {
+   "t0": 236.342,
+   "t1": 237.241,
+   "txt": "is started and"
+  },
+  {
+   "t0": 237.241,
+   "t1": 237.884,
+   "txt": "continues."
+  },
+  {
+   "t0": 238.235,
+   "t1": 239.161,
+   "txt": "The coffee pours"
+  },
+  {
+   "t0": 239.161,
+   "t1": 239.74,
+   "txt": "into a cup"
+  },
+  {
+   "t0": 239.74,
+   "t1": 240.377,
+   "txt": "on a little"
+  },
+  {
+   "t0": 240.377,
+   "t1": 240.667,
+   "txt": "tray."
+  },
+  {
+   "t0": 240.947,
+   "t1": 241.581,
+   "txt": "And the tray"
+  },
+  {
+   "t0": 241.581,
+   "t1": 242.057,
+   "txt": "sits on a"
+  },
+  {
+   "t0": 242.057,
+   "t1": 242.375,
+   "txt": "lever,"
+  },
+  {
+   "t0": 242.375,
+   "t1": 243.485,
+   "txt": "with a counterweight."
+  },
+  {
+   "t0": 243.836,
+   "t1": 244.55,
+   "txt": "When the cup"
+  },
+  {
+   "t0": 244.55,
+   "t1": 245.324,
+   "txt": "is about full"
+  },
+  {
+   "t0": 245.324,
+   "t1": 245.919,
+   "txt": "of coffee,"
+  },
+  {
+   "t0": 245.919,
+   "t1": 246.812,
+   "txt": "its weight tips"
+  },
+  {
+   "t0": 246.812,
+   "t1": 247.466,
+   "txt": "a lever and"
+  },
+  {
+   "t0": 247.466,
+   "t1": 248.359,
+   "txt": "cuts the power."
+  },
+  {
+   "t0": 248.71,
+   "t1": 249.348,
+   "txt": "And then,"
+  },
+  {
+   "t0": 249.348,
+   "t1": 250.836,
+   "txt": "the coffee percolator"
+  },
+  {
+   "t0": 250.836,
+   "t1": 252.04,
+   "txt": "ceases operation,"
+  },
+  {
+   "t0": 252.04,
+   "t1": 252.89,
+   "txt": "the light of"
+  },
+  {
+   "t0": 252.89,
+   "t1": 253.811,
+   "txt": "the lamp goes"
+  },
+  {
+   "t0": 253.811,
+   "t1": 254.095,
+   "txt": "out,"
+  },
+  {
+   "t0": 254.095,
+   "t1": 254.945,
+   "txt": "the alarm is"
+  },
+  {
+   "t0": 254.945,
+   "t1": 256.078,
+   "txt": "sounded a second"
+  },
+  {
+   "t0": 256.078,
+   "t1": 256.433,
+   "txt": "time."
+  },
+  {
+   "t0": 256.884,
+   "t1": 257.684,
+   "txt": "One alarm to"
+  },
+  {
+   "t0": 257.684,
+   "t1": 258.484,
+   "txt": "wake you up."
+  },
+  {
+   "t0": 258.984,
+   "t1": 259.839,
+   "txt": "A second alarm"
+  },
+  {
+   "t0": 259.839,
+   "t1": 260.511,
+   "txt": "to tell you"
+  },
+  {
+   "t0": 260.511,
+   "t1": 261.305,
+   "txt": "the coffee is"
+  },
+  {
+   "t0": 261.305,
+   "t1": 261.672,
+   "txt": "ready."
+  },
+  {
+   "t0": 262.172,
+   "t1": 262.786,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 262.786,
+   "t1": 264.22,
+   "txt": "nineteen twenty-four."
+  },
+  {
+   "t0": 264.671,
+   "t1": 265.631,
+   "txt": "Number five."
+  },
+  {
+   "t0": 265.911,
+   "t1": 266.316,
+   "txt": "Toast,"
+  },
+  {
+   "t0": 266.316,
+   "t1": 267.127,
+   "txt": "with a fall."
+  },
+  {
+   "t0": 267.478,
+   "t1": 268.764,
+   "txt": "Earlier toasters that"
+  },
+  {
+   "t0": 268.764,
+   "t1": 269.928,
+   "txt": "buttered the toast,"
+  },
+  {
+   "t0": 269.928,
+   "t1": 270.908,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 270.908,
+   "t1": 271.766,
+   "txt": "had a problem."
+  },
+  {
+   "t0": 272.046,
+   "t1": 273.285,
+   "txt": "Extra shortening could"
+  },
+  {
+   "t0": 273.285,
+   "t1": 274.074,
+   "txt": "drip down into"
+  },
+  {
+   "t0": 274.074,
+   "t1": 275.427,
+   "txt": "the heating compartment,"
+  },
+  {
+   "t0": 275.427,
+   "t1": 276.103,
+   "txt": "where it may"
+  },
+  {
+   "t0": 276.103,
+   "t1": 276.836,
+   "txt": "be baked onto"
+  },
+  {
+   "t0": 276.836,
+   "t1": 278.019,
+   "txt": "the heating elements."
+  },
+  {
+   "t0": 278.37,
+   "t1": 279.034,
+   "txt": "So this is"
+  },
+  {
+   "t0": 279.034,
+   "t1": 279.565,
+   "txt": "a tower."
+  },
+  {
+   "t0": 279.845,
+   "t1": 280.575,
+   "txt": "The bread goes"
+  },
+  {
+   "t0": 280.575,
+   "t1": 281.045,
+   "txt": "in at the"
+  },
+  {
+   "t0": 281.045,
+   "t1": 281.776,
+   "txt": "top and toasts"
+  },
+  {
+   "t0": 281.776,
+   "t1": 282.298,
+   "txt": "on a fork."
+  },
+  {
+   "t0": 282.649,
+   "t1": 283.417,
+   "txt": "Then a timer"
+  },
+  {
+   "t0": 283.417,
+   "t1": 284.313,
+   "txt": "pulls the fork"
+  },
+  {
+   "t0": 284.313,
+   "t1": 284.633,
+   "txt": "away."
+  },
+  {
+   "t0": 285.053,
+   "t1": 285.929,
+   "txt": "And the toast"
+  },
+  {
+   "t0": 285.929,
+   "t1": 286.333,
+   "txt": "falls."
+  },
+  {
+   "t0": 286.834,
+   "t1": 287.478,
+   "txt": "On the way"
+  },
+  {
+   "t0": 287.478,
+   "t1": 287.801,
+   "txt": "down,"
+  },
+  {
+   "t0": 287.801,
+   "t1": 288.638,
+   "txt": "a pump sprays"
+  },
+  {
+   "t0": 288.638,
+   "t1": 289.54,
+   "txt": "it with melted"
+  },
+  {
+   "t0": 289.54,
+   "t1": 289.991,
+   "txt": "butter."
+  },
+  {
+   "t0": 290.271,
+   "t1": 291.028,
+   "txt": "And a blade,"
+  },
+  {
+   "t0": 291.028,
+   "t1": 291.721,
+   "txt": "driven by a"
+  },
+  {
+   "t0": 291.721,
+   "t1": 292.099,
+   "txt": "chain,"
+  },
+  {
+   "t0": 292.099,
+   "t1": 292.73,
+   "txt": "cuts it in"
+  },
+  {
+   "t0": 292.73,
+   "t1": 293.045,
+   "txt": "half."
+  },
+  {
+   "t0": 293.396,
+   "t1": 294.288,
+   "txt": "In the patent's"
+  },
+  {
+   "t0": 294.288,
+   "t1": 294.645,
+   "txt": "words,"
+  },
+  {
+   "t0": 294.645,
+   "t1": 295.538,
+   "txt": "the toast slice"
+  },
+  {
+   "t0": 295.538,
+   "t1": 296.43,
+   "txt": "is buttered and"
+  },
+  {
+   "t0": 296.43,
+   "t1": 297.144,
+   "txt": "sliced as it"
+  },
+  {
+   "t0": 297.144,
+   "t1": 298.572,
+   "txt": "falls downwardly through"
+  },
+  {
+   "t0": 298.572,
+   "t1": 299.881,
+   "txt": "the lower compartment."
+  },
+  {
+   "t0": 300.232,
+   "t1": 301.067,
+   "txt": "And cleaning the"
+  },
+  {
+   "t0": 301.067,
+   "t1": 301.955,
+   "txt": "butter sprayer is"
+  },
+  {
+   "t0": 301.955,
+   "t1": 302.216,
+   "txt": "easy."
+  },
+  {
+   "t0": 302.496,
+   "t1": 303.666,
+   "txt": "The apparatus then"
+  },
+  {
+   "t0": 303.666,
+   "t1": 304.642,
+   "txt": "cycled a couple"
+  },
+  {
+   "t0": 304.642,
+   "t1": 305.357,
+   "txt": "of times to"
+  },
+  {
+   "t0": 305.357,
+   "t1": 306.397,
+   "txt": "spray warm soapy"
+  },
+  {
+   "t0": 306.397,
+   "t1": 307.502,
+   "txt": "water through the"
+  },
+  {
+   "t0": 307.502,
+   "t1": 307.957,
+   "txt": "nozzle."
+  },
+  {
+   "t0": 308.308,
+   "t1": 309.146,
+   "txt": "A drop tower"
+  },
+  {
+   "t0": 309.146,
+   "t1": 309.844,
+   "txt": "for toast."
+  },
+  {
+   "t0": 310.344,
+   "t1": 310.97,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 310.97,
+   "t1": 312.776,
+   "txt": "June nineteen seventy-two."
+  },
+  {
+   "t0": 313.227,
+   "t1": 314.145,
+   "txt": "Number four."
+  },
+  {
+   "t0": 314.425,
+   "t1": 315.79,
+   "txt": "The pancake robot."
+  },
+  {
+   "t0": 316.141,
+   "t1": 316.953,
+   "txt": "This is a"
+  },
+  {
+   "t0": 316.953,
+   "t1": 317.314,
+   "txt": "box."
+  },
+  {
+   "t0": 317.594,
+   "t1": 318.406,
+   "txt": "It makes three"
+  },
+  {
+   "t0": 318.406,
+   "t1": 319.16,
+   "txt": "pancakes at a"
+  },
+  {
+   "t0": 319.16,
+   "t1": 319.45,
+   "txt": "time."
+  },
+  {
+   "t0": 319.801,
+   "t1": 320.761,
+   "txt": "Why build it?"
+  },
+  {
+   "t0": 321.041,
+   "t1": 322.091,
+   "txt": "Because pancakes,"
+  },
+  {
+   "t0": 322.091,
+   "t1": 323.326,
+   "txt": "the patent explains,"
+  },
+  {
+   "t0": 323.326,
+   "t1": 324.005,
+   "txt": "need a much"
+  },
+  {
+   "t0": 324.005,
+   "t1": 325.055,
+   "txt": "hotter grill than"
+  },
+  {
+   "t0": 325.055,
+   "t1": 326.289,
+   "txt": "other grilled foods."
+  },
+  {
+   "t0": 326.569,
+   "t1": 327.23,
+   "txt": "And in many"
+  },
+  {
+   "t0": 327.23,
+   "t1": 328.492,
+   "txt": "restaurants where the"
+  },
+  {
+   "t0": 328.492,
+   "t1": 329.814,
+   "txt": "cooking grille surface"
+  },
+  {
+   "t0": 329.814,
+   "t1": 331.075,
+   "txt": "is zealously guarded,"
+  },
+  {
+   "t0": 331.075,
+   "t1": 332.037,
+   "txt": "pancakes are not"
+  },
+  {
+   "t0": 332.037,
+   "t1": 332.457,
+   "txt": "served."
+  },
+  {
+   "t0": 332.808,
+   "t1": 334.201,
+   "txt": "Its job description:"
+  },
+  {
+   "t0": 334.201,
+   "t1": 335.734,
+   "txt": "automatically cooking,"
+  },
+  {
+   "t0": 335.734,
+   "t1": 336.36,
+   "txt": "flipping,"
+  },
+  {
+   "t0": 336.36,
+   "t1": 338.31,
+   "txt": "monogramming and discharging"
+  },
+  {
+   "t0": 338.31,
+   "t1": 339.286,
+   "txt": "a plurality of"
+  },
+  {
+   "t0": 339.286,
+   "t1": 339.912,
+   "txt": "pancakes."
+  },
+  {
+   "t0": 340.263,
+   "t1": 341.245,
+   "txt": "Monogramming."
+  },
+  {
+   "t0": 341.665,
+   "t1": 342.533,
+   "txt": "Look closely at"
+  },
+  {
+   "t0": 342.533,
+   "t1": 343.286,
+   "txt": "the drawings."
+  },
+  {
+   "t0": 343.706,
+   "t1": 344.624,
+   "txt": "The pancakes say"
+  },
+  {
+   "t0": 344.624,
+   "t1": 345.37,
+   "txt": "good morning."
+  },
+  {
+   "t0": 345.871,
+   "t1": 346.751,
+   "txt": "A pump squeezes"
+  },
+  {
+   "t0": 346.751,
+   "t1": 347.807,
+   "txt": "the batter through"
+  },
+  {
+   "t0": 347.807,
+   "t1": 348.57,
+   "txt": "rubber tubes,"
+  },
+  {
+   "t0": 348.57,
+   "t1": 349.45,
+   "txt": "to dispense the"
+  },
+  {
+   "t0": 349.45,
+   "t1": 350.271,
+   "txt": "batter out the"
+  },
+  {
+   "t0": 350.271,
+   "t1": 351.503,
+   "txt": "exit like toothpaste."
+  },
+  {
+   "t0": 351.854,
+   "t1": 352.715,
+   "txt": "Then a second"
+  },
+  {
+   "t0": 352.715,
+   "t1": 353.775,
+   "txt": "hot plate swings"
+  },
+  {
+   "t0": 353.775,
+   "t1": 354.106,
+   "txt": "over,"
+  },
+  {
+   "t0": 354.106,
+   "t1": 354.835,
+   "txt": "helped by a"
+  },
+  {
+   "t0": 354.835,
+   "t1": 355.829,
+   "txt": "falling weight,"
+  },
+  {
+   "t0": 355.829,
+   "t1": 356.624,
+   "txt": "and locks on"
+  },
+  {
+   "t0": 356.624,
+   "t1": 356.889,
+   "txt": "top."
+  },
+  {
+   "t0": 357.169,
+   "t1": 357.893,
+   "txt": "The two plates"
+  },
+  {
+   "t0": 357.893,
+   "t1": 358.875,
+   "txt": "turn over together."
+  },
+  {
+   "t0": 359.155,
+   "t1": 360.108,
+   "txt": "The pancakes are"
+  },
+  {
+   "t0": 360.108,
+   "t1": 360.585,
+   "txt": "flipped."
+  },
+  {
+   "t0": 360.936,
+   "t1": 362.386,
+   "txt": "The patent's favorite"
+  },
+  {
+   "t0": 362.386,
+   "t1": 362.938,
+   "txt": "feature:"
+  },
+  {
+   "t0": 362.938,
+   "t1": 364.25,
+   "txt": "total entrapment of"
+  },
+  {
+   "t0": 364.25,
+   "t1": 366.114,
+   "txt": "half-cooked pancakes during"
+  },
+  {
+   "t0": 366.114,
+   "t1": 367.219,
+   "txt": "all flipping and"
+  },
+  {
+   "t0": 367.219,
+   "t1": 368.53,
+   "txt": "transfer exercises."
+  },
+  {
+   "t0": 368.981,
+   "t1": 369.8,
+   "txt": "Then the plate"
+  },
+  {
+   "t0": 369.8,
+   "t1": 370.151,
+   "txt": "tilts,"
+  },
+  {
+   "t0": 370.151,
+   "t1": 371.088,
+   "txt": "and the finished"
+  },
+  {
+   "t0": 371.088,
+   "t1": 372.141,
+   "txt": "pancakes slide out"
+  },
+  {
+   "t0": 372.141,
+   "t1": 372.843,
+   "txt": "into a tray."
+  },
+  {
+   "t0": 373.194,
+   "t1": 373.462,
+   "txt": "And,"
+  },
+  {
+   "t0": 373.462,
+   "t1": 374.534,
+   "txt": "the patent adds,"
+  },
+  {
+   "t0": 374.534,
+   "t1": 375.673,
+   "txt": "the apparatus can"
+  },
+  {
+   "t0": 375.673,
+   "t1": 376.343,
+   "txt": "be made to"
+  },
+  {
+   "t0": 376.343,
+   "t1": 377.482,
+   "txt": "be coin operated."
+  },
+  {
+   "t0": 377.983,
+   "t1": 379.187,
+   "txt": "Pancakes in total"
+  },
+  {
+   "t0": 379.187,
+   "t1": 379.967,
+   "txt": "entrapment."
+  },
+  {
+   "t0": 380.467,
+   "t1": 381.141,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 381.141,
+   "t1": 383.24,
+   "txt": "January nineteen ninety-six."
+  },
+  {
+   "t0": 383.691,
+   "t1": 384.608,
+   "txt": "Number three."
+  },
+  {
+   "t0": 384.888,
+   "t1": 386.138,
+   "txt": "The grapefruit arms"
+  },
+  {
+   "t0": 386.138,
+   "t1": 386.467,
+   "txt": "race."
+  },
+  {
+   "t0": 386.818,
+   "t1": 388.098,
+   "txt": "Nineteen nineteen."
+  },
+  {
+   "t0": 388.378,
+   "t1": 389.722,
+   "txt": "A problem everyone"
+  },
+  {
+   "t0": 389.722,
+   "t1": 390.17,
+   "txt": "knows."
+  },
+  {
+   "t0": 390.45,
+   "t1": 391.742,
+   "txt": "The manipulation of"
+  },
+  {
+   "t0": 391.742,
+   "t1": 392.762,
+   "txt": "a spoon therein"
+  },
+  {
+   "t0": 392.762,
+   "t1": 393.85,
+   "txt": "causes the juice"
+  },
+  {
+   "t0": 393.85,
+   "t1": 394.734,
+   "txt": "to be ejected"
+  },
+  {
+   "t0": 394.734,
+   "t1": 395.686,
+   "txt": "and sprayed to"
+  },
+  {
+   "t0": 395.686,
+   "t1": 396.978,
+   "txt": "great disadvantage."
+  },
+  {
+   "t0": 397.329,
+   "t1": 398.098,
+   "txt": "The answer is"
+  },
+  {
+   "t0": 398.098,
+   "t1": 398.63,
+   "txt": "a shield."
+  },
+  {
+   "t0": 398.91,
+   "t1": 399.439,
+   "txt": "A disk of"
+  },
+  {
+   "t0": 399.439,
+   "t1": 399.792,
+   "txt": "glass,"
+  },
+  {
+   "t0": 399.792,
+   "t1": 400.791,
+   "txt": "clamped onto half"
+  },
+  {
+   "t0": 400.791,
+   "t1": 401.556,
+   "txt": "a grapefruit."
+  },
+  {
+   "t0": 401.907,
+   "t1": 402.511,
+   "txt": "A hood on"
+  },
+  {
+   "t0": 402.511,
+   "t1": 403.249,
+   "txt": "top makes a"
+  },
+  {
+   "t0": 403.249,
+   "t1": 403.719,
+   "txt": "pocket,"
+  },
+  {
+   "t0": 403.719,
+   "t1": 404.256,
+   "txt": "so as to"
+  },
+  {
+   "t0": 404.256,
+   "t1": 405.129,
+   "txt": "form a pocket"
+  },
+  {
+   "t0": 405.129,
+   "t1": 406.001,
+   "txt": "under which a"
+  },
+  {
+   "t0": 406.001,
+   "t1": 407.411,
+   "txt": "spoon is manipulated."
+  },
+  {
+   "t0": 407.762,
+   "t1": 408.541,
+   "txt": "A finger ring"
+  },
+  {
+   "t0": 408.541,
+   "t1": 409.32,
+   "txt": "lets you hold"
+  },
+  {
+   "t0": 409.32,
+   "t1": 410.159,
+   "txt": "the shield and"
+  },
+  {
+   "t0": 410.159,
+   "t1": 410.998,
+   "txt": "the fruit with"
+  },
+  {
+   "t0": 410.998,
+   "t1": 411.538,
+   "txt": "one hand."
+  },
+  {
+   "t0": 411.889,
+   "t1": 412.764,
+   "txt": "And because it"
+  },
+  {
+   "t0": 412.764,
+   "t1": 413.326,
+   "txt": "is glass,"
+  },
+  {
+   "t0": 413.326,
+   "t1": 414.201,
+   "txt": "the eatable or"
+  },
+  {
+   "t0": 414.201,
+   "t1": 415.139,
+   "txt": "pulp portion of"
+  },
+  {
+   "t0": 415.139,
+   "t1": 415.889,
+   "txt": "the fruit is"
+  },
+  {
+   "t0": 415.889,
+   "t1": 416.951,
+   "txt": "visible by reason"
+  },
+  {
+   "t0": 416.951,
+   "t1": 418.139,
+   "txt": "of the transparency"
+  },
+  {
+   "t0": 418.139,
+   "t1": 419.014,
+   "txt": "of the shield."
+  },
+  {
+   "t0": 419.365,
+   "t1": 420.028,
+   "txt": "You eat your"
+  },
+  {
+   "t0": 420.028,
+   "t1": 421.133,
+   "txt": "grapefruit through a"
+  },
+  {
+   "t0": 421.133,
+   "t1": 421.52,
+   "txt": "window."
+  },
+  {
+   "t0": 422.02,
+   "t1": 422.638,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 422.638,
+   "t1": 424.494,
+   "txt": "December nineteen nineteen."
+  },
+  {
+   "t0": 424.945,
+   "t1": 425.753,
+   "txt": "And nine years"
+  },
+  {
+   "t0": 425.753,
+   "t1": 426.099,
+   "txt": "later,"
+  },
+  {
+   "t0": 426.099,
+   "t1": 427.138,
+   "txt": "the grapefruit got"
+  },
+  {
+   "t0": 427.138,
+   "t1": 427.484,
+   "txt": "a hat."
+  },
+  {
+   "t0": 427.764,
+   "t1": 428.56,
+   "txt": "A tall paper"
+  },
+  {
+   "t0": 428.56,
+   "t1": 428.891,
+   "txt": "hood,"
+  },
+  {
+   "t0": 428.891,
+   "t1": 429.886,
+   "txt": "pinned into the"
+  },
+  {
+   "t0": 429.886,
+   "t1": 430.217,
+   "txt": "rind."
+  },
+  {
+   "t0": 430.568,
+   "t1": 431.018,
+   "txt": "Its job:"
+  },
+  {
+   "t0": 431.018,
+   "t1": 432.424,
+   "txt": "preventing the spattering"
+  },
+  {
+   "t0": 432.424,
+   "t1": 433.099,
+   "txt": "of the juice"
+  },
+  {
+   "t0": 433.099,
+   "t1": 433.943,
+   "txt": "when eating the"
+  },
+  {
+   "t0": 433.943,
+   "t1": 434.28,
+   "txt": "fruit."
+  },
+  {
+   "t0": 434.56,
+   "t1": 435.204,
+   "txt": "Same war,"
+  },
+  {
+   "t0": 435.204,
+   "t1": 435.776,
+   "txt": "new hat."
+  },
+  {
+   "t0": 436.127,
+   "t1": 436.959,
+   "txt": "This one is"
+  },
+  {
+   "t0": 436.959,
+   "t1": 437.791,
+   "txt": "disposable."
+  },
+  {
+   "t0": 438.071,
+   "t1": 439.171,
+   "txt": "Thrown away after"
+  },
+  {
+   "t0": 439.171,
+   "t1": 440.013,
+   "txt": "a single use."
+  },
+  {
+   "t0": 440.364,
+   "t1": 441.212,
+   "txt": "And the hood,"
+  },
+  {
+   "t0": 441.212,
+   "t1": 442.322,
+   "txt": "the patent notes,"
+  },
+  {
+   "t0": 442.322,
+   "t1": 443.04,
+   "txt": "may be used"
+  },
+  {
+   "t0": 443.04,
+   "t1": 444.28,
+   "txt": "to bear advertising"
+  },
+  {
+   "t0": 444.28,
+   "t1": 444.737,
+   "txt": "matter."
+  },
+  {
+   "t0": 445.238,
+   "t1": 446.502,
+   "txt": "A grapefruit wearing"
+  },
+  {
+   "t0": 446.502,
+   "t1": 446.881,
+   "txt": "an ad."
+  },
+  {
+   "t0": 447.381,
+   "t1": 447.938,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 447.938,
+   "t1": 449.301,
+   "txt": "nineteen twenty-eight."
+  },
+  {
+   "t0": 449.752,
+   "t1": 450.626,
+   "txt": "Number two."
+  },
+  {
+   "t0": 450.906,
+   "t1": 452.122,
+   "txt": "The cereal slide."
+  },
+  {
+   "t0": 452.473,
+   "t1": 453.364,
+   "txt": "This patent takes"
+  },
+  {
+   "t0": 453.364,
+   "t1": 454.308,
+   "txt": "a strong position."
+  },
+  {
+   "t0": 454.588,
+   "t1": 455.648,
+   "txt": "Soggy cereal is"
+  },
+  {
+   "t0": 455.648,
+   "t1": 456.99,
+   "txt": "so undesirable that"
+  },
+  {
+   "t0": 456.99,
+   "t1": 458.12,
+   "txt": "many people will"
+  },
+  {
+   "t0": 458.12,
+   "t1": 458.897,
+   "txt": "not eat it."
+  },
+  {
+   "t0": 459.248,
+   "t1": 460.144,
+   "txt": "And cereal that"
+  },
+  {
+   "t0": 460.144,
+   "t1": 460.981,
+   "txt": "claims to stay"
+  },
+  {
+   "t0": 460.981,
+   "t1": 461.339,
+   "txt": "crisp?"
+  },
+  {
+   "t0": 461.619,
+   "t1": 462.484,
+   "txt": "It only slows"
+  },
+  {
+   "t0": 462.484,
+   "t1": 463.283,
+   "txt": "things down."
+  },
+  {
+   "t0": 463.563,
+   "t1": 464.832,
+   "txt": "The cereal eventually"
+  },
+  {
+   "t0": 464.832,
+   "t1": 466.102,
+   "txt": "becomes soggy anyway."
+  },
+  {
+   "t0": 466.453,
+   "t1": 466.897,
+   "txt": "It is a"
+  },
+  {
+   "t0": 466.897,
+   "t1": 468.103,
+   "txt": "particular problem,"
+  },
+  {
+   "t0": 468.103,
+   "t1": 469.119,
+   "txt": "the patent adds,"
+  },
+  {
+   "t0": 469.119,
+   "t1": 469.944,
+   "txt": "for those who"
+  },
+  {
+   "t0": 469.944,
+   "t1": 471.087,
+   "txt": "prefer a leisurely"
+  },
+  {
+   "t0": 471.087,
+   "t1": 471.722,
+   "txt": "breakfast."
+  },
+  {
+   "t0": 472.002,
+   "t1": 472.962,
+   "txt": "And many people"
+  },
+  {
+   "t0": 472.962,
+   "t1": 474.114,
+   "txt": "simply discard the"
+  },
+  {
+   "t0": 474.114,
+   "t1": 475.138,
+   "txt": "soggy cereal and"
+  },
+  {
+   "t0": 475.138,
+   "t1": 475.714,
+   "txt": "its milk,"
+  },
+  {
+   "t0": 475.714,
+   "t1": 476.482,
+   "txt": "which can be"
+  },
+  {
+   "t0": 476.482,
+   "t1": 477.762,
+   "txt": "wasteful and costly."
+  },
+  {
+   "t0": 478.113,
+   "t1": 478.86,
+   "txt": "So here is"
+  },
+  {
+   "t0": 478.86,
+   "t1": 479.457,
+   "txt": "the fix."
+  },
+  {
+   "t0": 479.737,
+   "t1": 480.59,
+   "txt": "Two bowls."
+  },
+  {
+   "t0": 480.87,
+   "t1": 481.996,
+   "txt": "Dry cereal up"
+  },
+  {
+   "t0": 481.996,
+   "t1": 482.342,
+   "txt": "top."
+  },
+  {
+   "t0": 482.622,
+   "t1": 483.817,
+   "txt": "Milk down below."
+  },
+  {
+   "t0": 484.097,
+   "t1": 484.748,
+   "txt": "And a chute"
+  },
+  {
+   "t0": 484.748,
+   "t1": 485.398,
+   "txt": "in between."
+  },
+  {
+   "t0": 485.749,
+   "t1": 486.359,
+   "txt": "You push two"
+  },
+  {
+   "t0": 486.359,
+   "t1": 487.069,
+   "txt": "or three bites"
+  },
+  {
+   "t0": 487.069,
+   "t1": 487.78,
+   "txt": "of cereal into"
+  },
+  {
+   "t0": 487.78,
+   "t1": 488.288,
+   "txt": "the chute."
+  },
+  {
+   "t0": 488.568,
+   "t1": 489.333,
+   "txt": "The slope of"
+  },
+  {
+   "t0": 489.333,
+   "t1": 490.226,
+   "txt": "the chute then"
+  },
+  {
+   "t0": 490.226,
+   "t1": 491.438,
+   "txt": "causes the measured"
+  },
+  {
+   "t0": 491.438,
+   "t1": 492.523,
+   "txt": "portion of cereal"
+  },
+  {
+   "t0": 492.523,
+   "t1": 493.416,
+   "txt": "to slide under"
+  },
+  {
+   "t0": 493.416,
+   "t1": 494.436,
+   "txt": "the influence of"
+  },
+  {
+   "t0": 494.436,
+   "t1": 494.947,
+   "txt": "gravity."
+  },
+  {
+   "t0": 495.298,
+   "t1": 496.14,
+   "txt": "Down it goes,"
+  },
+  {
+   "t0": 496.14,
+   "t1": 497.047,
+   "txt": "into the milk."
+  },
+  {
+   "t0": 497.467,
+   "t1": 498.171,
+   "txt": "Eat it."
+  },
+  {
+   "t0": 498.591,
+   "t1": 499.402,
+   "txt": "Repeat."
+  },
+  {
+   "t0": 499.903,
+   "t1": 500.494,
+   "txt": "The base of"
+  },
+  {
+   "t0": 500.494,
+   "t1": 501.247,
+   "txt": "the lower bowl"
+  },
+  {
+   "t0": 501.247,
+   "t1": 501.946,
+   "txt": "can be filled"
+  },
+  {
+   "t0": 501.946,
+   "t1": 502.484,
+   "txt": "with sand."
+  },
+  {
+   "t0": 502.764,
+   "t1": 503.977,
+   "txt": "Because the weighted"
+  },
+  {
+   "t0": 503.977,
+   "t1": 504.765,
+   "txt": "base helps to"
+  },
+  {
+   "t0": 504.765,
+   "t1": 506.038,
+   "txt": "counteract the forces"
+  },
+  {
+   "t0": 506.038,
+   "t1": 507.008,
+   "txt": "generated by the"
+  },
+  {
+   "t0": 507.008,
+   "t1": 507.372,
+   "txt": "chute."
+  },
+  {
+   "t0": 507.723,
+   "t1": 508.477,
+   "txt": "The result:"
+  },
+  {
+   "t0": 508.477,
+   "t1": 509.848,
+   "txt": "fresh crispy cereal,"
+  },
+  {
+   "t0": 509.848,
+   "t1": 510.739,
+   "txt": "no matter how"
+  },
+  {
+   "t0": 510.739,
+   "t1": 512.179,
+   "txt": "leisurely a breakfast"
+  },
+  {
+   "t0": 512.179,
+   "t1": 512.864,
+   "txt": "he enjoys."
+  },
+  {
+   "t0": 513.215,
+   "t1": 514.14,
+   "txt": "A water slide"
+  },
+  {
+   "t0": 514.14,
+   "t1": 514.922,
+   "txt": "for cereal."
+  },
+  {
+   "t0": 515.422,
+   "t1": 516.076,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 516.076,
+   "t1": 518.11,
+   "txt": "January nineteen ninety-one."
+  },
+  {
+   "t0": 518.561,
+   "t1": 519.436,
+   "txt": "And number one."
+  },
+  {
+   "t0": 519.716,
+   "t1": 520.86,
+   "txt": "The weirdest breakfast"
+  },
+  {
+   "t0": 520.86,
+   "t1": 521.537,
+   "txt": "patent on our"
+  },
+  {
+   "t0": 521.537,
+   "t1": 521.849,
+   "txt": "shelf."
+  },
+  {
+   "t0": 522.2,
+   "t1": 523.16,
+   "txt": "The square egg."
+  },
+  {
+   "t0": 523.44,
+   "t1": 524.12,
+   "txt": "And it starts"
+  },
+  {
+   "t0": 524.12,
+   "t1": 524.957,
+   "txt": "with a complaint"
+  },
+  {
+   "t0": 524.957,
+   "t1": 525.637,
+   "txt": "about knives."
+  },
+  {
+   "t0": 525.917,
+   "t1": 526.339,
+   "txt": "It is,"
+  },
+  {
+   "t0": 526.339,
+   "t1": 526.9,
+   "txt": "however,"
+  },
+  {
+   "t0": 526.9,
+   "t1": 529.006,
+   "txt": "troublesome and time-consuming"
+  },
+  {
+   "t0": 529.006,
+   "t1": 529.919,
+   "txt": "to change the"
+  },
+  {
+   "t0": 529.919,
+   "t1": 531.463,
+   "txt": "original natural shape"
+  },
+  {
+   "t0": 531.463,
+   "t1": 532.376,
+   "txt": "of the boiled"
+  },
+  {
+   "t0": 532.376,
+   "t1": 533.078,
+   "txt": "egg into a"
+  },
+  {
+   "t0": 533.078,
+   "t1": 534.201,
+   "txt": "desired shape by"
+  },
+  {
+   "t0": 534.201,
+   "t1": 535.254,
+   "txt": "cutting it with"
+  },
+  {
+   "t0": 535.254,
+   "t1": 535.816,
+   "txt": "a knife."
+  },
+  {
+   "t0": 536.167,
+   "t1": 536.846,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 536.846,
+   "t1": 537.34,
+   "txt": "machine."
+  },
+  {
+   "t0": 537.62,
+   "t1": 538.501,
+   "txt": "A square tube,"
+  },
+  {
+   "t0": 538.501,
+   "t1": 539.067,
+   "txt": "a piston,"
+  },
+  {
+   "t0": 539.067,
+   "t1": 539.758,
+   "txt": "and a screw"
+  },
+  {
+   "t0": 539.758,
+   "t1": 540.01,
+   "txt": "cap."
+  },
+  {
+   "t0": 540.361,
+   "t1": 541.129,
+   "txt": "And the tube"
+  },
+  {
+   "t0": 541.129,
+   "t1": 541.833,
+   "txt": "is not just"
+  },
+  {
+   "t0": 541.833,
+   "t1": 542.409,
+   "txt": "any size."
+  },
+  {
+   "t0": 542.689,
+   "t1": 543.468,
+   "txt": "The patent did"
+  },
+  {
+   "t0": 543.468,
+   "t1": 543.969,
+   "txt": "the math."
+  },
+  {
+   "t0": 544.249,
+   "t1": 545.098,
+   "txt": "The length of"
+  },
+  {
+   "t0": 545.098,
+   "t1": 545.881,
+   "txt": "each side is"
+  },
+  {
+   "t0": 545.881,
+   "t1": 546.795,
+   "txt": "required to be"
+  },
+  {
+   "t0": 546.795,
+   "t1": 547.448,
+   "txt": "equal to a"
+  },
+  {
+   "t0": 547.448,
+   "t1": 548.297,
+   "txt": "cubic root of"
+  },
+  {
+   "t0": 548.297,
+   "t1": 549.146,
+   "txt": "the volume of"
+  },
+  {
+   "t0": 549.146,
+   "t1": 549.603,
+   "txt": "an egg."
+  },
+  {
+   "t0": 549.954,
+   "t1": 551.016,
+   "txt": "In the inventor's"
+  },
+  {
+   "t0": 551.016,
+   "t1": 552.014,
+   "txt": "own experiments,"
+  },
+  {
+   "t0": 552.014,
+   "t1": 552.701,
+   "txt": "a very good"
+  },
+  {
+   "t0": 552.701,
+   "t1": 553.575,
+   "txt": "result came at"
+  },
+  {
+   "t0": 553.575,
+   "t1": 554.574,
+   "txt": "three point nine"
+  },
+  {
+   "t0": 554.574,
+   "t1": 555.885,
+   "txt": "centimeters per side."
+  },
+  {
+   "t0": 556.236,
+   "t1": 556.812,
+   "txt": "You drop in"
+  },
+  {
+   "t0": 556.812,
+   "t1": 557.44,
+   "txt": "a peeled egg"
+  },
+  {
+   "t0": 557.44,
+   "t1": 558.016,
+   "txt": "while it is"
+  },
+  {
+   "t0": 558.016,
+   "t1": 558.54,
+   "txt": "still hot."
+  },
+  {
+   "t0": 558.82,
+   "t1": 559.593,
+   "txt": "Then you screw"
+  },
+  {
+   "t0": 559.593,
+   "t1": 560.311,
+   "txt": "the cap down,"
+  },
+  {
+   "t0": 560.311,
+   "t1": 561.083,
+   "txt": "and the boiled"
+  },
+  {
+   "t0": 561.083,
+   "t1": 562.187,
+   "txt": "egg is progressively"
+  },
+  {
+   "t0": 562.187,
+   "t1": 562.96,
+   "txt": "pressed by the"
+  },
+  {
+   "t0": 562.96,
+   "t1": 564.009,
+   "txt": "pressing surface of"
+  },
+  {
+   "t0": 564.009,
+   "t1": 565.113,
+   "txt": "the pressing member."
+  },
+  {
+   "t0": 565.464,
+   "t1": 566.071,
+   "txt": "And here is"
+  },
+  {
+   "t0": 566.071,
+   "t1": 567.064,
+   "txt": "the cross section."
+  },
+  {
+   "t0": 567.484,
+   "t1": 568.136,
+   "txt": "Look at the"
+  },
+  {
+   "t0": 568.136,
+   "t1": 568.551,
+   "txt": "middle."
+  },
+  {
+   "t0": 568.971,
+   "t1": 569.643,
+   "txt": "The yolk is"
+  },
+  {
+   "t0": 569.643,
+   "t1": 570.315,
+   "txt": "square too."
+  },
+  {
+   "t0": 570.816,
+   "t1": 571.977,
+   "txt": "The patent confirms"
+  },
+  {
+   "t0": 571.977,
+   "t1": 572.16,
+   "txt": "it."
+  },
+  {
+   "t0": 572.44,
+   "t1": 573.38,
+   "txt": "The yolk itself"
+  },
+  {
+   "t0": 573.38,
+   "t1": 574.382,
+   "txt": "will be deformed"
+  },
+  {
+   "t0": 574.382,
+   "t1": 575.635,
+   "txt": "substantially into a"
+  },
+  {
+   "t0": 575.635,
+   "t1": 576.387,
+   "txt": "cubic shape."
+  },
+  {
+   "t0": 576.738,
+   "t1": 577.472,
+   "txt": "The tube can"
+  },
+  {
+   "t0": 577.472,
+   "t1": 578.511,
+   "txt": "be clear plastic,"
+  },
+  {
+   "t0": 578.511,
+   "t1": 579.123,
+   "txt": "so you can"
+  },
+  {
+   "t0": 579.123,
+   "t1": 579.49,
+   "txt": "watch."
+  },
+  {
+   "t0": 579.77,
+   "t1": 580.44,
+   "txt": "Then it is"
+  },
+  {
+   "t0": 580.44,
+   "t1": 581.58,
+   "txt": "desirable to cool"
+  },
+  {
+   "t0": 581.58,
+   "t1": 583.457,
+   "txt": "the egg-containing apparatus"
+  },
+  {
+   "t0": 583.457,
+   "t1": 584.195,
+   "txt": "in water or"
+  },
+  {
+   "t0": 584.195,
+   "t1": 585.402,
+   "txt": "in a refrigerator."
+  },
+  {
+   "t0": 585.753,
+   "t1": 586.375,
+   "txt": "Whereupon,"
+  },
+  {
+   "t0": 586.375,
+   "t1": 587.556,
+   "txt": "the deformed boiled"
+  },
+  {
+   "t0": 587.556,
+   "t1": 588.489,
+   "txt": "egg will easily"
+  },
+  {
+   "t0": 588.489,
+   "t1": 589.298,
+   "txt": "come out from"
+  },
+  {
+   "t0": 589.298,
+   "t1": 590.169,
+   "txt": "the main body."
+  },
+  {
+   "t0": 590.52,
+   "t1": 591.182,
+   "txt": "And the bottom"
+  },
+  {
+   "t0": 591.182,
+   "t1": 591.891,
+   "txt": "plate can press"
+  },
+  {
+   "t0": 591.891,
+   "t1": 592.554,
+   "txt": "a pattern into"
+  },
+  {
+   "t0": 592.554,
+   "t1": 592.696,
+   "txt": "it."
+  },
+  {
+   "t0": 592.976,
+   "t1": 593.638,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 593.638,
+   "t1": 594.482,
+   "txt": "finished cube,"
+  },
+  {
+   "t0": 594.482,
+   "t1": 595.265,
+   "txt": "with a little"
+  },
+  {
+   "t0": 595.265,
+   "t1": 596.048,
+   "txt": "swirl on top."
+  },
+  {
+   "t0": 596.399,
+   "t1": 597.023,
+   "txt": "And a cube"
+  },
+  {
+   "t0": 597.023,
+   "t1": 597.709,
+   "txt": "is only the"
+  },
+  {
+   "t0": 597.709,
+   "t1": 598.084,
+   "txt": "start."
+  },
+  {
+   "t0": 598.364,
+   "t1": 599.376,
+   "txt": "The patent also"
+  },
+  {
+   "t0": 599.376,
+   "t1": 600.659,
+   "txt": "lists a triangular,"
+  },
+  {
+   "t0": 600.659,
+   "t1": 601.266,
+   "txt": "a square,"
+  },
+  {
+   "t0": 601.266,
+   "t1": 602.211,
+   "txt": "a rectangular,"
+  },
+  {
+   "t0": 602.211,
+   "t1": 603.088,
+   "txt": "a pentagonal,"
+  },
+  {
+   "t0": 603.088,
+   "t1": 604.303,
+   "txt": "a hexagonal shape,"
+  },
+  {
+   "t0": 604.303,
+   "t1": 604.978,
+   "txt": "or a round"
+  },
+  {
+   "t0": 604.978,
+   "t1": 605.383,
+   "txt": "shape."
+  },
+  {
+   "t0": 605.734,
+   "t1": 607.001,
+   "txt": "Or desired indented"
+  },
+  {
+   "t0": 607.001,
+   "t1": 608.202,
+   "txt": "letters or symbols"
+  },
+  {
+   "t0": 608.202,
+   "t1": 609.269,
+   "txt": "onto the surface"
+  },
+  {
+   "t0": 609.269,
+   "t1": 610.203,
+   "txt": "of this boiled"
+  },
+  {
+   "t0": 610.203,
+   "t1": 610.47,
+   "txt": "egg."
+  },
+  {
+   "t0": 610.75,
+   "t1": 611.537,
+   "txt": "Your breakfast,"
+  },
+  {
+   "t0": 611.537,
+   "t1": 612.483,
+   "txt": "with your initials"
+  },
+  {
+   "t0": 612.483,
+   "t1": 612.798,
+   "txt": "on it."
+  },
+  {
+   "t0": 613.149,
+   "t1": 614.023,
+   "txt": "A cube."
+  },
+  {
+   "t0": 614.523,
+   "t1": 615.313,
+   "txt": "An egg."
+  },
+  {
+   "t0": 615.813,
+   "t1": 616.378,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 616.378,
+   "t1": 618.074,
+   "txt": "May nineteen seventy-eight."
+  },
+  {
+   "t0": 618.525,
+   "t1": 619.136,
+   "txt": "So that is"
+  },
+  {
+   "t0": 619.136,
+   "t1": 619.869,
+   "txt": "the ranking."
+  },
+  {
+   "t0": 620.269,
+   "t1": 621.353,
+   "txt": "But which breakfast"
+  },
+  {
+   "t0": 621.353,
+   "t1": 622.094,
+   "txt": "patent is the"
+  },
+  {
+   "t0": 622.094,
+   "t1": 622.893,
+   "txt": "most approved?"
+  },
+  {
+   "t0": 623.444,
+   "t1": 624.319,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 624.319,
+   "t1": 625.193,
+   "txt": "the alarm clock."
+  },
+  {
+   "t0": 625.473,
+   "t1": 626.233,
+   "txt": "Because it is"
+  },
+  {
+   "t0": 626.233,
+   "t1": 627.168,
+   "txt": "the only machine"
+  },
+  {
+   "t0": 627.168,
+   "t1": 628.045,
+   "txt": "here that rings"
+  },
+  {
+   "t0": 628.045,
+   "t1": 628.396,
+   "txt": "twice."
+  },
+  {
+   "t0": 628.676,
+   "t1": 629.593,
+   "txt": "Once for you."
+  },
+  {
+   "t0": 629.873,
+   "t1": 630.655,
+   "txt": "Once for the"
+  },
+  {
+   "t0": 630.655,
+   "t1": 631.111,
+   "txt": "coffee."
+  },
+  {
+   "t0": 631.462,
+   "t1": 632.294,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 632.294,
+   "t1": 633.066,
+   "txt": "this video is"
+  },
+  {
+   "t0": 633.066,
+   "t1": 633.839,
+   "txt": "word for word"
+  },
+  {
+   "t0": 633.839,
+   "t1": 634.79,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 635.07,
+   "t1": 635.89,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 635.89,
+   "t1": 636.928,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 636.928,
+   "t1": 637.475,
+   "txt": "so you can"
+  },
+  {
+   "t0": 637.475,
+   "t1": 638.568,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 638.919,
+   "t1": 639.98,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 639.98,
+   "t1": 640.605,
+   "txt": "every day."
+  },
+  {
+   "t0": 640.885,
+   "t1": 641.456,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 641.456,
+   "t1": 642.313,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 642.313,
+   "t1": 642.485,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.348
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.437
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.004
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 34.707
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 37.45
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 42.025
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 48.648
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 55.593
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 61.918
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 68.199
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 76.797
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 80.265
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 85.952
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 92.151
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 98.308
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 103.376
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 108.698
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 115.397
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 118.524
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 127.261
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 129.874
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 139.828
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 144.382
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 151.269
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 159.748
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 162.725
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 166.164
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 173.28
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 180.268
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 189.433
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 195.842
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 205.687
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 212.95
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 219.457
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 222.862
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 227.357
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 231.782
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 238.235
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 243.836
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 248.71
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 256.884
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 264.671
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 267.478
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 278.37
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 282.649
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 286.834
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 293.396
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 300.232
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 308.308
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 313.227
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 316.141
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 319.801
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 332.808
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 340.263
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 345.871
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 351.854
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 360.936
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 368.981
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 373.194
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 377.983
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 383.691
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 386.818
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 397.329
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 401.907
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 407.762
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 411.889
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 419.365
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 424.945
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 430.568
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 436.127
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 440.364
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 445.238
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 449.752
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 452.473
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 459.248
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 466.453
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 478.113
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 485.749
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 495.298
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 499.903
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 507.723
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 513.215
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 518.561
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 522.2
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 536.167
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 540.361
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 549.954
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 556.236
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 565.464
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 570.816
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 576.738
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 585.753
+  },
+  {
+   "f": "vo/094.wav",
+   "t": 590.52
+  },
+  {
+   "f": "vo/095.wav",
+   "t": 596.399
+  },
+  {
+   "f": "vo/096.wav",
+   "t": 605.734
+  },
+  {
+   "f": "vo/097.wav",
+   "t": 613.149
+  },
+  {
+   "f": "vo/098.wav",
+   "t": 618.525
+  },
+  {
+   "f": "vo/099.wav",
+   "t": 623.444
+  },
+  {
+   "f": "vo/100.wav",
+   "t": 631.462
+  },
+  {
+   "f": "vo/101.wav",
+   "t": 638.919
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": "",
+ "tt": false
+}

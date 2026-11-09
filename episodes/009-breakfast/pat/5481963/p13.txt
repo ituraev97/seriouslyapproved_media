@@ -1,0 +1,175 @@
+5,481,963
+
+5
+
+FIG. 7 illustrates liquid batter mix storage container 51
+having handles 55, support anchor sleeves 57 and showing
+three exit nipples 53 adapted to join easily with flexible
+rubber couplers 52. Liquid batter container 51 can be either
+metal or plastic. Vertical support posts 61 accurately couple
+with sleeves 57 to position the companion working parts.
+
+FIG. 8 illustrates pump roller wheel 54. It is driven by
+gear motor 66. Cam 56 and cam lock lever 58 serve to
+provide a solid backing to flexible rubber tube 40 when
+roller wheel 54 presses on tube 40. When cam lock lever 58
+is in the down position (as shown in FIG. 8) and unlocked,
+flexible rubber tube 40 can be removed. Electric motor 66
+drives the pump roller wheel 54 a sufficient number of turns
+to dispense an accurate volume of liquid batter mix from
+tube 40 exit.
+
+FIG. 8A shows the details of the mechanisms of FIG. 8 by
+way of a cross-section through pump roller wheel 54. Wheel
+54 comprises two spaced walls holding a plurality (five
+shown here) of rollers 53 rotatable on their own shafts 49.
+The entire assembly of rollers 53 are mounted on shaft 64
+turned by motor 66 (FIG. 8) in the direction of arrow 62.
+Rubber feed tube leading from container 51 to exit 40 is
+filled with liquid batter mix 50. Cam 56 has a concave
+surface which fits around the outside of tube 40 while rollers
+53 travel in a path inside of tube 40. Cam 56 pivots about pin
+65 as moved by handle 58. Handle 58 has an “up” position
+(solid lines) and a “down” position (dashed lines), both
+being set by hand. In the “up” position as shown in FIG. 8A,
+batter is squeezed out of tube 40 like from a toothpaste tube,
+when motor 66 rotates the roller wheel assembly 54 causing
+rollers 53 to squeeze tube 40 against cam 56. In the down
+position (cam 56' and handle 58') the face of the cam 56'
+does not impede flow through tube 40 which can be removed
+for cleaning.
+
+FIG. 9 illustrates a plurality of Teflon coated cooking
+dishes 36 having pins 39 equally spaced and extending
+outwardly at circumference edge to mate with recesses in
+anchor yoke 70. These Tefion coated cooking dishes 36 have
+an underside face containing electrical heating wires 204.
+Such electrical heating wires are similarly affixed to the
+underside of second cooking surface 34,
+
+FIG. 10 illustrates coverplate 75 which covers all open
+space between and around cooking dishes 36.
+
+FIG. 11 shows two supporting framework assemblies 68
+and 69 which, respectively, support first and second cooking
+surfaces 38 and 34. Assembly 68 includes two support
+brackets 76, each with a latch 73 to hold or release rectan-
+gular base 71 from brackets 76. Yoke 70 is a seat for each
+cooking dish 36. Two solenoids 78 operate the two latches
+73 (see FIG. 12). Supporting framework assembly 69
+includes two struts 32 attached to the underside of second
+cooking surface 34; two arms 72 and 72A; two support
+brackets 74; safety lock 77; two solenoids 78; and two
+latches 80 and 81. Latches 80 and 81 are identical to latches
+73 (see FIG. 12) and are normally locked to hold second
+cooking surface 34 in a horizontal position, with unlocking
+being accomplished by operation of solenoids 78. The ends
+of arms 72 nearest to assembly 68 are rigidly connected to
+mainshaft assembly of FIG. 13, which is located along
+centerline 99 between assemblies 68 and 69. The connection
+between arm 72 and struts 32 includes a slot 83 to permit the
+tilting of second cooking surface 34 upward as shown in
+FIG. 6. Rotation safety lock 77 prevents second cooking
+surface 34 from swinging freely away from supporting
+framework assembly 69 when it passes the midpoint of its
+travel toward first cooking surface 38 for the pancake
+
+10
+
+15
+
+20
+
+25
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+6
+
+flipping step shortly after the position shown in FIG. 3. Gear
+motors 102 and 110 are shown in their respective operating
+positions.
+
+FIG. 12 shows the operation of latches 73, 80 and 81 by
+means of solenoids 78. Arm 80 lies against rectangular base
+71 in the case of latches 80 and 81, with tab 87 bearing
+against an adjacent part of base 71 or strut 32. Latch tongue
+80A is engaged in a recess or against a ledge when latch is
+closed. Solenoid 78 has its shaft 85 extended when the latch
+is closed. When the latch is to be opened or released,
+solenoid 78 retracts shaft 85 causing arm 80 to pivot about
+tab 87 and tongue 80 to release its catch.
+
+FIG. 13 shows the mainshaft assembly which is con-
+nected to second cooking surface 34 and its supporting
+assembly 69, and provides the power to pivot the second
+cooking surface to pick up the cooking pancakes on the first
+cooking surface, perform the flipping operation and return
+the first cooking surface 38 and the supporting base 71 to its
+original horizontal position. This mainshaft assembly
+includes shaft 100, rotatably mounted in bearings 84
+between support brackets 82, along centerline 99 of FIG. 11.
+Blocks 86 have recesses to receive the ends of arms 72 (see
+FIG. 11) and are fixed rigidly to shaft 100. Arms 90 rigidly
+connect first cooking surface 38 to blocks 88 which, in turn,
+rotate freely about shaft 100. Toothed spool 98 is also free
+to rotate about shaft 100 and is rigidly connected to its
+adjacent block 88, such that rotation of spool 98 will cause
+first cooking surface 38 to pivot about shaft 100. Weight 96
+is connected to one end of belts or tapes 94 by pins 95. The
+other end of belts or tapes 94 are connected to windlass
+spools 92 by pins 93. Spools 92 are rigidly connected to
+shaft 100. The function of this assembly is to provide the
+force of a falling weight 96, when latches 80 and 81 are
+released to cause second cooking surface 34 to pivot toward
+first cooking surface 38 when it is time to flip the pancakes
+to the uncooked sides.
+
+FIG. 14 illustrates gearmotor 110, lever arm 111 and
+lifting pad 112 which cooperate by bringing pad 112 into
+contact with the underside face of second cooking surface
+assembly 34, and elevating it lengthwise to discharge three
+pancakes 37 as shown in FIG. 6. Gearmotor 110 and its
+linkages 111 and 112 are anchored onto baseplate 28.
+
+FIG. 15 illustrates gearmotor 102, lever 104, driver belt
+108 and perforated belt portion 106, when coupled with
+toothed spool 98 (see FIG. 13) act to rotate first cooking
+surface assembly 38 through a half-circle. The off-center
+position of lever 104 produces a reciprocating motion for
+belt portion 106, which in turn transfers that motion to first
+cooking surface 38.
+
+FIG. 16 illustrates the electrical network to drive this
+invention. The entire system includes a power supply cord
+220 to plug into a commercial outlet and wire routing to each
+associated component part in a standard electrical manner,
+including switches and mechanisms meeting all fire and
+safety code compliances. Since such equipment and prac-
+tices are common and well understood, no attempt is made
+to show every detail thereof. A timer 216 and a programmer
+218 are included to automatically release latches 73, 80 and
+81, to heat cooking surfaces and turn them off; to flip
+pancakes over; to discharge cooked pancakes; to start and
+stop the feeding of batter to cooking dishes, and the like. A
+rigid plug 212 is provided to quick connect or disconnect the
+power to pump 66 (see FIG. 8).
+
+The operation of this cooker proceeds generally as fol-
+lows. Once a desired amount of liquid batter mix 50 has been
+liquefied for use, any amount up to fifty servings of three
+pancakes each can be stored in batter container 51. If the
+production location of said apparatus makes replenishment
+of batter difficult, housing 44 and container 51 can be

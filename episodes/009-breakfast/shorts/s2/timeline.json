@@ -1,0 +1,291 @@
+{
+ "T": 28.41,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.074,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.779
+    ],
+    [
+     2.179,
+     4.057
+    ],
+    [
+     4.457,
+     5.523
+    ]
+   ],
+   "g": "fig",
+   "fig": "cereal1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "CEREAL",
+     570,
+     60,
+     -170,
+     -10
+    ],
+    [
+     "MILK",
+     170,
+     300,
+     -60,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 6.074,
+   "t1": 11.591,
+   "i": 1,
+   "segs": [
+    [
+     6.074,
+     7.824
+    ],
+    [
+     8.104,
+     11.24
+    ]
+   ],
+   "g": "fig",
+   "fig": "cereal3",
+   "figno": "3",
+   "calls": [
+    [
+     "WHEE",
+     470,
+     170,
+     120,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 11.591,
+   "t1": 16.446,
+   "i": 2,
+   "segs": [
+    [
+     11.591,
+     14.087
+    ],
+    [
+     14.367,
+     16.095
+    ]
+   ],
+   "g": "fig",
+   "fig": "cereal3",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "NEXT BITES",
+     700,
+     60,
+     -60,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 16.446,
+   "t1": 19.585,
+   "i": 3,
+   "segs": [
+    [
+     16.446,
+     17.278
+    ],
+    [
+     17.698,
+     19.084
+    ]
+   ],
+   "g": "stamp",
+   "title": "CRISPY CEREAL|SERVING PIECE",
+   "filed": "JUNE 4, 1990",
+   "date": "JAN. 22, 1991",
+   "at": 0.6
+  },
+  {
+   "t0": 19.585,
+   "t1": 28.41,
+   "i": 4,
+   "segs": [
+    [
+     19.585,
+     25.559
+    ]
+   ],
+   "g": "quote",
+   "q": "Soggy cereal is so undesirable that many people will not eat it",
+   "hit": "so undesirable",
+   "src": "US 4,986,433 \u00b7 description"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.779,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.179,
+   "t1": 2.875,
+   "txt": "Two bowls,"
+  },
+  {
+   "t0": 2.875,
+   "t1": 3.639,
+   "txt": "joined by a"
+  },
+  {
+   "t0": 3.639,
+   "t1": 4.057,
+   "txt": "slide."
+  },
+  {
+   "t0": 4.457,
+   "t1": 5.523,
+   "txt": "For your cereal."
+  },
+  {
+   "t0": 6.074,
+   "t1": 7.291,
+   "txt": "Dry cereal waits"
+  },
+  {
+   "t0": 7.291,
+   "t1": 7.824,
+   "txt": "up top."
+  },
+  {
+   "t0": 8.104,
+   "t1": 8.788,
+   "txt": "You push two"
+  },
+  {
+   "t0": 8.788,
+   "t1": 9.586,
+   "txt": "or three bites"
+  },
+  {
+   "t0": 9.586,
+   "t1": 10.441,
+   "txt": "down the chute,"
+  },
+  {
+   "t0": 10.441,
+   "t1": 11.24,
+   "txt": "into the milk."
+  },
+  {
+   "t0": 11.591,
+   "t1": 12.328,
+   "txt": "You eat those"
+  },
+  {
+   "t0": 12.328,
+   "t1": 13.292,
+   "txt": "bites before they"
+  },
+  {
+   "t0": 13.292,
+   "t1": 14.087,
+   "txt": "can get soggy."
+  },
+  {
+   "t0": 14.367,
+   "t1": 15.091,
+   "txt": "Then you push"
+  },
+  {
+   "t0": 15.091,
+   "t1": 15.816,
+   "txt": "down the next"
+  },
+  {
+   "t0": 15.816,
+   "t1": 16.095,
+   "txt": "ones."
+  },
+  {
+   "t0": 16.446,
+   "t1": 17.278,
+   "txt": "Approved."
+  },
+  {
+   "t0": 17.698,
+   "t1": 19.084,
+   "txt": "Nineteen ninety-one."
+  },
+  {
+   "t0": 19.585,
+   "t1": 20.148,
+   "txt": "Because,"
+  },
+  {
+   "t0": 20.148,
+   "t1": 21.272,
+   "txt": "says the patent,"
+  },
+  {
+   "t0": 21.272,
+   "t1": 22.326,
+   "txt": "soggy cereal is"
+  },
+  {
+   "t0": 22.326,
+   "t1": 23.661,
+   "txt": "so undesirable that"
+  },
+  {
+   "t0": 23.661,
+   "t1": 24.786,
+   "txt": "many people will"
+  },
+  {
+   "t0": 24.786,
+   "t1": 25.559,
+   "txt": "not eat it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.074
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.591
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.446
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 19.585
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "A SLIDE FOR|[CEREAL] \u00b7 1991",
+ "hookSwitch": 3,
+ "num": "US 4,986,433",
+ "tt": false
+}

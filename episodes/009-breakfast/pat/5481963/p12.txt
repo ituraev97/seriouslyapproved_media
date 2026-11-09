@@ -1,0 +1,182 @@
+5,481,963
+
+3
+
+FIG. 5 is another isometric view similar to FIGS. 1-4
+showing flipped over pancakes cooking on the second
+cooking surface, and the next cycle beginning with liquid
+batter mix being poured onto the cooking dishes as in FIG.
+2;
+
+FIG. 6 is another isometric view similar to FIGS. 1-5
+showing fully cooked pancakes being ejected from the
+second cooking surface after it has been tilted;
+
+FIG. 7 is an isometric view of the liquid batter container
+and how it relates in position to the batter pump assembly;
+
+FIG. 8 is an isometric view of the batter pump assembly;
+FIG. 8A is a cross-sectional view taken at 8A—8A of FIG.
+8;
+
+FIG. 9 shows the individual cooking surfaces and cooking
+dishes;
+
+FIG. 10 shows the cover surrounding the cooking dishes;
+
+FIG. 11 is an isometric view of the supporting framework
+for first and second cooking surfaces, but omitting the shaft
+assembly of FIG. 13;
+
+FIG. 12 is an isometric view of an electrically activated
+solenoid latch mechanism employed on latches of FIG. 11;
+
+FIG. 13 is an isometric view of the shaft assembly and
+counter-weight mechanism, which joins the first and second
+cooking surfaces into an operating mechanism;
+
+FIG. 14 is an isometric view of the second cooking
+surface assembly motor and its linkage employed to tilt the
+second cooking surface upward to discharge cooked pan-
+cakes;
+
+FIG. 15 is an isometric view of the drive motor and its
+linkage employed to pivot the first and second cooking
+surfaces; and
+
+FIG. 16 is an isometric layout of the electrical wiring
+network of this pancake cooker.
+
+DESCRIPTION OF THE
+
+DETAILED
+APPARATUS
+
+Referring directly to FIG. 1 there is shown an isometric
+drawing of an electro-mechanical apparatus embodying con-
+structions, arrangements and combinations herein described
+and claimed of said invention comprising a horizontal
+support housing 30 combined with baseplate 28 and adapted
+to be mounted at an operable elevation above floor level.
+Horizontal support housing 30 is removably attached to
+baseplate 28 by a prior art quick-disconnect latch means 160
+located on both left and right sides adjacent to the rear
+corners.
+
+At a point adjacent to the front righthand comer of
+horizontal support housing 30 is located an electric push-
+button control console 18 consisting of a typical 12-key
+digital layout which includes special function keys 22 and
+24, START pushbutton 16, STOP pushbutton 20 and win-
+dow 14 showing number of servings ordered and in prepa-
+ration.
+
+Again referring to FIG. 1 there is a vertical support
+housing 44 having a top entry cover 46 and cover handle 48.
+Vertical housing 44 is removably attached to horizontal
+support housing 30 by another prior art quick-disconnect
+latch means 120 (similar to 160) at right and left sides
+adjacent to the rear corners. Pocket handgrips 47 also on left
+and right sides of vertical support housing 44 provide
+convenient means to lift and remove it when latches 120 are
+unlocked. At required locations on the lower front face of
+vertical support housing 44 are three portholes 45 of appro-
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+4
+
+priate size to allow the passage of three flexible rubber
+delivery tubes 40 from the batter container (not shown) to
+the exit as shown above cooking plates 36. A first cooking
+surface assembly 38 is made up of dishes 36, cover plate 75
+surrounding those dishes, and the supporting framework 68
+(described in connection with FIG. 11).
+
+Various inscribed or special shaped Teflon coated cooking
+dishes 36 can be maintained for speedy replacement to fit
+special occasions.
+
+Immediately adjacent to first cooking surface assembly 38
+and also horizontal in posture is a flat planar Teflon coated
+second cooking surface assembly 34 as illustrated in FIG. 1.
+Its underside supporting framework 69 is detailed in FIG.
+11, showing struts 32, pivot arms 72 and arm latch 77.
+Second cooking surface assembly 34 is smooth faced to best
+assist discharging fully cooked pancakes 37 therefrom.
+Between first and second cooking surface assemblies 38 and
+34 is main shaft 100 (described with respect to FIG. 13)
+which provides the means for flipping pancakes from one
+surface to another.
+
+Now referring to FIG. 2 illustration shows three separate
+portions of liquid batter mix 50 exiting three flexible rubber
+delivery tubes 40 and being dispensed directly onto three
+cooking surface dishes 36, simultaneously. The dishes 36
+receive and hold the liquid batter mix until pancakes are
+cooked on their bottom faces.
+
+FIG. 3 illustrates the heat baffleplate 42 with approximate
+¥ inch air space 43 between it and thermal insulation cover
+41 applied to the entire inner wall face of vertical support
+housing 44. Inside of housing 44 is a removable container 51
+filled with liquid batter mix 50. This combination is
+designed to minimize the detrimental effects of upward
+rising heat and overall heat transfer from adjacent cooking
+surfaces 38. FIG. 3 also illustrates second cooking surface
+assembly 34 poised vertically at mid-point of its half-circle
+travel path 79 (indicated by dashline) on its way to contact
+the top uncooked surface of the pancakes cooking in dishes
+36.
+
+FIG. 4 illustrates second cooking surface 34 joined to first
+cooking surface 38 with cooking pancakes securely sand-
+wiched between the two surfaces and half way returned to
+the original horizontal position of second cooking surface 34
+as indicated by dashline 79.
+
+FIG. 5 illustrates second cooking surface assembly 34
+returned to its original horizontal position firmly anchored
+by latches 80 and 81 (FIG. 11) and with three-partially
+cooked pancakes 37 successfully flipped for finish cooking
+of their topsides. Also, first cooking surface assembly 34 is
+once again at its original horizontal starting position, firmly
+anchored by latches 73 (FIG. 11) and being filled with batter
+for the next cooking cycle. Since the apparatus had been
+programmed for ten servings, with three portions previously
+dispensed, window 14 indicates that nine servings remain.
+
+FIG. 6 illustrates the second cooking surface assembly 34
+with one end being lifted upwardly to cause the three fully
+cooked pancakes 37 to slide into receptacle 59. This
+becomes possible when latch 81 (FIG. 11) is released and
+latch 80 (FIG. 11) is not, allowing motor 110 and its lever
+assembly 111 and 112 to raise the second cooking surface 34
+and its supporting framework 69. Other arrangements can be
+employed than motor 110 with levers 111 and 112 to tilt
+second cooking surface 34. If there is an undue amount of
+sticking of pancakes 37 to surface 34, it may be necessary
+to add a scraping means or the like to release pancakes 37
+to slide down the inclined surface.

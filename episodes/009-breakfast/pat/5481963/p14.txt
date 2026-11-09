@@ -1,0 +1,164 @@
+5,481,963
+
+7
+
+separated from baseplate 28 by disengaging latches 160 and
+the replenishment operation conducted elsewhere. When on
+the other hand, there is need to replace flexible rubber tubes
+40 or conduct general cleaning, disengaging latches 120
+allows hopper 51 and housing 44 to be separated.
+
+When container 51 has a desired amount of batter 50, the
+apparatus can be programmed for any number of servings,
+by pressing the appropriate buttons on console 18.
+
+By pressing START pushbutton 16 the automated process
+begins with cooking dishes 36 rapidly brought to working
+temperature. Gearmotor 66 meters and dispenses accurate
+amounts of batter mix 50 through three flexible rubber tubes
+40 directly onto three cooking dishes 36, simultaneously. By
+utilizing roller pump 54 rather than gravity feed, constant
+equal feed portions of batter 50 are readily obtained.
+
+Approximately ten seconds before the three half-cooked
+pancakes are flipped and transferred to second cooking
+surface 34, it is brought to working temperature. At the
+required moment, latches 80 and 81 unlatch, allowing dead-
+weight 96 to lower itself and in so doing, to pivot second
+cooking surface 34 half-circle directly over and against the
+pancakes on the cooking dishes 36. Latches 73 are unlatched
+immediately and at the same time gearmotor 102 operates to
+pivot both cooking surfaces 34 and 38 and the half-cooked
+pancakes therebetween one half-circle in reverse. Second
+cooking surface assembly 34 now has three flipped half-
+cooked pancakes to rest on it in horizontal position, spring-
+loaded latches 80 and 81 having automatically relatched.
+Dead-weight 96 is now once again locked in a raised
+position. However, gearmotor 102 drives first cooking sur-
+face 38 to retrace its half-circle travel path and return to its
+original horizontal position and be automatically relatched
+by spring-loaded latches 73.
+
+Since the apparatus was programmed to prepare multiple
+services, three portions of batter are again dispensed onto
+dishes 36 and the cooking cycle begins again.
+
+After the finish cooking of the pancakes on second
+cooking surface 34 is completed, latch 81 unlatches, freeing
+the corresponding end of the second cooking surface 34.
+Almost simultaneously, gearmotor 110 brings its pad 112
+into contact with the underside of second cooking surface 34
+and elevates it angularly to such an extent that three fully
+cooked pancakes are discharged by sliding onto a dish or
+tray 59. After having done so, second cooking surface 34 is
+automatically relatched in place horizontally, and is ready to
+repeat its prior exercise of traveling half-circle to entrap, flip
+and transfer the next batch of half-cooked pancakes. A
+secondary spring-loaded latch means 77 companion part to
+arm 72, prevents second cooking surface assembly 34 from
+swinging like a door after reaching mid-point in its half-
+circle travel path as referenced in FIG. 3. From this point on,
+apparatus performance is repetitious until the programmed
+servings are completed.
+
+Special function keys 22 and 24 may be programmed for
+special operations to assist in changing dishes 36 to another
+style; allowing hand dispensing of batter or the like.
+
+Advantages of this invention include the use of printed
+circuit cards which can be easily removed and replaced, thus
+variations in cooking cycle times can be employed to
+accommodate special batters; baffleplate 42 and inner sur-
+face thermal insulation 41 eliminate the harmful effects of
+upward rising heat on the liquid batter mix 50; a plurality of
+separate and equal portions of liquid batter mix 50 are
+accurately and simultaneously dispensed; any suitable num-
+ber of cooking dishes 36 can be used within the limits of
+space on cooking surface 38; inscribing of none, one, or all
+
+20
+
+25
+
+30
+
+40
+
+50
+
+55
+
+60
+
+65
+
+8
+pancakes can be provided; easy access to component parts
+provides easy cleaning; conservation of energy is provided
+by automatically turning off consumption when not needed;
+total entrapment of half-cooked pancakes 37 during all
+flipping and transfer exercises is provided; and other suitable
+advantages are provided.
+
+Another possible variation entails replacing the several
+cooking dishes 36 with one large rectangular shaped dish, to
+make a roll-up pancake. Still other variations include the
+preparation of waffles, omelets and the like. Because of its
+fully automated operational characteristics, the apparatus
+can be made to be coin operated.
+
+While the invention has been described with respect to
+certain specific embodiments, it will be appreciated that
+many modifications and changes may be made by those
+skilled in the art without departing from the spirit of the
+invention. It is intended, therefore, by the appended claims
+to cover all such modifications and changes as fall within the
+true spirit and scope of the invention.
+
+What is claimed as new and what it is desired to secure by
+Letters Patent of the United States is:
+
+1. An automated pancake maker having a continuous
+operating cycle comprising a first heated cooking surface
+including a plurality of heated pancake cooking dishes in an
+original horizontal position, a second heated cooking surface
+pivotably attached to said first cooking surface, a hopper for
+holding liquid pancake batter, means for automatically sup-
+plying a selected amount of said batter to each of said
+pancake dishes at a selected starting time, timed means for
+pivoting said second cooking surface from its original
+horizontal position onto the tops of cooking pancakes on
+said cooking dishes, means to lock said first cooking surface
+to said second cooking surface with said cooking pancakes
+between said two surfaces and to pivot said two surfaces
+reversely until said second cooking surface returns to its
+original horizontal position; means for unlocking said first
+cooking surface from said second cooking surface and
+pivoting said first cooking surface reversely to its original
+horizontal position and adapted to begin another said cycle;
+timed means for tilting said second cooking surface into an
+inclined plane to enhance removal of fully cooked pancakes
+therefrom, and means to return said second cooking surface
+to its original horizontal position ready to begin the next said
+cycle.
+
+2. The pancake maker of claim 1 wherein said means for
+automatically supplying a selected amount of batter com-
+prises a flexible rubber tubing extending from said container
+to an exit spaced above each said pancake dish, a cam
+surface selectively positionable against said rubber tubing
+adjacently upstream from said exit, a roller means to bear
+against said rubber tubing and said cam squeezing said
+rubber tubing therebetween, and a motor means to rotate
+said roller means against said tubing and thereby dispense
+said batter out said exit.
+
+3. The pancake maker of claim 1 wherein said means for
+pivoting said second cooking surface to the tops of said
+cooking pancakes includes gravity causing an elevated
+weight to fall a given distance.
+
+4. The pancake maker of claim 1 wherein said means to
+pivot both said cooking surfaces in a reverse direction to
+return said second cooking surface to its original horizontal
+position and to pivot said first cooking surface back to its

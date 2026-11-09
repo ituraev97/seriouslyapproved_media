@@ -89,3 +89,18 @@ URL: `https://raw.githubusercontent.com/ituraev97/seriouslyapproved_media/drop-X
 ## 10. Close the run
 - Commit to main: `episodes/NNN-slug/` (episode.py, shorts/*/episode.py, fig/*.svg, sources.md, thumb.json, description.txt — never video, audio or scans), `topics.md` row → `done YYYY-MM-DD`, `used_patents.json` (+ numbers used).
 - Message the owner in Russian: title, publish times (ET and Tashkent), patents used, thumb_C attached for Test & Compare, anything needing attention.
+
+## Performance rules
+Weekly review (Mondays, Metricool, last 28 days). Each rule is backed by ≥ 3 videos; small samples — re-check every Monday and drop rules the data stops supporting. Schedules, AI labels and the owner's content/title rules are NOT changed here (see "Recommendations to the owner").
+1. Shorts lose viewers in the first seconds: average view duration 1–9 s (median 4 s) across 9 Shorts with data → the drawing AND the object's name must be on screen at 0.0 s, the first spoken line names the object in ≤ 12 words, no warm-up sentence. QA frame at 0.5 s stays mandatory.
+2. Cat-accessory Shorts underperformed: 5 cat Shorts (03–04.11) median 3 views vs 4 non-cat Shorts (02–03.11) median 89 → no cat-only drop before 30.11; mix animals into broader themes instead (day effect confounded — re-check).
+3. Dog/everyday-object hooks lead: the channel's best Short is the dog watch (1,141) and the next three are everyday objects (mask 121, fork 57, collar 29) → pick Shorts patents that are a familiar household object or pet item doing something absurd, readable from one drawing.
+4. TikTok: food/kitchen patents (ice pop 174, corn dog 123, pasta fork 110, cotton candy 93; median 117) beat hats (4 posts, median 101) and the overall median (110, 13 posts) → when choosing t1–t3, prefer food, kitchen and household objects.
+5. TikTok length 70–82 s made no difference to views (13 posts, r = 0.14) → target 62–72 s (higher completion), never under 62 s.
+6. Metricool returns no YouTube views for posts younger than ~5 days (all 04.11+ rows empty on 09.11) → judge YouTube videos only after 5 days; TikTok rows are usable next day.
+7. Long videos: only 1 long with data (2 views, 265 s average view duration) → no rule yet; keep the owner's growth packaging (number/ranking titles) and review when ≥ 3 longs have data.
+
+Recommendations to the owner (not applied): (a) descriptive Short titles "A [object] That [does X]" (4 Shorts, median 43 views) beat "The U.S. Approved a …" (5 Shorts, median 3; dog watch excepted) — consider allowing one descriptive title per day as a test; (b) TikTok TKPO15 (avg watch time) is empty — check that the TikTok account is connected as Business in Metricool so watch time is reported.
+
+Changelog
+- 2026-11-09: section created (first weekly review; data 02–08.11: 10 YouTube videos with analytics, 13 TikToks).

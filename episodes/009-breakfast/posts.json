@@ -1,0 +1,80 @@
+{
+ "long": {
+  "time": "16:00",
+  "title": "10 Weird Breakfast Gadgets That Got Real Patents",
+  "tags": [
+   "weird breakfast inventions",
+   "weird kitchen gadgets",
+   "weird kitchen inventions",
+   "breakfast gadgets",
+   "weird patents",
+   "strange inventions",
+   "weird inventions",
+   "square egg",
+   "cereal bowl invention",
+   "pancake machine",
+   "old patents",
+   "useless inventions",
+   "kitchen gadgets",
+   "funny inventions"
+  ]
+ },
+ "shorts": [
+  {
+   "id": "s1",
+   "time": "10:30",
+   "template": "drawing reveal",
+   "title": "This Is a Real Patent for a Square Egg",
+   "line": "A hard-boiled egg, pressed into a cube. Even the yolk comes out square.",
+   "num": "US 4,092,093",
+   "year": 1978,
+   "url": "https://patents.google.com/patent/US4092093"
+  },
+  {
+   "id": "s2",
+   "time": "15:00",
+   "template": "approved or denied?",
+   "title": "This Is a Real Patent for a Cereal Slide",
+   "line": "Two bowls and a slide, so your cereal never gets soggy. Approved or denied?",
+   "num": "US 4,986,433",
+   "year": 1991,
+   "url": "https://patents.google.com/patent/US4986433"
+  },
+  {
+   "id": "s3",
+   "time": "19:00",
+   "template": "verbatim quote",
+   "title": "The U.S. Approved a Grapefruit Shield",
+   "line": "A glass shield for half a grapefruit, so the juice can't spray. You eat through a window.",
+   "num": "US 1,324,659",
+   "year": 1919,
+   "url": "https://patents.google.com/patent/US1324659"
+  }
+ ],
+ "tiktok": [
+  {
+   "id": "t1",
+   "time": "09:30",
+   "title": "This Is a Real Patent for a Square Egg",
+   "hook": "A hard-boiled egg, pressed into a cube. Even the yolk comes out square.",
+   "num": "4,092,093",
+   "year": 1978
+  },
+  {
+   "id": "t2",
+   "time": "14:30",
+   "title": "This Is a Real Patent for a Cereal Slide",
+   "hook": "Approved or denied? Two bowls and a slide, so your cereal never gets soggy.",
+   "num": "4,986,433",
+   "year": 1991
+  },
+  {
+   "id": "t3",
+   "time": "20:30",
+   "title": "The U.S. Approved a Grapefruit Shield",
+   "hook": "A glass shield for your grapefruit. Then, nine years later, a paper hat for it. With room for an ad.",
+   "num": "1,324,659",
+   "year": 1919
+  }
+ ]
+}

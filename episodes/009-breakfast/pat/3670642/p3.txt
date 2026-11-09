@@ -1,0 +1,219 @@
+3,670,642
+
+3
+
+In operation, the combination toasting and buttering ap-
+paratus is connected with a power source 121 and a bread
+slice 25 to be toasted may be inserted downwardly into the
+upper toasting compartment 13 and have its lower edge en-
+gage the toaster actuating arm 43 and to come to rest on the
+horizontally extending support fork 27. Downward pivoting of
+the actuating arm 43 will close the micro-switch 95 to
+complete a circuit through the thermostatic blade 103 and
+heating elements 17 and 19 to initiate heating of the toast and
+consequent toasting thereof. As the heating elements 17 and
+19 effect heating of the bread slice 25, the thermostatic switch
+97 will be heated to warp to its closed position with its free end
+making contact with the contact 98. When heating of the
+bread slice 25 has been completed, the thermostatic blade 103
+will be heated sufficiently to warp to disengage its free end
+from the contact 107 and engage the contact 111 to complete
+a circuit through the fork retracting solenoid 37 to thereby
+retract the fork 27 and enable the bread slice 25 to drop
+downwardly to the compartment 15.
+
+It is noted that the butter tray 49 is disposed in heat
+exchange relationship with the heating elements 17 and 19 so
+the butter therein will be heated by such elements to maintain
+it- warm and fluid.
+
+As the toasted slice drops downwardly, it will engage the
+flapper arm 28 to close the associate switch 108 and, assuming
+the manual butter selector switch 106 is closed, a circuit will
+be momentarily completed through an applicator drive motor
+67 to cause the cam 66 to complete a full revolution thereby
+driving the piston 65 rearwardly during the first half cycle to
+uncover the inlet 61 and enable shortening to pour into the
+nozzle 63 and to then drive such piston forwardly during the
+second half cycle to close the inlet 61 and spray shortening
+outwardly against the toast slice 25 while it is in its broken line
+position shown in FIG. 1.
+
+As the cam 66 completes approximately a third of a revolu-
+tion, the cam prong 73 will engage the actuating arm 77 of the
+holding relay 79 to close the actuating switch 115 and ener-
+gize such relay 79. Energization of the relay 79 will hold the
+switch 115 closed and will close the switch 117 and maintain it
+closed until the relay 79 is de-energized. Closure of the switch
+117 energizes the cutter drive motor 83 to commence rotation
+of the cutting blade 85 to draw the toast slice 25 downwardly
+while slicing it longitudinally. It will be realized that actuation
+of the applicator 21 and subsequent energization of the cutter
+drive motor 83 may take place relatively rapidly so the toast
+slice 25 is buttered and sliced as it falls downwardly through
+the lower compartment 15. As the toast 25 drops downwardly
+beyond the cutter blade 85, its lower extremity will engage the
+bearings 32 and be directed outwardly through the exit 33
+where it may be received in a tray (not shown) disposed ad-
+jacent thereto.
+
+Immediately after the cutting step has been completed, the
+thermostatic switch 97 will have cooled sufficiently to open
+thereby de-energizing the relay 79 and enabling the switches
+115 and 117 to open to discontinue operation of the cutter
+drive motor 83. :
+
+If at any time it is desirable to obtain dry or unbuttered
+toast, the manual switch button 89 may be switched to open
+the switch 106 so the applicator drive motors 57 will not be
+energized when the toast 25 passes downwardly through the
+lower compartment 15.
+
+When it is desirable to wash the tray 49 it may be removed
+and filled with warm soapy water. The trigger will be posi-
+tioned to maintain the outlet nipple 53 closed until such nipple
+is inserted in the hose end 55. Such trigger 54 may then be ac-
+tuated to open the outlet nipple 33 and the apparatus then cy-
+cled a couple of times to spray warm soapy water through the
+nozzle 63 to clean it.
+
+It should be noted that the general arrangement described
+hereinabove may be provided for simultaneously toasting any
+number of slices of bread.
+
+From the foregoing it will be apparent that the combination
+toasting and buttering apparatus of present invention provides
+for automatic and convenient toasting and buttering of a slice
+
+5
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+4
+
+of bread while preventing the shortening from dripping
+downwardly on the toasting elements to avoid foiling thereof,
+
+Various modifications and changes may be made with re-
+
+gard to the foregoing detailed description without departing
+from the spirit of the invention.
+
+I claim:
+
+1. Combination toasting and buttering apparatus compris-
+
+ing:
+
+a housing formed with a vertically extending passage defin-
+ing a path having an inlet, an upper compartment, a lower
+compartment and an outlet;
+
+heating means disposed in said upper compartment;
+
+retractable support means disposed below said upper com-
+partment and normally projecting into said passage for
+blocking the downward path of a slice of bread disposed
+in heat exchange relationship with said heating means and
+retractable to a retracted position to clear said downward
+path;
+
+applicator means disposed in said lower compartment and
+including atomizing means for spraying shortening on a
+slice of toast as it passes thereby; ,
+
+release means engaging said support means for retracting
+said support means from said passage to enable said slice
+to pass thereby;
+
+return means for automatically returning said support
+means to its normal position after said slice has passed
+thereby; and
+
+actuating means for automatically actuating said applicator
+means when toast is advanced to said lower compartment
+whereby a slice of bread may be placed in said upper
+compartment for toasting and said release means sub-
+sequently actuated to retract said support means so the
+toasted bread will be advanced to said lower compart-
+ment and said ‘applicator means actuated to apply shor-
+tening to the toast.
+
+2. Combination toasting and buttering apparatus as set forth
+
+in claim 1 that includes:
+
+a cutting device mounted in said housing below said ap-
+plicator means and including a cutting blade projecting
+into said passage and cutter drive means for driving said
+blade.
+
+3. Combination toasting and buttering apparatus as set forth
+
+in claim 1 wherein:
+
+said support means includes a retractable support frame,
+electrical coil means for retracting said frame; and
+
+said release means includes electrical switch means con-
+nected in circuit with said electrical coil means and
+responsive to a predetermined temperature to actuate
+said coil means.
+
+4. Combination toasting and buttering apparatus as set forth
+
+in claim 1 wherein:
+
+said application means includes a spray nozzle for spraying
+shortening on said toast, electric drive means for pres-
+surizing shortening in said nozzle to spray said shortening
+on said toast; and
+
+said actuating means includes an electric switch connected
+in circuit with said drive means and having an actuating
+arm projecting into said passage to be engaged by said
+toast as it passes therethrough in advancing from said
+upper compartment to said lower compartment.
+
+5. Combination toasting and buttering apparatus as set forth
+
+in claim 1 wherein:
+
+said applicator means includes a spray nozzle formed with a
+piston chamber having a spray orifice in one end thereof,
+a piston in said piston chamber, a drive motor connected
+with said piston and connected with said actuating means
+to be actuated thereby when said toast is advanced to said
+lower chamber,
+
+6. Combination toasting and buttering apparatus as set forth
+
+in claim 5 wherein:
+
+said piston is of sufficient length to, when fully extended,
+project fully to the orifice end of said chamber to fully
+expel shortening from said chamber.
+
+* * * * *

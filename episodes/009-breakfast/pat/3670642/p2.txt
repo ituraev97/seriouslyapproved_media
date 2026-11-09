@@ -1,0 +1,200 @@
+3,670,642
+
+1
+
+COMBINATION TOASTING AND BUTTERING
+APPARATUS
+
+BACKGROUND OF THE INVENTION
+
+1. Field of the Invention
+
+The present invention relates generally to toasters and more
+particularly to a toaster which provides for automatically but-
+tering the toast after toasting thereof is completed.
+
+2. Description of the Prior Art’
+
+Numerous toasting devices have been proposed which in-
+clude a pop-up type mechanism having a shortening applica-
+tor which applies shortening to the toast as it is ejected up-
+wardly out of the heating compartment. Toasters of this type
+suffer the shortcoming that the shortening is applied to the
+toast at a point above the heating compartment thereby result-
+ing in any excess shortening dripping downwardly into the
+heating compartment where it may be baked onto the heating
+elements thereby causing burning and, consequently, smoking
+of the toaster.
+
+SUMMARY OF THE INVENTION
+
+The combination toasting . and buttering apparatus of
+present invention is characterized by a housing formed with a
+passage including an upper heating compartment having heat-
+ing elements disposed therein and a lower buttering compart-
+ment where application of shortening may take place. An ap-
+plicator is mounted in the housing for spraying shortening
+onto the toast while it is in the lower compartment. Support
+means is provided for supporting the bread slice in the upper
+compartment and actuating means is. provided for actuating
+the applicator when the bread is advanced to the lower com-
+partment to thereby apply shortening to the toast.
+
+An object of the present invention is to provide a combina-
+tion ‘toasting and. buttering apparatus of the type described
+wherein dripping of excess shortening onto the heating ele-
+ments is avoided.
+
+Another object of the present invention is to provide a com-
+bination toasting and _buttering apparatus .of the type
+described which automatically toasts, butters and slices the
+bread.
+
+These and other objects and the advantages of the present
+invention will become ‘apparent from a consideration of the
+following detailed description when taken in conjunction with
+the accompanying drawing.
+
+DESCRIPTION OF THE DRAWING -
+
+FIG. 1 is a vertical sectional view of a combination toasting
+and buttering apparatus embodying the present invention;
+
+FIG, 2 is a partial horizontal sectional view. taken along the
+line 2—2 of FIG, 1;
+
+FIG. 3 is a partial horizontal sectional view taken along the
+line 3—3 of FIG. 1; and
+
+FIG, 4 is a schematic diagram of an electrical circuit which
+may be utilized with the combination toasting and buttering
+apparatus shown in FIG. 1,
+
+DESCRIPTION OF THE PREFERRED EMBODIMENT
+
+Referring to FIGS. 1 and 4, the combination toasting and
+buttering apparatus of present invention includes, generally, a
+housing 11 which defines a generally vertical passage 12 defin-
+ing an upper compartment 13 and a lower compartment 15.
+Still speaking generally, disposed within the upper compart-
+ment is a pair of heating elements 17 and 19 and mounted in
+the lower compartment is a shortening applicator 21 for spray-
+ing shortening on a slice of toast 25 as it passes thereby. A sup-
+port frame in-the form of a horizontal fork 27 is mounted from
+the housing for maintaining the bread slice 25 in the compart-
+ment 13 for a predetermined time to be toasted and is then
+retracted to allow the toast to fall downwardly and engage an
+arm 28 of an actuating control or switch, generally designated
+31, which. actuates the ‘applicator 21 to spray shortening
+thereon.
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+2
+
+Referring to FIG. 1, the upper end of the passage 12 is
+defined by an inlet 28 formed in the housing 11 and the upper
+compartment 13 thereof is formed between the spaced apart
+heating elements 17 and 19. The lower compartment 15 is
+formed by a pair of spaced apart vertically extending walls 29
+and 30, the wall 30 having a window 34 formed therein for
+passage of the shortening sprayed from the applicator 21. The
+lower extremity of the wall 29 is curved forwardly and has a
+plurality of plastic bearings 32 mounted therein for directing
+the toast 25 toward the outlet 33 defined by the lower end of
+the passage 12.
+
+Referring to FIGS. 1 and 2, the supporting fork 27 is
+mounted on the retractable armature 35 of an electromag-
+netic solenoid 37.
+
+An actuating switch, generally designated 41, is mounted
+from the housing 11 and includes an actuating arm 43 which
+projects upwardly above the plane of the support fork 27 to be
+engaged by the bottom edge of the toast 25 supported on such
+fork to be closed thereby to energize the heating elements 17
+and 19.
+
+Still referring to FIG. 1, the housing 11 is formed in one side
+with a shortening tank opening 45 which has an inwardly pro-
+jecting shelf 47 disposed therebelow for receipt of a butter
+tank 49. The butter tank 49 includes a handle $1 on one end
+thereof and an outlet nipple 53 on the opposite end thereof. A
+poppet (not shown) is provided for closing the. outlet nipple
+53 and a trigger 54 is provided in the handle 51 and is coupled
+to such poppet for shifting such poppet to its open position
+after the tank 49 has been installed. A mounting bracket 55 is
+supported from the inner extremity of the tray.47 for receipt
+of one end of a flexible conduit 57 that leads downwardly to
+an inlet 61 in the side wall of a spray nozzle 63.
+
+The spray nozzle 63 includes a piston 65 therein which is
+connected on its rear extremity with a cam 66 carried on the
+shaft of a drive motor 67 by means of a connecting link 69
+whereby rotation of such motor will drive the cylinder 65 for-
+wardly and rearwardly in such nozzle. The piston 65 is biased
+forwardly in the nozzle 63 by means of a coil spring 70
+whereby it will be maintained fully telescoped to the orifice
+end of such nozzle when the drive motor 67 is deenergized.
+
+A prong 73 projects radially from the cam 66 for engaging
+the actuating arm 77 of a holding relay 79 which controls cur-
+rent to a cutter drive motor 83 that is coupled with a cutting
+blade 85 by means of a drive chain 87.
+
+Referring to FIG, 1, the actuating switch 41 includes a
+manual switch button 89 for selectively opening the circuit to
+the applicator motor 67 to prevent application of shortening.
+
+A crumb tray 90 is located in the bottom of the housing 11
+for catching any crumbs that fall downwardly past the wall 29.
+
+Referring to FIG. 4, the toaster actuating switch 41 includes
+a micro-switch 95 coupled with the actuating arm 43 and a
+thermostatic switch 97 disposed in heat exchange relationship
+with the heating element 19. A timing switch, generally
+designated 101, and incorporating a thermostatic blade 103, is
+connected on its fixed end with the toaster actuating switch 41
+by means of an electrical lead 105 and has its free end nor-
+mally engaged with a first contact 107 which is connected in
+series with the heating elements 17 and 19. The free end of
+such timing blade 103 is engageable upon heating thereof with
+a second contact 111 which is connected with the support fork
+solenoid 37, Referring to FIG. 1, the contacts 107 and 111 are
+carried on respective resilient electrically conductive tines
+108 and 110 and the tine 110 is engaged by the inner end of a
+toast setting knob 112.
+
+Still referring to FIG. 4, the applicator control 31 includes:a
+switch 106 operated by the manual button 89 and also in-
+cludes a micro-switch 108 connected with-the actuating arm
+28 projecting into the toast passage 12, such micro-switch
+being connected in series with such manual switch.
+
+Connected in parallel with the switches 106 and 108 is the
+holding relay 79 which has a first switch 115 in series
+therewith for providing current to such relay itself and a
+second switch 117 mechanically coupled thereto for con-
+trolling current to the cutter drive motor 83. :

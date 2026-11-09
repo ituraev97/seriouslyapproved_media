@@ -1,0 +1,629 @@
+{
+ "T": 64.1,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.229,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.078
+    ],
+    [
+     2.578,
+     3.261
+    ],
+    [
+     3.761,
+     4.87
+    ],
+    [
+     5.37,
+     6.778
+    ]
+   ],
+   "g": "fig",
+   "fig": "shield1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE SHIELD",
+     300,
+     150,
+     -80,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 7.229,
+   "t1": 15.687,
+   "i": 1,
+   "segs": [
+    [
+     7.229,
+     15.336
+    ]
+   ],
+   "g": "quote",
+   "q": "the manipulation of a spoon therein causes the juice to be ejected and sprayed to great disadvantage",
+   "hit": "great disadvantage",
+   "src": "US 1,324,659 \u00b7 description"
+  },
+  {
+   "t0": 15.687,
+   "t1": 18.784,
+   "i": 2,
+   "segs": [
+    [
+     15.687,
+     16.519
+    ],
+    [
+     16.939,
+     18.283
+    ]
+   ],
+   "g": "stamp",
+   "title": "FRUIT-EATING|SHIELD",
+   "filed": "MAY 20, 1919",
+   "date": "DEC. 9, 1919",
+   "at": 0.6
+  },
+  {
+   "t0": 18.784,
+   "t1": 26.113,
+   "i": 3,
+   "segs": [
+    [
+     18.784,
+     21.642
+    ],
+    [
+     21.922,
+     25.762
+    ]
+   ],
+   "g": "quote",
+   "q": "so as to form a pocket under which a spoon is manipulated",
+   "hit": "a spoon is manipulated",
+   "src": "US 1,324,659 \u00b7 description"
+  },
+  {
+   "t0": 26.113,
+   "t1": 30.24,
+   "i": 4,
+   "segs": [
+    [
+     26.113,
+     29.889
+    ]
+   ],
+   "g": "fig",
+   "fig": "shield1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "FINGER RING",
+     90,
+     270,
+     -60,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 30.24,
+   "t1": 37.717,
+   "i": 5,
+   "segs": [
+    [
+     30.24,
+     37.366
+    ]
+   ],
+   "g": "quote",
+   "q": "the eatable or pulp portion of the fruit is visible by reason of the transparency of the shield",
+   "hit": "visible",
+   "src": "US 1,324,659 \u00b7 description"
+  },
+  {
+   "t0": 37.717,
+   "t1": 40.351,
+   "i": 6,
+   "segs": [
+    [
+     37.717,
+     39.85
+    ]
+   ],
+   "g": "fig",
+   "fig": "shield2",
+   "figno": "2",
+   "calls": [
+    [
+     "THE WINDOW",
+     300,
+     150,
+     100,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 40.351,
+   "t1": 46.913,
+   "i": 7,
+   "segs": [
+    [
+     40.351,
+     43.828
+    ],
+    [
+     44.108,
+     46.562
+    ]
+   ],
+   "g": "fig",
+   "fig": "gfb1",
+   "figno": "1",
+   "calls": [
+    [
+     "THE HOOD",
+     250,
+     130,
+     110,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 46.913,
+   "t1": 51.064,
+   "i": 8,
+   "segs": [
+    [
+     46.913,
+     48.491
+    ],
+    [
+     48.771,
+     50.713
+    ]
+   ],
+   "g": "quote",
+   "q": "thrown away after a single use",
+   "hit": "single use",
+   "src": "US 1,661,036 \u00b7 description"
+  },
+  {
+   "t0": 51.064,
+   "t1": 55.938,
+   "i": 9,
+   "segs": [
+    [
+     51.064,
+     55.437
+    ]
+   ],
+   "g": "quote",
+   "q": "may be used to bear advertising matter",
+   "hit": "advertising matter",
+   "src": "US 1,661,036 \u00b7 description"
+  },
+  {
+   "t0": 55.938,
+   "t1": 64.1,
+   "i": 10,
+   "segs": [
+    [
+     55.938,
+     57.645
+    ],
+    [
+     58.145,
+     59.873
+    ],
+    [
+     60.373,
+     61.247
+    ]
+   ],
+   "g": "stamp",
+   "title": "FRUIT-EATING|SHIELD",
+   "filed": "MAY 20, 1919",
+   "date": "DEC. 9, 1919",
+   "big": true,
+   "at": 2.4
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.214,
+   "txt": "This is a"
+  },
+  {
+   "t0": 1.214,
+   "t1": 2.078,
+   "txt": "real U.S."
+  },
+  {
+   "t0": 2.578,
+   "t1": 3.261,
+   "txt": "patent."
+  },
+  {
+   "t0": 3.761,
+   "t1": 4.87,
+   "txt": "A glass shield."
+  },
+  {
+   "t0": 5.37,
+   "t1": 6.04,
+   "txt": "For half a"
+  },
+  {
+   "t0": 6.04,
+   "t1": 6.778,
+   "txt": "grapefruit."
+  },
+  {
+   "t0": 7.229,
+   "t1": 7.769,
+   "txt": "Because,"
+  },
+  {
+   "t0": 7.769,
+   "t1": 8.445,
+   "txt": "in its own"
+  },
+  {
+   "t0": 8.445,
+   "t1": 8.85,
+   "txt": "words,"
+  },
+  {
+   "t0": 8.85,
+   "t1": 10.134,
+   "txt": "the manipulation of"
+  },
+  {
+   "t0": 10.134,
+   "t1": 11.147,
+   "txt": "a spoon therein"
+  },
+  {
+   "t0": 11.147,
+   "t1": 12.228,
+   "txt": "causes the juice"
+  },
+  {
+   "t0": 12.228,
+   "t1": 13.106,
+   "txt": "to be ejected"
+  },
+  {
+   "t0": 13.106,
+   "t1": 14.052,
+   "txt": "and sprayed to"
+  },
+  {
+   "t0": 14.052,
+   "t1": 15.336,
+   "txt": "great disadvantage."
+  },
+  {
+   "t0": 15.687,
+   "t1": 16.519,
+   "txt": "Approved."
+  },
+  {
+   "t0": 16.939,
+   "t1": 18.283,
+   "txt": "Nineteen nineteen."
+  },
+  {
+   "t0": 18.784,
+   "t1": 19.184,
+   "txt": "It is a"
+  },
+  {
+   "t0": 19.184,
+   "t1": 19.927,
+   "txt": "disk of glass"
+  },
+  {
+   "t0": 19.927,
+   "t1": 20.842,
+   "txt": "that clamps onto"
+  },
+  {
+   "t0": 20.842,
+   "t1": 21.642,
+   "txt": "the cut fruit."
+  },
+  {
+   "t0": 21.922,
+   "t1": 22.498,
+   "txt": "A hood on"
+  },
+  {
+   "t0": 22.498,
+   "t1": 23.202,
+   "txt": "top forms a"
+  },
+  {
+   "t0": 23.202,
+   "t1": 24.354,
+   "txt": "pocket under which"
+  },
+  {
+   "t0": 24.354,
+   "t1": 24.994,
+   "txt": "a spoon is"
+  },
+  {
+   "t0": 24.994,
+   "t1": 25.762,
+   "txt": "manipulated."
+  },
+  {
+   "t0": 26.113,
+   "t1": 26.893,
+   "txt": "A finger ring"
+  },
+  {
+   "t0": 26.893,
+   "t1": 27.672,
+   "txt": "lets you hold"
+  },
+  {
+   "t0": 27.672,
+   "t1": 28.511,
+   "txt": "the shield and"
+  },
+  {
+   "t0": 28.511,
+   "t1": 29.35,
+   "txt": "the fruit with"
+  },
+  {
+   "t0": 29.35,
+   "t1": 29.889,
+   "txt": "one hand."
+  },
+  {
+   "t0": 30.24,
+   "t1": 31.115,
+   "txt": "And because it"
+  },
+  {
+   "t0": 31.115,
+   "t1": 31.678,
+   "txt": "is glass,"
+  },
+  {
+   "t0": 31.678,
+   "t1": 32.553,
+   "txt": "the eatable or"
+  },
+  {
+   "t0": 32.553,
+   "t1": 33.49,
+   "txt": "pulp portion of"
+  },
+  {
+   "t0": 33.49,
+   "t1": 34.241,
+   "txt": "the fruit is"
+  },
+  {
+   "t0": 34.241,
+   "t1": 35.303,
+   "txt": "visible by reason"
+  },
+  {
+   "t0": 35.303,
+   "t1": 36.491,
+   "txt": "of the transparency"
+  },
+  {
+   "t0": 36.491,
+   "t1": 37.366,
+   "txt": "of the shield."
+  },
+  {
+   "t0": 37.717,
+   "t1": 38.373,
+   "txt": "You eat your"
+  },
+  {
+   "t0": 38.373,
+   "t1": 39.467,
+   "txt": "grapefruit through a"
+  },
+  {
+   "t0": 39.467,
+   "t1": 39.85,
+   "txt": "window."
+  },
+  {
+   "t0": 40.351,
+   "t1": 41.176,
+   "txt": "And nine years"
+  },
+  {
+   "t0": 41.176,
+   "t1": 41.53,
+   "txt": "later,"
+  },
+  {
+   "t0": 41.53,
+   "t1": 42.65,
+   "txt": "another patent gave"
+  },
+  {
+   "t0": 42.65,
+   "t1": 43.593,
+   "txt": "the grapefruit a"
+  },
+  {
+   "t0": 43.593,
+   "t1": 43.828,
+   "txt": "hat."
+  },
+  {
+   "t0": 44.108,
+   "t1": 44.904,
+   "txt": "A tall paper"
+  },
+  {
+   "t0": 44.904,
+   "t1": 45.236,
+   "txt": "hood,"
+  },
+  {
+   "t0": 45.236,
+   "t1": 46.23,
+   "txt": "pinned into the"
+  },
+  {
+   "t0": 46.23,
+   "t1": 46.562,
+   "txt": "rind."
+  },
+  {
+   "t0": 46.913,
+   "t1": 47.736,
+   "txt": "This one was"
+  },
+  {
+   "t0": 47.736,
+   "t1": 48.491,
+   "txt": "disposable."
+  },
+  {
+   "t0": 48.771,
+   "t1": 49.871,
+   "txt": "Thrown away after"
+  },
+  {
+   "t0": 49.871,
+   "t1": 50.713,
+   "txt": "a single use."
+  },
+  {
+   "t0": 51.064,
+   "t1": 51.912,
+   "txt": "And the hood,"
+  },
+  {
+   "t0": 51.912,
+   "t1": 53.022,
+   "txt": "the patent notes,"
+  },
+  {
+   "t0": 53.022,
+   "t1": 53.74,
+   "txt": "may be used"
+  },
+  {
+   "t0": 53.74,
+   "t1": 54.98,
+   "txt": "to bear advertising"
+  },
+  {
+   "t0": 54.98,
+   "t1": 55.437,
+   "txt": "matter."
+  },
+  {
+   "t0": 55.938,
+   "t1": 56.669,
+   "txt": "A window for"
+  },
+  {
+   "t0": 56.669,
+   "t1": 57.645,
+   "txt": "your grapefruit."
+  },
+  {
+   "t0": 58.145,
+   "t1": 58.809,
+   "txt": "Then a hat"
+  },
+  {
+   "t0": 58.809,
+   "t1": 59.474,
+   "txt": "with an ad"
+  },
+  {
+   "t0": 59.474,
+   "t1": 59.873,
+   "txt": "on it."
+  },
+  {
+   "t0": 60.373,
+   "t1": 61.247,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.229
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 15.687
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 18.784
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 26.113
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 30.24
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 37.717
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 40.351
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 46.913
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 51.064
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 55.938
+  }
+ ],
+ "hook": "A SHIELD|FOR [WHAT]?",
+ "hook2": "A SHIELD FOR|[GRAPEFRUIT]",
+ "hookSwitch": 2,
+ "num": "US 1,324,659",
+ "tt": true
+}
