@@ -1,0 +1,179 @@
+4,512,567
+
+1
+
+EXERCISE BICYCLE APPARATUS
+PARTICULARLY ADAPTED FOR CONTROLLING
+VIDEO GAMES
+
+BACKGROUND OF THE INVENTION
+
+This invention relates to an exercise device in general
+and more particularly to an exercise bicycle including
+apparatus in conjunction with the bicycle for control-
+ling a video game.
+
+As one can ascertain, video games have become ex-
+tremely popular and are played by many people, partic-
+ularly those in their teenage years.
+
+Based on the above considerations, many people have
+serious complaints about the effect of video games on
+the general health of the children regarding the lack of
+physical exercise that one accomplishes in spending
+many hours in playing such games. It is basically an
+object of the present invention to devise an exercise
+bicycle which has apparatus incorporated therein to
+enable one to fully control and play any type of video
+game while performing worthwhile exercise.
+
+The concept of exercising while watching television
+or engaging in some other activity is discerned in the
+patent art and various devices exist which include com-
+binations of exercise with some visual or peripheral
+activity.
+
+For example, U.S. Pat. No. 3,984,666 entitled CALO-
+RIE METERING EXERCISER by B. Barron, issued
+on Oct. 5, 1976. This patent shows a bicycle which is
+combined with an electronic circuit which converts the
+output energy from the bicycle into calories. In this
+manner, the user of the bicycle can determine how
+much energy he expended during exercising. This pa-
+tent, of course, is not pertinent to exercise and pleasure
+activities but is generally related to the field of inven-
+tion.
+
+U.S. Pat. No. 4,060,239 entitled ERGOMETER
+WITH AUTOMATIC LOAD CONTROL SYSTEM
+issued on Nov. 29, 1977 to W. Pfleiderer, et al. This
+patent also shows a device for measuring energy in
+regard to the amount of work expended by a user in
+operating an exercise bicycle. Other patents as U.S. Pat.
+No. 4,141,630 entitled BICYCLE by C. H. Emmons,
+issued on Feb. 27, 1979 show a bicycle which operates
+a motion picture projector. The purpose of the appara-
+tus is to allow the user to view a scene as he is exercising
+where the passing of the scene will vary according to
+the speed of the bicycle which is analogous to riding
+outdoors.
+
+U.S. Pat. No. 4,298,893 entitled TV ENERGIZED
+BY EXERCISE BICYCLE issued to J. H. Holmes on
+Nov. 3, 1981, also shows an exercise bicycle which
+operates a generator which charges a battery to supply
+power to a television. Hence in order to watch televi-
+sion, one must operate the generator by means of the
+bicycle, and if one does not do so, one will not be able
+to view the television.
+
+There are many other patents which relate to a com-
+bination of exercise with some peripheral equipment
+which is operated directly by the exercise equipment to
+generate some type of display.
+
+In any event, the present apparatus concerns an exer-
+cise bicycle which includes unique controls incorpo-
+rated on the bicycle to enable a user to control a video
+game according to his dexterity and based on operating
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+50
+
+35
+
+60
+
+65
+
+2
+
+the bicycle according to the characteristics of the game
+he is participating in.
+
+BRIEF DESCRIPTION OF THE PREFERRED
+EMBODIMENT
+
+An exercising apparatus controlling a video game,
+said game of the type having input terminals for receiv-
+ing electrical type signals necessary to control the
+movement of a particular object associated with said
+video game as displayed on the screen of a television
+receiver associated with said game, comprising in com-
+bination therewith an exercise bicycle having a driven
+wheel and a movable handlebar assembly means cou-
+pled to said driven wheel to provide an output propor-
+tional to the speed of said wheel, means coupled to said
+handlebar assembly to provide an output proportional
+to the movement of said assembly in a particular plane
+and interface means responsive to said outputs for cou-
+pling the same to said input terminals of said video
+game.
+
+BRIEF DESCRIPTION OF THE FIGURES
+
+FIG. 1 is a simplified block diagram of the exercise
+apparatus employed with a video game.
+
+FIG. 2 is a detailed mechanical perspective view of
+the exercise apparatus as shown in FIG. 1.
+
+FIG. 3 is a top plan view of a gear knob utilized in
+this invention.
+
+FIG. 4 is a top plan view of a control bracket or gear
+strip utilized in this invention.
+
+FIG. 5 is a partial plan view depicting a control po-
+tentiometer.
+
+FIG. 6 is a simplified schematic view of an interface
+box employed in this invention.
+
+FIG. 7 is a simplified diagrammatic view of a switch
+controlled exercise bicycle according to this invention.
+
+FIG. 8 is a simple electrical schematic view of a cir-
+cuit used to activate a video game according to the
+speed at which the operator pedals.
+
+DETAILED DESCRIPTION OF THE FIGURES
+
+Referring to FIG. 1, there is shown a general block
+diagram of the apparatus according to this invention. As
+is well known, video games are available from any
+sources. A particular popular type of game is manufac-
+tured by the Atari Company, and essentially, the video
+game 10 is a specialized type of computer which is
+coupled to the antenna input of a conventional televi-
+sion receiver 12. The video game 10 is adapted to re-
+ceive a video cartridge, which cartridge contains pro-
+gram instructions and which program generates a dis-
+play on the screen of the video receiver enabling the
+user to participate in various games.
+
+A typical video game apparatus which is widely
+available in today’s market is designated as the Atari 400
+or the Atari 800. There ar many other manufacturers of
+such games as well. Essentially, all of the games operate
+together with a module as 10 which as indicated above
+is a specialized computer. As such, the module 10 con-
+tains various inputs which are designated at “paddle”
+inputs and also contains switch inputs. The inputs are a
+series of jacks which appear on the housing containing
+the computer. These inputs enable one to couple vari-
+ous controls to the same such as joy stick controls or
+various other types of mechanical controls to enable a
+user to move a joy stick or the control so that he can
+manipulate various characters associated with the game

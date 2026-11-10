@@ -1,0 +1,250 @@
+{
+ "T": 25.47,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.762,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.779
+    ],
+    [
+     2.179,
+     6.211
+    ]
+   ],
+   "g": "fig",
+   "fig": "armor1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "HANDS",
+     168,
+     894,
+     -130,
+     60
+    ],
+    [
+     "KNEES",
+     288,
+     1062,
+     -200,
+     40
+    ],
+    [
+     "BACK",
+     504,
+     294,
+     160,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 6.762,
+   "t1": 14.484,
+   "i": 1,
+   "segs": [
+    [
+     6.762,
+     8.682
+    ],
+    [
+     8.962,
+     9.73
+    ],
+    [
+     10.01,
+     10.672
+    ],
+    [
+     10.952,
+     12.146
+    ],
+    [
+     12.426,
+     14.133
+    ]
+   ],
+   "g": "fig",
+   "fig": "armorde",
+   "figno": "2d, 2e"
+  },
+  {
+   "t0": 14.484,
+   "t1": 17.709,
+   "i": 2,
+   "segs": [
+    [
+     14.484,
+     15.316
+    ],
+    [
+     15.736,
+     17.208
+    ]
+   ],
+   "g": "stamp",
+   "title": "ARMOR WITH|ROLLERS",
+   "filed": "MAY 31, 1996",
+   "date": "JULY 27, 1999",
+   "at": 0.6
+  },
+  {
+   "t0": 17.709,
+   "t1": 25.47,
+   "i": 3,
+   "segs": [
+    [
+     17.709,
+     22.616
+    ]
+   ],
+   "g": "quote",
+   "q": "he can move his arms to the \"snow-plough position\"",
+   "hit": "snow-plough position",
+   "src": "US 5,926,857 \u00b7 description"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.779,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.179,
+   "t1": 2.919,
+   "txt": "A suit with"
+  },
+  {
+   "t0": 2.919,
+   "t1": 3.927,
+   "txt": "rollers on your"
+  },
+  {
+   "t0": 3.927,
+   "t1": 4.33,
+   "txt": "hands,"
+  },
+  {
+   "t0": 4.33,
+   "t1": 4.8,
+   "txt": "elbows,"
+  },
+  {
+   "t0": 4.8,
+   "t1": 5.203,
+   "txt": "knees,"
+  },
+  {
+   "t0": 5.203,
+   "t1": 6.211,
+   "txt": "chest and back."
+  },
+  {
+   "t0": 6.762,
+   "t1": 7.362,
+   "txt": "So you can"
+  },
+  {
+   "t0": 7.362,
+   "t1": 8.142,
+   "txt": "roll in every"
+  },
+  {
+   "t0": 8.142,
+   "t1": 8.682,
+   "txt": "position."
+  },
+  {
+   "t0": 8.962,
+   "t1": 9.73,
+   "txt": "Standing."
+  },
+  {
+   "t0": 10.01,
+   "t1": 10.672,
+   "txt": "Kneeling."
+  },
+  {
+   "t0": 10.952,
+   "t1": 12.146,
+   "txt": "Even lying flat."
+  },
+  {
+   "t0": 12.426,
+   "t1": 13.185,
+   "txt": "On any hard,"
+  },
+  {
+   "t0": 13.185,
+   "t1": 14.133,
+   "txt": "smooth surface."
+  },
+  {
+   "t0": 14.484,
+   "t1": 15.316,
+   "txt": "Approved."
+  },
+  {
+   "t0": 15.736,
+   "t1": 17.208,
+   "txt": "Nineteen ninety-nine."
+  },
+  {
+   "t0": 17.709,
+   "t1": 18.484,
+   "txt": "And to brake"
+  },
+  {
+   "t0": 18.484,
+   "t1": 19.581,
+   "txt": "while lying down,"
+  },
+  {
+   "t0": 19.581,
+   "t1": 20.291,
+   "txt": "he can move"
+  },
+  {
+   "t0": 20.291,
+   "t1": 21.002,
+   "txt": "his arms to"
+  },
+  {
+   "t0": 21.002,
+   "t1": 22.616,
+   "txt": "the snow-plough position."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.762
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 14.484
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.709
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "FULL-BODY|[SKATES] \u00b7 1999",
+ "hookSwitch": 2,
+ "num": "US 5,926,857",
+ "tt": false
+}

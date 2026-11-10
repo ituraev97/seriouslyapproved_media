@@ -1,0 +1,85 @@
+United States Patent 15
+Phillips
+
+4,512,567
+Apr, 23, 1985
+
+Patent Number:
+Date of Patent:
+
+[11]
+[45]
+
+EXERCISE BICYCLE APPARATUS
+PARTICULARLY ADAPTED FOR
+CONTROLLING VIDEO GAMES
+
+Robert V. Phillips, 113 High St.,
+South Bound Brook, N.J. 08880
+
+479,511
+
+[54]
+
+[76] Inventor:
+
+[21]
+[22]
+[51]
+[52]
+[58]
+
+[56]
+
+Appl. No.:
+Filed: Mar. 28, 1983
+
+Tint, C1? occ eceseerecenecessenerereeseeeenes A63B 69/16
+US, Ch. occ eeeeeeccesseneeneee 272/73; 273/DIG. 28
+Field of Search .................. 272/73; 273/DIG. 28
+
+References Cited
+U.S. PATENT DOCUMENTS
+
+4,278,095 7/1981 Lapeyre .....sccsssees 273/DIG. 28
+4,298,893 11/1981 Holmes ... .... 273/DIG. 28
+4,382,166 5/1983 Kimo... esceesceeseeee 273/DIG. 28
+
+FOREIGN PATENT DOCUMENTS
+2822343 11/1979 Fed. Rep. of Germany ........ 272/73
+
+Primary Examiner—Richard C. Pinkham
+Assistant Examiner-—Leo P. Picard
+
+PADDLE
+
+SWITCH
+
+Attorney, Agent, or Firm—Arthur L. Plevy
+[57] ABSTRACT
+
+An exercise bicycle is associated with controllable ap-
+paratus such as potentiometers which provide an elec-
+trical signal based on the motion of the handlebars as
+well as signals proportional to the speed at which the
+bicycle is being operated at. These signals are interfaced
+with a typical microcomputer or video game machine
+which can utilize these signals to control the motions
+necessary to operate a video game. In this manner the
+apparatus generates five separate control signals one of
+which is indicative of the speed that the bicycle is being
+pedaled, the left to right movement of the handlebars as
+well as the forward to backward or up and down move-
+ment of the handiebars. There are associated with the
+handlebars two separate switches which can further be
+activated by the operator. In this manner the exercise
+bicycle is used to control and fully operate the video
+game thereby allowing a user to receive healthful exer-
+cise while participating in the skills necessary to play
+the video game.
+
+9 Claims, 8 Drawing Figures
+
+SWITCH
+
+INPUT INPUT

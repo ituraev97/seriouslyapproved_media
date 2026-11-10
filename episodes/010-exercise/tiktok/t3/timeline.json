@@ -1,0 +1,604 @@
+{
+ "T": 63.68,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.388,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.206
+    ],
+    [
+     2.706,
+     4.071
+    ],
+    [
+     4.571,
+     5.937
+    ]
+   ],
+   "g": "fig",
+   "fig": "shoes9",
+   "figno": "9",
+   "draw": false,
+   "calls": [
+    [
+     "BELLS",
+     684,
+     132,
+     -130,
+     -90
+    ],
+    [
+     "SPRINGS",
+     492,
+     264,
+     120,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 6.388,
+   "t1": 13.995,
+   "i": 1,
+   "segs": [
+    [
+     6.388,
+     7.412
+    ],
+    [
+     7.692,
+     13.644
+    ]
+   ],
+   "g": "quote",
+   "q": "The hopping and dancing shoe 91 is suitable to accompany music such as rock n' roll, a flamenco or disco",
+   "hit": "a flamenco or disco",
+   "src": "US 4,457,084 \u00b7 description"
+  },
+  {
+   "t0": 13.995,
+   "t1": 17.262,
+   "i": 2,
+   "segs": [
+    [
+     13.995,
+     14.827
+    ],
+    [
+     15.247,
+     16.761
+    ]
+   ],
+   "g": "stamp",
+   "title": "HOPPING AND|DANCING SHOES",
+   "filed": "APR. 8, 1981",
+   "date": "JULY 3, 1984",
+   "at": 0.6
+  },
+  {
+   "t0": 17.262,
+   "t1": 21.453,
+   "i": 3,
+   "segs": [
+    [
+     17.262,
+     21.102
+    ]
+   ],
+   "g": "fig",
+   "fig": "shoes9",
+   "figno": "9",
+   "draw": false,
+   "ring": [
+    684,
+    132,
+    150
+   ],
+   "calls": [
+    [
+     "BELLS",
+     684,
+     132,
+     -130,
+     -90
+    ]
+   ]
+  },
+  {
+   "t0": 21.453,
+   "t1": 28.207,
+   "i": 4,
+   "segs": [
+    [
+     21.453,
+     23.459
+    ],
+    [
+     23.739,
+     27.856
+    ]
+   ],
+   "g": "fig",
+   "fig": "shoes1",
+   "figno": "1",
+   "calls": [
+    [
+     "SPRINGS",
+     420,
+     264,
+     150,
+     60
+    ],
+    [
+     "BASE",
+     396,
+     324,
+     -60,
+     90
+    ]
+   ]
+  },
+  {
+   "t0": 28.207,
+   "t1": 33.657,
+   "i": 5,
+   "segs": [
+    [
+     28.207,
+     33.306
+    ]
+   ],
+   "g": "quote",
+   "q": "laces up the shoe firmly to hop and/or dance",
+   "hit": "hop and/or dance",
+   "src": "US 4,457,084 \u00b7 description"
+  },
+  {
+   "t0": 33.657,
+   "t1": 42.973,
+   "i": 6,
+   "segs": [
+    [
+     33.657,
+     34.553
+    ],
+    [
+     34.833,
+     36.198
+    ],
+    [
+     36.478,
+     42.622
+    ]
+   ],
+   "g": "quote",
+   "q": "to create a desired rhythm energized by the vibration or rhythmical movement of the player's foot",
+   "hit": "a desired rhythm",
+   "src": "US 4,457,084 \u00b7 description"
+  },
+  {
+   "t0": 42.973,
+   "t1": 50.196,
+   "i": 7,
+   "segs": [
+    [
+     42.973,
+     45.042
+    ],
+    [
+     45.322,
+     49.845
+    ]
+   ],
+   "g": "quote",
+   "q": "It can also deaden metallic noises caused by the contact of the spring coils during the repeated hopping and dancing.",
+   "hit": "metallic noises",
+   "src": "US 4,457,084 \u00b7 description"
+  },
+  {
+   "t0": 50.196,
+   "t1": 56.822,
+   "i": 8,
+   "segs": [
+    [
+     50.196,
+     51.497
+    ],
+    [
+     51.997,
+     56.371
+    ]
+   ],
+   "g": "quote",
+   "q": "The present hopping and dancing shoes may be used by middle aged men for weight control exercise",
+   "hit": "middle aged men",
+   "src": "US 4,457,084 \u00b7 description"
+  },
+  {
+   "t0": 56.822,
+   "t1": 63.68,
+   "i": 9,
+   "segs": [
+    [
+     56.822,
+     58.038
+    ],
+    [
+     58.538,
+     59.455
+    ],
+    [
+     59.955,
+     60.83
+    ]
+   ],
+   "g": "stamp",
+   "title": "HOPPING AND|DANCING SHOES",
+   "filed": "APR. 8, 1981",
+   "date": "JULY 3, 1984",
+   "big": true,
+   "at": 1.4
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.246,
+   "txt": "These are real"
+  },
+  {
+   "t0": 1.246,
+   "t1": 2.206,
+   "txt": "patented shoes."
+  },
+  {
+   "t0": 2.706,
+   "t1": 4.071,
+   "txt": "On giant springs."
+  },
+  {
+   "t0": 4.571,
+   "t1": 5.378,
+   "txt": "With bells on"
+  },
+  {
+   "t0": 5.378,
+   "t1": 5.937,
+   "txt": "the side."
+  },
+  {
+   "t0": 6.388,
+   "t1": 7.412,
+   "txt": "Why the bells?"
+  },
+  {
+   "t0": 7.692,
+   "t1": 8.825,
+   "txt": "Because the shoe"
+  },
+  {
+   "t0": 8.825,
+   "t1": 9.817,
+   "txt": "is suitable to"
+  },
+  {
+   "t0": 9.817,
+   "t1": 11.235,
+   "txt": "accompany music such"
+  },
+  {
+   "t0": 11.235,
+   "t1": 11.943,
+   "txt": "as rock n'"
+  },
+  {
+   "t0": 11.943,
+   "t1": 12.297,
+   "txt": "roll,"
+  },
+  {
+   "t0": 12.297,
+   "t1": 13.219,
+   "txt": "a flamenco or"
+  },
+  {
+   "t0": 13.219,
+   "t1": 13.644,
+   "txt": "disco."
+  },
+  {
+   "t0": 13.995,
+   "t1": 14.827,
+   "txt": "Approved."
+  },
+  {
+   "t0": 15.247,
+   "t1": 16.761,
+   "txt": "Nineteen eighty-four."
+  },
+  {
+   "t0": 17.262,
+   "t1": 17.994,
+   "txt": "Bells can be"
+  },
+  {
+   "t0": 17.994,
+   "t1": 18.908,
+   "txt": "attached to the"
+  },
+  {
+   "t0": 18.908,
+   "t1": 19.639,
+   "txt": "sides of the"
+  },
+  {
+   "t0": 19.639,
+   "t1": 19.944,
+   "txt": "shoe,"
+  },
+  {
+   "t0": 19.944,
+   "t1": 20.493,
+   "txt": "or on its"
+  },
+  {
+   "t0": 20.493,
+   "t1": 21.102,
+   "txt": "shoe lace."
+  },
+  {
+   "t0": 21.453,
+   "t1": 22.352,
+   "txt": "Figure one is"
+  },
+  {
+   "t0": 22.352,
+   "t1": 23.459,
+   "txt": "the basic model."
+  },
+  {
+   "t0": 23.739,
+   "t1": 24.785,
+   "txt": "A lace-up shoe,"
+  },
+  {
+   "t0": 24.785,
+   "t1": 25.483,
+   "txt": "on two big"
+  },
+  {
+   "t0": 25.483,
+   "t1": 26.391,
+   "txt": "coil springs,"
+  },
+  {
+   "t0": 26.391,
+   "t1": 27.019,
+   "txt": "on top of"
+  },
+  {
+   "t0": 27.019,
+   "t1": 27.856,
+   "txt": "a flat base."
+  },
+  {
+   "t0": 28.207,
+   "t1": 29.002,
+   "txt": "You put your"
+  },
+  {
+   "t0": 29.002,
+   "t1": 29.531,
+   "txt": "foot in,"
+  },
+  {
+   "t0": 29.531,
+   "t1": 30.458,
+   "txt": "and the player"
+  },
+  {
+   "t0": 30.458,
+   "t1": 31.253,
+   "txt": "laces up the"
+  },
+  {
+   "t0": 31.253,
+   "t1": 32.18,
+   "txt": "shoe firmly to"
+  },
+  {
+   "t0": 32.18,
+   "t1": 32.71,
+   "txt": "hop and,"
+  },
+  {
+   "t0": 32.71,
+   "t1": 32.908,
+   "txt": "or,"
+  },
+  {
+   "t0": 32.908,
+   "t1": 33.306,
+   "txt": "dance."
+  },
+  {
+   "t0": 33.657,
+   "t1": 34.553,
+   "txt": "No bells?"
+  },
+  {
+   "t0": 34.833,
+   "t1": 36.198,
+   "txt": "Castanets work too."
+  },
+  {
+   "t0": 36.478,
+   "t1": 37.205,
+   "txt": "To create a"
+  },
+  {
+   "t0": 37.205,
+   "t1": 38.79,
+   "txt": "desired rhythm energized"
+  },
+  {
+   "t0": 38.79,
+   "t1": 39.847,
+   "txt": "by the vibration"
+  },
+  {
+   "t0": 39.847,
+   "t1": 41.301,
+   "txt": "or rhythmical movement"
+  },
+  {
+   "t0": 41.301,
+   "t1": 42.292,
+   "txt": "of the player's"
+  },
+  {
+   "t0": 42.292,
+   "t1": 42.622,
+   "txt": "foot."
+  },
+  {
+   "t0": 42.973,
+   "t1": 43.947,
+   "txt": "The cone springs"
+  },
+  {
+   "t0": 43.947,
+   "t1": 44.677,
+   "txt": "even fix the"
+  },
+  {
+   "t0": 44.677,
+   "t1": 45.042,
+   "txt": "noise."
+  },
+  {
+   "t0": 45.322,
+   "t1": 46.291,
+   "txt": "They can deaden"
+  },
+  {
+   "t0": 46.291,
+   "t1": 47.713,
+   "txt": "metallic noises caused"
+  },
+  {
+   "t0": 47.713,
+   "t1": 48.617,
+   "txt": "by the contact"
+  },
+  {
+   "t0": 48.617,
+   "t1": 49.457,
+   "txt": "of the spring"
+  },
+  {
+   "t0": 49.457,
+   "t1": 49.845,
+   "txt": "coils."
+  },
+  {
+   "t0": 50.196,
+   "t1": 50.912,
+   "txt": "And who are"
+  },
+  {
+   "t0": 50.912,
+   "t1": 51.497,
+   "txt": "they for?"
+  },
+  {
+   "t0": 51.997,
+   "t1": 52.786,
+   "txt": "They may be"
+  },
+  {
+   "t0": 52.786,
+   "t1": 53.79,
+   "txt": "used by middle"
+  },
+  {
+   "t0": 53.79,
+   "t1": 54.65,
+   "txt": "aged men for"
+  },
+  {
+   "t0": 54.65,
+   "t1": 56.371,
+   "txt": "weight control exercise."
+  },
+  {
+   "t0": 56.822,
+   "t1": 58.038,
+   "txt": "Two pogo sticks."
+  },
+  {
+   "t0": 58.538,
+   "t1": 59.455,
+   "txt": "With bells."
+  },
+  {
+   "t0": 59.955,
+   "t1": 60.83,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.388
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.995
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.262
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.453
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 28.207
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 33.657
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 42.973
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 50.196
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 56.822
+  }
+ ],
+ "hook": "SHOES WITH|[BELLS] ON",
+ "hook2": "SPRING|[SHOES] \u00b7 1984",
+ "hookSwitch": 2,
+ "num": "US 4,457,084",
+ "tt": true
+}

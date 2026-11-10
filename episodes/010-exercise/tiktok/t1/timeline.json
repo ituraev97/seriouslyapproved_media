@@ -1,0 +1,583 @@
+{
+ "T": 65.8,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.464,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.822
+    ],
+    [
+     2.322,
+     3.495
+    ],
+    [
+     3.995,
+     5.83
+    ],
+    [
+     6.33,
+     7.013
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "A MAN",
+     270,
+     102,
+     150,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 7.464,
+   "t1": 13.532,
+   "i": 1,
+   "segs": [
+    [
+     7.464,
+     13.181
+    ]
+   ],
+   "g": "quote",
+   "q": "My invention relates to what I refer to as a gyral wheel",
+   "hit": "gyral wheel",
+   "src": "US 2,953,394 \u00b7 description"
+  },
+  {
+   "t0": 13.532,
+   "t1": 16.544,
+   "i": 2,
+   "segs": [
+    [
+     13.532,
+     14.364
+    ],
+    [
+     14.784,
+     16.043
+    ]
+   ],
+   "g": "stamp",
+   "title": "OCCUPANT PROPELLED|GYRAL WHEEL",
+   "filed": "FEB. 6, 1958",
+   "date": "SEPT. 20, 1960",
+   "at": 0.6
+  },
+  {
+   "t0": 16.544,
+   "t1": 28.377,
+   "i": 3,
+   "segs": [
+    [
+     16.544,
+     18.912
+    ],
+    [
+     19.192,
+     21.666
+    ],
+    [
+     21.946,
+     28.026
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral34",
+   "figno": "3, 4",
+   "calls": [
+    [
+     "FOOT SADDLE",
+     66,
+     534,
+     40,
+     130
+    ],
+    [
+     "HAND GRIP",
+     300,
+     530,
+     -60,
+     -110
+    ]
+   ]
+  },
+  {
+   "t0": 28.377,
+   "t1": 35.88,
+   "i": 4,
+   "segs": [
+    [
+     28.377,
+     32.452
+    ],
+    [
+     32.732,
+     33.756
+    ],
+    [
+     34.036,
+     35.529
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "FEET IN",
+     222,
+     450,
+     140,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 35.88,
+   "t1": 44.53,
+   "i": 5,
+   "segs": [
+    [
+     35.88,
+     44.179
+    ]
+   ],
+   "g": "quote",
+   "q": "moving both arms and legs in piston like fashion in various degrees of synchronization",
+   "hit": "piston like fashion",
+   "src": "US 2,953,394 \u00b7 description"
+  },
+  {
+   "t0": 44.53,
+   "t1": 50.485,
+   "i": 6,
+   "segs": [
+    [
+     44.53,
+     50.034
+    ]
+   ],
+   "g": "quote",
+   "q": "the occupant becomes in effect an axis",
+   "hit": "an axis",
+   "src": "US 2,953,394 \u00b7 description"
+  },
+  {
+   "t0": 50.485,
+   "t1": 58.839,
+   "i": 7,
+   "segs": [
+    [
+     50.485,
+     51.829
+    ],
+    [
+     52.109,
+     58.488
+    ]
+   ],
+   "g": "quote",
+   "q": "by suitable practice will be able to propel the vehicle for his enjoyment, sport and exercise",
+   "hit": "suitable practice",
+   "src": "US 2,953,394 \u00b7 description"
+  },
+  {
+   "t0": 58.839,
+   "t1": 65.8,
+   "i": 8,
+   "segs": [
+    [
+     58.839,
+     60.033
+    ],
+    [
+     60.533,
+     61.579
+    ],
+    [
+     62.079,
+     62.953
+    ]
+   ],
+   "g": "stamp",
+   "title": "OCCUPANT PROPELLED|GYRAL WHEEL",
+   "filed": "FEB. 6, 1958",
+   "date": "SEPT. 20, 1960",
+   "big": true,
+   "at": 1.4
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.926,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.926,
+   "t1": 1.822,
+   "txt": "hamster wheel."
+  },
+  {
+   "t0": 2.322,
+   "t1": 3.182,
+   "txt": "For a grown"
+  },
+  {
+   "t0": 3.182,
+   "t1": 3.495,
+   "txt": "man."
+  },
+  {
+   "t0": 3.995,
+   "t1": 4.821,
+   "txt": "And it is"
+  },
+  {
+   "t0": 4.821,
+   "t1": 5.83,
+   "txt": "a real U.S."
+  },
+  {
+   "t0": 6.33,
+   "t1": 7.013,
+   "txt": "patent."
+  },
+  {
+   "t0": 7.464,
+   "t1": 8.689,
+   "txt": "The inventor's own"
+  },
+  {
+   "t0": 8.689,
+   "t1": 9.506,
+   "txt": "name for it:"
+  },
+  {
+   "t0": 9.506,
+   "t1": 10.867,
+   "txt": "my invention relates"
+  },
+  {
+   "t0": 10.867,
+   "t1": 11.479,
+   "txt": "to what I"
+  },
+  {
+   "t0": 11.479,
+   "t1": 12.228,
+   "txt": "refer to as"
+  },
+  {
+   "t0": 12.228,
+   "t1": 13.181,
+   "txt": "a gyral wheel."
+  },
+  {
+   "t0": 13.532,
+   "t1": 14.364,
+   "txt": "Approved."
+  },
+  {
+   "t0": 14.784,
+   "t1": 16.043,
+   "txt": "Nineteen sixty."
+  },
+  {
+   "t0": 16.544,
+   "t1": 17.167,
+   "txt": "One wheel,"
+  },
+  {
+   "t0": 17.167,
+   "t1": 17.852,
+   "txt": "with a tire"
+  },
+  {
+   "t0": 17.852,
+   "t1": 18.912,
+   "txt": "like a bicycle's."
+  },
+  {
+   "t0": 19.192,
+   "t1": 20.085,
+   "txt": "On each side,"
+  },
+  {
+   "t0": 20.085,
+   "t1": 20.979,
+   "txt": "an oval frame"
+  },
+  {
+   "t0": 20.979,
+   "t1": 21.666,
+   "txt": "on spokes."
+  },
+  {
+   "t0": 21.946,
+   "t1": 23.162,
+   "txt": "Inside each frame,"
+  },
+  {
+   "t0": 23.162,
+   "t1": 23.905,
+   "txt": "a hand grip"
+  },
+  {
+   "t0": 23.905,
+   "t1": 24.581,
+   "txt": "up top and"
+  },
+  {
+   "t0": 24.581,
+   "t1": 25.459,
+   "txt": "a foot saddle"
+  },
+  {
+   "t0": 25.459,
+   "t1": 26.405,
+   "txt": "at the bottom,"
+  },
+  {
+   "t0": 26.405,
+   "t1": 27.486,
+   "txt": "riding on little"
+  },
+  {
+   "t0": 27.486,
+   "t1": 28.026,
+   "txt": "rollers."
+  },
+  {
+   "t0": 28.377,
+   "t1": 28.88,
+   "txt": "To start,"
+  },
+  {
+   "t0": 28.88,
+   "t1": 29.494,
+   "txt": "you put one"
+  },
+  {
+   "t0": 29.494,
+   "t1": 29.996,
+   "txt": "foot in a"
+  },
+  {
+   "t0": 29.996,
+   "t1": 30.833,
+   "txt": "saddle and push"
+  },
+  {
+   "t0": 30.833,
+   "t1": 31.615,
+   "txt": "off the ground"
+  },
+  {
+   "t0": 31.615,
+   "t1": 32.452,
+   "txt": "with the other."
+  },
+  {
+   "t0": 32.732,
+   "t1": 33.756,
+   "txt": "Like a scooter."
+  },
+  {
+   "t0": 34.036,
+   "t1": 34.84,
+   "txt": "Then that foot"
+  },
+  {
+   "t0": 34.84,
+   "t1": 35.529,
+   "txt": "goes in too."
+  },
+  {
+   "t0": 35.88,
+   "t1": 36.817,
+   "txt": "Then you shift"
+  },
+  {
+   "t0": 36.817,
+   "t1": 37.888,
+   "txt": "your weight from"
+  },
+  {
+   "t0": 37.888,
+   "t1": 38.624,
+   "txt": "leg to leg,"
+  },
+  {
+   "t0": 38.624,
+   "t1": 39.695,
+   "txt": "moving both arms"
+  },
+  {
+   "t0": 39.695,
+   "t1": 40.431,
+   "txt": "and legs in"
+  },
+  {
+   "t0": 40.431,
+   "t1": 41.703,
+   "txt": "piston like fashion"
+  },
+  {
+   "t0": 41.703,
+   "t1": 42.907,
+   "txt": "in various degrees"
+  },
+  {
+   "t0": 42.907,
+   "t1": 44.179,
+   "txt": "of synchronization."
+  },
+  {
+   "t0": 44.53,
+   "t1": 45.411,
+   "txt": "As the wheel"
+  },
+  {
+   "t0": 45.411,
+   "t1": 45.851,
+   "txt": "turns,"
+  },
+  {
+   "t0": 45.851,
+   "t1": 47.319,
+   "txt": "the patent explains,"
+  },
+  {
+   "t0": 47.319,
+   "t1": 48.786,
+   "txt": "the occupant becomes"
+  },
+  {
+   "t0": 48.786,
+   "t1": 49.667,
+   "txt": "in effect an"
+  },
+  {
+   "t0": 49.667,
+   "t1": 50.034,
+   "txt": "axis."
+  },
+  {
+   "t0": 50.485,
+   "t1": 51.279,
+   "txt": "It takes some"
+  },
+  {
+   "t0": 51.279,
+   "t1": 51.829,
+   "txt": "practice."
+  },
+  {
+   "t0": 52.109,
+   "t1": 53.106,
+   "txt": "But by suitable"
+  },
+  {
+   "t0": 53.106,
+   "t1": 53.704,
+   "txt": "practice,"
+  },
+  {
+   "t0": 53.704,
+   "t1": 54.368,
+   "txt": "he will be"
+  },
+  {
+   "t0": 54.368,
+   "t1": 55.298,
+   "txt": "able to propel"
+  },
+  {
+   "t0": 55.298,
+   "t1": 56.295,
+   "txt": "the vehicle for"
+  },
+  {
+   "t0": 56.295,
+   "t1": 57.225,
+   "txt": "his enjoyment,"
+  },
+  {
+   "t0": 57.225,
+   "t1": 58.488,
+   "txt": "sport and exercise."
+  },
+  {
+   "t0": 58.839,
+   "t1": 60.033,
+   "txt": "A hamster wheel."
+  },
+  {
+   "t0": 60.533,
+   "t1": 61.579,
+   "txt": "For a person."
+  },
+  {
+   "t0": 62.079,
+   "t1": 62.953,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.464
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.532
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.544
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 28.377
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 35.88
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 44.53
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 50.485
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 58.839
+  }
+ ],
+ "hook": "LOOK AT|THIS [WHEEL]",
+ "hook2": "HAMSTER|[WHEEL] \u00b7 1960",
+ "hookSwitch": 2,
+ "num": "US 2,953,394",
+ "tt": true
+}

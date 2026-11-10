@@ -1,0 +1,292 @@
+{
+ "T": 26.75,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.464,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.822
+    ],
+    [
+     2.322,
+     3.495
+    ],
+    [
+     3.995,
+     5.83
+    ],
+    [
+     6.33,
+     7.013
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "A MAN",
+     270,
+     102,
+     150,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 7.464,
+   "t1": 12.66,
+   "i": 1,
+   "segs": [
+    [
+     7.464,
+     10.13
+    ],
+    [
+     10.41,
+     12.309
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "SADDLES",
+     222,
+     450,
+     140,
+     40
+    ],
+    [
+     "GRIPS",
+     186,
+     54,
+     -120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 12.66,
+   "t1": 16.296,
+   "i": 2,
+   "segs": [
+    [
+     12.66,
+     15.945
+    ]
+   ],
+   "g": "quote",
+   "q": "moving both arms and legs in piston like fashion in various degrees of synchronization",
+   "hit": "piston like fashion",
+   "src": "US 2,953,394 \u00b7 description"
+  },
+  {
+   "t0": 16.296,
+   "t1": 19.308,
+   "i": 3,
+   "segs": [
+    [
+     16.296,
+     17.128
+    ],
+    [
+     17.548,
+     18.807
+    ]
+   ],
+   "g": "stamp",
+   "title": "OCCUPANT PROPELLED|GYRAL WHEEL",
+   "filed": "FEB. 6, 1958",
+   "date": "SEPT. 20, 1960",
+   "at": 0.6
+  },
+  {
+   "t0": 19.308,
+   "t1": 26.75,
+   "i": 4,
+   "segs": [
+    [
+     19.308,
+     20.823
+    ],
+    [
+     21.323,
+     23.904
+    ]
+   ],
+   "g": "quote",
+   "q": "the occupant becomes in effect an axis",
+   "hit": "an axis",
+   "src": "US 2,953,394 \u00b7 description"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.926,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.926,
+   "t1": 1.822,
+   "txt": "hamster wheel."
+  },
+  {
+   "t0": 2.322,
+   "t1": 3.182,
+   "txt": "For a grown"
+  },
+  {
+   "t0": 3.182,
+   "t1": 3.495,
+   "txt": "man."
+  },
+  {
+   "t0": 3.995,
+   "t1": 4.821,
+   "txt": "And it is"
+  },
+  {
+   "t0": 4.821,
+   "t1": 5.83,
+   "txt": "a real U.S."
+  },
+  {
+   "t0": 6.33,
+   "t1": 7.013,
+   "txt": "patent."
+  },
+  {
+   "t0": 7.464,
+   "t1": 8.256,
+   "txt": "Feet in two"
+  },
+  {
+   "t0": 8.256,
+   "t1": 8.833,
+   "txt": "saddles,"
+  },
+  {
+   "t0": 8.833,
+   "t1": 9.698,
+   "txt": "hands on two"
+  },
+  {
+   "t0": 9.698,
+   "t1": 10.13,
+   "txt": "grips."
+  },
+  {
+   "t0": 10.41,
+   "t1": 11.01,
+   "txt": "Push off the"
+  },
+  {
+   "t0": 11.01,
+   "t1": 11.36,
+   "txt": "ground,"
+  },
+  {
+   "t0": 11.36,
+   "t1": 11.909,
+   "txt": "and you are"
+  },
+  {
+   "t0": 11.909,
+   "t1": 12.309,
+   "txt": "rolling."
+  },
+  {
+   "t0": 12.66,
+   "t1": 13.466,
+   "txt": "Then you move"
+  },
+  {
+   "t0": 13.466,
+   "t1": 14.272,
+   "txt": "both arms and"
+  },
+  {
+   "t0": 14.272,
+   "t1": 15.139,
+   "txt": "legs in piston"
+  },
+  {
+   "t0": 15.139,
+   "t1": 15.945,
+   "txt": "like fashion."
+  },
+  {
+   "t0": 16.296,
+   "t1": 17.128,
+   "txt": "Approved."
+  },
+  {
+   "t0": 17.548,
+   "t1": 18.807,
+   "txt": "Nineteen sixty."
+  },
+  {
+   "t0": 19.308,
+   "t1": 20.24,
+   "txt": "And the patent's"
+  },
+  {
+   "t0": 20.24,
+   "t1": 20.823,
+   "txt": "best line."
+  },
+  {
+   "t0": 21.323,
+   "t1": 22.718,
+   "txt": "The occupant becomes"
+  },
+  {
+   "t0": 22.718,
+   "t1": 23.555,
+   "txt": "in effect an"
+  },
+  {
+   "t0": 23.555,
+   "t1": 23.904,
+   "txt": "axis."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.464
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 12.66
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 16.296
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 19.308
+  }
+ ],
+ "hook": "LOOK AT|THIS [WHEEL]",
+ "hook2": "HAMSTER|[WHEEL] \u00b7 1960",
+ "hookSwitch": 3,
+ "num": "US 2,953,394",
+ "tt": false
+}

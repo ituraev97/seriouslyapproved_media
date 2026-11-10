@@ -1,0 +1,6032 @@
+{
+ "T": 627.97,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 9.756,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.505
+    ],
+    [
+     3.005,
+     3.986
+    ],
+    [
+     4.486,
+     5.595
+    ],
+    [
+     6.095,
+     7.29
+    ],
+    [
+     7.79,
+     9.305
+    ]
+   ],
+   "g": "fig",
+   "fig": "armor1",
+   "figno": "1",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "calls": [
+    [
+     "FEET",
+     396,
+     1578,
+     160,
+     20
+    ],
+    [
+     "KNEES",
+     288,
+     1062,
+     -200,
+     40
+    ],
+    [
+     "ELBOWS",
+     612,
+     498,
+     120,
+     80
+    ],
+    [
+     "HANDS",
+     168,
+     894,
+     -130,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 9.756,
+   "t1": 14.144,
+   "i": 1,
+   "segs": [
+    [
+     9.756,
+     10.78
+    ],
+    [
+     11.06,
+     12.02
+    ],
+    [
+     12.3,
+     13.793
+    ]
+   ],
+   "g": "fig",
+   "fig": "armor1",
+   "figno": "1",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "CHEST",
+     204,
+     366,
+     -160,
+     -40
+    ],
+    [
+     "BACK",
+     504,
+     294,
+     160,
+     -60
+    ],
+    [
+     "BEHIND",
+     528,
+     726,
+     170,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 14.144,
+   "t1": 17.911,
+   "i": 2,
+   "segs": [
+    [
+     14.144,
+     16.043
+    ],
+    [
+     16.323,
+     17.56
+    ]
+   ],
+   "g": "fig",
+   "fig": "armorde",
+   "figno": "2d, 2e",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 17.911,
+   "t1": 19.521,
+   "i": 3,
+   "segs": [
+    [
+     17.911,
+     19.02
+    ]
+   ],
+   "g": "stamp",
+   "title": "ARMOR WITH|ROLLERS",
+   "filed": "MAY 31, 1996",
+   "date": "JULY 27, 1999",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 19.521,
+   "t1": 41.635,
+   "i": 4,
+   "segs": [
+    [
+     19.521,
+     20.567
+    ],
+    [
+     20.847,
+     21.721
+    ],
+    [
+     22.001,
+     23.921
+    ],
+    [
+     24.201,
+     27.593
+    ],
+    [
+     27.873,
+     31.671
+    ],
+    [
+     31.951,
+     33.487
+    ],
+    [
+     33.767,
+     35.175
+    ],
+    [
+     35.455,
+     36.841
+    ],
+    [
+     37.121,
+     39.703
+    ],
+    [
+     39.983,
+     41.284
+    ]
+   ],
+   "g": "title",
+   "kicker": "ONE PATENT \u00b7 FILE 010",
+   "title": "Weird Exercise|Machines",
+   "lines": [
+    "Real drawings. Real quotes.",
+    "Really approved."
+   ],
+   "stamp": true,
+   "at": 8.0,
+   "hook": "6 WEIRD|[EXERCISE] PATENTS",
+   "side": "FILE 010 \u00b7 ONE PATENT"
+  },
+  {
+   "t0": 41.635,
+   "t1": 44.058,
+   "i": 5,
+   "segs": [
+    [
+     41.635,
+     42.403
+    ],
+    [
+     42.683,
+     43.707
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE ONE PATENT",
+   "numeral": "1",
+   "title": "Armor with|Rollers",
+   "lines": [
+    "US 5,926,857",
+    "Filed 1996 \u00b7 Issued 1999"
+   ],
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 44.058,
+   "t1": 48.508,
+   "i": 6,
+   "segs": [
+    [
+     44.058,
+     46.255
+    ],
+    [
+     46.755,
+     48.057
+    ]
+   ],
+   "g": "quote",
+   "q": "ARMOR WITH ROLLERS",
+   "hit": "ROLLERS",
+   "src": "US 5,926,857 \u00b7 title",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 48.508,
+   "t1": 61.432,
+   "i": 7,
+   "segs": [
+    [
+     48.508,
+     51.516
+    ],
+    [
+     51.796,
+     54.078
+    ],
+    [
+     54.358,
+     58.134
+    ],
+    [
+     58.414,
+     61.081
+    ]
+   ],
+   "g": "quote",
+   "q": "notably with a young audience eager for thrills",
+   "hit": "eager for thrills",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 61.432,
+   "t1": 68.783,
+   "i": 8,
+   "segs": [
+    [
+     61.432,
+     63.992
+    ],
+    [
+     64.272,
+     68.432
+    ]
+   ],
+   "g": "quote",
+   "q": "being able to use his feet only for support",
+   "hit": "feet only",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 68.783,
+   "t1": 70.03,
+   "i": 9,
+   "segs": [
+    [
+     68.783,
+     69.679
+    ]
+   ],
+   "g": "quote",
+   "q": "The object of the present invention is to propose a new sport involving skill and speed",
+   "hit": "a new sport",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "hide": true
+  },
+  {
+   "t0": 70.03,
+   "t1": 76.262,
+   "i": 10,
+   "segs": [
+    [
+     70.03,
+     75.811
+    ]
+   ],
+   "g": "quote",
+   "q": "The object of the present invention is to propose a new sport involving skill and speed",
+   "hit": "a new sport",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "typed": false
+  },
+  {
+   "t0": 76.262,
+   "t1": 84.637,
+   "i": 11,
+   "segs": [
+    [
+     76.262,
+     80.316
+    ],
+    [
+     80.596,
+     84.286
+    ]
+   ],
+   "g": "quote",
+   "q": "in all positions while constantly varying his bearing points",
+   "hit": "in all positions",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 84.637,
+   "t1": 92.716,
+   "i": 12,
+   "segs": [
+    [
+     84.637,
+     85.981
+    ],
+    [
+     86.261,
+     87.328
+    ],
+    [
+     87.608,
+     92.365
+    ]
+   ],
+   "g": "fig",
+   "fig": "armor1",
+   "figno": "1",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "draw": false,
+   "ring": [
+    252,
+    150,
+    190
+   ],
+   "calls": [
+    [
+     "CONVENTIONAL",
+     252,
+     90,
+     160,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 92.716,
+   "t1": 101.627,
+   "i": 13,
+   "segs": [
+    [
+     92.716,
+     96.642
+    ],
+    [
+     96.922,
+     98.628
+    ],
+    [
+     98.908,
+     101.276
+    ]
+   ],
+   "g": "fig",
+   "fig": "armor1",
+   "figno": "1",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "2 ROLLERS",
+     612,
+     498,
+     120,
+     80
+    ],
+    [
+     "1 BIG ROLLER",
+     168,
+     894,
+     -60,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 101.627,
+   "t1": 111.176,
+   "i": 14,
+   "segs": [
+    [
+     101.627,
+     104.955
+    ],
+    [
+     105.235,
+     110.825
+    ]
+   ],
+   "g": "quote",
+   "q": "A gripping opening 13 is also provided enabling the user to have the use of his hands.",
+   "hit": "the use of his hands",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 111.176,
+   "t1": 120.596,
+   "i": 15,
+   "segs": [
+    [
+     111.176,
+     115.144
+    ],
+    [
+     115.424,
+     120.245
+    ]
+   ],
+   "g": "fig",
+   "fig": "armor1",
+   "figno": "1",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "KNEE",
+     288,
+     1062,
+     -200,
+     40
+    ],
+    [
+     "TOES",
+     180,
+     1434,
+     -150,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 120.596,
+   "t1": 127.011,
+   "i": 16,
+   "segs": [
+    [
+     120.596,
+     121.62
+    ],
+    [
+     121.9,
+     124.076
+    ],
+    [
+     124.356,
+     126.66
+    ]
+   ],
+   "g": "fig",
+   "fig": "armor1",
+   "figno": "1",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "SHOULDERS",
+     204,
+     366,
+     -170,
+     -40
+    ],
+    [
+     "PELVIS",
+     252,
+     714,
+     -170,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 127.011,
+   "t1": 136.221,
+   "i": 17,
+   "segs": [
+    [
+     127.011,
+     128.462
+    ],
+    [
+     128.742,
+     130.256
+    ],
+    [
+     130.536,
+     135.87
+    ]
+   ],
+   "g": "quote",
+   "q": "Experience has shown that it is preferable to equip this back part with four rollers",
+   "hit": "Experience has shown",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 136.221,
+   "t1": 145.153,
+   "i": 18,
+   "segs": [
+    [
+     136.221,
+     137.629
+    ],
+    [
+     137.909,
+     139.53
+    ],
+    [
+     139.81,
+     144.802
+    ]
+   ],
+   "g": "quote",
+   "q": "in order to enable the user to raise himself into the seated position",
+   "hit": "the seated position",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 145.153,
+   "t1": 150.987,
+   "i": 19,
+   "segs": [
+    [
+     145.153,
+     150.636
+    ]
+   ],
+   "g": "quote",
+   "q": "enabling the user to slide on steps or on a balustrade",
+   "hit": "on a balustrade",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 150.987,
+   "t1": 159.362,
+   "i": 20,
+   "segs": [
+    [
+     150.987,
+     156.747
+    ],
+    [
+     157.027,
+     159.011
+    ]
+   ],
+   "g": "quote",
+   "q": "enabling the user to \"get into them\" and fix them to his body",
+   "hit": "\"get into them\"",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 159.362,
+   "t1": 165.606,
+   "i": 21,
+   "segs": [
+    [
+     159.362,
+     160.45
+    ],
+    [
+     160.73,
+     163.418
+    ],
+    [
+     163.698,
+     165.255
+    ]
+   ],
+   "g": "fig",
+   "fig": "armorabc",
+   "figno": "2a\u20132c",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 165.606,
+   "t1": 172.554,
+   "i": 22,
+   "segs": [
+    [
+     165.606,
+     168.529
+    ],
+    [
+     168.809,
+     170.195
+    ],
+    [
+     170.475,
+     172.203
+    ]
+   ],
+   "g": "fig",
+   "fig": "armorabc",
+   "figno": "2a\u20132c",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "STANDING",
+     70,
+     40,
+     60,
+     -20
+    ],
+    [
+     "ONE KNEE",
+     470,
+     70,
+     40,
+     -40
+    ],
+    [
+     "HANDS",
+     840,
+     90,
+     40,
+     -50
+    ]
+   ]
+  },
+  {
+   "t0": 172.554,
+   "t1": 177.884,
+   "i": 23,
+   "segs": [
+    [
+     172.554,
+     173.706
+    ],
+    [
+     173.986,
+     175.096
+    ],
+    [
+     175.376,
+     176.336
+    ],
+    [
+     176.616,
+     177.533
+    ]
+   ],
+   "g": "fig",
+   "fig": "armorde",
+   "figno": "2d, 2e",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 177.884,
+   "t1": 184.59,
+   "i": 24,
+   "segs": [
+    [
+     177.884,
+     179.399
+    ],
+    [
+     179.799,
+     182.209
+    ],
+    [
+     182.609,
+     184.039
+    ]
+   ],
+   "g": "fig",
+   "fig": "armorde",
+   "figno": "2d, 2e",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "draw": false,
+   "ring": [
+    750,
+    70,
+    180
+   ]
+  },
+  {
+   "t0": 184.59,
+   "t1": 189.798,
+   "i": 25,
+   "segs": [
+    [
+     184.59,
+     189.347
+    ]
+   ],
+   "g": "quote",
+   "q": "he can move his arms to the \"snow-plough position\"",
+   "hit": "snow-plough position",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 189.798,
+   "t1": 195.954,
+   "i": 26,
+   "segs": [
+    [
+     189.798,
+     191.206
+    ],
+    [
+     191.486,
+     195.603
+    ]
+   ],
+   "g": "fig",
+   "fig": "armorfg",
+   "figno": "2f, 2g",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 195.954,
+   "t1": 205.015,
+   "i": 27,
+   "segs": [
+    [
+     195.954,
+     201.202
+    ],
+    [
+     201.482,
+     202.4
+    ],
+    [
+     202.68,
+     204.664
+    ]
+   ],
+   "g": "fig",
+   "fig": "armorhk",
+   "figno": "2h\u20132k",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 205.015,
+   "t1": 213.432,
+   "i": 28,
+   "segs": [
+    [
+     205.015,
+     206.657
+    ],
+    [
+     206.937,
+     213.081
+    ]
+   ],
+   "g": "quote",
+   "q": "also inclined planes or vertical surfaces (for example in corridors) on which he can lean",
+   "hit": "for example in corridors",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 213.432,
+   "t1": 223.367,
+   "i": 29,
+   "segs": [
+    [
+     213.432,
+     214.35
+    ],
+    [
+     214.63,
+     219.536
+    ],
+    [
+     219.816,
+     223.016
+    ]
+   ],
+   "g": "quote",
+   "q": "sitting, standing, lying on his stomach or on his back, kneeling and on all fours, and to move from one position to another without stopping",
+   "hit": "without stopping",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 223.367,
+   "t1": 232.596,
+   "i": 30,
+   "segs": [
+    [
+     223.367,
+     225.351
+    ],
+    [
+     225.631,
+     232.245
+    ]
+   ],
+   "g": "quote",
+   "q": "enables him to train the whole of his muscular system, in homogeneous manner",
+   "hit": "the whole of his muscular system",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 232.596,
+   "t1": 239.435,
+   "i": 31,
+   "segs": [
+    [
+     232.596,
+     234.772
+    ],
+    [
+     235.052,
+     239.084
+    ]
+   ],
+   "g": "quote",
+   "q": "can also designate simple ball-bearings held captive in a cage",
+   "hit": "held captive",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999"
+  },
+  {
+   "t0": 239.435,
+   "t1": 246.731,
+   "i": 32,
+   "segs": [
+    [
+     239.435,
+     241.589
+    ],
+    [
+     242.089,
+     243.22
+    ],
+    [
+     243.72,
+     246.28
+    ]
+   ],
+   "g": "stamp",
+   "title": "ARMOR WITH|ROLLERS",
+   "filed": "MAY 31, 1996",
+   "date": "JULY 27, 1999",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "big": true,
+   "at": 2.4
+  },
+  {
+   "t0": 246.731,
+   "t1": 253.701,
+   "i": 33,
+   "segs": [
+    [
+     246.731,
+     247.52
+    ],
+    [
+     247.8,
+     248.718
+    ],
+    [
+     248.998,
+     253.35
+    ]
+   ],
+   "g": "title",
+   "kicker": "ONE PATENT \u00b7 FILE 010",
+   "title": "The|Relatives",
+   "lines": [
+    "Five more exercise patents.",
+    "1960 to 1999."
+   ],
+   "hook": "6 WEIRD|[EXERCISE] PATENTS",
+   "side": "FILE 010 \u00b7 ONE PATENT"
+  },
+  {
+   "t0": 253.701,
+   "t1": 256.057,
+   "i": 34,
+   "segs": [
+    [
+     253.701,
+     255.706
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE RELATIVES \u00b7 1 OF 5",
+   "numeral": "2",
+   "title": "Occupant Propelled|Gyral Wheel",
+   "lines": [
+    "US 2,953,394",
+    "Filed 1958 \u00b7 Issued 1960"
+   ],
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960"
+  },
+  {
+   "t0": 256.057,
+   "t1": 258.713,
+   "i": 35,
+   "segs": [
+    [
+     256.057,
+     258.212
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral1",
+   "figno": "1",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960",
+   "calls": [
+    [
+     "A MAN",
+     270,
+     102,
+     150,
+     -40
+    ],
+    [
+     "A WHEEL",
+     486,
+     234,
+     20,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 258.713,
+   "t1": 268.536,
+   "i": 36,
+   "segs": [
+    [
+     258.713,
+     268.185
+    ]
+   ],
+   "g": "quote",
+   "q": "My invention relates to what I refer to as a gyral wheel",
+   "hit": "gyral wheel",
+   "src": "US 2,953,394 \u00b7 description",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960"
+  },
+  {
+   "t0": 268.536,
+   "t1": 280.369,
+   "i": 37,
+   "segs": [
+    [
+     268.536,
+     270.904
+    ],
+    [
+     271.184,
+     273.658
+    ],
+    [
+     273.938,
+     280.018
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral34",
+   "figno": "3, 4",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960",
+   "calls": [
+    [
+     "FOOT SADDLE",
+     66,
+     534,
+     40,
+     130
+    ],
+    [
+     "HAND GRIP",
+     300,
+     530,
+     -60,
+     -110
+    ]
+   ]
+  },
+  {
+   "t0": 280.369,
+   "t1": 287.872,
+   "i": 38,
+   "segs": [
+    [
+     280.369,
+     284.444
+    ],
+    [
+     284.724,
+     285.748
+    ],
+    [
+     286.028,
+     287.521
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral1",
+   "figno": "1",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960",
+   "draw": false,
+   "calls": [
+    [
+     "FEET IN",
+     222,
+     450,
+     140,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 287.872,
+   "t1": 294.327,
+   "i": 39,
+   "segs": [
+    [
+     287.872,
+     290.518
+    ],
+    [
+     290.798,
+     293.976
+    ]
+   ],
+   "g": "fig",
+   "fig": "gyral2",
+   "figno": "2",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960"
+  },
+  {
+   "t0": 294.327,
+   "t1": 304.132,
+   "i": 40,
+   "segs": [
+    [
+     294.327,
+     295.479
+    ],
+    [
+     295.759,
+     303.781
+    ]
+   ],
+   "g": "quote",
+   "q": "moving both arms and legs in piston like fashion in various degrees of synchronization",
+   "hit": "piston like fashion",
+   "src": "US 2,953,394 \u00b7 description",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960"
+  },
+  {
+   "t0": 304.132,
+   "t1": 310.087,
+   "i": 41,
+   "segs": [
+    [
+     304.132,
+     309.636
+    ]
+   ],
+   "g": "quote",
+   "q": "the occupant becomes in effect an axis",
+   "hit": "an axis",
+   "src": "US 2,953,394 \u00b7 description",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960"
+  },
+  {
+   "t0": 310.087,
+   "t1": 318.44,
+   "i": 42,
+   "segs": [
+    [
+     310.087,
+     311.431
+    ],
+    [
+     311.711,
+     318.089
+    ]
+   ],
+   "g": "quote",
+   "q": "by suitable practice will be able to propel the vehicle for his enjoyment, sport and exercise",
+   "hit": "suitable practice",
+   "src": "US 2,953,394 \u00b7 description",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960"
+  },
+  {
+   "t0": 318.44,
+   "t1": 324.499,
+   "i": 43,
+   "segs": [
+    [
+     318.44,
+     319.635
+    ],
+    [
+     320.135,
+     321.18
+    ],
+    [
+     321.68,
+     324.048
+    ]
+   ],
+   "g": "stamp",
+   "title": "OCCUPANT PROPELLED|GYRAL WHEEL",
+   "filed": "FEB. 6, 1958",
+   "date": "SEPT. 20, 1960",
+   "num": "US 2,953,394",
+   "hook": "THE HUMAN|[HAMSTER WHEEL]",
+   "side": "US 2,953,394 \u00b7 1960",
+   "at": 1.8
+  },
+  {
+   "t0": 324.499,
+   "t1": 329.205,
+   "i": 44,
+   "segs": [
+    [
+     324.499,
+     326.91
+    ],
+    [
+     327.19,
+     328.854
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE RELATIVES \u00b7 2 OF 5",
+   "numeral": "3",
+   "title": "Metallic Weight|Exercising Helmet",
+   "lines": [
+    "US 3,128,095",
+    "Filed 1961 \u00b7 Issued 1964"
+   ],
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964"
+  },
+  {
+   "t0": 329.205,
+   "t1": 334.359,
+   "i": 45,
+   "segs": [
+    [
+     329.205,
+     330.698
+    ],
+    [
+     330.978,
+     334.008
+    ]
+   ],
+   "g": "quote",
+   "q": "a device for exercising the neck and neck muscles",
+   "hit": "neck and neck muscles",
+   "src": "US 3,128,095 \u00b7 description",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964"
+  },
+  {
+   "t0": 334.359,
+   "t1": 341.496,
+   "i": 46,
+   "segs": [
+    [
+     334.359,
+     339.223
+    ],
+    [
+     339.503,
+     341.145
+    ]
+   ],
+   "g": "fig",
+   "fig": "helmet1",
+   "figno": "1",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964",
+   "calls": [
+    [
+     "THE HELMET",
+     276,
+     288,
+     120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 341.496,
+   "t1": 345.861,
+   "i": 47,
+   "segs": [
+    [
+     341.496,
+     343.288
+    ],
+    [
+     343.568,
+     345.51
+    ]
+   ],
+   "g": "fig",
+   "fig": "helmet67",
+   "figno": "6, 7",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964",
+   "calls": [
+    [
+     "A WEIGHT",
+     204,
+     342,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "t0": 345.861,
+   "t1": 352.334,
+   "i": 48,
+   "segs": [
+    [
+     345.861,
+     351.983
+    ]
+   ],
+   "g": "quote",
+   "q": "these weights may be nested with each other, and each is of a different size, thus being of a different weight",
+   "hit": "nested",
+   "src": "US 3,128,095 \u00b7 description",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964"
+  },
+  {
+   "t0": 352.334,
+   "t1": 359.728,
+   "i": 49,
+   "segs": [
+    [
+     352.334,
+     353.742
+    ],
+    [
+     354.022,
+     359.377
+    ]
+   ],
+   "g": "fig",
+   "fig": "helmet2",
+   "figno": "2",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964",
+   "calls": [
+    [
+     "3 WEIGHTS",
+     300,
+     60,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "t0": 359.728,
+   "t1": 366.802,
+   "i": 50,
+   "segs": [
+    [
+     359.728,
+     361.349
+    ],
+    [
+     361.629,
+     366.451
+    ]
+   ],
+   "g": "quote",
+   "q": "wherein said weight is comprised of a plurality of nested metal hemispherical shells.",
+   "hit": "nested metal hemispherical shells",
+   "src": "US 3,128,095 \u00b7 claim 4",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964"
+  },
+  {
+   "t0": 366.802,
+   "t1": 376.305,
+   "i": 51,
+   "segs": [
+    [
+     366.802,
+     375.954
+    ]
+   ],
+   "g": "quote",
+   "q": "to vary the amount of weight placed upon the helmet, to thus vary the stress placed upon the neck during exercises",
+   "hit": "stress placed upon the neck",
+   "src": "US 3,128,095 \u00b7 description",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964"
+  },
+  {
+   "t0": 376.305,
+   "t1": 382.805,
+   "i": 52,
+   "segs": [
+    [
+     376.305,
+     378.417
+    ],
+    [
+     378.697,
+     380.318
+    ],
+    [
+     380.598,
+     382.454
+    ]
+   ],
+   "g": "quote",
+   "q": "to facilitate the use of the head piece as a conventional athletic helmet",
+   "hit": "conventional athletic helmet",
+   "src": "US 3,128,095 \u00b7 description",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964"
+  },
+  {
+   "t0": 382.805,
+   "t1": 388.471,
+   "i": 53,
+   "segs": [
+    [
+     382.805,
+     384.938
+    ],
+    [
+     385.438,
+     388.02
+    ]
+   ],
+   "g": "stamp",
+   "title": "METALLIC WEIGHT|EXERCISING HELMET",
+   "filed": "MAR. 30, 1961",
+   "date": "APR. 7, 1964",
+   "num": "US 3,128,095",
+   "hook": "THE WEIGHT|[HELMET]",
+   "side": "US 3,128,095 \u00b7 1964",
+   "at": 2.0
+  },
+  {
+   "t0": 388.471,
+   "t1": 391.32,
+   "i": 54,
+   "segs": [
+    [
+     388.471,
+     390.007
+    ],
+    [
+     390.287,
+     390.969
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE RELATIVES \u00b7 3 OF 5",
+   "numeral": "4",
+   "title": "Hopping and|Dancing Shoes",
+   "lines": [
+    "US 4,457,084",
+    "Filed 1981 \u00b7 Issued 1984"
+   ],
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984"
+  },
+  {
+   "t0": 391.32,
+   "t1": 396.13,
+   "i": 55,
+   "segs": [
+    [
+     391.32,
+     395.779
+    ]
+   ],
+   "g": "fig",
+   "fig": "shoes1",
+   "figno": "1",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984",
+   "calls": [
+    [
+     "SPRINGS",
+     420,
+     264,
+     150,
+     60
+    ],
+    [
+     "BASE",
+     396,
+     324,
+     -60,
+     90
+    ]
+   ]
+  },
+  {
+   "t0": 396.13,
+   "t1": 402.412,
+   "i": 56,
+   "segs": [
+    [
+     396.13,
+     402.061
+    ]
+   ],
+   "g": "quote",
+   "q": "laces up the shoe firmly to hop and/or dance",
+   "hit": "hop and/or dance",
+   "src": "US 4,457,084 \u00b7 description",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984"
+  },
+  {
+   "t0": 402.412,
+   "t1": 407.611,
+   "i": 57,
+   "segs": [
+    [
+     402.412,
+     403.606
+    ],
+    [
+     403.886,
+     405.38
+    ],
+    [
+     405.66,
+     407.26
+    ]
+   ],
+   "g": "fig",
+   "fig": "shoes9",
+   "figno": "9",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984",
+   "calls": [
+    [
+     "SPRINGS",
+     492,
+     264,
+     120,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 407.611,
+   "t1": 412.101,
+   "i": 58,
+   "segs": [
+    [
+     407.611,
+     411.6
+    ]
+   ],
+   "g": "fig",
+   "fig": "shoes9",
+   "figno": "9",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984",
+   "draw": false,
+   "ring": [
+    684,
+    132,
+    150
+   ],
+   "calls": [
+    [
+     "BELLS",
+     684,
+     132,
+     -130,
+     -90
+    ]
+   ]
+  },
+  {
+   "t0": 412.101,
+   "t1": 423.271,
+   "i": 59,
+   "segs": [
+    [
+     412.101,
+     413.189
+    ],
+    [
+     413.469,
+     422.92
+    ]
+   ],
+   "g": "quote",
+   "q": "to create a desired rhythm energized by the vibration or rhythmical movement of the player's foot",
+   "hit": "a desired rhythm",
+   "src": "US 4,457,084 \u00b7 description",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984"
+  },
+  {
+   "t0": 423.271,
+   "t1": 431.174,
+   "i": 60,
+   "segs": [
+    [
+     423.271,
+     430.823
+    ]
+   ],
+   "g": "quote",
+   "q": "The hopping and dancing shoe 91 is suitable to accompany music such as rock n' roll, a flamenco or disco",
+   "hit": "a flamenco or disco",
+   "src": "US 4,457,084 \u00b7 description",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984"
+  },
+  {
+   "t0": 431.174,
+   "t1": 441.149,
+   "i": 61,
+   "segs": [
+    [
+     431.174,
+     433.691
+    ],
+    [
+     433.971,
+     440.798
+    ]
+   ],
+   "g": "quote",
+   "q": "It can also deaden metallic noises caused by the contact of the spring coils during the repeated hopping and dancing.",
+   "hit": "metallic noises",
+   "src": "US 4,457,084 \u00b7 description",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984"
+  },
+  {
+   "t0": 441.149,
+   "t1": 448.82,
+   "i": 62,
+   "segs": [
+    [
+     441.149,
+     444.05
+    ],
+    [
+     444.33,
+     448.469
+    ]
+   ],
+   "g": "quote",
+   "q": "The present hopping and dancing shoes may be used by middle aged men for weight control exercise",
+   "hit": "middle aged men",
+   "src": "US 4,457,084 \u00b7 description",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984"
+  },
+  {
+   "t0": 448.82,
+   "t1": 456.659,
+   "i": 63,
+   "segs": [
+    [
+     448.82,
+     450.036
+    ],
+    [
+     450.536,
+     451.453
+    ],
+    [
+     451.953,
+     453.19
+    ],
+    [
+     453.69,
+     456.208
+    ]
+   ],
+   "g": "stamp",
+   "title": "HOPPING AND|DANCING SHOES",
+   "filed": "APR. 8, 1981",
+   "date": "JULY 3, 1984",
+   "num": "US 4,457,084",
+   "hook": "DISCO|[SPRING SHOES]",
+   "side": "US 4,457,084 \u00b7 1984",
+   "at": 2.4
+  },
+  {
+   "t0": 456.659,
+   "t1": 460.98,
+   "i": 64,
+   "segs": [
+    [
+     456.659,
+     458.259
+    ],
+    [
+     458.539,
+     460.629
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE RELATIVES \u00b7 4 OF 5",
+   "numeral": "5",
+   "title": "Exercise Bicycle|for Video Games",
+   "lines": [
+    "US 4,512,567",
+    "Filed 1983 \u00b7 Issued 1985"
+   ],
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985"
+  },
+  {
+   "t0": 460.98,
+   "t1": 470.699,
+   "i": 65,
+   "segs": [
+    [
+     460.98,
+     462.772
+    ],
+    [
+     463.052,
+     470.348
+    ]
+   ],
+   "g": "quote",
+   "q": "video games have become extremely popular and are played by many people, particularly those in their teenage years",
+   "hit": "extremely popular",
+   "src": "US 4,512,567 \u00b7 description",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985"
+  },
+  {
+   "t0": 470.699,
+   "t1": 480.61,
+   "i": 66,
+   "segs": [
+    [
+     470.699,
+     471.638
+    ],
+    [
+     471.918,
+     480.259
+    ]
+   ],
+   "g": "quote",
+   "q": "to enable one to fully control and play any type of video game while performing worthwhile exercise",
+   "hit": "worthwhile exercise",
+   "src": "US 4,512,567 \u00b7 description",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985"
+  },
+  {
+   "t0": 480.61,
+   "t1": 490.78,
+   "i": 67,
+   "segs": [
+    [
+     480.61,
+     482.893
+    ],
+    [
+     483.173,
+     486.138
+    ],
+    [
+     486.418,
+     490.429
+    ]
+   ],
+   "g": "quote",
+   "q": "and if one does not do so, one will not be able to view the television",
+   "hit": "will not be able to view the television",
+   "src": "US 4,512,567 \u00b7 description",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985"
+  },
+  {
+   "t0": 490.78,
+   "t1": 498.859,
+   "i": 68,
+   "segs": [
+    [
+     490.78,
+     491.633
+    ],
+    [
+     491.913,
+     496.265
+    ],
+    [
+     496.545,
+     498.508
+    ]
+   ],
+   "g": "fig",
+   "fig": "bike2",
+   "figno": "2",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985",
+   "calls": [
+    [
+     "THE CABLE",
+     762,
+     623,
+     60,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 498.859,
+   "t1": 508.386,
+   "i": 69,
+   "segs": [
+    [
+     498.859,
+     500.608
+    ],
+    [
+     500.888,
+     508.035
+    ]
+   ],
+   "g": "quote",
+   "q": "designated as the Atari 400 or the Atari 800",
+   "hit": "Atari 400",
+   "src": "US 4,512,567 \u00b7 description",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985"
+  },
+  {
+   "t0": 508.386,
+   "t1": 516.356,
+   "i": 70,
+   "segs": [
+    [
+     508.386,
+     513.655
+    ],
+    [
+     513.935,
+     516.005
+    ]
+   ],
+   "g": "fig",
+   "fig": "bike2",
+   "figno": "2",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985",
+   "draw": false,
+   "calls": [
+    [
+     "STEER",
+     356,
+     300,
+     -150,
+     -40
+    ],
+    [
+     "PEDAL",
+     277,
+     647,
+     -150,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 516.356,
+   "t1": 526.949,
+   "i": 71,
+   "segs": [
+    [
+     516.356,
+     521.262
+    ],
+    [
+     521.542,
+     526.598
+    ]
+   ],
+   "g": "quote",
+   "q": "If, however, the operator pedals the bicycle rapidly enough",
+   "hit": "rapidly enough",
+   "src": "US 4,512,567 \u00b7 description",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985"
+  },
+  {
+   "t0": 526.949,
+   "t1": 531.823,
+   "i": 72,
+   "segs": [
+    [
+     526.949,
+     531.472
+    ]
+   ],
+   "g": "quote",
+   "q": "making video game playing a more healthful event",
+   "hit": "a more healthful event",
+   "src": "US 4,512,567 \u00b7 description",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985"
+  },
+  {
+   "t0": 531.823,
+   "t1": 536.422,
+   "i": 73,
+   "segs": [
+    [
+     531.823,
+     532.847
+    ],
+    [
+     533.347,
+     535.971
+    ]
+   ],
+   "g": "stamp",
+   "title": "EXERCISE BICYCLE|APPARATUS",
+   "filed": "MAR. 28, 1983",
+   "date": "APR. 23, 1985",
+   "num": "US 4,512,567",
+   "hook": "THE [ATARI]|EXERCISE BIKE",
+   "side": "US 4,512,567 \u00b7 1985",
+   "at": 1.4
+  },
+  {
+   "t0": 536.422,
+   "t1": 539.954,
+   "i": 74,
+   "segs": [
+    [
+     536.422,
+     538.662
+    ],
+    [
+     538.942,
+     539.603
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE RELATIVES \u00b7 5 OF 5",
+   "numeral": "6",
+   "title": "Exercise|Bed",
+   "lines": [
+    "US 5,989,168",
+    "Filed 1998 \u00b7 Issued 1999"
+   ],
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999"
+  },
+  {
+   "t0": 539.954,
+   "t1": 548.073,
+   "i": 75,
+   "segs": [
+    [
+     539.954,
+     541.917
+    ],
+    [
+     542.197,
+     547.722
+    ]
+   ],
+   "g": "quote",
+   "q": "The conventional exercise machines can not be used as a bed for sleeping or resting on.",
+   "hit": "can not be used as a bed",
+   "src": "US 5,989,168 \u00b7 description",
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999"
+  },
+  {
+   "t0": 548.073,
+   "t1": 554.486,
+   "i": 76,
+   "segs": [
+    [
+     548.073,
+     549.823
+    ],
+    [
+     550.103,
+     554.135
+    ]
+   ],
+   "g": "quote",
+   "q": "The conventional beds can not be used as an exercise device for relaxing or training the muscles of a person.",
+   "hit": "can not be used as an exercise device",
+   "src": "US 5,989,168 \u00b7 description",
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999"
+  },
+  {
+   "t0": 554.486,
+   "t1": 563.887,
+   "i": 77,
+   "segs": [
+    [
+     554.486,
+     556.576
+    ],
+    [
+     556.856,
+     558.286
+    ],
+    [
+     558.566,
+     563.536
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed3",
+   "figno": "3",
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999",
+   "calls": [
+    [
+     "FEET",
+     1382,
+     344,
+     -60,
+     -140
+    ]
+   ]
+  },
+  {
+   "t0": 563.887,
+   "t1": 573.417,
+   "i": 78,
+   "segs": [
+    [
+     563.887,
+     566.191
+    ],
+    [
+     566.471,
+     569.799
+    ],
+    [
+     570.079,
+     573.066
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed3",
+   "figno": "3",
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "MOTOR",
+     1229,
+     603,
+     60,
+     130
+    ]
+   ]
+  },
+  {
+   "t0": 573.417,
+   "t1": 578.952,
+   "i": 79,
+   "segs": [
+    [
+     573.417,
+     578.601
+    ]
+   ],
+   "g": "fig",
+   "fig": "bed3",
+   "figno": "3",
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "TILT",
+     1206,
+     748,
+     60,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 578.952,
+   "t1": 588.394,
+   "i": 80,
+   "segs": [
+    [
+     578.952,
+     581.448
+    ],
+    [
+     581.728,
+     588.043
+    ]
+   ],
+   "g": "quote",
+   "q": "both front bed frame and the rear bed frame are displaced upwards to push the back muscles of a person resting on the exercise bed",
+   "hit": "displaced upwards",
+   "src": "US 5,989,168 \u00b7 description",
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999"
+  },
+  {
+   "t0": 588.394,
+   "t1": 594.163,
+   "i": 81,
+   "segs": [
+    [
+     588.394,
+     593.812
+    ]
+   ],
+   "g": "quote",
+   "q": "The backbone A2 of the user A of the exercise bed of the present invention is therefore braced and extended.",
+   "hit": "braced and extended",
+   "src": "US 5,989,168 \u00b7 description",
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999"
+  },
+  {
+   "t0": 594.163,
+   "t1": 599.936,
+   "i": 82,
+   "segs": [
+    [
+     594.163,
+     596.275
+    ],
+    [
+     596.775,
+     599.485
+    ]
+   ],
+   "g": "stamp",
+   "title": "EXERCISE|BED",
+   "filed": "DEC. 30, 1998",
+   "date": "NOV. 23, 1999",
+   "num": "US 5,989,168",
+   "hook": "THE EXERCISE|[BED]",
+   "side": "US 5,989,168 \u00b7 1999",
+   "big": true,
+   "at": 1.8
+  },
+  {
+   "t0": 599.936,
+   "t1": 603.937,
+   "i": 83,
+   "segs": [
+    [
+     599.936,
+     601.024
+    ],
+    [
+     601.424,
+     603.386
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS FILE'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 010"
+  },
+  {
+   "t0": 603.937,
+   "t1": 612.763,
+   "i": 84,
+   "segs": [
+    [
+     603.937,
+     605.388
+    ],
+    [
+     605.668,
+     609.615
+    ],
+    [
+     609.895,
+     612.412
+    ]
+   ],
+   "g": "quote",
+   "q": "he can move his arms to the \"snow-plough position\"",
+   "hit": "snow-plough position",
+   "src": "US 5,926,857 \u00b7 description",
+   "num": "US 5,926,857",
+   "hook": "FULL-BODY|[ROLLERBLADES]",
+   "side": "US 5,926,857 \u00b7 1999",
+   "typed": false
+  },
+  {
+   "t0": 612.763,
+   "t1": 621.053,
+   "i": 85,
+   "segs": [
+    [
+     612.763,
+     616.091
+    ],
+    [
+     616.371,
+     620.702
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "5,926,857 \u00b7 2,953,394",
+    "3,128,095 \u00b7 4,457,084",
+    "4,512,567 \u00b7 5,989,168"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 010"
+  },
+  {
+   "t0": 621.053,
+   "t1": 627.97,
+   "i": 86,
+   "segs": [
+    [
+     621.053,
+     622.738
+    ],
+    [
+     623.018,
+     624.618
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 010"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.92,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.92,
+   "t1": 2.061,
+   "txt": "man wearing roller"
+  },
+  {
+   "t0": 2.061,
+   "t1": 2.505,
+   "txt": "skates."
+  },
+  {
+   "t0": 3.005,
+   "t1": 3.986,
+   "txt": "On his feet."
+  },
+  {
+   "t0": 4.486,
+   "t1": 5.595,
+   "txt": "And his knees."
+  },
+  {
+   "t0": 6.095,
+   "t1": 7.29,
+   "txt": "And his elbows."
+  },
+  {
+   "t0": 7.79,
+   "t1": 8.646,
+   "txt": "And wheels on"
+  },
+  {
+   "t0": 8.646,
+   "t1": 9.305,
+   "txt": "his hands."
+  },
+  {
+   "t0": 9.756,
+   "t1": 10.396,
+   "txt": "And on his"
+  },
+  {
+   "t0": 10.396,
+   "t1": 10.78,
+   "txt": "chest."
+  },
+  {
+   "t0": 11.06,
+   "t1": 11.7,
+   "txt": "And on his"
+  },
+  {
+   "t0": 11.7,
+   "t1": 12.02,
+   "txt": "back."
+  },
+  {
+   "t0": 12.3,
+   "t1": 13.011,
+   "txt": "And two on"
+  },
+  {
+   "t0": 13.011,
+   "t1": 13.793,
+   "txt": "his behind."
+  },
+  {
+   "t0": 14.144,
+   "t1": 14.695,
+   "txt": "So he can"
+  },
+  {
+   "t0": 14.695,
+   "t1": 15.491,
+   "txt": "roll in every"
+  },
+  {
+   "t0": 15.491,
+   "t1": 16.043,
+   "txt": "position."
+  },
+  {
+   "t0": 16.323,
+   "t1": 17.56,
+   "txt": "Even lying down."
+  },
+  {
+   "t0": 17.911,
+   "t1": 19.02,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 19.521,
+   "t1": 20.567,
+   "txt": "This is real."
+  },
+  {
+   "t0": 20.847,
+   "t1": 21.721,
+   "txt": "A U.S."
+  },
+  {
+   "t0": 22.001,
+   "t1": 23.201,
+   "txt": "patent from nineteen"
+  },
+  {
+   "t0": 23.201,
+   "t1": 23.921,
+   "txt": "ninety-nine."
+  },
+  {
+   "t0": 24.201,
+   "t1": 24.617,
+   "txt": "Today,"
+  },
+  {
+   "t0": 24.617,
+   "t1": 25.378,
+   "txt": "one patent,"
+  },
+  {
+   "t0": 25.378,
+   "t1": 26.001,
+   "txt": "up close:"
+  },
+  {
+   "t0": 26.001,
+   "t1": 27.593,
+   "txt": "full-body rollerblades."
+  },
+  {
+   "t0": 27.873,
+   "t1": 28.473,
+   "txt": "And then,"
+  },
+  {
+   "t0": 28.473,
+   "t1": 29.672,
+   "txt": "five more exercise"
+  },
+  {
+   "t0": 29.672,
+   "t1": 30.805,
+   "txt": "machines that got"
+  },
+  {
+   "t0": 30.805,
+   "t1": 31.671,
+   "txt": "real patents."
+  },
+  {
+   "t0": 31.951,
+   "t1": 32.655,
+   "txt": "A wheel you"
+  },
+  {
+   "t0": 32.655,
+   "t1": 33.487,
+   "txt": "stand inside."
+  },
+  {
+   "t0": 33.767,
+   "t1": 34.529,
+   "txt": "A helmet full"
+  },
+  {
+   "t0": 34.529,
+   "t1": 35.175,
+   "txt": "of weights."
+  },
+  {
+   "t0": 35.455,
+   "t1": 36.841,
+   "txt": "Disco spring shoes."
+  },
+  {
+   "t0": 37.121,
+   "t1": 38.208,
+   "txt": "An exercise bike"
+  },
+  {
+   "t0": 38.208,
+   "t1": 39.295,
+   "txt": "that plays video"
+  },
+  {
+   "t0": 39.295,
+   "t1": 39.703,
+   "txt": "games."
+  },
+  {
+   "t0": 39.983,
+   "t1": 40.471,
+   "txt": "And a bed"
+  },
+  {
+   "t0": 40.471,
+   "t1": 41.284,
+   "txt": "that bends you."
+  },
+  {
+   "t0": 41.635,
+   "t1": 42.403,
+   "txt": "Part one."
+  },
+  {
+   "t0": 42.683,
+   "t1": 43.707,
+   "txt": "The one patent."
+  },
+  {
+   "t0": 44.058,
+   "t1": 45.257,
+   "txt": "The official title"
+  },
+  {
+   "t0": 45.257,
+   "t1": 46.255,
+   "txt": "is three words."
+  },
+  {
+   "t0": 46.755,
+   "t1": 48.057,
+   "txt": "Armor with rollers."
+  },
+  {
+   "t0": 48.508,
+   "t1": 49.322,
+   "txt": "The inventor,"
+  },
+  {
+   "t0": 49.322,
+   "t1": 50.513,
+   "txt": "Jean-Yves Blondeau,"
+  },
+  {
+   "t0": 50.513,
+   "t1": 51.516,
+   "txt": "lived in France."
+  },
+  {
+   "t0": 51.796,
+   "t1": 52.615,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 52.615,
+   "t1": 53.317,
+   "txt": "opens like a"
+  },
+  {
+   "t0": 53.317,
+   "t1": 54.078,
+   "txt": "trend report."
+  },
+  {
+   "t0": 54.358,
+   "t1": 55.15,
+   "txt": "Snow surfing,"
+  },
+  {
+   "t0": 55.15,
+   "t1": 56.916,
+   "txt": "skateboarding and windsurfing"
+  },
+  {
+   "t0": 56.916,
+   "t1": 57.647,
+   "txt": "are booming,"
+  },
+  {
+   "t0": 57.647,
+   "t1": 58.134,
+   "txt": "it says."
+  },
+  {
+   "t0": 58.414,
+   "t1": 59.226,
+   "txt": "Notably with a"
+  },
+  {
+   "t0": 59.226,
+   "t1": 60.385,
+   "txt": "young audience eager"
+  },
+  {
+   "t0": 60.385,
+   "t1": 61.081,
+   "txt": "for thrills."
+  },
+  {
+   "t0": 61.432,
+   "t1": 62.163,
+   "txt": "But it spots"
+  },
+  {
+   "t0": 62.163,
+   "t1": 62.834,
+   "txt": "one flaw in"
+  },
+  {
+   "t0": 62.834,
+   "t1": 63.565,
+   "txt": "all of those"
+  },
+  {
+   "t0": 63.565,
+   "t1": 63.992,
+   "txt": "sports."
+  },
+  {
+   "t0": 64.272,
+   "t1": 64.784,
+   "txt": "You are,"
+  },
+  {
+   "t0": 64.784,
+   "t1": 65.68,
+   "txt": "in most cases,"
+  },
+  {
+   "t0": 65.68,
+   "t1": 66.512,
+   "txt": "being able to"
+  },
+  {
+   "t0": 66.512,
+   "t1": 67.344,
+   "txt": "use your feet"
+  },
+  {
+   "t0": 67.344,
+   "t1": 68.432,
+   "txt": "only for support."
+  },
+  {
+   "t0": 68.783,
+   "t1": 69.007,
+   "txt": "So,"
+  },
+  {
+   "t0": 69.007,
+   "t1": 69.679,
+   "txt": "the goal."
+  },
+  {
+   "t0": 70.03,
+   "t1": 70.936,
+   "txt": "The object of"
+  },
+  {
+   "t0": 70.936,
+   "t1": 72.398,
+   "txt": "the present invention"
+  },
+  {
+   "t0": 72.398,
+   "t1": 73.304,
+   "txt": "is to propose"
+  },
+  {
+   "t0": 73.304,
+   "t1": 74.07,
+   "txt": "a new sport"
+  },
+  {
+   "t0": 74.07,
+   "t1": 75.393,
+   "txt": "involving skill and"
+  },
+  {
+   "t0": 75.393,
+   "t1": 75.811,
+   "txt": "speed."
+  },
+  {
+   "t0": 76.262,
+   "t1": 77.112,
+   "txt": "A sport where"
+  },
+  {
+   "t0": 77.112,
+   "t1": 77.831,
+   "txt": "you roll at"
+  },
+  {
+   "t0": 77.831,
+   "t1": 78.551,
+   "txt": "high speed,"
+  },
+  {
+   "t0": 78.551,
+   "t1": 79.335,
+   "txt": "on any hard,"
+  },
+  {
+   "t0": 79.335,
+   "t1": 80.316,
+   "txt": "smooth surface."
+  },
+  {
+   "t0": 80.596,
+   "t1": 81.597,
+   "txt": "In all positions"
+  },
+  {
+   "t0": 81.597,
+   "t1": 83.098,
+   "txt": "while constantly varying"
+  },
+  {
+   "t0": 83.098,
+   "t1": 84.286,
+   "txt": "his bearing points."
+  },
+  {
+   "t0": 84.637,
+   "t1": 85.341,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 85.341,
+   "t1": 85.981,
+   "txt": "equipment."
+  },
+  {
+   "t0": 86.261,
+   "t1": 87.061,
+   "txt": "Start at the"
+  },
+  {
+   "t0": 87.061,
+   "t1": 87.328,
+   "txt": "top."
+  },
+  {
+   "t0": 87.608,
+   "t1": 88.378,
+   "txt": "A helmet of"
+  },
+  {
+   "t0": 88.378,
+   "t1": 89.917,
+   "txt": "conventional type also"
+  },
+  {
+   "t0": 89.917,
+   "t1": 91.106,
+   "txt": "forms an integral"
+  },
+  {
+   "t0": 91.106,
+   "t1": 91.946,
+   "txt": "part of this"
+  },
+  {
+   "t0": 91.946,
+   "t1": 92.365,
+   "txt": "armor."
+  },
+  {
+   "t0": 92.716,
+   "t1": 93.543,
+   "txt": "Your arms go"
+  },
+  {
+   "t0": 93.543,
+   "t1": 94.231,
+   "txt": "into long,"
+  },
+  {
+   "t0": 94.231,
+   "t1": 95.333,
+   "txt": "rigid gauntlets,"
+  },
+  {
+   "t0": 95.333,
+   "t1": 96.228,
+   "txt": "hinged at the"
+  },
+  {
+   "t0": 96.228,
+   "t1": 96.642,
+   "txt": "elbow."
+  },
+  {
+   "t0": 96.922,
+   "t1": 97.451,
+   "txt": "A pair of"
+  },
+  {
+   "t0": 97.451,
+   "t1": 98.275,
+   "txt": "rollers at the"
+  },
+  {
+   "t0": 98.275,
+   "t1": 98.628,
+   "txt": "elbow."
+  },
+  {
+   "t0": 98.908,
+   "t1": 99.72,
+   "txt": "And past the"
+  },
+  {
+   "t0": 99.72,
+   "t1": 100.059,
+   "txt": "hand,"
+  },
+  {
+   "t0": 100.059,
+   "t1": 101.276,
+   "txt": "one bigger roller."
+  },
+  {
+   "t0": 101.627,
+   "t1": 102.715,
+   "txt": "Each gauntlet has"
+  },
+  {
+   "t0": 102.715,
+   "t1": 103.163,
+   "txt": "a hole,"
+  },
+  {
+   "t0": 103.163,
+   "t1": 103.803,
+   "txt": "so you can"
+  },
+  {
+   "t0": 103.803,
+   "t1": 104.955,
+   "txt": "still hold things."
+  },
+  {
+   "t0": 105.235,
+   "t1": 106.525,
+   "txt": "A gripping opening"
+  },
+  {
+   "t0": 106.525,
+   "t1": 107.672,
+   "txt": "is also provided"
+  },
+  {
+   "t0": 107.672,
+   "t1": 108.89,
+   "txt": "enabling the user"
+  },
+  {
+   "t0": 108.89,
+   "t1": 109.678,
+   "txt": "to have the"
+  },
+  {
+   "t0": 109.678,
+   "t1": 110.395,
+   "txt": "use of his"
+  },
+  {
+   "t0": 110.395,
+   "t1": 110.825,
+   "txt": "hands."
+  },
+  {
+   "t0": 111.176,
+   "t1": 111.956,
+   "txt": "Your legs go"
+  },
+  {
+   "t0": 111.956,
+   "t1": 113.257,
+   "txt": "into rigid leg-pads,"
+  },
+  {
+   "t0": 113.257,
+   "t1": 114.298,
+   "txt": "with two rollers"
+  },
+  {
+   "t0": 114.298,
+   "t1": 115.144,
+   "txt": "at each knee."
+  },
+  {
+   "t0": 115.424,
+   "t1": 116.324,
+   "txt": "And your shoes"
+  },
+  {
+   "t0": 116.324,
+   "t1": 117.481,
+   "txt": "are roller skates,"
+  },
+  {
+   "t0": 117.481,
+   "t1": 118.381,
+   "txt": "with two extra"
+  },
+  {
+   "t0": 118.381,
+   "t1": 119.474,
+   "txt": "rollers up front,"
+  },
+  {
+   "t0": 119.474,
+   "t1": 120.245,
+   "txt": "at the toes."
+  },
+  {
+   "t0": 120.596,
+   "t1": 121.62,
+   "txt": "Then the jacket."
+  },
+  {
+   "t0": 121.9,
+   "t1": 122.625,
+   "txt": "On the front,"
+  },
+  {
+   "t0": 122.625,
+   "t1": 123.295,
+   "txt": "a frame with"
+  },
+  {
+   "t0": 123.295,
+   "t1": 124.076,
+   "txt": "three rollers."
+  },
+  {
+   "t0": 124.356,
+   "t1": 124.979,
+   "txt": "Two at the"
+  },
+  {
+   "t0": 124.979,
+   "t1": 125.601,
+   "txt": "shoulders,"
+  },
+  {
+   "t0": 125.601,
+   "t1": 126.224,
+   "txt": "one at the"
+  },
+  {
+   "t0": 126.224,
+   "t1": 126.66,
+   "txt": "pelvis."
+  },
+  {
+   "t0": 127.011,
+   "t1": 127.681,
+   "txt": "On the back,"
+  },
+  {
+   "t0": 127.681,
+   "t1": 128.462,
+   "txt": "another frame."
+  },
+  {
+   "t0": 128.742,
+   "t1": 129.449,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 129.449,
+   "t1": 130.256,
+   "txt": "did the testing."
+  },
+  {
+   "t0": 130.536,
+   "t1": 131.853,
+   "txt": "Experience has shown"
+  },
+  {
+   "t0": 131.853,
+   "t1": 132.512,
+   "txt": "that it is"
+  },
+  {
+   "t0": 132.512,
+   "t1": 133.763,
+   "txt": "preferable to equip"
+  },
+  {
+   "t0": 133.763,
+   "t1": 134.684,
+   "txt": "this back part"
+  },
+  {
+   "t0": 134.684,
+   "t1": 135.87,
+   "txt": "with four rollers."
+  },
+  {
+   "t0": 136.221,
+   "t1": 137.025,
+   "txt": "Below those,"
+  },
+  {
+   "t0": 137.025,
+   "t1": 137.629,
+   "txt": "two more."
+  },
+  {
+   "t0": 137.909,
+   "t1": 139.05,
+   "txt": "The buttock support"
+  },
+  {
+   "t0": 139.05,
+   "t1": 139.53,
+   "txt": "rollers."
+  },
+  {
+   "t0": 139.81,
+   "t1": 140.684,
+   "txt": "They are there"
+  },
+  {
+   "t0": 140.684,
+   "t1": 141.37,
+   "txt": "in order to"
+  },
+  {
+   "t0": 141.37,
+   "t1": 142.306,
+   "txt": "enable the user"
+  },
+  {
+   "t0": 142.306,
+   "t1": 143.304,
+   "txt": "to raise himself"
+  },
+  {
+   "t0": 143.304,
+   "t1": 144.24,
+   "txt": "into the seated"
+  },
+  {
+   "t0": 144.24,
+   "t1": 144.802,
+   "txt": "position."
+  },
+  {
+   "t0": 145.153,
+   "t1": 145.856,
+   "txt": "And on the"
+  },
+  {
+   "t0": 145.856,
+   "t1": 146.278,
+   "txt": "chest,"
+  },
+  {
+   "t0": 146.278,
+   "t1": 146.981,
+   "txt": "two rails,"
+  },
+  {
+   "t0": 146.981,
+   "t1": 148.175,
+   "txt": "enabling the user"
+  },
+  {
+   "t0": 148.175,
+   "t1": 148.949,
+   "txt": "to slide on"
+  },
+  {
+   "t0": 148.949,
+   "t1": 149.722,
+   "txt": "steps or on"
+  },
+  {
+   "t0": 149.722,
+   "t1": 150.636,
+   "txt": "a balustrade."
+  },
+  {
+   "t0": 150.987,
+   "t1": 151.868,
+   "txt": "All the parts"
+  },
+  {
+   "t0": 151.868,
+   "t1": 152.884,
+   "txt": "open and close,"
+  },
+  {
+   "t0": 152.884,
+   "t1": 154.036,
+   "txt": "enabling the user"
+  },
+  {
+   "t0": 154.036,
+   "t1": 154.781,
+   "txt": "to get into"
+  },
+  {
+   "t0": 154.781,
+   "t1": 155.12,
+   "txt": "them,"
+  },
+  {
+   "t0": 155.12,
+   "t1": 155.933,
+   "txt": "and fix them"
+  },
+  {
+   "t0": 155.933,
+   "t1": 156.747,
+   "txt": "to his body."
+  },
+  {
+   "t0": 157.027,
+   "t1": 158.074,
+   "txt": "The quotation marks"
+  },
+  {
+   "t0": 158.074,
+   "t1": 158.625,
+   "txt": "are in the"
+  },
+  {
+   "t0": 158.625,
+   "t1": 159.011,
+   "txt": "patent."
+  },
+  {
+   "t0": 159.362,
+   "t1": 159.724,
+   "txt": "Then,"
+  },
+  {
+   "t0": 159.724,
+   "t1": 160.45,
+   "txt": "sheet two."
+  },
+  {
+   "t0": 160.73,
+   "t1": 161.98,
+   "txt": "Eleven tiny drawings"
+  },
+  {
+   "t0": 161.98,
+   "t1": 162.668,
+   "txt": "of what you"
+  },
+  {
+   "t0": 162.668,
+   "t1": 163.23,
+   "txt": "can do in"
+  },
+  {
+   "t0": 163.23,
+   "t1": 163.418,
+   "txt": "it."
+  },
+  {
+   "t0": 163.698,
+   "t1": 164.618,
+   "txt": "Figures two A"
+  },
+  {
+   "t0": 164.618,
+   "t1": 165.255,
+   "txt": "to two K."
+  },
+  {
+   "t0": 165.606,
+   "t1": 166.47,
+   "txt": "You start off"
+  },
+  {
+   "t0": 166.47,
+   "t1": 167.067,
+   "txt": "standing,"
+  },
+  {
+   "t0": 167.067,
+   "t1": 167.599,
+   "txt": "as if on"
+  },
+  {
+   "t0": 167.599,
+   "t1": 168.529,
+   "txt": "roller skates."
+  },
+  {
+   "t0": 168.809,
+   "t1": 169.592,
+   "txt": "Then one knee"
+  },
+  {
+   "t0": 169.592,
+   "t1": 170.195,
+   "txt": "goes down."
+  },
+  {
+   "t0": 170.475,
+   "t1": 171.339,
+   "txt": "Then the hands,"
+  },
+  {
+   "t0": 171.339,
+   "t1": 172.203,
+   "txt": "and both knees."
+  },
+  {
+   "t0": 172.554,
+   "t1": 173.706,
+   "txt": "Then all fours."
+  },
+  {
+   "t0": 173.986,
+   "t1": 174.541,
+   "txt": "And then,"
+  },
+  {
+   "t0": 174.541,
+   "t1": 175.096,
+   "txt": "flat out."
+  },
+  {
+   "t0": 175.376,
+   "t1": 176.336,
+   "txt": "Lying down."
+  },
+  {
+   "t0": 176.616,
+   "t1": 177.533,
+   "txt": "Still rolling."
+  },
+  {
+   "t0": 177.884,
+   "t1": 178.806,
+   "txt": "Which raises a"
+  },
+  {
+   "t0": 178.806,
+   "t1": 179.399,
+   "txt": "question."
+  },
+  {
+   "t0": 179.799,
+   "t1": 180.468,
+   "txt": "How do you"
+  },
+  {
+   "t0": 180.468,
+   "t1": 180.87,
+   "txt": "brake,"
+  },
+  {
+   "t0": 180.87,
+   "t1": 181.741,
+   "txt": "lying flat on"
+  },
+  {
+   "t0": 181.741,
+   "t1": 182.209,
+   "txt": "wheels?"
+  },
+  {
+   "t0": 182.609,
+   "t1": 183.443,
+   "txt": "The patent has"
+  },
+  {
+   "t0": 183.443,
+   "t1": 184.039,
+   "txt": "an answer."
+  },
+  {
+   "t0": 184.59,
+   "t1": 185.341,
+   "txt": "To slow down"
+  },
+  {
+   "t0": 185.341,
+   "t1": 186.405,
+   "txt": "in this position,"
+  },
+  {
+   "t0": 186.405,
+   "t1": 187.094,
+   "txt": "he can move"
+  },
+  {
+   "t0": 187.094,
+   "t1": 187.782,
+   "txt": "his arms to"
+  },
+  {
+   "t0": 187.782,
+   "t1": 189.347,
+   "txt": "the snow-plough position."
+  },
+  {
+   "t0": 189.798,
+   "t1": 190.209,
+   "txt": "It is a"
+  },
+  {
+   "t0": 190.209,
+   "t1": 191.206,
+   "txt": "move from skiing."
+  },
+  {
+   "t0": 191.486,
+   "t1": 192.24,
+   "txt": "You open your"
+  },
+  {
+   "t0": 192.24,
+   "t1": 192.878,
+   "txt": "elbows out,"
+  },
+  {
+   "t0": 192.878,
+   "t1": 193.632,
+   "txt": "press down on"
+  },
+  {
+   "t0": 193.632,
+   "t1": 193.922,
+   "txt": "them,"
+  },
+  {
+   "t0": 193.922,
+   "t1": 194.733,
+   "txt": "and bring your"
+  },
+  {
+   "t0": 194.733,
+   "t1": 195.603,
+   "txt": "hands together."
+  },
+  {
+   "t0": 195.954,
+   "t1": 196.829,
+   "txt": "From kneeling,"
+  },
+  {
+   "t0": 196.829,
+   "t1": 197.579,
+   "txt": "you can also"
+  },
+  {
+   "t0": 197.579,
+   "t1": 198.203,
+   "txt": "roll back,"
+  },
+  {
+   "t0": 198.203,
+   "t1": 199.078,
+   "txt": "rock onto your"
+  },
+  {
+   "t0": 199.078,
+   "t1": 199.391,
+   "txt": "feet,"
+  },
+  {
+   "t0": 199.391,
+   "t1": 199.953,
+   "txt": "sit down,"
+  },
+  {
+   "t0": 199.953,
+   "t1": 200.578,
+   "txt": "and lie on"
+  },
+  {
+   "t0": 200.578,
+   "t1": 201.202,
+   "txt": "your back."
+  },
+  {
+   "t0": 201.482,
+   "t1": 202.4,
+   "txt": "Still rolling."
+  },
+  {
+   "t0": 202.68,
+   "t1": 203.263,
+   "txt": "Then do it"
+  },
+  {
+   "t0": 203.263,
+   "t1": 204.08,
+   "txt": "all in reverse"
+  },
+  {
+   "t0": 204.08,
+   "t1": 204.664,
+   "txt": "to get up."
+  },
+  {
+   "t0": 205.015,
+   "t1": 205.726,
+   "txt": "And the floor"
+  },
+  {
+   "t0": 205.726,
+   "t1": 206.329,
+   "txt": "is just the"
+  },
+  {
+   "t0": 206.329,
+   "t1": 206.657,
+   "txt": "start."
+  },
+  {
+   "t0": 206.937,
+   "t1": 208.383,
+   "txt": "Also inclined planes"
+  },
+  {
+   "t0": 208.383,
+   "t1": 209.901,
+   "txt": "or vertical surfaces,"
+  },
+  {
+   "t0": 209.901,
+   "t1": 210.913,
+   "txt": "for example in"
+  },
+  {
+   "t0": 210.913,
+   "t1": 211.636,
+   "txt": "corridors,"
+  },
+  {
+   "t0": 211.636,
+   "t1": 212.431,
+   "txt": "on which he"
+  },
+  {
+   "t0": 212.431,
+   "t1": 213.081,
+   "txt": "can lean."
+  },
+  {
+   "t0": 213.432,
+   "t1": 214.35,
+   "txt": "The full list."
+  },
+  {
+   "t0": 214.63,
+   "t1": 215.146,
+   "txt": "Sitting,"
+  },
+  {
+   "t0": 215.146,
+   "t1": 215.727,
+   "txt": "standing,"
+  },
+  {
+   "t0": 215.727,
+   "t1": 216.502,
+   "txt": "lying on his"
+  },
+  {
+   "t0": 216.502,
+   "t1": 217.341,
+   "txt": "stomach or on"
+  },
+  {
+   "t0": 217.341,
+   "t1": 217.922,
+   "txt": "his back,"
+  },
+  {
+   "t0": 217.922,
+   "t1": 218.891,
+   "txt": "kneeling and on"
+  },
+  {
+   "t0": 218.891,
+   "t1": 219.536,
+   "txt": "all fours."
+  },
+  {
+   "t0": 219.816,
+   "t1": 220.456,
+   "txt": "And to move"
+  },
+  {
+   "t0": 220.456,
+   "t1": 221.445,
+   "txt": "from one position"
+  },
+  {
+   "t0": 221.445,
+   "t1": 222.493,
+   "txt": "to another without"
+  },
+  {
+   "t0": 222.493,
+   "t1": 223.016,
+   "txt": "stopping."
+  },
+  {
+   "t0": 223.367,
+   "t1": 223.927,
+   "txt": "And that is"
+  },
+  {
+   "t0": 223.927,
+   "t1": 224.639,
+   "txt": "why it belongs"
+  },
+  {
+   "t0": 224.639,
+   "t1": 225.351,
+   "txt": "on this shelf."
+  },
+  {
+   "t0": 225.631,
+   "t1": 226.239,
+   "txt": "The suit,"
+  },
+  {
+   "t0": 226.239,
+   "t1": 227.318,
+   "txt": "says the patent,"
+  },
+  {
+   "t0": 227.318,
+   "t1": 228.263,
+   "txt": "enables him to"
+  },
+  {
+   "t0": 228.263,
+   "t1": 229.275,
+   "txt": "train the whole"
+  },
+  {
+   "t0": 229.275,
+   "t1": 230.288,
+   "txt": "of his muscular"
+  },
+  {
+   "t0": 230.288,
+   "t1": 230.76,
+   "txt": "system,"
+  },
+  {
+   "t0": 230.76,
+   "t1": 232.245,
+   "txt": "in homogeneous manner."
+  },
+  {
+   "t0": 232.596,
+   "t1": 233.404,
+   "txt": "Even the word"
+  },
+  {
+   "t0": 233.404,
+   "t1": 234.772,
+   "txt": "roller is open-minded."
+  },
+  {
+   "t0": 235.052,
+   "t1": 235.756,
+   "txt": "It can also"
+  },
+  {
+   "t0": 235.756,
+   "t1": 237.676,
+   "txt": "designate simple ball-bearings"
+  },
+  {
+   "t0": 237.676,
+   "t1": 238.636,
+   "txt": "held captive in"
+  },
+  {
+   "t0": 238.636,
+   "t1": 239.084,
+   "txt": "a cage."
+  },
+  {
+   "t0": 239.435,
+   "t1": 240.022,
+   "txt": "A suit of"
+  },
+  {
+   "t0": 240.022,
+   "t1": 240.414,
+   "txt": "armor,"
+  },
+  {
+   "t0": 240.414,
+   "t1": 241.589,
+   "txt": "covered in wheels."
+  },
+  {
+   "t0": 242.089,
+   "t1": 242.816,
+   "txt": "A gym you"
+  },
+  {
+   "t0": 242.816,
+   "t1": 243.22,
+   "txt": "wear."
+  },
+  {
+   "t0": 243.72,
+   "t1": 244.378,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 244.378,
+   "t1": 246.28,
+   "txt": "July nineteen ninety-nine."
+  },
+  {
+   "t0": 246.731,
+   "t1": 247.52,
+   "txt": "Part two."
+  },
+  {
+   "t0": 247.8,
+   "t1": 248.718,
+   "txt": "The relatives."
+  },
+  {
+   "t0": 248.998,
+   "t1": 250.203,
+   "txt": "Five more exercise"
+  },
+  {
+   "t0": 250.203,
+   "t1": 250.805,
+   "txt": "machines,"
+  },
+  {
+   "t0": 250.805,
+   "t1": 251.676,
+   "txt": "and every one"
+  },
+  {
+   "t0": 251.676,
+   "t1": 252.412,
+   "txt": "of them got"
+  },
+  {
+   "t0": 252.412,
+   "t1": 253.35,
+   "txt": "a real patent."
+  },
+  {
+   "t0": 253.701,
+   "t1": 254.077,
+   "txt": "First,"
+  },
+  {
+   "t0": 254.077,
+   "t1": 254.39,
+   "txt": "Iowa,"
+  },
+  {
+   "t0": 254.39,
+   "t1": 255.706,
+   "txt": "nineteen fifty-eight."
+  },
+  {
+   "t0": 256.057,
+   "t1": 256.865,
+   "txt": "A man stands"
+  },
+  {
+   "t0": 256.865,
+   "t1": 257.808,
+   "txt": "inside a giant"
+  },
+  {
+   "t0": 257.808,
+   "t1": 258.212,
+   "txt": "wheel."
+  },
+  {
+   "t0": 258.713,
+   "t1": 259.995,
+   "txt": "The inventor's own"
+  },
+  {
+   "t0": 259.995,
+   "t1": 260.849,
+   "txt": "name for it:"
+  },
+  {
+   "t0": 260.849,
+   "t1": 262.274,
+   "txt": "my invention relates"
+  },
+  {
+   "t0": 262.274,
+   "t1": 262.915,
+   "txt": "to what I"
+  },
+  {
+   "t0": 262.915,
+   "t1": 263.698,
+   "txt": "refer to as"
+  },
+  {
+   "t0": 263.698,
+   "t1": 264.695,
+   "txt": "a gyral wheel,"
+  },
+  {
+   "t0": 264.695,
+   "t1": 265.834,
+   "txt": "designed for use"
+  },
+  {
+   "t0": 265.834,
+   "t1": 267.259,
+   "txt": "as entertainment and"
+  },
+  {
+   "t0": 267.259,
+   "t1": 268.185,
+   "txt": "for exercise."
+  },
+  {
+   "t0": 268.536,
+   "t1": 269.159,
+   "txt": "One wheel,"
+  },
+  {
+   "t0": 269.159,
+   "t1": 269.844,
+   "txt": "with a tire"
+  },
+  {
+   "t0": 269.844,
+   "t1": 270.904,
+   "txt": "like a bicycle's."
+  },
+  {
+   "t0": 271.184,
+   "t1": 272.077,
+   "txt": "On each side,"
+  },
+  {
+   "t0": 272.077,
+   "t1": 272.971,
+   "txt": "an oval frame"
+  },
+  {
+   "t0": 272.971,
+   "t1": 273.658,
+   "txt": "on spokes."
+  },
+  {
+   "t0": 273.938,
+   "t1": 275.154,
+   "txt": "Inside each frame,"
+  },
+  {
+   "t0": 275.154,
+   "t1": 275.897,
+   "txt": "a hand grip"
+  },
+  {
+   "t0": 275.897,
+   "t1": 276.573,
+   "txt": "up top and"
+  },
+  {
+   "t0": 276.573,
+   "t1": 277.451,
+   "txt": "a foot saddle"
+  },
+  {
+   "t0": 277.451,
+   "t1": 278.397,
+   "txt": "at the bottom,"
+  },
+  {
+   "t0": 278.397,
+   "t1": 279.478,
+   "txt": "riding on little"
+  },
+  {
+   "t0": 279.478,
+   "t1": 280.018,
+   "txt": "rollers."
+  },
+  {
+   "t0": 280.369,
+   "t1": 280.872,
+   "txt": "To start,"
+  },
+  {
+   "t0": 280.872,
+   "t1": 281.486,
+   "txt": "you put one"
+  },
+  {
+   "t0": 281.486,
+   "t1": 281.988,
+   "txt": "foot in a"
+  },
+  {
+   "t0": 281.988,
+   "t1": 282.825,
+   "txt": "saddle and push"
+  },
+  {
+   "t0": 282.825,
+   "t1": 283.607,
+   "txt": "off the ground"
+  },
+  {
+   "t0": 283.607,
+   "t1": 284.444,
+   "txt": "with the other."
+  },
+  {
+   "t0": 284.724,
+   "t1": 285.748,
+   "txt": "Like a scooter."
+  },
+  {
+   "t0": 286.028,
+   "t1": 286.832,
+   "txt": "Then that foot"
+  },
+  {
+   "t0": 286.832,
+   "t1": 287.521,
+   "txt": "goes in too."
+  },
+  {
+   "t0": 287.872,
+   "t1": 288.62,
+   "txt": "Seen from the"
+  },
+  {
+   "t0": 288.62,
+   "t1": 288.965,
+   "txt": "front,"
+  },
+  {
+   "t0": 288.965,
+   "t1": 289.77,
+   "txt": "in figure two,"
+  },
+  {
+   "t0": 289.77,
+   "t1": 290.518,
+   "txt": "it is narrow."
+  },
+  {
+   "t0": 290.798,
+   "t1": 291.725,
+   "txt": "Just the tire,"
+  },
+  {
+   "t0": 291.725,
+   "t1": 292.453,
+   "txt": "and the two"
+  },
+  {
+   "t0": 292.453,
+   "t1": 292.917,
+   "txt": "frames,"
+  },
+  {
+   "t0": 292.917,
+   "t1": 293.645,
+   "txt": "one on each"
+  },
+  {
+   "t0": 293.645,
+   "t1": 293.976,
+   "txt": "side."
+  },
+  {
+   "t0": 294.327,
+   "t1": 294.846,
+   "txt": "And then,"
+  },
+  {
+   "t0": 294.846,
+   "t1": 295.479,
+   "txt": "the motion."
+  },
+  {
+   "t0": 295.759,
+   "t1": 297.074,
+   "txt": "Shifting your weight"
+  },
+  {
+   "t0": 297.074,
+   "t1": 297.798,
+   "txt": "from leg to"
+  },
+  {
+   "t0": 297.798,
+   "t1": 298.061,
+   "txt": "leg,"
+  },
+  {
+   "t0": 298.061,
+   "t1": 299.047,
+   "txt": "and moving both"
+  },
+  {
+   "t0": 299.047,
+   "t1": 299.901,
+   "txt": "arms and legs"
+  },
+  {
+   "t0": 299.901,
+   "t1": 300.822,
+   "txt": "in piston like"
+  },
+  {
+   "t0": 300.822,
+   "t1": 302.005,
+   "txt": "fashion in various"
+  },
+  {
+   "t0": 302.005,
+   "t1": 303.781,
+   "txt": "degrees of synchronization."
+  },
+  {
+   "t0": 304.132,
+   "t1": 305.012,
+   "txt": "As the wheel"
+  },
+  {
+   "t0": 305.012,
+   "t1": 305.453,
+   "txt": "turns,"
+  },
+  {
+   "t0": 305.453,
+   "t1": 306.92,
+   "txt": "the patent explains,"
+  },
+  {
+   "t0": 306.92,
+   "t1": 308.388,
+   "txt": "the occupant becomes"
+  },
+  {
+   "t0": 308.388,
+   "t1": 309.269,
+   "txt": "in effect an"
+  },
+  {
+   "t0": 309.269,
+   "t1": 309.636,
+   "txt": "axis."
+  },
+  {
+   "t0": 310.087,
+   "t1": 310.881,
+   "txt": "It takes some"
+  },
+  {
+   "t0": 310.881,
+   "t1": 311.431,
+   "txt": "practice."
+  },
+  {
+   "t0": 311.711,
+   "t1": 312.707,
+   "txt": "But by suitable"
+  },
+  {
+   "t0": 312.707,
+   "t1": 313.305,
+   "txt": "practice,"
+  },
+  {
+   "t0": 313.305,
+   "t1": 313.97,
+   "txt": "he will be"
+  },
+  {
+   "t0": 313.97,
+   "t1": 314.9,
+   "txt": "able to propel"
+  },
+  {
+   "t0": 314.9,
+   "t1": 315.897,
+   "txt": "the vehicle for"
+  },
+  {
+   "t0": 315.897,
+   "t1": 316.827,
+   "txt": "his enjoyment,"
+  },
+  {
+   "t0": 316.827,
+   "t1": 318.089,
+   "txt": "sport and exercise."
+  },
+  {
+   "t0": 318.44,
+   "t1": 319.635,
+   "txt": "A hamster wheel."
+  },
+  {
+   "t0": 320.135,
+   "t1": 321.18,
+   "txt": "For a person."
+  },
+  {
+   "t0": 321.68,
+   "t1": 322.307,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 322.307,
+   "t1": 324.048,
+   "txt": "September nineteen sixty."
+  },
+  {
+   "t0": 324.499,
+   "t1": 324.844,
+   "txt": "Next,"
+  },
+  {
+   "t0": 324.844,
+   "t1": 325.601,
+   "txt": "New Jersey,"
+  },
+  {
+   "t0": 325.601,
+   "t1": 326.91,
+   "txt": "nineteen sixty-one."
+  },
+  {
+   "t0": 327.19,
+   "t1": 327.868,
+   "txt": "This one is"
+  },
+  {
+   "t0": 327.868,
+   "t1": 328.854,
+   "txt": "about your neck."
+  },
+  {
+   "t0": 329.205,
+   "t1": 330.035,
+   "txt": "The patent gets"
+  },
+  {
+   "t0": 330.035,
+   "t1": 330.698,
+   "txt": "right to it."
+  },
+  {
+   "t0": 330.978,
+   "t1": 331.736,
+   "txt": "A device for"
+  },
+  {
+   "t0": 331.736,
+   "t1": 332.935,
+   "txt": "exercising the neck"
+  },
+  {
+   "t0": 332.935,
+   "t1": 334.008,
+   "txt": "and neck muscles."
+  },
+  {
+   "t0": 334.359,
+   "t1": 335.217,
+   "txt": "It starts as"
+  },
+  {
+   "t0": 335.217,
+   "t1": 336.576,
+   "txt": "an ordinary helmet,"
+  },
+  {
+   "t0": 336.576,
+   "t1": 337.363,
+   "txt": "of the type"
+  },
+  {
+   "t0": 337.363,
+   "t1": 338.579,
+   "txt": "used for athletic"
+  },
+  {
+   "t0": 338.579,
+   "t1": 339.223,
+   "txt": "purposes."
+  },
+  {
+   "t0": 339.503,
+   "t1": 340.187,
+   "txt": "A shell is"
+  },
+  {
+   "t0": 340.187,
+   "t1": 341.145,
+   "txt": "bonded on top."
+  },
+  {
+   "t0": 341.496,
+   "t1": 342.06,
+   "txt": "And on that"
+  },
+  {
+   "t0": 342.06,
+   "t1": 342.367,
+   "txt": "shell,"
+  },
+  {
+   "t0": 342.367,
+   "t1": 343.288,
+   "txt": "you stack weights."
+  },
+  {
+   "t0": 343.568,
+   "t1": 344.798,
+   "txt": "Hollow metal domes,"
+  },
+  {
+   "t0": 344.798,
+   "t1": 345.51,
+   "txt": "like bowls."
+  },
+  {
+   "t0": 345.861,
+   "t1": 346.861,
+   "txt": "These weights may"
+  },
+  {
+   "t0": 346.861,
+   "t1": 347.686,
+   "txt": "be nested with"
+  },
+  {
+   "t0": 347.686,
+   "t1": 348.333,
+   "txt": "each other,"
+  },
+  {
+   "t0": 348.333,
+   "t1": 348.981,
+   "txt": "and each is"
+  },
+  {
+   "t0": 348.981,
+   "t1": 349.805,
+   "txt": "of a different"
+  },
+  {
+   "t0": 349.805,
+   "t1": 350.099,
+   "txt": "size,"
+  },
+  {
+   "t0": 350.099,
+   "t1": 350.865,
+   "txt": "thus being of"
+  },
+  {
+   "t0": 350.865,
+   "t1": 351.983,
+   "txt": "a different weight."
+  },
+  {
+   "t0": 352.334,
+   "t1": 352.991,
+   "txt": "Here are three"
+  },
+  {
+   "t0": 352.991,
+   "t1": 353.367,
+   "txt": "of them,"
+  },
+  {
+   "t0": 353.367,
+   "t1": 353.742,
+   "txt": "stacked."
+  },
+  {
+   "t0": 354.022,
+   "t1": 354.761,
+   "txt": "A strap goes"
+  },
+  {
+   "t0": 354.761,
+   "t1": 355.499,
+   "txt": "over the top"
+  },
+  {
+   "t0": 355.499,
+   "t1": 356.361,
+   "txt": "and hooks into"
+  },
+  {
+   "t0": 356.361,
+   "t1": 357.1,
+   "txt": "holes in the"
+  },
+  {
+   "t0": 357.1,
+   "t1": 358.331,
+   "txt": "helmet's ear pieces,"
+  },
+  {
+   "t0": 358.331,
+   "t1": 359.069,
+   "txt": "to hold them"
+  },
+  {
+   "t0": 359.069,
+   "t1": 359.377,
+   "txt": "down."
+  },
+  {
+   "t0": 359.728,
+   "t1": 360.654,
+   "txt": "Claim four makes"
+  },
+  {
+   "t0": 360.654,
+   "t1": 361.349,
+   "txt": "it official."
+  },
+  {
+   "t0": 361.629,
+   "t1": 362.488,
+   "txt": "The weight is"
+  },
+  {
+   "t0": 362.488,
+   "t1": 363.413,
+   "txt": "comprised of a"
+  },
+  {
+   "t0": 363.413,
+   "t1": 364.667,
+   "txt": "plurality of nested"
+  },
+  {
+   "t0": 364.667,
+   "t1": 366.451,
+   "txt": "metal hemispherical shells."
+  },
+  {
+   "t0": 366.802,
+   "t1": 367.46,
+   "txt": "The point,"
+  },
+  {
+   "t0": 367.46,
+   "t1": 368.448,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 368.448,
+   "t1": 368.843,
+   "txt": "words:"
+  },
+  {
+   "t0": 368.843,
+   "t1": 369.567,
+   "txt": "to vary the"
+  },
+  {
+   "t0": 369.567,
+   "t1": 370.62,
+   "txt": "amount of weight"
+  },
+  {
+   "t0": 370.62,
+   "t1": 371.608,
+   "txt": "placed upon the"
+  },
+  {
+   "t0": 371.608,
+   "t1": 372.069,
+   "txt": "helmet,"
+  },
+  {
+   "t0": 372.069,
+   "t1": 372.859,
+   "txt": "to thus vary"
+  },
+  {
+   "t0": 372.859,
+   "t1": 373.978,
+   "txt": "the stress placed"
+  },
+  {
+   "t0": 373.978,
+   "t1": 374.834,
+   "txt": "upon the neck"
+  },
+  {
+   "t0": 374.834,
+   "t1": 375.954,
+   "txt": "during exercises."
+  },
+  {
+   "t0": 376.305,
+   "t1": 376.923,
+   "txt": "And when you"
+  },
+  {
+   "t0": 376.923,
+   "t1": 377.386,
+   "txt": "are done,"
+  },
+  {
+   "t0": 377.386,
+   "t1": 378.211,
+   "txt": "take the weights"
+  },
+  {
+   "t0": 378.211,
+   "t1": 378.417,
+   "txt": "off."
+  },
+  {
+   "t0": 378.697,
+   "t1": 379.345,
+   "txt": "It is just"
+  },
+  {
+   "t0": 379.345,
+   "t1": 380.318,
+   "txt": "a helmet again."
+  },
+  {
+   "t0": 380.598,
+   "t1": 382.021,
+   "txt": "A conventional athletic"
+  },
+  {
+   "t0": 382.021,
+   "t1": 382.454,
+   "txt": "helmet."
+  },
+  {
+   "t0": 382.805,
+   "t1": 383.356,
+   "txt": "A set of"
+  },
+  {
+   "t0": 383.356,
+   "t1": 384.044,
+   "txt": "dumbbells,"
+  },
+  {
+   "t0": 384.044,
+   "t1": 384.663,
+   "txt": "worn as a"
+  },
+  {
+   "t0": 384.663,
+   "t1": 384.938,
+   "txt": "hat."
+  },
+  {
+   "t0": 385.438,
+   "t1": 386.102,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 386.102,
+   "t1": 388.02,
+   "txt": "April nineteen sixty-four."
+  },
+  {
+   "t0": 388.471,
+   "t1": 388.778,
+   "txt": "Next,"
+  },
+  {
+   "t0": 388.778,
+   "t1": 390.007,
+   "txt": "nineteen eighty-one."
+  },
+  {
+   "t0": 390.287,
+   "t1": 390.969,
+   "txt": "Shoes."
+  },
+  {
+   "t0": 391.32,
+   "t1": 392.319,
+   "txt": "A lace-up shoe,"
+  },
+  {
+   "t0": 392.319,
+   "t1": 393.25,
+   "txt": "sitting on two"
+  },
+  {
+   "t0": 393.25,
+   "t1": 394.382,
+   "txt": "big coil springs,"
+  },
+  {
+   "t0": 394.382,
+   "t1": 394.98,
+   "txt": "on top of"
+  },
+  {
+   "t0": 394.98,
+   "t1": 395.779,
+   "txt": "a flat base."
+  },
+  {
+   "t0": 396.13,
+   "t1": 396.904,
+   "txt": "You put your"
+  },
+  {
+   "t0": 396.904,
+   "t1": 397.419,
+   "txt": "foot in,"
+  },
+  {
+   "t0": 397.419,
+   "t1": 398.322,
+   "txt": "and the patent"
+  },
+  {
+   "t0": 398.322,
+   "t1": 399.289,
+   "txt": "says the player"
+  },
+  {
+   "t0": 399.289,
+   "t1": 400.062,
+   "txt": "laces up the"
+  },
+  {
+   "t0": 400.062,
+   "t1": 400.965,
+   "txt": "shoe firmly to"
+  },
+  {
+   "t0": 400.965,
+   "t1": 401.48,
+   "txt": "hop and,"
+  },
+  {
+   "t0": 401.48,
+   "t1": 401.674,
+   "txt": "or,"
+  },
+  {
+   "t0": 401.674,
+   "t1": 402.061,
+   "txt": "dance."
+  },
+  {
+   "t0": 402.412,
+   "t1": 403.606,
+   "txt": "Then figure nine."
+  },
+  {
+   "t0": 403.886,
+   "t1": 405.38,
+   "txt": "Big cone-shaped springs."
+  },
+  {
+   "t0": 405.66,
+   "t1": 406.193,
+   "txt": "And on the"
+  },
+  {
+   "t0": 406.193,
+   "t1": 406.46,
+   "txt": "side,"
+  },
+  {
+   "t0": 406.46,
+   "t1": 407.26,
+   "txt": "something else."
+  },
+  {
+   "t0": 407.611,
+   "t1": 408.371,
+   "txt": "Bells can be"
+  },
+  {
+   "t0": 408.371,
+   "t1": 409.32,
+   "txt": "attached to the"
+  },
+  {
+   "t0": 409.32,
+   "t1": 410.08,
+   "txt": "sides of the"
+  },
+  {
+   "t0": 410.08,
+   "t1": 410.397,
+   "txt": "shoe,"
+  },
+  {
+   "t0": 410.397,
+   "t1": 410.967,
+   "txt": "or on its"
+  },
+  {
+   "t0": 410.967,
+   "t1": 411.6,
+   "txt": "shoe lace."
+  },
+  {
+   "t0": 412.101,
+   "t1": 413.189,
+   "txt": "Or castanets."
+  },
+  {
+   "t0": 413.469,
+   "t1": 414.428,
+   "txt": "They attach to"
+  },
+  {
+   "t0": 414.428,
+   "t1": 415.044,
+   "txt": "the sole,"
+  },
+  {
+   "t0": 415.044,
+   "t1": 415.66,
+   "txt": "the shoe,"
+  },
+  {
+   "t0": 415.66,
+   "t1": 416.551,
+   "txt": "or the laces,"
+  },
+  {
+   "t0": 416.551,
+   "t1": 417.304,
+   "txt": "to create a"
+  },
+  {
+   "t0": 417.304,
+   "t1": 418.948,
+   "txt": "desired rhythm energized"
+  },
+  {
+   "t0": 418.948,
+   "t1": 420.043,
+   "txt": "by the vibration"
+  },
+  {
+   "t0": 420.043,
+   "t1": 421.55,
+   "txt": "or rhythmical movement"
+  },
+  {
+   "t0": 421.55,
+   "t1": 422.577,
+   "txt": "of the player's"
+  },
+  {
+   "t0": 422.577,
+   "t1": 422.92,
+   "txt": "foot."
+  },
+  {
+   "t0": 423.271,
+   "t1": 423.846,
+   "txt": "Because,"
+  },
+  {
+   "t0": 423.846,
+   "t1": 425.285,
+   "txt": "the patent explains,"
+  },
+  {
+   "t0": 425.285,
+   "t1": 426.076,
+   "txt": "the shoe is"
+  },
+  {
+   "t0": 426.076,
+   "t1": 427.586,
+   "txt": "suitable to accompany"
+  },
+  {
+   "t0": 427.586,
+   "t1": 428.521,
+   "txt": "music such as"
+  },
+  {
+   "t0": 428.521,
+   "t1": 429.456,
+   "txt": "rock n' roll,"
+  },
+  {
+   "t0": 429.456,
+   "t1": 430.391,
+   "txt": "a flamenco or"
+  },
+  {
+   "t0": 430.391,
+   "t1": 430.823,
+   "txt": "disco."
+  },
+  {
+   "t0": 431.174,
+   "t1": 432.133,
+   "txt": "The cone springs"
+  },
+  {
+   "t0": 432.133,
+   "t1": 432.852,
+   "txt": "even fix the"
+  },
+  {
+   "t0": 432.852,
+   "t1": 433.691,
+   "txt": "noise problem."
+  },
+  {
+   "t0": 433.971,
+   "t1": 434.919,
+   "txt": "They can deaden"
+  },
+  {
+   "t0": 434.919,
+   "t1": 436.31,
+   "txt": "metallic noises caused"
+  },
+  {
+   "t0": 436.31,
+   "t1": 437.195,
+   "txt": "by the contact"
+  },
+  {
+   "t0": 437.195,
+   "t1": 438.016,
+   "txt": "of the spring"
+  },
+  {
+   "t0": 438.016,
+   "t1": 439.028,
+   "txt": "coils during the"
+  },
+  {
+   "t0": 439.028,
+   "t1": 440.292,
+   "txt": "repeated hopping and"
+  },
+  {
+   "t0": 440.292,
+   "t1": 440.798,
+   "txt": "dancing."
+  },
+  {
+   "t0": 441.149,
+   "t1": 442.032,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 442.032,
+   "t1": 442.789,
+   "txt": "has one very"
+  },
+  {
+   "t0": 442.789,
+   "t1": 444.05,
+   "txt": "specific suggestion."
+  },
+  {
+   "t0": 444.33,
+   "t1": 445.076,
+   "txt": "They may be"
+  },
+  {
+   "t0": 445.076,
+   "t1": 446.026,
+   "txt": "used by middle"
+  },
+  {
+   "t0": 446.026,
+   "t1": 446.84,
+   "txt": "aged men for"
+  },
+  {
+   "t0": 446.84,
+   "t1": 448.469,
+   "txt": "weight control exercise."
+  },
+  {
+   "t0": 448.82,
+   "t1": 450.036,
+   "txt": "Two pogo sticks."
+  },
+  {
+   "t0": 450.536,
+   "t1": 451.453,
+   "txt": "With bells."
+  },
+  {
+   "t0": 451.953,
+   "t1": 452.8,
+   "txt": "For the dance"
+  },
+  {
+   "t0": 452.8,
+   "t1": 453.19,
+   "txt": "floor."
+  },
+  {
+   "t0": 453.69,
+   "t1": 454.338,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 454.338,
+   "t1": 456.208,
+   "txt": "July nineteen eighty-four."
+  },
+  {
+   "t0": 456.659,
+   "t1": 456.955,
+   "txt": "Next,"
+  },
+  {
+   "t0": 456.955,
+   "t1": 458.259,
+   "txt": "nineteen eighty-three."
+  },
+  {
+   "t0": 458.539,
+   "t1": 459.584,
+   "txt": "The exercise bike"
+  },
+  {
+   "t0": 459.584,
+   "t1": 460.629,
+   "txt": "meets the arcade."
+  },
+  {
+   "t0": 460.98,
+   "t1": 461.936,
+   "txt": "The patent opens"
+  },
+  {
+   "t0": 461.936,
+   "t1": 462.772,
+   "txt": "with the news."
+  },
+  {
+   "t0": 463.052,
+   "t1": 464.114,
+   "txt": "Video games have"
+  },
+  {
+   "t0": 464.114,
+   "t1": 465.705,
+   "txt": "become extremely popular"
+  },
+  {
+   "t0": 465.705,
+   "t1": 466.634,
+   "txt": "and are played"
+  },
+  {
+   "t0": 466.634,
+   "t1": 467.629,
+   "txt": "by many people,"
+  },
+  {
+   "t0": 467.629,
+   "t1": 469.022,
+   "txt": "particularly those in"
+  },
+  {
+   "t0": 469.022,
+   "t1": 470.348,
+   "txt": "their teenage years."
+  },
+  {
+   "t0": 470.699,
+   "t1": 470.934,
+   "txt": "So,"
+  },
+  {
+   "t0": 470.934,
+   "t1": 471.638,
+   "txt": "the plan."
+  },
+  {
+   "t0": 471.918,
+   "t1": 473.308,
+   "txt": "An exercise bicycle"
+  },
+  {
+   "t0": 473.308,
+   "t1": 474.259,
+   "txt": "to enable one"
+  },
+  {
+   "t0": 474.259,
+   "t1": 475.43,
+   "txt": "to fully control"
+  },
+  {
+   "t0": 475.43,
+   "t1": 476.308,
+   "txt": "and play any"
+  },
+  {
+   "t0": 476.308,
+   "t1": 477.259,
+   "txt": "type of video"
+  },
+  {
+   "t0": 477.259,
+   "t1": 478.796,
+   "txt": "game while performing"
+  },
+  {
+   "t0": 478.796,
+   "t1": 480.259,
+   "txt": "worthwhile exercise."
+  },
+  {
+   "t0": 480.61,
+   "t1": 481.181,
+   "txt": "It was not"
+  },
+  {
+   "t0": 481.181,
+   "t1": 481.98,
+   "txt": "the first bike"
+  },
+  {
+   "t0": 481.98,
+   "t1": 482.893,
+   "txt": "to make demands."
+  },
+  {
+   "t0": 483.173,
+   "t1": 484.036,
+   "txt": "The patent lists"
+  },
+  {
+   "t0": 484.036,
+   "t1": 484.79,
+   "txt": "an earlier one"
+  },
+  {
+   "t0": 484.79,
+   "t1": 485.545,
+   "txt": "that powered a"
+  },
+  {
+   "t0": 485.545,
+   "t1": 486.138,
+   "txt": "television."
+  },
+  {
+   "t0": 486.418,
+   "t1": 487.026,
+   "txt": "And if one"
+  },
+  {
+   "t0": 487.026,
+   "t1": 487.694,
+   "txt": "does not do"
+  },
+  {
+   "t0": 487.694,
+   "t1": 487.877,
+   "txt": "so,"
+  },
+  {
+   "t0": 487.877,
+   "t1": 488.606,
+   "txt": "one will not"
+  },
+  {
+   "t0": 488.606,
+   "t1": 489.214,
+   "txt": "be able to"
+  },
+  {
+   "t0": 489.214,
+   "t1": 490.429,
+   "txt": "view the television."
+  },
+  {
+   "t0": 490.78,
+   "t1": 491.633,
+   "txt": "Here it is."
+  },
+  {
+   "t0": 491.913,
+   "t1": 493.146,
+   "txt": "A normal exercise"
+  },
+  {
+   "t0": 493.146,
+   "t1": 493.509,
+   "txt": "bike,"
+  },
+  {
+   "t0": 493.509,
+   "t1": 494.234,
+   "txt": "plus a box"
+  },
+  {
+   "t0": 494.234,
+   "t1": 495.54,
+   "txt": "of electronics and"
+  },
+  {
+   "t0": 495.54,
+   "t1": 496.265,
+   "txt": "one cable."
+  },
+  {
+   "t0": 496.545,
+   "t1": 497.561,
+   "txt": "The label says:"
+  },
+  {
+   "t0": 497.561,
+   "t1": 498.508,
+   "txt": "to video game."
+  },
+  {
+   "t0": 498.859,
+   "t1": 499.624,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 499.624,
+   "t1": 500.608,
+   "txt": "names the console."
+  },
+  {
+   "t0": 500.888,
+   "t1": 502.041,
+   "txt": "A typical video"
+  },
+  {
+   "t0": 502.041,
+   "t1": 503.347,
+   "txt": "game apparatus is"
+  },
+  {
+   "t0": 503.347,
+   "t1": 504.654,
+   "txt": "designated as the"
+  },
+  {
+   "t0": 504.654,
+   "t1": 506.037,
+   "txt": "Atari four hundred"
+  },
+  {
+   "t0": 506.037,
+   "t1": 506.959,
+   "txt": "or the Atari"
+  },
+  {
+   "t0": 506.959,
+   "t1": 508.035,
+   "txt": "eight hundred."
+  },
+  {
+   "t0": 508.386,
+   "t1": 509.564,
+   "txt": "Move the handlebars"
+  },
+  {
+   "t0": 509.564,
+   "t1": 510.494,
+   "txt": "left and right,"
+  },
+  {
+   "t0": 510.494,
+   "t1": 511.052,
+   "txt": "or up and"
+  },
+  {
+   "t0": 511.052,
+   "t1": 511.362,
+   "txt": "down,"
+  },
+  {
+   "t0": 511.362,
+   "t1": 512.168,
+   "txt": "and you steer"
+  },
+  {
+   "t0": 512.168,
+   "t1": 512.973,
+   "txt": "the action on"
+  },
+  {
+   "t0": 512.973,
+   "t1": 513.655,
+   "txt": "the screen."
+  },
+  {
+   "t0": 513.935,
+   "t1": 514.301,
+   "txt": "Pedal,"
+  },
+  {
+   "t0": 514.301,
+   "t1": 514.97,
+   "txt": "and you set"
+  },
+  {
+   "t0": 514.97,
+   "t1": 515.639,
+   "txt": "how much it"
+  },
+  {
+   "t0": 515.639,
+   "t1": 516.005,
+   "txt": "moves."
+  },
+  {
+   "t0": 516.356,
+   "t1": 517.337,
+   "txt": "In one version,"
+  },
+  {
+   "t0": 517.337,
+   "t1": 518.449,
+   "txt": "the handlebars do"
+  },
+  {
+   "t0": 518.449,
+   "t1": 519.431,
+   "txt": "nothing at all,"
+  },
+  {
+   "t0": 519.431,
+   "t1": 520.477,
+   "txt": "unless you pedal"
+  },
+  {
+   "t0": 520.477,
+   "t1": 521.262,
+   "txt": "fast enough."
+  },
+  {
+   "t0": 521.542,
+   "t1": 521.747,
+   "txt": "If,"
+  },
+  {
+   "t0": 521.747,
+   "t1": 522.294,
+   "txt": "however,"
+  },
+  {
+   "t0": 522.294,
+   "t1": 523.592,
+   "txt": "the operator pedals"
+  },
+  {
+   "t0": 523.592,
+   "t1": 524.89,
+   "txt": "the bicycle rapidly"
+  },
+  {
+   "t0": 524.89,
+   "t1": 525.368,
+   "txt": "enough,"
+  },
+  {
+   "t0": 525.368,
+   "t1": 526.598,
+   "txt": "the game responds."
+  },
+  {
+   "t0": 526.949,
+   "t1": 527.478,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 527.478,
+   "t1": 528.359,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 528.359,
+   "t1": 528.711,
+   "txt": "words:"
+  },
+  {
+   "t0": 528.711,
+   "t1": 529.71,
+   "txt": "making video game"
+  },
+  {
+   "t0": 529.71,
+   "t1": 530.532,
+   "txt": "playing a more"
+  },
+  {
+   "t0": 530.532,
+   "t1": 531.472,
+   "txt": "healthful event."
+  },
+  {
+   "t0": 531.823,
+   "t1": 532.847,
+   "txt": "Pedal to play."
+  },
+  {
+   "t0": 533.347,
+   "t1": 534.003,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 534.003,
+   "t1": 535.971,
+   "txt": "April nineteen eighty-five."
+  },
+  {
+   "t0": 536.422,
+   "t1": 537.213,
+   "txt": "And finally,"
+  },
+  {
+   "t0": 537.213,
+   "t1": 538.662,
+   "txt": "nineteen ninety-eight."
+  },
+  {
+   "t0": 538.942,
+   "t1": 539.603,
+   "txt": "The bed."
+  },
+  {
+   "t0": 539.954,
+   "t1": 540.852,
+   "txt": "The patent spots"
+  },
+  {
+   "t0": 540.852,
+   "t1": 541.3,
+   "txt": "a gap in"
+  },
+  {
+   "t0": 541.3,
+   "t1": 541.917,
+   "txt": "the market."
+  },
+  {
+   "t0": 542.197,
+   "t1": 543.882,
+   "txt": "The conventional exercise"
+  },
+  {
+   "t0": 543.882,
+   "t1": 544.96,
+   "txt": "machines can not"
+  },
+  {
+   "t0": 544.96,
+   "t1": 545.633,
+   "txt": "be used as"
+  },
+  {
+   "t0": 545.633,
+   "t1": 546.24,
+   "txt": "a bed for"
+  },
+  {
+   "t0": 546.24,
+   "t1": 547.52,
+   "txt": "sleeping or resting"
+  },
+  {
+   "t0": 547.52,
+   "t1": 547.722,
+   "txt": "on."
+  },
+  {
+   "t0": 548.073,
+   "t1": 549.01,
+   "txt": "And the reverse"
+  },
+  {
+   "t0": 549.01,
+   "t1": 549.823,
+   "txt": "is also true."
+  },
+  {
+   "t0": 550.103,
+   "t1": 551.588,
+   "txt": "The conventional beds"
+  },
+  {
+   "t0": 551.588,
+   "t1": 552.296,
+   "txt": "can not be"
+  },
+  {
+   "t0": 552.296,
+   "t1": 553.003,
+   "txt": "used as an"
+  },
+  {
+   "t0": 553.003,
+   "t1": 554.135,
+   "txt": "exercise device."
+  },
+  {
+   "t0": 554.486,
+   "t1": 555.183,
+   "txt": "So here is"
+  },
+  {
+   "t0": 555.183,
+   "t1": 556.089,
+   "txt": "the solution,"
+  },
+  {
+   "t0": 556.089,
+   "t1": 556.576,
+   "txt": "in use."
+  },
+  {
+   "t0": 556.856,
+   "t1": 557.889,
+   "txt": "A person lies"
+  },
+  {
+   "t0": 557.889,
+   "t1": 558.286,
+   "txt": "down."
+  },
+  {
+   "t0": 558.566,
+   "t1": 559.394,
+   "txt": "Their feet go"
+  },
+  {
+   "t0": 559.394,
+   "t1": 560.669,
+   "txt": "between soft rollers"
+  },
+  {
+   "t0": 560.669,
+   "t1": 561.37,
+   "txt": "at the end,"
+  },
+  {
+   "t0": 561.37,
+   "t1": 562.453,
+   "txt": "raised or lowered"
+  },
+  {
+   "t0": 562.453,
+   "t1": 563.154,
+   "txt": "with a hand"
+  },
+  {
+   "t0": 563.154,
+   "t1": 563.536,
+   "txt": "wheel."
+  },
+  {
+   "t0": 563.887,
+   "t1": 564.836,
+   "txt": "Under the bed,"
+  },
+  {
+   "t0": 564.836,
+   "t1": 565.785,
+   "txt": "a motor pushes"
+  },
+  {
+   "t0": 565.785,
+   "t1": 566.191,
+   "txt": "a rod."
+  },
+  {
+   "t0": 566.471,
+   "t1": 567.373,
+   "txt": "The rod moves"
+  },
+  {
+   "t0": 567.373,
+   "t1": 567.927,
+   "txt": "a frame,"
+  },
+  {
+   "t0": 567.927,
+   "t1": 568.898,
+   "txt": "which pulls an"
+  },
+  {
+   "t0": 568.898,
+   "t1": 569.799,
+   "txt": "elastic cord."
+  },
+  {
+   "t0": 570.079,
+   "t1": 570.854,
+   "txt": "The cord drags"
+  },
+  {
+   "t0": 570.854,
+   "t1": 571.628,
+   "txt": "the front half"
+  },
+  {
+   "t0": 571.628,
+   "t1": 572.181,
+   "txt": "of the bed"
+  },
+  {
+   "t0": 572.181,
+   "t1": 573.066,
+   "txt": "toward the back."
+  },
+  {
+   "t0": 573.417,
+   "t1": 574.523,
+   "txt": "The rear support"
+  },
+  {
+   "t0": 574.523,
+   "t1": 575.283,
+   "txt": "can even be"
+  },
+  {
+   "t0": 575.283,
+   "t1": 576.597,
+   "txt": "adjusted in length,"
+  },
+  {
+   "t0": 576.597,
+   "t1": 577.149,
+   "txt": "so as to"
+  },
+  {
+   "t0": 577.149,
+   "t1": 578.325,
+   "txt": "tilt the exercise"
+  },
+  {
+   "t0": 578.325,
+   "t1": 578.601,
+   "txt": "bed."
+  },
+  {
+   "t0": 578.952,
+   "t1": 579.784,
+   "txt": "And the middle"
+  },
+  {
+   "t0": 579.784,
+   "t1": 580.378,
+   "txt": "of the bed"
+  },
+  {
+   "t0": 580.378,
+   "t1": 581.21,
+   "txt": "rises up under"
+  },
+  {
+   "t0": 581.21,
+   "t1": 581.448,
+   "txt": "you."
+  },
+  {
+   "t0": 581.728,
+   "t1": 582.736,
+   "txt": "Both frames are"
+  },
+  {
+   "t0": 582.736,
+   "t1": 584.079,
+   "txt": "displaced upwards to"
+  },
+  {
+   "t0": 584.079,
+   "t1": 584.953,
+   "txt": "push the back"
+  },
+  {
+   "t0": 584.953,
+   "t1": 585.759,
+   "txt": "muscles of a"
+  },
+  {
+   "t0": 585.759,
+   "t1": 586.901,
+   "txt": "person resting on"
+  },
+  {
+   "t0": 586.901,
+   "t1": 588.043,
+   "txt": "the exercise bed."
+  },
+  {
+   "t0": 588.394,
+   "t1": 589.079,
+   "txt": "The result,"
+  },
+  {
+   "t0": 589.079,
+   "t1": 590.013,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 590.013,
+   "t1": 590.387,
+   "txt": "words:"
+  },
+  {
+   "t0": 590.387,
+   "t1": 591.321,
+   "txt": "the backbone of"
+  },
+  {
+   "t0": 591.321,
+   "t1": 592.006,
+   "txt": "the user is"
+  },
+  {
+   "t0": 592.006,
+   "t1": 593.252,
+   "txt": "therefore braced and"
+  },
+  {
+   "t0": 593.252,
+   "t1": 593.812,
+   "txt": "extended."
+  },
+  {
+   "t0": 594.163,
+   "t1": 594.734,
+   "txt": "A bed that"
+  },
+  {
+   "t0": 594.734,
+   "t1": 595.819,
+   "txt": "does the stretching"
+  },
+  {
+   "t0": 595.819,
+   "t1": 596.275,
+   "txt": "for you."
+  },
+  {
+   "t0": 596.775,
+   "t1": 597.401,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 597.401,
+   "t1": 599.485,
+   "txt": "November nineteen ninety-nine."
+  },
+  {
+   "t0": 599.936,
+   "t1": 601.024,
+   "txt": "Six machines."
+  },
+  {
+   "t0": 601.424,
+   "t1": 602.197,
+   "txt": "But which one"
+  },
+  {
+   "t0": 602.197,
+   "t1": 602.851,
+   "txt": "is the most"
+  },
+  {
+   "t0": 602.851,
+   "t1": 603.386,
+   "txt": "approved?"
+  },
+  {
+   "t0": 603.937,
+   "t1": 604.738,
+   "txt": "We're going back"
+  },
+  {
+   "t0": 604.738,
+   "t1": 605.388,
+   "txt": "to the armor."
+  },
+  {
+   "t0": 605.668,
+   "t1": 606.812,
+   "txt": "Because somebody had"
+  },
+  {
+   "t0": 606.812,
+   "t1": 607.441,
+   "txt": "to work out"
+  },
+  {
+   "t0": 607.441,
+   "t1": 608.128,
+   "txt": "how to brake"
+  },
+  {
+   "t0": 608.128,
+   "t1": 609.043,
+   "txt": "while lying flat"
+  },
+  {
+   "t0": 609.043,
+   "t1": 609.615,
+   "txt": "on wheels."
+  },
+  {
+   "t0": 609.895,
+   "t1": 610.606,
+   "txt": "And then they"
+  },
+  {
+   "t0": 610.606,
+   "t1": 611.372,
+   "txt": "wrote it down,"
+  },
+  {
+   "t0": 611.372,
+   "t1": 611.919,
+   "txt": "and it got"
+  },
+  {
+   "t0": 611.919,
+   "t1": 612.412,
+   "txt": "approved."
+  },
+  {
+   "t0": 612.763,
+   "t1": 613.595,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 613.595,
+   "t1": 614.368,
+   "txt": "this video is"
+  },
+  {
+   "t0": 614.368,
+   "t1": 615.14,
+   "txt": "word for word"
+  },
+  {
+   "t0": 615.14,
+   "t1": 616.091,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 616.371,
+   "t1": 617.397,
+   "txt": "The patent numbers"
+  },
+  {
+   "t0": 617.397,
+   "t1": 617.967,
+   "txt": "are in the"
+  },
+  {
+   "t0": 617.967,
+   "t1": 618.992,
+   "txt": "video description,"
+  },
+  {
+   "t0": 618.992,
+   "t1": 619.562,
+   "txt": "so you can"
+  },
+  {
+   "t0": 619.562,
+   "t1": 620.702,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 621.053,
+   "t1": 622.114,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 622.114,
+   "t1": 622.738,
+   "txt": "every day."
+  },
+  {
+   "t0": 623.018,
+   "t1": 623.589,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 623.589,
+   "t1": 624.447,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 624.447,
+   "t1": 624.618,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 9.756
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 14.144
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.911
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 19.521
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 41.635
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 44.058
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 48.508
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 61.432
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 68.783
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 70.03
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 76.262
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 84.637
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 92.716
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 101.627
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 111.176
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 120.596
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 127.011
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 136.221
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 145.153
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 150.987
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 159.362
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 165.606
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 172.554
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 177.884
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 184.59
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 189.798
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 195.954
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 205.015
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 213.432
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 223.367
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 232.596
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 239.435
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 246.731
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 253.701
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 256.057
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 258.713
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 268.536
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 280.369
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 287.872
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 294.327
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 304.132
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 310.087
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 318.44
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 324.499
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 329.205
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 334.359
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 341.496
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 345.861
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 352.334
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 359.728
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 366.802
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 376.305
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 382.805
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 388.471
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 391.32
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 396.13
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 402.412
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 407.611
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 412.101
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 423.271
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 431.174
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 441.149
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 448.82
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 456.659
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 460.98
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 470.699
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 480.61
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 490.78
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 498.859
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 508.386
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 516.356
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 526.949
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 531.823
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 536.422
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 539.954
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 548.073
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 554.486
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 563.887
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 573.417
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 578.952
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 588.394
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 594.163
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 599.936
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 603.937
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 612.763
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 621.053
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": "",
+ "tt": false
+}

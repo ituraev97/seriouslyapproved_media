@@ -1,0 +1,184 @@
+4,512,567
+
+7
+
+reference voltage which may be derived from a battery
+or similar source. The output of the comparator is di-
+tected to one input of an AND gate 101 having its other
+input connected to ground or a reference potential. The
+output of AND gate 101 is directed to the ground input
+of the video game. In all of such games, one will not be
+able to operate the game unless there is a ground at the
+ground terminal.
+
+In FIG. 8, if the operator of the bicycle does not
+produce a voltage greater than the reference voltage
+than the comparator 100 will not produce an output to
+energize gate 101. Thus, if this is not accomplished, then
+the switches, for example, as shown in FIG. 7 will not
+operate to do anything to the display. If, however, the
+operator pedals the bicycle rapidly enough, then he will
+exceed the reference voltage and ground will be sup-
+plied to the video game which will then respond to the
+openings and closures of the switches. This ground
+feature also exists in most video games and according to
+the program format. It should be discerned from the
+above description that there are a host of alternative
+devices available all of which can operate with suitable
+mechanical means associated with an exercise bicycle.
+Accordingly, the user of such a bicycle can now receive
+enjoyment in playing the game and exercise at the same
+time.
+
+It is, of course, understood that each video game that
+is available on the market such as the ones indicated
+have paddle inputs as well as switch inputs to enable
+accommodation of the above described device to oper-
+ate the game according to the program format. Apart
+from the obvious healthful benefits derived from the
+apparatus, it is apparent that many different programs
+can be devised and developed which utilize the exercise
+bicycle and the apparatus described above to implement
+even more interesting and challenging programs.
+
+As alluded to, most exercise bicycles do not have
+movable handlebars but essentially, the handlebar is
+coupled to the stem by means of a clamp and a bolt. If
+the bolt is loosened, then the handlebars can be moved
+up and down or tilted, and if the stem is modified, the
+handlebars can be turned side to side. There are many
+ways of accomplishing this all of which are relatively
+apparent to those skilled in the art. It is, of course, an
+important aspect of this invention that such operational
+movement of the handlebars be accommodated.
+
+Therefore, many modifications will be apparent to
+those skilled in the art as for example utilizing another
+type of speed detector such as a reed switch or other
+device to replace the electric generator.
+
+I claim:
+
+1. An exercising apparatus for controlling a video
+game apparatus, said game of the type having input
+terminals for receiving electrical type signals necessary
+to control the movement of a particular object associ-
+ated with a video game as displayed on the screen of a
+television receiver associated with said video game
+apparatus, comprising in combination therewith,
+
+an exercise bicycle having a frame and having a pedal
+
+driven wheel and a moveable handlebar assembly
+which assembly is pivotally coupled to said frame
+to move in a right or left direction as well as move
+up or down,
+
+first means coupled to said handlebar assembly to
+
+provide a first output signal indicative of the extent
+of motion of said assembly in said right or left
+direction to provide control of the movement of
+said object in the horizontal plane,
+
+10
+
+15
+
+20
+
+25
+
+30
+
+40
+
+45
+
+50
+
+35
+
+60
+
+65
+
+8
+
+Second means coupled to said handlebar assembly to
+provide a second output signal indicative of the
+extent of motion of said assembly in said up or
+down direction to provide control of the move-
+ment of said object in the vertical plane,
+
+third means coupled to said wheel to provide a third
+output signal indicative of the speed of the wheel to
+provide control of the speed of said object as mov-
+ing in said horizontal or vertical planes, and
+
+means adapted to apply said first, second and third
+output signals to associated input terminals of said
+video game apparatus whereby said object can be
+controlled to move about said screen according to
+said output signals.
+
+2. The exercising apparatus according to claim 1,
+wherein said first means includes a potentiometer hav-
+ing a rotatable shaft, gear means coupled to said shaft, a
+gear strip coupled to said handlebar assembly and co-
+acting with said gear means to move said shaft and
+hence vary the resistance of said potentiometer accord-
+ingly said potentiometer having at least one output
+terminal coupled to one input terminal of said video
+game apparatus.
+
+3. The exercising apparatus according to claim 1,
+wherein said second means includes a potentiometer
+having a rotatable shaft, gear means coupled to said
+shaft, a gear strip coupled to said handlebar assembly
+and coacting with said gear means to move said shaft
+and hence vary the resistance of said potentiometer
+accordingly said potentiometer having at least one out-
+put terminal coupled to one input terminal of said video
+game apparatus.
+
+4. The exercising apparatus according to claim 1,
+further including a first and a second momentary switch
+with said first switch mounted on said handlebar assem-
+bly near the right handlebar, with said second switch
+mounted on said handlebar assembly near the left han-
+dlebar, each of said switches capable of operating in a
+first state when depressed each switch having at least
+one output terminal, with each of said output terminals
+coupled to an associated input terminal of said video
+game apparatus.
+
+5. The exercising apparatus according to claim 1,
+wherein said third means includes an electrical genera-
+tor of the type capable of providing at an output termi-
+nal a repetitive signal according to the speed of rotation
+of the generator shaft; with said shaft coacting with the
+sidewall of said wheel, and converter means coupled to
+said output terminal for providing a DC signal for appli-
+cation of said signal to said video game apparatus.
+
+6. The exercising apparatus according to claim 5,
+wherein said converter means is an integrating network
+including a filter capacitor and a rectifier for developing
+said DC signal.
+
+7. The exercising apparatus according to claim 1,
+wherein said first means includes a first momentary
+operated switch positioned on the right of said handle-
+bar assembly and a second momentary switch posi-
+tioned on the left of said handlebar assembly, extending
+tab members coupled to said handlebar assembly and
+operative to move as said assembly is moved to actuate
+said right or left switch for a right or left movement of
+a given distance.
+
+8. The exercising apparatus according to claim 1,
+wherein said second means includes a first momentary
+switch positioned above said handlebar assembly and a
+second momentary switch positioned below said han-
+dlebar assembly, said handlebar assembly including

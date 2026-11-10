@@ -19,7 +19,7 @@ Status: todo | done YYYY-MM-DD | skip (reason). Formats rotate by weekday (RUNBO
 | 014 | THE YEAR FILE | The Weirdest Patents of 1931 | todo |
 | 015 | THE SHELF | Patents to Stop Snoring | todo |
 | 016 | THE SHELF | Bizarre Exercise Machines | todo |
-| 017 | ONE PATENT | (strongest exercise patent) | todo |
+| 017 | ONE PATENT | (strongest exercise patent) → Armor with rollers 1999 + 5 exercise relatives (as "6 Weird Exercise Machines That Got Real Patents") | done 2026-11-11 |
 | 018 | THE SHELF | Inventions for Your Beard | todo |
 | 019 | DID IT WORK? | Car Gadgets of the 1970s | todo |
 | 020 | THE SHELF | Holiday Patents: Christmas Edition | todo |
@@ -34,3 +34,5 @@ Status: todo | done YYYY-MM-DD | skip (reason). Formats rotate by weekday (RUNBO
 | 029 | THE SHELF | Patents for Your Feet | todo |
 | 030 | THE SHELF | Golf Patents That Went Too Far | todo |
 | 031 | ONE PATENT | The Rocking Chair That Churns Butter (1913) + 5 rocking-chair fans (episode 003) | done 2026-11-04 |
+| 032 | THE SHELF | Thanksgiving Patents (turkey, carving, gravy, pie — publish 20–26.11) | todo |
+| 033 | ONE PATENT | (strongest Thanksgiving / turkey patent) | todo |
