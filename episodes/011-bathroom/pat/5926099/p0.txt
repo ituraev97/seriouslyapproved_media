@@ -1,0 +1,85 @@
+US005926099A
+
+United States Patent 55 (11) Patent Number: 5,926,099
+Unum [45] Date of Patent: Jul. 20, 1999
+[54] ELECTRONIC TOILET LID POSITION 5,767,467 6/1998 Grant oc ceeeseseeeeteeteeeeeee 340/689
+
+SIGNAL
+
+[76] Inventor: Ana Laina Pedersen Unum, 6138
+
+Pioneer Park, Langley, Wash.
+
+98260-9728
+[21] Appl. No.: 08/986,599
+[22] Filed: Dec. 8, 1997
+[SD] Tint, C1o ec ccceeeeescccsssssseeeecceesnnneeeeeees GOS8B 21/00
+[52] U.S. Ch oe 340/686.1; 340/689; 4/661;
+200/61.52
+[58] Field of Search 0. eee 340/686.1, 573,
+340/689, 687; 4/661; 200/61.52, 61.45 R,
+61.62
+[56] References Cited
+U.S. PATENT DOCUMENTS
+4,733,419 3/1988 Nee uu... .. 340/686
+4,849,742 7/1989 Warrington .......... .. 340/686
+4,884,067 11/1989 Nordholm et al. .. .. 340/686
+5,276,595 1/1994 Patric veccsceecssseeees wa. 4/661
+5,465,422 11/1995 Dean veeccsessscccsseesssssseesssssseeesssssees 4/661
+5,594,423 1/1997 East wee 340/686
+5,664,867 9/1997 Martin et al. . vw 4/661
+5,691,705 11/1997 East we. .. 340/686
+5,703,567 12/1997 Cleveland .... .. 340/573
+
+5,748,096 5/1998 Kauter wesc 340/686
+
+60
+
+Primary Examiner—Nina Tong
+[57] ABSTRACT
+
+An electronic position signal device (10) that, when attached
+to a toilet lid (80), provides an audible and/or visual signal
+to indicate that toilet lid (80) is in an upright position.
+Position signal device (10) comprises a battery-powered
+electronic signaling module (20) with a transducer (30) for
+generating audible and/or visual signals similar to those used
+in greeting cards, and a position-sensitive switch (40). When
+position signal device (10) is used as a toilet lid position
+signal, position-sensitive switch (40) is a gravity-actuated
+switch which is closed (44) when the toilet lid position
+signal is in an upright or vertical position and open (42)
+when the toilet lid position signal is in a horizontal position.
+Closure of switch (40) activates signaling module (20)
+thereby causing transducer (30) to generate an audible
+and/or visual signal. Three gravity-actuated versions of
+switch (40) are described for bridging a gap between con-
+tacts (26A and 26B) which commonly are part of signaling
+module (20). In one version, a weighted flexible,
+electrically-conductive cantilevered spring bridges gap. In
+the second version, a suspended freely-swinging
+electrically-conductive mass bridges gap. In the third
+version, a loose electrically-conductive object bridges gap.
+
+1 Claim, 4 Drawing Sheets
+
+Wii
+
+427 *T
+
+77 56C
+
+26A
+
+a
+
+24
+
+L
+
+36
+
+30
+
+|—— 50
+

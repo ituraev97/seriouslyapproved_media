@@ -1,0 +1,187 @@
+4,790,036
+
+5
+
+providing second motor means, responsive to a sec-
+ond power input, for rotating said toilet seat in said
+circumferential direction;
+
+providing a power supply means, responsive to actua-
+tion of said manually actuable lever, for providing
+power to said first motor means and said second motor
+means;
+
+providing control electronics means, operably con-
+nected. to said first motor means, said second motor
+means and said power supply means, for controlling the
+distribution of power from said power supply means to
+said first motor means and said second motor means;
+
+moving said manually actuable lever from said valve
+closed position to said valve open position whereby said
+water in said flush water cistern is released into said
+toilet bowl and said first valve means opens to allow
+water to flow into said flush water cistern through said
+water inlet pipe and said power supply means provdes
+power and said control electronics means automatically
+causes said first motor means to move said slide housing
+means into said operative position and said spray means
+applies said cleaning liquid to said toilet seat, while also
+causing said second motor means to rotate said toilet
+seat through at least 360° while said drying means dries
+said toilet seat after application of said cleaning liquid.
+
+In a further aspect, the present invention provides a
+toilet with an automatically cleanable toilet seat com-
+prising:
+
+a toilet bowl; a flush water cistern;
+
+a substantially ring-shaped toilet seat, said toilet being
+rotatable in a circumferential direction;
+
+mounting means for mounting said toilet seat on said
+toilet bowl for relative rotation therebetween in said
+circumferential direction;
+
+a water inlet pipe, connected to said flush water cis-
+tern, for supplying water to said flush water cistern;
+
+first valve means, connected to said water inlet pipe,
+for controlling the flow of water through said water
+inlet pipe to maintain a predetermined water level in
+said flush water cistern;
+
+lever-actuated second valve means for fluidically
+connecting said toilet bowl and said flush water cistern
+and for controlling the flow of water from said flush
+water cistern to said toilet bowl, said leveractuated
+second valve means including a manually actuable lever
+movable between a valve closed position and a valve
+open position; a slide housing means for movement
+between a neutral position adjacent said toilet seat and
+an operative position disposed above a segment of said
+toilet seat, said slide housing means including spray
+means for applying a cleaning liquid to said toilet seat
+when said slide housing means is in said operative posi-
+tion and drying means for drying said toilet seat after
+application of said cleaning liquid;
+
+first motor means, responsive to a power input, for
+moving said slide housing means between said neutral
+position and said operative position;
+
+second motor means, responsive to.a power input, for
+rotating said toilet seat in said circumferential direction,
+relative to said toilet bowl;
+
+power supply means, responsive to actuation of said
+manually actuable lever, for providing power to said
+first motor means and said second motor means;
+
+control electronics means, operably connected to said
+first motor means, said second motor means and said
+power supply means, for controlling the distribution of
+power from said power suppply means to said first
+motor means and said second motor means;
+
+20
+
+25
+
+30
+
+35
+
+45
+
+55
+
+60
+
+65
+
+6
+
+whereby upon movement of said manually actuable
+lever from said valve closed position to said valve open
+position, said water in said flush water cistern is released
+into said toilet bowl and said first valve means opens to
+allow water to flow into said flush water cistern
+through said water inlet pipe and said power supply
+means provides power to said control electronics means
+and said control electronics means causes said first
+motor means to move said slide housing means into said
+operative position and said spray means applies said
+cleaning liquid to said toilet seat, while also causing said
+second motor means to rotate said toilet seat through at
+least 360°0 while said drying means dries said toilet seat
+after application of said cleaning liquid.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+The invention will be explained in greater detail with
+reference to the drawings. In all drawings identical
+functional parts have been given the same reference
+numerals,
+
+FIG. 1 shows a perspective view onto the arrange-
+ment according to the invention, with a partial sectional
+view of the rear part;
+
+FIG. 2 shows a section through the seat with its sup-
+port and its drive;
+
+FIG. 3 shows a perspective. view onto the slide hous-
+ing with support rollers, partly in a sectional view;
+
+FIG. 4 shows a section through the slide housing of
+FIG. 3 with cleaning nozzle and other additional parts
+from FIG. 1;
+
+FIG. 5 is a diagrammatic overall view, in which the
+invidual operating stage I to XI of the cleaning method
+are shown;
+
+FIG. 6 is a variant of a slide housing developed fur-
+ther from that of FIG. 3, comprising a wetting element
+for the disinfecting;
+
+FIG. 7 is a section through the slide housing of FIG.
+4, in addition with an electro-magnetically controlled
+wiper for the radial direction;
+
+FIG. 8 is a longitudinal section through the wetting
+element of FIG. 6 with a section of the wetting seat;
+
+FIG. 8a is the same section through the wetting ele-
+ment, but in its rear neutral position which prevents the
+drying-out;
+
+FIG. 9 shows details of the electro-magnetically con-
+trolled wiper for the radial direction, according to FIG.
+7; .
+
+FIG. 10 shows the simplified circuit diagram of the
+electronic control of the overall device; and
+
+FIG. 11 shows a time/flow-chart of the realized de-
+vice.
+
+DETAILED DESCRIPTION OF THE
+INVENTION
+
+FIG. 1 shows, partialy in section, a flushing water
+cistern 1, provided with a lever 2 and a cover 3. Ar-
+ranged inside the flusing water cistern 1 is a known
+flushing valve 4, which by way of a lever 5 is connected
+to the hand-operated lever 2 of the flushing water cis-
+tern 1. Provided inside the flushing water cistern 1 is a
+float 6, which by means of a lever 6’ is connected to the
+valve 7. The valve 7 is connected to a water inlet pipe
+8, which by means of a nut 9 is fixed into the wall of the
+flushing water cistern 1. In front of the valve 7, a pipe
+10 for. cleaning water is connected, so that this is always
+under water pressure. A water turbine 11 is connected
+by a feed pipe 12 to the valve 7. Through this feed pipe
+12 and the water turbine 11, the flushing water cistern 1

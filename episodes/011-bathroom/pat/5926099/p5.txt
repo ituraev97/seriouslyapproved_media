@@ -1,0 +1,198 @@
+5,926,099
+
+1
+
+ELECTRONIC TOILET LID POSITION
+SIGNAL
+
+BACKGROUND
+
+1. Technical Field of the Invention
+
+The electronic position signal device comprises a
+position-sensitive electrical switch, a self-powered elec-
+tronic signaling module with a transducer, whereby an
+audible and/or visible signal is given to indicate that an
+object to which said switch is attached is in a prescribed
+position.
+
+The electronic position signal device is embodied in an
+electronic toilet lid position signal in which a gravity-
+actuated switch activates the electronic signaling module
+causing the transducer to produce an audible and/or visible
+signal to indicate that a toilet lid to which it is attached is in
+the raised or open position.
+
+2. Description of the Prior Art
+
+Toilet lids are generally made of a rigid material com-
+prising a hinged seat, a hinged cover, or both, of which the
+seat, if not also the cover, should be lowered to the closed
+position following use. For the purposes of this patent, the
+seat and/or cover will be referred to as a toilet lid.
+
+Toilet lids are often left in the open position through
+carelessness or inadvertence.
+
+Most toilets and lids are not manufactured with a signal to
+notify users that the lid is up and should be returned to the
+down position.
+
+As this is thought to be an irritating common social
+problem, inventor has learned through studying the technical
+literature that this situation can lead to severe personal
+trauma for subsequent users who fail to notice the upright
+position of the lid.
+
+Efforts have been made to generate an audible or visible
+signal when a toilet lid is in the open position for teaching
+and reminding toilet users of the etiquette of returning the lid
+to its lowered position after use and to alert subsequent users
+of the situation.
+
+Additionally, toilet lids, devices, and accessories have
+been designed to provide features for the comfort and
+entertainment of the user including vibrating toilet seats,
+seat pressure activated audio systems, viewing devices, and
+lighting devices.
+
+Furthermore, toilet devices have been designed to provide
+features for the training and encouragement of the user,
+particularly small children and persons with disabilities.
+
+Furthermore, toilet accessories and devices have been
+designed to provide features for the signaling of lid position
+for infant and pet safety.
+
+As attempts to address these situations have been made,
+they have had, and still have significant problems, some of
+which are:
+
+USS. Pat. No. 4,849,742 Warrington, Jul. 18, 1989 Toilet
+Seat Cover Position Alarm requires a toilet tank and toilet
+cover, insertion of batteries, and utilizes timers, multiple
+switches including a mercury switch, specialized housing,
+and adjustments for installation and operation. Additionally,
+the signaling device is not activated as soon as the cover is
+raised, and may be deactivated before the cover is lowered.
+
+USS. Pat. No. 5,465,422 Dean, Nov. 7, 1995 Seat Appa-
+ratus For Actuating An Audio Source plays an audible signal
+when anyone sits on the toilet seat, requiring installation of
+a specially manufactured toilet seat and cover, insertion of
+batteries, multiple switches, and adjustments for installation
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+2
+
+and operation. Additionally, the signaling device is not
+
+activated as soon as the seat is raised, and may be deacti-
+
+vated before the seat is lowered.
+
+U.S. Pat. No. 4,733,419 Nee, May 29, 1988 Toilet Seat-up
+Indicator flashes a “seat up” sign and requires a mercury
+switch, insertion of batteries, specialized housing with mul-
+tiple compartments with specific shapes and adjustments for
+installation and operation. Also, by design, it is limited to
+functioning with the toilet seat and not the cover.
+
+USS. Pat. No. 4,884,067 Nordholm, et al, Nov. 28, 1989
+Motion and Position Sensing Alarm with a ball in a truncated
+cone has a position sensing device that is activated in a
+horizontal position and is deactivated in a vertical position,
+but unfortunately has additional switches, requires an exter-
+nal power source, and extensive modification for application
+to a toilet lid.
+
+USS. Pat. No. 5,276,595 Patrie, Jan. 4, 1994 Color-coded
+Toilet Light Assembly requires body heat and position
+sensors, specialty housing, multiple switches, color coded
+lights, and by design is limited to functioning with the toilet
+cover and not the seat.
+
+As constructed, these devices are subject to problems that
+create inconvenience or discomfort to users which discour-
+ages use. Among these problems are:
+
+a. These and many prior solutions suggest signal devices
+that require the toilet have plumbing, flushing
+mechanisms, toilet tanks, a toilet bowl, or that the
+hinged lid be, specifically, a seat or a cover.
+
+b. Prior solutions suggest signal devices that require the
+toilet to be in proximity to an external power source.
+
+c. Prior solutions suggest signal devices that require the
+use of tools, special equipment, or special skills for
+their manufacture and/or installation.
+
+d. Some prior solutions require the utilization of external
+mechanical attachments such as handles, pedals, or
+elements manufactured into or onto the toilet or its lid
+to facilitate operation of the signal.
+
+. Prior solutions suggest the use of timers. However,
+expiration of a fixed timer does not necessarily mean
+that the person will not close the toilet seat or cover
+before departing and requires more steps in manufac-
+ture at additional cost to the consumer.
+
+. Prior solutions suggest signal devices that produce
+unpleasant shrill beeps, buzzes, and flashing lights that
+discourage their use.
+
+g. Prior solutions suggest signal devices that do not
+provide options of a varied selection of entertaining
+audible and/or visual signals thereby discouraging their
+use by being an irritant to the user of a toilet while the
+lid is raised.
+
+h. Prior solutions suggest signal devices that are not
+inexpensive, disposable in nature, easy to install,
+replace, or remove therefore discouraging their use.
+
+. Prior solutions suggest signal devices that are not
+capable of being easily produced in a variety of shapes,
+or displaying a variety of indicia, therefore discourag-
+ing their use.
+
+j. Prior solutions suggest signal devices that utilize spe-
+cialized electrical circuits which require more steps in
+manufacture at additional cost to the consumer.
+
+k. Prior solutions suggest signal devices that require
+specialized housings which require more steps in
+manufacture at additional cost to the consumer.
+
+1. Many prior solutions suggest signal devices that require
+the handling of multiple components for their installa-
+tion.
+
+oO
+
+—_
+
+a

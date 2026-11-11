@@ -1,0 +1,185 @@
+5,748,096
+
+5
+
+The audio sequence which the owner records in the
+module 50 can be a verbal message (preferably entertaining
+and/or humorous), a musical selection, or any other
+sequence of audio tones which is intended to prompt a user
+to put down the toilet seat 18 after use. The fact that the
+content of the audio sequence is completely flexible makes
+the device 30 especially desirable as a gift or novelty item.
+
+For some toilets, the spacing between the bowl 14 and the
+seat 18 may be too small for the device 30 to normally fit
+therebetween. For this reason, a plurality of shims (not
+shown) made of plastic or other suitable material may be
+supplied with the device 30 to raise the seat 18 relative to the
+bowl 14. The shims are formed with holes through which
+bolts (not shown) that extend from the hinge assembly 22
+and connect the seat 18 and lid 20 to the body 12 extend.
+
+The shims are installed by removing the seat 18 and lid 20
+from the body 12, assembling the shims onto the bolts, and
+re-attaching the seat 18 and lid 20 to the body 12 such that
+the shims are disposed between the hinge assembly 22 and
+the body 12 to elevate the seat 18 and lid 20.
+
+A sufficiently large number of shims are provided such
+that a person installing the device #0 can adjust the seat 18
+to a suitable height which enables the device 30 to fit
+between the bow] 14 and seat 18 with the plunger 36a being
+properly actuated via engagement with the rim of the bowl
+14 by selecting a corresponding number of shims. The shims
+may also be provided with one or two adhesive surfaces to
+prevent slipping of the seat 18 relative to the bowl 14.
+
+FIGS. 6 to 8 illustrate a second illumination and annun-
+ciator device 30’ embodying the present invention, in which
+like numerals are designated by the same reference numerals
+used in FIGS. 1 to 5, and corresponding but modified
+elements are designated by the same reference numerals
+primed.
+
+Whereas the device 30 is attached to the toilet seat 18. the
+device 30’ is attached to the rim of the toilet bowl 14. The
+device 30' includes the green LED 38 for illuminating the
+interior of the bowl 14 as indicated by rays 32’.
+
+The device 30’ includes the sensor switch 36 which in this
+embodiment is actuated by the seat 18. More specifically,
+when the seat 18 is up, it is disengaged from the switch 36,
+the device 30’ is activated, and the LED 38 illuminates the
+bowl 14. The annunciator unit 48 is also activated in the
+manner described above with reference to FIGS. 1 to 5.
+When the seat 18 is down, it engages with and depresses the
+plunger 36a of the switch 36 to de-activate the device 30".
+
+The device 30' can be attached to the rim of the bowl 14
+using any suitable means. For example, as viewed in FIG. 7,
+a generally U-shaped mounting bracket 66 is attached to the
+bow! 14 by velcro strips 62. The device 30’ is attached to the
+bracket 60 by velcro strips 64. The strips 64 enable the
+device 30' to be mounted at a variable height such that the
+switch 36 can be optimally actuated by the seat 18 when it
+is moved to the lower position.
+
+FIG. 9 illustrates a modified electrical configuration
+which is applicable to either of the devices 30 and 30’. In this
+case, the switch 36 is replaced by a double tandem switch 66
+having a first section 66a which performs the function of the
+switch 36, and a second section 66 which connects or
+disconnects the ON/OFF terminals of the module 50.
+
+The sections 66a and 665 are both normally closed, and
+are opened together by depression of a single plunger which
+corresponds to the plunger 36a of the switch 36. This
+configuration provides electrical isolation of the control
+functionality of the illumination unit 46 and the annunciator
+unit 48. Another modification which is illustrated in FIG. 9
+
+10
+
+15
+
+25
+
+35
+
+45
+
+55
+
+65
+
+6
+is that the LED 38 and the module 50 are powered by a
+single battery 68.
+
+FIG. 10 illustrates a simplified electrical configuration in
+which the audio module 50 is replaced by a simple chime 70
+which is connected in series with the LED 38 and audibly
+annunciates continuously as long as the switch 36 is closed.
+The chime 70 can be configured to produce any suitable
+sound, can be replaced by a bell. buzzer, whistle, or any
+other sound emitting component. Another alternative, the
+chime 70 can be replaced by a playback-only audio module
+which is hard-wired to generate an unalterable verbal mes-
+sage or musical sequence.
+
+In summary, the present invention provides an illumina-
+tion and annunciator device for a toilet bowl which over-
+comes the drawbacks of the prior art by prompting a user to
+replace the toilet seat in the lower position after performing
+standing urination.
+
+Various modifications will become possible for those
+skilled in the art after receiving the teachings of the present
+disclosure without departing from the scope thereof.
+
+For example, the batteries of the illustrated embodiments
+can be replaced by an A.C. to D.C. converter which plugs
+into a wall socket remote from the toilet. is connected to the
+device by a waterproof cable, and supplies a D.C. voltage for
+powering the illumination and annunciator units. The D.C.
+voltage and current are selected to be sufficiently low that no
+safety hazard will exist even if the device is completely
+submerged in water.
+
+I claim:
+
+1. An illuminating and annunciating device for a toilet
+having a bowl, and a seat which is movable between a lower
+seating position and an upper retracted position, the device
+comprising:
+
+an illumination unit for illuminating the bowl;
+
+an annunciator unit for generating an audible indication
+
+which reminds a user to move the seat from the
+retracted position to the seating position after use, and
+
+a sensor for activating the illumination unit and the
+
+annunciator unit when the seat is in the retracted
+position; and de-activating the illumination unit and the
+annunciator unit when the seat is in the seating posi-
+tion;
+
+in which the annunciator unit comprises an audio module
+
+for playing back said audible indication as a recorded
+audio sequence; and
+
+the audio module is configured to selectively record an
+
+audio sequence.
+
+2. A device as in claim 1, in which the annunciator unit
+generates said audible indication continuously while the seat
+is in the retracted position.
+
+3. A device as in claim 1, in which the annunciator unit
+further comprises a switch for switching the audio module
+between a record mode and a playback mode.
+
+4. A device as in claim 1, in which the annunciator unit
+generates said audible indication for a predetermined length
+of time after the seat is moved from the seating position to
+the retracted position.
+
+5. A device as in claim 4, in which said predetermined
+length of time is at least 20 seconds.
+
+6. A device as in claim 1, further comprising:
+
+a casing for housing the illumination unit. the annunciator
+
+unit, and the sensor;
+
+in which the illumination unit comprises a lamp which
+
+protrudes from the casing.
+
+7.A device as in claim 6, in which:

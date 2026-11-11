@@ -1,0 +1,198 @@
+5,926,099
+
+11
+
+Electronic toilet lid position signal 10 can be easily
+disposed of through common means when its battery is
+discharged.
+
+Electronic toilet lid position signal 10 is a simple, reliable,
+inexpensive, entertaining device that signals users of a toilet
+that the lid is in an upright position.
+
+While the above description contains many specificities,
+these should not be construed as limitations on the scope of
+the invention, but rather as exemplifications of some pre-
+ferred embodiments thereof. Many other variations are pos-
+sible.
+
+For example, the embodiments of FIGS. 2, 3 and 4 may
+be emplaced within a housing with lights and/or indicia with
+complementary music, sounds or lights. For example, plays
+“Twinkle, Twinkle, Little Star” with blinking LED light
+arranged in predetermined strategic position within housing,
+which on the exterior of housing portrays a label with indicia
+and image of a child looking at stars in a night sky.
+Additional examples, LED lights may light up bowl area and
+toilet rim; bird-shaped housing with module making bird
+sounds, a “fisherman” model with line and sinker, “engi-
+neers” model with spring and screw, “electricians” model
+with solder bead on wire with switch mechanisms visible
+through housing.
+
+Other objects and advantages of the position-sensitive
+switch are to activate other circuit boards or devices. The
+position-signal device may be utilized as an audible and/or
+visual signal for entertainment, security, teaching, industrial,
+safety, or other purposes; as attached on a lid or object to
+signal that said lid or object has been raised to a vertical
+position. For example, it may be emplaced in or on a lid of
+a: music box, sewing box, fishing tackle box, jewelry box,
+garbage can, chest, tool box, diaper bag; or with dolls and
+toys that play music or flash lights when picked up or tilted.
+
+Conclusion, Ramifications, and Scope of Invention
+
+The electronic toilet lid position signal is a highly reliable,
+lightweight, yet economical, signaling device that can be
+used by persons of any age.
+
+Accordingly, additional advantages of the electronic toilet
+lid position signal are:
+
+it is a toilet lid position signaling accessory which
+
+includes an electronic audio and/or light module which
+is activated when a person raises a toilet lid and is
+deactivated when the lid is lowered;
+it is a device which is self-contained and can be of a size
+that can be utilized with any toilet comprising a hinged
+lid of the common type covering a void, said lid being
+capable of being moved between a vertical position and
+a horizontal position;
+
+it utilizes a low cost, commonly manufactured electronic
+signaling module providing a wide variety of options of
+entertaining melodies and/or other sounds with addi-
+tional options of blinking lights or visual signals;
+
+it is a device that is inexpensive, disposable in nature, and
+
+easy to install, replace, and remove;
+
+it is a device that plays immediately and automatically
+
+when in a vertical position and stops playing immedi-
+ately and automatically when in a horizontal position;
+can be of convenience or comfort to users of the toilet;
+and particularly, when the signal is entertaining, can be
+an incentive to use the toilet or to raise the seat;
+
+it is a device that can be a signaling means for persons
+
+needing assistance to notify others of the need to use
+the toilet;
+
+it is a device that doesn’t require the toilet to have
+
+plumbing, flushing mechanisms, toilet tank, toilet
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+12
+
+bowl, or that the hinged lid be, specifically a seat or a
+cover, or that the toilet be in proximity to an external
+power source;
+
+it is a device that doesn’t require the use of tools, special
+equipment, or special skills for its manufacture or
+installation;
+
+it is a device that doesn’t require the utilization of external
+mechanical attachments such as handles, pedals, or the
+modification of toilets or lids to facilitate operation of
+the signal;
+
+it is a device that doesn’t use timers, thus requiring fewer
+steps in manufacture at less cost to the consumer;
+
+it is a device that utilizes commonly available housings,
+which may comprise recycled materials at less cost to
+the consumer;
+
+it is a device that is capable of being easily produced in
+a variety of shapes which can display a variety of
+colorful labels or indicia;
+
+it is a device that does not utilize specialized electrical
+circuits which thereby requires fewer steps in manu-
+facture at less cost to the consumer;
+
+It is a device that utilizes a switch made of commonly
+available materials, which may comprise recycled
+materials at less cost to the consumer;
+
+it is a device that requires the handling of only one
+component for installation.
+
+While the electronic toilet lid position signal has been
+described with respect to a few preferred embodiments,
+many modifications and variations in the construction of the
+position-sensitive switch are possible and it is not intended
+to limit the electronic toilet lid position signal or position-
+sensitive switch except as defined in the following claims.
+
+Accordingly, the scope of my invention should be deter-
+mined not by the embodiments illustrated, but by the
+appended claims and their equivalents.
+
+I claim:
+
+1. An apparatus for indicating a toilet lid’s position,
+comprising:
+
+a housing for housing a position-sensitive switch and a
+self-powered electronic signaling module, which
+includes an electronic circuit board on which is
+mounted a battery power source and a pair of open
+contacts, and is connected to an audible and visible
+alarm means, wherein said audible and visible alarm
+means comprises a transducer and light emitting
+diodes;
+
+said housing is mounted on the seat of the toilet lid;
+
+said electronic signaling module activates the audible and
+visible alarms means when the toilet lid is in the upright
+position for reminding a user of returning the toilet lid
+to its lowered position after use;
+
+wherein said position-sensitive switch includes a movable
+electrically-conductive object for bridging said pair
+open contacts;
+
+wherein said moveable electrically-conductive object
+comprises a flexible electrically-conductive cantilever
+delivery means supported by being coupled to one end
+of said electronic signaling module and a weight means
+attached to the unsupported end of said cantilever
+delivery means whereby the unsupported end of said
+cantilever delivery means is deflected under the influ-
+ence of gravity to move between said pair open con-
+tacts thereby closing an electrical circuit and activating
+said electronic position signal module.
+
+* * * * *

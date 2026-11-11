@@ -1,0 +1,179 @@
+4,790,036
+
+13
+tween a valve closed position and a valve open
+position;
+
+providing a slide housing means slidingly moveable
+
+between a neutral position adjacent said toilet seat
+and an operative position disposed above a segment
+of said toilet seat, for housing spray means for
+applying a cleaning liquid to said toilet seat when
+said slide housing means is in said operative posi-
+tion and drying means for drying said toilet seat
+after application of said cleaning liquid;
+
+providing first motor means, responsive to a first
+
+power input, for moving said slide housing means
+between said neutral position and said operative
+position;
+
+providing second motor means, responsive to a sec-
+
+ond power input, for rotaitng said toilet seat in said
+circumferential direction;
+
+providing a power supply means, responsive to actua-
+
+tion of said manually actuable lever, for providing
+power to said first motor means and said second
+motor means;
+
+providing control electronics means, operably con-
+
+nected to said first motor means, said second motor
+means and said power supply means, for control-
+ling the distribution of power from said power
+supply means to said first motor means and said
+second motor means;
+
+moving said manually actuable lever from said valve
+
+closed position to said valve open: position
+whereby said water in said flush water cistern
+through said water inlet pipe and said power sup-
+ply means provides power and said control elec-
+tronics means automatically causes said first motor
+means to move said slide housing means from said
+neutral position into said operative position and
+said spray means applies said cleaning liquid to said
+toilet seat, while also causing said second motor
+means to rotate said toilet seat through at least
+360°0 C. while said drying means dries said toilet
+seat after application of said cleaning liquid.
+
+2. The method according to claim 1, wherein said
+spray means includes third valve means for controlling
+the application of said cleaning fluid to said toilet seat,
+said third valve means responsive to the position of said
+slide housing so as to be open when said slide housing is
+in said operative position and to be closed when said
+slide housing is in said neutral position.
+
+3. The method according to claim 1, wherein said
+first motor means comprises a first electric motor and
+said second motor means comprises a second electric
+motor.
+
+4. The method according to claim 3, wherein said
+power supply means comprises a turbine drivingly con-
+nected to an electrical power generator, said turbine
+being supportingly connected to said. water inlet pipe
+
+and driven by water flowing into said flush water cis-
+
+tern through said water inlet pipe.
+
+5. The method according to claim 4, wherein said
+spray means includes third valve means for controlling
+the application of said cleaning liquid to said toilet seat,
+said third valve means operably connected to said con-
+trol electronics means and controlled thereby.
+
+6. The method according to claim 4, further compris-
+ing providing sensor means for detecting whether said
+toilet seat is occupied, said sensor means operably con-
+nected to said control electronics means to prevent
+actuation thereof during seat occupancy.
+
+10
+
+20
+
+45
+
+55
+
+60
+
+65
+
+14
+
+7. The method according to claim 1, wherein said
+drying means comprises at least one first wiper extend-
+ing substantially radially relative to said toilet seat and
+at least one second wiper extending substantially cir-
+cumferentially relative to said toilet seat whereby said
+at least one first wiper wipes said toilet seat when said
+slide housing is in said operable position and said toilet
+seat is rotated by said second motor means and said at
+least one second wiper wipes said toilet seat when said
+slide housing is moved from said operative position to
+said neutral position by said first motor means.
+8. The method according to claim 7, wherein said at
+least one second wiper comprises a single wiper fas-
+tened to a tiltable lever, said tiltable lever pivotally
+connected to said slide housing, said tiltable lever and
+hence said single wiper movable between an upper
+position wherein said sirigle wiper is free of said toilet
+seat and a lower position wherein said single wiper is
+engageable of said toilet seat, a solenoid mounted on
+said slide housing engaging said titable lever to hold
+said tiltable lever in said upper position when said slide
+housing is in said operative position and releasing said
+tiltable lever to allow said single wiper to engage said
+toilet seat when said slide housing moves from said
+operative position to said neutral position.
+9. The method according to claim 1, wherein said
+drying means comprises means for directing a stream of
+dry air onto said toilet seat.
+10. A toilet with an automatically cleanable toilet seat
+comprising:
+a toilet bow!;
+a flush water cistern;
+a substantially ring-shaped toilet seat, said toilet seat
+being rotatable in a circumferential direction;
+
+mounting means for mounting said toilet seat on said
+toilet bowl for relative rotation therebetwen in said
+circumferential direction;
+
+a water inlet pipe, connected to said flush water cis-
+tern, for supplying water to said flush water cis-
+tern;
+
+first valve means, connected to said water inlet pipe,
+for controlling the flow of water through said
+water inlet pipe to maintain a predetermined water
+level in said flush water cistern;
+
+lever-actuated second valve means for fluidically
+connecting said toilet bowl and said flush water
+cistern and for controlling the flow of water from
+said flush water cistern to said toilet bowl, said
+lever-actuated second valve means including a
+manually actuable lever movable between a valve
+closed position and a valve open position;
+
+a slide housing means slidingly movable between a
+neutral position adjacent said toilet seat and an
+operative position disposed above a segment of said
+toilet seat, for housing spray means for applying a
+cleaning liquid to-said toilet seat when said slide
+housing means is in said operative position and
+drying means for drying said toilet seat after appli-
+cation of said cleaning liquid;
+
+first motor means, responsive to a power input, for
+moving said slide housing means between said neu- _
+tral position and said operative position;
+
+second motor means, responsive to a power input, for
+rotating said toilet seat in said circumferential di-
+rection, relative to. said toilet bowl;
+
+power supply means, responsive to actuation of said
+manually actuable lever, for providing power to

@@ -1,0 +1,175 @@
+3,732,580.
+
+3
+
+The electronic oscillator circuit 16 for controlling,
+ie., selectively opening and closing respectively the
+electrovalves E1, E2 and E3, can be provided in many
+ways different from one another. An embodiment for
+said circuit is shown in FIG. 5, wherein in a rectangle
+defined by broken lines and designated by reference
+numeral 20, a circuit has been shown for a bistable
+multivibrator of a per se well-known design, and in a
+broken line rectangle 21 the circuit is shown for a vari-
+able period oscillator also of a per se well known de-
+sign. In this electronic oscillator circuit reference char-
+acters C are capacitors, R are resistors, D are diodes
+and Q are transistors. Still in the circuit of FIG. 5, the
+coil 22 of a multiple changeover contact relay operates
+on the movable contacts of said relay supplying or cut-
+ting off current to the electrical portion of the electro-
+valves El, E2 and E3, respectively.
+
+The electronic circuit 17 for heating and controlling
+the temperature of the water in the reservoir can also
+be provided in several. ways and an embodiment is
+shown in FIG. 6, where a broken line rectangle 23 en-
+closes a per se known current rectifier and a broken
+line rectangle 24 encloses an amplifier also per se
+known. Still in the circuit of FIG. 6, R3 and R6 are the
+thermistor and the heating resistance, respectively, en-
+closed in the reservoir 9 and shown in FIG. 4. T1 is a
+bi-directional semiconductor (triac), while reference
+characters Z are Zener diodes and TR is a transformer.
+
+In order to explain the operation of the hair washing
+
+device, it is assumed that after placing the helmet 1 on
+"a person’s head, the starting key is depressed, thereby
+starting the timer 15. From the water supply the water
+flows through the electrovalve E4 controlled by the
+timer to the reservoir 9, where the level is controlled by
+the level indicator 14.
+
+The level indicator indicates the level as attained by
+the water in the reservoir and gates the electronic cir-
+cuit for heating and controlling the water temperature
+and also operates on the timer 15 which blocks the
+electrovalve E4 shutting off the water inlet to the reser-
+voir.
+
+An electric current is now supplied to the heating re-
+sistance R6, the current being in a varying amount de-
+pending on the change in temperature of the water in
+the reservOir, and this resistance heats the water until
+thermistor R3 gates the control thereof.
+
+The amount of current enabled to flow to resistor R6
+(the values of which, for example, may be 50 ohms and
+1 KW) through the semiconductor T1, will depend on
+the resistance value of thermistor R3 changing its value
+as the water temperature changes, and on a second re-
+sistor R2 which is manually adjustable by the knob on
+console 18. The adjustment of the resistor R2 allows
+the adjustment and hence the selection, as desired, of
+the temperature desired for the water in the reservoir.
+
+The amplifier 24 (FIG. 6) is for increasing the sensi-
+tivity of thermistor R3 and resistor R2 and causing a
+ready operation of the semiconductor Ti (which ena-
+bles the passage of a larger or lesser amount of electric
+power for resistor R6) to compensate for sudden
+changes in temperature of the water in the reservoir.
+
+The electric power required for the operation of the
+amplifier 24 is supplied from the DC feeder 23.
+
+The water temperature at the inlet to reservoir 9 can
+be at different values, such as water supply tempera-
+ture, or a temperature slightly lower than the operating
+temperature, as obtained for example by using a known
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+55
+
+60
+
+65
+
+4
+
+water heater. Therefore, the water in the reservoir has
+to be brought to the operating temperature: the time
+being required to do this will depend on the tempera-
+ture differential between the operating temperature,
+that is the temperature of the water to be delivered to
+the showers 5, and the temperature of the water in the
+reservoir.
+
+Upon signal reception from the electronic heating
+circuit 17 indicating that the water has attained the pre-
+determined value, the timer 15 will impose a voltage on
+the pump P3 which is connected to the container 12 for
+a hair washing solution, so that said pump P3 supplies
+a predetermined metered amount of solution to said
+reservoir 9.
+
+Following this operation, the timer will impose a volt-
+age on the delivery pump Pi and electronic oscillator
+circuit 16, shown in detail in FIG. 5. The electronic cir-
+cuit 16 provides for alternately timing the opening and
+closing of the electrovalves E1, E2 and E3. It should be
+noted that the bistable multivibrator 20 (FIG. 5) is
+switched by the variable period oscillator 21 which, in
+turn, is manually adjustable by means of the potentiom-
+eter R8. The two transistors Q2 and Q3 are alternately
+conductive, interchanging the signal outlet between the
+points connected to the respective collector. Upon
+withdrawal of current on one of these points, control is
+imparted to the multiple changeover contact relay
+comprising the coil 22 and movable contact 23, and to
+which the electrovalves E1, E2 and E3 terminate.
+
+The electrovalves El, E2 and E3, which as apparent
+can be controlled all together or alternatively, enable |
+the water as pressurized by the delivery pump P1 to
+reach the showers 5 on the helmet 1 through tubings 6,
+7 and 8.
+
+On exiting from the showers 5, the water along with
+the the above mentioned washing solution will impinge
+on a person’s hair, washing it and performing because
+of the jet pressure and anternancy a useful massage of
+the scalp and causing the hair to continuously move in
+either direction. The water is collected in the trough 3
+and through the conduit 4 it passes to the filter 11
+(FIG. 3) and to the reservoir 9 therefrom. The washing
+step can be repeated for several times, always under the
+control of the timer 15 and the water heating control
+circuit 17. ;
+
+Upon completion of the washing step, the timer will
+cut off voltage to the delivery pump P1, controlling cir-
+cuit 16 of the electrovalves E1, E2 and E3 and will im-
+pose a voltage on the drain pump P2. The level indica-
+tor 14 in the reservoir 9 will indicate the full outlet of
+water from said reservoir and cut off the heating circuit
+17, whereby the resistor R6 is no longer fed.
+
+Upon completion of water drain, the timer will cut
+off voltage to the drain pump and gate the electrovalve
+E4 to fill up again the reservoir with water. When the
+water reaches the predetermined level in the reservoir,
+the level indicator 14 will gate the heating and control
+circuit 17 for the water temperature enabling said cir-
+cuit to supply current to the resistor R6 in a varying
+amount depending on the water temperature. The
+timer will block the electrovalve E4 when the reservoir
+has been filled with water.
+
+Thus the temperature of the water in the reservoir at-
+tains the predetermined value. The electronic circuit
+17 for temperature control supplies a signal to the
+timer to proceed to the following step by a known sig-
+nalling device capable of detecting the attained tem-

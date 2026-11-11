@@ -1,0 +1,83 @@
+United States Patent 1:5)
+Vogeli et al.
+
+4,790,036
+Dec. 13, 1988
+
+[11] Patent Number:
+[45] Date of Patent:
+
+[54] METHOD AND DEVICE FOR THE
+AUTOMATIC CLEANING OF A TOILET
+SEAT
+
+[75] Inventors: Ernst Vogeli, Zurich; Jean-Jacques
+Asper, Croix-de-Rozon; Erwin
+Zurcher, Le Lignon, all of
+Switzerland; Erika Schnyder, Im
+Grubi, FL-9497, Triesenberg,
+
+Liechtenstein
+[73] Assignee: Erika Schnyder, Triesenberg,
+Liechtenstein
+[21] Appl. No.: 923,445
+[22] Filed: Oct. 7, 1986
+[30] Foreign Application Priority Data
+Oct. 14, 1985 [CH] Switzerland ........ esse 04427/85
+Oct. 14, 1985 [CH] Switzerland oe 04446/85
+(S51) Tint, C14 ee cecsesteeteesecsseseneeenee A47K 13/00
+[52] U.S. Ch. oe eesesesensecessstensecnsseseecnses 4/233; 4/237
+[58] Field of Search 4/233, 234, 237
+[56] References Cited
+U.S. PATENT DOCUMENTS
+996,906 7/1911 Blanchard .......ssssseeeseseeeers 4/214
+2,603,797 7/1952 Baither ...........sccssesscsessssesesees 4/214
+3,599,246 8/1971 Bramati oo... ecsssssssseenereseee 4/233
+3,837,018 9/1974 Haberle ....... ae 4/233 -
+4,520,516 6/1985 Parsons ....... vee 4/623
+4,536,899 8/1985 Schnyder 00... ccssesecssseseeeees 4/237
+FOREIGN PATENT DOCUMENTS
+52034 2/1912. Austria 0... ccsesecesceresesneceees 4/233
+510241 10/1930 Fed. Rep. of Germany .......... 4/233
+2809622 9/1979 Fed. Rep. of Germany .......... 4/234
+
+83870 7/1935 Sweden ou... ccsssssssesensesseeeeee
+597446 4/1978 Switzerland ......... .
+23676 of 1911 United Kingdom
+
+Primary Examiner—Henry J. Recla
+
+Assistant Examiner—Linda J. Sholl
+
+Attorney, Agent, or Firm—Armstrong, Nikaido,
+Marmelstein & Kubovcik
+
+[57] ABSTRACT
+
+A toilet seat (27) is provided with a slide housing (26)
+comprising nozzles for spraying and/or applying water
+and/or disinfecting liquid. It comprises at least one
+wiper for drying the surface of the seat (27). The slide
+housing (26) is placed over a segment of the seat (27),
+which then, while being sprayed by the nozzles, is
+driven in the circumferential direction by at least one
+electric motor. The entire operation is started up manu-
+ally by actuating the lever (2) of the flushing water
+cistern (1), and subsequently is controlled by the control
+electronics (27) until the cleaning of the seat (27) has
+been completed. The energy is obtained by a turbine
+(11), which is mechanically connected toa low-voltage
+direct-current generator (13), and is driven by the water
+filling the flushing water cistern (11). The actual flush-
+ing water, therefore, flows at the normal kinetic energy
+into the toilet; the hydraulic resistance of the turbine
+(11) is not switched on while the flushing water flows
+into the toilet bowl. The device is extremely reliable,
+does not carry any dangerous electric voltages, and in
+addition contains safety measures which prevent possi-
+ble injuries, in particular of children. It is suitable for
+use with new installations, as well as for adaptation to
+already existing toilets.
+
+21 Claims, 6 Drawing Sheets
+

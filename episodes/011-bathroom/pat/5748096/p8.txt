@@ -1,0 +1,85 @@
+5,748,096
+
+7
+the casing is configured to be attached to the bowi; and
+
+the sensor comprises a switch which protrudes from the
+casing and is actuated by engagement with the seat to
+de-activate the illumination unit and the annunciator
+unit when the seat is in the seating position; and is not
+actuated by engagement with the seat to activate the
+illumination unit and the annunciator unit when the seat
+is in the retracted position.
+
+8. A device as in claim 6, in which:
+
+the casing is configured to be attached to the seat; and
+
+the sensor comprises a switch which protrudes from the
+casing and is actuated by engagement with the bowl to
+de-activate the illumination unit and the annunciator
+unit when the seat is in the seating position; and is not
+actuated by engagement with the bowl to activate the
+iHumination unit and the annunciator unit when the seat
+is in the retracted position.
+9. A device as in claim 6, in which the casing is liquid
+resistantly sealed.
+10. A device as in claim 1, in which the audio module has
+a capacity for recording an audio sequence having a prede-
+termined maximum time length.
+11. A device as in claim 10, in which said predetermined
+maximum time length is at least 20 seconds.
+12. A device as in claim 10, in which the audio module is
+configured to play back said recorded audio sequence once.
+13. A device as in claim 10, in which the audio module is
+configured to play back said recorded audio sequence
+repeatedly.
+14. A device as in claim 1, further comprising at least one
+battery for powering the illumination unit and the annun-
+ciator unit.
+
+5
+
+8
+
+15. A device as in claim 14, in which said at least one
+battery comprises:
+
+a first battery for powering the illumination unit; and
+
+a second battery for powering the annunciator unit.
+
+16. An illuminating and annunciating device for a toilet
+having a bowl. and a seat which is movable between a lower
+seating position and an upper retracted position, the device
+
+comprising:
+0)
+
+20
+
+25
+
+an illumination unit for illuminating the bowl;
+
+an annunciator unit for generating an audible indication
+which reminds a user to move the seat from the
+retracted position to the seating position after use; and
+
+a sensor for activating the illumination unit and the
+annunciator unit when the seat is in the retracted
+position; and de-activating the illumination unit and the
+annunciator unit when the seat is in the seating posi-
+tion;
+
+in which the annunciator unit comprises an audio module
+for playing back said audible indication as a recorded
+audio sequence;
+
+the audio module is configured to selectively record an
+audio sequence; and
+
+the annunciator unit further comprises a microphone and
+a speaker which are operatively connected to the audio
+module for respectively recording and playing back an
+audio sequence.

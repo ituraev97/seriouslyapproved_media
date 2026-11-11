@@ -1,0 +1,6727 @@
+{
+ "T": 683.54,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 8.808,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.566
+    ],
+    [
+     2.066,
+     3.837
+    ],
+    [
+     4.337,
+     5.574
+    ],
+    [
+     6.074,
+     8.357
+    ]
+   ],
+   "g": "fig",
+   "fig": "aquarium1",
+   "figno": "1",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999",
+   "calls": [
+    [
+     "THE FISH TANK",
+     562,
+     538,
+     120,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 8.808,
+   "t1": 15.879,
+   "i": 1,
+   "segs": [
+    [
+     8.808,
+     15.528
+    ]
+   ],
+   "g": "quote",
+   "q": "an apparatus primarily developed for the purpose of housing aquatic creatures",
+   "hit": "housing aquatic creatures",
+   "src": "US 5,983,411 \u00b7 description",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 15.879,
+   "t1": 19.381,
+   "i": 2,
+   "segs": [
+    [
+     15.879,
+     16.988
+    ],
+    [
+     17.408,
+     18.88
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOILET TANK|AQUARIUM",
+   "filed": "AUG. 6, 1998",
+   "date": "NOV. 16, 1999",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 19.381,
+   "t1": 37.532,
+   "i": 3,
+   "segs": [
+    [
+     19.381,
+     23.328
+    ],
+    [
+     23.608,
+     28.792
+    ],
+    [
+     29.072,
+     31.866
+    ],
+    [
+     32.146,
+     37.181
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE SHELF \u00b7 FILE 011",
+   "title": "Weird Bathroom|Inventions",
+   "lines": [
+    "Real patents. Ranked.",
+    "All approved."
+   ],
+   "stamp": true,
+   "at": 8.0,
+   "hook": "10 WEIRD|[BATHROOM] PATENTS",
+   "side": "FILE 011 \u00b7 THE SHELF"
+  },
+  {
+   "t0": 37.532,
+   "t1": 40.958,
+   "i": 4,
+   "segs": [
+    [
+     37.532,
+     38.407
+    ],
+    [
+     38.687,
+     40.607
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 10 OF 10",
+   "numeral": "10",
+   "title": "Bathtub|Book Rack",
+   "lines": [
+    "US 2,302,806",
+    "Filed 1941 \u00b7 Issued 1942"
+   ],
+   "num": "US 2,302,806",
+   "hook": "A READING DESK|FOR YOUR [BATH]",
+   "side": "US 2,302,806 \u00b7 1942"
+  },
+  {
+   "t0": 40.958,
+   "t1": 47.37,
+   "i": 5,
+   "segs": [
+    [
+     40.958,
+     44.606
+    ],
+    [
+     44.886,
+     47.019
+    ]
+   ],
+   "g": "fig",
+   "fig": "rack1",
+   "figno": "1",
+   "num": "US 2,302,806",
+   "hook": "A READING DESK|FOR YOUR [BATH]",
+   "side": "US 2,302,806 \u00b7 1942",
+   "calls": [
+    [
+     "SUCTION CUPS",
+     85,
+     360,
+     60,
+     90
+    ],
+    [
+     "THE TOWEL",
+     400,
+     393,
+     120,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 47.37,
+   "t1": 54.124,
+   "i": 6,
+   "segs": [
+    [
+     47.37,
+     48.799
+    ],
+    [
+     49.079,
+     53.773
+    ]
+   ],
+   "g": "quote",
+   "q": "in convenient position to permit reading thereof while bathing.",
+   "hit": "reading thereof while bathing",
+   "src": "US 2,302,806 \u00b7 description",
+   "num": "US 2,302,806",
+   "hook": "A READING DESK|FOR YOUR [BATH]",
+   "side": "US 2,302,806 \u00b7 1942"
+  },
+  {
+   "t0": 54.124,
+   "t1": 60.192,
+   "i": 7,
+   "segs": [
+    [
+     54.124,
+     59.841
+    ]
+   ],
+   "g": "fig",
+   "fig": "rack2",
+   "figno": "4",
+   "num": "US 2,302,806",
+   "hook": "A READING DESK|FOR YOUR [BATH]",
+   "side": "US 2,302,806 \u00b7 1942",
+   "calls": [
+    [
+     "THE PIVOT",
+     77,
+     205,
+     80,
+     70
+    ],
+    [
+     "SUCTION CUP",
+     20,
+     200,
+     40,
+     -110
+    ]
+   ]
+  },
+  {
+   "t0": 60.192,
+   "t1": 67.799,
+   "i": 8,
+   "segs": [
+    [
+     60.192,
+     62.667
+    ],
+    [
+     62.947,
+     67.448
+    ]
+   ],
+   "g": "fig",
+   "fig": "rack1",
+   "figno": "1",
+   "num": "US 2,302,806",
+   "hook": "A READING DESK|FOR YOUR [BATH]",
+   "side": "US 2,302,806 \u00b7 1942",
+   "draw": false,
+   "calls": [
+    [
+     "THE BOOK FRAME",
+     550,
+     280,
+     -190,
+     90
+    ],
+    [
+     "PAGE HOLDER",
+     450,
+     216,
+     -60,
+     -110
+    ]
+   ]
+  },
+  {
+   "t0": 67.799,
+   "t1": 72.182,
+   "i": 9,
+   "segs": [
+    [
+     67.799,
+     71.831
+    ]
+   ],
+   "g": "quote",
+   "q": "so that he or she can read said book while taking an ablution.",
+   "hit": "taking an ablution",
+   "src": "US 2,302,806 \u00b7 description",
+   "num": "US 2,302,806",
+   "hook": "A READING DESK|FOR YOUR [BATH]",
+   "side": "US 2,302,806 \u00b7 1942"
+  },
+  {
+   "t0": 72.182,
+   "t1": 79.744,
+   "i": 10,
+   "segs": [
+    [
+     72.182,
+     79.393
+    ]
+   ],
+   "g": "quote",
+   "q": "placed in a cupboard or other convenient place until it is again desired to use the same.",
+   "hit": "again desired",
+   "src": "US 2,302,806 \u00b7 description",
+   "num": "US 2,302,806",
+   "hook": "A READING DESK|FOR YOUR [BATH]",
+   "side": "US 2,302,806 \u00b7 1942"
+  },
+  {
+   "t0": 79.744,
+   "t1": 85.824,
+   "i": 11,
+   "segs": [
+    [
+     79.744,
+     80.725
+    ],
+    [
+     81.225,
+     82.292
+    ],
+    [
+     82.792,
+     85.373
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOWEL RACK AND|BOOK HOLDER",
+   "filed": "DEC. 16, 1941",
+   "date": "NOV. 24, 1942",
+   "num": "US 2,302,806",
+   "hook": "A READING DESK|FOR YOUR [BATH]",
+   "side": "US 2,302,806 \u00b7 1942",
+   "at": 1.6
+  },
+  {
+   "t0": 85.824,
+   "t1": 89.271,
+   "i": 12,
+   "segs": [
+    [
+     85.824,
+     86.656
+    ],
+    [
+     86.936,
+     88.92
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 9 OF 10",
+   "numeral": "9",
+   "title": "Musical|Toothbrush Holder",
+   "lines": [
+    "US 2,528,006",
+    "Filed 1949 \u00b7 Issued 1950"
+   ],
+   "num": "US 2,528,006",
+   "hook": "THE MUSICAL|[TOOTHBRUSH] HOLDER",
+   "side": "US 2,528,006 \u00b7 1950"
+  },
+  {
+   "t0": 89.271,
+   "t1": 94.382,
+   "i": 13,
+   "segs": [
+    [
+     89.271,
+     91.426
+    ],
+    [
+     91.706,
+     94.031
+    ]
+   ],
+   "g": "fig",
+   "fig": "tooth1",
+   "figno": "1",
+   "num": "US 2,528,006",
+   "hook": "THE MUSICAL|[TOOTHBRUSH] HOLDER",
+   "side": "US 2,528,006 \u00b7 1950",
+   "calls": [
+    [
+     "THE MUSIC BOX",
+     220,
+     365,
+     140,
+     80
+    ],
+    [
+     "THE TOOTHBRUSH",
+     115,
+     60,
+     120,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 94.382,
+   "t1": 99.706,
+   "i": 14,
+   "segs": [
+    [
+     94.382,
+     95.449
+    ],
+    [
+     95.729,
+     99.355
+    ]
+   ],
+   "g": "quote",
+   "q": "known to the trade as a Swiss movement, or music box unit",
+   "hit": "Swiss movement",
+   "src": "US 2,528,006 \u00b7 description",
+   "num": "US 2,528,006",
+   "hook": "THE MUSICAL|[TOOTHBRUSH] HOLDER",
+   "side": "US 2,528,006 \u00b7 1950"
+  },
+  {
+   "t0": 99.706,
+   "t1": 108.615,
+   "i": 15,
+   "segs": [
+    [
+     99.706,
+     102.629
+    ],
+    [
+     102.909,
+     108.264
+    ]
+   ],
+   "g": "fig",
+   "fig": "tooth2",
+   "figno": "2",
+   "num": "US 2,528,006",
+   "hook": "THE MUSICAL|[TOOTHBRUSH] HOLDER",
+   "side": "US 2,528,006 \u00b7 1950",
+   "calls": [
+    [
+     "THE SPRING",
+     165,
+     320,
+     120,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 108.615,
+   "t1": 114.384,
+   "i": 16,
+   "segs": [
+    [
+     108.615,
+     114.033
+    ]
+   ],
+   "g": "quote",
+   "q": "the music producing unit will operate to produce a musical tune.",
+   "hit": "a musical tune",
+   "src": "US 2,528,006 \u00b7 description",
+   "num": "US 2,528,006",
+   "hook": "THE MUSICAL|[TOOTHBRUSH] HOLDER",
+   "side": "US 2,528,006 \u00b7 1950"
+  },
+  {
+   "t0": 114.384,
+   "t1": 121.629,
+   "i": 17,
+   "segs": [
+    [
+     114.384,
+     116.496
+    ],
+    [
+     116.776,
+     121.278
+    ]
+   ],
+   "g": "quote",
+   "q": "The operation will stop when both tooth brushes are nested in both pockets.",
+   "hit": "both tooth brushes",
+   "src": "US 2,528,006 \u00b7 description",
+   "num": "US 2,528,006",
+   "hook": "THE MUSICAL|[TOOTHBRUSH] HOLDER",
+   "side": "US 2,528,006 \u00b7 1950"
+  },
+  {
+   "t0": 121.629,
+   "t1": 125.396,
+   "i": 18,
+   "segs": [
+    [
+     121.629,
+     123.421
+    ],
+    [
+     123.701,
+     125.045
+    ]
+   ],
+   "g": "fig",
+   "fig": "tooth1",
+   "figno": "1",
+   "num": "US 2,528,006",
+   "hook": "THE MUSICAL|[TOOTHBRUSH] HOLDER",
+   "side": "US 2,528,006 \u00b7 1950",
+   "draw": false,
+   "calls": [
+    [
+     "THE TASSEL",
+     200,
+     600,
+     130,
+     -30
+    ]
+   ]
+  },
+  {
+   "t0": 125.396,
+   "t1": 130.741,
+   "i": 19,
+   "segs": [
+    [
+     125.396,
+     127.444
+    ],
+    [
+     127.944,
+     130.29
+    ]
+   ],
+   "g": "stamp",
+   "title": "MUSICAL|TOOTHBRUSH HOLDER",
+   "filed": "DEC. 8, 1949",
+   "date": "OCT. 31, 1950",
+   "num": "US 2,528,006",
+   "hook": "THE MUSICAL|[TOOTHBRUSH] HOLDER",
+   "side": "US 2,528,006 \u00b7 1950",
+   "at": 1.8
+  },
+  {
+   "t0": 130.741,
+   "t1": 134.679,
+   "i": 20,
+   "segs": [
+    [
+     130.741,
+     131.616
+    ],
+    [
+     131.896,
+     134.328
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 8 OF 10",
+   "numeral": "8",
+   "title": "Table for|Toilet",
+   "lines": [
+    "US 4,825,779",
+    "Filed 1987 \u00b7 Issued 1989"
+   ],
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989"
+  },
+  {
+   "t0": 134.679,
+   "t1": 141.902,
+   "i": 21,
+   "segs": [
+    [
+     134.679,
+     136.471
+    ],
+    [
+     136.751,
+     141.551
+    ]
+   ],
+   "g": "quote",
+   "q": "The toilet seat can more rightly be called \"the throne\" if certain conditions are met",
+   "hit": "the throne",
+   "src": "US 4,825,779 \u00b7 description",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989"
+  },
+  {
+   "t0": 141.902,
+   "t1": 148.762,
+   "i": 22,
+   "segs": [
+    [
+     141.902,
+     143.225
+    ],
+    [
+     143.505,
+     148.411
+    ]
+   ],
+   "g": "quote",
+   "q": "A supply of reading material from which a selection can be made is usually welcome",
+   "hit": "usually welcome",
+   "src": "US 4,825,779 \u00b7 description",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989"
+  },
+  {
+   "t0": 148.762,
+   "t1": 156.692,
+   "i": 23,
+   "segs": [
+    [
+     148.762,
+     150.17
+    ],
+    [
+     150.45,
+     152.05
+    ],
+    [
+     152.33,
+     156.341
+    ]
+   ],
+   "g": "fig",
+   "fig": "table1",
+   "figno": "1",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989",
+   "calls": [
+    [
+     "READING MATERIAL",
+     330,
+     150,
+     140,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 156.692,
+   "t1": 165.003,
+   "i": 24,
+   "segs": [
+    [
+     156.692,
+     160.575
+    ],
+    [
+     160.855,
+     164.652
+    ]
+   ],
+   "g": "fig",
+   "fig": "table1",
+   "figno": "1",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989",
+   "draw": false,
+   "calls": [
+    [
+     "THE LEDGE",
+     470,
+     208,
+     120,
+     40
+    ],
+    [
+     "TOILET PAPER",
+     420,
+     415,
+     130,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 165.003,
+   "t1": 172.29,
+   "i": 25,
+   "segs": [
+    [
+     165.003,
+     166.987
+    ],
+    [
+     167.267,
+     171.939
+    ]
+   ],
+   "g": "quote",
+   "q": "The platform structure holds books B up the legs, high and dry above the floor.",
+   "hit": "high and dry",
+   "src": "US 4,825,779 \u00b7 description",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989"
+  },
+  {
+   "t0": 172.29,
+   "t1": 177.358,
+   "i": 26,
+   "segs": [
+    [
+     172.29,
+     173.954
+    ],
+    [
+     174.234,
+     177.007
+    ]
+   ],
+   "g": "quote",
+   "q": "Some may prefer to prepare notes such as shopping lists",
+   "hit": "shopping lists",
+   "src": "US 4,825,779 \u00b7 description",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989"
+  },
+  {
+   "t0": 177.358,
+   "t1": 183.512,
+   "i": 27,
+   "segs": [
+    [
+     177.358,
+     183.161
+    ]
+   ],
+   "g": "quote",
+   "q": "handsome in appearance and large enough to be seen and not tripped over.",
+   "hit": "handsome in appearance",
+   "src": "US 4,825,779 \u00b7 description",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989"
+  },
+  {
+   "t0": 183.512,
+   "t1": 188.026,
+   "i": 28,
+   "segs": [
+    [
+     183.512,
+     184.856
+    ],
+    [
+     185.356,
+     187.575
+    ]
+   ],
+   "g": "stamp",
+   "title": "TABLE FOR|TOILET",
+   "filed": "NOV. 16, 1987",
+   "date": "MAY 2, 1989",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989",
+   "at": 1.6
+  },
+  {
+   "t0": 188.026,
+   "t1": 191.259,
+   "i": 29,
+   "segs": [
+    [
+     188.026,
+     188.943
+    ],
+    [
+     189.223,
+     190.908
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 7 OF 10",
+   "numeral": "7",
+   "title": "Portable|Bath-Tub",
+   "lines": [
+    "US 428,252",
+    "Filed 1890 \u00b7 Issued 1890"
+   ],
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890"
+  },
+  {
+   "t0": 191.259,
+   "t1": 200.018,
+   "i": 30,
+   "segs": [
+    [
+     191.259,
+     194.118
+    ],
+    [
+     194.398,
+     199.667
+    ]
+   ],
+   "g": "quote",
+   "q": "three feet long, two feet wide, and about ten inches in height",
+   "hit": "about ten inches",
+   "src": "US 428,252 \u00b7 description",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890"
+  },
+  {
+   "t0": 200.018,
+   "t1": 206.604,
+   "i": 31,
+   "segs": [
+    [
+     200.018,
+     201.618
+    ],
+    [
+     201.898,
+     203.264
+    ],
+    [
+     203.544,
+     206.253
+    ]
+   ],
+   "g": "fig",
+   "fig": "porta1",
+   "figno": "1",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890",
+   "calls": [
+    [
+     "THE SEAT",
+     500,
+     505,
+     120,
+     -70
+    ],
+    [
+     "THE PEDAL",
+     308,
+     725,
+     130,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 206.604,
+   "t1": 212.118,
+   "i": 32,
+   "segs": [
+    [
+     206.604,
+     211.767
+    ]
+   ],
+   "g": "quote",
+   "q": "oscillated by the feet of the occupant seated on seat N.",
+   "hit": "by the feet of the occupant",
+   "src": "US 428,252 \u00b7 description",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890"
+  },
+  {
+   "t0": 212.118,
+   "t1": 219.874,
+   "i": 33,
+   "segs": [
+    [
+     212.118,
+     215.083
+    ],
+    [
+     215.363,
+     219.523
+    ]
+   ],
+   "g": "fig",
+   "fig": "porta1",
+   "figno": "1",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890",
+   "draw": false,
+   "calls": [
+    [
+     "THE HOSE",
+     350,
+     450,
+     140,
+     -40
+    ],
+    [
+     "THE NOZZLE",
+     402,
+     320,
+     130,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 219.874,
+   "t1": 224.001,
+   "i": 34,
+   "segs": [
+    [
+     219.874,
+     223.65
+    ]
+   ],
+   "g": "quote",
+   "q": "By this means only a small amount of water will be necessary",
+   "hit": "a small amount of water",
+   "src": "US 428,252 \u00b7 description",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890"
+  },
+  {
+   "t0": 224.001,
+   "t1": 228.363,
+   "i": 35,
+   "segs": [
+    [
+     224.001,
+     228.012
+    ]
+   ],
+   "g": "fig",
+   "fig": "porta2",
+   "figno": "2",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890",
+   "calls": [
+    [
+     "THE COVER",
+     325,
+     150,
+     70,
+     -90
+    ]
+   ]
+  },
+  {
+   "t0": 228.363,
+   "t1": 236.543,
+   "i": 36,
+   "segs": [
+    [
+     228.363,
+     236.192
+    ]
+   ],
+   "g": "quote",
+   "q": "the usual splashing is not only prevented from escaping from the tub, but the occupant is wholly secluded from observation",
+   "hit": "wholly secluded",
+   "src": "US 428,252 \u00b7 description",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890"
+  },
+  {
+   "t0": 236.543,
+   "t1": 244.339,
+   "i": 37,
+   "segs": [
+    [
+     236.543,
+     243.988
+    ]
+   ],
+   "g": "fig",
+   "fig": "porta3",
+   "figno": "3",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890",
+   "calls": [
+    [
+     "THE LID",
+     150,
+     108,
+     90,
+     -80
+    ],
+    [
+     "CASTER",
+     150,
+     270,
+     110,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 244.339,
+   "t1": 250.057,
+   "i": 38,
+   "segs": [
+    [
+     244.339,
+     245.577
+    ],
+    [
+     246.077,
+     247.271
+    ],
+    [
+     247.771,
+     249.606
+    ]
+   ],
+   "g": "stamp",
+   "title": "PORTABLE|BATH-TUB",
+   "filed": "JAN. 13, 1890",
+   "date": "MAY 20, 1890",
+   "num": "US 428,252",
+   "hook": "THE PEDAL|[SHOWER] TENT",
+   "side": "US 428,252 \u00b7 1890",
+   "at": 1.6
+  },
+  {
+   "t0": 250.057,
+   "t1": 252.757,
+   "i": 39,
+   "segs": [
+    [
+     250.057,
+     250.953
+    ],
+    [
+     251.233,
+     252.406
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 6 OF 10",
+   "numeral": "6",
+   "title": "After Shower|Body Drier",
+   "lines": [
+    "US 3,128,161",
+    "Filed 1962 \u00b7 Issued 1964"
+   ],
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964"
+  },
+  {
+   "t0": 252.757,
+   "t1": 263.583,
+   "i": 40,
+   "segs": [
+    [
+     252.757,
+     263.232
+    ]
+   ],
+   "g": "quote",
+   "q": "has the major drawback that it is intended only to be used for drying the user's hands or face.",
+   "hit": "hands or face",
+   "src": "US 3,128,161 \u00b7 description",
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964"
+  },
+  {
+   "t0": 263.583,
+   "t1": 272.454,
+   "i": 41,
+   "segs": [
+    [
+     263.583,
+     264.927
+    ],
+    [
+     265.207,
+     265.932
+    ],
+    [
+     266.212,
+     267.428
+    ],
+    [
+     267.708,
+     272.103
+    ]
+   ],
+   "g": "fig",
+   "fig": "drier1",
+   "figno": "1",
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964",
+   "calls": [
+    [
+     "HOT AIR",
+     205,
+     235,
+     -150,
+     70
+    ],
+    [
+     "HOT AIR",
+     420,
+     235,
+     140,
+     70
+    ],
+    [
+     "THE TOP HEAD",
+     313,
+     123,
+     130,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 272.454,
+   "t1": 277.352,
+   "i": 42,
+   "segs": [
+    [
+     272.454,
+     275.441
+    ],
+    [
+     275.721,
+     277.001
+    ]
+   ],
+   "g": "fig",
+   "fig": "drier1",
+   "figno": "1",
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964",
+   "draw": false,
+   "calls": [
+    [
+     "BLOWER + HEATER",
+     800,
+     600,
+     -250,
+     -100
+    ],
+    [
+     "THE BUTTON",
+     437,
+     285,
+     130,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 277.352,
+   "t1": 283.868,
+   "i": 43,
+   "segs": [
+    [
+     277.352,
+     283.517
+    ]
+   ],
+   "g": "quote",
+   "q": "The person will then merely press button switch 18 to start up blower 15 and air heater 16.",
+   "hit": "merely press",
+   "src": "US 3,128,161 \u00b7 description",
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964"
+  },
+  {
+   "t0": 283.868,
+   "t1": 294.419,
+   "i": 44,
+   "segs": [
+    [
+     283.868,
+     287.26
+    ],
+    [
+     287.54,
+     294.068
+    ]
+   ],
+   "g": "quote",
+   "q": "Obviously, any combination of diffusers may be used at will depending on the person's choice, etc.",
+   "hit": "the person's choice, etc.",
+   "src": "US 3,128,161 \u00b7 description",
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964"
+  },
+  {
+   "t0": 294.419,
+   "t1": 299.591,
+   "i": 45,
+   "segs": [
+    [
+     294.419,
+     299.24
+    ]
+   ],
+   "g": "fig",
+   "fig": "drier2",
+   "figno": "2",
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964",
+   "calls": [
+    [
+     "THE TOP HEAD",
+     277,
+     193,
+     90,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 299.591,
+   "t1": 310.825,
+   "i": 46,
+   "segs": [
+    [
+     299.591,
+     300.957
+    ],
+    [
+     301.237,
+     310.474
+    ]
+   ],
+   "g": "quote",
+   "q": "A still further object is to provide a drier which eliminates the need for towels for drying purposes in public establishments such as hotels.",
+   "hit": "eliminates the need for towels",
+   "src": "US 3,128,161 \u00b7 description",
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964"
+  },
+  {
+   "t0": 310.825,
+   "t1": 317.801,
+   "i": 47,
+   "segs": [
+    [
+     310.825,
+     312.318
+    ],
+    [
+     312.818,
+     314.269
+    ],
+    [
+     314.769,
+     317.35
+    ]
+   ],
+   "g": "stamp",
+   "title": "AFTER SHOWER|BODY DRIER",
+   "filed": "SEPT. 24, 1962",
+   "date": "APR. 7, 1964",
+   "num": "US 3,128,161",
+   "hook": "GOODBYE,|[TOWELS]",
+   "side": "US 3,128,161 \u00b7 1964",
+   "at": 1.8
+  },
+  {
+   "t0": 317.801,
+   "t1": 320.672,
+   "i": 48,
+   "segs": [
+    [
+     317.801,
+     318.761
+    ],
+    [
+     319.041,
+     320.321
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 5 OF 10",
+   "numeral": "5",
+   "title": "Hair Washing|Machine",
+   "lines": [
+    "US 3,732,580",
+    "Filed 1971 \u00b7 Issued 1973"
+   ],
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973"
+  },
+  {
+   "t0": 320.672,
+   "t1": 324.004,
+   "i": 49,
+   "segs": [
+    [
+     320.672,
+     321.803
+    ],
+    [
+     322.223,
+     323.503
+    ]
+   ],
+   "g": "fig",
+   "fig": "hair1",
+   "figno": "1",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973",
+   "calls": [
+    [
+     "THE HELMET",
+     300,
+     75,
+     130,
+     -50
+    ],
+    [
+     "THE SHOWERS",
+     415,
+     225,
+     140,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 324.004,
+   "t1": 329.176,
+   "i": 50,
+   "segs": [
+    [
+     324.004,
+     328.825
+    ]
+   ],
+   "g": "quote",
+   "q": "having an opening in which the nape of the neck for a person's head can be inserted",
+   "hit": "a person's head",
+   "src": "US 3,732,580 \u00b7 description",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973"
+  },
+  {
+   "t0": 329.176,
+   "t1": 338.981,
+   "i": 51,
+   "segs": [
+    [
+     329.176,
+     331.886
+    ],
+    [
+     332.166,
+     338.63
+    ]
+   ],
+   "g": "quote",
+   "q": "prevents the water being injected into the helmet from exiting therefrom and wetting the face of a person",
+   "hit": "wetting the face",
+   "src": "US 3,732,580 \u00b7 description",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973"
+  },
+  {
+   "t0": 338.981,
+   "t1": 343.449,
+   "i": 52,
+   "segs": [
+    [
+     338.981,
+     343.098
+    ]
+   ],
+   "g": "quote",
+   "q": "the starting key is depressed, thereby starting the timer 15.",
+   "hit": "starting the timer",
+   "src": "US 3,732,580 \u00b7 description",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973"
+  },
+  {
+   "t0": 343.449,
+   "t1": 351.12,
+   "i": 53,
+   "segs": [
+    [
+     343.449,
+     345.646
+    ],
+    [
+     345.926,
+     350.769
+    ]
+   ],
+   "g": "fig",
+   "fig": "hair2",
+   "figno": "2",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973",
+   "calls": [
+    [
+     "THE SHOWERS",
+     170,
+     320,
+     -60,
+     90
+    ],
+    [
+     "WATER IN",
+     270,
+     60,
+     120,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 351.12,
+   "t1": 357.85,
+   "i": 54,
+   "segs": [
+    [
+     351.12,
+     357.499
+    ]
+   ],
+   "g": "quote",
+   "q": "the water jets will cause a continuous movement of the hair and a massage of the scalp.",
+   "hit": "a massage of the scalp",
+   "src": "US 3,732,580 \u00b7 description",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973"
+  },
+  {
+   "t0": 357.85,
+   "t1": 367.91,
+   "i": 55,
+   "segs": [
+    [
+     357.85,
+     362.052
+    ],
+    [
+     362.332,
+     367.559
+    ]
+   ],
+   "g": "quote",
+   "q": "The washing step can be repeated for several times, always under the control of the timer 15",
+   "hit": "repeated for several times",
+   "src": "US 3,732,580 \u00b7 description",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973"
+  },
+  {
+   "t0": 367.91,
+   "t1": 376.52,
+   "i": 56,
+   "segs": [
+    [
+     367.91,
+     369.595
+    ],
+    [
+     369.875,
+     376.169
+    ]
+   ],
+   "g": "quote",
+   "q": "When suitably programmed, the timer shows an excellent behavior in performing different working programs.",
+   "hit": "an excellent behavior",
+   "src": "US 3,732,580 \u00b7 description",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973"
+  },
+  {
+   "t0": 376.52,
+   "t1": 382.515,
+   "i": 57,
+   "segs": [
+    [
+     376.52,
+     377.586
+    ],
+    [
+     378.086,
+     379.068
+    ],
+    [
+     379.568,
+     382.064
+    ]
+   ],
+   "g": "stamp",
+   "title": "HAIR WASHING|MACHINE",
+   "filed": "JUNE 18, 1971",
+   "date": "MAY 15, 1973",
+   "num": "US 3,732,580",
+   "hook": "THE HAIR WASHING|[MACHINE]",
+   "side": "US 3,732,580 \u00b7 1973",
+   "at": 1.6
+  },
+  {
+   "t0": 382.515,
+   "t1": 385.898,
+   "i": 58,
+   "segs": [
+    [
+     382.515,
+     383.432
+    ],
+    [
+     383.712,
+     385.547
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 4 OF 10",
+   "numeral": "4",
+   "title": "Electronic Toilet Lid|Position Signal",
+   "lines": [
+    "US 5,926,099",
+    "Filed 1997 \u00b7 Issued 1999"
+   ],
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999"
+  },
+  {
+   "t0": 385.898,
+   "t1": 393.611,
+   "i": 59,
+   "segs": [
+    [
+     385.898,
+     387.498
+    ],
+    [
+     387.778,
+     393.26
+    ]
+   ],
+   "g": "quote",
+   "q": "Toilet lids are often left in the open position through carelessness or inadvertence.",
+   "hit": "carelessness or inadvertence",
+   "src": "US 5,926,099 \u00b7 description",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999"
+  },
+  {
+   "t0": 393.611,
+   "t1": 401.05,
+   "i": 60,
+   "segs": [
+    [
+     393.611,
+     396.299
+    ],
+    [
+     396.579,
+     398.563
+    ],
+    [
+     398.843,
+     400.699
+    ]
+   ],
+   "g": "fig",
+   "fig": "lid1",
+   "figno": "1C",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999",
+   "calls": [
+    [
+     "THE DEVICE",
+     204,
+     400,
+     -60,
+     -120
+    ],
+    [
+     "THE MUSIC",
+     88,
+     446,
+     40,
+     110
+    ]
+   ]
+  },
+  {
+   "t0": 401.05,
+   "t1": 410.428,
+   "i": 61,
+   "segs": [
+    [
+     401.05,
+     402.544
+    ],
+    [
+     402.824,
+     410.077
+    ]
+   ],
+   "g": "quote",
+   "q": "In the preferred embodiment, a greeting card style electronic music, sound, and blinking light module is used.",
+   "hit": "greeting card style",
+   "src": "US 5,926,099 \u00b7 description",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999"
+  },
+  {
+   "t0": 410.428,
+   "t1": 421.0,
+   "i": 62,
+   "segs": [
+    [
+     410.428,
+     411.9
+    ],
+    [
+     412.18,
+     420.649
+    ]
+   ],
+   "g": "quote",
+   "q": "Prior solutions suggest signal devices that produce unpleasant shrill beeps, buzzes, and flashing lights that discourage their use.",
+   "hit": "unpleasant shrill beeps",
+   "src": "US 5,926,099 \u00b7 description",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999"
+  },
+  {
+   "t0": 421.0,
+   "t1": 431.877,
+   "i": 63,
+   "segs": [
+    [
+     421.0,
+     423.198
+    ],
+    [
+     423.478,
+     424.224
+    ],
+    [
+     424.504,
+     427.96
+    ],
+    [
+     428.24,
+     431.526
+    ]
+   ],
+   "g": "fig",
+   "fig": "lid3",
+   "figno": "3A",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999",
+   "calls": [
+    [
+     "FISHING SINKER",
+     204,
+     223,
+     140,
+     -40
+    ],
+    [
+     "NYLON LINE",
+     277,
+     154,
+     140,
+     -90
+    ],
+    [
+     "CONTACTS",
+     223,
+     296,
+     150,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 431.877,
+   "t1": 440.166,
+   "i": 64,
+   "segs": [
+    [
+     431.877,
+     433.37
+    ],
+    [
+     433.65,
+     439.815
+    ]
+   ],
+   "g": "quote",
+   "q": "a size 3/0 split shot sinker of the common type is utilized as a conductive weight means 60.",
+   "hit": "split shot sinker",
+   "src": "US 5,926,099 \u00b7 description",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999"
+  },
+  {
+   "t0": 440.166,
+   "t1": 448.437,
+   "i": 65,
+   "segs": [
+    [
+     440.166,
+     441.958
+    ],
+    [
+     442.238,
+     445.481
+    ],
+    [
+     445.761,
+     448.086
+    ]
+   ],
+   "g": "quote",
+   "q": "bird-shaped housing with module making bird sounds, a \"fisherman\" model with line and sinker",
+   "hit": "bird sounds",
+   "src": "US 5,926,099 \u00b7 description",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999"
+  },
+  {
+   "t0": 448.437,
+   "t1": 456.035,
+   "i": 66,
+   "segs": [
+    [
+     448.437,
+     455.584
+    ]
+   ],
+   "g": "quote",
+   "q": "conditioning persons who use the toilet to lower the toilet seat or cover after use",
+   "hit": "conditioning persons",
+   "src": "US 5,926,099 \u00b7 description",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999"
+  },
+  {
+   "t0": 456.035,
+   "t1": 462.606,
+   "i": 67,
+   "segs": [
+    [
+     456.035,
+     457.23
+    ],
+    [
+     457.73,
+     459.095
+    ],
+    [
+     459.595,
+     462.155
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOILET LID|POSITION SIGNAL",
+   "filed": "DEC. 8, 1997",
+   "date": "JULY 20, 1999",
+   "num": "US 5,926,099",
+   "hook": "THE TOILET LID|THAT [SINGS]",
+   "side": "US 5,926,099 \u00b7 1999",
+   "at": 1.8
+  },
+  {
+   "t0": 462.606,
+   "t1": 465.669,
+   "i": 68,
+   "segs": [
+    [
+     462.606,
+     463.523
+    ],
+    [
+     463.803,
+     465.318
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 3 OF 10",
+   "numeral": "3",
+   "title": "Automatic Cleaning|of a Toilet Seat",
+   "lines": [
+    "US 4,790,036",
+    "Filed 1986 \u00b7 Issued 1988"
+   ],
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988"
+  },
+  {
+   "t0": 465.669,
+   "t1": 471.06,
+   "i": 69,
+   "segs": [
+    [
+     465.669,
+     467.184
+    ],
+    [
+     467.464,
+     468.381
+    ],
+    [
+     468.661,
+     470.709
+    ]
+   ],
+   "g": "fig",
+   "fig": "seat1",
+   "figno": "1",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988",
+   "calls": [
+    [
+     "THE SEAT",
+     608,
+     885,
+     -150,
+     90
+    ],
+    [
+     "IT TURNS",
+     792,
+     996,
+     40,
+     110
+    ]
+   ]
+  },
+  {
+   "t0": 471.06,
+   "t1": 477.534,
+   "i": 70,
+   "segs": [
+    [
+     471.06,
+     477.183
+    ]
+   ],
+   "g": "quote",
+   "q": "the seat of the toilet, during the cleaning, is moved in a circumferential direction",
+   "hit": "circumferential direction",
+   "src": "US 4,790,036 \u00b7 description",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988"
+  },
+  {
+   "t0": 477.534,
+   "t1": 487.431,
+   "i": 71,
+   "segs": [
+    [
+     477.534,
+     478.451
+    ],
+    [
+     478.731,
+     482.784
+    ],
+    [
+     483.064,
+     484.088
+    ],
+    [
+     484.368,
+     485.904
+    ],
+    [
+     486.184,
+     487.08
+    ]
+   ],
+   "g": "fig",
+   "fig": "seat2",
+   "figno": "3",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988",
+   "calls": [
+    [
+     "WATER",
+     500,
+     331,
+     -120,
+     90
+    ],
+    [
+     "DISINFECTANT",
+     562,
+     262,
+     60,
+     -110
+    ],
+    [
+     "THE WIPER",
+     646,
+     385,
+     130,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 487.431,
+   "t1": 494.204,
+   "i": 72,
+   "segs": [
+    [
+     487.431,
+     493.853
+    ]
+   ],
+   "g": "quote",
+   "q": "the seat is rotated by at least 360\u00b0, the upper surface of the seat being dried.",
+   "hit": "at least 360\u00b0",
+   "src": "US 4,790,036 \u00b7 description",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988"
+  },
+  {
+   "t0": 494.204,
+   "t1": 501.745,
+   "i": 73,
+   "segs": [
+    [
+     494.204,
+     501.244
+    ]
+   ],
+   "g": "quote",
+   "q": "One could, for example, use a rotation of 400\u00b0",
+   "hit": "400\u00b0",
+   "src": "US 4,790,036 \u00b7 description",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988"
+  },
+  {
+   "t0": 501.745,
+   "t1": 509.437,
+   "i": 74,
+   "segs": [
+    [
+     501.745,
+     503.473
+    ],
+    [
+     503.753,
+     509.086
+    ]
+   ],
+   "g": "fig",
+   "fig": "seat1",
+   "figno": "1",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988",
+   "draw": false,
+   "calls": [
+    [
+     "THE TURBINE",
+     277,
+     285,
+     150,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 509.437,
+   "t1": 517.537,
+   "i": 75,
+   "segs": [
+    [
+     509.437,
+     512.232
+    ],
+    [
+     512.512,
+     514.944
+    ],
+    [
+     515.224,
+     517.186
+    ]
+   ],
+   "g": "fig",
+   "fig": "seat3",
+   "figno": "4",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988",
+   "calls": [
+    [
+     "THE SPRAY",
+     650,
+     146,
+     -200,
+     -70
+    ],
+    [
+     "THE SEAT",
+     646,
+     185,
+     -170,
+     110
+    ]
+   ]
+  },
+  {
+   "t0": 517.537,
+   "t1": 528.064,
+   "i": 76,
+   "segs": [
+    [
+     517.537,
+     527.713
+    ]
+   ],
+   "g": "quote",
+   "q": "The subject of the invention constitutes an important step forward in social hygiene, without resulting in environmental pollution.",
+   "hit": "an important step forward",
+   "src": "US 4,790,036 \u00b7 description",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988"
+  },
+  {
+   "t0": 528.064,
+   "t1": 533.282,
+   "i": 77,
+   "segs": [
+    [
+     528.064,
+     529.878
+    ],
+    [
+     530.378,
+     532.831
+    ]
+   ],
+   "g": "stamp",
+   "title": "AUTOMATIC CLEANING|OF A TOILET SEAT",
+   "filed": "OCT. 7, 1986",
+   "date": "DEC. 13, 1988",
+   "num": "US 4,790,036",
+   "hook": "THE SPINNING|[TOILET SEAT]",
+   "side": "US 4,790,036 \u00b7 1988",
+   "at": 1.8
+  },
+  {
+   "t0": 533.282,
+   "t1": 536.196,
+   "i": 78,
+   "segs": [
+    [
+     533.282,
+     534.157
+    ],
+    [
+     534.437,
+     535.845
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 2 OF 10",
+   "numeral": "2",
+   "title": "Bath-Tub|(Rocking)",
+   "lines": [
+    "US 1,067,898",
+    "Filed 1912 \u00b7 Issued 1913"
+   ],
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913"
+  },
+  {
+   "t0": 536.196,
+   "t1": 541.163,
+   "i": 79,
+   "segs": [
+    [
+     536.196,
+     537.497
+    ],
+    [
+     537.917,
+     538.941
+    ],
+    [
+     539.361,
+     540.662
+    ]
+   ],
+   "g": "fig",
+   "fig": "rock1",
+   "figno": "1",
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913",
+   "calls": [
+    [
+     "THE ROCKERS",
+     330,
+     438,
+     140,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 541.163,
+   "t1": 549.664,
+   "i": 80,
+   "segs": [
+    [
+     541.163,
+     549.313
+    ]
+   ],
+   "g": "quote",
+   "q": "The object of my invention is to provide a rocking bath tub having means to prevent the splashing of water during the rocking action.",
+   "hit": "a rocking bath tub",
+   "src": "US 1,067,898 \u00b7 description",
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913"
+  },
+  {
+   "t0": 549.664,
+   "t1": 557.121,
+   "i": 81,
+   "segs": [
+    [
+     549.664,
+     551.712
+    ],
+    [
+     551.992,
+     556.77
+    ]
+   ],
+   "g": "fig",
+   "fig": "rock1",
+   "figno": "1",
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913",
+   "draw": false,
+   "calls": [
+    [
+     "BACK REST",
+     560,
+     200,
+     -170,
+     -100
+    ],
+    [
+     "ARM REST",
+     300,
+     292,
+     -40,
+     -120
+    ]
+   ]
+  },
+  {
+   "t0": 557.121,
+   "t1": 561.227,
+   "i": 82,
+   "segs": [
+    [
+     557.121,
+     560.876
+    ]
+   ],
+   "g": "fig",
+   "fig": "rock2",
+   "figno": "2",
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913",
+   "calls": [
+    [
+     "THE ROCKERS",
+     305,
+     125,
+     120,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 561.227,
+   "t1": 568.794,
+   "i": 83,
+   "segs": [
+    [
+     561.227,
+     562.806
+    ],
+    [
+     563.086,
+     565.923
+    ],
+    [
+     566.203,
+     568.443
+    ]
+   ],
+   "g": "fig",
+   "fig": "rock1",
+   "figno": "1",
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913",
+   "draw": false,
+   "calls": [
+    [
+     "SPLASH PLATE",
+     130,
+     228,
+     60,
+     -120
+    ]
+   ]
+  },
+  {
+   "t0": 568.794,
+   "t1": 577.06,
+   "i": 84,
+   "segs": [
+    [
+     568.794,
+     576.709
+    ]
+   ],
+   "g": "quote",
+   "q": "When the tub is rocking and the water moving forward the front or portion 4 of the tub is prevented from overflowing or splashing",
+   "hit": "prevented from overflowing",
+   "src": "US 1,067,898 \u00b7 description",
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913"
+  },
+  {
+   "t0": 577.06,
+   "t1": 582.811,
+   "i": 85,
+   "segs": [
+    [
+     577.06,
+     579.129
+    ],
+    [
+     579.409,
+     582.46
+    ]
+   ],
+   "g": "quote",
+   "q": "The water within the tub is shown in dotted lines.",
+   "hit": "dotted lines",
+   "src": "US 1,067,898 \u00b7 description",
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913"
+  },
+  {
+   "t0": 582.811,
+   "t1": 588.742,
+   "i": 86,
+   "segs": [
+    [
+     582.811,
+     583.877
+    ],
+    [
+     584.377,
+     585.487
+    ],
+    [
+     585.987,
+     588.291
+    ]
+   ],
+   "g": "stamp",
+   "title": "BATH-|TUB",
+   "filed": "AUG. 6, 1912",
+   "date": "JULY 22, 1913",
+   "num": "US 1,067,898",
+   "hook": "THE ROCKING|[BATHTUB]",
+   "side": "US 1,067,898 \u00b7 1913",
+   "at": 1.6
+  },
+  {
+   "t0": 588.742,
+   "t1": 592.445,
+   "i": 87,
+   "segs": [
+    [
+     588.742,
+     589.616
+    ],
+    [
+     589.896,
+     592.094
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEIRDNESS RANK \u00b7 No. 1 OF 10",
+   "numeral": "1",
+   "title": "Toilet Tank|Aquarium",
+   "lines": [
+    "US 5,983,411",
+    "Filed 1998 \u00b7 Issued 1999"
+   ],
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 592.445,
+   "t1": 597.086,
+   "i": 88,
+   "segs": [
+    [
+     592.445,
+     593.895
+    ],
+    [
+     594.175,
+     596.735
+    ]
+   ],
+   "g": "quote",
+   "q": "The use of toilets is known in the prior art.",
+   "hit": "known in the prior art",
+   "src": "US 5,983,411 \u00b7 description",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 597.086,
+   "t1": 602.901,
+   "i": 89,
+   "segs": [
+    [
+     597.086,
+     598.302
+    ],
+    [
+     598.582,
+     602.55
+    ]
+   ],
+   "g": "fig",
+   "fig": "aquarium1",
+   "figno": "1",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999",
+   "calls": [
+    [
+     "THE FLUSH WATER",
+     492,
+     385,
+     -60,
+     -130
+    ],
+    [
+     "THE FISH TANK",
+     562,
+     538,
+     120,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 602.901,
+   "t1": 608.162,
+   "i": 90,
+   "segs": [
+    [
+     602.901,
+     604.757
+    ],
+    [
+     605.037,
+     607.811
+    ]
+   ],
+   "g": "fig",
+   "fig": "aquarium2",
+   "figno": "2",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999",
+   "calls": [
+    [
+     "FLUSH WATER",
+     277,
+     192,
+     60,
+     -110
+    ],
+    [
+     "FISH",
+     231,
+     285,
+     -40,
+     110
+    ],
+    [
+     "MORE FISH",
+     485,
+     215,
+     120,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 608.162,
+   "t1": 613.825,
+   "i": 91,
+   "segs": [
+    [
+     608.162,
+     613.474
+    ]
+   ],
+   "g": "quote",
+   "q": "The front of the toilet tank assembly is generally transparent.",
+   "hit": "generally transparent",
+   "src": "US 5,983,411 \u00b7 description",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 613.825,
+   "t1": 624.08,
+   "i": 92,
+   "segs": [
+    [
+     613.825,
+     615.425
+    ],
+    [
+     615.705,
+     618.457
+    ],
+    [
+     618.737,
+     623.729
+    ]
+   ],
+   "g": "quote",
+   "q": "a compartment 28 which is designed for storing items such as aquarium supplies therein.",
+   "hit": "aquarium supplies",
+   "src": "US 5,983,411 \u00b7 description",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 624.08,
+   "t1": 629.743,
+   "i": 93,
+   "segs": [
+    [
+     624.08,
+     629.392
+    ]
+   ],
+   "g": "quote",
+   "q": "a new toilet tank assembly aquarium that helps make a bathroom more attractive.",
+   "hit": "more attractive",
+   "src": "US 5,983,411 \u00b7 description",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 629.743,
+   "t1": 637.246,
+   "i": 94,
+   "segs": [
+    [
+     629.743,
+     630.639
+    ],
+    [
+     630.919,
+     631.9
+    ],
+    [
+     632.18,
+     636.895
+    ]
+   ],
+   "g": "quote",
+   "q": "a new toilet tank assembly aquarium that can also be used as a terrarium.",
+   "hit": "a terrarium",
+   "src": "US 5,983,411 \u00b7 description",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 637.246,
+   "t1": 641.885,
+   "i": 95,
+   "segs": [
+    [
+     637.246,
+     641.534
+    ]
+   ],
+   "g": "fig",
+   "fig": "aquarium3",
+   "figno": "6",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999",
+   "calls": [
+    [
+     "THE AQUARIUM",
+     431,
+     554,
+     150,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 641.885,
+   "t1": 651.841,
+   "i": 96,
+   "segs": [
+    [
+     641.885,
+     643.613
+    ],
+    [
+     643.893,
+     645.258
+    ],
+    [
+     645.538,
+     651.49
+    ]
+   ],
+   "g": "quote",
+   "q": "Accordingly, no further discussion relating to the manner of usage and operation will be provided.",
+   "hit": "no further discussion",
+   "src": "US 5,983,411 \u00b7 description",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999"
+  },
+  {
+   "t0": 651.841,
+   "t1": 657.751,
+   "i": 97,
+   "segs": [
+    [
+     651.841,
+     652.716
+    ],
+    [
+     653.216,
+     654.09
+    ],
+    [
+     654.59,
+     657.3
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOILET TANK|AQUARIUM",
+   "filed": "AUG. 6, 1998",
+   "date": "NOV. 16, 1999",
+   "num": "US 5,983,411",
+   "hook": "THE TOILET TANK|[AQUARIUM]",
+   "side": "US 5,983,411 \u00b7 1999",
+   "big": true,
+   "at": 1.6
+  },
+  {
+   "t0": 657.751,
+   "t1": 662.755,
+   "i": 98,
+   "segs": [
+    [
+     657.751,
+     659.095
+    ],
+    [
+     659.495,
+     662.204
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS SHELF'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 011"
+  },
+  {
+   "t0": 662.755,
+   "t1": 669.167,
+   "i": 99,
+   "segs": [
+    [
+     662.755,
+     664.462
+    ],
+    [
+     664.742,
+     668.816
+    ]
+   ],
+   "g": "quote",
+   "q": "The toilet seat can more rightly be called \"the throne\" if certain conditions are met",
+   "hit": "the throne",
+   "src": "US 4,825,779 \u00b7 description",
+   "num": "US 4,825,779",
+   "hook": "A TABLE FOR|THE [TOILET]",
+   "side": "US 4,825,779 \u00b7 1989",
+   "typed": false
+  },
+  {
+   "t0": 669.167,
+   "t1": 676.625,
+   "i": 100,
+   "segs": [
+    [
+     669.167,
+     672.495
+    ],
+    [
+     672.775,
+     676.274
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "2,302,806 \u00b7 2,528,006 \u00b7 4,825,779",
+    "428,252 \u00b7 3,128,161 \u00b7 3,732,580",
+    "5,926,099 \u00b7 4,790,036",
+    "1,067,898 \u00b7 5,983,411"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 011"
+  },
+  {
+   "t0": 676.625,
+   "t1": 683.54,
+   "i": 101,
+   "segs": [
+    [
+     676.625,
+     678.31
+    ],
+    [
+     678.59,
+     680.19
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 011"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.034,
+   "txt": "This is a"
+  },
+  {
+   "t0": 1.034,
+   "t1": 1.566,
+   "txt": "toilet."
+  },
+  {
+   "t0": 2.066,
+   "t1": 2.673,
+   "txt": "The front of"
+  },
+  {
+   "t0": 2.673,
+   "t1": 3.23,
+   "txt": "the tank is"
+  },
+  {
+   "t0": 3.23,
+   "t1": 3.837,
+   "txt": "see-through."
+  },
+  {
+   "t0": 4.337,
+   "t1": 5.007,
+   "txt": "And there are"
+  },
+  {
+   "t0": 5.007,
+   "t1": 5.574,
+   "txt": "fish in it."
+  },
+  {
+   "t0": 6.074,
+   "t1": 6.573,
+   "txt": "It is a"
+  },
+  {
+   "t0": 6.573,
+   "t1": 7.857,
+   "txt": "real United States"
+  },
+  {
+   "t0": 7.857,
+   "t1": 8.357,
+   "txt": "patent."
+  },
+  {
+   "t0": 8.808,
+   "t1": 9.591,
+   "txt": "Its purpose,"
+  },
+  {
+   "t0": 9.591,
+   "t1": 10.243,
+   "txt": "in its own"
+  },
+  {
+   "t0": 10.243,
+   "t1": 10.634,
+   "txt": "words:"
+  },
+  {
+   "t0": 10.634,
+   "t1": 12.07,
+   "txt": "an apparatus primarily"
+  },
+  {
+   "t0": 12.07,
+   "t1": 13.179,
+   "txt": "developed for the"
+  },
+  {
+   "t0": 13.179,
+   "t1": 14.353,
+   "txt": "purpose of housing"
+  },
+  {
+   "t0": 14.353,
+   "t1": 15.528,
+   "txt": "aquatic creatures."
+  },
+  {
+   "t0": 15.879,
+   "t1": 16.988,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 17.408,
+   "t1": 18.88,
+   "txt": "Nineteen ninety-nine."
+  },
+  {
+   "t0": 19.381,
+   "t1": 19.804,
+   "txt": "Today,"
+  },
+  {
+   "t0": 19.804,
+   "t1": 21.072,
+   "txt": "ten weird bathroom"
+  },
+  {
+   "t0": 21.072,
+   "t1": 22.411,
+   "txt": "inventions that got"
+  },
+  {
+   "t0": 22.411,
+   "t1": 23.328,
+   "txt": "real patents."
+  },
+  {
+   "t0": 23.608,
+   "t1": 24.184,
+   "txt": "Bathtubs,"
+  },
+  {
+   "t0": 24.184,
+   "t1": 24.696,
+   "txt": "toilets,"
+  },
+  {
+   "t0": 24.696,
+   "t1": 25.144,
+   "txt": "towels,"
+  },
+  {
+   "t0": 25.144,
+   "t1": 25.976,
+   "txt": "toothbrushes,"
+  },
+  {
+   "t0": 25.976,
+   "t1": 26.936,
+   "txt": "and one machine"
+  },
+  {
+   "t0": 26.936,
+   "t1": 27.96,
+   "txt": "that washes your"
+  },
+  {
+   "t0": 27.96,
+   "t1": 28.792,
+   "txt": "hair for you."
+  },
+  {
+   "t0": 29.072,
+   "t1": 30.342,
+   "txt": "From eighteen ninety"
+  },
+  {
+   "t0": 30.342,
+   "t1": 31.866,
+   "txt": "to nineteen ninety-nine."
+  },
+  {
+   "t0": 32.146,
+   "t1": 33.074,
+   "txt": "Real drawings,"
+  },
+  {
+   "t0": 33.074,
+   "t1": 33.869,
+   "txt": "real quotes,"
+  },
+  {
+   "t0": 33.869,
+   "t1": 34.73,
+   "txt": "counted down,"
+  },
+  {
+   "t0": 34.73,
+   "t1": 35.724,
+   "txt": "in our opinion,"
+  },
+  {
+   "t0": 35.724,
+   "t1": 36.585,
+   "txt": "from weird to"
+  },
+  {
+   "t0": 36.585,
+   "t1": 37.181,
+   "txt": "weirdest."
+  },
+  {
+   "t0": 37.532,
+   "t1": 38.407,
+   "txt": "Number ten."
+  },
+  {
+   "t0": 38.687,
+   "t1": 39.481,
+   "txt": "A towel rack"
+  },
+  {
+   "t0": 39.481,
+   "t1": 40.342,
+   "txt": "with a second"
+  },
+  {
+   "t0": 40.342,
+   "t1": 40.607,
+   "txt": "job."
+  },
+  {
+   "t0": 40.958,
+   "t1": 41.795,
+   "txt": "This sticks to"
+  },
+  {
+   "t0": 41.795,
+   "t1": 42.692,
+   "txt": "the inside wall"
+  },
+  {
+   "t0": 42.692,
+   "t1": 43.529,
+   "txt": "of the bathtub"
+  },
+  {
+   "t0": 43.529,
+   "t1": 44.606,
+   "txt": "with suction cups."
+  },
+  {
+   "t0": 44.886,
+   "t1": 45.556,
+   "txt": "Most of the"
+  },
+  {
+   "t0": 45.556,
+   "t1": 45.861,
+   "txt": "time,"
+  },
+  {
+   "t0": 45.861,
+   "t1": 46.653,
+   "txt": "it holds your"
+  },
+  {
+   "t0": 46.653,
+   "t1": 47.019,
+   "txt": "towel."
+  },
+  {
+   "t0": 47.37,
+   "t1": 47.991,
+   "txt": "But it has"
+  },
+  {
+   "t0": 47.991,
+   "t1": 48.799,
+   "txt": "a second job."
+  },
+  {
+   "t0": 49.079,
+   "t1": 49.705,
+   "txt": "It holds a"
+  },
+  {
+   "t0": 49.705,
+   "t1": 50.832,
+   "txt": "book in convenient"
+  },
+  {
+   "t0": 50.832,
+   "t1": 51.958,
+   "txt": "position to permit"
+  },
+  {
+   "t0": 51.958,
+   "t1": 53.272,
+   "txt": "reading thereof while"
+  },
+  {
+   "t0": 53.272,
+   "t1": 53.773,
+   "txt": "bathing."
+  },
+  {
+   "t0": 54.124,
+   "t1": 54.626,
+   "txt": "To read,"
+  },
+  {
+   "t0": 54.626,
+   "t1": 55.569,
+   "txt": "you unstick one"
+  },
+  {
+   "t0": 55.569,
+   "t1": 55.82,
+   "txt": "end,"
+  },
+  {
+   "t0": 55.82,
+   "t1": 56.762,
+   "txt": "swing the whole"
+  },
+  {
+   "t0": 56.762,
+   "t1": 57.768,
+   "txt": "thing across the"
+  },
+  {
+   "t0": 57.768,
+   "t1": 58.019,
+   "txt": "tub,"
+  },
+  {
+   "t0": 58.019,
+   "t1": 58.773,
+   "txt": "and stick it"
+  },
+  {
+   "t0": 58.773,
+   "t1": 59.527,
+   "txt": "to the other"
+  },
+  {
+   "t0": 59.527,
+   "t1": 59.841,
+   "txt": "side."
+  },
+  {
+   "t0": 60.192,
+   "t1": 60.962,
+   "txt": "The book rests"
+  },
+  {
+   "t0": 60.962,
+   "t1": 61.512,
+   "txt": "on a ledge"
+  },
+  {
+   "t0": 61.512,
+   "t1": 62.172,
+   "txt": "and leans on"
+  },
+  {
+   "t0": 62.172,
+   "t1": 62.667,
+   "txt": "the rack."
+  },
+  {
+   "t0": 62.947,
+   "t1": 63.86,
+   "txt": "A springy page"
+  },
+  {
+   "t0": 63.86,
+   "t1": 64.839,
+   "txt": "holder keeps it"
+  },
+  {
+   "t0": 64.839,
+   "t1": 65.165,
+   "txt": "open,"
+  },
+  {
+   "t0": 65.165,
+   "t1": 66.013,
+   "txt": "with a little"
+  },
+  {
+   "t0": 66.013,
+   "t1": 67.057,
+   "txt": "knob for turning"
+  },
+  {
+   "t0": 67.057,
+   "t1": 67.448,
+   "txt": "pages."
+  },
+  {
+   "t0": 67.799,
+   "t1": 68.514,
+   "txt": "All so that"
+  },
+  {
+   "t0": 68.514,
+   "t1": 69.1,
+   "txt": "he or she"
+  },
+  {
+   "t0": 69.1,
+   "t1": 69.945,
+   "txt": "can read said"
+  },
+  {
+   "t0": 69.945,
+   "t1": 71.051,
+   "txt": "book while taking"
+  },
+  {
+   "t0": 71.051,
+   "t1": 71.831,
+   "txt": "an ablution."
+  },
+  {
+   "t0": 72.182,
+   "t1": 72.941,
+   "txt": "And when you"
+  },
+  {
+   "t0": 72.941,
+   "t1": 73.763,
+   "txt": "are finished,"
+  },
+  {
+   "t0": 73.763,
+   "t1": 74.522,
+   "txt": "it is placed"
+  },
+  {
+   "t0": 74.522,
+   "t1": 75.345,
+   "txt": "in a cupboard"
+  },
+  {
+   "t0": 75.345,
+   "t1": 76.546,
+   "txt": "or other convenient"
+  },
+  {
+   "t0": 76.546,
+   "t1": 77.432,
+   "txt": "place until it"
+  },
+  {
+   "t0": 77.432,
+   "t1": 78.444,
+   "txt": "is again desired"
+  },
+  {
+   "t0": 78.444,
+   "t1": 79.076,
+   "txt": "to use the"
+  },
+  {
+   "t0": 79.076,
+   "t1": 79.393,
+   "txt": "same."
+  },
+  {
+   "t0": 79.744,
+   "t1": 80.725,
+   "txt": "A library."
+  },
+  {
+   "t0": 81.225,
+   "t1": 82.292,
+   "txt": "Over your bath."
+  },
+  {
+   "t0": 82.792,
+   "t1": 83.42,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 83.42,
+   "t1": 85.373,
+   "txt": "November nineteen forty-two."
+  },
+  {
+   "t0": 85.824,
+   "t1": 86.656,
+   "txt": "Number nine."
+  },
+  {
+   "t0": 86.936,
+   "t1": 88.032,
+   "txt": "The toothbrush holder"
+  },
+  {
+   "t0": 88.032,
+   "t1": 88.92,
+   "txt": "that plays music."
+  },
+  {
+   "t0": 89.271,
+   "t1": 89.879,
+   "txt": "It hangs on"
+  },
+  {
+   "t0": 89.879,
+   "t1": 90.597,
+   "txt": "the wall like"
+  },
+  {
+   "t0": 90.597,
+   "t1": 91.426,
+   "txt": "a little house."
+  },
+  {
+   "t0": 91.706,
+   "t1": 92.663,
+   "txt": "And inside the"
+  },
+  {
+   "t0": 92.663,
+   "t1": 93.347,
+   "txt": "house is a"
+  },
+  {
+   "t0": 93.347,
+   "t1": 94.031,
+   "txt": "music box."
+  },
+  {
+   "t0": 94.382,
+   "t1": 95.449,
+   "txt": "A standard one."
+  },
+  {
+   "t0": 95.729,
+   "t1": 96.535,
+   "txt": "Known to the"
+  },
+  {
+   "t0": 96.535,
+   "t1": 97.206,
+   "txt": "trade as a"
+  },
+  {
+   "t0": 97.206,
+   "t1": 98.214,
+   "txt": "Swiss movement,"
+  },
+  {
+   "t0": 98.214,
+   "t1": 99.02,
+   "txt": "or music box"
+  },
+  {
+   "t0": 99.02,
+   "t1": 99.355,
+   "txt": "unit."
+  },
+  {
+   "t0": 99.706,
+   "t1": 101.046,
+   "txt": "Each toothbrush handle"
+  },
+  {
+   "t0": 101.046,
+   "t1": 101.898,
+   "txt": "presses down a"
+  },
+  {
+   "t0": 101.898,
+   "t1": 102.629,
+   "txt": "flat spring."
+  },
+  {
+   "t0": 102.909,
+   "t1": 104.03,
+   "txt": "While both brushes"
+  },
+  {
+   "t0": 104.03,
+   "t1": 104.59,
+   "txt": "are home,"
+  },
+  {
+   "t0": 104.59,
+   "t1": 105.524,
+   "txt": "a little finger"
+  },
+  {
+   "t0": 105.524,
+   "t1": 106.707,
+   "txt": "blocks the spinning"
+  },
+  {
+   "t0": 106.707,
+   "t1": 107.641,
+   "txt": "governor of the"
+  },
+  {
+   "t0": 107.641,
+   "t1": 108.264,
+   "txt": "music box."
+  },
+  {
+   "t0": 108.615,
+   "t1": 109.686,
+   "txt": "Pull a toothbrush"
+  },
+  {
+   "t0": 109.686,
+   "t1": 109.938,
+   "txt": "out,"
+  },
+  {
+   "t0": 109.938,
+   "t1": 110.757,
+   "txt": "and the music"
+  },
+  {
+   "t0": 110.757,
+   "t1": 111.954,
+   "txt": "producing unit will"
+  },
+  {
+   "t0": 111.954,
+   "t1": 113.088,
+   "txt": "operate to produce"
+  },
+  {
+   "t0": 113.088,
+   "t1": 114.033,
+   "txt": "a musical tune."
+  },
+  {
+   "t0": 114.384,
+   "t1": 115.034,
+   "txt": "And there is"
+  },
+  {
+   "t0": 115.034,
+   "t1": 115.684,
+   "txt": "only one way"
+  },
+  {
+   "t0": 115.684,
+   "t1": 116.226,
+   "txt": "to make it"
+  },
+  {
+   "t0": 116.226,
+   "t1": 116.496,
+   "txt": "stop."
+  },
+  {
+   "t0": 116.776,
+   "t1": 117.918,
+   "txt": "The operation will"
+  },
+  {
+   "t0": 117.918,
+   "t1": 118.805,
+   "txt": "stop when both"
+  },
+  {
+   "t0": 118.805,
+   "t1": 119.883,
+   "txt": "tooth brushes are"
+  },
+  {
+   "t0": 119.883,
+   "t1": 120.77,
+   "txt": "nested in both"
+  },
+  {
+   "t0": 120.77,
+   "t1": 121.278,
+   "txt": "pockets."
+  },
+  {
+   "t0": 121.629,
+   "t1": 122.286,
+   "txt": "You wind it"
+  },
+  {
+   "t0": 122.286,
+   "t1": 122.823,
+   "txt": "up with a"
+  },
+  {
+   "t0": 122.823,
+   "t1": 123.421,
+   "txt": "pull cord."
+  },
+  {
+   "t0": 123.701,
+   "t1": 124.469,
+   "txt": "The cord has"
+  },
+  {
+   "t0": 124.469,
+   "t1": 125.045,
+   "txt": "a tassel."
+  },
+  {
+   "t0": 125.396,
+   "t1": 126.474,
+   "txt": "Brushing your teeth,"
+  },
+  {
+   "t0": 126.474,
+   "t1": 127.444,
+   "txt": "with a soundtrack."
+  },
+  {
+   "t0": 127.944,
+   "t1": 128.604,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 128.604,
+   "t1": 130.29,
+   "txt": "October nineteen fifty."
+  },
+  {
+   "t0": 130.741,
+   "t1": 131.616,
+   "txt": "Number eight."
+  },
+  {
+   "t0": 131.896,
+   "t1": 133.044,
+   "txt": "Furniture for one"
+  },
+  {
+   "t0": 133.044,
+   "t1": 134.328,
+   "txt": "very specific room."
+  },
+  {
+   "t0": 134.679,
+   "t1": 135.611,
+   "txt": "It opens with"
+  },
+  {
+   "t0": 135.611,
+   "t1": 136.471,
+   "txt": "a bold idea."
+  },
+  {
+   "t0": 136.751,
+   "t1": 137.651,
+   "txt": "The toilet seat"
+  },
+  {
+   "t0": 137.651,
+   "t1": 138.611,
+   "txt": "can more rightly"
+  },
+  {
+   "t0": 138.611,
+   "t1": 139.391,
+   "txt": "be called the"
+  },
+  {
+   "t0": 139.391,
+   "t1": 139.811,
+   "txt": "throne,"
+  },
+  {
+   "t0": 139.811,
+   "t1": 141.071,
+   "txt": "if certain conditions"
+  },
+  {
+   "t0": 141.071,
+   "t1": 141.551,
+   "txt": "are met."
+  },
+  {
+   "t0": 141.902,
+   "t1": 142.532,
+   "txt": "One of the"
+  },
+  {
+   "t0": 142.532,
+   "t1": 143.225,
+   "txt": "conditions."
+  },
+  {
+   "t0": 143.505,
+   "t1": 144.188,
+   "txt": "A supply of"
+  },
+  {
+   "t0": 144.188,
+   "t1": 145.492,
+   "txt": "reading material from"
+  },
+  {
+   "t0": 145.492,
+   "t1": 146.548,
+   "txt": "which a selection"
+  },
+  {
+   "t0": 146.548,
+   "t1": 147.231,
+   "txt": "can be made"
+  },
+  {
+   "t0": 147.231,
+   "t1": 148.411,
+   "txt": "is usually welcome."
+  },
+  {
+   "t0": 148.762,
+   "t1": 149.466,
+   "txt": "So here is"
+  },
+  {
+   "t0": 149.466,
+   "t1": 150.17,
+   "txt": "the table."
+  },
+  {
+   "t0": 150.45,
+   "t1": 151.07,
+   "txt": "It stands in"
+  },
+  {
+   "t0": 151.07,
+   "t1": 151.689,
+   "txt": "front of the"
+  },
+  {
+   "t0": 151.689,
+   "t1": 152.05,
+   "txt": "toilet."
+  },
+  {
+   "t0": 152.33,
+   "t1": 153.222,
+   "txt": "The top slopes"
+  },
+  {
+   "t0": 153.222,
+   "t1": 153.922,
+   "txt": "toward you,"
+  },
+  {
+   "t0": 153.922,
+   "t1": 154.622,
+   "txt": "at an angle"
+  },
+  {
+   "t0": 154.622,
+   "t1": 155.322,
+   "txt": "of at least"
+  },
+  {
+   "t0": 155.322,
+   "t1": 156.341,
+   "txt": "fifteen degrees."
+  },
+  {
+   "t0": 156.692,
+   "t1": 157.533,
+   "txt": "A ledge along"
+  },
+  {
+   "t0": 157.533,
+   "t1": 158.31,
+   "txt": "the low edge"
+  },
+  {
+   "t0": 158.31,
+   "t1": 159.475,
+   "txt": "keeps the magazine"
+  },
+  {
+   "t0": 159.475,
+   "t1": 160.575,
+   "txt": "from sliding off."
+  },
+  {
+   "t0": 160.855,
+   "t1": 161.804,
+   "txt": "And between the"
+  },
+  {
+   "t0": 161.804,
+   "t1": 162.5,
+   "txt": "front legs,"
+  },
+  {
+   "t0": 162.5,
+   "t1": 163.07,
+   "txt": "a roll of"
+  },
+  {
+   "t0": 163.07,
+   "t1": 164.019,
+   "txt": "toilet paper on"
+  },
+  {
+   "t0": 164.019,
+   "t1": 164.652,
+   "txt": "a spindle."
+  },
+  {
+   "t0": 165.003,
+   "t1": 165.73,
+   "txt": "Underneath,"
+  },
+  {
+   "t0": 165.73,
+   "t1": 166.987,
+   "txt": "a slatted platform."
+  },
+  {
+   "t0": 167.267,
+   "t1": 168.675,
+   "txt": "The platform structure"
+  },
+  {
+   "t0": 168.675,
+   "t1": 169.571,
+   "txt": "holds books up"
+  },
+  {
+   "t0": 169.571,
+   "t1": 170.147,
+   "txt": "the legs,"
+  },
+  {
+   "t0": 170.147,
+   "t1": 170.915,
+   "txt": "high and dry"
+  },
+  {
+   "t0": 170.915,
+   "t1": 171.939,
+   "txt": "above the floor."
+  },
+  {
+   "t0": 172.29,
+   "t1": 173.151,
+   "txt": "It also thought"
+  },
+  {
+   "t0": 173.151,
+   "t1": 173.954,
+   "txt": "about writing."
+  },
+  {
+   "t0": 174.234,
+   "t1": 175.019,
+   "txt": "Some may prefer"
+  },
+  {
+   "t0": 175.019,
+   "t1": 175.856,
+   "txt": "to prepare notes"
+  },
+  {
+   "t0": 175.856,
+   "t1": 176.693,
+   "txt": "such as shopping"
+  },
+  {
+   "t0": 176.693,
+   "t1": 177.007,
+   "txt": "lists."
+  },
+  {
+   "t0": 177.358,
+   "t1": 177.963,
+   "txt": "And one of"
+  },
+  {
+   "t0": 177.963,
+   "t1": 178.688,
+   "txt": "its objects:"
+  },
+  {
+   "t0": 178.688,
+   "t1": 179.534,
+   "txt": "to be handsome"
+  },
+  {
+   "t0": 179.534,
+   "t1": 180.562,
+   "txt": "in appearance and"
+  },
+  {
+   "t0": 180.562,
+   "t1": 181.469,
+   "txt": "large enough to"
+  },
+  {
+   "t0": 181.469,
+   "t1": 182.133,
+   "txt": "be seen and"
+  },
+  {
+   "t0": 182.133,
+   "t1": 183.161,
+   "txt": "not tripped over."
+  },
+  {
+   "t0": 183.512,
+   "t1": 184.152,
+   "txt": "A desk for"
+  },
+  {
+   "t0": 184.152,
+   "t1": 184.856,
+   "txt": "the throne."
+  },
+  {
+   "t0": 185.356,
+   "t1": 185.943,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 185.943,
+   "t1": 187.575,
+   "txt": "May nineteen eighty-nine."
+  },
+  {
+   "t0": 188.026,
+   "t1": 188.943,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 189.223,
+   "t1": 190.122,
+   "txt": "The bathroom you"
+  },
+  {
+   "t0": 190.122,
+   "t1": 190.908,
+   "txt": "can roll away."
+  },
+  {
+   "t0": 191.259,
+   "t1": 192.44,
+   "txt": "In eighteen ninety,"
+  },
+  {
+   "t0": 192.44,
+   "t1": 193.062,
+   "txt": "this was a"
+  },
+  {
+   "t0": 193.062,
+   "t1": 194.118,
+   "txt": "portable bathtub."
+  },
+  {
+   "t0": 194.398,
+   "t1": 195.569,
+   "txt": "The inventor's own"
+  },
+  {
+   "t0": 195.569,
+   "t1": 196.48,
+   "txt": "was three feet"
+  },
+  {
+   "t0": 196.48,
+   "t1": 196.805,
+   "txt": "long,"
+  },
+  {
+   "t0": 196.805,
+   "t1": 197.716,
+   "txt": "two feet wide,"
+  },
+  {
+   "t0": 197.716,
+   "t1": 198.561,
+   "txt": "and about ten"
+  },
+  {
+   "t0": 198.561,
+   "t1": 199.667,
+   "txt": "inches in height."
+  },
+  {
+   "t0": 200.018,
+   "t1": 200.789,
+   "txt": "Posts fold up"
+  },
+  {
+   "t0": 200.789,
+   "t1": 201.381,
+   "txt": "out of the"
+  },
+  {
+   "t0": 201.381,
+   "t1": 201.618,
+   "txt": "tub."
+  },
+  {
+   "t0": 201.898,
+   "t1": 202.444,
+   "txt": "You sit on"
+  },
+  {
+   "t0": 202.444,
+   "t1": 203.264,
+   "txt": "a folding seat."
+  },
+  {
+   "t0": 203.544,
+   "t1": 204.206,
+   "txt": "And down by"
+  },
+  {
+   "t0": 204.206,
+   "t1": 204.808,
+   "txt": "your feet,"
+  },
+  {
+   "t0": 204.808,
+   "t1": 205.41,
+   "txt": "there is a"
+  },
+  {
+   "t0": 205.41,
+   "t1": 206.253,
+   "txt": "rocking pedal."
+  },
+  {
+   "t0": 206.604,
+   "t1": 207.409,
+   "txt": "It works two"
+  },
+  {
+   "t0": 207.409,
+   "t1": 208.213,
+   "txt": "small pumps,"
+  },
+  {
+   "t0": 208.213,
+   "t1": 209.353,
+   "txt": "oscillated by the"
+  },
+  {
+   "t0": 209.353,
+   "t1": 210.09,
+   "txt": "feet of the"
+  },
+  {
+   "t0": 210.09,
+   "t1": 211.297,
+   "txt": "occupant seated on"
+  },
+  {
+   "t0": 211.297,
+   "t1": 211.767,
+   "txt": "seat N."
+  },
+  {
+   "t0": 212.118,
+   "t1": 212.965,
+   "txt": "The pumps push"
+  },
+  {
+   "t0": 212.965,
+   "t1": 213.691,
+   "txt": "the water up"
+  },
+  {
+   "t0": 213.691,
+   "t1": 214.236,
+   "txt": "a hose to"
+  },
+  {
+   "t0": 214.236,
+   "t1": 215.083,
+   "txt": "a hand nozzle."
+  },
+  {
+   "t0": 215.363,
+   "t1": 216.232,
+   "txt": "It rains down,"
+  },
+  {
+   "t0": 216.232,
+   "t1": 217.039,
+   "txt": "collects in a"
+  },
+  {
+   "t0": 217.039,
+   "t1": 217.66,
+   "txt": "dip in the"
+  },
+  {
+   "t0": 217.66,
+   "t1": 218.033,
+   "txt": "floor,"
+  },
+  {
+   "t0": 218.033,
+   "t1": 218.964,
+   "txt": "and gets pumped"
+  },
+  {
+   "t0": 218.964,
+   "t1": 219.523,
+   "txt": "up again."
+  },
+  {
+   "t0": 219.874,
+   "t1": 220.72,
+   "txt": "By this means"
+  },
+  {
+   "t0": 220.72,
+   "t1": 221.502,
+   "txt": "only a small"
+  },
+  {
+   "t0": 221.502,
+   "t1": 222.478,
+   "txt": "amount of water"
+  },
+  {
+   "t0": 222.478,
+   "t1": 223.65,
+   "txt": "will be necessary."
+  },
+  {
+   "t0": 224.001,
+   "t1": 224.878,
+   "txt": "Then a canvas,"
+  },
+  {
+   "t0": 224.878,
+   "t1": 225.505,
+   "txt": "oil-cloth,"
+  },
+  {
+   "t0": 225.505,
+   "t1": 226.445,
+   "txt": "or rubber cover"
+  },
+  {
+   "t0": 226.445,
+   "t1": 227.26,
+   "txt": "goes over the"
+  },
+  {
+   "t0": 227.26,
+   "t1": 228.012,
+   "txt": "whole frame."
+  },
+  {
+   "t0": 228.363,
+   "t1": 229.634,
+   "txt": "The usual splashing"
+  },
+  {
+   "t0": 229.634,
+   "t1": 230.37,
+   "txt": "is not only"
+  },
+  {
+   "t0": 230.37,
+   "t1": 231.909,
+   "txt": "prevented from escaping"
+  },
+  {
+   "t0": 231.909,
+   "t1": 232.779,
+   "txt": "from the tub,"
+  },
+  {
+   "t0": 232.779,
+   "t1": 233.85,
+   "txt": "but the occupant"
+  },
+  {
+   "t0": 233.85,
+   "t1": 235.054,
+   "txt": "is wholly secluded"
+  },
+  {
+   "t0": 235.054,
+   "t1": 236.192,
+   "txt": "from observation."
+  },
+  {
+   "t0": 236.543,
+   "t1": 237.363,
+   "txt": "And when you"
+  },
+  {
+   "t0": 237.363,
+   "t1": 238.046,
+   "txt": "are clean,"
+  },
+  {
+   "t0": 238.046,
+   "t1": 239.48,
+   "txt": "everything folds into"
+  },
+  {
+   "t0": 239.48,
+   "t1": 240.027,
+   "txt": "the tub,"
+  },
+  {
+   "t0": 240.027,
+   "t1": 241.051,
+   "txt": "the lid closes,"
+  },
+  {
+   "t0": 241.051,
+   "t1": 241.939,
+   "txt": "and the whole"
+  },
+  {
+   "t0": 241.939,
+   "t1": 243.237,
+   "txt": "bathroom rolls away"
+  },
+  {
+   "t0": 243.237,
+   "t1": 243.988,
+   "txt": "on casters."
+  },
+  {
+   "t0": 244.339,
+   "t1": 245.164,
+   "txt": "A shower you"
+  },
+  {
+   "t0": 245.164,
+   "t1": 245.577,
+   "txt": "pedal."
+  },
+  {
+   "t0": 246.077,
+   "t1": 247.271,
+   "txt": "Inside a tent."
+  },
+  {
+   "t0": 247.771,
+   "t1": 248.341,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 248.341,
+   "t1": 249.606,
+   "txt": "May eighteen ninety."
+  },
+  {
+   "t0": 250.057,
+   "t1": 250.953,
+   "txt": "Number six."
+  },
+  {
+   "t0": 251.233,
+   "t1": 251.859,
+   "txt": "Goodbye,"
+  },
+  {
+   "t0": 251.859,
+   "t1": 252.406,
+   "txt": "towels."
+  },
+  {
+   "t0": 252.757,
+   "t1": 253.846,
+   "txt": "The problem with"
+  },
+  {
+   "t0": 253.846,
+   "t1": 254.866,
+   "txt": "earlier hot air"
+  },
+  {
+   "t0": 254.866,
+   "t1": 255.342,
+   "txt": "driers,"
+  },
+  {
+   "t0": 255.342,
+   "t1": 256.498,
+   "txt": "according to this"
+  },
+  {
+   "t0": 256.498,
+   "t1": 256.974,
+   "txt": "patent:"
+  },
+  {
+   "t0": 256.974,
+   "t1": 257.655,
+   "txt": "it has the"
+  },
+  {
+   "t0": 257.655,
+   "t1": 258.947,
+   "txt": "major drawback that"
+  },
+  {
+   "t0": 258.947,
+   "t1": 259.899,
+   "txt": "it is intended"
+  },
+  {
+   "t0": 259.899,
+   "t1": 260.579,
+   "txt": "only to be"
+  },
+  {
+   "t0": 260.579,
+   "t1": 261.6,
+   "txt": "used for drying"
+  },
+  {
+   "t0": 261.6,
+   "t1": 262.688,
+   "txt": "the user's hands"
+  },
+  {
+   "t0": 262.688,
+   "t1": 263.232,
+   "txt": "or face."
+  },
+  {
+   "t0": 263.583,
+   "t1": 264.33,
+   "txt": "So here is"
+  },
+  {
+   "t0": 264.33,
+   "t1": 264.927,
+   "txt": "the fix."
+  },
+  {
+   "t0": 265.207,
+   "t1": 265.932,
+   "txt": "A stall."
+  },
+  {
+   "t0": 266.212,
+   "t1": 267.428,
+   "txt": "You stand inside."
+  },
+  {
+   "t0": 267.708,
+   "t1": 268.637,
+   "txt": "Hot air nozzles"
+  },
+  {
+   "t0": 268.637,
+   "t1": 269.38,
+   "txt": "point at you"
+  },
+  {
+   "t0": 269.38,
+   "t1": 270.246,
+   "txt": "from the left,"
+  },
+  {
+   "t0": 270.246,
+   "t1": 271.175,
+   "txt": "from the right,"
+  },
+  {
+   "t0": 271.175,
+   "t1": 272.103,
+   "txt": "and from above."
+  },
+  {
+   "t0": 272.454,
+   "t1": 273.201,
+   "txt": "A blower and"
+  },
+  {
+   "t0": 273.201,
+   "t1": 273.947,
+   "txt": "a heater sit"
+  },
+  {
+   "t0": 273.947,
+   "t1": 274.57,
+   "txt": "at the end"
+  },
+  {
+   "t0": 274.57,
+   "t1": 275.13,
+   "txt": "of a long"
+  },
+  {
+   "t0": 275.13,
+   "t1": 275.441,
+   "txt": "duct."
+  },
+  {
+   "t0": 275.721,
+   "t1": 276.388,
+   "txt": "And there is"
+  },
+  {
+   "t0": 276.388,
+   "t1": 277.001,
+   "txt": "one button."
+  },
+  {
+   "t0": 277.352,
+   "t1": 278.258,
+   "txt": "The person will"
+  },
+  {
+   "t0": 278.258,
+   "t1": 279.286,
+   "txt": "then merely press"
+  },
+  {
+   "t0": 279.286,
+   "t1": 280.616,
+   "txt": "button switch eighteen"
+  },
+  {
+   "t0": 280.616,
+   "t1": 281.281,
+   "txt": "to start up"
+  },
+  {
+   "t0": 281.281,
+   "t1": 282.369,
+   "txt": "blower fifteen and"
+  },
+  {
+   "t0": 282.369,
+   "t1": 283.517,
+   "txt": "air heater sixteen."
+  },
+  {
+   "t0": 283.868,
+   "t1": 285.212,
+   "txt": "Every nozzle swivels,"
+  },
+  {
+   "t0": 285.212,
+   "t1": 286.108,
+   "txt": "and every duct"
+  },
+  {
+   "t0": 286.108,
+   "t1": 286.812,
+   "txt": "has its own"
+  },
+  {
+   "t0": 286.812,
+   "t1": 287.26,
+   "txt": "damper."
+  },
+  {
+   "t0": 287.54,
+   "t1": 288.206,
+   "txt": "Obviously,"
+  },
+  {
+   "t0": 288.206,
+   "t1": 289.405,
+   "txt": "any combination of"
+  },
+  {
+   "t0": 289.405,
+   "t1": 290.471,
+   "txt": "diffusers may be"
+  },
+  {
+   "t0": 290.471,
+   "t1": 291.27,
+   "txt": "used at will"
+  },
+  {
+   "t0": 291.27,
+   "t1": 292.336,
+   "txt": "depending on the"
+  },
+  {
+   "t0": 292.336,
+   "t1": 293.402,
+   "txt": "person's choice,"
+  },
+  {
+   "t0": 293.402,
+   "t1": 294.068,
+   "txt": "et cetera."
+  },
+  {
+   "t0": 294.419,
+   "t1": 295.576,
+   "txt": "Close every damper"
+  },
+  {
+   "t0": 295.576,
+   "t1": 296.476,
+   "txt": "except the top"
+  },
+  {
+   "t0": 296.476,
+   "t1": 296.733,
+   "txt": "one,"
+  },
+  {
+   "t0": 296.733,
+   "t1": 297.569,
+   "txt": "and the whole"
+  },
+  {
+   "t0": 297.569,
+   "t1": 298.533,
+   "txt": "stall becomes a"
+  },
+  {
+   "t0": 298.533,
+   "t1": 299.24,
+   "txt": "hair dryer."
+  },
+  {
+   "t0": 299.591,
+   "t1": 300.274,
+   "txt": "And it had"
+  },
+  {
+   "t0": 300.274,
+   "t1": 300.957,
+   "txt": "big plans."
+  },
+  {
+   "t0": 301.237,
+   "t1": 302.263,
+   "txt": "A still further"
+  },
+  {
+   "t0": 302.263,
+   "t1": 303.084,
+   "txt": "object is to"
+  },
+  {
+   "t0": 303.084,
+   "t1": 304.111,
+   "txt": "provide a drier"
+  },
+  {
+   "t0": 304.111,
+   "t1": 305.479,
+   "txt": "which eliminates the"
+  },
+  {
+   "t0": 305.479,
+   "t1": 306.505,
+   "txt": "need for towels"
+  },
+  {
+   "t0": 306.505,
+   "t1": 307.805,
+   "txt": "for drying purposes"
+  },
+  {
+   "t0": 307.805,
+   "t1": 309.448,
+   "txt": "in public establishments"
+  },
+  {
+   "t0": 309.448,
+   "t1": 310.474,
+   "txt": "such as hotels."
+  },
+  {
+   "t0": 310.825,
+   "t1": 311.536,
+   "txt": "A car wash"
+  },
+  {
+   "t0": 311.536,
+   "t1": 312.318,
+   "txt": "for people."
+  },
+  {
+   "t0": 312.818,
+   "t1": 313.906,
+   "txt": "Just the drying"
+  },
+  {
+   "t0": 313.906,
+   "t1": 314.269,
+   "txt": "part."
+  },
+  {
+   "t0": 314.769,
+   "t1": 315.433,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 315.433,
+   "t1": 317.35,
+   "txt": "April nineteen sixty-four."
+  },
+  {
+   "t0": 317.801,
+   "t1": 318.761,
+   "txt": "Number five."
+  },
+  {
+   "t0": 319.041,
+   "t1": 320.321,
+   "txt": "Hands-free shampoo."
+  },
+  {
+   "t0": 320.672,
+   "t1": 321.308,
+   "txt": "This is a"
+  },
+  {
+   "t0": 321.308,
+   "t1": 321.803,
+   "txt": "helmet."
+  },
+  {
+   "t0": 322.223,
+   "t1": 323.119,
+   "txt": "Full of shower"
+  },
+  {
+   "t0": 323.119,
+   "t1": 323.503,
+   "txt": "heads."
+  },
+  {
+   "t0": 324.004,
+   "t1": 324.553,
+   "txt": "It has an"
+  },
+  {
+   "t0": 324.553,
+   "t1": 325.53,
+   "txt": "opening in which"
+  },
+  {
+   "t0": 325.53,
+   "t1": 326.201,
+   "txt": "the nape of"
+  },
+  {
+   "t0": 326.201,
+   "t1": 326.933,
+   "txt": "the neck for"
+  },
+  {
+   "t0": 326.933,
+   "t1": 327.849,
+   "txt": "a person's head"
+  },
+  {
+   "t0": 327.849,
+   "t1": 328.825,
+   "txt": "can be inserted."
+  },
+  {
+   "t0": 329.176,
+   "t1": 329.977,
+   "txt": "A seal around"
+  },
+  {
+   "t0": 329.977,
+   "t1": 331.024,
+   "txt": "the opening keeps"
+  },
+  {
+   "t0": 331.024,
+   "t1": 331.886,
+   "txt": "your face dry."
+  },
+  {
+   "t0": 332.166,
+   "t1": 333.107,
+   "txt": "It prevents the"
+  },
+  {
+   "t0": 333.107,
+   "t1": 334.362,
+   "txt": "water being injected"
+  },
+  {
+   "t0": 334.362,
+   "t1": 335.304,
+   "txt": "into the helmet"
+  },
+  {
+   "t0": 335.304,
+   "t1": 336.684,
+   "txt": "from exiting therefrom"
+  },
+  {
+   "t0": 336.684,
+   "t1": 337.626,
+   "txt": "and wetting the"
+  },
+  {
+   "t0": 337.626,
+   "t1": 338.19,
+   "txt": "face of a"
+  },
+  {
+   "t0": 338.19,
+   "t1": 338.63,
+   "txt": "person."
+  },
+  {
+   "t0": 338.981,
+   "t1": 339.283,
+   "txt": "Then,"
+  },
+  {
+   "t0": 339.283,
+   "t1": 340.252,
+   "txt": "the starting key"
+  },
+  {
+   "t0": 340.252,
+   "t1": 341.039,
+   "txt": "is depressed,"
+  },
+  {
+   "t0": 341.039,
+   "t1": 342.25,
+   "txt": "thereby starting the"
+  },
+  {
+   "t0": 342.25,
+   "t1": 343.098,
+   "txt": "timer fifteen."
+  },
+  {
+   "t0": 343.449,
+   "t1": 344.125,
+   "txt": "The trick is"
+  },
+  {
+   "t0": 344.125,
+   "t1": 345.027,
+   "txt": "that the showers"
+  },
+  {
+   "t0": 345.027,
+   "t1": 345.646,
+   "txt": "take turns."
+  },
+  {
+   "t0": 345.926,
+   "t1": 346.895,
+   "txt": "Groups switch on"
+  },
+  {
+   "t0": 346.895,
+   "t1": 347.379,
+   "txt": "and off,"
+  },
+  {
+   "t0": 347.379,
+   "t1": 348.348,
+   "txt": "causing the hair"
+  },
+  {
+   "t0": 348.348,
+   "t1": 349.558,
+   "txt": "to continuously move"
+  },
+  {
+   "t0": 349.558,
+   "t1": 350.769,
+   "txt": "in either direction."
+  },
+  {
+   "t0": 351.12,
+   "t1": 352.421,
+   "txt": "The patent's promise:"
+  },
+  {
+   "t0": 352.421,
+   "t1": 353.288,
+   "txt": "the water jets"
+  },
+  {
+   "t0": 353.288,
+   "t1": 354.031,
+   "txt": "will cause a"
+  },
+  {
+   "t0": 354.031,
+   "t1": 355.393,
+   "txt": "continuous movement of"
+  },
+  {
+   "t0": 355.393,
+   "t1": 356.136,
+   "txt": "the hair and"
+  },
+  {
+   "t0": 356.136,
+   "t1": 356.879,
+   "txt": "a massage of"
+  },
+  {
+   "t0": 356.879,
+   "t1": 357.499,
+   "txt": "the scalp."
+  },
+  {
+   "t0": 357.85,
+   "t1": 358.69,
+   "txt": "It warms the"
+  },
+  {
+   "t0": 358.69,
+   "t1": 359.11,
+   "txt": "water,"
+  },
+  {
+   "t0": 359.11,
+   "t1": 360.301,
+   "txt": "adds the shampoo,"
+  },
+  {
+   "t0": 360.301,
+   "t1": 360.792,
+   "txt": "washes,"
+  },
+  {
+   "t0": 360.792,
+   "t1": 362.052,
+   "txt": "drains and rinses."
+  },
+  {
+   "t0": 362.332,
+   "t1": 363.316,
+   "txt": "The washing step"
+  },
+  {
+   "t0": 363.316,
+   "t1": 364.239,
+   "txt": "can be repeated"
+  },
+  {
+   "t0": 364.239,
+   "t1": 365.345,
+   "txt": "for several times,"
+  },
+  {
+   "t0": 365.345,
+   "t1": 366.329,
+   "txt": "always under the"
+  },
+  {
+   "t0": 366.329,
+   "t1": 367.19,
+   "txt": "control of the"
+  },
+  {
+   "t0": 367.19,
+   "t1": 367.559,
+   "txt": "timer."
+  },
+  {
+   "t0": 367.91,
+   "t1": 368.647,
+   "txt": "And the timer,"
+  },
+  {
+   "t0": 368.647,
+   "t1": 369.069,
+   "txt": "it says,"
+  },
+  {
+   "t0": 369.069,
+   "t1": 369.595,
+   "txt": "did great."
+  },
+  {
+   "t0": 369.875,
+   "t1": 371.433,
+   "txt": "When suitably programmed,"
+  },
+  {
+   "t0": 371.433,
+   "t1": 372.368,
+   "txt": "the timer shows"
+  },
+  {
+   "t0": 372.368,
+   "t1": 373.676,
+   "txt": "an excellent behavior"
+  },
+  {
+   "t0": 373.676,
+   "t1": 375.109,
+   "txt": "in performing different"
+  },
+  {
+   "t0": 375.109,
+   "t1": 376.169,
+   "txt": "working programs."
+  },
+  {
+   "t0": 376.52,
+   "t1": 377.586,
+   "txt": "A dishwasher."
+  },
+  {
+   "t0": 378.086,
+   "t1": 379.068,
+   "txt": "For your head."
+  },
+  {
+   "t0": 379.568,
+   "t1": 380.192,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 380.192,
+   "t1": 382.064,
+   "txt": "May nineteen seventy-three."
+  },
+  {
+   "t0": 382.515,
+   "t1": 383.432,
+   "txt": "Number four."
+  },
+  {
+   "t0": 383.712,
+   "t1": 384.801,
+   "txt": "The oldest argument"
+  },
+  {
+   "t0": 384.801,
+   "t1": 385.547,
+   "txt": "in the house."
+  },
+  {
+   "t0": 385.898,
+   "t1": 386.836,
+   "txt": "The patent states"
+  },
+  {
+   "t0": 386.836,
+   "t1": 387.498,
+   "txt": "the problem."
+  },
+  {
+   "t0": 387.778,
+   "t1": 388.793,
+   "txt": "Toilet lids are"
+  },
+  {
+   "t0": 388.793,
+   "t1": 389.673,
+   "txt": "often left in"
+  },
+  {
+   "t0": 389.673,
+   "t1": 390.824,
+   "txt": "the open position"
+  },
+  {
+   "t0": 390.824,
+   "t1": 392.38,
+   "txt": "through carelessness or"
+  },
+  {
+   "t0": 392.38,
+   "t1": 393.26,
+   "txt": "inadvertence."
+  },
+  {
+   "t0": 393.611,
+   "t1": 394.209,
+   "txt": "The fix is"
+  },
+  {
+   "t0": 394.209,
+   "t1": 394.925,
+   "txt": "a little box"
+  },
+  {
+   "t0": 394.925,
+   "t1": 395.821,
+   "txt": "you stick under"
+  },
+  {
+   "t0": 395.821,
+   "t1": 396.299,
+   "txt": "the lid."
+  },
+  {
+   "t0": 396.579,
+   "t1": 397.26,
+   "txt": "When the lid"
+  },
+  {
+   "t0": 397.26,
+   "t1": 397.713,
+   "txt": "goes up,"
+  },
+  {
+   "t0": 397.713,
+   "t1": 398.563,
+   "txt": "it plays music."
+  },
+  {
+   "t0": 398.843,
+   "t1": 399.539,
+   "txt": "When the lid"
+  },
+  {
+   "t0": 399.539,
+   "t1": 400.177,
+   "txt": "comes down,"
+  },
+  {
+   "t0": 400.177,
+   "t1": 400.699,
+   "txt": "it stops."
+  },
+  {
+   "t0": 401.05,
+   "t1": 401.747,
+   "txt": "Where does the"
+  },
+  {
+   "t0": 401.747,
+   "t1": 402.544,
+   "txt": "music come from?"
+  },
+  {
+   "t0": 402.824,
+   "t1": 403.94,
+   "txt": "In the preferred"
+  },
+  {
+   "t0": 403.94,
+   "t1": 404.707,
+   "txt": "embodiment,"
+  },
+  {
+   "t0": 404.707,
+   "t1": 405.753,
+   "txt": "a greeting card"
+  },
+  {
+   "t0": 405.753,
+   "t1": 407.357,
+   "txt": "style electronic music,"
+  },
+  {
+   "t0": 407.357,
+   "t1": 407.775,
+   "txt": "sound,"
+  },
+  {
+   "t0": 407.775,
+   "t1": 409.031,
+   "txt": "and blinking light"
+  },
+  {
+   "t0": 409.031,
+   "t1": 410.077,
+   "txt": "module is used."
+  },
+  {
+   "t0": 410.428,
+   "t1": 411.004,
+   "txt": "Why not a"
+  },
+  {
+   "t0": 411.004,
+   "t1": 411.9,
+   "txt": "simple buzzer?"
+  },
+  {
+   "t0": 412.18,
+   "t1": 413.751,
+   "txt": "Prior solutions suggest"
+  },
+  {
+   "t0": 413.751,
+   "t1": 415.049,
+   "txt": "signal devices that"
+  },
+  {
+   "t0": 415.049,
+   "t1": 416.756,
+   "txt": "produce unpleasant shrill"
+  },
+  {
+   "t0": 416.756,
+   "t1": 417.166,
+   "txt": "beeps,"
+  },
+  {
+   "t0": 417.166,
+   "t1": 417.644,
+   "txt": "buzzes,"
+  },
+  {
+   "t0": 417.644,
+   "t1": 418.942,
+   "txt": "and flashing lights"
+  },
+  {
+   "t0": 418.942,
+   "t1": 420.376,
+   "txt": "that discourage their"
+  },
+  {
+   "t0": 420.376,
+   "t1": 420.649,
+   "txt": "use."
+  },
+  {
+   "t0": 421.0,
+   "t1": 421.672,
+   "txt": "So how does"
+  },
+  {
+   "t0": 421.672,
+   "t1": 422.404,
+   "txt": "the box know"
+  },
+  {
+   "t0": 422.404,
+   "t1": 423.015,
+   "txt": "the lid is"
+  },
+  {
+   "t0": 423.015,
+   "t1": 423.198,
+   "txt": "up?"
+  },
+  {
+   "t0": 423.478,
+   "t1": 424.224,
+   "txt": "Gravity."
+  },
+  {
+   "t0": 424.504,
+   "t1": 425.501,
+   "txt": "In one version,"
+  },
+  {
+   "t0": 425.501,
+   "t1": 426.565,
+   "txt": "a fishing sinker"
+  },
+  {
+   "t0": 426.565,
+   "t1": 427.229,
+   "txt": "hangs on a"
+  },
+  {
+   "t0": 427.229,
+   "t1": 427.96,
+   "txt": "nylon line."
+  },
+  {
+   "t0": 428.24,
+   "t1": 429.078,
+   "txt": "Tilt the box,"
+  },
+  {
+   "t0": 429.078,
+   "t1": 429.98,
+   "txt": "and the sinker"
+  },
+  {
+   "t0": 429.98,
+   "t1": 430.946,
+   "txt": "swings onto the"
+  },
+  {
+   "t0": 430.946,
+   "t1": 431.526,
+   "txt": "contacts."
+  },
+  {
+   "t0": 431.877,
+   "t1": 432.81,
+   "txt": "The patent gets"
+  },
+  {
+   "t0": 432.81,
+   "t1": 433.37,
+   "txt": "specific."
+  },
+  {
+   "t0": 433.65,
+   "t1": 434.856,
+   "txt": "A size three-aught"
+  },
+  {
+   "t0": 434.856,
+   "t1": 435.996,
+   "txt": "split shot sinker"
+  },
+  {
+   "t0": 435.996,
+   "t1": 436.867,
+   "txt": "of the common"
+  },
+  {
+   "t0": 436.867,
+   "t1": 437.939,
+   "txt": "type is utilized"
+  },
+  {
+   "t0": 437.939,
+   "t1": 438.944,
+   "txt": "as a conductive"
+  },
+  {
+   "t0": 438.944,
+   "t1": 439.815,
+   "txt": "weight means."
+  },
+  {
+   "t0": 440.166,
+   "t1": 441.062,
+   "txt": "It even plans"
+  },
+  {
+   "t0": 441.062,
+   "t1": 441.958,
+   "txt": "other models."
+  },
+  {
+   "t0": 442.238,
+   "t1": 443.574,
+   "txt": "A bird-shaped housing"
+  },
+  {
+   "t0": 443.574,
+   "t1": 444.718,
+   "txt": "with module making"
+  },
+  {
+   "t0": 444.718,
+   "t1": 445.481,
+   "txt": "bird sounds."
+  },
+  {
+   "t0": 445.761,
+   "t1": 446.612,
+   "txt": "And a fisherman"
+  },
+  {
+   "t0": 446.612,
+   "t1": 447.462,
+   "txt": "model with line"
+  },
+  {
+   "t0": 447.462,
+   "t1": 448.086,
+   "txt": "and sinker."
+  },
+  {
+   "t0": 448.437,
+   "t1": 449.628,
+   "txt": "And the long-term"
+  },
+  {
+   "t0": 449.628,
+   "t1": 449.979,
+   "txt": "goal:"
+  },
+  {
+   "t0": 449.979,
+   "t1": 451.66,
+   "txt": "conditioning persons who"
+  },
+  {
+   "t0": 451.66,
+   "t1": 452.641,
+   "txt": "use the toilet"
+  },
+  {
+   "t0": 452.641,
+   "t1": 453.482,
+   "txt": "to lower the"
+  },
+  {
+   "t0": 453.482,
+   "t1": 454.463,
+   "txt": "toilet seat or"
+  },
+  {
+   "t0": 454.463,
+   "t1": 455.584,
+   "txt": "cover after use."
+  },
+  {
+   "t0": 456.035,
+   "t1": 457.23,
+   "txt": "Training humans."
+  },
+  {
+   "t0": 457.73,
+   "t1": 458.754,
+   "txt": "With a greeting"
+  },
+  {
+   "t0": 458.754,
+   "t1": 459.095,
+   "txt": "card."
+  },
+  {
+   "t0": 459.595,
+   "t1": 460.253,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 460.253,
+   "t1": 462.155,
+   "txt": "July nineteen ninety-nine."
+  },
+  {
+   "t0": 462.606,
+   "t1": 463.523,
+   "txt": "Number three."
+  },
+  {
+   "t0": 463.803,
+   "t1": 464.533,
+   "txt": "The seat that"
+  },
+  {
+   "t0": 464.533,
+   "t1": 465.318,
+   "txt": "cleans itself."
+  },
+  {
+   "t0": 465.669,
+   "t1": 466.702,
+   "txt": "This toilet has"
+  },
+  {
+   "t0": 466.702,
+   "t1": 467.184,
+   "txt": "motors."
+  },
+  {
+   "t0": 467.464,
+   "t1": 468.381,
+   "txt": "Three of them."
+  },
+  {
+   "t0": 468.661,
+   "t1": 469.363,
+   "txt": "And the seat"
+  },
+  {
+   "t0": 469.363,
+   "t1": 469.89,
+   "txt": "is a ring"
+  },
+  {
+   "t0": 469.89,
+   "t1": 470.709,
+   "txt": "that can turn."
+  },
+  {
+   "t0": 471.06,
+   "t1": 471.691,
+   "txt": "In its own"
+  },
+  {
+   "t0": 471.691,
+   "t1": 472.07,
+   "txt": "words,"
+  },
+  {
+   "t0": 472.07,
+   "t1": 472.764,
+   "txt": "the seat of"
+  },
+  {
+   "t0": 472.764,
+   "t1": 473.459,
+   "txt": "the toilet,"
+  },
+  {
+   "t0": 473.459,
+   "t1": 474.721,
+   "txt": "during the cleaning,"
+  },
+  {
+   "t0": 474.721,
+   "t1": 475.415,
+   "txt": "is moved in"
+  },
+  {
+   "t0": 475.415,
+   "t1": 477.183,
+   "txt": "a circumferential direction."
+  },
+  {
+   "t0": 477.534,
+   "t1": 478.451,
+   "txt": "Here is how."
+  },
+  {
+   "t0": 478.731,
+   "t1": 479.612,
+   "txt": "A cleaning unit"
+  },
+  {
+   "t0": 479.612,
+   "t1": 480.376,
+   "txt": "swings out on"
+  },
+  {
+   "t0": 480.376,
+   "t1": 481.316,
+   "txt": "arms and settles"
+  },
+  {
+   "t0": 481.316,
+   "t1": 482.079,
+   "txt": "over one part"
+  },
+  {
+   "t0": 482.079,
+   "t1": 482.784,
+   "txt": "of the seat."
+  },
+  {
+   "t0": 483.064,
+   "t1": 484.088,
+   "txt": "Water nozzles."
+  },
+  {
+   "t0": 484.368,
+   "t1": 485.904,
+   "txt": "Disinfectant nozzles."
+  },
+  {
+   "t0": 486.184,
+   "t1": 487.08,
+   "txt": "And a wiper."
+  },
+  {
+   "t0": 487.431,
+   "t1": 488.25,
+   "txt": "Then the seat"
+  },
+  {
+   "t0": 488.25,
+   "t1": 489.068,
+   "txt": "is rotated by"
+  },
+  {
+   "t0": 489.068,
+   "t1": 489.95,
+   "txt": "at least three"
+  },
+  {
+   "t0": 489.95,
+   "t1": 491.334,
+   "txt": "hundred sixty degrees,"
+  },
+  {
+   "t0": 491.334,
+   "t1": 492.405,
+   "txt": "the upper surface"
+  },
+  {
+   "t0": 492.405,
+   "t1": 493.097,
+   "txt": "of the seat"
+  },
+  {
+   "t0": 493.097,
+   "t1": 493.853,
+   "txt": "being dried."
+  },
+  {
+   "t0": 494.204,
+   "t1": 494.969,
+   "txt": "And if one"
+  },
+  {
+   "t0": 494.969,
+   "t1": 495.887,
+   "txt": "full turn is"
+  },
+  {
+   "t0": 495.887,
+   "t1": 496.729,
+   "txt": "not enough:"
+  },
+  {
+   "t0": 496.729,
+   "t1": 497.494,
+   "txt": "One could,"
+  },
+  {
+   "t0": 497.494,
+   "t1": 498.412,
+   "txt": "for example,"
+  },
+  {
+   "t0": 498.412,
+   "t1": 499.484,
+   "txt": "use a rotation"
+  },
+  {
+   "t0": 499.484,
+   "t1": 500.631,
+   "txt": "of four hundred"
+  },
+  {
+   "t0": 500.631,
+   "t1": 501.244,
+   "txt": "degrees."
+  },
+  {
+   "t0": 501.745,
+   "t1": 502.321,
+   "txt": "It does not"
+  },
+  {
+   "t0": 502.321,
+   "t1": 503.106,
+   "txt": "need an outlet,"
+  },
+  {
+   "t0": 503.106,
+   "t1": 503.473,
+   "txt": "either."
+  },
+  {
+   "t0": 503.753,
+   "t1": 504.959,
+   "txt": "The water refilling"
+  },
+  {
+   "t0": 504.959,
+   "t1": 505.848,
+   "txt": "the tank spins"
+  },
+  {
+   "t0": 505.848,
+   "t1": 506.927,
+   "txt": "a little turbine,"
+  },
+  {
+   "t0": 506.927,
+   "t1": 507.88,
+   "txt": "and the turbine"
+  },
+  {
+   "t0": 507.88,
+   "t1": 509.086,
+   "txt": "drives a generator."
+  },
+  {
+   "t0": 509.437,
+   "t1": 510.427,
+   "txt": "The nozzles spray"
+  },
+  {
+   "t0": 510.427,
+   "t1": 511.067,
+   "txt": "two jets of"
+  },
+  {
+   "t0": 511.067,
+   "t1": 511.941,
+   "txt": "liquid onto the"
+  },
+  {
+   "t0": 511.941,
+   "t1": 512.232,
+   "txt": "seat."
+  },
+  {
+   "t0": 512.512,
+   "t1": 513.387,
+   "txt": "And switches check"
+  },
+  {
+   "t0": 513.387,
+   "t1": 514.263,
+   "txt": "whether someone is"
+  },
+  {
+   "t0": 514.263,
+   "t1": 514.944,
+   "txt": "sitting on it."
+  },
+  {
+   "t0": 515.224,
+   "t1": 516.14,
+   "txt": "If someone is,"
+  },
+  {
+   "t0": 516.14,
+   "t1": 516.859,
+   "txt": "it will not"
+  },
+  {
+   "t0": 516.859,
+   "t1": 517.186,
+   "txt": "spin."
+  },
+  {
+   "t0": 517.537,
+   "t1": 518.601,
+   "txt": "And the patent's"
+  },
+  {
+   "t0": 518.601,
+   "t1": 519.4,
+   "txt": "own verdict:"
+  },
+  {
+   "t0": 519.4,
+   "t1": 520.331,
+   "txt": "The subject of"
+  },
+  {
+   "t0": 520.331,
+   "t1": 521.993,
+   "txt": "the invention constitutes"
+  },
+  {
+   "t0": 521.993,
+   "t1": 523.124,
+   "txt": "an important step"
+  },
+  {
+   "t0": 523.124,
+   "t1": 524.255,
+   "txt": "forward in social"
+  },
+  {
+   "t0": 524.255,
+   "t1": 524.787,
+   "txt": "hygiene,"
+  },
+  {
+   "t0": 524.787,
+   "t1": 526.117,
+   "txt": "without resulting in"
+  },
+  {
+   "t0": 526.117,
+   "t1": 527.713,
+   "txt": "environmental pollution."
+  },
+  {
+   "t0": 528.064,
+   "t1": 528.906,
+   "txt": "A toilet seat"
+  },
+  {
+   "t0": 528.906,
+   "t1": 529.878,
+   "txt": "on a turntable."
+  },
+  {
+   "t0": 530.378,
+   "t1": 530.93,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 530.93,
+   "t1": 532.831,
+   "txt": "December nineteen eighty-eight."
+  },
+  {
+   "t0": 533.282,
+   "t1": 534.157,
+   "txt": "Number two."
+  },
+  {
+   "t0": 534.437,
+   "t1": 535.461,
+   "txt": "The bathtub that"
+  },
+  {
+   "t0": 535.461,
+   "t1": 535.845,
+   "txt": "rocks."
+  },
+  {
+   "t0": 536.196,
+   "t1": 536.885,
+   "txt": "This is a"
+  },
+  {
+   "t0": 536.885,
+   "t1": 537.497,
+   "txt": "bathtub."
+  },
+  {
+   "t0": 537.917,
+   "t1": 538.941,
+   "txt": "On rockers."
+  },
+  {
+   "t0": 539.361,
+   "t1": 540.272,
+   "txt": "Like a rocking"
+  },
+  {
+   "t0": 540.272,
+   "t1": 540.662,
+   "txt": "chair."
+  },
+  {
+   "t0": 541.163,
+   "t1": 542.004,
+   "txt": "The object of"
+  },
+  {
+   "t0": 542.004,
+   "t1": 542.974,
+   "txt": "my invention is"
+  },
+  {
+   "t0": 542.974,
+   "t1": 543.75,
+   "txt": "to provide a"
+  },
+  {
+   "t0": 543.75,
+   "t1": 544.785,
+   "txt": "rocking bath tub"
+  },
+  {
+   "t0": 544.785,
+   "t1": 545.755,
+   "txt": "having means to"
+  },
+  {
+   "t0": 545.755,
+   "t1": 547.114,
+   "txt": "prevent the splashing"
+  },
+  {
+   "t0": 547.114,
+   "t1": 548.084,
+   "txt": "of water during"
+  },
+  {
+   "t0": 548.084,
+   "t1": 549.313,
+   "txt": "the rocking action."
+  },
+  {
+   "t0": 549.664,
+   "t1": 550.533,
+   "txt": "One end curves"
+  },
+  {
+   "t0": 550.533,
+   "t1": 551.091,
+   "txt": "up into a"
+  },
+  {
+   "t0": 551.091,
+   "t1": 551.712,
+   "txt": "back rest."
+  },
+  {
+   "t0": 551.992,
+   "t1": 552.743,
+   "txt": "And the top"
+  },
+  {
+   "t0": 552.743,
+   "t1": 553.903,
+   "txt": "edges are rounded"
+  },
+  {
+   "t0": 553.903,
+   "t1": 554.586,
+   "txt": "or beaded,"
+  },
+  {
+   "t0": 554.586,
+   "t1": 555.542,
+   "txt": "to form smooth"
+  },
+  {
+   "t0": 555.542,
+   "t1": 556.429,
+   "txt": "rests for the"
+  },
+  {
+   "t0": 556.429,
+   "t1": 556.77,
+   "txt": "arms."
+  },
+  {
+   "t0": 557.121,
+   "t1": 557.846,
+   "txt": "Underneath,"
+  },
+  {
+   "t0": 557.846,
+   "t1": 558.9,
+   "txt": "two long rockers"
+  },
+  {
+   "t0": 558.9,
+   "t1": 559.756,
+   "txt": "of bent sheet"
+  },
+  {
+   "t0": 559.756,
+   "t1": 560.151,
+   "txt": "metal,"
+  },
+  {
+   "t0": 560.151,
+   "t1": 560.876,
+   "txt": "riveted on."
+  },
+  {
+   "t0": 561.227,
+   "t1": 562.279,
+   "txt": "Which leaves one"
+  },
+  {
+   "t0": 562.279,
+   "t1": 562.806,
+   "txt": "problem."
+  },
+  {
+   "t0": 563.086,
+   "t1": 563.854,
+   "txt": "When you rock"
+  },
+  {
+   "t0": 563.854,
+   "t1": 564.327,
+   "txt": "forward,"
+  },
+  {
+   "t0": 564.327,
+   "t1": 565.214,
+   "txt": "the water rocks"
+  },
+  {
+   "t0": 565.214,
+   "t1": 565.923,
+   "txt": "forward too."
+  },
+  {
+   "t0": 566.203,
+   "t1": 566.99,
+   "txt": "So across the"
+  },
+  {
+   "t0": 566.99,
+   "t1": 567.474,
+   "txt": "low end,"
+  },
+  {
+   "t0": 567.474,
+   "t1": 568.08,
+   "txt": "there is a"
+  },
+  {
+   "t0": 568.08,
+   "t1": 568.443,
+   "txt": "plate."
+  },
+  {
+   "t0": 568.794,
+   "t1": 569.548,
+   "txt": "When the tub"
+  },
+  {
+   "t0": 569.548,
+   "t1": 570.427,
+   "txt": "is rocking and"
+  },
+  {
+   "t0": 570.427,
+   "t1": 571.432,
+   "txt": "the water moving"
+  },
+  {
+   "t0": 571.432,
+   "t1": 572.5,
+   "txt": "forward the front"
+  },
+  {
+   "t0": 572.5,
+   "t1": 573.442,
+   "txt": "or portion four"
+  },
+  {
+   "t0": 573.442,
+   "t1": 574.07,
+   "txt": "of the tub"
+  },
+  {
+   "t0": 574.07,
+   "t1": 575.138,
+   "txt": "is prevented from"
+  },
+  {
+   "t0": 575.138,
+   "t1": 576.709,
+   "txt": "overflowing or splashing."
+  },
+  {
+   "t0": 577.06,
+   "t1": 578.033,
+   "txt": "The drawing even"
+  },
+  {
+   "t0": 578.033,
+   "t1": 579.129,
+   "txt": "includes the bath."
+  },
+  {
+   "t0": 579.409,
+   "t1": 580.448,
+   "txt": "The water within"
+  },
+  {
+   "t0": 580.448,
+   "t1": 581.097,
+   "txt": "the tub is"
+  },
+  {
+   "t0": 581.097,
+   "t1": 582.07,
+   "txt": "shown in dotted"
+  },
+  {
+   "t0": 582.07,
+   "t1": 582.46,
+   "txt": "lines."
+  },
+  {
+   "t0": 582.811,
+   "t1": 583.877,
+   "txt": "A rocking chair."
+  },
+  {
+   "t0": 584.377,
+   "t1": 585.487,
+   "txt": "Full of water."
+  },
+  {
+   "t0": 585.987,
+   "t1": 586.635,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 586.635,
+   "t1": 588.291,
+   "txt": "July nineteen thirteen."
+  },
+  {
+   "t0": 588.742,
+   "t1": 589.616,
+   "txt": "And number one."
+  },
+  {
+   "t0": 589.896,
+   "t1": 591.05,
+   "txt": "The weirdest bathroom"
+  },
+  {
+   "t0": 591.05,
+   "t1": 591.764,
+   "txt": "patent on our"
+  },
+  {
+   "t0": 591.764,
+   "t1": 592.094,
+   "txt": "shelf."
+  },
+  {
+   "t0": 592.445,
+   "t1": 593.388,
+   "txt": "It opens with"
+  },
+  {
+   "t0": 593.388,
+   "t1": 593.895,
+   "txt": "a fact."
+  },
+  {
+   "t0": 594.175,
+   "t1": 594.785,
+   "txt": "The use of"
+  },
+  {
+   "t0": 594.785,
+   "t1": 595.76,
+   "txt": "toilets is known"
+  },
+  {
+   "t0": 595.76,
+   "t1": 596.492,
+   "txt": "in the prior"
+  },
+  {
+   "t0": 596.492,
+   "t1": 596.735,
+   "txt": "art."
+  },
+  {
+   "t0": 597.086,
+   "t1": 597.945,
+   "txt": "Then it adds"
+  },
+  {
+   "t0": 597.945,
+   "t1": 598.302,
+   "txt": "fish."
+  },
+  {
+   "t0": 598.582,
+   "t1": 599.484,
+   "txt": "The flush water"
+  },
+  {
+   "t0": 599.484,
+   "t1": 600.025,
+   "txt": "sits in a"
+  },
+  {
+   "t0": 600.025,
+   "t1": 600.626,
+   "txt": "box of its"
+  },
+  {
+   "t0": 600.626,
+   "t1": 600.867,
+   "txt": "own,"
+  },
+  {
+   "t0": 600.867,
+   "t1": 601.829,
+   "txt": "against the back"
+  },
+  {
+   "t0": 601.829,
+   "t1": 602.55,
+   "txt": "of the tank."
+  },
+  {
+   "t0": 602.901,
+   "t1": 603.591,
+   "txt": "From the top,"
+  },
+  {
+   "t0": 603.591,
+   "t1": 604.174,
+   "txt": "you can see"
+  },
+  {
+   "t0": 604.174,
+   "t1": 604.757,
+   "txt": "the layout."
+  },
+  {
+   "t0": 605.037,
+   "t1": 605.744,
+   "txt": "The fish swim"
+  },
+  {
+   "t0": 605.744,
+   "t1": 606.397,
+   "txt": "in the space"
+  },
+  {
+   "t0": 606.397,
+   "t1": 607.267,
+   "txt": "around its front"
+  },
+  {
+   "t0": 607.267,
+   "t1": 607.811,
+   "txt": "and sides."
+  },
+  {
+   "t0": 608.162,
+   "t1": 609.007,
+   "txt": "And the patent"
+  },
+  {
+   "t0": 609.007,
+   "t1": 609.852,
+   "txt": "spells it out:"
+  },
+  {
+   "t0": 609.852,
+   "t1": 610.576,
+   "txt": "The front of"
+  },
+  {
+   "t0": 610.576,
+   "t1": 611.482,
+   "txt": "the toilet tank"
+  },
+  {
+   "t0": 611.482,
+   "t1": 612.749,
+   "txt": "assembly is generally"
+  },
+  {
+   "t0": 612.749,
+   "t1": 613.474,
+   "txt": "transparent."
+  },
+  {
+   "t0": 613.825,
+   "t1": 614.739,
+   "txt": "The flush handle"
+  },
+  {
+   "t0": 614.739,
+   "t1": 615.425,
+   "txt": "still works."
+  },
+  {
+   "t0": 615.705,
+   "t1": 616.349,
+   "txt": "The lid has"
+  },
+  {
+   "t0": 616.349,
+   "t1": 617.051,
+   "txt": "a light that"
+  },
+  {
+   "t0": 617.051,
+   "t1": 617.93,
+   "txt": "shines into the"
+  },
+  {
+   "t0": 617.93,
+   "t1": 618.457,
+   "txt": "aquarium."
+  },
+  {
+   "t0": 618.737,
+   "t1": 619.747,
+   "txt": "And a compartment"
+  },
+  {
+   "t0": 619.747,
+   "t1": 620.757,
+   "txt": "which is designed"
+  },
+  {
+   "t0": 620.757,
+   "t1": 621.768,
+   "txt": "for storing items"
+  },
+  {
+   "t0": 621.768,
+   "t1": 622.718,
+   "txt": "such as aquarium"
+  },
+  {
+   "t0": 622.718,
+   "t1": 623.729,
+   "txt": "supplies therein."
+  },
+  {
+   "t0": 624.08,
+   "t1": 624.649,
+   "txt": "The goal:"
+  },
+  {
+   "t0": 624.649,
+   "t1": 625.408,
+   "txt": "a new toilet"
+  },
+  {
+   "t0": 625.408,
+   "t1": 626.799,
+   "txt": "tank assembly aquarium"
+  },
+  {
+   "t0": 626.799,
+   "t1": 627.747,
+   "txt": "that helps make"
+  },
+  {
+   "t0": 627.747,
+   "t1": 628.696,
+   "txt": "a bathroom more"
+  },
+  {
+   "t0": 628.696,
+   "t1": 629.392,
+   "txt": "attractive."
+  },
+  {
+   "t0": 629.743,
+   "t1": 630.639,
+   "txt": "No fish?"
+  },
+  {
+   "t0": 630.919,
+   "t1": 631.9,
+   "txt": "No problem."
+  },
+  {
+   "t0": 632.18,
+   "t1": 633.0,
+   "txt": "A new toilet"
+  },
+  {
+   "t0": 633.0,
+   "t1": 634.503,
+   "txt": "tank assembly aquarium"
+  },
+  {
+   "t0": 634.503,
+   "t1": 635.391,
+   "txt": "that can also"
+  },
+  {
+   "t0": 635.391,
+   "t1": 636.075,
+   "txt": "be used as"
+  },
+  {
+   "t0": 636.075,
+   "t1": 636.895,
+   "txt": "a terrarium."
+  },
+  {
+   "t0": 637.246,
+   "t1": 638.444,
+   "txt": "In another version,"
+  },
+  {
+   "t0": 638.444,
+   "t1": 639.642,
+   "txt": "a separate aquarium"
+  },
+  {
+   "t0": 639.642,
+   "t1": 640.336,
+   "txt": "sits on top"
+  },
+  {
+   "t0": 640.336,
+   "t1": 641.029,
+   "txt": "of the tank"
+  },
+  {
+   "t0": 641.029,
+   "t1": 641.534,
+   "txt": "instead."
+  },
+  {
+   "t0": 641.885,
+   "t1": 642.81,
+   "txt": "And how exactly"
+  },
+  {
+   "t0": 642.81,
+   "t1": 643.428,
+   "txt": "do you use"
+  },
+  {
+   "t0": 643.428,
+   "t1": 643.613,
+   "txt": "it?"
+  },
+  {
+   "t0": 643.893,
+   "t1": 644.702,
+   "txt": "The patent keeps"
+  },
+  {
+   "t0": 644.702,
+   "t1": 645.258,
+   "txt": "that short."
+  },
+  {
+   "t0": 645.538,
+   "t1": 646.306,
+   "txt": "Accordingly,"
+  },
+  {
+   "t0": 646.306,
+   "t1": 647.65,
+   "txt": "no further discussion"
+  },
+  {
+   "t0": 647.65,
+   "t1": 648.61,
+   "txt": "relating to the"
+  },
+  {
+   "t0": 648.61,
+   "t1": 649.57,
+   "txt": "manner of usage"
+  },
+  {
+   "t0": 649.57,
+   "t1": 650.722,
+   "txt": "and operation will"
+  },
+  {
+   "t0": 650.722,
+   "t1": 651.49,
+   "txt": "be provided."
+  },
+  {
+   "t0": 651.841,
+   "t1": 652.716,
+   "txt": "A toilet."
+  },
+  {
+   "t0": 653.216,
+   "t1": 654.09,
+   "txt": "With fish."
+  },
+  {
+   "t0": 654.59,
+   "t1": 655.216,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 655.216,
+   "t1": 657.3,
+   "txt": "November nineteen ninety-nine."
+  },
+  {
+   "t0": 657.751,
+   "t1": 658.362,
+   "txt": "So that is"
+  },
+  {
+   "t0": 658.362,
+   "t1": 659.095,
+   "txt": "the ranking."
+  },
+  {
+   "t0": 659.495,
+   "t1": 660.578,
+   "txt": "But which bathroom"
+  },
+  {
+   "t0": 660.578,
+   "t1": 661.361,
+   "txt": "patent is the"
+  },
+  {
+   "t0": 661.361,
+   "t1": 662.204,
+   "txt": "most approved?"
+  },
+  {
+   "t0": 662.755,
+   "t1": 663.582,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 663.582,
+   "t1": 664.462,
+   "txt": "the toilet table."
+  },
+  {
+   "t0": 664.742,
+   "t1": 665.509,
+   "txt": "Because it is"
+  },
+  {
+   "t0": 665.509,
+   "t1": 666.395,
+   "txt": "the only patent"
+  },
+  {
+   "t0": 666.395,
+   "t1": 667.222,
+   "txt": "here that gave"
+  },
+  {
+   "t0": 667.222,
+   "t1": 668.108,
+   "txt": "the toilet seat"
+  },
+  {
+   "t0": 668.108,
+   "t1": 668.816,
+   "txt": "a promotion."
+  },
+  {
+   "t0": 669.167,
+   "t1": 669.999,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 669.999,
+   "t1": 670.772,
+   "txt": "this video is"
+  },
+  {
+   "t0": 670.772,
+   "t1": 671.544,
+   "txt": "word for word"
+  },
+  {
+   "t0": 671.544,
+   "t1": 672.495,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 672.775,
+   "t1": 673.595,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 673.595,
+   "t1": 674.634,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 674.634,
+   "t1": 675.181,
+   "txt": "so you can"
+  },
+  {
+   "t0": 675.181,
+   "t1": 676.274,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 676.625,
+   "t1": 677.686,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 677.686,
+   "t1": 678.31,
+   "txt": "every day."
+  },
+  {
+   "t0": 678.59,
+   "t1": 679.162,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 679.162,
+   "t1": 680.019,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 680.019,
+   "t1": 680.19,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 8.808
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 15.879
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 19.381
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 37.532
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 40.958
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 47.37
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 54.124
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 60.192
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 67.799
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 72.182
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 79.744
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 85.824
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 89.271
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 94.382
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 99.706
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 108.615
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 114.384
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 121.629
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 125.396
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 130.741
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 134.679
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 141.902
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 148.762
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 156.692
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 165.003
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 172.29
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 177.358
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 183.512
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 188.026
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 191.259
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 200.018
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 206.604
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 212.118
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 219.874
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 224.001
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 228.363
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 236.543
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 244.339
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 250.057
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 252.757
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 263.583
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 272.454
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 277.352
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 283.868
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 294.419
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 299.591
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 310.825
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 317.801
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 320.672
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 324.004
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 329.176
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 338.981
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 343.449
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 351.12
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 357.85
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 367.91
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 376.52
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 382.515
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 385.898
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 393.611
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 401.05
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 410.428
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 421.0
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 431.877
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 440.166
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 448.437
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 456.035
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 462.606
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 465.669
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 471.06
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 477.534
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 487.431
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 494.204
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 501.745
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 509.437
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 517.537
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 528.064
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 533.282
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 536.196
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 541.163
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 549.664
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 557.121
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 561.227
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 568.794
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 577.06
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 582.811
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 588.742
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 592.445
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 597.086
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 602.901
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 608.162
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 613.825
+  },
+  {
+   "f": "vo/094.wav",
+   "t": 624.08
+  },
+  {
+   "f": "vo/095.wav",
+   "t": 629.743
+  },
+  {
+   "f": "vo/096.wav",
+   "t": 637.246
+  },
+  {
+   "f": "vo/097.wav",
+   "t": 641.885
+  },
+  {
+   "f": "vo/098.wav",
+   "t": 651.841
+  },
+  {
+   "f": "vo/099.wav",
+   "t": 657.751
+  },
+  {
+   "f": "vo/100.wav",
+   "t": 662.755
+  },
+  {
+   "f": "vo/101.wav",
+   "t": 669.167
+  },
+  {
+   "f": "vo/102.wav",
+   "t": 676.625
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": "",
+ "tt": false
+}

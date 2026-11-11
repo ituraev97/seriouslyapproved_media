@@ -1,0 +1,192 @@
+4,790,036
+
+7
+
+is filled up again. A power generator 13, in this example
+a low-voltage direct-current generator, is mechanically
+connected to the water turbine 11 by a shaft 14. Con-
+nected to the flushing valve 4 is a flusing water pipe 15,
+which is used for the known flushing. Underneath the
+flushing water cistern 1, a mounting plate 16 is arranged
+in the horizontal position. Fastened onto this mounting
+plate 16 are, amongst others, the control electronics 17
+in a housing. Parallel swivel arms 18 are driven by an
+electric motor 19, and are held rotatably in a holder 20.
+The outer ends of the parallel swivel arms 18 carry a
+frame 21, in which one end of a helical spring 22 is
+fastened. Also fastened on the mounting plate 16 is a
+tank 23 which holds disinfecting liquid. This tank is
+provided with a closure 24, which may possibly be in
+the form of a pump valve, in which case no propellant
+gas is required for the tank 23. Solidly connected to the
+frame 21 is a pair of slide rails 25. A slide housing 26
+moves along these slide rails 25. The seat has been given
+the reference numeral 27. Provided on the mounting
+plate 16 is a protective housing 28, in which the drive
+and braking elements of the seat 27 are arranged, which
+will be described further on. Two electric motors 29 are
+provided to drive the seat 27. During the cleaning, the
+seat 27 moves in the direction R. The electric motors 29
+are provided with gearwheels 30, which engage in a
+rack 31 provided circularly in the bottom surface of the
+seat 27. Underneath the seat 27, a known toilet bowl 32
+is provided. It speaks for itself that the illustrated parts,
+such as the control electronics 17, the swivel arms 18,
+the frame 21, and the helical spring 22 including the
+tank 23, are covered by a non-illustrated housing, so as
+to prevent possible damage by vandalism or injuries to
+curious users.
+
+The section of FIG. 2 through part of the seat 27 and
+the electric motor 29, shows the drive and the fixing of
+the seat 27 in greater detail. The seat 27 has a widened
+part 27’ and an annular contact strip 27”. The protective
+housing 28 is also provided with contact strips 28’,
+which correspond to the contact strips 27” of the seat
+27, and, when the seat 27 is occupied, these contacts
+make contact with one another so as to prevent a possi-
+ble rotating of the seat 27. FIG. 2 shows the seat when
+not occupied. This means that these contact strips 27”
+and 28’ are not in contact. The seat 27 is raised by an
+elastic ring 34, which in turn rests on a rubber ring 35.
+To facilitate the rotating of the seat 27, a number of steel
+balls are provided, which are held in a bearing ring 37.
+The electric motor 29 has an elastic support 33, which
+permits a tilting of the axis of the electric motor. 29
+when the seat 27 is occupied. This measure is necessary,
+since the seat 27 is driven by the gearwheel 30 of the
+electric motor 29 by way of the rack 31 in the bottom
+surface of the seat 27. Between the widened part 27’ of
+the seat and the mounting 40 in the bottom part of the
+protective housing 28, two diagrammatically illustrated
+switches 38, 39 are provided, of which, for example, in
+the open position the top switch 38 signals the unoccu-
+pied position of the seat, and the bottom switch 39 the
+fact that the seat 27 has been tilted up.
+
+According to FIG. 3, the pipe 41 of the disinfecting
+liquid is provided with a valve 43, and the pipe 10 of the
+cleaning water with a valve 42. The slide rails 25 are
+held in rollers 44 arranged in pairs. The rollers 44 are
+mounted rotatably on shafts 45, which are fastened in
+the side walls of the slide housing 26. A nozzle unit 46
+is destined for spraying the water, and another nozzle
+unit 47 for spraying the disinfecting liquid. A wiper 48
+
+10
+
+15
+
+20
+
+25
+
+35
+
+40
+
+45
+
+30
+
+35
+
+60
+
+65
+
+8
+
+is held in a carrier 49, which is connected to the slide
+
+housing 26. This mechanical wiper 48 may also be re-
+
+placed by a drying air current or a current of hot air.
+
+This further possibility is expedient when an air current
+
+or hot current source is already provided in the toilet
+
+for another hygiene device. A wiper 48' extending in a
+
+direction perpendicular to the wiper 48 (FIG. 4) is also
+
+fastened in the slide housing 26 into the neutral position.
+
+In the bottom part of the slide housing 26 vertical-axis
+
+support rollers 50 are fastened, which during the rotat-
+
+ing of the seat 27 are in contact with the inner edge of
+the seat 27’. The shafts of the support rollers 50 have
+
+been given the reference numeral 51.
+
+FIG. 4 shows a section through the device according
+to the invention in the area of the cleaning agent. In a
+rear parallel swivel arm 18 a contact plate 52 is pro-
+vided, which during the cleaning phases presses a con-
+trol pin 53 downward, and by doing so opens the valve
+43 for the disinfecting liquid. The other valve 42 for the
+cleaning water cannot be seen in this sectional view.
+
+The parallel swivel arms 18 are mounted with the aid
+of rotating pins 54. The nozzle unit 47 for spraying the
+liquid comprises two nozzles 55, which spray two jets
+56 of liquid.
+
+The mode of functioning of the device will now be
+described in detail, with reference to FIGS. 5, as indi-
+vidual operating stages I to XI of the method. In FIG.
+5 individual parts have been given the same reference
+numerals used in the foregoing. The only additional
+part shown is a drain 57 from the cistern 32.
+
+Stage I By means of the lever 2 of the flushing water
+toilet bowl 1, the flushing valve 4 is opened, and
+water flows through the flushing water pipe 15 into
+the toilet bow! 32 and away through the drain 57.
+
+Stage II The flushing water cistern 1 becomes empty,
+and the float 6 sinks downward.
+
+Stage III The lever 6’ of the float 6 now opens the valve
+7, and water starts to flow into the flushing water
+cistern 1. .
+
+Stage IV The water flows through the feed pipe 12 and
+the turbine 11, which by way of the shaft 14 drives
+the low-voltage directcurrent generator.
+
+Stage V The low-voltage direct-current generator 13
+supplies the current for the control electronics 17.
+Stage VI The contact pairs 38, 39 supply information to
+the control electronics 17 about the position of the
+
+seat.
+
+Stage VII The control electronics 17 process the infor-
+mation from Stage VI and switch on the electric
+motor 19.
+
+Stage VIII The electric motor 19 moves the slide hous-
+ing 26 over a pair of the seat 27.
+
+Stage IX When doing so, together with the slide hous-
+ing, also the valves 42, 43 are actuated, and the water
+and/or the disinfecting liquid spray onto the surface
+of the seat 27.
+
+Stage X The control electronics 17 switch on the elec-
+tric motors 29, which drive the seat 27 in the direc-
+tion of rotation R(see FIG. 1). During the rotating of
+the seat 27, also the wiper 48 is in operation and dries
+the surface of the seat 27.
+
+Stage XI After the seat 27 has been rotated during the
+cleaning by 360°, the control electronics 17 pull the
+slide housing 26 backwards away from the seat 27,
+when the last part of the seat surface is dried by the
+second wiper 48’. At the same time also the two
+valves 42, 43 for the water and the disinfecting liquid
+are closed and the cleaning cycle has ended.

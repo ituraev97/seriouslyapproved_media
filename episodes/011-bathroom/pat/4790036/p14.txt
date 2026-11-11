@@ -1,0 +1,192 @@
+4,790,036
+
+15
+
+said first motor means and said second motor
+means;
+
+control electronics means, operably connected to said
+first motor means, said second motor means and
+said power supply means, for controlling the distri-
+bution of power from said power supply means to
+said first motor means and said second motor
+means;
+
+whereby upon movement of said manually actuable
+lever from said valve closed position to said valve
+open position, said water in said flush water cistern
+is released into said toilet bowl and said first valve
+means opens to allow water to flow into said flush
+water cistern through said water inlet pipe and said
+power supply means provides power to said con-
+trol electronics means and said control electronics
+means causes said first motor means to move said
+slide housing means from said neutral position into
+said operative position and said spray means ap-
+plies said cleaning liquid to said toilet seat, while
+also causing said second motor means to rotate said
+toilet seat through at least 360° while said drying
+means dries said toilet seat after application of said
+cleaning liquid.
+
+11. The toilet according to claim 10, wherein said
+
+spray means includes tank means for containing said 25
+
+cleaning liquid.
+
+12. The toilet according to claim 10, wherein said
+mounting means comprises a compressable elastic ring
+connected to said toilet bowi and a plurality of rotatable
+steel balls connected to a bottom surface of said toilet
+seat, said compressible elastic ring engagingly receiv-
+able of said plurality of steel balls.
+
+13. The toilet according to claim 10, wherein said
+spray means comprises a sponge insert member covered
+with a liquid-permeable material cover engagingly con-
+tactable with said toilet seat when said slide housing
+means is in said operative position, said sponge insert
+being fluidically connected to a source of cleaning liq-
+uid and permeated with cleaning liquid therefrom.
+
+14. The toilet according to claim 10, wherein said
+control electronics means includes first motor control
+means for connecting said power supply means to said
+first motor means comprising: forward logic means for
+
+controlling said first motor means to move said slide
+housing means from said neutral position to said opera-
+tive position; forward power stage means, operably
+connected to said forward logic means, for controlling
+the amount of power supplied to said first motor means;
+backward logic means for controlling said first motor
+means to move said slide housing from said operative
+position to said neutral position; and backward power
+stage means, operably connected to said backward logic
+means, for controlling the amount of power supplied to
+said first motor means.
+
+15. The toilet according to claim 14, wherein said
+forward power stage means comprises a first forward
+sub- stage for supplying full power to said first motor
+means and a second forward substage for supplying
+partial power to said first motor means; and said back-
+ward power stage means comprises a first backward
+substage for supplying full power to said first motor
+means and a second backward substage for supplying
+partial power to said first motor means.
+
+16. The toilet according to claim 10, wherein said
+control electronics means includes second motor con-
+trol means for connecting said power supply means to
+said second motor means, said second motor means
+comprising: control logic means for controlling said
+second motor means to cause the rotation of said toilet
+
+30
+
+35
+
+40
+
+45
+
+60
+
+65
+
+16
+
+seat; and amplifier stage means, operably connected to
+said control logic means, for controlling the amount of
+power supplied to said second motor means.
+
+17. In a method for automatically cleaning a toilet
+seat, wherein said toilet seat, during said cleaning, is
+moved in a circumferential direction, and is cleaned
+with a cleaning liquid, the improvement comprising
+providing slide housing means for housing means for
+applying said cleaning liquid to said toilet seat and dry-
+ing means for drying said toilet seat, said slide housing
+means being slidingly movable from a neutral position
+outside said toilet seat to an operative position above a
+segment of said toilet seat, said cleaning liquid being
+applied to said toilet seat when said slide housing means
+is in said operative position, said toilet seat being rotat-
+able by at least 360°, to facilitate cleaning and drying of
+said toilet seat.
+
+18. A method according to claim 17, wherein said
+slide housing means is slidingly movable between said
+neutral position and said operative position in a gener-
+ally horizontal direction.
+
+19. A device suitable for automatically cleaning a
+substantially ring-shaped toilet seat, comprising:
+
+mounting means for mounting said toilet seat on a
+
+toilet bowi for relative rotation therebetween in a
+circumferential direction;
+
+spray means for applying a cleaning liquid to said
+
+toilet seat;
+
+slide housing means for housing said spray means,
+
+said slide housing means being slidingly movable
+between a neutral position adjacent said toilet seat
+and an operative position disposed above a segment
+of said toilet seat, said cleaning liquid beign spraya-
+ble by said spray means onto said toilet seat when
+said slide housing means is in said operative posi-
+tion;
+
+drying means for drying said toilet seat after applica-
+
+tion of said cleaning liquid;
+
+first motor means, responsive to a power input, for
+
+moving said slide housing means between said neu-
+tral position and said operative position;
+
+second motor means, responsive to a power input, for
+
+rotating said toilet seat in said circumferential di-
+rection, relative to said toilet bowl;
+
+power supply means, responsive to actuation of a
+
+manually actuable lever, for providing power to
+said first motor means and said second motor
+means;
+
+control electronics means, operably connected to said
+
+first motor means, said second motor means and
+said power supply means, for controlling the distri-
+bution of power from said power supply means to
+said first motor means and said second motor
+means, actuation of said power supply means pro-
+viding power to said control electronics means to
+cause said first motor means to slidingly move said
+slide housing means from said neutral position into
+said operative position and said spray means to
+apply said cleaning liquid to said toilet seat, while
+also causing said second motor means to rotate said
+toilet seat through at least 360° while said drying
+means dries said toilet seat after application of said
+cleaning liquid.
+
+20. A device according to claim 19, wherein said slide
+housing means is positioned slidingly on slide rails, and
+is urged towards said neutral position by a helical
+spring.
+
+21. A device according to claim 19, wherein said slide
+
+housing means includes support roller
+* * * * *

@@ -1,0 +1,185 @@
+5,926,099
+
+7
+
+module circuit board 22 in proximity to position-sensitive
+switch 40 when the electronic toilet lid position signal is
+pivoted from a horizontal to a vertical position.
+
+Base 50 in the preferred embodiment is made of com-
+monly available plastic sheeting made of PVC or R-PET.
+However, the base could also be made of other common
+non-conductive material such as paper, cardboard, wood, or
+fiberboard for example.
+
+Signaling module circuit board 22 commonly contains
+contacts 26A and 26B electrically connected to battery 24 as
+an electrical power source. Transducer 30 is connected to
+signaling module circuit board 22 by electrical conductors
+36.
+
+When circuit board 22 is used in a greeting card and the
+greeting card is closed, a thin electrical insulating material
+is inserted between contacts 26A and 26B opening the
+otherwise normally closed contacts. The insulating material
+is withdrawn from between contacts 26A and 26B when the
+greeting card is opened and the contacts close an electrical
+circuit that activates the electronic signaling module. The
+electronic signaling module is deactivated when closing the
+greeting card causes the reinsertion of the insulating material
+between contacts 26A and 26B.
+
+Contacts 26A and 26B are normally closed in a greeting
+card style of electronic signaling module. Contact 26B is at
+the end of contact arm 28 which is commonly an integral
+part of circuit board 22. Contact arm 25 is bent to make
+contacts 26A and 26B open. A position-sensitive switch 40
+electrically bridges the opened contacts 26A and 26B.
+
+Position-sensitive switch 40 comprises a flexible,
+electrically-conductive cantilever support means 70, a
+weight 60 attached 56B to the unsupported end of cantilever
+support means 70, and a pair of open contacts 26A and 26B
+that are an integral part of electronic signaling module
+circuit board 22. The fixed end of cantilever 70 is mounted
+by means 56G to electronic signaling module circuit board
+22.
+
+FIG. 2B is a side view of the toilet lid position switch of
+FIG. 2A as seen from the left side of the plan view in FIG.
+2A when the toilet lid position signal is in a vertical or a
+raised position. Under the influence of gravity, electrically
+conductive delivery means 70 bridges gap between contacts
+26A and 26B thereby closing an electrical circuit 44 causing
+the toilet lid position signal to be activated.
+
+The electronic signaling module circuit board 22 and
+transducer 30, are mounted on base 50 by attaching means
+56A. Attaching means 56A may be adhesive tape of the
+common type however hook and loop closure tape, glue, etc.
+can be used for example.
+
+Base 50 is provided with means 56D for attaching base 50
+to the toilet lid at a location which facilitates closing of
+position-sensitive switch 40 when the toilet lid is raised to a
+vertical position. In this embodiment, the means 56D for
+attaching base 50, to an object is double-sided adhesive
+mounting tape of the common type. However, the attach-
+ment means may be any one of a multitude of types of
+materials, such as for example, hook and loop fastener, or
+glue.
+
+In FIGS. 2A and 2B weight means 60 is formed of suitable
+material the only requirement being that the weight be of
+sufficient mechanical strength, size, conductivity, and
+weight to facilitate contact with contact regions 26A and
+26B when electronic toilet lid position signal is in a vertical
+position.
+
+Weight means 60 can be any suitable material of a
+common type such as a screw, nail, metal ball, solder bead,
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+8
+
+or split shot sinker for example. In the embodiment shown
+in FIGS. 2A and 2B, a #1 brass screw of the common type
+is utilized as a weight means 60.
+
+Delivery means 70 can be any suitable conductive flexible
+material of a common type such as a compression spring,
+extension spring, coil spring, wire, or metal strip. In FIGS.
+2A and 2B, an electrically conductive coiled wire spring of
+the common type is utilized as delivery means 70.
+
+Weight means 60 is arranged and attached 56B to delivery
+means 70 as arranged and attached 56C to a location on
+circuit board 22 which enables delivery means 70 to be in
+proximity with contacts 26A and 26B and closes gap to
+complete circuit 44 when the toilet lid position signal is in
+a vertical position.
+
+The preferred attaching means 56B of weight means 60 to
+delivery means 70 is insertion whereby screw 60 is inserted
+into the distal end of spring 70.
+
+The preferred attaching means 56C of delivery means 70
+to a location on electronic signaling module circuit board 22
+is an adhesive of the common type where one end of spring
+70 is attached to contact arm 28 and aligned with stationary
+contact region 26B of circuit board 22 with adhesive tape.
+
+Raising the lid to a vertical position results in delivery
+means 70 bridging contacts 26A and 26B which closes the
+switch. This results in activation of the toilet lid position
+signal.
+
+Position-sensitive switch 40 opens circuit 42 by delivery
+means 70 moving away from contacts 26A and Z6B when
+electronic toilet lid position signal is in a horizontal position.
+This causes the toilet lid position signal to be deactivated.
+
+Thus switch 40 opens circuit 42 when electronic toilet lid
+position signal is in a horizontal position but closes circuit
+44 to conduct current when electronic toilet lid position
+signal is in a vertical position.
+
+DESCRIPTION, FIGS. 3A and 3B
+
+FIGS. 3A and 3B are views of electronic toilet lid position
+signal of FIGS. 2A and 2B with a second embodiment of
+gravity-actuated position-sensitive switch 40.
+
+FIG. 3A shows a plan view of the electronic toilet lid
+position signal with position-sensitive switch 40 in an open
+42 circuit condition. Position-sensitive switch 40 has a
+pendulum structure comprising an electrically-conductive
+weight 60, a flexible means of support 70 to the free end of
+which weight 60 is attached, and a pair of open contacts 26A
+and 26B that are an integral part of electronic module circuit
+board 22. The fixed end of support means 70 is attached to
+base 50.
+
+FIG. 3B is a left side view of FIG. 3A with position-
+sensitive switch 40 in a closed circuit condition.
+
+Position-sensitive switch 40 is a pendulum type gravity-
+actuated switch comprising contacts 26A and 26B on elec-
+tronic signaling module circuit board 22. The toilet lid
+position signal is activated when electrically-conductive
+weight means 60 on delivery means 70 bridges contacts 26A
+and 26B.
+
+Electronic module circuit board 22 with contacts 26A and
+26B is mounted 56A on base 50 in proximity to and in the
+path of movement of pendulum weight means 60 when
+electronic toilet lid position signal is in a vertical position.
+
+As shown in FIG. 3B, switch 40 is in a closed condition
+44 to conduct current between contacts 26A and 26B when
+electronic toilet lid position signal is in a vertical position
+causing weight means 60 to bridge contact regions 26A and
+26B.

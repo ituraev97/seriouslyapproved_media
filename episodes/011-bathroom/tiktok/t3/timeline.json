@@ -1,0 +1,670 @@
+{
+ "T": 77.97,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.198,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.758
+    ],
+    [
+     2.258,
+     4.285
+    ],
+    [
+     4.785,
+     6.747
+    ]
+   ],
+   "g": "fig",
+   "fig": "lid1",
+   "figno": "1C",
+   "draw": false,
+   "calls": [
+    [
+     "THE DEVICE",
+     204,
+     400,
+     -60,
+     -120
+    ],
+    [
+     "THE MUSIC",
+     88,
+     446,
+     40,
+     110
+    ]
+   ]
+  },
+  {
+   "t0": 7.198,
+   "t1": 13.949,
+   "i": 1,
+   "segs": [
+    [
+     7.198,
+     13.598
+    ]
+   ],
+   "g": "quote",
+   "q": "Toilet lids are often left in the open position through carelessness or inadvertence.",
+   "hit": "carelessness or inadvertence",
+   "src": "US 5,926,099 \u00b7 description"
+  },
+  {
+   "t0": 13.949,
+   "t1": 17.174,
+   "i": 2,
+   "segs": [
+    [
+     13.949,
+     14.781
+    ],
+    [
+     15.201,
+     16.673
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOILET LID|POSITION SIGNAL",
+   "filed": "DEC. 8, 1997",
+   "date": "JULY 20, 1999",
+   "at": 0.6
+  },
+  {
+   "t0": 17.174,
+   "t1": 25.912,
+   "i": 3,
+   "segs": [
+    [
+     17.174,
+     18.028
+    ],
+    [
+     18.308,
+     25.561
+    ]
+   ],
+   "g": "quote",
+   "q": "In the preferred embodiment, a greeting card style electronic music, sound, and blinking light module is used.",
+   "hit": "greeting card style",
+   "src": "US 5,926,099 \u00b7 description"
+  },
+  {
+   "t0": 25.912,
+   "t1": 36.484,
+   "i": 4,
+   "segs": [
+    [
+     25.912,
+     27.384
+    ],
+    [
+     27.664,
+     36.133
+    ]
+   ],
+   "g": "quote",
+   "q": "Prior solutions suggest signal devices that produce unpleasant shrill beeps, buzzes, and flashing lights that discourage their use.",
+   "hit": "unpleasant shrill beeps",
+   "src": "US 5,926,099 \u00b7 description"
+  },
+  {
+   "t0": 36.484,
+   "t1": 47.361,
+   "i": 5,
+   "segs": [
+    [
+     36.484,
+     38.682
+    ],
+    [
+     38.962,
+     39.708
+    ],
+    [
+     39.988,
+     43.444
+    ],
+    [
+     43.724,
+     47.01
+    ]
+   ],
+   "g": "fig",
+   "fig": "lid3",
+   "figno": "3A",
+   "calls": [
+    [
+     "FISHING SINKER",
+     204,
+     223,
+     140,
+     -40
+    ],
+    [
+     "NYLON LINE",
+     277,
+     154,
+     140,
+     -90
+    ],
+    [
+     "CONTACTS",
+     223,
+     296,
+     150,
+     50
+    ]
+   ]
+  },
+  {
+   "t0": 47.361,
+   "t1": 55.65,
+   "i": 6,
+   "segs": [
+    [
+     47.361,
+     48.854
+    ],
+    [
+     49.134,
+     55.299
+    ]
+   ],
+   "g": "quote",
+   "q": "a size 3/0 split shot sinker of the common type is utilized as a conductive weight means 60.",
+   "hit": "split shot sinker",
+   "src": "US 5,926,099 \u00b7 description"
+  },
+  {
+   "t0": 55.65,
+   "t1": 63.921,
+   "i": 7,
+   "segs": [
+    [
+     55.65,
+     57.442
+    ],
+    [
+     57.722,
+     60.965
+    ],
+    [
+     61.245,
+     63.57
+    ]
+   ],
+   "g": "quote",
+   "q": "bird-shaped housing with module making bird sounds, a \"fisherman\" model with line and sinker",
+   "hit": "bird sounds",
+   "src": "US 5,926,099 \u00b7 description"
+  },
+  {
+   "t0": 63.921,
+   "t1": 70.687,
+   "i": 8,
+   "segs": [
+    [
+     63.921,
+     70.236
+    ]
+   ],
+   "g": "quote",
+   "q": "conditioning persons who use the toilet to lower the toilet seat or cover after use",
+   "hit": "conditioning persons",
+   "src": "US 5,926,099 \u00b7 description"
+  },
+  {
+   "t0": 70.687,
+   "t1": 77.97,
+   "i": 9,
+   "segs": [
+    [
+     70.687,
+     71.882
+    ],
+    [
+     72.382,
+     73.747
+    ],
+    [
+     74.247,
+     75.122
+    ]
+   ],
+   "g": "stamp",
+   "title": "TOILET LID|POSITION SIGNAL",
+   "filed": "DEC. 8, 1997",
+   "date": "JULY 20, 1999",
+   "big": true,
+   "at": 1.2
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.953,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.953,
+   "t1": 1.758,
+   "txt": "real patent."
+  },
+  {
+   "t0": 2.258,
+   "t1": 3.018,
+   "txt": "A little box"
+  },
+  {
+   "t0": 3.018,
+   "t1": 4.031,
+   "txt": "under the toilet"
+  },
+  {
+   "t0": 4.031,
+   "t1": 4.285,
+   "txt": "lid."
+  },
+  {
+   "t0": 4.785,
+   "t1": 5.608,
+   "txt": "Lift the lid,"
+  },
+  {
+   "t0": 5.608,
+   "t1": 6.367,
+   "txt": "and it plays"
+  },
+  {
+   "t0": 6.367,
+   "t1": 6.747,
+   "txt": "music."
+  },
+  {
+   "t0": 7.198,
+   "t1": 7.726,
+   "txt": "Because,"
+  },
+  {
+   "t0": 7.726,
+   "t1": 8.254,
+   "txt": "it says,"
+  },
+  {
+   "t0": 8.254,
+   "t1": 9.244,
+   "txt": "toilet lids are"
+  },
+  {
+   "t0": 9.244,
+   "t1": 10.101,
+   "txt": "often left in"
+  },
+  {
+   "t0": 10.101,
+   "t1": 11.223,
+   "txt": "the open position"
+  },
+  {
+   "t0": 11.223,
+   "t1": 12.741,
+   "txt": "through carelessness or"
+  },
+  {
+   "t0": 12.741,
+   "t1": 13.598,
+   "txt": "inadvertence."
+  },
+  {
+   "t0": 13.949,
+   "t1": 14.781,
+   "txt": "Approved."
+  },
+  {
+   "t0": 15.201,
+   "t1": 16.673,
+   "txt": "Nineteen ninety-nine."
+  },
+  {
+   "t0": 17.174,
+   "t1": 18.028,
+   "txt": "The music?"
+  },
+  {
+   "t0": 18.308,
+   "t1": 19.424,
+   "txt": "In the preferred"
+  },
+  {
+   "t0": 19.424,
+   "t1": 20.191,
+   "txt": "embodiment,"
+  },
+  {
+   "t0": 20.191,
+   "t1": 21.237,
+   "txt": "a greeting card"
+  },
+  {
+   "t0": 21.237,
+   "t1": 22.841,
+   "txt": "style electronic music,"
+  },
+  {
+   "t0": 22.841,
+   "t1": 23.259,
+   "txt": "sound,"
+  },
+  {
+   "t0": 23.259,
+   "t1": 24.515,
+   "txt": "and blinking light"
+  },
+  {
+   "t0": 24.515,
+   "t1": 25.561,
+   "txt": "module is used."
+  },
+  {
+   "t0": 25.912,
+   "t1": 26.488,
+   "txt": "Why not a"
+  },
+  {
+   "t0": 26.488,
+   "t1": 27.384,
+   "txt": "simple buzzer?"
+  },
+  {
+   "t0": 27.664,
+   "t1": 29.235,
+   "txt": "Prior solutions suggest"
+  },
+  {
+   "t0": 29.235,
+   "t1": 30.533,
+   "txt": "signal devices that"
+  },
+  {
+   "t0": 30.533,
+   "t1": 32.24,
+   "txt": "produce unpleasant shrill"
+  },
+  {
+   "t0": 32.24,
+   "t1": 32.65,
+   "txt": "beeps,"
+  },
+  {
+   "t0": 32.65,
+   "t1": 33.128,
+   "txt": "buzzes,"
+  },
+  {
+   "t0": 33.128,
+   "t1": 34.426,
+   "txt": "and flashing lights"
+  },
+  {
+   "t0": 34.426,
+   "t1": 35.86,
+   "txt": "that discourage their"
+  },
+  {
+   "t0": 35.86,
+   "t1": 36.133,
+   "txt": "use."
+  },
+  {
+   "t0": 36.484,
+   "t1": 37.156,
+   "txt": "So how does"
+  },
+  {
+   "t0": 37.156,
+   "t1": 37.888,
+   "txt": "the box know"
+  },
+  {
+   "t0": 37.888,
+   "t1": 38.499,
+   "txt": "the lid is"
+  },
+  {
+   "t0": 38.499,
+   "t1": 38.682,
+   "txt": "up?"
+  },
+  {
+   "t0": 38.962,
+   "t1": 39.708,
+   "txt": "Gravity."
+  },
+  {
+   "t0": 39.988,
+   "t1": 40.985,
+   "txt": "In one version,"
+  },
+  {
+   "t0": 40.985,
+   "t1": 42.049,
+   "txt": "a fishing sinker"
+  },
+  {
+   "t0": 42.049,
+   "t1": 42.713,
+   "txt": "hangs on a"
+  },
+  {
+   "t0": 42.713,
+   "t1": 43.444,
+   "txt": "nylon line."
+  },
+  {
+   "t0": 43.724,
+   "t1": 44.562,
+   "txt": "Tilt the box,"
+  },
+  {
+   "t0": 44.562,
+   "t1": 45.464,
+   "txt": "and the sinker"
+  },
+  {
+   "t0": 45.464,
+   "t1": 46.43,
+   "txt": "swings onto the"
+  },
+  {
+   "t0": 46.43,
+   "t1": 47.01,
+   "txt": "contacts."
+  },
+  {
+   "t0": 47.361,
+   "t1": 48.294,
+   "txt": "The patent gets"
+  },
+  {
+   "t0": 48.294,
+   "t1": 48.854,
+   "txt": "specific."
+  },
+  {
+   "t0": 49.134,
+   "t1": 50.34,
+   "txt": "A size three-aught"
+  },
+  {
+   "t0": 50.34,
+   "t1": 51.48,
+   "txt": "split shot sinker"
+  },
+  {
+   "t0": 51.48,
+   "t1": 52.351,
+   "txt": "of the common"
+  },
+  {
+   "t0": 52.351,
+   "t1": 53.423,
+   "txt": "type is utilized"
+  },
+  {
+   "t0": 53.423,
+   "t1": 54.428,
+   "txt": "as a conductive"
+  },
+  {
+   "t0": 54.428,
+   "t1": 55.299,
+   "txt": "weight means."
+  },
+  {
+   "t0": 55.65,
+   "t1": 56.546,
+   "txt": "It even plans"
+  },
+  {
+   "t0": 56.546,
+   "t1": 57.442,
+   "txt": "other models."
+  },
+  {
+   "t0": 57.722,
+   "t1": 59.058,
+   "txt": "A bird-shaped housing"
+  },
+  {
+   "t0": 59.058,
+   "t1": 60.202,
+   "txt": "with module making"
+  },
+  {
+   "t0": 60.202,
+   "t1": 60.965,
+   "txt": "bird sounds."
+  },
+  {
+   "t0": 61.245,
+   "t1": 62.096,
+   "txt": "And a fisherman"
+  },
+  {
+   "t0": 62.096,
+   "t1": 62.946,
+   "txt": "model with line"
+  },
+  {
+   "t0": 62.946,
+   "t1": 63.57,
+   "txt": "and sinker."
+  },
+  {
+   "t0": 63.921,
+   "t1": 64.804,
+   "txt": "And the goal:"
+  },
+  {
+   "t0": 64.804,
+   "t1": 66.434,
+   "txt": "conditioning persons who"
+  },
+  {
+   "t0": 66.434,
+   "t1": 67.384,
+   "txt": "use the toilet"
+  },
+  {
+   "t0": 67.384,
+   "t1": 68.199,
+   "txt": "to lower the"
+  },
+  {
+   "t0": 68.199,
+   "t1": 69.15,
+   "txt": "toilet seat or"
+  },
+  {
+   "t0": 69.15,
+   "t1": 70.236,
+   "txt": "cover after use."
+  },
+  {
+   "t0": 70.687,
+   "t1": 71.882,
+   "txt": "Training humans."
+  },
+  {
+   "t0": 72.382,
+   "t1": 73.406,
+   "txt": "With a greeting"
+  },
+  {
+   "t0": 73.406,
+   "t1": 73.747,
+   "txt": "card."
+  },
+  {
+   "t0": 74.247,
+   "t1": 75.122,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.198
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.949
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.174
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 25.912
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 36.484
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 47.361
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 55.65
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 63.921
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 70.687
+  }
+ ],
+ "hook": "A TOILET LID|THAT [SINGS]",
+ "hook2": "LID-UP|[ALARM] \u00b7 1999",
+ "hookSwitch": 2,
+ "num": "US 5,926,099",
+ "tt": true
+}

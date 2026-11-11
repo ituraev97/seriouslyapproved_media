@@ -1,0 +1,178 @@
+3,732,580
+
+1
+HAIR WASHING MACHINE
+
+This invention relates to a hair washing device.
+
+Devices are known for hair washing which, however,
+have not been wide spread used because of exhibiting
+some disadvantages.
+
+Some devices comprise a helmet accomodating
+showers, through which: water jets are continuously
+uniformly delivered on hair of persons having the head
+thereof inserted in the helmet: the uniformity of the
+water jets causes the hair to adhere to the.person’s nape
+of the neck and inhibits a good washing of the hair and
+scalp surface.
+
+A further disadvantage in such known devices is the
+impossibility of setting to.a high degree of sensitivity
+and accuracy the temperature of the water being pro-
+jected on the hair to be washed.
+
+The primary object of the present invention is to pro-
+vide a hair washing device comprising an electric cir-
+cuit fitted with a resistance for heating the water in-
+tended to wash the hair, this electric: circuit being
+adapted to supply a maximum power to the heating re-
+sistance at the beginning of the washing cycle when the
+water is cold and to minimize the power supplied. to
+said resistance when the water temperature becomes
+slightly lower than the operating temperature.
+
+Another object of the invention is to provide a hair
+washing device having a plurality of showers for deliv-
+ering water jets on the. hair, the device comprising
+means for selectively and alternately delivering. water
+only to some of said showers at a time, so that the water
+jets will cause a continuous movement of the hair.and
+a massage of the scalp.
+
+The foregoing and other objects are attained by a de-
+vice comprising a helmet provided with seals along its
+free edge and a plurality of showers arranged internally
+of said helmet, a water storage reservoir connected to
+a water supply by a conduit having an electrovalve in-
+serted therein, having a drain- pump and a delivery
+pump which is connected to said. showers through a
+plurality of distinct tubings in which electrovalves are
+inserted, at least one container for a hair treatment liq-
+uid having a delivery pump which is connected by tub-
+ings to at least one of said showers, an electric circuit
+for selectively controlling said electrovalves through a
+variable timing device, a circuit for heating and con-
+trolling the temperature of the water in the reservoir
+supplying electric power to an electric resistance in the
+reservoir in varying amount as the water temperature
+varies, this temperature controlling and heating circuit
+comprising a water-immersed heat responsive element,
+a manually adjustable potentiometer and a bidirec-
+tional semiconductor, the latter being connected to a
+current amplifier wherein the amplification is varied by
+the heat responsive element and potentiometer, the de-
+vice also comprising a current rectifier supplying said
+amplifier, a timer gating said pumps, an electric circuit
+for controlling the electrovalves and a circuit for heat-
+ing and controlling the water temperature, and com-
+prising a level indicator for the water in the reservoir,
+which level indicator is electrically connected to. said
+timer acting thereon and causing it to advance by a step
+and is connected to said ‘heating circuit which is selec-
+tively switched on and switched off by said indicator.
+
+In order that the device structure and features be
+more clearly understood, an embodiment thereof will
+now be described, by mere way of not limiting example,
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+45
+
+55
+
+60
+
+65
+
+2
+
+reference being had to the accompanying drawings in
+which:
+
+FIG. 1 is a schematic cross-section showing a helmet
+provided with showers and forming a part of the pres-
+ent device;
+
+FIG. 2 is a front view showing the set of showers
+mounted in the helmet of FIG. 1;
+
+FIG, 3 is.a block diagram for the present device;
+
+FIG. 4 is a block diagram for the electric circuit of
+the device;
+
+FIG. 5 schematically shows an embodiment of the
+electronic controlling circuit for the electrovalves
+forming a part of the present device; and
+
+FIG. 6 schematically shows the electronic circuit for
+for heating and controlling the temperature of the
+water intended to be delivered to the showers in the de-
+vice helmet.
+
+The device comprises a helmet 1 having an opening
+in: which the nape of the neck for a person’s head can
+be inserted (FIG. 1), at which opening a seal 2 is posi-
+tioned and prevents the water being injected into the
+helmet from exiting therefrom and wetting the face of
+a person washing his or her hair. At the bottom of the
+helmet a trough 3.is provided, in which the water is col-
+lected and from which it is delivered through a conduit
+4 to a filter and then to a storage reservoir to be de-
+scribed hereinafter.
+
+A plurality of showers 5 are arranged in said helmet
+1 and located laterally, at the top and at the bottom of
+the helmet: these showers are connected to distinct
+tubings 6, 7 and 8, through which water can be deliv-
+ered ata slight pressure or at different pressures to said
+showers independently of one another.
+
+In the tubings, which are connected to the showers
+carried: in the helmet, electrovalves are provided
+which, in the embodiment herein described, are as-
+sumed to be in a number of three and have been desig-
+nated on the drawing at El, E2 and E3. Said electro-
+valves are connected through a delivery pump P1 to a
+reservoir 9 (FIG. 3) which in turn is connected to a
+water supply by a conduit 10 wherein an electrovalve
+E4 is provided.
+
+As above stated, the helmet 1 is connected through
+tubing 4 and filter 11 to the reservoir 9. This reservoir
+is also connected with distinct containers, two distinct
+containers in the embodiment shown, designated by
+reference numerals 12 and 13, respectively, (FIG. 3),
+for containing two separate solutions for hair washing,
+such as two separate types of soapy or cleansing or re-
+storing. or coloring solutions. The containers 12 and 13
+are connected to the reservoir 9 by two distinct pumps
+P3 and P4, as shown in FIG. 4. A level indicator 14 and
+a drain pump P2 are also connected to the reservoir.
+
+The. electric circuit for the hair washing device is
+shown as a:whole and schematically in FIG. 4, and
+comprises, in addition to the above mentioned electro-
+valves and pumps, a timer 15, an electronic oscillator
+circuit 16, an electronic .17 for heating and tempera-
+ture controlling of the water to be supplied to the hel-
+met, a resistor R6 supplied by the circuit 17 and en-
+closed within the reservoir 9, a thermistor R3 also en-
+closed within the reservoir 9, and a console 18 carrying
+the knob for a potentiometer, by which the tempera-
+ture can be adjusted for the water in the reservoirs as
+described hereinafter; a starting key 19 is also pro-
+vided, by which electric current can be supplied to the
+timer 15,

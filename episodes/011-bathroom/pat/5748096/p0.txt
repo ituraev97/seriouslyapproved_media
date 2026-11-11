@@ -1,0 +1,44 @@
+US005748096A.
+
+°
+United States Patent 19 [11] Patent Number: 5,748,096
+Kaufer [45] Date of Patent: May 5, 1998
+[54] TOILET BOWL ILLUMINATION DEVICE 5,384,917 1/1995 Ephing .......ssesserssessssensescsteerereesees 4/235
+INCLUDING AUDIBLE ANNUNCIATOR FOR 5,437,066 8/1995 Mills et al. ......sssssssssssesenrecesseseees 4/661
+REMINDING USER TO MOVE TOILET SEAT 5,489,893 2/1996 Jo et al... ccessecrssensncenreees -» 340/686
+FROM UPPER RETRACTED POSITION TO 5,499,008 S186 Roseakrant ty cover qe
+LOWER SEATING POSITION AFTER USE 213, CNTY cescsesssescerseenecenensanensseseane sone
+[76] Inventor: Laurel G. Kaufer. 24267 Martha St.. Primary Examiner—Jeffery Hofsass
+Woodland Hills, Calif. 91367 Assistant Examiner—Benjamin C. Lee
+Attomey, Agent, or Firm—Bronson. Bronson & McKinnon
+[21] Appl. No.: 752,214 (57) ABSTRACT
+[22] Filed: Nov. 19, 1996 An illuminating and annunciating device for a toilet having
+[51] Tint, CUS accceccssecsccssecconasssecsnssssensssereceneenes GOSB 21/00 a bowl, and a seat which is movable between a lower seating
+[S52] US. CR. eeeresssessssesesesen 340/686; 340/573; 340/692; position and an upper retracted position, includes an illumi-
+4/235; 4/661 nation unit for illuminating the bowl for nighttime standing
+[58] Field of Search .....ssscsssssssscssseneeeee 340/686, 573, urination. An annunciator unit generates an audible indica-
+
+340/692; 4/235, 661 tion which reminds a user to move the seat from the retracted
+position to the seating position after use. A sensor activates
+
+[56] References Cited the illumination unit and the annunciator unit when the seat
+is in the retracted position, and de-activates the illumination
+U.S. PATENT DOCUMENTS unit and the annunciator unit when the seat is in the seating
+4,413,364 11/1983. Bittaker et al. ocssssseorsceesseorseee 4/661 position. The device is attached to the toilet seat or bowl. and
+4,491,991 1/1985 Herbruck ...... , 4/661 the sensor includes a switch which is actuated by the other
+4,733,419 3/1988 Nee] ...cesssescossnsercersscensnenvsseuserannenes 4/661 of the toilet seat or bowl when the seat is in the seating
+A,T36,A71 4/1988 Johnson... ssssecssecrscceceneseseennees 4/234 _ position. The annunciator unit preferably includes an audio
+4,849,742 7/1989 Warrington ... .. 340/686 module with a recording and playback capability for record-
+4,860,178 8/1989 Pion... .. 362/101 ing the audible indication as a verbal message, musical
+$136476 8/1992 Hom ono “Segnise sequence, ete. and playing back the indication when the seat
+5,150,962 9/1992 Rauschenberger ..... 362/101 —_-38 Tetracted.
+5,263,209 11/1993 Pattee) .....ersrcccssssesserscscenronaneesers 4/661
+5,276,595 — W19GA Patric ..essssrssensscnscseesensseeerereaess 362/101 16 Claims, 4 Drawing Sheets
+40 30
+50 34 42
+
+MODULE
+
+52
+
+38

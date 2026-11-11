@@ -1,0 +1,171 @@
+4,790,036
+
+11
+
+a time element T2, the second unit FCR to the back-
+ward logic LR, and finally the third unit FCL on the
+one hand to the control logic LE for the electric motors
+29 that rotate the seat 27, and on the other hand, via a
+time element T3 and an amplifier stage TRs, to a stand-
+ard-coil (solenoid) SOL. Between the control logic LE
+and the electric motors 29, a further amplifier stage
+TRL is arranged. On the input side the control logic LE
+is connected to the time element T2, the memories M1,
+M2, the circuit containing the two switches 38, 39, and
+on the output side to the forward and backward logic
+LA, LR. The output of the time element T3 is, further-
+more, connected to the backward logic LR.
+
+The circuit containing the two switches 38, 39 is
+connected to the two memories Mj, M2, as well as to
+the backward logic LR and the control logic LE.
+
+The mode of functioning of this control arrangement
+in the interaction with the device described with refer-
+ence to FIG. 1 to 4, is as follows:
+
+When the lever 2 of the flushing water cistern 1 is
+actuated, the valve 4 is opened and the water flows
+through the flushing water pipe 15 into the toilet bowl
+32. The float 6 sinks down, as a result of which, via the
+lever 6’, the valve 7 is opened. Water then flows
+through the feed pipe 12 of the turbine 11 and drives the
+latter. As a result thereof the low-voltage directcurrent
+generator 13 produces a voltage as indicated right at the
+top of FIG. 11. This Figure also shows other voltage
+curves of interest in this connection, which occur
+within the arrangement during normal operation. The
+same reference symbols are used here as in FIG. 10.
+
+When the control operation is initiated, the time ele-
+ments T; and T4 are put into operation. By way of the
+amplifier stage TR, the electric motor 19 is made to
+bring the slide housing 26 into the operating position
+above the seat 27. A fraction of a second after this oper-
+ation commences, the function FCR (monitoring the
+movement of the slide housing 26 in the backward di-
+rection) starts. When the time element T, has run down,
+the slide housing 26 lies directly above the seat 27,
+subsequent to which the electric motor 19 is supplied,
+via the amplifier stage TR2 and a resistor Ru, with re-
+duced power, so that the placing of the slide housing 26
+onto the seat 27 and the further inward movement of
+the slide housing 26 take place as gently as possible.
+This reduced power supply to the motor 19 is also main-
+tained during the rotating of the seat, so that the wiper
+48 will all the time be pressed onto the seat 27 with a
+specific force. As soon as the slide housing 26 has
+reached its operating position above the seat 27, the
+function FCA (monitoring the movement of the slide
+housing 26 in the forward direction) is de-activated,
+which results in the setting of the time element To,
+whereafter the rotating of the seat 27 starts up. To this
+end, via the control logic LE and the amplifier stage
+TRL, the two electric motors 29 are made to rotate the
+seat 27 by 360 degrees. On completing the rotation, the
+previously switched-on monitoring function FCL is set
+back again, whereupon the motors 29 are switched off
+and the time element T3 is set. While the time element
+T3 runs down, the voltage at the generator 13 may
+increase to a value which causes the coil SOL to release
+the lever 62 of the wiper 48”. This is ensured at the end
+of the interval T3 by the amplifier stage TRs. Hereupon
+the polarity of the voltage supplied to the motor 19 is
+reversed, and the slide housing 26—as described in the
+foregoing for the moving into the operating posi-
+tion—by a switching on of the power stage TRA by the
+
+20
+
+25
+
+45
+
+50
+
+35
+
+60
+
+65
+
+12
+
+time element T4, is again returned into its neutral posi-
+tion at two different speeds. On reaching the neutral
+position, the function FCR is set back and the power
+supply to the motor 19 is interrupted. The described
+operation can only start up again when the generator
+13, after the standstill, is again put into operation by
+actuating the lever 2.
+
+If at the time of initiating the control operation by a
+circuit arrangement shown in FIG. 10, at least one of
+the two switches 38 and 39 respectively (FIG. 2) is
+open, the control operation cannot commence. How-
+ever, if the switches 38, 39 close before the internal T;
+has expired, the operation will take place normally.
+
+In case of the two switches 38, 39 opens after the
+control operation has already commenced, the follow-
+ing modified course of events will take place:
+
+If one of the two switches 38, 39 opens while the slide
+housing 26 moves in the direction of the seat 27, but
+before the rotating movement of the seat 27 has started,
+the slide housing 26 will return to the neutral position.
+If one of the two switches 38, 39 opens before the time
+element T) has run down, the described operations will
+take place as described above; however, if one of the
+two switches 38, 39 opens after the time element T, has
+tun down, the cleaning operation for this phase of the
+filling of the flushing water reservoir 1 will be pre-
+vented, since the time required for the cleaning no
+longer suffices.
+
+If one of the two switches 38, 39 is opened during the
+rotating movement of the seat 27, the rotating move-
+ment will be interrupted, and the slide housing 26
+moves back into the neutral position. If one of the two
+switches 38, 39 opens during the moving back of the
+slide housing 26 into its neutral position, this will not
+affect the backward movement. If a voltage drop
+should occur during the described course of events,
+these events will be interrupted and will only be ended
+after the lever 2 has been actuated once again.
+
+The method and device according to the invention
+are suitable for new installations as well as for adapta-
+tion to existing toilets. The turbine drive of the low-
+voltage direct-current generator 13 is an expedient solu-
+tion, which is independent of the main supply. As indi-
+cated in the foregoing, if a lowvoltage source is avail-
+able, this may be used to drive the control electronics 17
+and the electric motors 19, 29, thus complying with all
+conceivable safety requirements.
+
+The subject of the invention constitutes an important
+step forward in social hygiene, without resulting in
+environmental pollution.
+
+What is claimed is:
+
+1. A method for the automatic cleaning of a substan-
+tially ring-shaped toilet seat, said method comprising
+the steps of:
+
+providing a toilet bowl operably connected to a flush
+
+water cistern, said toilet bowl having a substan-
+tially ring-shaped toilet seat rotatably mounted
+thereon, said toilet seat being rotatable in a circum-
+ferential direction, said flush water cistern being
+connected to a water valve means for controlling
+the flow of water through said water inlet pipe to
+maintain a predetermined water level in said flush
+water cistern, said toilet bowl operably connected
+to said flush water cistern through a lever-actuated
+second valve means for controlling the flow of
+water from said flush water cistern to said toilet
+bowl, said lever-actuated second valve means in-
+cluding a manually actuable lever movable be-

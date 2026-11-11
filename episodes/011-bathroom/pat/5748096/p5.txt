@@ -1,0 +1,191 @@
+5,748,096
+
+1
+
+TOILET BOWL ILLUMINATION DEVICE
+INCLUDING AUDIBLE ANNUNCIATOR FOR
+REMINDING USER TO MOVE TOILET SEAT
+
+FROM UPPER RETRACTED POSITION TO
+
+LOWER SEATING POSITION AFTER USE
+
+BACKGROUND OF THE INVENTION
+
+1. Field of the Invention
+
+The present invention generally relates to the nighttime
+use of toilet facilities, and more specifically to a toilet bowl
+illumination device including an audible annunciator for
+reminding a user to move a toilet seat from an upper
+retracted position to a lower seating position after use.
+
+2. Description of the Related Art
+
+A conventional residential toilet generally includes a
+bowl, and a seat which is movable between a lower seating
+position and an upper retracted position. The seating posi-
+tion is used by both male and female household members,
+whereas the retracted position is for standing male urination.
+
+The safe and comfortable use of the toilet is facilitated
+when the seat is left down at all times when the toilet is not
+in use, and this is a form of etiquette in many families.
+
+Asmall child or even an adult can fall down into the toilet
+bowl if attempting to sit on the seat when it is actually up.
+This hazard is especially present at night if a user is drowsy
+and the main bathroom light is not turned on.
+
+It is relatively difficult to miss the toilet bowl when
+performing urination while sitting on the seat. However,
+male urination is conventionally performed from a standing
+position with the toilet seat up.
+
+If a male user is sufficiently drowsy and/or disoriented by
+lack of light, he can miss the interior of the toilet bowl, and
+splatter the exterior of the toilet or even the floor. It is even
+possible to forget to raise the seat before performing stand-
+ing urination.
+
+Various expedients have been proposed in the prior art for
+attempting to forestall these contingencies. U.S. Pat. No.
+§,150,962 to Rauschenberger, for example, discloses an
+illuminating device which is mounted on a toilet bowl. The
+device includes a lamp for illuminating the interior of the
+bowl, and a switch which is actuated by the seat such that the
+lamp is energized when the seat is up, and de-energized
+when the seat is down.
+
+A more extensive arrangement is disclosed in U.S. Pat.
+No. 5,276,595 to Patrie, in which a device is mounted on a
+toilet seat lid for bow] illumination. A proximity sensor
+activates the device when a user approaches the toilet. The
+device illuminates the bowl with light of a first color when
+the seat is up, and with a second color when the seat is down.
+If the seat is up when the user approaches, the device further
+energizes an audible chime for a brief period of time.
+
+Although the Rauschenberger and Patrie devices address
+the problems of lack of toilet bowl illumination and deter-
+mination of whether the seat is up or down for nighttime use,
+they do not provide any capability for prompting a user to
+lower the seat after performing standing urination so that the
+seat will be in the desirable lower position for a subsequent
+user. It can be common for a male user to fail to return the
+seat to the lower position at night due to drowsiness or
+carelessness.
+
+Although the Patrie device includes a chime, it is specifi-
+cally configured such that the chime will not sound when a
+user raises the seat. This is the preferred scenario in which
+the seat is normally down, and is raised by a user for
+standing urination. The Patrie device is further disadvanta-
+
+wn
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+45
+
+50
+
+55
+
+65
+
+2
+
+geous in that it is protrudes from the toilet lid, and can cause
+discomfort or injury if a sitting user backs into the device.
+
+Furthermore, since these devices are powered by
+batteries, accidently leaving the devices on continuously by
+failing to lower the seat after use will rapidly discharge the
+batteries and render the devices inoperative.
+
+In view of the above, a pressing need exists in the art for
+a toilet bowl illumination device which includes a capability
+for prompting a user to lower a toilet seat after use.
+
+SUMMARY OF THE INVENTION
+
+The above described need which has existed heretofore in
+the prior art is fulfilled in accordance with the present
+invention.
+
+More specifically, an illuminating and annunciating
+device embodying the present invention is provided for a
+toilet having a bowl. and a seat which is movable between
+a lower seating position and an upper retracted position. The
+device includes an illumination unit for illuminating the
+bowl for nighttime standing urination.
+
+An annunciator unit generates an audible indication which
+reminds a user to move the seat from the retracted position
+to the seating position after use. A sensor activates the
+illumination unit and the annunciator unit when the seat is in
+the retracted position, and de-activates the illumination unit
+and the annunciator unit when the seat is in the seating
+position. The device is attached to the toilet seat or bowl. and
+the sensor includes a switch which is actuated by the other
+of the toilet seat or bowl when the seat is in the seating
+position.
+
+The annunciator unit preferably includes an audio module
+with a recording and playback capability for recording the
+audible indication as a verbal message, musical sequence,
+etc. and playing back the indication when the seat is
+retracted.
+
+The present invention further improves over the prior art
+in that it provides a reminder to lower the seat after use in
+the daytime, as well as night.
+
+These and other features and advantages of the present
+invention will be apparent to those skilled in the art from the
+following detailed description, taken together with the
+accompanying drawings, in which like reference numerals
+refer to like parts.
+
+DESCRIPTION OF THE DRAWINGS
+
+FIG. 1 is a perspective view illustrating a conventional
+residential toilet which is provided with a first embodiment
+of an illumination and annunciating device according to the
+present invention;
+
+FIG. 2 is a front perspective view of the device of FIG. 1;
+
+FIG. 3 is a top view of the device of FIG. 1;
+
+FIG. 4 is a diagram illustrating the layout of internal
+components of the device of FIG. 1;
+
+FIG. 5 is an electrical schematic diagram of the device of
+FIG. 1;
+
+FIG. 6 is a perspective view illustrating a conventional
+residential toilet which is provided with a second embodi-
+ment of an illumination and annunciating device according
+to the present invention;
+
+FIG. 7 is a sectional elevation illustrating the toilet and
+device of FIG. 6;
+
+FIG. 8 is a front perspective view of the device of FIG. 6;
+and
+
+FIGS. 9 and 10 are electrical schematic diagrams illus-
+trating various modifications to the devices of FIGS. 1 and
+6.

@@ -1,0 +1,176 @@
+4,790,036
+
+3
+
+back into the so-called zero position, i.e. the narrow
+parts of the seat are in the front and at the rear. This
+increases the safety of the method, and prevents the
+user, in particular a child, from being injured.
+
+To dry the seat, the seat is wiped during the rotating
+movement of the seat and the moving backwards of the
+slide housing, by at least one radially extending wiper
+and at least one wiper which extends in the circumfer-
+ential direction of the seat. It was found, in view of the
+fact that only a small quantity is needed to wet the
+surface of the seat, and that as a disinfecting liquid a
+fast-drying liquid can be used, one radially extending
+wiper suffices to adequately dry the surface of the seat.
+
+It is preferable that the wiper which extends in the
+circumferential direction of the seat is fastened to a
+tiltable lever, which by means of a solenoid is held in the
+top, non-operative position, and during the backward
+movement of the slide housing is lowered onto the seat
+and wipes it. In this way it is ensured that the wiper is
+lowered only shortly before the slide housing moves
+back, and that it then with sufficient pressure dries any
+moisture marks that may still be present on the surface
+of the seat.
+
+According to another variant, the surface of the seat
+is dried by a current of air. This variant is particularly
+advantageous in conjuntion with already existing hy-
+giene devices in toilets, which comprise a source for a
+current of air or hot air.
+
+The device for performing the method is expediently
+designed such that the slide housing is positioned slid-
+ingly on slide rails and is pulled outwards by a helical
+spring. This design enables the device to also be used
+without problems for elliptical seat shapes.
+
+The slide housing is expediently provided with sup-
+port rollers. These support rollers have vertical axes
+and with their circumferential surfaces support the
+inner profile of the seat. In this way th slide housing
+follows this profile, the slide housing being pulled out-
+wards by the helical spring, as mentioned in the forego-
+ing, thus ensuring the contact of the support rollers with
+the seat.
+
+The source of the disinfecting liquid is in the form of
+a tank in which the disinfecting liquid is kept under gas
+pressure. For this one way, of course, use one of the
+known propellant gases which are not harmful to the
+environment, or the closure of the tank may be in the
+form of a known pump valve which in the known man-
+ner ensures, during the cleaning, an adequate air pres-
+sure above the disinfecting liquid. It is also possible for
+the flow of liquid to reach the places to be disinfected at
+the given time by gravitational force, due to the differ-
+ence in levels.
+
+To faciliate the rotating of the seat during the clean-
+ing, the seat rests on steel balls which are inserted rotat-
+ably in a compressable elastic ring. In this simple man-
+ner, when the seat is not occupied it can with little force
+be rotated in the circumferential direction, whereas the
+occupied seat rests on hard parts which due to the fric-
+tion force prevent a possible rotating.
+
+According to an advantageous further development,
+the slide housing is fitted with a wetting element which
+comprises a sponge insert which is provided with a
+material cover, and serves to wet the seat with the disin-
+fecting liquid. This solution is particularly suitable for
+fast-drying disinfecting liquidjs, in which case the de-
+sired surface of the seat is wetted properly with the
+disinfecting liquid.
+
+10
+
+15
+
+20
+
+35
+
+45
+
+50
+
+55
+
+60
+
+65
+
+4
+
+The electric circuit is preferably designed such that
+the electric motor for driving the slide housing is con-
+nected to the energy source by way of a forward logic,
+a backward logic and by way of two power stages.
+
+It is advantageous when the power stages contain
+substages for the full power and sub-stages for a re-
+duced power of the electric motor. In this way the
+motor is supplied with the correct, i.e. not too great and
+not too low energy, so that on the one hand the correct
+and fault-free movement of the slide housing is ensured,
+and on the other hand the movement is controlled with
+only minimal force so as not to cause any injuries, in
+particular in the case of children.
+
+According to a favorable embodiment, the at least
+one electric motor for driving the seat is connected to
+the energy source via a control logic and an amplifier
+stage. Also this measure ensures that only the required
+energy is supplied.
+
+According to an advantageous further development,
+the electric circuit comprises two memories which re-
+cord the position of the safety switches and the informa-
+tion of the time element. The safety switches signal the
+position of the seat and prevent a possible incorrect
+functioning of the cleaning arrangement.
+
+It is advantageous if an end position monitoring cir-
+cuit comprises three function units, of which the first
+unit is connected to the forward logic, the memory as
+well as to a time element, the second unit to the back-
+ward logic, and finally the third unit on the one hand to
+the control logic for the electric motors rotating the
+seat, and on the other hand, via a time element and an
+amplifier stage, to a standard-coil solenoid. The three
+function units preferably monitor the three different
+movements, ie. the forward, and the backward move-
+ment of the slide housing and the rotating movement of
+the seat.
+
+Accordingly, in order to achieve the above-noted
+objects of the invention, the present invention provides
+a method for the automatic cleaning of a substantially
+ring-shaped toilet seat, said method comprising the
+steps of:
+
+providing a toilet bow! operably connected to a flush
+water cistern, said toilel bowl having a substantially
+ringshaped toilet seat rotatably mounted thereon, said
+toilet seat being rotatable in a circumferential direction,
+said flush water cistern being connected to a water inlet
+pipe, said water inlet pipe provided with a first valve
+means for controlling the flow of water through said
+water inlet pipe to maintain a predetermined water level
+in said flush water cistern, said toilet bowl operably
+connected to said flush water cistern through a lever-
+actuated second valve means for controlling the flow of
+water from said flush water cistern to said toilet bowl,
+said lever-actuated second valve means including a
+manually actuable lever movable between a valve
+closed position and a valve open position;
+
+providing a slide housing means for movement be-
+tween a neutral position adjacent said toilet seat and an
+operative position disposed above a segment of said
+toilet seat, said slide housing means including spray
+means for applying a cleaning liquid to said toilet seat
+when said slide housing means is in said operative posi-
+tion and drying means for drying said toilet seat after
+application of said cleaning liquid;
+
+providing first motor means, responsive to a first
+power input, for moving said slide housing means be-
+tween said neutral position and said operative position;
+

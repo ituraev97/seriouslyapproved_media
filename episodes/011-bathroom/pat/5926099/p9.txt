@@ -1,0 +1,183 @@
+5,926,099
+
+9
+
+As shown in FIG. 3A, switch 40 is opened 42 by weight
+means 60 moving off contacts 26A and 26B when electronic
+toilet lid position signal is in a horizontal position.
+
+Thus switch 40 is open when electronic toilet lid position
+signal is in a horizontal position when lid is down and is
+closed to conduct current 44 when electronic toilet lid
+position signal is in a vertical position when toilet lid is
+raised.
+
+Weight means 60 is formed of any suitable material the
+only requirement being that the weight be of sufficient
+mechanical strength, size, conductivity, and weight to facili-
+tate contact with contacts 26A and 26B when electronic
+toilet lid position signal is in a vertical position.
+
+Weight means 60 can be made of any suitable material of
+the common type such as a screw, nail, metal ball, solder
+bead, or split shot sinker for example. In the preferred
+embodiment shown in FIGS. 3A and 3B, a size 3/0 split shot
+sinker of the common type is utilized as a conductive weight
+means 60.
+
+Delivery means 70 is formed of any suitable material the
+only requirement being that the material be of relatively
+light weight, and be of sufficient mechanical strength, and
+size to support and deliver weight means 60 so as to
+facilitate contact with contacts 26A and 26B of circuit board
+22 when electronic toilet lid position signal is in a vertical
+position.
+
+Delivery means 70 can be any suitable flexible material of
+a common type such as a compression spring, extension
+spring, coil spring, plastic coil, elastic band, wire, or nylon
+filament for example. In the preferred embodiment shown in
+FIGS. 3A and 3B, a length of nylon filament of the common
+type is utilized as delivery means 70.
+
+The preferred means 56B of attaching split shot sinker
+weight means 60 to nylon filament delivery means 70 is
+clamping whereby pinching clamps weight means 60 onto
+the distal end of delivery means 70.
+
+Preferred means of attaching delivery means 70 to base 50
+is by insertion whereby an end of nylon filament delivery
+means 70 is attached 56C to base 50 by being inserted into
+a slit or hole at a suitable location in base 50.
+
+The points of attachment means 56B and 56C and length
+of delivery means 70 to base 50 are chosen to facilitate the
+bridging of stationary contacts 26A and 26B by split shot
+weight means 60 under the influence of gravity when the
+electronic position signal device is in an upright position.
+
+DESCRIPTION, FIGS. 4A and 4B
+
+FIGS. 4A and 4B are views of electronic toilet lid position
+signal in FIGS. 2A and 2B with a third embodiment of
+gravity-actuated position-sensitive switch 40. The compo-
+nents of the electronic toilet lid position signal are contained
+and mounted in housing 52.
+
+FIG. 4A is a plan view of toilet lid position switch with
+the alternative embodiment of the gravity-actuated position-
+sensitive switch 40 in an open circuit condition 42.
+
+Position-sensitive switch 40 comprises a loose
+electrically-conductive weight 60 and a pair of open contacts
+26A and 26B that are an integral part of electronic signaling
+module circuit board 22.
+
+FIG. 4B is a left side view of FIG. 4A with position-
+sensitive switch 40 in a closed circuit condition 44.
+
+Position-sensitive switch 40 comprises an enclosure cav-
+ity within housing 52, contacts 26A and 26B of which
+contact 26B is at the end of contact arm 28, electronic
+module circuit board 22, and a loose electrically-conductive
+weight means 60.
+
+10
+
+20
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+10
+
+Loose electrically-conductive weight means 60 is blocked
+or restricted within housing 52 cavity by circuit board 22
+with contacts 26A and 26B electrically isolated from hous-
+ing 52.
+
+Electronic signaling module circuit board 22 is arranged
+and mounted 56A at a slant within housing 52 so as to cause
+weight means 60 to move under the influence of gravity and
+towards contacts 26A and 26B when toilet lid position signal
+is in a vertical position. When weight means 60 is in
+proximity to contact 26B of contact arm 28, the shape of the
+enclosure within housing 52 constrains weight means 60 to
+close circuit 44 by bridging the gap between contact regions
+26A and 26B thereby activating toilet lid position signal.
+
+The enclosure cavity of housing 52 is shaped so to cause
+weight means 60 to move away from contacts 26A and 26B
+under the influence of gravity when toilet lid position signal
+is in a horizontal position opening condition in circuit 42
+thereby deactivating electronic toilet lid position signal.
+
+It will be understood by those knowledgeable in this art
+that the enclosure cavity of housing 52 may have other
+shapes including a cylinder, tube, groove, raceway, or
+channel, for enabling a freely moving conductive metal
+object, ball or BB to roll, slide or fall and bridge contacts
+26A and 26B under the influence of gravity.
+
+Housing 52 is formed of any suitable material, the only
+requirement being that housing 52 be of relatively light
+weight, easily formed, nonconductive, and be of sufficient
+mechanical strength and size to support electronic module
+circuit board 22 in proximity to and in the path of movement
+of weight means 60 when electronic toilet lid position signal
+is pivoted from a horizontal to a vertical position.
+
+Housing 52 is a commonly available clam shell type
+blister packaging made of PVC or R-PET. However, it could
+also be made of other common non-conductive materials
+such as paper, cardboard, wood, or fiberboard for example.
+
+Electronic signaling module circuit board 22 is fastened
+with attaching means 56A to one side of housing 52, housing
+52 has means 56D for attaching housing 52 to the toilet lid
+at a location which facilitates closing of position-sensitive
+switch 40 when toilet lid is raised to a vertical position. In
+this embodiment, attaching means 56D is adhesive tape of
+the common type; however hook and loop closure tape, or
+glue, can be used for example.
+
+Weight means 60 may be any electrically conductive
+object that is also of sufficient weight, size, and conductivity
+to bridge contacts 26A and 26B. In the preferred embodi-
+ment weight means 60 is a copper clad BB, however a
+mercury bead can be used for example.
+
+It will be understood by those knowledgeable in this art
+that other circuit designs can be used to arrive at the same
+results without departing from the scope of the toilet lid
+position signal.
+
+The manner of using an electronic toilet lid position signal
+10 is simple. As shown in FIG. 1C, first put toilet lid 80 into
+an upright or vertical position and then attach electronic
+toilet lid position signal 10 onto toilet lid surface so that
+electronic signaling module produces an audible and/or
+visible signal. As shown in FIG. 1B, indicia 16 on a suitable
+surface of the electronic toilet lid position signal 10 may
+assist in suitable placement.
+
+To remove electronic toilet lid position signal 10 from
+toilet lid 80, one simply pulls electronic toilet lid position
+signal 10 from the toilet lid surface.
+
+To replace electronic toilet lid position signal 10, one
+simply arranges and attaches electronic toilet lid position
+signal 10 to the toilet lid surface.

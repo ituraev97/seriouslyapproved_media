@@ -13,7 +13,7 @@ Status: todo | done YYYY-MM-DD | skip (reason). Formats rotate by weekday (RUNBO
 | 008 | THE SHELF | Dog Inventions Nobody Asked For (as "Ranking the Weirdest Dog Inventions") | done 2026-11-09 |
 | 009 | THE SHELF | Breakfast Machines (as "10 Weird Breakfast Gadgets That Got Real Patents") | done 2026-11-10 |
 | 010 | ONE PATENT | (pick from the pilot's strongest patent) | skip (every pilot patent is in used_patents.json) |
-| 011 | THE SHELF | Bathroom Patents | todo |
+| 011 | THE SHELF | Bathroom Patents (as "10 Weird Bathroom Inventions That Got Real Patents") | done 2026-11-12 |
 | 012 | DID IT WORK? | Kitchen Gadgets of the 1950s | todo |
 | 013 | THE SHELF | Wearable Furniture | todo |
 | 014 | THE YEAR FILE | The Weirdest Patents of 1931 | todo |

@@ -1,0 +1,197 @@
+5,926,099
+
+3
+
+The present invention is directed to overcoming one or
+more of the problems discussed above.
+
+SUMMARY
+ELECTRONIC TOILET LID POSITION SIGNAL
+
+An electronic position signal device is embodied in a
+toilet lid position signal.
+
+The toilet lid position signal relates to toilet lids and to the
+provision of an audible and/or visible indication that a toilet
+lid is in an upright or vertical position.
+
+In many situations, embarrassment or severe personal
+trauma has resulted from the failure to observe whether the
+toilet lid is in the upright or the down position.
+
+The toilet lid position signal is a solution to that problem
+in that it provides a battery-powered electronic signaling
+module with a gravity-actuated switch assembled in a light-
+weight package which can be affixed directly to the under-
+side of the lid. Said gravity-actuated switch activates the
+signal when the lid is up and deactivates the signal when the
+lid is down.
+
+The major elements of the toilet lid position signal are a
+position-sensitive switch, a self-powered electronic signal-
+ing module with a transducer, and lid attachment means.
+
+The toilet lid position signal has the practical effect of
+conditioning persons who use the toilet to lower the toilet
+seat or cover after use. The signaling means alerts a user of
+the toilet if the lid is upright.
+
+The toilet lid position signal has the practical effect as a
+training device to encourage persons, particularly small
+children, to use the toilet and to routinely lower the toilet
+seat or cover.
+
+The toilet lid position signal has the practical effect, as an
+audible signaling device, to alert others that another, par-
+ticularly a small child or infant, has raised the seat or cover
+or needs to use the toilet.
+
+The toilet lid position signal is designed to add a dimen-
+sion of comfort and relaxation to toilets in a manner not
+previously known by providing for a toilet lid position
+signaling accessory which includes an electronic audio
+and/or light module that is activated when a person raises the
+toilet lid, and is deactivated when the lid is lowered.
+
+Objects and Advantages
+
+Accordingly, several objects and advantages of the toilet
+lid position signal are an electronic toilet lid position sig-
+naling accessory which includes an electronic audio and/or
+light module and:
+
+a. is activated when a person raises the toilet lid, and is
+
+deactivated when the lid is lowered;
+
+b. is self-contained and can be of a size that can be utilized
+with any toilet comprising a hinged lid of the common
+type covering a void, said lid being capable of being
+moved from between a vertical position and a horizon-
+tal position;
+
+c. utilizes a low cost, commonly made electronic signal-
+ing module providing a wide variety of options of
+entertaining melodies and/or other audible signals, with
+additional options of blinking lights or visual signals
+therefore encouraging its use;
+
+d. is inexpensive, disposable in nature, easy to install, to
+replace, or to remove and thereby encouraging its use.
+Learning to lower the toilet lid after use is generally not
+a training process requiring a lengthy period of time;
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+4
+
+nor is it long-term when encouraging, teaching, and
+toilet training persons to use a toilet, as particularly
+small children.
+
+It is generally not a lengthy period of time when an infant
+is at the developmental stage that a toilet lid position signal
+may be desirable for alerting others. Therefore, it may be
+desirable that a signal need not last the life of the toilet or lid.
+Being in proximity to body wastes, bacteria, and viruses
+encourages a low cost signaling device that is disposable in
+nature for hygienic reasons;
+
+e. is an electronic toilet lid position signal that plays
+immediately and automatically upon being raised, and
+stops playing immediately and automatically upon
+being lowered which can be of convenience or comfort
+to users of the toilet and encourages such signals,
+particularly when the signal is entertaining, and can
+also be an incentive to use the toilet or to raise the seat;
+
+. is an electronic toilet lid position signal that is conve-
+nient or of comfort to users of the toilet and can also be
+a signaling means for persons needing assistance to
+notify others of the need to use the toilet;
+
+g. is an electronic toilet lid position signal that doesn’t
+require that the toilet have plumbing, flushing
+mechanisms, a toilet tank, a toilet bowl, or that the
+hinged lid be specifically a seat or a cover, or that the
+toilet be in proximity to an external power source;
+
+h. does not require the use of tools, special equipment, or
+
+special skills for its installation;
+
+. does not require the use of external mechanical attach-
+ments such as handles, pedals, or elements manufac-
+tured into, or onto the toilet or lid to facilitate operation
+of the signal;
+
+j- does not require the use of timers, thus requiring fewer
+
+steps in manufacture at less cost to the consumer;
+
+k. is an electronic toilet lid position signal that utilizes
+commonly available housings, which may comprise
+recycled materials, thereby requiring fewer steps in
+manufacture at less cost to the consumer;
+
+. is an electronic toilet lid position signal that is capable
+of being easily produced in a variety of shapes, or
+displaying a variety of indicia, thereby encouraging its
+use;
+
+m. is an electronic toilet lid position signal that utilizes
+common electrical circuits and electronic modules
+thereby requiring fewer steps in manufacture at less
+cost to the consumer;
+
+n. is an electronic toilet lid position signal that utilizes an
+electrical circuit-closing position-sensing switch means
+made of commonly available materials, which may
+comprise recycled materials, and thereby requiring
+fewer steps in manufacture at less cost to the consumer;
+
+o. is an electronic toilet lid position signal that requires the
+handling of only one component for installation.
+
+Other objects and advantages of my invention are:
+
+The electronic position signal device may serve purposes
+other than a toilet lid position signal.
+
+The position signal device may be utilized as an audible
+and/or visual signal for entertainment, security, teaching,
+industrial, safety, or other purposes as an accessory on a lid
+or object, to signal that said lid or object has been raised to
+a vertical position; for example, being a lid of a music box,
+sewing box, fishing tackle box, jewelry box, garbage can,
+chest, tool box, diaper bag; or dolls, and other toys.
+
+Further objects and advantages of the position signal
+device will become apparent from a consideration of the
+drawings and ensuing description.
+
+—_
+
+a
+
+—

@@ -1,0 +1,177 @@
+5,748,096
+
+3
+DETAILED DESCRIPTION OF THE
+INVENTION
+
+A first embodiment of the present invention is illustrated
+in FIG. 1. A conventional residential toilet is generally
+designated by the reference numeral 10, and comprises a
+body 12 which defines a bowl 14. A water closet 16 is
+mounted on the body 12 to provide flushing water for the
+bow] 14 in a well known manner.
+
+The toilet 10 further comprises a seat 18 and a lid 20
+which are attached to the upper rear portion of the body 12
+by a hinge arrangement 22. The seat 18 is movable between
+an upper retracted position as illustrated in FIG. 1 for
+standing urination, and a lower seating position for other
+uses. The lid 26 can be lowered from the illustrated retracted
+position to a lower position to cover the seat 18 when the
+seat 18 is down.
+
+In accordance with the present invention, an illumination
+and annunciator device 30 is attached to the lower (front as
+viewed in FIG. 1) surface of the seat 18. When the seat 18
+is up as shown, the device 30 illuminates the interior of the
+bowl 14 with preferably a gentle green light as indicated by
+rays 32.
+
+The device 30 is further illustrated in FIG. 2, and com-
+prises a casing 34 having a rear cover 34 a which is attached
+to the main body of the casing 34 by screws or the like (not
+shown). A plunger 36 a of a sensor switch 36, and a lamp
+which is preferably a green Light Emitting Diode (LED) 38,
+protrude from the casing 34. The LED 38 produces the rays
+32 for illuminating the bowl 14 when the seat 18 is up.
+Further visible in FIGS. 1 and 2 is a slide switch 40 for
+switching between a record mode and a playback mode as
+will be described in detail below.
+
+The switch 36 is actuated by lowering the seat 18 such
+that the plunger 36a is depressed by engagement with an
+upper rear surface of the body 12 which constitutes an edge
+of the bow! 14. More specifically, when the seat 18 is up, the
+plunger 36a does not engage the bowl 14, and the LED 38
+is activated to illuminate the interior of the bowl 14. When
+the seat 18 is lowered into the seating position, the plunger
+36a engages with the bow! 14 and is depressed thereby, and
+the LED 38 is de-activated such that bowl 14 is not illumi-
+nated.
+
+FIG. 3 illustrates the seat 18 and device 30 in the lowered
+seating position. The device 30 is attached to the seat 18
+using velcro strips 43, adhesive, or other suitable means.
+Preferably, the casing 34 is liquid resistingly sealed to
+preclude contamination and/or short circuiting of internal
+electrical components. This also enables the device 3@ to be
+removed from the seat 18 and washed if necessary to remove
+any contaminants which may have become splattered
+thereon. The casing 34 can be sealed by O-rings, flexible
+webs, or any other known means although not explicitly
+illustrated.
+
+With the construction described thus far, when the seat 18
+is raised to the position illustrated in FIG. 1 for standing
+urination, the bow! 14 is illuminated by the LED 38. When
+the seat 18 is lowered for seated use or as a courtesy to
+subsequent users, the LED 38 is turned off. In addition to
+this capability, the present device 30 comprises an annun-
+ciation mechanism which audibly prompts a user to return
+the seat 18 to the lower position after use.
+
+FIGS. 4 and § in combination illustrate the electrical
+components of the device 30, and the manner in which they
+perform the present functionality.
+
+The device 30 includes a battery 42 which provides a
+voltage in the range of, for example, 1.5 to 9 volts, for
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+45
+
+50
+
+55
+
+65
+
+4
+
+powering the LED 30. The switch 36, LED 38 and battery
+42 are connected in series with a current limiting resistor 44
+which may or may not be necessary depending on the
+current rating of the LED 42. Preferably, the battery 42 is a
+flat disk type to enable the device 30 to be made thin enough
+to fit in the space between the seat 18 and the bowl 14 when
+the seat 18 is down. These elements constitute an illumina-
+tion unit 46 of the device 30.
+
+The switch 36 is normally closed to complete the circuit
+between the battery 42 and LED 38 when the seat 18 is up,
+and is opened by depression of the plunger 36a when the
+seat 18 is down.
+
+An annunciator unit 48 of the device 30 comprises an
+audio module 50 having ON/OFF terminals 50a, 506 which
+are connected across the switch 36. When the switch 36 is
+closed (seat 18 is up), the switch 36 connects the terminals
+50a, 50b together to activate or turn on the audio module 50.
+When the switch 36 is opened (seat 18 is down), the
+terminals 50a, 50b are disconnected and the audio module
+50 is de-activated or turned off.
+
+The audio module 50 is powered by one or more batteries.
+As illustrated in FIG. 4, a battery unit 52 includes four flat
+disk batteries 52a which are connected in series. Typically,
+the individual batteries 52a each produce 1.5 volts, and the
+battery unit 52 thereby applies 6 volts to the module 50 via
+power terminals 50c, 50d.
+
+The switch 40 is connected to mode select terminals 50e,
+50f of the module 50. When the switch 46 is open, the
+module 5@ is in one of a record mode or a playback mode,
+and when the switch 42 is closed. the module 50 is in the
+other of the record mode or playback mode.
+
+The annunciator unit 48 further includes a speaker 54
+which is connected to the module 50 via speaker terminals
+50g, 50h, and a microphone 56 which is connected to the
+module 50 via microphone terminals 50i, 50). The micro-
+phone 56 enables the owner of the device 30 to record an
+audio sequence in the module 50, whereas the speaker 54
+produces an audible annunciation consisting of the audio
+sequence as played back.
+
+As viewed in FIG, 2, the back cover 36 may be formed
+with holes 34b and 34c which enable the speaker 54 and
+microphone 56 to respectively communicate directly with
+the space external of the casing 34 in a liquid resistant
+manner.
+
+Electrical components which can implement the function-
+ality of the audio module 50 and associated elements are
+commercially available as off-the-shelf items. For example,
+a digital voice record/playback kit is available from Radio
+Shack as part no. 276-1326 which includes all necessary
+items except the battery unit 52.
+
+In operation, the owner uses the switch 40 to select record
+mode, and records an audio sequence in an internal memory
+of the module 50 via the microphone 56. The module 50 has
+a capacity to store a message having a maximum time length
+of, for example, 20 seconds. After recording the audio
+sequence, the owner uses the switch 40 to select playback
+mode, and attaches the device 30 to the toilet seat 18.
+
+The audio sequence is long enough to prompt a drowsy
+person to return the seat 18 to the lower position after using
+the toilet 10 for standing urination. A minimum time length
+of 20 seconds (which is the maximum capacity of the above
+referenced Radio Shack unit) is considered to be
+appropriate, although the invention is not so limited. It is
+further within the scope of the invention to produce an audio
+module 50 which repeatedly plays back an audio sequence
+as an endless loop (like a tape loop), or which continuously
+generates an audio sequence such as musical tones.

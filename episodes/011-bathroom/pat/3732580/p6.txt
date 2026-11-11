@@ -1,0 +1,155 @@
+grams.
+
+3,732,580
+
+5
+
+perature value: this device has not been shown for the
+sake of simplicity in the drawings as being per se well
+known, such as of a design as used in ordinary water
+heaters. The timer will impose voltage on the delivery
+pump and electronic control circuit 16 for the electro- 5
+valves E1, E2 and E3. Thus, the water will flow under
+pressure in tubings 6, 7 and 8 and exit from the showers
+
+§ in the helmet.
+
+Then the first washing step with pure water is re-
+peated, that is without the solution that in the previous
+step was withdrawn from the container 12. As appar-
+ent, washing or rinsing steps can be alternated accord-
+ing to the program set up by the timer. It is likewise ap-
+parent that in the rinsing steps the pumps P3, P4 would
+not be operated and would not introduce any cleansing
+solution into the reservoir prior to starting the cycle,
+while it being possible to introduce restoring or color-
+ing solutions into the reservoir.
+
+As shown in the drawings, the types of washing, re-
+storing, coloring solution or the like can be different
+
+10
+
+15
+
+20
+
+and more that two.
+
+By means of conduits, showers and electrovalves of
+
+a suitable design, hair treatment solutions can be in-
+
+jected concurrently and independently of the pure
+
+water withdrawn from the reservoir. The number of 25
+
+showers, the arrangement thereof, the number of tub-
+
+ings and the water pressure can be as desired.
+
+When suitably programmed, the timer shows an ex-
+
+cellent behavior in performing different working pro-—
+
+30
+
+It is to be pointed out that the person washing his or
+
+her hair can readily remote control the temperature of
+
+the water in the reservoir by merely operating on the
+potentiometer R2 mounted on the console 18, whereon
+
+a stop pushbutton can be also provided, by means of 35
+
+which the operation of the device can be instanta-
+
+neously blocked.
+
+What I claim is:
+
+1. A hair washing device comprising:
+
+a helmet having seals along its free edge, shower 40
+heads arranged within said helmet, and an outlet
+opening;
+
+a liquid-supply means connected to said shower
+heads and connectable to a water supply, said liq-
+uid-supply means including a liquid reservoir hav- 45
+ing a level indicator therein and a drain, electro-
+valves, pump means, and liquid conduit means,
+said liquid conduit means connecting said reservoir
+to said pump means, said pump means to said elec-
+trovalves, and individual ones of said electrovalves 50
+to corresponding ones at said shower heads;
+
+55
+
+60
+
+65
+
+6
+
+a hair-treatment-liquid supply means including at
+least one container for a hair-treatment-liquid, and
+a delivery pump, said container and said pump
+being operatively connected to at least one of said
+shower heads; .
+
+a temperature-control means including a heater in
+said reservoir, a heat-responsive element in said
+reservoir for use in controlling the output of said
+heater, and a manually adjustable potentiometer
+for setting the control temperature; and
+
+electric circuitry connected to said level indicator,
+
+said electrovalves, said pump means, said delivery
+pump, and said temperature-control means, said
+circuitry including a timing device controlling said
+pump ‘means and delivery pump and selectively
+controlling said electrovalves, said level indicator
+being electrically connected to said timing device
+and causing it to step-advance and being electri-
+cally connected to said temperature-control means
+to selectively switch said heater on and off.
+
+2. The device as claimed in claim 1, including a dis-
+charge conduit connecting said outlet opening to said
+liquid reservoir.
+
+3. The device as claimed in claim 1, wherein said res-
+ervoir drain includes a drain pump, said drain pump
+being controlled by said timing device.
+
+4. The device as claimed in claim 1, wherein said liq-
+uid conduit means includes a plurality of distinct tub-
+ings connecting said electrovalves to said shower
+heads, and wherein said electric circuitry includes: a
+current amplifier operatively connected to said heat-
+responsive element and to said potentiometer, a cur-
+rent rectifier supplying current to said amplifier, and a
+bidirectional semiconductor connected to said ampli-
+fier and to said heater, whereby the current going to
+said heater from said heat-responsive element is ampli-
+fied.
+
+5.-The device as claimed in claim 1, wherein said
+electric circuit including a timing device for selectively
+controlling said electrovalves comprises: a variable pe-
+riod oscillator connected to said timing device; a bista-
+ble multivibrator connected to said oscillator; and at
+least one relay connected to said multivibrator for con-
+trolling the electrovalves in the liquid conduit means
+connecting said pump means with said shower heads.
+
+6. The device as claimed in claim 1, wherein said
+heat-responsive element is a thermistor.
+
+7. The device as claimed in claim 5, wherein said
+
+relay is a multi-contact relay.
+* * * * *

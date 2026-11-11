@@ -1,0 +1,171 @@
+4,790,036
+
+9
+
+The throughflow profiles and the quantities of water
+are dimensioned such that water continues to flow
+through the valve 7, and therefore also through the
+turbine 11, also when the cleaning cycle~has already
+ended. This does not mean, however, that the cleaning
+cycle automatically starts anew. Delay elements are
+provided in the control electronics, which prevent this.
+
+The abovementioned operating stages refer to the
+example illustrated in the drawings, and within the
+framework of the invention may also be realized differ-
+ently. The slide housing 26, instead of by parallel swivel
+arms 18, may also be guided in a link line. In the illus-
+trated example of the parallel swivel arms 18, the holder
+20 and the frame 21 form two parallelograms, so that
+the slide housing 26 moves in the same horizontal posi-
+tion and in a circular arc-shaped trajectory. In contrast
+thereto, the link line that may be used can determine
+any trajectory for the movement of the slide housing 26.
+Instead of the mechanical control of the valves 42, 43,
+also the electric control already mentioned in the fore-
+going may be used. It is also possible that the second
+wiper 48’, extending in the circumferential direction of
+the seat 27, is not connected to the slide housing 26, but
+has a separate tiltable elastic carrier. It is also possible to
+use only one nozzle 55, which then is fed with water
+into which a disinfecting agent is mixed. In this case it is
+then possible to use the other line 41 as an air supply line
+and thereby dry the cleaning liquid from the seat by a
+blast of air through the remaining nozzles.
+
+In the following, a-preferred simplified embodiment
+is described of a variant of a furhter development of the
+device according to the invention. The same’ opera-
+tional parts have again been given the same reference
+numerals.
+
+The slide housing shown in FIG. 6 has a number of
+special features compared to that of FIG. 3. This hous-
+ing slides on two round slide rails 25’, in a cylinder
+which are also round. The cleaning water is again con-
+trotled by a valve 42 in the pipe 10. The pipe 41 of the
+disinfecting liquid is in the form of an overflow pipe,
+without valve, and is connected to the tank 23, which in
+this case is pressureless and contains the disinfecting
+liquid. In the front part facing the seat, under the cover
+of the slide housing 26, a first and second wiper 48, 48’
+are provided for the circumferential direction of the
+seat. They are again fastened to carriers, the second
+carrier 49’ being extended. downwards and in addition
+carrying a support roller 50’. This support roller 50’
+rests on shafts 51, 51’ supported at their ends, which are
+fastened to the brackets 51” attached to the carrier 49.
+In the rear part of the slide housing 26, a wetting ele-
+ment 70 is provided, which replaces the spraying device
+for the disinfecting liquid (FIG. 3, FIG. 4). This wetting
+element is supplied with disinfecting liquid from the
+pressureless tank 23 whenever the wetting element 70 is
+positioned at a lower level than the level of the liquid in
+the tank 23, i.e. in the cleaning and disinfecting position
+of the slide housing 26.
+
+For the rest, the mechanical construction of the slide
+housing 26 corresponds to the solution of FIG. 3. The
+moving back of the slide housing into the neutral is
+again ensured by a helical spring 22.
+
+The other details, e.g. the nozzle unit 47 for spraying
+the cleaning water by means of two nozzles 55, which
+spray two jets of liquid, can be noted from the sectional
+view of FIG. 7.
+
+According to FIGS. 7 and 9, at the front of the slide
+housing 26 an electro-magnet 60 is provided, with a
+
+20
+
+25
+
+35
+
+40
+
+45
+
+50
+
+60
+
+65
+
+10
+
+solenoid (SOL) which is not illustrated in these Figures
+and is controlled by the electronic circuit FIG. 10. The
+armature 61 of the electromagnet 60 in the neutral posi-
+tion holds a onesidely mounted lever 62, engaging into
+a bore 64 of its angle 63. At the end of the cleaning
+operation the solenoid (SOL) is briefly energized, so
+that the armature 61 pulls back, and due to gravity tilts
+the lever 62 downward around the axis of rotation 65.
+In the illustrated case a wiper 48” is arranged at the end
+of the angle 63, which wiper rests on the seat and, dur-
+ing the backward movement of the slide housing 26
+produced by the spring 22, wipes off the water marks
+left by the wipers (for the circumferential direction).
+
+The lever 62 is arranged in the slide housing 26 in
+such a way that, in the neutral position of the housing
+26, it is moved back mechanically into its starting posi-
+tion with locked armature 61. This mode of functioning
+can easily be noted from FIG. 9, in which broken lines
+illustrated the lever 62 with its angle 63, its bore 64 and
+the wiper 48”, in the downwardly tilted position.
+
+The wetting element 70, FIGS. 6,8,82, consists of a
+light sheet-metal U-section 71, in which a sponge insert
+72 is arranged, which—in the correct position—is sup-
+plied with disinfecting liquid through the pipe 41. This
+sponge insert 72 wets a material cover 73. of rough,
+snythetic cloth, which engages around the greater part
+of the seat 27 and disinfects it. At the edges the material
+cover 73 is provided with two tighteners 74 of a rubber
+band, thus ensuring at all times a form-locking contact
+with the seat 27 at a suitable contact pressure. FIG. 8a
+shows the wetting element 70 in its rear neutral position,
+where it is pressed onto.a raised section 32’ of the toilet
+bowl 32, thus substantially limiting the drying out of the
+sponge insert.
+
+The material cover 73 with its two tighteners 74 can
+very easily be removed from the U-section 71; it is only
+pressed in so that, in the course of the normal toilet
+cleaning work, it can very easily be replaced.
+
+The interaction of the individual components of the
+device will be explained in greater detail with reference
+to FIG. 10 and 11.
+
+In the block diagram of the electronic control shown
+in FIG. 10, the output of the low-voltage direct-current
+generator 13 is connected, by way of a filter F, to a trip
+circuit INIT. The output thereof is connected on the
+one hand to two memories Mj, M2, and on the other
+hand to a time element T}, the output of which is in turn
+connected to the memory M2. One output each of the
+memories Mj, Mp leads to a forward logic LA, which
+controls the electric motor 19 such that the slide hous-
+ing 26 is moved forward, i.e. in the direction of the seat
+27. The output of the memory M, furthermore leads to
+a backward logic LR, which moves the electric motor
+19 in the opposite direction, i.e. away from the seat 27.
+The outputs of the forward and backward logic LA,
+LR are connected by way of a time element T, to two
+power stages TRA and TRV respectively, by way of
+which the generator 13 is switched on to selectively
+drive the electric motor 19 in the one or the other direc-
+tion of rotation. The two power stages TRV and TRA
+each contain two substages TR}, TR2, and TR3, TRs
+respectively. When the stages TR; and TR3 are acti-
+vated, full power is supplied to the electric motor 19,
+whereas when the stages TR2 and TR, are activated, a
+reduced power is supplied to this motor.
+
+An end position monitoring circuit contains three
+functions unit, of which the first unit FCA is connected
+to the forward logic LA, the memory Mj as well as to

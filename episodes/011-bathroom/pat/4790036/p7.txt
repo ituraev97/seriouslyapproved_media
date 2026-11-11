@@ -1,0 +1,171 @@
+4,790,036
+
+1
+
+METHOD AND DEVICE FOR THE AUTOMATIC
+CLEANING OF A TOILET SEAT
+
+BACKGROUND OF THE INVENTION
+
+Field of the Invention:
+
+The present invention relates to a method for the
+automatic cleaning of a toilet seat, wherein the seat of
+the toilet, during the cleaning, is moved in a circumfer-
+ential direction, and is cleaned with water and/or a
+disinfecting liquid, and to a device for performing the
+method.
+
+Description of the Prior Art:
+
+Methods and devices of the above-mentioned type
+are-already known; thus, for example, the EP-B1-No. 0
+035 962 describes and illustrates a toilet with flushing
+device and self-cleaning toilet. seat. A segment of the
+seat is engaged in a transport and cleaning element. This
+element comprises nozzles for cleaning with water and
+a disinfecting liquid, and includes a wiper for drying the
+surface. This element, therefore, also engages the seat
+when the device is not in use. The rotating of the seat
+required for the cleaning is ensured by means of a water
+wheel, the flow of the flushing water being used to
+drive it. The seat is positioned between at least one
+support roller and at least one drive roller arranged
+underneath the seat. This device is functional, but has
+the disadvantage that the transport and cleaning ele-
+ment also engages the rear segment of the toilet seat
+when the device is not in use, which could render the
+use of the toilet uncomfortable.
+
+SUMMARY OF THE INVENTION
+
+It is the object of the present invention to eliminate
+the disadvantages of the prior art, and to create a
+method and device for the automatic cleaning of a toilet
+seat, which do not have the disadvantages of the prior
+art, and which, when the device is not in use, leave the
+surface of the seat free from parts which clean, and
+possibly move it.
+
+With a method of the type mentioned at the outset,
+this object is achieved in that a slide housing comprising
+units for the wetting with water and/or the disinfecting
+liquid and a drying unit, is moved from a neutral posi-
+tion outside the seat into a position above a segment of
+the ring-shaped seat, in that subsequently the water
+and/or the disinfecting liquid is fed in and applied to the
+seat, and in that the seat is rotated by at least 360°, the
+upper surface of the seat being dried.
+
+The advantage of this method, is that in the neutral
+position of the device the entire seat is free, and only
+after the slide housing with the wetting devices and at
+least one wiper is placed on a segment of the seat, is the
+seat able to rotate, during which rotation it is washed,
+possibly also disinfected and dried. When the cleaning
+has been completed, the slide housing is again pulled
+back to a position adjacent the surface of the seat.
+
+In the simplest case, the seat is rotated by only 360°,
+during which it is sprayed or wetted and at the same
+time dried by at least one wiper. It is also possible to
+rotate the seat twice through an angle of rotation of
+360°, when during the first rotation the spraying or the
+wetting with the liquids takes place, and during the
+second rotation the drying. This is, in particular, expedi-
+ent in most countries where the seat has an oval shape.
+In the USA, for example, more and more circular seats
+are being used. In this case, of course, the rotation need
+not be only 360°, since the neutral position may be any.
+
+5
+
+—
+
+0
+
+45
+
+50
+
+35
+
+60
+
+65
+
+2
+
+One could, for example, use a rotation of 400°, so that
+the most highly stressed part of the surface of the seat
+moves during the various rotations in the circumferen-
+tial direction of the seat. In this case, for example, the
+spraying and the wetting with the liquids could take
+place during the rotation by 360°, whereas during the
+remaining 40° only the drying is still in operation. In this
+way it could be prevented that the zero position under
+the slide housing becomes wetter than the other parts.
+
+It is, furthermore, advantageous when during the
+moving forward of the slide housing at least one valve
+for spraying the water and/or the disinfecting liquid is
+opened by means of at least one moving part, and is kept
+open while the device is in the forward operating posi-
+tion. This technical solution has the advantage that one
+or two valves are automatically mechanically actuated
+by the movement of the slide housing, e.g. by means of
+parallel swivel arms which carry the slide housing.
+
+According to a further development, the slide hous-
+ing and the seat are driven by. electric motors. This
+solution is extremely economical since in this case no
+complicated mechanical drive is required; the required
+electric motors can be series-produced, which also ren-
+ders this solution economical.
+
+It is expedient when the electrical energy for driving
+the electric motors and control electronics is obtained
+by means of a turbine, which is driven by the water
+flowing into the flushing water cistern after a valve of a
+float has opened, and which turbine mechanically
+drives a power generator. This further development has
+several advantages. No outside energy is required, e.g.
+from the power mains, although it is possible, of course,
+in particular in the case of new installations and when a
+low-voltage source is already available for other rea-
+sons, to use this source directly without the aformen-
+tioned turbine and the aforementioned generator. A
+further advantage can be seen in that the functioning of
+the turbine and, therefore, of the power generator is
+linked directly only to the filling up again of the flush-
+ing water cistern, so that the kinetic flushing energy of
+the flushing water is not reduced.
+
+It is particularly expedient when individual operating
+stages are started up manually by means of a lever of the
+flushing water cistern, and thereafter are controlled
+automatically by the control electronics. In this way the
+cleaning takes place only when the lever of the flushing .
+water cistern is pressed by hand, i.¢. when the toilet is
+no longer in use. In this way the starting up of the oper-
+ating stages is also not dependent on the removal of
+pressure from the seat, although in this connection addi-
+tional safety measures are provided.
+
+According to a variant, also the valves for feeding-in
+the cleaning water and/or the disinfecting liquid are
+controlled by the control electronics. This variant can
+replace the already previously described solution with
+which the valves are controlled mechanically by at least
+one moving part. It is up to the design engineer to
+choose which of the described solutions is used:
+
+It is, furthermore, advantageous when the control
+electronics are informed of the position of the seat by
+means of a contract arrangement. It is expedient to use
+two pairs of contacts which signal the position of the
+seat. They inform the electronics whether the seat is
+occupied or already raised or unoccupied. Most toilet
+seats are not circular, but are elliptical at least in the
+inside diameter. With this seat shape it is also important
+that after the circumferential movement the seat moves

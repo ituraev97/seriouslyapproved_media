@@ -1,0 +1,212 @@
+5,926,099
+
+5
+DESCRIPTION OF DRAWINGS
+
+Particular embodiments incorporating a gravity-actuated
+position signal device will be understood in conjunction
+with the accompanying drawings in which:
+
+FIG. 1A is a block diagram depicting the components of
+the electronic position signal device.
+
+FIG. 1B is a perspective view of the housing of the
+position signal device showing indicia.
+
+FIG. 1C is a perspective view of a toilet equipped with an
+embodiment of the position signal device of FIG 1B
+emplaced on a toilet lid in horizontal and vertical positions.
+
+FIG 2A is a plan view of the position signal device in
+which the position-sensitive switch is open.
+
+FIG 2B is a view of the position signal device of FIG. 2A
+as seen from the left side of the plan view in FIG. 2A in
+which the position-sensitive switch is closed.
+
+FIG. 3A is a plan view of the position signal device of
+FIG. 2A with a variation of the position-sensitive switch in
+which the position-sensitive switch is open.
+
+FIG. 3B is a view of the position signal device of FIG. 3A
+as seen from the left side of the plan view in FIG. 3A in
+which the position sensitive switch is closed.
+
+FIG. 4A is a plan view of the position signal device of
+FIG. 2A with another variation of the position-sensitive
+switch in which the position-sensitive switch is open.
+
+FIG. 4B is a view of the position signal device of FIG. 4A
+as seen from the left side of the plan view in FIG. 4A in
+which the position-sensitive switch is closed.
+
+LIST OF REFERENCE NUMERALS
+
+10 Electronic position signal device
+
+16 Indicia
+
+20 Electronic signaling module
+
+22 Electronic signaling module circuit board
+
+24 Battery power source
+
+26A Contact
+
+26B Contact
+
+28 Contact arm
+
+30 Transducer
+
+32 Loudspeaker
+
+34 Light emitting diode (LED)
+
+36 Electrical conductors
+
+40 Position-sensitive switch
+
+42 Open condition in circuit
+
+44 Closed condition of circuit
+
+50 Base
+
+52 Housing
+
+56A Attachment means of electronic module components to
+base or housing
+
+56B Attachment means of weight means to delivery means
+
+56C Attachment means of delivery means
+
+56D Attachment means of base or housing to toilet lid
+
+60 Weight means
+
+70 Delivery means
+
+80 Toilet lid
+
+82 Toilet cover
+
+84 Toilet seat
+
+86 Hinge
+
+90 Toilet
+
+92 Void/Toilet bowl
+
+DESCRIPTION OF INVENTION-FIGS. 1 TO 4
+
+DESCRIPTION, FIGS. 1A-1C
+
+FIG. 1A is a block diagram depicting the elements of the
+electronic position signal device.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+6
+
+The electronic position signal comprises a position-
+sensitive switch 40, and a self-powered electronic signaling
+module 20 which includes an electronic signaling module
+circuit board 22 on which is mounted battery power source
+24, a transducer which may be a loudspeaker 32 and/or light
+emitting diode (LED) 34 electrically connected 36 to circuit
+board 22, contacts 26A and 26B, and means (not shown) for
+attaching the position signal to an object.
+
+The self-powered electronic signaling module 20 is an
+item of commerce which is available from domestic and
+foreign vendors. Electronic signaling module 20 may be a
+music, sound, voice, and/or LED blinking light module of
+the common type commonly sold in the United States, Hong
+Kong, Taiwan, Japan, China, Thailand, and Philippines. In
+the preferred embodiment, a greeting card style electronic
+music, sound, and blinking light module is used. The module
+is commonly used in musical, voice-message, and blinking
+light greeting cards. An audio and/or visual signal may be
+stored in the module.
+
+The transducer is a loudspeaker 32 when an audio signal
+is produced by the position signal device. The transducer is
+a light emitting diode 34 when a visual signal is produced by
+the position signal device. The transducer may be both a
+loudspeaker 32 and a light emitting diode 34 when both
+audio and visual signals are produced by the self-powered
+electronic signaling module 20.
+
+The position-sensitive switch is depicted by circuit 40
+within the dotted lines.
+
+Position-sensitive switch 40 may be any one of a multi-
+tude of types. For example, it may be a gravity actuated
+mercury switch to indicate the position of an object in the
+vertical position. It may be a pressure sensitive switch to
+indicate that an object is positioned proximally to another
+object. It may be a magnetic proximity sensor to indicate
+that an object is positioned proximally to another object. It
+may be a conductive weight delivered by gravity to bridge
+a pair of open electrical contacts and indicate that an object
+has been moved from a vertical or horizontal position.
+
+An embodiment of the electronic position signal device as
+a toilet lid position signal is illustrated in FIG. 1B.
+
+FIG. 1B shows the electronic position signal device
+enclosed in a housing 52 with indicia 16.
+
+In the common toilet 90 construction shown in FIG. 1C,
+seat 84 is overlain by a hinged 86 cover 82 which is intended
+to be lowered after usage of the toilet to cover seat 84 and
+underlying void 92.
+
+Referring to FIG. 1C, electronic toilet lid position signal
+10 is emplaced on toilet lid 80 of the common type com-
+prised of seat 84 and/or cover 82 which is attached to toilet
+90 of the common type for producing an audible and/or
+visible signal when toilet lid 80 is in the upright position.
+
+DESCRIPTION, FIGS. 2A-2B
+
+FIG. 2A is a plan view of the toilet lid position signal with
+components mounted on a base 50.
+
+The electronic signaling module components of circuit
+board 22 and transducer 30 are commonly provided with
+attachment means 56A, not shown in FIG. 2A, for attach-
+ment to a greeting card. Attachment means 56A means may
+be used for the attachment of said components to base 50, as
+shown in FIG. 2B.
+
+Base 50 is formed of suitable material, the only require-
+ments being that it be of relatively light weight,
+nonconductive, and of sufficient mechanical strength and
+size to support the transducer 30 and electronic signaling
