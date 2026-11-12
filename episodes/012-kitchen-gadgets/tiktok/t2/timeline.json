@@ -1,0 +1,563 @@
+{
+ "T": 63.58,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.744,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.993
+    ],
+    [
+     2.493,
+     7.293
+    ]
+   ],
+   "g": "fig",
+   "fig": "bread4",
+   "figno": "4",
+   "draw": false,
+   "calls": [
+    [
+     "CUTTING BANDS",
+     210,
+     410,
+     -60,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 7.744,
+   "t1": 14.22,
+   "i": 1,
+   "segs": [
+    [
+     7.744,
+     10.133
+    ],
+    [
+     10.413,
+     13.869
+    ]
+   ],
+   "g": "fig",
+   "fig": "bread4",
+   "figno": "4",
+   "draw": false,
+   "calls": [
+    [
+     "CUTTING BANDS",
+     210,
+     410,
+     -60,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 14.22,
+   "t1": 18.624,
+   "i": 2,
+   "segs": [
+    [
+     14.22,
+     18.273
+    ]
+   ],
+   "g": "quote",
+   "q": "adjacent bands move in opposite directions to prevent crushing and displacement of the",
+   "hit": "opposite directions",
+   "src": "US 1,867,377 \u00b7 description"
+  },
+  {
+   "t0": 18.624,
+   "t1": 21.807,
+   "i": 3,
+   "segs": [
+    [
+     18.624,
+     19.456
+    ],
+    [
+     19.876,
+     21.306
+    ]
+   ],
+   "g": "stamp",
+   "title": "MACHINE FOR SLICING|AN ENTIRE LOAF",
+   "filed": "NOV. 26, 1928",
+   "date": "JULY 12, 1932",
+   "at": 0.6
+  },
+  {
+   "t0": 21.807,
+   "t1": 28.904,
+   "i": 4,
+   "segs": [
+    [
+     21.807,
+     23.961
+    ],
+    [
+     24.241,
+     26.375
+    ],
+    [
+     26.655,
+     28.553
+    ]
+   ],
+   "g": "fig",
+   "fig": "bread1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "CONVEYOR",
+     196,
+     300,
+     120,
+     0
+    ]
+   ]
+  },
+  {
+   "t0": 28.904,
+   "t1": 36.786,
+   "i": 5,
+   "segs": [
+    [
+     28.904,
+     36.435
+    ]
+   ],
+   "g": "quote",
+   "q": "hold the slices in substantial loaf form until the wrapping machine places a suitable wrapper around the same",
+   "hit": "substantial loaf form",
+   "src": "US 1,867,377 \u00b7 description"
+  },
+  {
+   "t0": 36.786,
+   "t1": 42.492,
+   "i": 6,
+   "segs": [
+    [
+     36.786,
+     42.141
+    ]
+   ],
+   "g": "quote",
+   "q": "the speed of slicing complete loaves of bread will be materially increased.",
+   "hit": "materially increased",
+   "src": "US 1,867,377 \u00b7 description"
+  },
+  {
+   "t0": 42.492,
+   "t1": 51.915,
+   "i": 7,
+   "segs": [
+    [
+     42.492,
+     43.388
+    ],
+    [
+     43.668,
+     49.065
+    ],
+    [
+     49.345,
+     51.564
+    ]
+   ],
+   "g": "quote",
+   "q": "The first commercial use of the machine was by the Chillicothe Baking Company",
+   "hit": "first commercial use",
+   "src": "Wikipedia \u00b7 Sliced bread"
+  },
+  {
+   "t0": 51.915,
+   "t1": 57.9,
+   "i": 8,
+   "segs": [
+    [
+     51.915,
+     55.541
+    ],
+    [
+     56.041,
+     57.449
+    ]
+   ],
+   "g": "fig",
+   "fig": "bread1",
+   "figno": "1",
+   "draw": false
+  },
+  {
+   "t0": 57.9,
+   "t1": 63.58,
+   "i": 9,
+   "segs": [
+    [
+     57.9,
+     59.351
+    ],
+    [
+     59.851,
+     60.726
+    ]
+   ],
+   "g": "stamp",
+   "title": "MACHINE FOR SLICING|AN ENTIRE LOAF",
+   "filed": "NOV. 26, 1928",
+   "date": "JULY 12, 1932",
+   "big": true,
+   "at": 1.2
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.993,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.493,
+   "t1": 3.468,
+   "txt": "A machine for"
+  },
+  {
+   "t0": 3.468,
+   "t1": 4.743,
+   "txt": "slicing an entire"
+  },
+  {
+   "t0": 4.743,
+   "t1": 5.718,
+   "txt": "loaf of bread"
+  },
+  {
+   "t0": 5.718,
+   "t1": 6.543,
+   "txt": "at a single"
+  },
+  {
+   "t0": 6.543,
+   "t1": 7.293,
+   "txt": "operation."
+  },
+  {
+   "t0": 7.744,
+   "t1": 8.58,
+   "txt": "Every line you"
+  },
+  {
+   "t0": 8.58,
+   "t1": 9.237,
+   "txt": "see here is"
+  },
+  {
+   "t0": 9.237,
+   "t1": 10.133,
+   "txt": "a cutting band."
+  },
+  {
+   "t0": 10.413,
+   "t1": 11.189,
+   "txt": "A whole row"
+  },
+  {
+   "t0": 11.189,
+   "t1": 11.753,
+   "txt": "of them,"
+  },
+  {
+   "t0": 11.753,
+   "t1": 12.67,
+   "txt": "side by side,"
+  },
+  {
+   "t0": 12.67,
+   "t1": 13.587,
+   "txt": "one for every"
+  },
+  {
+   "t0": 13.587,
+   "t1": 13.869,
+   "txt": "cut."
+  },
+  {
+   "t0": 14.22,
+   "t1": 15.36,
+   "txt": "And adjacent bands"
+  },
+  {
+   "t0": 15.36,
+   "t1": 16.373,
+   "txt": "move in opposite"
+  },
+  {
+   "t0": 16.373,
+   "t1": 17.703,
+   "txt": "directions to prevent"
+  },
+  {
+   "t0": 17.703,
+   "t1": 18.273,
+   "txt": "crushing."
+  },
+  {
+   "t0": 18.624,
+   "t1": 19.456,
+   "txt": "Approved."
+  },
+  {
+   "t0": 19.876,
+   "t1": 21.306,
+   "txt": "Nineteen thirty-two."
+  },
+  {
+   "t0": 21.807,
+   "t1": 22.465,
+   "txt": "From above,"
+  },
+  {
+   "t0": 22.465,
+   "t1": 22.884,
+   "txt": "it is a"
+  },
+  {
+   "t0": 22.884,
+   "t1": 23.961,
+   "txt": "pair of conveyors."
+  },
+  {
+   "t0": 24.241,
+   "t1": 25.245,
+   "txt": "One delivers the"
+  },
+  {
+   "t0": 25.245,
+   "t1": 25.998,
+   "txt": "bread to the"
+  },
+  {
+   "t0": 25.998,
+   "t1": 26.375,
+   "txt": "bands."
+  },
+  {
+   "t0": 26.655,
+   "t1": 27.631,
+   "txt": "The other receives"
+  },
+  {
+   "t0": 27.631,
+   "t1": 28.553,
+   "txt": "the sliced bread."
+  },
+  {
+   "t0": 28.904,
+   "t1": 29.645,
+   "txt": "Belts at the"
+  },
+  {
+   "t0": 29.645,
+   "t1": 30.509,
+   "txt": "sides hold the"
+  },
+  {
+   "t0": 30.509,
+   "t1": 31.805,
+   "txt": "slices in substantial"
+  },
+  {
+   "t0": 31.805,
+   "t1": 32.731,
+   "txt": "loaf form until"
+  },
+  {
+   "t0": 32.731,
+   "t1": 33.966,
+   "txt": "the wrapping machine"
+  },
+  {
+   "t0": 33.966,
+   "t1": 35.015,
+   "txt": "places a suitable"
+  },
+  {
+   "t0": 35.015,
+   "t1": 36.126,
+   "txt": "wrapper around the"
+  },
+  {
+   "t0": 36.126,
+   "t1": 36.435,
+   "txt": "same."
+  },
+  {
+   "t0": 36.786,
+   "t1": 37.551,
+   "txt": "The promise:"
+  },
+  {
+   "t0": 37.551,
+   "t1": 38.316,
+   "txt": "the speed of"
+  },
+  {
+   "t0": 38.316,
+   "t1": 39.782,
+   "txt": "slicing complete loaves"
+  },
+  {
+   "t0": 39.782,
+   "t1": 40.611,
+   "txt": "of bread will"
+  },
+  {
+   "t0": 40.611,
+   "t1": 42.141,
+   "txt": "be materially increased."
+  },
+  {
+   "t0": 42.492,
+   "t1": 43.388,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 43.668,
+   "t1": 44.846,
+   "txt": "The machine's first"
+  },
+  {
+   "t0": 44.846,
+   "t1": 45.715,
+   "txt": "slices went on"
+  },
+  {
+   "t0": 45.715,
+   "t1": 46.708,
+   "txt": "sale in Missouri"
+  },
+  {
+   "t0": 46.708,
+   "t1": 47.7,
+   "txt": "on July seventh,"
+  },
+  {
+   "t0": 47.7,
+   "t1": 49.065,
+   "txt": "nineteen twenty-eight."
+  },
+  {
+   "t0": 49.345,
+   "t1": 50.343,
+   "txt": "Their sliced bread"
+  },
+  {
+   "t0": 50.343,
+   "t1": 51.009,
+   "txt": "proved to be"
+  },
+  {
+   "t0": 51.009,
+   "t1": 51.564,
+   "txt": "a success."
+  },
+  {
+   "t0": 51.915,
+   "t1": 53.415,
+   "txt": "In nineteen forty-three,"
+  },
+  {
+   "t0": 53.415,
+   "t1": 54.728,
+   "txt": "the government banned"
+  },
+  {
+   "t0": 54.728,
+   "t1": 55.541,
+   "txt": "sliced bread."
+  },
+  {
+   "t0": 56.041,
+   "t1": 57.047,
+   "txt": "For about seven"
+  },
+  {
+   "t0": 57.047,
+   "t1": 57.449,
+   "txt": "weeks."
+  },
+  {
+   "t0": 57.9,
+   "t1": 58.988,
+   "txt": "The greatest thing"
+  },
+  {
+   "t0": 58.988,
+   "t1": 59.351,
+   "txt": "since."
+  },
+  {
+   "t0": 59.851,
+   "t1": 60.726,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.744
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 14.22
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 18.624
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 21.807
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 28.904
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 36.786
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 42.492
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 51.915
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 57.9
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "THE LOAF|[SLICER] \u00b7 1932",
+ "hookSwitch": 3,
+ "num": "US 1,867,377",
+ "tt": true
+}

@@ -1,0 +1,206 @@
+i0
+
+15
+
+20
+
+26
+
+3
+
+i)
+
+35
+
+4
+
+o
+
+45
+
+50
+
+55
+
+60°
+
+65
+
+1,867,377
+
+bands as they pass over these rollers to de-
+crease the contact area between bands and
+rollers and thereby prevent breakage of the
+bands47. Theinnermost band 47is preferably
+passed over flanged rollers of somewhat larg-
+er diameter than rollers 48 and 58 to prevent
+breakage. The guide rollers for this inner
+band are mounted on the extreme ends of the
+arms 40 and 40’ beyond the pivot points
+thereof, as shown in Fig. 4. ,
+
+The drive pinions 60 and 61 are driven by
+corresponding gears 62 and 68 that are ar-
+
+-ranged upon a vertical shaft 64 which is jour-
+
+naled in brackets 65 and 65’ that are secured
+to the lowermost retaining bar 57. This
+shaft 64 is provided with a bevel gear 67 at
+its lower end which is driven by the mecha-
+nism which drives the feed and delivery con-
+veyors.
+
+The feed and delivery conveyors are of
+similar construction and since they are of
+similar construction the feed conveyor only
+will be described in detail. The delivery con-
+veyor carries the same numbers as the feed
+conveyor with the exception that a prime (’)
+is added thereto. ,
+
+The delivery conveyor comprises side
+frames 1 which are mounted upon suitable
+legs 2 that are held in spaced relationship by
+separators 4. The separators 4 for each pair
+of legs are interconnected by a spreader
+member 8. A feed belt 11 of any suitable ma-
+terial is mounted upon front and rear trans-
+versely mounted rollers 8 and 9, respectively.
+The ends of these rollers are rotatably jour-
+naled in the side members 1.
+
+A plurality of spaced cleats 25 are secured
+to the feed belt 11 and are provided with lon-
+gitudinal grooves to receive a plurality of
+fingers 26. The fingers 26 are provided with
+guide tongues 26’ which are received in the
+cleats 25. These fingers are held in place in
+the grooves by a longitudinal pressure bar 28
+which is clamped against the tongues 26’ by
+means of suitable set screws 27. When the
+set screws 27 are tightened the pressure of the
+bars 28 upon the tongues 26’ locks the fingers
+26 in place. By loosening the set screws 27
+the fingers 26 can be adjusted to correspond
+with the spacing of the cutting bands 47.
+These fingers, when the slicing machine is in
+operation. abut against the bread being fed
+to the slicing bands 47 and extend between
+the bands 47 to force the sliced bread-onto the
+delivery conveyor belt. The bread, as it is.
+fed to the cutting bands 47, is centrally posi-
+tioned on the conveyor belt 11 by means of a
+
+‘pair of spaced side belts 10 which are carried
+
+by vertically arranged flanged pulleys 6
+and 7.
+
+The feed conveyor belt 11 is driven by
+means of sprockets 12 carried by the shafts
+which support the rollers 9. These sprockets
+12 are driven from second sprockets 14 car-
+
+ried by a transversely arranged shaft 15 by
+
+3
+
+means of interconnecting sprocket chains 18.
+The vertical shaft.21 for the pulleys 7 which
+drive the side belts 10 and which are bear-
+inged in suitable brackets 22, are rotated by
+means of bevel gears 20 secured to their lower
+ends, which mesh with similar bevel gears 19
+also carried by the horizontal shaft 15.
+
+The conveyor belt 11’ and side belts 10’ for
+‘the delivery conveyor are also driven in the
+
+same manner from a sim€ar horizontal shaft
+15’.
+
+70
+
+q5
+
+The feed and delivery conveyors are longi- .
+
+tudinally aligned with their adjacent ends
+positioned close to the cutting mechanism, so
+that when the fingers 26 of the feed and de-
+livery belts are in operation they may: pass
+between the cutting blades 47. The slicing
+mechanism is supported by suitable brackets
+30 and 31 that are attached to the back plate
+82 and the legs 2 and 2’, respectively, of the
+feed and delivery conveyors. oy
+
+The shafts 15 and 15’ are provided with
+bevel gears 16 and 16’, respectively, which
+mesh with. bevel pinions 17 and 17’.' These
+
+pinions 17 and 17’ are carried by a longitudi- -
+
+nally extending shaft 18 which is driven by a
+
+suitable motor 24. The motor 24 is prefer-
+
+ably supported by the member 3’ and the
+
+shafts 18 are preferably supported at their .
+
+ends by suitable journal brackets 29.
+
+‘The shaft 18 adjacent the slicing mecha-
+nism carries a large bevel gear 68 that meshes
+with and drives the bevel pinion which drives
+the slicing bands 47.
+
+The feed and delivery conveyors and the
+slicing machine are thus driven by the same
+means, but are so arranged and timed that the
+conveyors operate at a speed relatively slow-
+er than the slicing mechanism.
+
+If desired, the faces of the rollers and
+pulleys which engage the cutting bands, may
+be slightly cone-shaped so as to prevent the
+cutting edges of the bands from. contacting
+with the flanges thereof, where such are pro-
+vided.
+
+In the operation of the slicing machine the
+bread is fed to the feed belt 11 in any suitable
+manner and is deposited thereon in front of
+the rows of spaced fingers 26 in abutting re-
+lationship. As the fingers 26 carry the bread
+
+05
+
+100
+
+105
+
+110
+
+forward, the loaves are centered on the con-. .
+
+veyor belt in the correct position and moved
+through the cutting blades 47 and sliced.
+The fingers 26 move between the cutting
+bands and discharge the sliced loaf onto the
+delivery belt 11’ between the side belts which
+
+hold the slices in abutting relationship. The _
+
+fingers 26 on‘ the delivery belt engage the
+sliced loaf and carry the-same to the delivery
+end. a
+The.delivery belt 11’ and side belts 10’
+may be the portion of a wrapping machine
+which feeds the bread to the wrapper, in
+
+which case the side belts 10’ hold the -slices '
+
+in substantial loaf form until the wrapping

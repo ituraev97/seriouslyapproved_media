@@ -1,0 +1,680 @@
+{
+ "T": 73.1,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 9.182,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.078
+    ],
+    [
+     2.578,
+     3.261
+    ],
+    [
+     3.761,
+     8.731
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE LITTLE MAN",
+     360,
+     100,
+     120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 9.182,
+   "t1": 14.995,
+   "i": 1,
+   "segs": [
+    [
+     9.182,
+     14.644
+    ]
+   ],
+   "g": "quote",
+   "q": "for the purpose of attracting the attention of people passing the device.",
+   "hit": "attracting the attention",
+   "src": "US 506,207 \u00b7 description"
+  },
+  {
+   "t0": 14.995,
+   "t1": 18.092,
+   "i": 2,
+   "segs": [
+    [
+     14.995,
+     15.827
+    ],
+    [
+     16.247,
+     17.591
+    ]
+   ],
+   "g": "stamp",
+   "title": "PEANUT-ROASTER OR|CORN-POPPER",
+   "filed": "AUG. 10, 1891",
+   "date": "OCT. 10, 1893",
+   "at": 0.6
+  },
+  {
+   "t0": 18.092,
+   "t1": 24.869,
+   "i": 3,
+   "segs": [
+    [
+     18.092,
+     20.652
+    ],
+    [
+     20.932,
+     22.404
+    ],
+    [
+     22.684,
+     24.518
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "GLASS CASE",
+     220,
+     420,
+     -60,
+     60
+    ],
+    [
+     "PEANUTS",
+     560,
+     900,
+     60,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 24.869,
+   "t1": 30.618,
+   "i": 4,
+   "segs": [
+    [
+     24.869,
+     30.267
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "STEAM ENGINE",
+     380,
+     670,
+     120,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 30.618,
+   "t1": 34.574,
+   "i": 5,
+   "segs": [
+    [
+     30.618,
+     34.223
+    ]
+   ],
+   "g": "quote",
+   "q": "This tank and the water therein, are heated by the exhaust steam from the engine",
+   "hit": "exhaust steam",
+   "src": "US 506,207 \u00b7 description"
+  },
+  {
+   "t0": 34.574,
+   "t1": 40.578,
+   "i": 6,
+   "segs": [
+    [
+     34.574,
+     40.227
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop1",
+   "figno": "1",
+   "draw": false,
+   "vb": "80 260 520 420",
+   "calls": [
+    [
+     "POPPING PAN",
+     220,
+     422,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 40.578,
+   "t1": 46.86,
+   "i": 7,
+   "segs": [
+    [
+     40.578,
+     46.509
+    ]
+   ],
+   "g": "quote",
+   "q": "This pan is made of sheet metal with a wire gauze top or band for preventing the popped corn from flying therefrom",
+   "hit": "flying therefrom",
+   "src": "US 506,207 \u00b7 description"
+  },
+  {
+   "t0": 46.86,
+   "t1": 53.882,
+   "i": 8,
+   "segs": [
+    [
+     46.86,
+     53.431
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop1",
+   "figno": "1",
+   "draw": false,
+   "vb": "200 0 380 300",
+   "calls": [
+    [
+     "FIGURE N",
+     360,
+     100,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 53.882,
+   "t1": 66.633,
+   "i": 9,
+   "segs": [
+    [
+     53.882,
+     54.778
+    ],
+    [
+     55.058,
+     60.54
+    ],
+    [
+     60.82,
+     66.282
+    ]
+   ],
+   "g": "fig",
+   "fig": "pop1",
+   "figno": "1",
+   "draw": false,
+   "vb": "200 0 380 300",
+   "calls": [
+    [
+     "FIGURE N",
+     360,
+     100,
+     80,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 66.633,
+   "t1": 73.1,
+   "i": 10,
+   "segs": [
+    [
+     66.633,
+     68.873
+    ],
+    [
+     69.373,
+     70.247
+    ]
+   ],
+   "g": "stamp",
+   "title": "PEANUT-ROASTER OR|CORN-POPPER",
+   "filed": "AUG. 10, 1891",
+   "date": "OCT. 10, 1893",
+   "big": true,
+   "at": 1.2
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.214,
+   "txt": "This is a"
+  },
+  {
+   "t0": 1.214,
+   "t1": 2.078,
+   "txt": "real U.S."
+  },
+  {
+   "t0": 2.578,
+   "t1": 3.261,
+   "txt": "patent."
+  },
+  {
+   "t0": 3.761,
+   "t1": 4.918,
+   "txt": "A popcorn machine"
+  },
+  {
+   "t0": 4.918,
+   "t1": 5.871,
+   "txt": "with a boiler,"
+  },
+  {
+   "t0": 5.871,
+   "t1": 6.893,
+   "txt": "a steam engine,"
+  },
+  {
+   "t0": 6.893,
+   "t1": 7.71,
+   "txt": "and a little"
+  },
+  {
+   "t0": 7.71,
+   "t1": 8.391,
+   "txt": "man on the"
+  },
+  {
+   "t0": 8.391,
+   "t1": 8.731,
+   "txt": "roof."
+  },
+  {
+   "t0": 9.182,
+   "t1": 9.696,
+   "txt": "His job,"
+  },
+  {
+   "t0": 9.696,
+   "t1": 10.66,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 10.66,
+   "t1": 11.303,
+   "txt": "own words:"
+  },
+  {
+   "t0": 11.303,
+   "t1": 12.845,
+   "txt": "attracting the attention"
+  },
+  {
+   "t0": 12.845,
+   "t1": 13.937,
+   "txt": "of people passing"
+  },
+  {
+   "t0": 13.937,
+   "t1": 14.644,
+   "txt": "the device."
+  },
+  {
+   "t0": 14.995,
+   "t1": 15.827,
+   "txt": "Approved."
+  },
+  {
+   "t0": 16.247,
+   "t1": 17.591,
+   "txt": "Eighteen ninety-three."
+  },
+  {
+   "t0": 18.092,
+   "t1": 19.128,
+   "txt": "The whole machine"
+  },
+  {
+   "t0": 19.128,
+   "t1": 20.042,
+   "txt": "stands on legs,"
+  },
+  {
+   "t0": 20.042,
+   "t1": 20.652,
+   "txt": "on wheels."
+  },
+  {
+   "t0": 20.932,
+   "t1": 21.861,
+   "txt": "A glass case"
+  },
+  {
+   "t0": 21.861,
+   "t1": 22.404,
+   "txt": "on top."
+  },
+  {
+   "t0": 22.684,
+   "t1": 23.372,
+   "txt": "A bin marked"
+  },
+  {
+   "t0": 23.372,
+   "t1": 24.174,
+   "txt": "peanuts at the"
+  },
+  {
+   "t0": 24.174,
+   "t1": 24.518,
+   "txt": "front."
+  },
+  {
+   "t0": 24.869,
+   "t1": 25.746,
+   "txt": "A small steam"
+  },
+  {
+   "t0": 25.746,
+   "t1": 26.623,
+   "txt": "engine in the"
+  },
+  {
+   "t0": 26.623,
+   "t1": 27.905,
+   "txt": "middle actuates all"
+  },
+  {
+   "t0": 27.905,
+   "t1": 29.12,
+   "txt": "the rotating parts"
+  },
+  {
+   "t0": 29.12,
+   "t1": 30.267,
+   "txt": "of the apparatus."
+  },
+  {
+   "t0": 30.618,
+   "t1": 31.419,
+   "txt": "Even the water"
+  },
+  {
+   "t0": 31.419,
+   "t1": 32.22,
+   "txt": "tank is heated"
+  },
+  {
+   "t0": 32.22,
+   "t1": 33.021,
+   "txt": "by the exhaust"
+  },
+  {
+   "t0": 33.021,
+   "t1": 33.822,
+   "txt": "steam from the"
+  },
+  {
+   "t0": 33.822,
+   "t1": 34.223,
+   "txt": "engine."
+  },
+  {
+   "t0": 34.574,
+   "t1": 35.409,
+   "txt": "The corn pops"
+  },
+  {
+   "t0": 35.409,
+   "t1": 35.987,
+   "txt": "in a pan,"
+  },
+  {
+   "t0": 35.987,
+   "t1": 36.822,
+   "txt": "and a stirrer"
+  },
+  {
+   "t0": 36.822,
+   "t1": 37.722,
+   "txt": "turns near the"
+  },
+  {
+   "t0": 37.722,
+   "t1": 38.172,
+   "txt": "bottom,"
+  },
+  {
+   "t0": 38.172,
+   "t1": 39.071,
+   "txt": "to prevent the"
+  },
+  {
+   "t0": 39.071,
+   "t1": 40.227,
+   "txt": "corn from burning."
+  },
+  {
+   "t0": 40.578,
+   "t1": 41.346,
+   "txt": "The pan has"
+  },
+  {
+   "t0": 41.346,
+   "t1": 42.183,
+   "txt": "a wire gauze"
+  },
+  {
+   "t0": 42.183,
+   "t1": 42.951,
+   "txt": "top or band"
+  },
+  {
+   "t0": 42.951,
+   "t1": 44.207,
+   "txt": "for preventing the"
+  },
+  {
+   "t0": 44.207,
+   "t1": 45.323,
+   "txt": "popped corn from"
+  },
+  {
+   "t0": 45.323,
+   "t1": 46.509,
+   "txt": "flying therefrom."
+  },
+  {
+   "t0": 46.86,
+   "t1": 47.59,
+   "txt": "And as the"
+  },
+  {
+   "t0": 47.59,
+   "t1": 48.539,
+   "txt": "machine runs,"
+  },
+  {
+   "t0": 48.539,
+   "t1": 49.488,
+   "txt": "a rocking bar"
+  },
+  {
+   "t0": 49.488,
+   "t1": 50.291,
+   "txt": "works a rod"
+  },
+  {
+   "t0": 50.291,
+   "t1": 51.459,
+   "txt": "or cord attached"
+  },
+  {
+   "t0": 51.459,
+   "t1": 52.19,
+   "txt": "to the arm"
+  },
+  {
+   "t0": 52.19,
+   "t1": 53.139,
+   "txt": "of the little"
+  },
+  {
+   "t0": 53.139,
+   "t1": 53.431,
+   "txt": "man."
+  },
+  {
+   "t0": 53.882,
+   "t1": 54.778,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 55.058,
+   "t1": 55.971,
+   "txt": "That same year,"
+  },
+  {
+   "t0": 55.971,
+   "t1": 57.494,
+   "txt": "the steam-powered machine"
+  },
+  {
+   "t0": 57.494,
+   "t1": 58.165,
+   "txt": "went to the"
+  },
+  {
+   "t0": 58.165,
+   "t1": 59.87,
+   "txt": "World's Columbian Exposition"
+  },
+  {
+   "t0": 59.87,
+   "t1": 60.54,
+   "txt": "in Chicago."
+  },
+  {
+   "t0": 60.82,
+   "t1": 62.272,
+   "txt": "The company's history"
+  },
+  {
+   "t0": 62.272,
+   "t1": 63.24,
+   "txt": "even names its"
+  },
+  {
+   "t0": 63.24,
+   "t1": 64.968,
+   "txt": "attention-grabbing clown:"
+  },
+  {
+   "t0": 64.968,
+   "t1": 66.005,
+   "txt": "the Tosty Rosty"
+  },
+  {
+   "t0": 66.005,
+   "t1": 66.282,
+   "txt": "Man."
+  },
+  {
+   "t0": 66.633,
+   "t1": 67.753,
+   "txt": "A popcorn machine"
+  },
+  {
+   "t0": 67.753,
+   "t1": 68.543,
+   "txt": "with its own"
+  },
+  {
+   "t0": 68.543,
+   "t1": 68.873,
+   "txt": "show."
+  },
+  {
+   "t0": 69.373,
+   "t1": 70.247,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 9.182
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 14.995
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 18.092
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 24.869
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 30.618
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 34.574
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 40.578
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 46.86
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 53.882
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 66.633
+  }
+ ],
+ "hook": "LOOK AT|THIS [POPCORN]",
+ "hook2": "STEAM POPCORN|[MACHINE] \u00b7 1893",
+ "hookSwitch": 2,
+ "num": "US 506,207",
+ "tt": true
+}

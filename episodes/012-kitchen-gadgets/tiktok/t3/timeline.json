@@ -1,0 +1,656 @@
+{
+ "T": 71.77,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.9,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.078
+    ],
+    [
+     2.578,
+     4.327
+    ],
+    [
+     4.827,
+     6.449
+    ]
+   ],
+   "g": "fig",
+   "fig": "scoop1",
+   "figno": "1 & 2",
+   "draw": false,
+   "calls": [
+    [
+     "THE MOLD",
+     210,
+     180,
+     60,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 6.9,
+   "t1": 11.063,
+   "i": 1,
+   "segs": [
+    [
+     6.9,
+     10.612
+    ]
+   ],
+   "g": "quote",
+   "q": "has for its object to construct a disher that may be conveniently operated with one hand.",
+   "hit": "one hand",
+   "src": "US 576,395 \u00b7 description"
+  },
+  {
+   "t0": 11.063,
+   "t1": 14.202,
+   "i": 2,
+   "segs": [
+    [
+     11.063,
+     11.895
+    ],
+    [
+     12.315,
+     13.701
+    ]
+   ],
+   "g": "stamp",
+   "title": "ICE-CREAM MOLD|AND DISHER",
+   "filed": "JUNE 10, 1896",
+   "date": "FEB. 2, 1897",
+   "at": 0.6
+  },
+  {
+   "t0": 14.202,
+   "t1": 20.532,
+   "i": 3,
+   "segs": [
+    [
+     14.202,
+     15.482
+    ],
+    [
+     15.762,
+     16.744
+    ],
+    [
+     17.024,
+     20.181
+    ]
+   ],
+   "g": "fig",
+   "fig": "scoop1",
+   "figno": "1 & 2",
+   "draw": false,
+   "calls": [
+    [
+     "HANDLES",
+     850,
+     740,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 20.532,
+   "t1": 25.664,
+   "i": 4,
+   "segs": [
+    [
+     20.532,
+     23.412
+    ],
+    [
+     23.692,
+     25.313
+    ]
+   ],
+   "g": "fig",
+   "fig": "scoop1",
+   "figno": "2",
+   "draw": false,
+   "vb": "0 420 560 540",
+   "calls": [
+    [
+     "THE RACK",
+     360,
+     640,
+     80,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 25.664,
+   "t1": 32.629,
+   "i": 5,
+   "segs": [
+    [
+     25.664,
+     32.278
+    ]
+   ],
+   "g": "quote",
+   "q": "The cutters or blades f f are secured to rivet e and engage the inner face of the mold.",
+   "hit": "inner face of the mold",
+   "src": "US 576,395 \u00b7 description"
+  },
+  {
+   "t0": 32.629,
+   "t1": 37.289,
+   "i": 6,
+   "segs": [
+    [
+     32.629,
+     36.938
+    ]
+   ],
+   "g": "quote",
+   "q": "The operator grasps the handles and by forcing the two together causes the segmental rack h to engage",
+   "hit": "forcing the two together",
+   "src": "US 576,395 \u00b7 description"
+  },
+  {
+   "t0": 37.289,
+   "t1": 43.827,
+   "i": 7,
+   "segs": [
+    [
+     37.289,
+     43.476
+    ]
+   ],
+   "g": "quote",
+   "q": "and allow the same to fall into the saucer or plate provided therefor.",
+   "hit": "fall into the saucer",
+   "src": "US 576,395 \u00b7 description"
+  },
+  {
+   "t0": 43.827,
+   "t1": 49.258,
+   "i": 8,
+   "segs": [
+    [
+     43.827,
+     45.192
+    ],
+    [
+     45.472,
+     48.907
+    ]
+   ],
+   "g": "quote",
+   "q": "though this mold may be of any desired shape.",
+   "hit": "any desired shape",
+   "src": "US 576,395 \u00b7 description"
+  },
+  {
+   "t0": 49.258,
+   "t1": 56.898,
+   "i": 9,
+   "segs": [
+    [
+     49.258,
+     56.447
+    ]
+   ],
+   "g": "quote",
+   "q": "By this construction of a disher only one hand will be required to operate the same",
+   "hit": "only one hand",
+   "src": "US 576,395 \u00b7 description"
+  },
+  {
+   "t0": 56.898,
+   "t1": 65.23,
+   "i": 10,
+   "segs": [
+    [
+     56.898,
+     57.794
+    ],
+    [
+     58.074,
+     64.879
+    ]
+   ],
+   "g": "quote",
+   "q": "Nearly every ice cream scoop on the market today takes inspiration from his original patent.",
+   "hit": "Nearly every ice cream scoop",
+   "src": "Mental Floss"
+  },
+  {
+   "t0": 65.23,
+   "t1": 71.77,
+   "i": 11,
+   "segs": [
+    [
+     65.23,
+     66.126
+    ],
+    [
+     66.626,
+     67.544
+    ],
+    [
+     68.044,
+     68.918
+    ]
+   ],
+   "g": "stamp",
+   "title": "ICE-CREAM MOLD|AND DISHER",
+   "filed": "JUNE 10, 1896",
+   "date": "FEB. 2, 1897",
+   "big": true,
+   "at": 1.2
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.214,
+   "txt": "This is a"
+  },
+  {
+   "t0": 1.214,
+   "t1": 2.078,
+   "txt": "real U.S."
+  },
+  {
+   "t0": 2.578,
+   "t1": 3.362,
+   "txt": "patent for an"
+  },
+  {
+   "t0": 3.362,
+   "t1": 4.327,
+   "txt": "ice cream scoop."
+  },
+  {
+   "t0": 4.827,
+   "t1": 5.462,
+   "txt": "Its goal,"
+  },
+  {
+   "t0": 5.462,
+   "t1": 6.449,
+   "txt": "word for word:"
+  },
+  {
+   "t0": 6.9,
+   "t1": 7.793,
+   "txt": "A disher that"
+  },
+  {
+   "t0": 7.793,
+   "t1": 9.099,
+   "txt": "may be conveniently"
+  },
+  {
+   "t0": 9.099,
+   "t1": 10.268,
+   "txt": "operated with one"
+  },
+  {
+   "t0": 10.268,
+   "t1": 10.612,
+   "txt": "hand."
+  },
+  {
+   "t0": 11.063,
+   "t1": 11.895,
+   "txt": "Approved."
+  },
+  {
+   "t0": 12.315,
+   "t1": 13.701,
+   "txt": "Eighteen ninety-seven."
+  },
+  {
+   "t0": 14.202,
+   "t1": 15.482,
+   "txt": "A cone-shaped mold."
+  },
+  {
+   "t0": 15.762,
+   "t1": 16.744,
+   "txt": "A long handle."
+  },
+  {
+   "t0": 17.024,
+   "t1": 17.781,
+   "txt": "And a second"
+  },
+  {
+   "t0": 17.781,
+   "t1": 18.918,
+   "txt": "handle underneath,"
+  },
+  {
+   "t0": 18.918,
+   "t1": 19.613,
+   "txt": "like a pair"
+  },
+  {
+   "t0": 19.613,
+   "t1": 20.181,
+   "txt": "of tongs."
+  },
+  {
+   "t0": 20.532,
+   "t1": 21.579,
+   "txt": "Inside the cone,"
+  },
+  {
+   "t0": 21.579,
+   "t1": 22.823,
+   "txt": "blades rest against"
+  },
+  {
+   "t0": 22.823,
+   "t1": 23.412,
+   "txt": "the wall."
+  },
+  {
+   "t0": 23.692,
+   "t1": 24.139,
+   "txt": "Outside,"
+  },
+  {
+   "t0": 24.139,
+   "t1": 25.034,
+   "txt": "a little toothed"
+  },
+  {
+   "t0": 25.034,
+   "t1": 25.313,
+   "txt": "rack."
+  },
+  {
+   "t0": 25.664,
+   "t1": 26.666,
+   "txt": "In the patent's"
+  },
+  {
+   "t0": 26.666,
+   "t1": 27.067,
+   "txt": "words:"
+  },
+  {
+   "t0": 27.067,
+   "t1": 28.002,
+   "txt": "The cutters or"
+  },
+  {
+   "t0": 28.002,
+   "t1": 29.205,
+   "txt": "blades are secured"
+  },
+  {
+   "t0": 29.205,
+   "t1": 29.873,
+   "txt": "to a rivet"
+  },
+  {
+   "t0": 29.873,
+   "t1": 30.808,
+   "txt": "and engage the"
+  },
+  {
+   "t0": 30.808,
+   "t1": 31.676,
+   "txt": "inner face of"
+  },
+  {
+   "t0": 31.676,
+   "t1": 32.278,
+   "txt": "the mold."
+  },
+  {
+   "t0": 32.629,
+   "t1": 33.766,
+   "txt": "Squeeze the handles"
+  },
+  {
+   "t0": 33.766,
+   "t1": 34.305,
+   "txt": "together,"
+  },
+  {
+   "t0": 34.305,
+   "t1": 35.023,
+   "txt": "and the rack"
+  },
+  {
+   "t0": 35.023,
+   "t1": 35.861,
+   "txt": "turns the cone"
+  },
+  {
+   "t0": 35.861,
+   "t1": 36.938,
+   "txt": "around the blades."
+  },
+  {
+   "t0": 37.289,
+   "t1": 38.373,
+   "txt": "The blades loosen"
+  },
+  {
+   "t0": 38.373,
+   "t1": 39.266,
+   "txt": "the ice cream,"
+  },
+  {
+   "t0": 39.266,
+   "t1": 40.095,
+   "txt": "and allow the"
+  },
+  {
+   "t0": 40.095,
+   "t1": 40.861,
+   "txt": "same to fall"
+  },
+  {
+   "t0": 40.861,
+   "t1": 41.817,
+   "txt": "into the saucer"
+  },
+  {
+   "t0": 41.817,
+   "t1": 42.902,
+   "txt": "or plate provided"
+  },
+  {
+   "t0": 42.902,
+   "t1": 43.476,
+   "txt": "therefor."
+  },
+  {
+   "t0": 43.827,
+   "t1": 44.794,
+   "txt": "The drawing shows"
+  },
+  {
+   "t0": 44.794,
+   "t1": 45.192,
+   "txt": "a cone."
+  },
+  {
+   "t0": 45.472,
+   "t1": 46.403,
+   "txt": "The patent adds,"
+  },
+  {
+   "t0": 46.403,
+   "t1": 47.335,
+   "txt": "though this mold"
+  },
+  {
+   "t0": 47.335,
+   "t1": 47.859,
+   "txt": "may be of"
+  },
+  {
+   "t0": 47.859,
+   "t1": 48.907,
+   "txt": "any desired shape."
+  },
+  {
+   "t0": 49.258,
+   "t1": 50.235,
+   "txt": "And the point,"
+  },
+  {
+   "t0": 50.235,
+   "t1": 50.933,
+   "txt": "once more:"
+  },
+  {
+   "t0": 50.933,
+   "t1": 52.329,
+   "txt": "By this construction"
+  },
+  {
+   "t0": 52.329,
+   "t1": 53.097,
+   "txt": "of a disher"
+  },
+  {
+   "t0": 53.097,
+   "t1": 54.004,
+   "txt": "only one hand"
+  },
+  {
+   "t0": 54.004,
+   "t1": 55.121,
+   "txt": "will be required"
+  },
+  {
+   "t0": 55.121,
+   "t1": 56.098,
+   "txt": "to operate the"
+  },
+  {
+   "t0": 56.098,
+   "t1": 56.447,
+   "txt": "same."
+  },
+  {
+   "t0": 56.898,
+   "t1": 57.794,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 58.074,
+   "t1": 59.176,
+   "txt": "Mental Floss says"
+  },
+  {
+   "t0": 59.176,
+   "t1": 60.213,
+   "txt": "nearly every ice"
+  },
+  {
+   "t0": 60.213,
+   "t1": 61.12,
+   "txt": "cream scoop on"
+  },
+  {
+   "t0": 61.12,
+   "t1": 62.157,
+   "txt": "the market today"
+  },
+  {
+   "t0": 62.157,
+   "t1": 63.583,
+   "txt": "takes inspiration from"
+  },
+  {
+   "t0": 63.583,
+   "t1": 64.879,
+   "txt": "his original patent."
+  },
+  {
+   "t0": 65.23,
+   "t1": 66.126,
+   "txt": "One hand."
+  },
+  {
+   "t0": 66.626,
+   "t1": 67.544,
+   "txt": "One scoop."
+  },
+  {
+   "t0": 68.044,
+   "t1": 68.918,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.9
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.063
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 14.202
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 20.532
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 25.664
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 32.629
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 37.289
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 43.827
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 49.258
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 56.898
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 65.23
+  }
+ ],
+ "hook": "ONE HAND,|ONE [SCOOP]",
+ "hook2": "ICE CREAM|[SCOOP] \u00b7 1897",
+ "hookSwitch": 2,
+ "num": "US 576,395",
+ "tt": true
+}

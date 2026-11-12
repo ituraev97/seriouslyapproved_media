@@ -1,0 +1,176 @@
+5,840,189
+
+3
+
+yieldably pierceable hollow base 12, a filter element 14 and
+an impermeable imperforate yieldably pierceable cover 16.
+The base is preferably cup-shaped, with a gradually tapering
+truncated conical side wall 12a closed at one end by a
+substantially flat bottom wall 12b and defining a circular
+access opening 18 at the opposite end. The sidewall includes
+a radially outwardly protruding lip surrounding the access
+opening. The base 12 is typically formed from a polymeric
+laminate. One example of a base material is Product No.
+C150 available from Winpak Portion Pack of Bristol, Pa.
+This material is a coextruded composite barrier sheet con-
+sisting of polystyrene, polyethylene, EVOH and adhesive.
+The barrier sheet is then thermoformed into the shape of a
+cup. The techniques for forming the sheet and cup are well
+known in the art. The base 12 is yieldably pierceable with an
+instrument such as a needle 22 or other penetrator to provide
+an exit for a beverage to be dispensed.
+
+Aself-supporting wettable filter element 14 is disposed in
+the base 12 and is permanently joined to an interior surface
+of the side wall 12a of the base. The filter is preferably in the
+shape of an inverted hollow cone 24 having a curved wall
+tapering evenly from a circular rim 26 surrounding an open
+upper end to a closed lower end as shown in FIG. 3A. The
+filter element 14 is placed in the base 12 so that the apex 28
+of the cone 24 is supported on and slightly flattened by the
+bottom wall 125 of the base 12. This enlarges the volume
+within the cone and provides beneficial support for the filter
+element 14.
+
+As depicted by the left-hand portion of FIG. 5, preferably
+the circular rim 26 of the filter element 14 is heat sealed to
+the interior of the side wall 12a of the base 12 at a location
+30 adjacent to the access opening 18. Alternatively, as
+depicted at the right-hand portion of FIG. 5, the rim 26 of the
+filter element 14 can be heat sealed as at 32 to a portion of
+the lip 20 of the base 12.
+
+The filter element 14 is configured and dimensioned to
+divide the base into two chambers 34, 36. In the first
+chamber 34, an extract 38 of the beverage that is to be made,
+such as coffee, is stored. Because the filter 14 is flattened on
+the bottom of the base, a considerably greater amount of
+extract 38 can be accommodated by the filter 14. The second
+chamber 36 has a volume for accessing the beverage outflow
+through the filter 14 after the beverage has been made by
+combining liquid with the extract 38. There is ample room
+in the second chamber 36 so that a penetrator 22 which
+yieldably pierces the base 12 will not rupture or otherwise
+deform the filter 14.
+
+A yieldably pierceable impermeable and imperforate
+cover 16 is permanently joined as at 40 in a hermetically
+sealed relationship with the lip of the base 12, closing the
+opening 18 to form an imperforate, impermeable cartridge
+10. The cover 16 is yieldably pierceable with an instrument
+such as a tubular needle 42 or other penetrator through
+which hot water is delivered for combination with the
+extract 38 in the first chamber 34. The cover 16 is preferably
+a laminate of nylon, aluminum and a heatseal lacquer used
+to bond the aluminum to the polyethylene of the base. A
+typical cover material is 15 micron OPA/ADH/20 micron
+ALU/LPP75 supplied by Hueck Foils, Inc., of Eatontown,
+N.J. The cover 16 is die cut to a size equal to or slightly
+smaller than that of the lip 20 of the base 12.
+
+The filter element 14 may be made of a lightweight,
+two-phase heat sealable paper of cellulosic and synthetic
+fibers such as the “Superseal” Teabag Paper supplied by J.
+R. Crompton’s of Gainesville, Ga. The synthetic fibers may
+be PVC or polypropylene so that they are compatible with
+
+10
+
+15
+
+20
+
+25
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+4
+
+the material of the base and are therefore easily sealed to the
+base using heat, ultrasonic energy or microwave energy. In
+addition, the material of the filter is such that the filter 14 is
+totally self-supporting. Even when the filter 14 is wetted, it
+will not collapse or sag against the inner wall 12a of the base
+12.
+
+The filter element 14 is die cut from a sheet of material to
+include three quarters of a circle and then rolled twice to
+form a double-walled cone in which the edges are heat
+sealed along seam 44 to the overlapping portion of the filter
+element. The double-walled configuration of the cone can
+best be seen in FIG. 6. The filter element 14 can also be
+formed into a truncated cone, see FIG. 3B, or a triangular
+prism which fans out and blends into a circular base,
+however, these shapes are more costly to form.
+
+As illustrated in FIG. 4, cartridge 10 is well adapted for
+use in an automatic machine such as a coffee brewing
+machine where it will be delivered to and gripped in a
+housing 46 having an upper part 48 and a lower part 50
+sealingly engaged at seal 52 by a portion of the machine not
+shown. Upper part 48 includes a penetrator or needle 42
+which yieldably penetrates cover 16 to provide pressurized
+hot water through hole 54 to coffee extract 38 in filter 14.A
+second penetrator or needle 22 is yieldably pushed through
+the bottom 12b of base 12 to receive the outflow of the coffee
+beverage and dispense it to a cup or container.
+
+In the coffee packaging industry, before sealing the pack-
+age it is standard practice to replace the oxygen in the
+package with nitrogen. This practice may be included in the
+manufacturing of the beverage filter cartridge disclosed
+herein.
+
+Although specific features of the invention are shown in
+some drawings and not others, this is for convenience only
+as some feature may be combined with any or all of the other
+features in accordance with the invention.
+
+The foregoing description has been limited to a specific
+embodiment of the invention. It will be apparent, however,
+that variations and modifications can be made to the
+invention, with the attainment of some or all of the advan-
+tages of the invention. Therefore, it is the object of the
+appended claims to cover all such variations and modifica-
+tions as come within the true spirit and scope of the
+invention.
+
+What is claimed is:
+
+1. A beverage filter cartridge comprising:
+
+an impermeable hollow base, said base having a closed
+substantially flat circular bottom with a continuous
+truncated conical side wall extending upwardly there-
+from to a radially outwardly protruding lip surrounding
+a circular access opening;
+
+a self-supporting filter element received in said base, said
+filter element being permanently joined to an interior
+surface of said side wall at a location adjacent to said
+access opening and being configured and positioned to
+subdivide the interior of said base into first and second
+chambers, said first chamber being arranged to store a
+beverage extract received through said access opening;
+and
+
+an impermeable circular cover closing said access open-
+ing and being permanently joined in a sealed relation-
+ship to said lip to cooperate with said base in forming
+an imperforate cartridge, said cover being yieldably
+pierceable to accommodate an injection of liquid into
+said first chamber for combination with said extract to
+produce a beverage, said filter being adapted to accom-
+modate a flow therethrough of said beverage into said

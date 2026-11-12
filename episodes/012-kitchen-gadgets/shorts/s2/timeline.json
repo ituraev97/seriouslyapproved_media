@@ -1,0 +1,232 @@
+{
+ "T": 26.86,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.744,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.993
+    ],
+    [
+     2.493,
+     7.293
+    ]
+   ],
+   "g": "fig",
+   "fig": "bread4",
+   "figno": "4",
+   "draw": false,
+   "calls": [
+    [
+     "CUTTING BANDS",
+     210,
+     410,
+     -60,
+     -70
+    ]
+   ]
+  },
+  {
+   "t0": 7.744,
+   "t1": 14.156,
+   "i": 1,
+   "segs": [
+    [
+     7.744,
+     9.472
+    ],
+    [
+     9.752,
+     13.805
+    ]
+   ],
+   "g": "quote",
+   "q": "adjacent bands move in opposite directions to prevent crushing and displacement of the",
+   "hit": "opposite directions",
+   "src": "US 1,867,377 \u00b7 description"
+  },
+  {
+   "t0": 14.156,
+   "t1": 17.338,
+   "i": 2,
+   "segs": [
+    [
+     14.156,
+     14.988
+    ],
+    [
+     15.408,
+     16.837
+    ]
+   ],
+   "g": "stamp",
+   "title": "MACHINE FOR SLICING|AN ENTIRE LOAF",
+   "filed": "NOV. 26, 1928",
+   "date": "JULY 12, 1932",
+   "at": 0.6
+  },
+  {
+   "t0": 17.338,
+   "t1": 26.86,
+   "i": 3,
+   "segs": [
+    [
+     17.338,
+     18.32
+    ],
+    [
+     18.82,
+     22.468
+    ],
+    [
+     22.968,
+     24.013
+    ]
+   ],
+   "g": "fig",
+   "fig": "bread1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "CONVEYOR",
+     196,
+     300,
+     120,
+     0
+    ]
+   ]
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.993,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.493,
+   "t1": 3.468,
+   "txt": "A machine for"
+  },
+  {
+   "t0": 3.468,
+   "t1": 4.743,
+   "txt": "slicing an entire"
+  },
+  {
+   "t0": 4.743,
+   "t1": 5.718,
+   "txt": "loaf of bread"
+  },
+  {
+   "t0": 5.718,
+   "t1": 6.543,
+   "txt": "at a single"
+  },
+  {
+   "t0": 6.543,
+   "t1": 7.293,
+   "txt": "operation."
+  },
+  {
+   "t0": 7.744,
+   "t1": 8.423,
+   "txt": "A whole row"
+  },
+  {
+   "t0": 8.423,
+   "t1": 9.472,
+   "txt": "of cutting bands."
+  },
+  {
+   "t0": 9.752,
+   "t1": 10.892,
+   "txt": "And adjacent bands"
+  },
+  {
+   "t0": 10.892,
+   "t1": 11.905,
+   "txt": "move in opposite"
+  },
+  {
+   "t0": 11.905,
+   "t1": 13.235,
+   "txt": "directions to prevent"
+  },
+  {
+   "t0": 13.235,
+   "t1": 13.805,
+   "txt": "crushing."
+  },
+  {
+   "t0": 14.156,
+   "t1": 14.988,
+   "txt": "Approved."
+  },
+  {
+   "t0": 15.408,
+   "t1": 16.837,
+   "txt": "Nineteen thirty-two."
+  },
+  {
+   "t0": 17.338,
+   "t1": 18.32,
+   "txt": "Did it work?"
+  },
+  {
+   "t0": 18.82,
+   "t1": 19.938,
+   "txt": "The machine's first"
+  },
+  {
+   "t0": 19.938,
+   "t1": 20.761,
+   "txt": "slices went on"
+  },
+  {
+   "t0": 20.761,
+   "t1": 21.703,
+   "txt": "sale in nineteen"
+  },
+  {
+   "t0": 21.703,
+   "t1": 22.468,
+   "txt": "twenty-eight."
+  },
+  {
+   "t0": 22.968,
+   "t1": 24.013,
+   "txt": "Sliced bread."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.744
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 14.156
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.338
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "THE LOAF|[SLICER] \u00b7 1932",
+ "hookSwitch": 2,
+ "num": "US 1,867,377",
+ "tt": false
+}

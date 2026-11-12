@@ -1,0 +1,56 @@
+{
+ "date": "2026-11-13",
+ "timezone": "America/New_York",
+ "branch": "drop-fri",
+ "posts": [
+  {
+   "file": "t1",
+   "network": "tiktok",
+   "time": "09:30",
+   "title": "The U.S. Approved a Steam-Powered Popcorn Machine",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-3913213936198202976"
+  },
+  {
+   "file": "s1",
+   "network": "youtube short",
+   "time": "10:30",
+   "title": "The U.S. Approved a Steam-Powered Popcorn Machine",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-9087522177195555252"
+  },
+  {
+   "file": "t2",
+   "network": "tiktok",
+   "time": "14:30",
+   "title": "This Is a Real Patent for Sliced Bread",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-7406981464056641230"
+  },
+  {
+   "file": "s2",
+   "network": "youtube short",
+   "time": "15:00",
+   "title": "This Is a Real Patent for Sliced Bread",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=7898864743620169413"
+  },
+  {
+   "file": "long",
+   "network": "youtube video",
+   "time": "16:00",
+   "title": "8 Weird Kitchen Gadgets That Got Real Patents. Did They Work?",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-3231810993094704555"
+  },
+  {
+   "file": "s3",
+   "network": "youtube short",
+   "time": "19:00",
+   "title": "The U.S. Approved a One-Handed Ice Cream Scoop",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=6280879214316241278"
+  },
+  {
+   "file": "t3",
+   "network": "tiktok",
+   "time": "20:30",
+   "title": "The U.S. Approved a One-Handed Ice Cream Scoop",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=1731305974777988541"
+  }
+ ]
+}
