@@ -1,0 +1,256 @@
+{
+ "T": 30.23,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.518,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.993
+    ],
+    [
+     2.493,
+     3.581
+    ],
+    [
+     4.081,
+     7.067
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE STRAPS",
+     155,
+     225,
+     -120,
+     -40
+    ],
+    [
+     "THE COMPUTER",
+     155,
+     560,
+     140,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 7.518,
+   "t1": 16.744,
+   "i": 1,
+   "segs": [
+    [
+     7.518,
+     16.393
+    ]
+   ],
+   "g": "quote",
+   "q": "Attempting to place the instrument on a stationary surface while in the field creates a potentially hazardous situation.",
+   "hit": "potentially hazardous situation",
+   "src": "US 4,715,293 \u00b7 description"
+  },
+  {
+   "t0": 16.744,
+   "t1": 20.118,
+   "i": 2,
+   "segs": [
+    [
+     16.744,
+     17.576
+    ],
+    [
+     17.996,
+     19.617
+    ]
+   ],
+   "g": "stamp",
+   "title": "INSTRUMENT|DESK",
+   "filed": "DEC. 9, 1986",
+   "date": "DEC. 29, 1987",
+   "at": 0.6
+  },
+  {
+   "t0": 20.118,
+   "t1": 30.23,
+   "i": 3,
+   "segs": [
+    [
+     20.118,
+     21.569
+    ],
+    [
+     22.069,
+     27.381
+    ]
+   ],
+   "g": "quote",
+   "q": "An important object of the invention is the comfort in which the table may be worn.",
+   "hit": "the table may be worn",
+   "src": "US 4,715,293 \u00b7 description"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.993,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.493,
+   "t1": 3.218,
+   "txt": "A desk you"
+  },
+  {
+   "t0": 3.218,
+   "t1": 3.581,
+   "txt": "wear."
+  },
+  {
+   "t0": 4.081,
+   "t1": 4.873,
+   "txt": "It hangs from"
+  },
+  {
+   "t0": 4.873,
+   "t1": 5.787,
+   "txt": "your shoulders,"
+  },
+  {
+   "t0": 5.787,
+   "t1": 6.702,
+   "txt": "with a computer"
+  },
+  {
+   "t0": 6.702,
+   "t1": 7.067,
+   "txt": "on it."
+  },
+  {
+   "t0": 7.518,
+   "t1": 8.029,
+   "txt": "Because,"
+  },
+  {
+   "t0": 8.029,
+   "t1": 8.668,
+   "txt": "in its own"
+  },
+  {
+   "t0": 8.668,
+   "t1": 9.051,
+   "txt": "words:"
+  },
+  {
+   "t0": 9.051,
+   "t1": 10.264,
+   "txt": "Attempting to place"
+  },
+  {
+   "t0": 10.264,
+   "t1": 11.349,
+   "txt": "the instrument on"
+  },
+  {
+   "t0": 11.349,
+   "t1": 12.626,
+   "txt": "a stationary surface"
+  },
+  {
+   "t0": 12.626,
+   "t1": 13.392,
+   "txt": "while in the"
+  },
+  {
+   "t0": 13.392,
+   "t1": 14.35,
+   "txt": "field creates a"
+  },
+  {
+   "t0": 14.35,
+   "t1": 16.393,
+   "txt": "potentially hazardous situation."
+  },
+  {
+   "t0": 16.744,
+   "t1": 17.576,
+   "txt": "Approved."
+  },
+  {
+   "t0": 17.996,
+   "t1": 19.617,
+   "txt": "Nineteen eighty-seven."
+  },
+  {
+   "t0": 20.118,
+   "t1": 21.035,
+   "txt": "And one more"
+  },
+  {
+   "t0": 21.035,
+   "t1": 21.569,
+   "txt": "object."
+  },
+  {
+   "t0": 22.069,
+   "t1": 23.363,
+   "txt": "An important object"
+  },
+  {
+   "t0": 23.363,
+   "t1": 24.453,
+   "txt": "of the invention"
+  },
+  {
+   "t0": 24.453,
+   "t1": 25.406,
+   "txt": "is the comfort"
+  },
+  {
+   "t0": 25.406,
+   "t1": 26.223,
+   "txt": "in which the"
+  },
+  {
+   "t0": 26.223,
+   "t1": 27.04,
+   "txt": "table may be"
+  },
+  {
+   "t0": 27.04,
+   "t1": 27.381,
+   "txt": "worn."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.518
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 16.744
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 20.118
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "THE WEARABLE|[DESK] \u00b7 1987",
+ "hookSwitch": 2,
+ "num": "US 4,715,293",
+ "tt": false
+}

@@ -1,0 +1,650 @@
+{
+ "T": 64.47,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.004,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.694
+    ],
+    [
+     2.194,
+     2.877
+    ],
+    [
+     3.377,
+     5.553
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat33",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "THE COAT",
+     80,
+     166,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 6.004,
+   "t1": 11.795,
+   "i": 1,
+   "segs": [
+    [
+     6.004,
+     11.444
+    ]
+   ],
+   "g": "quote",
+   "q": "a new and useful Combination of a Portable Tent, Overcoat, and Cape",
+   "hit": "Portable Tent, Overcoat, and Cape",
+   "src": "US 33,752 \u00b7 description"
+  },
+  {
+   "t0": 11.795,
+   "t1": 14.806,
+   "i": 2,
+   "segs": [
+    [
+     11.795,
+     12.627
+    ],
+    [
+     13.047,
+     14.305
+    ]
+   ],
+   "g": "stamp",
+   "title": "OVERCOAT|AND TENT",
+   "filed": "NOT LISTED",
+   "date": "NOV. 19, 1861",
+   "at": 0.6
+  },
+  {
+   "t0": 14.806,
+   "t1": 24.723,
+   "i": 3,
+   "segs": [
+    [
+     14.806,
+     19.286
+    ],
+    [
+     19.566,
+     20.932
+    ],
+    [
+     21.212,
+     22.534
+    ],
+    [
+     22.814,
+     24.372
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat33",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "THE STRAPS",
+     80,
+     166,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 24.723,
+   "t1": 27.612,
+   "i": 4,
+   "segs": [
+    [
+     24.723,
+     27.261
+    ]
+   ],
+   "g": "fig",
+   "fig": "cape4",
+   "figno": "4",
+   "draw": false,
+   "calls": [
+    [
+     "THE CAPE",
+     122,
+     207,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 27.612,
+   "t1": 35.859,
+   "i": 5,
+   "segs": [
+    [
+     27.612,
+     28.956
+    ],
+    [
+     29.236,
+     35.508
+    ]
+   ],
+   "g": "fig",
+   "fig": "tent1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE POLE",
+     68,
+     110,
+     100,
+     -60
+    ],
+    [
+     "THE COAT",
+     340,
+     40,
+     100,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 35.859,
+   "t1": 44.322,
+   "i": 6,
+   "segs": [
+    [
+     35.859,
+     37.182
+    ],
+    [
+     37.462,
+     39.105
+    ],
+    [
+     39.385,
+     43.971
+    ]
+   ],
+   "g": "fig",
+   "fig": "tent1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE BED",
+     620,
+     140,
+     80,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 44.322,
+   "t1": 51.697,
+   "i": 7,
+   "segs": [
+    [
+     44.322,
+     45.773
+    ],
+    [
+     46.053,
+     49.466
+    ],
+    [
+     49.746,
+     51.346
+    ]
+   ],
+   "g": "quote",
+   "q": "may be compactly folded and packed in or on the knapsack",
+   "hit": "packed in or on the knapsack",
+   "src": "US 33,752 \u00b7 description"
+  },
+  {
+   "t0": 51.697,
+   "t1": 58.896,
+   "i": 8,
+   "segs": [
+    [
+     51.697,
+     58.545
+    ]
+   ],
+   "g": "quote",
+   "q": "I am aware that portable tents have been constructed to cover a single man or soldier",
+   "hit": "I am aware",
+   "src": "US 33,752 \u00b7 description"
+  },
+  {
+   "t0": 58.896,
+   "t1": 64.47,
+   "i": 9,
+   "segs": [
+    [
+     58.896,
+     60.24
+    ],
+    [
+     60.74,
+     61.615
+    ]
+   ],
+   "g": "stamp",
+   "title": "OVERCOAT|AND TENT",
+   "filed": "NOT LISTED",
+   "date": "NOV. 19, 1861",
+   "at": 1.2,
+   "big": true
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.694,
+   "txt": "A real U.S."
+  },
+  {
+   "t0": 2.194,
+   "t1": 2.877,
+   "txt": "patent."
+  },
+  {
+   "t0": 3.377,
+   "t1": 4.432,
+   "txt": "An overcoat that"
+  },
+  {
+   "t0": 4.432,
+   "t1": 5.223,
+   "txt": "turns into a"
+  },
+  {
+   "t0": 5.223,
+   "t1": 5.553,
+   "txt": "tent."
+  },
+  {
+   "t0": 6.004,
+   "t1": 6.684,
+   "txt": "In its own"
+  },
+  {
+   "t0": 6.684,
+   "t1": 7.092,
+   "txt": "words:"
+  },
+  {
+   "t0": 7.092,
+   "t1": 7.704,
+   "txt": "a new and"
+  },
+  {
+   "t0": 7.704,
+   "t1": 9.132,
+   "txt": "useful Combination of"
+  },
+  {
+   "t0": 9.132,
+   "t1": 10.22,
+   "txt": "a Portable Tent,"
+  },
+  {
+   "t0": 10.22,
+   "t1": 10.832,
+   "txt": "Overcoat,"
+  },
+  {
+   "t0": 10.832,
+   "t1": 11.444,
+   "txt": "and Cape."
+  },
+  {
+   "t0": 11.795,
+   "t1": 12.627,
+   "txt": "Approved."
+  },
+  {
+   "t0": 13.047,
+   "t1": 14.305,
+   "txt": "Eighteen sixty-one."
+  },
+  {
+   "t0": 14.806,
+   "t1": 15.481,
+   "txt": "The coat is"
+  },
+  {
+   "t0": 15.481,
+   "t1": 16.402,
+   "txt": "nearly a square"
+  },
+  {
+   "t0": 16.402,
+   "t1": 17.691,
+   "txt": "of india-rubber cloth"
+  },
+  {
+   "t0": 17.691,
+   "t1": 18.857,
+   "txt": "or other waterproof"
+  },
+  {
+   "t0": 18.857,
+   "t1": 19.286,
+   "txt": "fabric."
+  },
+  {
+   "t0": 19.566,
+   "t1": 20.572,
+   "txt": "Buttons on one"
+  },
+  {
+   "t0": 20.572,
+   "t1": 20.932,
+   "txt": "side."
+  },
+  {
+   "t0": 21.212,
+   "t1": 22.156,
+   "txt": "Armholes on the"
+  },
+  {
+   "t0": 22.156,
+   "t1": 22.534,
+   "txt": "other."
+  },
+  {
+   "t0": 22.814,
+   "t1": 23.593,
+   "txt": "Straps go over"
+  },
+  {
+   "t0": 23.593,
+   "t1": 24.372,
+   "txt": "the shoulders."
+  },
+  {
+   "t0": 24.723,
+   "t1": 25.431,
+   "txt": "Add the cape"
+  },
+  {
+   "t0": 25.431,
+   "t1": 25.844,
+   "txt": "on top,"
+  },
+  {
+   "t0": 25.844,
+   "t1": 26.966,
+   "txt": "buttoned around the"
+  },
+  {
+   "t0": 26.966,
+   "t1": 27.261,
+   "txt": "neck."
+  },
+  {
+   "t0": 27.612,
+   "t1": 28.39,
+   "txt": "Now take it"
+  },
+  {
+   "t0": 28.39,
+   "t1": 28.956,
+   "txt": "all off."
+  },
+  {
+   "t0": 29.236,
+   "t1": 30.177,
+   "txt": "Prop the collar"
+  },
+  {
+   "t0": 30.177,
+   "t1": 30.867,
+   "txt": "of the coat"
+  },
+  {
+   "t0": 30.867,
+   "t1": 31.306,
+   "txt": "up on a"
+  },
+  {
+   "t0": 31.306,
+   "t1": 31.933,
+   "txt": "pole and a"
+  },
+  {
+   "t0": 31.933,
+   "t1": 32.686,
+   "txt": "cross piece,"
+  },
+  {
+   "t0": 32.686,
+   "t1": 33.878,
+   "txt": "stretch the straps,"
+  },
+  {
+   "t0": 33.878,
+   "t1": 34.63,
+   "txt": "and peg them"
+  },
+  {
+   "t0": 34.63,
+   "t1": 35.508,
+   "txt": "to the ground."
+  },
+  {
+   "t0": 35.859,
+   "t1": 36.587,
+   "txt": "The coat is"
+  },
+  {
+   "t0": 36.587,
+   "t1": 37.182,
+   "txt": "the roof."
+  },
+  {
+   "t0": 37.462,
+   "t1": 38.368,
+   "txt": "The cape buttons"
+  },
+  {
+   "t0": 38.368,
+   "t1": 38.878,
+   "txt": "on at the"
+  },
+  {
+   "t0": 38.878,
+   "t1": 39.105,
+   "txt": "top."
+  },
+  {
+   "t0": 39.385,
+   "t1": 40.149,
+   "txt": "And a double"
+  },
+  {
+   "t0": 40.149,
+   "t1": 41.105,
+   "txt": "part the patent"
+  },
+  {
+   "t0": 41.105,
+   "t1": 42.188,
+   "txt": "calls the blanket"
+  },
+  {
+   "t0": 42.188,
+   "t1": 43.079,
+   "txt": "or bed buttons"
+  },
+  {
+   "t0": 43.079,
+   "t1": 43.971,
+   "txt": "to the bottom."
+  },
+  {
+   "t0": 44.322,
+   "t1": 45.12,
+   "txt": "Then it all"
+  },
+  {
+   "t0": 45.12,
+   "t1": 45.773,
+   "txt": "folds up."
+  },
+  {
+   "t0": 46.053,
+   "t1": 46.592,
+   "txt": "It may be"
+  },
+  {
+   "t0": 46.592,
+   "t1": 47.79,
+   "txt": "compactly folded and"
+  },
+  {
+   "t0": 47.79,
+   "t1": 48.508,
+   "txt": "packed in or"
+  },
+  {
+   "t0": 48.508,
+   "t1": 49.466,
+   "txt": "on the knapsack."
+  },
+  {
+   "t0": 49.746,
+   "t1": 50.375,
+   "txt": "The weight,"
+  },
+  {
+   "t0": 50.375,
+   "t1": 51.346,
+   "txt": "about six pounds."
+  },
+  {
+   "t0": 51.697,
+   "t1": 52.751,
+   "txt": "And the inventor"
+  },
+  {
+   "t0": 52.751,
+   "t1": 53.212,
+   "txt": "admits:"
+  },
+  {
+   "t0": 53.212,
+   "t1": 53.87,
+   "txt": "I am aware"
+  },
+  {
+   "t0": 53.87,
+   "t1": 55.121,
+   "txt": "that portable tents"
+  },
+  {
+   "t0": 55.121,
+   "t1": 56.504,
+   "txt": "have been constructed"
+  },
+  {
+   "t0": 56.504,
+   "t1": 57.163,
+   "txt": "to cover a"
+  },
+  {
+   "t0": 57.163,
+   "t1": 58.019,
+   "txt": "single man or"
+  },
+  {
+   "t0": 58.019,
+   "t1": 58.545,
+   "txt": "soldier."
+  },
+  {
+   "t0": 58.896,
+   "t1": 59.568,
+   "txt": "A house you"
+  },
+  {
+   "t0": 59.568,
+   "t1": 60.24,
+   "txt": "can button."
+  },
+  {
+   "t0": 60.74,
+   "t1": 61.615,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.004
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.795
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 14.806
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 24.723
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 27.612
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 35.859
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 44.322
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 51.697
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 58.896
+  }
+ ],
+ "hook": "A COAT|OR A [TENT]?",
+ "hook2": "OVERCOAT|AND [TENT] \u00b7 1861",
+ "hookSwitch": 2,
+ "num": "US 33,752",
+ "tt": true
+}

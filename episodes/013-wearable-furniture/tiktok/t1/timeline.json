@@ -1,0 +1,630 @@
+{
+ "T": 63.2,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 8.168,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.694
+    ],
+    [
+     2.194,
+     2.877
+    ],
+    [
+     3.377,
+     4.486
+    ],
+    [
+     4.986,
+     7.717
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool6",
+   "figno": "6",
+   "draw": false,
+   "calls": [
+    [
+     "THE SEAT",
+     260,
+     198,
+     130,
+     -60
+    ],
+    [
+     "ONE LEG",
+     285,
+     360,
+     120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 8.168,
+   "t1": 15.028,
+   "i": 1,
+   "segs": [
+    [
+     8.168,
+     11.794
+    ],
+    [
+     12.074,
+     14.677
+    ]
+   ],
+   "g": "quote",
+   "q": "Shoeing a horse typically takes about one hour",
+   "hit": "about one hour",
+   "src": "US 5,927,797 \u00b7 description"
+  },
+  {
+   "t0": 15.028,
+   "t1": 21.118,
+   "i": 2,
+   "segs": [
+    [
+     15.028,
+     20.767
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool6",
+   "figno": "6",
+   "draw": false,
+   "calls": [
+    [
+     "NOW WITH SUPPORT",
+     260,
+     198,
+     130,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 21.118,
+   "t1": 24.343,
+   "i": 3,
+   "segs": [
+    [
+     21.118,
+     21.95
+    ],
+    [
+     22.37,
+     23.842
+    ]
+   ],
+   "g": "stamp",
+   "title": "PORTABLE|WORK STOOL",
+   "filed": "AUG. 6, 1998",
+   "date": "JULY 27, 1999",
+   "at": 0.6
+  },
+  {
+   "t0": 24.343,
+   "t1": 29.067,
+   "i": 4,
+   "segs": [
+    [
+     24.343,
+     28.716
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool5",
+   "figno": "5",
+   "draw": false,
+   "calls": [
+    [
+     "THE BELT",
+     279,
+     95,
+     110,
+     -50
+    ],
+    [
+     "FRONT STRAP",
+     51,
+     673,
+     130,
+     20
+    ]
+   ]
+  },
+  {
+   "t0": 29.067,
+   "t1": 36.165,
+   "i": 5,
+   "segs": [
+    [
+     29.067,
+     30.646
+    ],
+    [
+     30.926,
+     32.056
+    ],
+    [
+     32.336,
+     35.814
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE SPRING",
+     238,
+     690,
+     140,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 36.165,
+   "t1": 43.236,
+   "i": 6,
+   "segs": [
+    [
+     36.165,
+     42.885
+    ]
+   ],
+   "g": "quote",
+   "q": "a person weighing between about 105 and 245 pounds",
+   "hit": "105 and 245 pounds",
+   "src": "US 5,927,797 \u00b7 description"
+  },
+  {
+   "t0": 43.236,
+   "t1": 53.469,
+   "i": 7,
+   "segs": [
+    [
+     43.236,
+     44.708
+    ],
+    [
+     44.988,
+     45.99
+    ],
+    [
+     46.27,
+     53.118
+    ]
+   ],
+   "g": "quote",
+   "q": "If the horse is moving the farrier vertically for more than nine inches, the horse is most likely out of control",
+   "hit": "most likely out of control",
+   "src": "US 5,927,797 \u00b7 description"
+  },
+  {
+   "t0": 53.469,
+   "t1": 56.736,
+   "i": 8,
+   "segs": [
+    [
+     53.469,
+     56.285
+    ]
+   ],
+   "g": "quote",
+   "q": "and the farrier had better move away from the horse.",
+   "hit": "had better move away",
+   "src": "US 5,927,797 \u00b7 description"
+  },
+  {
+   "t0": 56.736,
+   "t1": 63.2,
+   "i": 9,
+   "segs": [
+    [
+     56.736,
+     58.976
+    ],
+    [
+     59.476,
+     60.351
+    ]
+   ],
+   "g": "stamp",
+   "title": "PORTABLE|WORK STOOL",
+   "filed": "AUG. 6, 1998",
+   "date": "JULY 27, 1999",
+   "at": 1.2,
+   "big": true
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.694,
+   "txt": "A real U.S."
+  },
+  {
+   "t0": 2.194,
+   "t1": 2.877,
+   "txt": "patent."
+  },
+  {
+   "t0": 3.377,
+   "t1": 4.139,
+   "txt": "A chair you"
+  },
+  {
+   "t0": 4.139,
+   "t1": 4.486,
+   "txt": "wear."
+  },
+  {
+   "t0": 4.986,
+   "t1": 5.785,
+   "txt": "It straps to"
+  },
+  {
+   "t0": 5.785,
+   "t1": 6.518,
+   "txt": "your waist,"
+  },
+  {
+   "t0": 6.518,
+   "t1": 7.184,
+   "txt": "and it has"
+  },
+  {
+   "t0": 7.184,
+   "t1": 7.717,
+   "txt": "one leg."
+  },
+  {
+   "t0": 8.168,
+   "t1": 8.868,
+   "txt": "It was made"
+  },
+  {
+   "t0": 8.868,
+   "t1": 9.695,
+   "txt": "for farriers,"
+  },
+  {
+   "t0": 9.695,
+   "t1": 10.585,
+   "txt": "the people who"
+  },
+  {
+   "t0": 10.585,
+   "t1": 11.349,
+   "txt": "put shoes on"
+  },
+  {
+   "t0": 11.349,
+   "t1": 11.794,
+   "txt": "horses."
+  },
+  {
+   "t0": 12.074,
+   "t1": 12.942,
+   "txt": "Shoeing a horse"
+  },
+  {
+   "t0": 12.942,
+   "t1": 14.156,
+   "txt": "typically takes about"
+  },
+  {
+   "t0": 14.156,
+   "t1": 14.677,
+   "txt": "one hour."
+  },
+  {
+   "t0": 15.028,
+   "t1": 15.608,
+   "txt": "Normally,"
+  },
+  {
+   "t0": 15.608,
+   "t1": 16.898,
+   "txt": "the farrier crouches"
+  },
+  {
+   "t0": 16.898,
+   "t1": 17.865,
+   "txt": "with no support"
+  },
+  {
+   "t0": 17.865,
+   "t1": 18.703,
+   "txt": "and grips the"
+  },
+  {
+   "t0": 18.703,
+   "t1": 19.928,
+   "txt": "horse's leg between"
+  },
+  {
+   "t0": 19.928,
+   "t1": 20.767,
+   "txt": "his own legs."
+  },
+  {
+   "t0": 21.118,
+   "t1": 21.95,
+   "txt": "Approved."
+  },
+  {
+   "t0": 22.37,
+   "t1": 23.842,
+   "txt": "Nineteen ninety-nine."
+  },
+  {
+   "t0": 24.343,
+   "t1": 25.081,
+   "txt": "When you want"
+  },
+  {
+   "t0": 25.081,
+   "t1": 25.479,
+   "txt": "to sit,"
+  },
+  {
+   "t0": 25.479,
+   "t1": 26.047,
+   "txt": "you pull a"
+  },
+  {
+   "t0": 26.047,
+   "t1": 26.728,
+   "txt": "front strap,"
+  },
+  {
+   "t0": 26.728,
+   "t1": 27.41,
+   "txt": "and the seat"
+  },
+  {
+   "t0": 27.41,
+   "t1": 28.432,
+   "txt": "comes between your"
+  },
+  {
+   "t0": 28.432,
+   "t1": 28.716,
+   "txt": "legs."
+  },
+  {
+   "t0": 29.067,
+   "t1": 29.856,
+   "txt": "The one leg"
+  },
+  {
+   "t0": 29.856,
+   "t1": 30.646,
+   "txt": "telescopes."
+  },
+  {
+   "t0": 30.926,
+   "t1": 31.64,
+   "txt": "Pins set the"
+  },
+  {
+   "t0": 31.64,
+   "t1": 32.056,
+   "txt": "height."
+  },
+  {
+   "t0": 32.336,
+   "t1": 32.897,
+   "txt": "And a coil"
+  },
+  {
+   "t0": 32.897,
+   "t1": 33.626,
+   "txt": "spring in the"
+  },
+  {
+   "t0": 33.626,
+   "t1": 34.524,
+   "txt": "middle keeps the"
+  },
+  {
+   "t0": 34.524,
+   "t1": 35.197,
+   "txt": "foot down on"
+  },
+  {
+   "t0": 35.197,
+   "t1": 35.814,
+   "txt": "the ground."
+  },
+  {
+   "t0": 36.165,
+   "t1": 37.069,
+   "txt": "The spring was"
+  },
+  {
+   "t0": 37.069,
+   "t1": 37.845,
+   "txt": "chosen for a"
+  },
+  {
+   "t0": 37.845,
+   "t1": 39.331,
+   "txt": "person weighing between"
+  },
+  {
+   "t0": 39.331,
+   "t1": 40.429,
+   "txt": "about one hundred"
+  },
+  {
+   "t0": 40.429,
+   "t1": 41.205,
+   "txt": "five and two"
+  },
+  {
+   "t0": 41.205,
+   "t1": 42.885,
+   "txt": "hundred forty-five pounds."
+  },
+  {
+   "t0": 43.236,
+   "t1": 44.324,
+   "txt": "Because the horse"
+  },
+  {
+   "t0": 44.324,
+   "t1": 44.708,
+   "txt": "moves."
+  },
+  {
+   "t0": 44.988,
+   "t1": 45.528,
+   "txt": "Up to a"
+  },
+  {
+   "t0": 45.528,
+   "t1": 45.99,
+   "txt": "point."
+  },
+  {
+   "t0": 46.27,
+   "t1": 47.046,
+   "txt": "If the horse"
+  },
+  {
+   "t0": 47.046,
+   "t1": 47.885,
+   "txt": "is moving the"
+  },
+  {
+   "t0": 47.885,
+   "t1": 49.307,
+   "txt": "farrier vertically for"
+  },
+  {
+   "t0": 49.307,
+   "t1": 50.211,
+   "txt": "more than nine"
+  },
+  {
+   "t0": 50.211,
+   "t1": 50.663,
+   "txt": "inches,"
+  },
+  {
+   "t0": 50.663,
+   "t1": 51.439,
+   "txt": "the horse is"
+  },
+  {
+   "t0": 51.439,
+   "t1": 52.408,
+   "txt": "most likely out"
+  },
+  {
+   "t0": 52.408,
+   "t1": 53.118,
+   "txt": "of control."
+  },
+  {
+   "t0": 53.469,
+   "t1": 54.331,
+   "txt": "And the farrier"
+  },
+  {
+   "t0": 54.331,
+   "t1": 55.193,
+   "txt": "had better move"
+  },
+  {
+   "t0": 55.193,
+   "t1": 55.941,
+   "txt": "away from the"
+  },
+  {
+   "t0": 55.941,
+   "t1": 56.285,
+   "txt": "horse."
+  },
+  {
+   "t0": 56.736,
+   "t1": 57.504,
+   "txt": "A chair with"
+  },
+  {
+   "t0": 57.504,
+   "t1": 58.208,
+   "txt": "one leg and"
+  },
+  {
+   "t0": 58.208,
+   "t1": 58.976,
+   "txt": "a seat belt."
+  },
+  {
+   "t0": 59.476,
+   "t1": 60.351,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 8.168
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 15.028
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 21.118
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 24.343
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 29.067
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 36.165
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 43.236
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 53.469
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 56.736
+  }
+ ],
+ "hook": "LOOK AT|THIS [CHAIR]",
+ "hook2": "ONE-LEGGED|[STOOL] \u00b7 1999",
+ "hookSwitch": 3,
+ "num": "US 5,927,797",
+ "tt": true
+}

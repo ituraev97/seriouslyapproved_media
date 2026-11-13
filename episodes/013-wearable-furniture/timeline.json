@@ -1,0 +1,6386 @@
+{
+ "T": 611.78,
+ "fmt": "long",
+ "W": 1920,
+ "H": 1080,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 8.936,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.737
+    ],
+    [
+     2.237,
+     3.794
+    ],
+    [
+     4.294,
+     5.489
+    ],
+    [
+     5.989,
+     8.485
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool6",
+   "figno": "6",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999",
+   "calls": [
+    [
+     "THE SEAT",
+     260,
+     198,
+     130,
+     -60
+    ],
+    [
+     "ONE LEG",
+     285,
+     360,
+     120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 8.936,
+   "t1": 13.681,
+   "i": 1,
+   "segs": [
+    [
+     8.936,
+     13.33
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool1",
+   "figno": "1",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999",
+   "calls": [
+    [
+     "THE SPRING",
+     238,
+     690,
+     140,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 13.681,
+   "t1": 17.184,
+   "i": 2,
+   "segs": [
+    [
+     13.681,
+     14.791
+    ],
+    [
+     15.211,
+     16.683
+    ]
+   ],
+   "g": "stamp",
+   "title": "PORTABLE|WORK STOOL",
+   "filed": "AUG. 6, 1998",
+   "date": "JULY 27, 1999",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999"
+  },
+  {
+   "t0": 17.184,
+   "t1": 35.361,
+   "i": 3,
+   "segs": [
+    [
+     17.184,
+     21.706
+    ],
+    [
+     21.986,
+     23.266
+    ],
+    [
+     23.546,
+     24.89
+    ],
+    [
+     25.17,
+     26.877
+    ],
+    [
+     27.157,
+     30.08
+    ],
+    [
+     30.36,
+     35.01
+    ]
+   ],
+   "g": "title",
+   "kicker": "THE SHELF \u00b7 FILE 013",
+   "title": "Furniture|You Can Wear",
+   "lines": [
+    "Real patents. Ranked.",
+    "All approved."
+   ],
+   "stamp": true,
+   "at": 8.0,
+   "hook": "8 THINGS YOU|CAN [WEAR]",
+   "side": "FILE 013 \u00b7 THE SHELF"
+  },
+  {
+   "t0": 35.361,
+   "t1": 38.382,
+   "i": 4,
+   "segs": [
+    [
+     35.361,
+     36.236
+    ],
+    [
+     36.516,
+     38.031
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEARABILITY RANK \u00b7 No. 8 OF 8",
+   "numeral": "8",
+   "title": "Belt Attached|Seat Pad",
+   "lines": [
+    "US 3,062,580",
+    "Filed 1960 \u00b7 Issued 1962"
+   ],
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962"
+  },
+  {
+   "t0": 38.382,
+   "t1": 43.002,
+   "i": 5,
+   "segs": [
+    [
+     38.382,
+     41.006
+    ],
+    [
+     41.286,
+     42.651
+    ]
+   ],
+   "g": "fig",
+   "fig": "pad12",
+   "figno": "1, 2",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962",
+   "calls": [
+    [
+     "THE CUSHION",
+     132,
+     194,
+     120,
+     60
+    ],
+    [
+     "THE BELT",
+     651,
+     300,
+     90,
+     -110
+    ]
+   ]
+  },
+  {
+   "t0": 43.002,
+   "t1": 49.222,
+   "i": 6,
+   "segs": [
+    [
+     43.002,
+     45.989
+    ],
+    [
+     46.269,
+     48.871
+    ]
+   ],
+   "g": "fig",
+   "fig": "pad12",
+   "figno": "2",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962",
+   "draw": false,
+   "calls": [
+    [
+     "UNFOLDED",
+     651,
+     510,
+     -200,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 49.222,
+   "t1": 54.8,
+   "i": 7,
+   "segs": [
+    [
+     49.222,
+     54.449
+    ]
+   ],
+   "g": "fig",
+   "fig": "pad3",
+   "figno": "3",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962",
+   "calls": [
+    [
+     "WATERPROOF COVER",
+     485,
+     254,
+     -230,
+     90
+    ]
+   ]
+  },
+  {
+   "t0": 54.8,
+   "t1": 62.919,
+   "i": 8,
+   "segs": [
+    [
+     54.8,
+     57.296
+    ],
+    [
+     57.576,
+     62.568
+    ]
+   ],
+   "g": "quote",
+   "q": "so that it cannot become lost if a person leaves a seat without thinking of the seat pad.",
+   "hit": "without thinking of the seat pad",
+   "src": "US 3,062,580 \u00b7 description",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962"
+  },
+  {
+   "t0": 62.919,
+   "t1": 69.331,
+   "i": 9,
+   "segs": [
+    [
+     62.919,
+     65.074
+    ],
+    [
+     65.354,
+     68.98
+    ]
+   ],
+   "g": "fig",
+   "fig": "pad3",
+   "figno": "3",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962",
+   "calls": [
+    [
+     "THE CLIP",
+     52,
+     42,
+     120,
+     20
+    ],
+    [
+     "THE PAD",
+     485,
+     254,
+     -60,
+     110
+    ]
+   ]
+  },
+  {
+   "t0": 69.331,
+   "t1": 75.208,
+   "i": 10,
+   "segs": [
+    [
+     69.331,
+     74.857
+    ]
+   ],
+   "g": "fig",
+   "fig": "pad3",
+   "figno": "3",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962",
+   "draw": false,
+   "calls": [
+    [
+     "SAME PAD",
+     485,
+     254,
+     -60,
+     110
+    ]
+   ]
+  },
+  {
+   "t0": 75.208,
+   "t1": 81.001,
+   "i": 11,
+   "segs": [
+    [
+     75.208,
+     76.146
+    ],
+    [
+     76.426,
+     80.65
+    ]
+   ],
+   "g": "quote",
+   "q": "easy to be worn by men, women, or children as desired.",
+   "hit": "men, women, or children",
+   "src": "US 3,062,580 \u00b7 description",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962"
+  },
+  {
+   "t0": 81.001,
+   "t1": 87.52,
+   "i": 12,
+   "segs": [
+    [
+     81.001,
+     85.055
+    ],
+    [
+     85.335,
+     87.169
+    ]
+   ],
+   "g": "fig",
+   "fig": "pad12",
+   "figno": "1",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962",
+   "draw": false,
+   "calls": [
+    [
+     "THE STRAP",
+     132,
+     194,
+     120,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 87.52,
+   "t1": 92.311,
+   "i": 13,
+   "segs": [
+    [
+     87.52,
+     88.779
+    ],
+    [
+     89.279,
+     91.86
+    ]
+   ],
+   "g": "stamp",
+   "title": "BELT ATTACHED|SEAT PAD",
+   "filed": "JUNE 9, 1960",
+   "date": "NOV. 6, 1962",
+   "num": "US 3,062,580",
+   "hook": "A CUSHION|ON YOUR [BELT]",
+   "side": "US 3,062,580 \u00b7 1962",
+   "at": 1.6
+  },
+  {
+   "t0": 92.311,
+   "t1": 95.46,
+   "i": 14,
+   "segs": [
+    [
+     92.311,
+     93.229
+    ],
+    [
+     93.509,
+     95.109
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEARABILITY RANK \u00b7 No. 7 OF 8",
+   "numeral": "7",
+   "title": "Camp-Stool|and Cane",
+   "lines": [
+    "US 159,898",
+    "Filed 1874 \u00b7 Issued 1875"
+   ],
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875"
+  },
+  {
+   "t0": 95.46,
+   "t1": 103.752,
+   "i": 15,
+   "segs": [
+    [
+     95.46,
+     96.889
+    ],
+    [
+     97.169,
+     99.345
+    ],
+    [
+     99.625,
+     103.401
+    ]
+   ],
+   "g": "fig",
+   "fig": "cane1",
+   "figno": "1",
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875",
+   "calls": [
+    [
+     "THE SEAT",
+     130,
+     250,
+     120,
+     -80
+    ],
+    [
+     "THE BACK",
+     300,
+     60,
+     130,
+     20
+    ]
+   ]
+  },
+  {
+   "t0": 103.752,
+   "t1": 111.271,
+   "i": 16,
+   "segs": [
+    [
+     103.752,
+     110.92
+    ]
+   ],
+   "g": "quote",
+   "q": "The object of my invention is to make a campstool the legs of which when folded will form a cane or walking-stick.",
+   "hit": "a cane or walking-stick",
+   "src": "US 159,898 \u00b7 description",
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875"
+  },
+  {
+   "t0": 111.271,
+   "t1": 114.843,
+   "i": 17,
+   "segs": [
+    [
+     111.271,
+     114.492
+    ]
+   ],
+   "g": "fig",
+   "fig": "cane1",
+   "figno": "2, 3",
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875",
+   "draw": false,
+   "calls": [
+    [
+     "THE CANE",
+     560,
+     600,
+     -150,
+     60
+    ],
+    [
+     "CROSS SECTION",
+     150,
+     1035,
+     130,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 114.843,
+   "t1": 123.026,
+   "i": 18,
+   "segs": [
+    [
+     114.843,
+     119.025
+    ],
+    [
+     119.305,
+     122.675
+    ]
+   ],
+   "g": "fig",
+   "fig": "cane1",
+   "figno": "3",
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875",
+   "draw": false,
+   "vb": "0 850 400 368",
+   "calls": [
+    [
+     "THE WEDGE",
+     150,
+     1035,
+     130,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 123.026,
+   "t1": 128.735,
+   "i": 19,
+   "segs": [
+    [
+     123.026,
+     126.546
+    ],
+    [
+     126.826,
+     128.384
+    ]
+   ],
+   "g": "fig",
+   "fig": "cane1",
+   "figno": "1",
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875",
+   "draw": false,
+   "calls": [
+    [
+     "STRAPS AND WOOD",
+     130,
+     250,
+     140,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 128.735,
+   "t1": 132.798,
+   "i": 20,
+   "segs": [
+    [
+     128.735,
+     132.447
+    ]
+   ],
+   "g": "quote",
+   "q": "The whole seat may thus be conveniently carried in the pocket",
+   "hit": "carried in the pocket",
+   "src": "US 159,898 \u00b7 description",
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875"
+  },
+  {
+   "t0": 132.798,
+   "t1": 140.938,
+   "i": 21,
+   "segs": [
+    [
+     132.798,
+     133.779
+    ],
+    [
+     134.059,
+     140.587
+    ]
+   ],
+   "g": "quote",
+   "q": "will render the device very secure and comfortable.",
+   "hit": "very secure and comfortable",
+   "src": "US 159,898 \u00b7 description",
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875"
+  },
+  {
+   "t0": 140.938,
+   "t1": 148.649,
+   "i": 22,
+   "segs": [
+    [
+     140.938,
+     141.749
+    ],
+    [
+     142.249,
+     143.358
+    ],
+    [
+     143.858,
+     144.989
+    ],
+    [
+     145.489,
+     148.198
+    ]
+   ],
+   "g": "stamp",
+   "title": "CAMP-STOOL|AND CANE",
+   "filed": "DEC. 19, 1874",
+   "date": "FEB. 16, 1875",
+   "num": "US 159,898",
+   "hook": "A CANE THAT|IS A [STOOL]",
+   "side": "US 159,898 \u00b7 1875",
+   "at": 1.8
+  },
+  {
+   "t0": 148.649,
+   "t1": 151.861,
+   "i": 23,
+   "segs": [
+    [
+     148.649,
+     149.545
+    ],
+    [
+     149.825,
+     151.51
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEARABILITY RANK \u00b7 No. 6 OF 8",
+   "numeral": "6",
+   "title": "Steamer-|Rug",
+   "lines": [
+    "US 536,383",
+    "Filed 1894 \u00b7 Issued 1895"
+   ],
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895"
+  },
+  {
+   "t0": 151.861,
+   "t1": 159.063,
+   "i": 24,
+   "segs": [
+    [
+     151.861,
+     153.227
+    ],
+    [
+     153.507,
+     158.712
+    ]
+   ],
+   "g": "fig",
+   "fig": "rug12",
+   "figno": "1, 2",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895",
+   "calls": [
+    [
+     "THE SLIT",
+     190,
+     185,
+     120,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 159.063,
+   "t1": 164.113,
+   "i": 25,
+   "segs": [
+    [
+     159.063,
+     159.852
+    ],
+    [
+     160.132,
+     162.244
+    ],
+    [
+     162.524,
+     163.762
+    ]
+   ],
+   "g": "fig",
+   "fig": "rug12",
+   "figno": "1",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895",
+   "draw": false,
+   "calls": [
+    [
+     "THE RUG",
+     190,
+     450,
+     130,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 164.113,
+   "t1": 171.061,
+   "i": 26,
+   "segs": [
+    [
+     164.113,
+     165.009
+    ],
+    [
+     165.289,
+     166.377
+    ],
+    [
+     166.657,
+     170.71
+    ]
+   ],
+   "g": "quote",
+   "q": "arranging the fabric to form simulated capes",
+   "hit": "simulated capes",
+   "src": "US 536,383 \u00b7 description",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895"
+  },
+  {
+   "t0": 171.061,
+   "t1": 179.329,
+   "i": 27,
+   "segs": [
+    [
+     171.061,
+     173.621
+    ],
+    [
+     173.901,
+     178.978
+    ]
+   ],
+   "g": "fig",
+   "fig": "rug12",
+   "figno": "1",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895",
+   "draw": false,
+   "calls": [
+    [
+     "THE FLAPS",
+     190,
+     120,
+     120,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 179.329,
+   "t1": 183.627,
+   "i": 28,
+   "segs": [
+    [
+     179.329,
+     183.276
+    ]
+   ],
+   "g": "fig",
+   "fig": "rug5",
+   "figno": "5",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895",
+   "calls": [
+    [
+     "THE CAPES",
+     360,
+     210,
+     100,
+     -90
+    ],
+    [
+     "THE BAG",
+     40,
+     287,
+     110,
+     110
+    ]
+   ]
+  },
+  {
+   "t0": 183.627,
+   "t1": 186.349,
+   "i": 29,
+   "segs": [
+    [
+     183.627,
+     184.608
+    ],
+    [
+     184.888,
+     185.998
+    ]
+   ],
+   "g": "fig",
+   "fig": "rug5",
+   "figno": "5",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895",
+   "draw": false,
+   "vb": "520 0 281 200",
+   "calls": [
+    [
+     "THE POMPOM",
+     657,
+     30,
+     -120,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 186.349,
+   "t1": 192.508,
+   "i": 30,
+   "segs": [
+    [
+     186.349,
+     187.287
+    ],
+    [
+     187.567,
+     190.554
+    ],
+    [
+     190.834,
+     192.157
+    ]
+   ],
+   "g": "fig",
+   "fig": "rug4",
+   "figno": "4",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895",
+   "calls": [
+    [
+     "THE STRAP",
+     150,
+     60,
+     110,
+     -30
+    ],
+    [
+     "YOUR LUGGAGE",
+     270,
+     150,
+     -160,
+     110
+    ]
+   ]
+  },
+  {
+   "t0": 192.508,
+   "t1": 198.6,
+   "i": 31,
+   "segs": [
+    [
+     192.508,
+     194.556
+    ],
+    [
+     194.836,
+     198.249
+    ]
+   ],
+   "g": "fig",
+   "fig": "rug12",
+   "figno": "2",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895",
+   "draw": false,
+   "calls": [
+    [
+     "THE BUTTONS",
+     525,
+     110,
+     -170,
+     90
+    ]
+   ]
+  },
+  {
+   "t0": 198.6,
+   "t1": 203.604,
+   "i": 32,
+   "segs": [
+    [
+     198.6,
+     200.221
+    ],
+    [
+     200.721,
+     203.153
+    ]
+   ],
+   "g": "stamp",
+   "title": "STEAMER-|RUG",
+   "filed": "MAR. 31, 1894",
+   "date": "MAR. 26, 1895",
+   "num": "US 536,383",
+   "hook": "A RUG YOU|[SLEEP] IN",
+   "side": "US 536,383 \u00b7 1895",
+   "at": 1.6
+  },
+  {
+   "t0": 203.604,
+   "t1": 207.63,
+   "i": 33,
+   "segs": [
+    [
+     203.604,
+     204.564
+    ],
+    [
+     204.844,
+     205.932
+    ],
+    [
+     206.212,
+     207.279
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEARABILITY RANK \u00b7 No. 5 OF 8",
+   "numeral": "5",
+   "title": "Coat-|Rug",
+   "lines": [
+    "US 1,252,628",
+    "Filed 1914 \u00b7 Issued 1918"
+   ],
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918"
+  },
+  {
+   "t0": 207.63,
+   "t1": 217.394,
+   "i": 34,
+   "segs": [
+    [
+     207.63,
+     210.126
+    ],
+    [
+     210.406,
+     214.246
+    ],
+    [
+     214.526,
+     217.043
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat1",
+   "figno": "1",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918",
+   "calls": [
+    [
+     "HEAD HOLE",
+     360,
+     290,
+     130,
+     80
+    ],
+    [
+     "SLEEVE SLITS",
+     225,
+     110,
+     120,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 217.394,
+   "t1": 223.551,
+   "i": 35,
+   "segs": [
+    [
+     217.394,
+     221.725
+    ],
+    [
+     222.005,
+     223.2
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat2",
+   "figno": "2",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918",
+   "calls": [
+    [
+     "THE HOOD",
+     263,
+     58,
+     120,
+     -20
+    ],
+    [
+     "A SLEEVE",
+     63,
+     240,
+     60,
+     90
+    ]
+   ]
+  },
+  {
+   "t0": 223.551,
+   "t1": 229.384,
+   "i": 36,
+   "segs": [
+    [
+     223.551,
+     229.033
+    ]
+   ],
+   "g": "quote",
+   "q": "will effectually protect the head neck and throat of the wearer in the most inclement weather.",
+   "hit": "the most inclement weather",
+   "src": "US 1,252,628 \u00b7 description",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918"
+  },
+  {
+   "t0": 229.384,
+   "t1": 234.215,
+   "i": 37,
+   "segs": [
+    [
+     229.384,
+     233.864
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat3",
+   "figno": "3",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918",
+   "calls": [
+    [
+     "THE BELT",
+     140,
+     340,
+     120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 234.215,
+   "t1": 242.036,
+   "i": 38,
+   "segs": [
+    [
+     234.215,
+     237.437
+    ],
+    [
+     237.717,
+     241.685
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat3",
+   "figno": "3",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918",
+   "draw": false,
+   "calls": [
+    [
+     "THE SKIRT",
+     170,
+     560,
+     120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 242.036,
+   "t1": 247.019,
+   "i": 39,
+   "segs": [
+    [
+     242.036,
+     245.065
+    ],
+    [
+     245.345,
+     246.668
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat6",
+   "figno": "6",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918",
+   "calls": [
+    [
+     "THE TENT",
+     310,
+     225,
+     -60,
+     -110
+    ],
+    [
+     "SOMEONE",
+     655,
+     310,
+     30,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 247.019,
+   "t1": 255.354,
+   "i": 40,
+   "segs": [
+    [
+     247.019,
+     249.792
+    ],
+    [
+     250.072,
+     252.013
+    ],
+    [
+     252.293,
+     255.003
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat7",
+   "figno": "7",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918",
+   "calls": [
+    [
+     "THE CLOAK",
+     150,
+     400,
+     110,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 255.354,
+   "t1": 261.379,
+   "i": 41,
+   "segs": [
+    [
+     255.354,
+     261.028
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat2",
+   "figno": "2",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918",
+   "draw": false,
+   "calls": [
+    [
+     "THE COAT-RUG",
+     263,
+     400,
+     130,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 261.379,
+   "t1": 266.512,
+   "i": 42,
+   "segs": [
+    [
+     261.379,
+     263.15
+    ],
+    [
+     263.65,
+     266.061
+    ]
+   ],
+   "g": "stamp",
+   "title": "COAT-|RUG",
+   "filed": "NOV. 3, 1914",
+   "date": "JAN. 8, 1918",
+   "num": "US 1,252,628",
+   "hook": "A RUG THAT|IS A [COAT]",
+   "side": "US 1,252,628 \u00b7 1918",
+   "at": 1.6
+  },
+  {
+   "t0": 266.512,
+   "t1": 269.383,
+   "i": 43,
+   "segs": [
+    [
+     266.512,
+     267.429
+    ],
+    [
+     267.709,
+     269.032
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEARABILITY RANK \u00b7 No. 4 OF 8",
+   "numeral": "4",
+   "title": "Stool",
+   "lines": [
+    "US 2,656,875",
+    "Filed 1951 \u00b7 Issued 1953"
+   ],
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953"
+  },
+  {
+   "t0": 269.383,
+   "t1": 278.275,
+   "i": 44,
+   "segs": [
+    [
+     269.383,
+     270.833
+    ],
+    [
+     271.113,
+     272.991
+    ],
+    [
+     273.271,
+     275.511
+    ],
+    [
+     275.791,
+     277.924
+    ]
+   ],
+   "g": "fig",
+   "fig": "harn1",
+   "figno": "1",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953",
+   "calls": [
+    [
+     "CROSSED STRAPS",
+     343,
+     380,
+     140,
+     -60
+    ],
+    [
+     "THE STOOL",
+     98,
+     1043,
+     120,
+     -80
+    ],
+    [
+     "LEG STRAPS",
+     327,
+     1120,
+     130,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 278.275,
+   "t1": 285.687,
+   "i": 45,
+   "segs": [
+    [
+     278.275,
+     285.336
+    ]
+   ],
+   "g": "quote",
+   "q": "so that the stool will at all times be carried in such a position that the person may sit upon the same.",
+   "hit": "at all times",
+   "src": "US 2,656,875 \u00b7 description",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953"
+  },
+  {
+   "t0": 285.687,
+   "t1": 293.572,
+   "i": 46,
+   "segs": [
+    [
+     285.687,
+     286.711
+    ],
+    [
+     286.991,
+     293.221
+    ]
+   ],
+   "g": "quote",
+   "q": "particularly useful for milkers, auto mechanics, and in the performance of many other tasks",
+   "hit": "milkers, auto mechanics",
+   "src": "US 2,656,875 \u00b7 description",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953"
+  },
+  {
+   "t0": 293.572,
+   "t1": 298.491,
+   "i": 47,
+   "segs": [
+    [
+     293.572,
+     296.153
+    ],
+    [
+     296.433,
+     298.14
+    ]
+   ],
+   "g": "fig",
+   "fig": "harn1",
+   "figno": "1",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953",
+   "draw": false,
+   "calls": [
+    [
+     "THE STOOL",
+     98,
+     1043,
+     120,
+     -80
+    ]
+   ]
+  },
+  {
+   "t0": 298.491,
+   "t1": 304.306,
+   "i": 48,
+   "segs": [
+    [
+     298.491,
+     302.544
+    ],
+    [
+     302.824,
+     303.955
+    ]
+   ],
+   "g": "fig",
+   "fig": "harn1",
+   "figno": "1",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953",
+   "draw": false,
+   "calls": [
+    [
+     "NO BELT",
+     343,
+     640,
+     140,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 304.306,
+   "t1": 312.878,
+   "i": 49,
+   "segs": [
+    [
+     304.306,
+     305.479
+    ],
+    [
+     305.759,
+     307.444
+    ],
+    [
+     307.724,
+     309.602
+    ],
+    [
+     309.882,
+     312.527
+    ]
+   ],
+   "g": "fig",
+   "fig": "harn1",
+   "figno": "1",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953",
+   "draw": false,
+   "calls": [
+    [
+     "THE BUCKLES",
+     327,
+     1120,
+     130,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 312.878,
+   "t1": 316.941,
+   "i": 50,
+   "segs": [
+    [
+     312.878,
+     316.59
+    ]
+   ],
+   "g": "quote",
+   "q": "so that the wearer has substantially unrestricted freedom of action.",
+   "hit": "unrestricted freedom",
+   "src": "US 2,656,875 \u00b7 description",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953"
+  },
+  {
+   "t0": 316.941,
+   "t1": 328.452,
+   "i": 51,
+   "segs": [
+    [
+     316.941,
+     319.202
+    ],
+    [
+     319.482,
+     328.101
+    ]
+   ],
+   "g": "quote",
+   "q": "further description is believed to be unnecessary.",
+   "hit": "believed to be unnecessary",
+   "src": "US 2,656,875 \u00b7 description",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953"
+  },
+  {
+   "t0": 328.452,
+   "t1": 334.66,
+   "i": 52,
+   "segs": [
+    [
+     328.452,
+     329.305
+    ],
+    [
+     329.805,
+     330.957
+    ],
+    [
+     331.457,
+     334.209
+    ]
+   ],
+   "g": "stamp",
+   "title": "STOOL",
+   "filed": "JUNE 6, 1951",
+   "date": "OCT. 27, 1953",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953",
+   "at": 1.6
+  },
+  {
+   "t0": 334.66,
+   "t1": 337.745,
+   "i": 53,
+   "segs": [
+    [
+     334.66,
+     335.578
+    ],
+    [
+     335.858,
+     337.394
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEARABILITY RANK \u00b7 No. 3 OF 8",
+   "numeral": "3",
+   "title": "Convertible|Overcoat and Tent",
+   "lines": [
+    "US 33,752",
+    "Issued 1861"
+   ],
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861"
+  },
+  {
+   "t0": 337.745,
+   "t1": 343.944,
+   "i": 54,
+   "segs": [
+    [
+     337.745,
+     338.939
+    ],
+    [
+     339.219,
+     343.593
+    ]
+   ],
+   "g": "quote",
+   "q": "a new and useful Combination of a Portable Tent, Overcoat, and Cape",
+   "hit": "Portable Tent, Overcoat, and Cape",
+   "src": "US 33,752 \u00b7 description",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861"
+  },
+  {
+   "t0": 343.944,
+   "t1": 349.289,
+   "i": 55,
+   "segs": [
+    [
+     343.944,
+     346.248
+    ],
+    [
+     346.528,
+     348.938
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat33",
+   "figno": "3",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861",
+   "calls": [
+    [
+     "THE COAT",
+     80,
+     166,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 349.289,
+   "t1": 359.331,
+   "i": 56,
+   "segs": [
+    [
+     349.289,
+     350.505
+    ],
+    [
+     350.785,
+     357.143
+    ],
+    [
+     357.423,
+     358.98
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat33",
+   "figno": "3",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861",
+   "calls": [
+    [
+     "THE STRAPS",
+     80,
+     166,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 359.331,
+   "t1": 364.957,
+   "i": 57,
+   "segs": [
+    [
+     359.331,
+     361.358
+    ],
+    [
+     361.638,
+     363.003
+    ],
+    [
+     363.283,
+     364.606
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat33",
+   "figno": "3",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861",
+   "draw": false,
+   "calls": [
+    [
+     "THE ARMHOLES",
+     40,
+     200,
+     100,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 364.957,
+   "t1": 367.846,
+   "i": 58,
+   "segs": [
+    [
+     364.957,
+     367.495
+    ]
+   ],
+   "g": "fig",
+   "fig": "cape4",
+   "figno": "4",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861",
+   "calls": [
+    [
+     "THE CAPE",
+     122,
+     207,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 367.846,
+   "t1": 376.093,
+   "i": 59,
+   "segs": [
+    [
+     367.846,
+     369.19
+    ],
+    [
+     369.47,
+     375.742
+    ]
+   ],
+   "g": "fig",
+   "fig": "tent1",
+   "figno": "1",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861",
+   "calls": [
+    [
+     "THE POLE",
+     68,
+     110,
+     100,
+     -60
+    ],
+    [
+     "THE COAT",
+     340,
+     40,
+     100,
+     70
+    ]
+   ]
+  },
+  {
+   "t0": 376.093,
+   "t1": 384.556,
+   "i": 60,
+   "segs": [
+    [
+     376.093,
+     377.416
+    ],
+    [
+     377.696,
+     379.339
+    ],
+    [
+     379.619,
+     384.205
+    ]
+   ],
+   "g": "fig",
+   "fig": "tent1",
+   "figno": "1",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861",
+   "draw": false,
+   "calls": [
+    [
+     "THE BED",
+     620,
+     140,
+     80,
+     80
+    ]
+   ]
+  },
+  {
+   "t0": 384.556,
+   "t1": 396.067,
+   "i": 61,
+   "segs": [
+    [
+     384.556,
+     388.588
+    ],
+    [
+     388.868,
+     395.716
+    ]
+   ],
+   "g": "quote",
+   "q": "I am aware that portable tents have been constructed to cover a single man or soldier",
+   "hit": "I am aware",
+   "src": "US 33,752 \u00b7 description",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861"
+  },
+  {
+   "t0": 396.067,
+   "t1": 404.658,
+   "i": 62,
+   "segs": [
+    [
+     396.067,
+     397.731
+    ],
+    [
+     398.011,
+     401.425
+    ],
+    [
+     401.705,
+     404.307
+    ]
+   ],
+   "g": "quote",
+   "q": "may be compactly folded and packed in or on the knapsack",
+   "hit": "packed in or on the knapsack",
+   "src": "US 33,752 \u00b7 description",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861"
+  },
+  {
+   "t0": 404.658,
+   "t1": 409.428,
+   "i": 63,
+   "segs": [
+    [
+     404.658,
+     406.002
+    ],
+    [
+     406.502,
+     408.977
+    ]
+   ],
+   "g": "stamp",
+   "title": "OVERCOAT|AND TENT",
+   "filed": "NOT LISTED",
+   "date": "NOV. 19, 1861",
+   "num": "US 33,752",
+   "hook": "AN OVERCOAT|THAT IS A [TENT]",
+   "side": "US 33,752 \u00b7 1861",
+   "at": 1.6
+  },
+  {
+   "t0": 409.428,
+   "t1": 413.024,
+   "i": 64,
+   "segs": [
+    [
+     409.428,
+     410.303
+    ],
+    [
+     410.583,
+     412.673
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEARABILITY RANK \u00b7 No. 2 OF 8",
+   "numeral": "2",
+   "title": "Body-Supported|Instrument Desk",
+   "lines": [
+    "US 4,715,293",
+    "Filed 1986 \u00b7 Issued 1987"
+   ],
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987"
+  },
+  {
+   "t0": 413.024,
+   "t1": 421.874,
+   "i": 65,
+   "segs": [
+    [
+     413.024,
+     414.56
+    ],
+    [
+     414.84,
+     418.104
+    ],
+    [
+     418.384,
+     419.792
+    ],
+    [
+     420.072,
+     421.523
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk1",
+   "figno": "1",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987",
+   "calls": [
+    [
+     "THE STRAPS",
+     155,
+     225,
+     -120,
+     -40
+    ],
+    [
+     "THE COMPUTER",
+     155,
+     560,
+     140,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 421.874,
+   "t1": 428.433,
+   "i": 66,
+   "segs": [
+    [
+     421.874,
+     428.082
+    ]
+   ],
+   "g": "quote",
+   "q": "a hand operated instrument platform retained over the shoulders of ones body",
+   "hit": "over the shoulders",
+   "src": "US 4,715,293 \u00b7 description",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987"
+  },
+  {
+   "t0": 428.433,
+   "t1": 433.584,
+   "i": 67,
+   "segs": [
+    [
+     428.433,
+     433.233
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk1",
+   "figno": "1",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987",
+   "draw": false,
+   "calls": [
+    [
+     "PADDED STRAPS",
+     155,
+     225,
+     -120,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 433.584,
+   "t1": 439.482,
+   "i": 68,
+   "segs": [
+    [
+     433.584,
+     439.131
+    ]
+   ],
+   "g": "quote",
+   "q": "where conventional tables, desks and fixed workplaces are unavailable.",
+   "hit": "unavailable",
+   "src": "US 4,715,293 \u00b7 description",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987"
+  },
+  {
+   "t0": 439.482,
+   "t1": 447.153,
+   "i": 69,
+   "segs": [
+    [
+     439.482,
+     442.362
+    ],
+    [
+     442.642,
+     446.802
+    ]
+   ],
+   "g": "quote",
+   "q": "cameras, tree boring drills, food, writing materials and the like.",
+   "hit": "tree boring drills",
+   "src": "US 4,715,293 \u00b7 description",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987"
+  },
+  {
+   "t0": 447.153,
+   "t1": 454.288,
+   "i": 70,
+   "segs": [
+    [
+     447.153,
+     453.937
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk1",
+   "figno": "1",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987",
+   "draw": false,
+   "calls": [
+    [
+     "THE INSTRUMENT",
+     155,
+     560,
+     140,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 454.288,
+   "t1": 464.689,
+   "i": 71,
+   "segs": [
+    [
+     454.288,
+     457.125
+    ],
+    [
+     457.405,
+     464.338
+    ]
+   ],
+   "g": "quote",
+   "q": "Attempting to place the instrument on a stationary surface while in the field creates a potentially hazardous situation.",
+   "hit": "potentially hazardous situation",
+   "src": "US 4,715,293 \u00b7 description",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987"
+  },
+  {
+   "t0": 464.689,
+   "t1": 474.304,
+   "i": 72,
+   "segs": [
+    [
+     464.689,
+     466.332
+    ],
+    [
+     466.612,
+     471.561
+    ],
+    [
+     471.841,
+     473.953
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk2",
+   "figno": "2",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987",
+   "calls": [
+    [
+     "THE TABLE TOP",
+     456,
+     565,
+     110,
+     70
+    ],
+    [
+     "SHOULDER LOOPS",
+     316,
+     113,
+     130,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 474.304,
+   "t1": 485.178,
+   "i": 73,
+   "segs": [
+    [
+     474.304,
+     477.611
+    ],
+    [
+     477.891,
+     482.691
+    ],
+    [
+     482.971,
+     484.827
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk3",
+   "figno": "3",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987",
+   "draw": false,
+   "calls": [
+    [
+     "ADJUSTABLE FRAME",
+     300,
+     300,
+     140,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 485.178,
+   "t1": 492.636,
+   "i": 74,
+   "segs": [
+    [
+     485.178,
+     487.034
+    ],
+    [
+     487.314,
+     492.285
+    ]
+   ],
+   "g": "quote",
+   "q": "An important object of the invention is the comfort in which the table may be worn.",
+   "hit": "the table may be worn",
+   "src": "US 4,715,293 \u00b7 description",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987"
+  },
+  {
+   "t0": 492.636,
+   "t1": 495.891,
+   "i": 75,
+   "segs": [
+    [
+     492.636,
+     493.894
+    ],
+    [
+     494.174,
+     495.54
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk3",
+   "figno": "3",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987",
+   "calls": [
+    [
+     "THE HARD HAT",
+     240,
+     52,
+     140,
+     20
+    ]
+   ]
+  },
+  {
+   "t0": 495.891,
+   "t1": 502.132,
+   "i": 76,
+   "segs": [
+    [
+     495.891,
+     498.536
+    ],
+    [
+     499.036,
+     501.681
+    ]
+   ],
+   "g": "stamp",
+   "title": "INSTRUMENT|DESK",
+   "filed": "DEC. 9, 1986",
+   "date": "DEC. 29, 1987",
+   "num": "US 4,715,293",
+   "hook": "A DESK YOU|[WEAR]",
+   "side": "US 4,715,293 \u00b7 1987",
+   "at": 1.8
+  },
+  {
+   "t0": 502.132,
+   "t1": 505.195,
+   "i": 77,
+   "segs": [
+    [
+     502.132,
+     503.007
+    ],
+    [
+     503.287,
+     504.844
+    ]
+   ],
+   "g": "title",
+   "kicker": "WEARABILITY RANK \u00b7 No. 1 OF 8",
+   "numeral": "1",
+   "title": "Portable|Work Stool",
+   "lines": [
+    "US 5,927,797",
+    "Filed 1998 \u00b7 Issued 1999"
+   ],
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999"
+  },
+  {
+   "t0": 505.195,
+   "t1": 514.408,
+   "i": 78,
+   "segs": [
+    [
+     505.195,
+     508.822
+    ],
+    [
+     509.102,
+     511.705
+    ],
+    [
+     511.985,
+     512.731
+    ],
+    [
+     513.011,
+     514.057
+    ]
+   ],
+   "g": "quote",
+   "q": "Shoeing a horse typically takes about one hour",
+   "hit": "about one hour",
+   "src": "US 5,927,797 \u00b7 description",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999"
+  },
+  {
+   "t0": 514.408,
+   "t1": 525.62,
+   "i": 79,
+   "segs": [
+    [
+     514.408,
+     520.146
+    ],
+    [
+     520.426,
+     525.269
+    ]
+   ],
+   "g": "quote",
+   "q": "field work, milking, working on vehicles",
+   "hit": "milking",
+   "src": "US 5,927,797 \u00b7 description",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999"
+  },
+  {
+   "t0": 525.62,
+   "t1": 532.395,
+   "i": 80,
+   "segs": [
+    [
+     525.62,
+     527.391
+    ],
+    [
+     527.671,
+     532.044
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool5",
+   "figno": "5",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999",
+   "calls": [
+    [
+     "THE BELT",
+     279,
+     95,
+     110,
+     -50
+    ],
+    [
+     "THE SEAT",
+     279,
+     317,
+     120,
+     60
+    ],
+    [
+     "FRONT STRAP",
+     51,
+     673,
+     130,
+     20
+    ]
+   ]
+  },
+  {
+   "t0": 532.395,
+   "t1": 539.493,
+   "i": 81,
+   "segs": [
+    [
+     532.395,
+     533.974
+    ],
+    [
+     534.254,
+     535.384
+    ],
+    [
+     535.664,
+     539.142
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool1",
+   "figno": "1",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999",
+   "calls": [
+    [
+     "HEIGHT PINS",
+     230,
+     440,
+     140,
+     -40
+    ],
+    [
+     "THE SPRING",
+     238,
+     690,
+     140,
+     30
+    ],
+    [
+     "THE FOOT",
+     211,
+     1123,
+     140,
+     -20
+    ]
+   ]
+  },
+  {
+   "t0": 539.493,
+   "t1": 545.348,
+   "i": 82,
+   "segs": [
+    [
+     539.493,
+     544.997
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool6",
+   "figno": "6",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "STAYS UNDER YOU",
+     285,
+     360,
+     120,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 545.348,
+   "t1": 553.168,
+   "i": 83,
+   "segs": [
+    [
+     545.348,
+     550.126
+    ],
+    [
+     550.406,
+     552.817
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool1",
+   "figno": "1",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999",
+   "draw": false,
+   "calls": [
+    [
+     "29 TO 36 INCHES",
+     230,
+     440,
+     140,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 553.168,
+   "t1": 560.239,
+   "i": 84,
+   "segs": [
+    [
+     553.168,
+     559.888
+    ]
+   ],
+   "g": "quote",
+   "q": "a person weighing between about 105 and 245 pounds",
+   "hit": "105 and 245 pounds",
+   "src": "US 5,927,797 \u00b7 description",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999"
+  },
+  {
+   "t0": 560.239,
+   "t1": 567.313,
+   "i": 85,
+   "segs": [
+    [
+     560.239,
+     561.711
+    ],
+    [
+     561.991,
+     566.962
+    ]
+   ],
+   "g": "fig",
+   "fig": "stool6",
+   "figno": "6",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999",
+   "calls": [
+    [
+     "UP AND DOWN",
+     285,
+     360,
+     120,
+     30
+    ]
+   ]
+  },
+  {
+   "t0": 567.313,
+   "t1": 576.776,
+   "i": 86,
+   "segs": [
+    [
+     567.313,
+     569.297
+    ],
+    [
+     569.577,
+     576.425
+    ]
+   ],
+   "g": "quote",
+   "q": "If the horse is moving the farrier vertically for more than nine inches, the horse is most likely out of control",
+   "hit": "most likely out of control",
+   "src": "US 5,927,797 \u00b7 description",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999"
+  },
+  {
+   "t0": 576.776,
+   "t1": 580.043,
+   "i": 87,
+   "segs": [
+    [
+     576.776,
+     579.592
+    ]
+   ],
+   "g": "quote",
+   "q": "and the farrier had better move away from the horse.",
+   "hit": "had better move away",
+   "src": "US 5,927,797 \u00b7 description",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999"
+  },
+  {
+   "t0": 580.043,
+   "t1": 585.794,
+   "i": 88,
+   "segs": [
+    [
+     580.043,
+     582.283
+    ],
+    [
+     582.783,
+     585.343
+    ]
+   ],
+   "g": "stamp",
+   "title": "PORTABLE|WORK STOOL",
+   "filed": "AUG. 6, 1998",
+   "date": "JULY 27, 1999",
+   "num": "US 5,927,797",
+   "hook": "A CHAIR|YOU [WEAR]",
+   "side": "US 5,927,797 \u00b7 1999",
+   "big": true,
+   "at": 1.6
+  },
+  {
+   "t0": 585.794,
+   "t1": 590.777,
+   "i": 89,
+   "segs": [
+    [
+     585.794,
+     587.138
+    ],
+    [
+     587.538,
+     590.226
+    ]
+   ],
+   "g": "title",
+   "kicker": "THIS SHELF'S",
+   "title": "Most|Approved",
+   "lines": [
+    "Voted by nobody.",
+    "Decided by us."
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 013"
+  },
+  {
+   "t0": 590.777,
+   "t1": 597.402,
+   "i": 90,
+   "segs": [
+    [
+     590.777,
+     592.739
+    ],
+    [
+     593.019,
+     597.051
+    ]
+   ],
+   "g": "quote",
+   "q": "further description is believed to be unnecessary.",
+   "hit": "believed to be unnecessary",
+   "src": "US 2,656,875 \u00b7 description",
+   "num": "US 2,656,875",
+   "hook": "A STOOL ON|A [HARNESS]",
+   "side": "US 2,656,875 \u00b7 1953",
+   "typed": false
+  },
+  {
+   "t0": 597.402,
+   "t1": 604.86,
+   "i": 91,
+   "segs": [
+    [
+     597.402,
+     600.73
+    ],
+    [
+     601.01,
+     604.509
+    ]
+   ],
+   "g": "title",
+   "kicker": "SOURCES",
+   "title": "All Real.|All Approved.",
+   "lines": [
+    "3,062,580 \u00b7 159,898 \u00b7 536,383",
+    "1,252,628 \u00b7 2,656,875 \u00b7 33,752",
+    "4,715,293 \u00b7 5,927,797"
+   ],
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 013"
+  },
+  {
+   "t0": 604.86,
+   "t1": 611.78,
+   "i": 92,
+   "segs": [
+    [
+     604.86,
+     606.545
+    ],
+    [
+     606.825,
+     608.425
+    ]
+   ],
+   "g": "title",
+   "kicker": "SERIOUSLY APPROVED",
+   "title": "Real patents.|Somehow approved.",
+   "lines": [
+    "New patents every day."
+   ],
+   "stamp": true,
+   "at": 2.6,
+   "hook": "ALL [APPROVED]",
+   "side": "SERIOUSLY APPROVED \u00b7 FILE 013"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 0.87,
+   "txt": "This is a"
+  },
+  {
+   "t0": 0.87,
+   "t1": 1.737,
+   "txt": "chair you wear."
+  },
+  {
+   "t0": 2.237,
+   "t1": 3.015,
+   "txt": "It is strapped"
+  },
+  {
+   "t0": 3.015,
+   "t1": 3.794,
+   "txt": "to your waist."
+  },
+  {
+   "t0": 4.294,
+   "t1": 5.147,
+   "txt": "It has one"
+  },
+  {
+   "t0": 5.147,
+   "t1": 5.489,
+   "txt": "leg."
+  },
+  {
+   "t0": 5.989,
+   "t1": 6.613,
+   "txt": "And it is"
+  },
+  {
+   "t0": 6.613,
+   "t1": 7.514,
+   "txt": "a real United"
+  },
+  {
+   "t0": 7.514,
+   "t1": 8.485,
+   "txt": "States patent."
+  },
+  {
+   "t0": 8.936,
+   "t1": 9.891,
+   "txt": "Inside the leg,"
+  },
+  {
+   "t0": 9.891,
+   "t1": 10.783,
+   "txt": "a spring keeps"
+  },
+  {
+   "t0": 10.783,
+   "t1": 11.483,
+   "txt": "the foot on"
+  },
+  {
+   "t0": 11.483,
+   "t1": 12.184,
+   "txt": "the ground,"
+  },
+  {
+   "t0": 12.184,
+   "t1": 13.012,
+   "txt": "even when you"
+  },
+  {
+   "t0": 13.012,
+   "t1": 13.33,
+   "txt": "move."
+  },
+  {
+   "t0": 13.681,
+   "t1": 14.791,
+   "txt": "It was approved."
+  },
+  {
+   "t0": 15.211,
+   "t1": 16.683,
+   "txt": "Nineteen ninety-nine."
+  },
+  {
+   "t0": 17.184,
+   "t1": 17.608,
+   "txt": "Today,"
+  },
+  {
+   "t0": 17.608,
+   "t1": 19.162,
+   "txt": "eight wearable chairs,"
+  },
+  {
+   "t0": 19.162,
+   "t1": 20.222,
+   "txt": "desks and tents"
+  },
+  {
+   "t0": 20.222,
+   "t1": 21.141,
+   "txt": "that got real"
+  },
+  {
+   "t0": 21.141,
+   "t1": 21.706,
+   "txt": "patents."
+  },
+  {
+   "t0": 21.986,
+   "t1": 22.685,
+   "txt": "A cushion on"
+  },
+  {
+   "t0": 22.685,
+   "t1": 23.266,
+   "txt": "your belt."
+  },
+  {
+   "t0": 23.546,
+   "t1": 24.05,
+   "txt": "A desk on"
+  },
+  {
+   "t0": 24.05,
+   "t1": 24.89,
+   "txt": "your shoulders."
+  },
+  {
+   "t0": 25.17,
+   "t1": 25.841,
+   "txt": "A coat that"
+  },
+  {
+   "t0": 25.841,
+   "t1": 26.572,
+   "txt": "turns into a"
+  },
+  {
+   "t0": 26.572,
+   "t1": 26.877,
+   "txt": "tent."
+  },
+  {
+   "t0": 27.157,
+   "t1": 28.587,
+   "txt": "From eighteen sixty-one"
+  },
+  {
+   "t0": 28.587,
+   "t1": 30.08,
+   "txt": "to nineteen ninety-nine."
+  },
+  {
+   "t0": 30.36,
+   "t1": 31.303,
+   "txt": "Real drawings,"
+  },
+  {
+   "t0": 31.303,
+   "t1": 32.112,
+   "txt": "real quotes,"
+  },
+  {
+   "t0": 32.112,
+   "t1": 32.988,
+   "txt": "ranked by how"
+  },
+  {
+   "t0": 32.988,
+   "t1": 34.202,
+   "txt": "much furniture you"
+  },
+  {
+   "t0": 34.202,
+   "t1": 35.01,
+   "txt": "are wearing."
+  },
+  {
+   "t0": 35.361,
+   "t1": 36.236,
+   "txt": "Number eight."
+  },
+  {
+   "t0": 36.516,
+   "t1": 37.382,
+   "txt": "The cushion that"
+  },
+  {
+   "t0": 37.382,
+   "t1": 38.031,
+   "txt": "follows you."
+  },
+  {
+   "t0": 38.382,
+   "t1": 38.931,
+   "txt": "This is a"
+  },
+  {
+   "t0": 38.931,
+   "t1": 39.846,
+   "txt": "foam cushion in"
+  },
+  {
+   "t0": 39.846,
+   "t1": 41.006,
+   "txt": "a waterproof cover."
+  },
+  {
+   "t0": 41.286,
+   "t1": 42.057,
+   "txt": "It clips onto"
+  },
+  {
+   "t0": 42.057,
+   "t1": 42.651,
+   "txt": "your belt."
+  },
+  {
+   "t0": 43.002,
+   "t1": 43.634,
+   "txt": "It was made"
+  },
+  {
+   "t0": 43.634,
+   "t1": 44.438,
+   "txt": "for people who"
+  },
+  {
+   "t0": 44.438,
+   "t1": 45.299,
+   "txt": "sit outside for"
+  },
+  {
+   "t0": 45.299,
+   "t1": 45.989,
+   "txt": "a long time."
+  },
+  {
+   "t0": 46.269,
+   "t1": 46.777,
+   "txt": "Hunting,"
+  },
+  {
+   "t0": 46.777,
+   "t1": 47.284,
+   "txt": "fishing,"
+  },
+  {
+   "t0": 47.284,
+   "t1": 47.729,
+   "txt": "skiing,"
+  },
+  {
+   "t0": 47.729,
+   "t1": 48.554,
+   "txt": "or watching a"
+  },
+  {
+   "t0": 48.554,
+   "t1": 48.871,
+   "txt": "game."
+  },
+  {
+   "t0": 49.222,
+   "t1": 49.987,
+   "txt": "The cover is"
+  },
+  {
+   "t0": 49.987,
+   "t1": 51.071,
+   "txt": "waterproof vinyl,"
+  },
+  {
+   "t0": 51.071,
+   "t1": 51.581,
+   "txt": "so a wet"
+  },
+  {
+   "t0": 51.581,
+   "t1": 52.346,
+   "txt": "seat or damp"
+  },
+  {
+   "t0": 52.346,
+   "t1": 53.302,
+   "txt": "ground stays on"
+  },
+  {
+   "t0": 53.302,
+   "t1": 54.194,
+   "txt": "the outside of"
+  },
+  {
+   "t0": 54.194,
+   "t1": 54.449,
+   "txt": "you."
+  },
+  {
+   "t0": 54.8,
+   "t1": 55.588,
+   "txt": "And its main"
+  },
+  {
+   "t0": 55.588,
+   "t1": 56.245,
+   "txt": "job is not"
+  },
+  {
+   "t0": 56.245,
+   "t1": 57.296,
+   "txt": "to be forgotten."
+  },
+  {
+   "t0": 57.576,
+   "t1": 58.17,
+   "txt": "So that it"
+  },
+  {
+   "t0": 58.17,
+   "t1": 59.24,
+   "txt": "cannot become lost"
+  },
+  {
+   "t0": 59.24,
+   "t1": 59.894,
+   "txt": "if a person"
+  },
+  {
+   "t0": 59.894,
+   "t1": 60.666,
+   "txt": "leaves a seat"
+  },
+  {
+   "t0": 60.666,
+   "t1": 61.795,
+   "txt": "without thinking of"
+  },
+  {
+   "t0": 61.795,
+   "t1": 62.568,
+   "txt": "the seat pad."
+  },
+  {
+   "t0": 62.919,
+   "t1": 63.734,
+   "txt": "When you stand"
+  },
+  {
+   "t0": 63.734,
+   "t1": 63.909,
+   "txt": "up,"
+  },
+  {
+   "t0": 63.909,
+   "t1": 64.55,
+   "txt": "you fold it"
+  },
+  {
+   "t0": 64.55,
+   "t1": 65.074,
+   "txt": "in three."
+  },
+  {
+   "t0": 65.354,
+   "t1": 66.354,
+   "txt": "An elastic strap"
+  },
+  {
+   "t0": 66.354,
+   "t1": 67.355,
+   "txt": "snaps around it,"
+  },
+  {
+   "t0": 67.355,
+   "t1": 68.105,
+   "txt": "and it rides"
+  },
+  {
+   "t0": 68.105,
+   "t1": 68.98,
+   "txt": "at your waist."
+  },
+  {
+   "t0": 69.331,
+   "t1": 69.869,
+   "txt": "Folded,"
+  },
+  {
+   "t0": 69.869,
+   "t1": 70.789,
+   "txt": "it also fits"
+  },
+  {
+   "t0": 70.789,
+   "t1": 71.864,
+   "txt": "in a suitcase,"
+  },
+  {
+   "t0": 71.864,
+   "t1": 72.324,
+   "txt": "a bag,"
+  },
+  {
+   "t0": 72.324,
+   "t1": 73.706,
+   "txt": "a car compartment,"
+  },
+  {
+   "t0": 73.706,
+   "t1": 74.55,
+   "txt": "or a tackle"
+  },
+  {
+   "t0": 74.55,
+   "t1": 74.857,
+   "txt": "box."
+  },
+  {
+   "t0": 75.208,
+   "t1": 76.146,
+   "txt": "For everyone."
+  },
+  {
+   "t0": 76.426,
+   "t1": 77.194,
+   "txt": "It is easy"
+  },
+  {
+   "t0": 77.194,
+   "t1": 77.962,
+   "txt": "to be worn"
+  },
+  {
+   "t0": 77.962,
+   "t1": 78.5,
+   "txt": "by men,"
+  },
+  {
+   "t0": 78.5,
+   "t1": 78.961,
+   "txt": "women,"
+  },
+  {
+   "t0": 78.961,
+   "t1": 80.036,
+   "txt": "or children as"
+  },
+  {
+   "t0": 80.036,
+   "t1": 80.65,
+   "txt": "desired."
+  },
+  {
+   "t0": 81.001,
+   "t1": 81.851,
+   "txt": "The strap can"
+  },
+  {
+   "t0": 81.851,
+   "t1": 82.897,
+   "txt": "even be elastic,"
+  },
+  {
+   "t0": 82.897,
+   "t1": 83.616,
+   "txt": "in case the"
+  },
+  {
+   "t0": 83.616,
+   "t1": 85.055,
+   "txt": "pad becomes entangled."
+  },
+  {
+   "t0": 85.335,
+   "t1": 86.002,
+   "txt": "And it comes"
+  },
+  {
+   "t0": 86.002,
+   "t1": 86.836,
+   "txt": "in any suitable"
+  },
+  {
+   "t0": 86.836,
+   "t1": 87.169,
+   "txt": "color."
+  },
+  {
+   "t0": 87.52,
+   "t1": 88.3,
+   "txt": "A pillow with"
+  },
+  {
+   "t0": 88.3,
+   "t1": 88.779,
+   "txt": "a leash."
+  },
+  {
+   "t0": 89.279,
+   "t1": 89.907,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 89.907,
+   "t1": 91.86,
+   "txt": "November nineteen sixty-two."
+  },
+  {
+   "t0": 92.311,
+   "t1": 93.229,
+   "txt": "Number seven."
+  },
+  {
+   "t0": 93.509,
+   "t1": 94.386,
+   "txt": "The walking stick"
+  },
+  {
+   "t0": 94.386,
+   "t1": 95.109,
+   "txt": "with a secret."
+  },
+  {
+   "t0": 95.46,
+   "t1": 96.889,
+   "txt": "Eighteen seventy-five."
+  },
+  {
+   "t0": 97.169,
+   "t1": 97.684,
+   "txt": "Here is a"
+  },
+  {
+   "t0": 97.684,
+   "t1": 98.715,
+   "txt": "folding stool with"
+  },
+  {
+   "t0": 98.715,
+   "t1": 99.345,
+   "txt": "three legs."
+  },
+  {
+   "t0": 99.625,
+   "t1": 100.197,
+   "txt": "One leg is"
+  },
+  {
+   "t0": 100.197,
+   "t1": 101.055,
+   "txt": "longer than the"
+  },
+  {
+   "t0": 101.055,
+   "t1": 101.456,
+   "txt": "others,"
+  },
+  {
+   "t0": 101.456,
+   "t1": 102.257,
+   "txt": "and it becomes"
+  },
+  {
+   "t0": 102.257,
+   "t1": 102.886,
+   "txt": "the back of"
+  },
+  {
+   "t0": 102.886,
+   "t1": 103.401,
+   "txt": "the seat."
+  },
+  {
+   "t0": 103.752,
+   "t1": 104.323,
+   "txt": "The goal,"
+  },
+  {
+   "t0": 104.323,
+   "t1": 105.274,
+   "txt": "in the patent's"
+  },
+  {
+   "t0": 105.274,
+   "t1": 105.909,
+   "txt": "own words:"
+  },
+  {
+   "t0": 105.909,
+   "t1": 106.48,
+   "txt": "to make a"
+  },
+  {
+   "t0": 106.48,
+   "t1": 107.621,
+   "txt": "campstool the legs"
+  },
+  {
+   "t0": 107.621,
+   "t1": 108.446,
+   "txt": "of which when"
+  },
+  {
+   "t0": 108.446,
+   "t1": 109.461,
+   "txt": "folded will form"
+  },
+  {
+   "t0": 109.461,
+   "t1": 110.032,
+   "txt": "a cane or"
+  },
+  {
+   "t0": 110.032,
+   "t1": 110.92,
+   "txt": "walking-stick."
+  },
+  {
+   "t0": 111.271,
+   "t1": 112.062,
+   "txt": "Fold the three"
+  },
+  {
+   "t0": 112.062,
+   "t1": 112.853,
+   "txt": "legs together,"
+  },
+  {
+   "t0": 112.853,
+   "t1": 113.588,
+   "txt": "and they make"
+  },
+  {
+   "t0": 113.588,
+   "t1": 114.492,
+   "txt": "one round stick."
+  },
+  {
+   "t0": 114.843,
+   "t1": 115.592,
+   "txt": "The long leg"
+  },
+  {
+   "t0": 115.592,
+   "t1": 116.466,
+   "txt": "is shaped like"
+  },
+  {
+   "t0": 116.466,
+   "t1": 116.965,
+   "txt": "a wedge,"
+  },
+  {
+   "t0": 116.965,
+   "t1": 117.714,
+   "txt": "so it slides"
+  },
+  {
+   "t0": 117.714,
+   "t1": 118.775,
+   "txt": "between the other"
+  },
+  {
+   "t0": 118.775,
+   "t1": 119.025,
+   "txt": "two."
+  },
+  {
+   "t0": 119.305,
+   "t1": 120.408,
+   "txt": "Little buttons and"
+  },
+  {
+   "t0": 120.408,
+   "t1": 121.204,
+   "txt": "pins fit into"
+  },
+  {
+   "t0": 121.204,
+   "t1": 121.879,
+   "txt": "a groove in"
+  },
+  {
+   "t0": 121.879,
+   "t1": 122.675,
+   "txt": "the long leg."
+  },
+  {
+   "t0": 123.026,
+   "t1": 123.906,
+   "txt": "The seat itself"
+  },
+  {
+   "t0": 123.906,
+   "t1": 124.728,
+   "txt": "is two leather"
+  },
+  {
+   "t0": 124.728,
+   "t1": 125.432,
+   "txt": "straps and a"
+  },
+  {
+   "t0": 125.432,
+   "t1": 126.253,
+   "txt": "stiff piece of"
+  },
+  {
+   "t0": 126.253,
+   "t1": 126.546,
+   "txt": "wood."
+  },
+  {
+   "t0": 126.826,
+   "t1": 127.417,
+   "txt": "You pull it"
+  },
+  {
+   "t0": 127.417,
+   "t1": 128.061,
+   "txt": "off and roll"
+  },
+  {
+   "t0": 128.061,
+   "t1": 128.384,
+   "txt": "it up."
+  },
+  {
+   "t0": 128.735,
+   "t1": 129.226,
+   "txt": "And then:"
+  },
+  {
+   "t0": 129.226,
+   "t1": 129.99,
+   "txt": "The whole seat"
+  },
+  {
+   "t0": 129.99,
+   "t1": 130.591,
+   "txt": "may thus be"
+  },
+  {
+   "t0": 130.591,
+   "t1": 131.846,
+   "txt": "conveniently carried in"
+  },
+  {
+   "t0": 131.846,
+   "t1": 132.447,
+   "txt": "the pocket."
+  },
+  {
+   "t0": 132.798,
+   "t1": 133.779,
+   "txt": "Does it hold?"
+  },
+  {
+   "t0": 134.059,
+   "t1": 134.798,
+   "txt": "When used as"
+  },
+  {
+   "t0": 134.798,
+   "t1": 135.291,
+   "txt": "a chair,"
+  },
+  {
+   "t0": 135.291,
+   "t1": 136.276,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 136.276,
+   "t1": 137.2,
+   "txt": "the stiff front"
+  },
+  {
+   "t0": 137.2,
+   "t1": 138.247,
+   "txt": "piece will render"
+  },
+  {
+   "t0": 138.247,
+   "t1": 139.171,
+   "txt": "the device very"
+  },
+  {
+   "t0": 139.171,
+   "t1": 140.587,
+   "txt": "secure and comfortable."
+  },
+  {
+   "t0": 140.938,
+   "t1": 141.749,
+   "txt": "A chair."
+  },
+  {
+   "t0": 142.249,
+   "t1": 143.358,
+   "txt": "In your pocket."
+  },
+  {
+   "t0": 143.858,
+   "t1": 144.635,
+   "txt": "And in your"
+  },
+  {
+   "t0": 144.635,
+   "t1": 144.989,
+   "txt": "hand."
+  },
+  {
+   "t0": 145.489,
+   "t1": 146.098,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 146.098,
+   "t1": 148.198,
+   "txt": "February eighteen seventy-five."
+  },
+  {
+   "t0": 148.649,
+   "t1": 149.545,
+   "txt": "Number six."
+  },
+  {
+   "t0": 149.825,
+   "t1": 150.724,
+   "txt": "The blanket with"
+  },
+  {
+   "t0": 150.724,
+   "t1": 151.51,
+   "txt": "three careers."
+  },
+  {
+   "t0": 151.861,
+   "t1": 153.227,
+   "txt": "Eighteen ninety-five."
+  },
+  {
+   "t0": 153.507,
+   "t1": 154.1,
+   "txt": "This is a"
+  },
+  {
+   "t0": 154.1,
+   "t1": 154.824,
+   "txt": "long bag of"
+  },
+  {
+   "t0": 154.824,
+   "t1": 155.879,
+   "txt": "felted material,"
+  },
+  {
+   "t0": 155.879,
+   "t1": 156.669,
+   "txt": "woven in one"
+  },
+  {
+   "t0": 156.669,
+   "t1": 156.999,
+   "txt": "tube,"
+  },
+  {
+   "t0": 156.999,
+   "t1": 157.724,
+   "txt": "with a slit"
+  },
+  {
+   "t0": 157.724,
+   "t1": 158.712,
+   "txt": "down the front."
+  },
+  {
+   "t0": 159.063,
+   "t1": 159.852,
+   "txt": "Job one."
+  },
+  {
+   "t0": 160.132,
+   "t1": 160.872,
+   "txt": "Close the slit"
+  },
+  {
+   "t0": 160.872,
+   "t1": 161.505,
+   "txt": "and throw it"
+  },
+  {
+   "t0": 161.505,
+   "t1": 162.244,
+   "txt": "over your lap."
+  },
+  {
+   "t0": 162.524,
+   "t1": 162.98,
+   "txt": "It is a"
+  },
+  {
+   "t0": 162.98,
+   "t1": 163.762,
+   "txt": "steamer rug."
+  },
+  {
+   "t0": 164.113,
+   "t1": 165.009,
+   "txt": "Job two."
+  },
+  {
+   "t0": 165.289,
+   "t1": 166.377,
+   "txt": "Climb inside."
+  },
+  {
+   "t0": 166.657,
+   "t1": 167.564,
+   "txt": "Button the top,"
+  },
+  {
+   "t0": 167.564,
+   "t1": 168.411,
+   "txt": "and the fabric"
+  },
+  {
+   "t0": 168.411,
+   "t1": 169.44,
+   "txt": "folds into little"
+  },
+  {
+   "t0": 169.44,
+   "t1": 170.347,
+   "txt": "capes over your"
+  },
+  {
+   "t0": 170.347,
+   "t1": 170.71,
+   "txt": "chest."
+  },
+  {
+   "t0": 171.061,
+   "t1": 171.643,
+   "txt": "To get in,"
+  },
+  {
+   "t0": 171.643,
+   "t1": 172.457,
+   "txt": "you throw back"
+  },
+  {
+   "t0": 172.457,
+   "t1": 173.156,
+   "txt": "two flaps at"
+  },
+  {
+   "t0": 173.156,
+   "t1": 173.621,
+   "txt": "the top."
+  },
+  {
+   "t0": 173.901,
+   "t1": 174.824,
+   "txt": "A diagonal row"
+  },
+  {
+   "t0": 174.824,
+   "t1": 175.879,
+   "txt": "of buttons takes"
+  },
+  {
+   "t0": 175.879,
+   "t1": 176.407,
+   "txt": "it in at"
+  },
+  {
+   "t0": 176.407,
+   "t1": 177.066,
+   "txt": "the waist,"
+  },
+  {
+   "t0": 177.066,
+   "t1": 177.923,
+   "txt": "for people of"
+  },
+  {
+   "t0": 177.923,
+   "t1": 178.978,
+   "txt": "different sizes."
+  },
+  {
+   "t0": 179.329,
+   "t1": 179.966,
+   "txt": "Here it is"
+  },
+  {
+   "t0": 179.966,
+   "t1": 180.539,
+   "txt": "in use as"
+  },
+  {
+   "t0": 180.539,
+   "t1": 181.621,
+   "txt": "a sleeping-bag by"
+  },
+  {
+   "t0": 181.621,
+   "t1": 182.321,
+   "txt": "a person in"
+  },
+  {
+   "t0": 182.321,
+   "t1": 183.276,
+   "txt": "a steamerchair."
+  },
+  {
+   "t0": 183.627,
+   "t1": 184.608,
+   "txt": "Note the hat."
+  },
+  {
+   "t0": 184.888,
+   "t1": 185.48,
+   "txt": "It has a"
+  },
+  {
+   "t0": 185.48,
+   "t1": 185.998,
+   "txt": "pompom."
+  },
+  {
+   "t0": 186.349,
+   "t1": 187.287,
+   "txt": "Job three."
+  },
+  {
+   "t0": 187.567,
+   "t1": 188.452,
+   "txt": "Put your luggage"
+  },
+  {
+   "t0": 188.452,
+   "t1": 189.227,
+   "txt": "in the bottom,"
+  },
+  {
+   "t0": 189.227,
+   "t1": 189.835,
+   "txt": "roll it up,"
+  },
+  {
+   "t0": 189.835,
+   "t1": 190.554,
+   "txt": "and strap it."
+  },
+  {
+   "t0": 190.834,
+   "t1": 191.429,
+   "txt": "Now it is"
+  },
+  {
+   "t0": 191.429,
+   "t1": 192.157,
+   "txt": "a suitcase."
+  },
+  {
+   "t0": 192.508,
+   "t1": 193.295,
+   "txt": "The buttons are"
+  },
+  {
+   "t0": 193.295,
+   "t1": 194.188,
+   "txt": "little disks with"
+  },
+  {
+   "t0": 194.188,
+   "t1": 194.556,
+   "txt": "a stud."
+  },
+  {
+   "t0": 194.836,
+   "t1": 195.689,
+   "txt": "But the patent"
+  },
+  {
+   "t0": 195.689,
+   "t1": 196.969,
+   "txt": "says ordinary buttons"
+  },
+  {
+   "t0": 196.969,
+   "t1": 197.761,
+   "txt": "would do just"
+  },
+  {
+   "t0": 197.761,
+   "t1": 198.249,
+   "txt": "as well."
+  },
+  {
+   "t0": 198.6,
+   "t1": 199.063,
+   "txt": "A rug,"
+  },
+  {
+   "t0": 199.063,
+   "t1": 199.758,
+   "txt": "a bed and"
+  },
+  {
+   "t0": 199.758,
+   "t1": 200.221,
+   "txt": "a bag."
+  },
+  {
+   "t0": 200.721,
+   "t1": 201.329,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 201.329,
+   "t1": 203.153,
+   "txt": "March eighteen ninety-five."
+  },
+  {
+   "t0": 203.604,
+   "t1": 204.564,
+   "txt": "Number five."
+  },
+  {
+   "t0": 204.844,
+   "t1": 205.932,
+   "txt": "One rectangle."
+  },
+  {
+   "t0": 206.212,
+   "t1": 207.279,
+   "txt": "Many outfits."
+  },
+  {
+   "t0": 207.63,
+   "t1": 208.559,
+   "txt": "This patent came"
+  },
+  {
+   "t0": 208.559,
+   "t1": 209.487,
+   "txt": "from an inventor"
+  },
+  {
+   "t0": 209.487,
+   "t1": 210.126,
+   "txt": "in England."
+  },
+  {
+   "t0": 210.406,
+   "t1": 211.161,
+   "txt": "It starts as"
+  },
+  {
+   "t0": 211.161,
+   "t1": 212.043,
+   "txt": "a single piece"
+  },
+  {
+   "t0": 212.043,
+   "t1": 213.679,
+   "txt": "of preferably waterproofed"
+  },
+  {
+   "t0": 213.679,
+   "t1": 214.246,
+   "txt": "material."
+  },
+  {
+   "t0": 214.526,
+   "t1": 214.819,
+   "txt": "Flat,"
+  },
+  {
+   "t0": 214.819,
+   "t1": 215.229,
+   "txt": "it is a"
+  },
+  {
+   "t0": 215.229,
+   "t1": 216.165,
+   "txt": "traveling rug or"
+  },
+  {
+   "t0": 216.165,
+   "t1": 217.043,
+   "txt": "a ground sheet."
+  },
+  {
+   "t0": 217.394,
+   "t1": 218.107,
+   "txt": "Put your head"
+  },
+  {
+   "t0": 218.107,
+   "t1": 218.984,
+   "txt": "through the hole"
+  },
+  {
+   "t0": 218.984,
+   "t1": 219.752,
+   "txt": "in the middle,"
+  },
+  {
+   "t0": 219.752,
+   "t1": 220.519,
+   "txt": "and button the"
+  },
+  {
+   "t0": 220.519,
+   "t1": 221.451,
+   "txt": "slits around your"
+  },
+  {
+   "t0": 221.451,
+   "t1": 221.725,
+   "txt": "arms."
+  },
+  {
+   "t0": 222.005,
+   "t1": 222.669,
+   "txt": "Now it has"
+  },
+  {
+   "t0": 222.669,
+   "t1": 223.2,
+   "txt": "sleeves."
+  },
+  {
+   "t0": 223.551,
+   "t1": 224.278,
+   "txt": "The hood will"
+  },
+  {
+   "t0": 224.278,
+   "t1": 225.565,
+   "txt": "effectually protect the"
+  },
+  {
+   "t0": 225.565,
+   "t1": 226.292,
+   "txt": "head neck and"
+  },
+  {
+   "t0": 226.292,
+   "t1": 227.019,
+   "txt": "throat of the"
+  },
+  {
+   "t0": 227.019,
+   "t1": 227.747,
+   "txt": "wearer in the"
+  },
+  {
+   "t0": 227.747,
+   "t1": 229.033,
+   "txt": "most inclement weather."
+  },
+  {
+   "t0": 229.384,
+   "t1": 230.394,
+   "txt": "Gather the extra"
+  },
+  {
+   "t0": 230.394,
+   "t1": 231.151,
+   "txt": "cloth at the"
+  },
+  {
+   "t0": 231.151,
+   "t1": 231.467,
+   "txt": "back,"
+  },
+  {
+   "t0": 231.467,
+   "t1": 232.161,
+   "txt": "add a belt,"
+  },
+  {
+   "t0": 232.161,
+   "t1": 232.729,
+   "txt": "and it is"
+  },
+  {
+   "t0": 232.729,
+   "t1": 233.36,
+   "txt": "a coat for"
+  },
+  {
+   "t0": 233.36,
+   "t1": 233.864,
+   "txt": "walking."
+  },
+  {
+   "t0": 234.215,
+   "t1": 235.066,
+   "txt": "Hooks and eyes"
+  },
+  {
+   "t0": 235.066,
+   "t1": 235.856,
+   "txt": "keep the wind"
+  },
+  {
+   "t0": 235.856,
+   "t1": 237.072,
+   "txt": "from rearranging the"
+  },
+  {
+   "t0": 237.072,
+   "t1": 237.437,
+   "txt": "skirt."
+  },
+  {
+   "t0": 237.717,
+   "t1": 238.585,
+   "txt": "Leave it loose"
+  },
+  {
+   "t0": 238.585,
+   "t1": 239.081,
+   "txt": "instead,"
+  },
+  {
+   "t0": 239.081,
+   "t1": 239.639,
+   "txt": "and it is"
+  },
+  {
+   "t0": 239.639,
+   "t1": 240.321,
+   "txt": "a cloak for"
+  },
+  {
+   "t0": 240.321,
+   "t1": 240.755,
+   "txt": "riding,"
+  },
+  {
+   "t0": 240.755,
+   "t1": 241.685,
+   "txt": "or for cycling."
+  },
+  {
+   "t0": 242.036,
+   "t1": 242.667,
+   "txt": "Put two of"
+  },
+  {
+   "t0": 242.667,
+   "t1": 243.677,
+   "txt": "them together on"
+  },
+  {
+   "t0": 243.677,
+   "t1": 244.055,
+   "txt": "poles,"
+  },
+  {
+   "t0": 244.055,
+   "t1": 244.623,
+   "txt": "and it is"
+  },
+  {
+   "t0": 244.623,
+   "t1": 245.065,
+   "txt": "a tent."
+  },
+  {
+   "t0": 245.345,
+   "t1": 246.668,
+   "txt": "With someone inside."
+  },
+  {
+   "t0": 247.019,
+   "t1": 248.101,
+   "txt": "And Figure seven"
+  },
+  {
+   "t0": 248.101,
+   "t1": 248.845,
+   "txt": "is a lady's"
+  },
+  {
+   "t0": 248.845,
+   "t1": 249.792,
+   "txt": "cloak or wrap."
+  },
+  {
+   "t0": 250.072,
+   "t1": 250.757,
+   "txt": "It works the"
+  },
+  {
+   "t0": 250.757,
+   "t1": 251.385,
+   "txt": "same way as"
+  },
+  {
+   "t0": 251.385,
+   "t1": 252.013,
+   "txt": "the others."
+  },
+  {
+   "t0": 252.293,
+   "t1": 253.648,
+   "txt": "So further description"
+  },
+  {
+   "t0": 253.648,
+   "t1": 255.003,
+   "txt": "is deemed unnecessary."
+  },
+  {
+   "t0": 255.354,
+   "t1": 256.926,
+   "txt": "Its intended customers:"
+  },
+  {
+   "t0": 256.926,
+   "t1": 257.815,
+   "txt": "troops in the"
+  },
+  {
+   "t0": 257.815,
+   "t1": 258.225,
+   "txt": "field,"
+  },
+  {
+   "t0": 258.225,
+   "t1": 258.909,
+   "txt": "travelers,"
+  },
+  {
+   "t0": 258.909,
+   "t1": 259.593,
+   "txt": "motorists,"
+  },
+  {
+   "t0": 259.593,
+   "t1": 261.028,
+   "txt": "cyclists or tourists."
+  },
+  {
+   "t0": 261.379,
+   "t1": 261.97,
+   "txt": "A rug you"
+  },
+  {
+   "t0": 261.97,
+   "t1": 262.691,
+   "txt": "can wear to"
+  },
+  {
+   "t0": 262.691,
+   "t1": 263.15,
+   "txt": "dinner."
+  },
+  {
+   "t0": 263.65,
+   "t1": 264.27,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 264.27,
+   "t1": 266.061,
+   "txt": "January nineteen eighteen."
+  },
+  {
+   "t0": 266.512,
+   "t1": 267.429,
+   "txt": "Number four."
+  },
+  {
+   "t0": 267.709,
+   "t1": 268.481,
+   "txt": "The stool that"
+  },
+  {
+   "t0": 268.481,
+   "t1": 269.032,
+   "txt": "wears you."
+  },
+  {
+   "t0": 269.383,
+   "t1": 270.833,
+   "txt": "Nineteen fifty-three."
+  },
+  {
+   "t0": 271.113,
+   "t1": 271.876,
+   "txt": "Two straps go"
+  },
+  {
+   "t0": 271.876,
+   "t1": 272.991,
+   "txt": "around your thighs."
+  },
+  {
+   "t0": 273.271,
+   "t1": 274.0,
+   "txt": "Two more cross"
+  },
+  {
+   "t0": 274.0,
+   "t1": 274.729,
+   "txt": "over your back"
+  },
+  {
+   "t0": 274.729,
+   "t1": 275.511,
+   "txt": "and your chest."
+  },
+  {
+   "t0": 275.791,
+   "t1": 276.383,
+   "txt": "And at the"
+  },
+  {
+   "t0": 276.383,
+   "t1": 276.798,
+   "txt": "bottom,"
+  },
+  {
+   "t0": 276.798,
+   "t1": 277.45,
+   "txt": "a seat with"
+  },
+  {
+   "t0": 277.45,
+   "t1": 277.924,
+   "txt": "one leg."
+  },
+  {
+   "t0": 278.275,
+   "t1": 279.052,
+   "txt": "Its purpose:"
+  },
+  {
+   "t0": 279.052,
+   "t1": 279.765,
+   "txt": "so that the"
+  },
+  {
+   "t0": 279.765,
+   "t1": 280.607,
+   "txt": "stool will at"
+  },
+  {
+   "t0": 280.607,
+   "t1": 281.385,
+   "txt": "all times be"
+  },
+  {
+   "t0": 281.385,
+   "t1": 282.356,
+   "txt": "carried in such"
+  },
+  {
+   "t0": 282.356,
+   "t1": 283.328,
+   "txt": "a position that"
+  },
+  {
+   "t0": 283.328,
+   "t1": 284.235,
+   "txt": "the person may"
+  },
+  {
+   "t0": 284.235,
+   "t1": 285.012,
+   "txt": "sit upon the"
+  },
+  {
+   "t0": 285.012,
+   "t1": 285.336,
+   "txt": "same."
+  },
+  {
+   "t0": 285.687,
+   "t1": 286.711,
+   "txt": "Who needs that?"
+  },
+  {
+   "t0": 286.991,
+   "t1": 288.197,
+   "txt": "It is particularly"
+  },
+  {
+   "t0": 288.197,
+   "t1": 289.47,
+   "txt": "useful for milkers,"
+  },
+  {
+   "t0": 289.47,
+   "t1": 290.474,
+   "txt": "auto mechanics,"
+  },
+  {
+   "t0": 290.474,
+   "t1": 291.144,
+   "txt": "and in the"
+  },
+  {
+   "t0": 291.144,
+   "t1": 292.417,
+   "txt": "performance of many"
+  },
+  {
+   "t0": 292.417,
+   "t1": 293.221,
+   "txt": "other tasks."
+  },
+  {
+   "t0": 293.572,
+   "t1": 294.191,
+   "txt": "The point is"
+  },
+  {
+   "t0": 294.191,
+   "t1": 294.862,
+   "txt": "to leave your"
+  },
+  {
+   "t0": 294.862,
+   "t1": 295.585,
+   "txt": "hands free for"
+  },
+  {
+   "t0": 295.585,
+   "t1": 296.153,
+   "txt": "other work."
+  },
+  {
+   "t0": 296.433,
+   "t1": 297.408,
+   "txt": "The stool simply"
+  },
+  {
+   "t0": 297.408,
+   "t1": 298.14,
+   "txt": "comes along."
+  },
+  {
+   "t0": 298.491,
+   "t1": 299.404,
+   "txt": "The straps cross"
+  },
+  {
+   "t0": 299.404,
+   "t1": 300.089,
+   "txt": "in front and"
+  },
+  {
+   "t0": 300.089,
+   "t1": 300.489,
+   "txt": "behind,"
+  },
+  {
+   "t0": 300.489,
+   "t1": 301.231,
+   "txt": "so they don't"
+  },
+  {
+   "t0": 301.231,
+   "t1": 301.973,
+   "txt": "slip off your"
+  },
+  {
+   "t0": 301.973,
+   "t1": 302.544,
+   "txt": "shoulders."
+  },
+  {
+   "t0": 302.824,
+   "t1": 303.955,
+   "txt": "No belt needed."
+  },
+  {
+   "t0": 304.306,
+   "t1": 305.479,
+   "txt": "Buckles everywhere."
+  },
+  {
+   "t0": 305.759,
+   "t1": 306.792,
+   "txt": "One adjustment fits"
+  },
+  {
+   "t0": 306.792,
+   "t1": 307.444,
+   "txt": "your height."
+  },
+  {
+   "t0": 307.724,
+   "t1": 308.608,
+   "txt": "Another fits the"
+  },
+  {
+   "t0": 308.608,
+   "t1": 309.27,
+   "txt": "size of your"
+  },
+  {
+   "t0": 309.27,
+   "t1": 309.602,
+   "txt": "thigh."
+  },
+  {
+   "t0": 309.882,
+   "t1": 310.723,
+   "txt": "The straps can"
+  },
+  {
+   "t0": 310.723,
+   "t1": 311.385,
+   "txt": "be leather,"
+  },
+  {
+   "t0": 311.385,
+   "t1": 311.926,
+   "txt": "plastics,"
+  },
+  {
+   "t0": 311.926,
+   "t1": 312.527,
+   "txt": "or fabric."
+  },
+  {
+   "t0": 312.878,
+   "t1": 313.506,
+   "txt": "So that the"
+  },
+  {
+   "t0": 313.506,
+   "t1": 314.877,
+   "txt": "wearer has substantially"
+  },
+  {
+   "t0": 314.877,
+   "t1": 316.19,
+   "txt": "unrestricted freedom of"
+  },
+  {
+   "t0": 316.19,
+   "t1": 316.59,
+   "txt": "action."
+  },
+  {
+   "t0": 316.941,
+   "t1": 317.587,
+   "txt": "And then the"
+  },
+  {
+   "t0": 317.587,
+   "t1": 318.61,
+   "txt": "patent simply stops"
+  },
+  {
+   "t0": 318.61,
+   "t1": 319.202,
+   "txt": "explaining."
+  },
+  {
+   "t0": 319.482,
+   "t1": 319.863,
+   "txt": "Since,"
+  },
+  {
+   "t0": 319.863,
+   "t1": 321.067,
+   "txt": "from the foregoing,"
+  },
+  {
+   "t0": 321.067,
+   "t1": 322.334,
+   "txt": "the construction and"
+  },
+  {
+   "t0": 322.334,
+   "t1": 323.411,
+   "txt": "advantage of this"
+  },
+  {
+   "t0": 323.411,
+   "t1": 324.489,
+   "txt": "stool are readily"
+  },
+  {
+   "t0": 324.489,
+   "t1": 325.059,
+   "txt": "apparent,"
+  },
+  {
+   "t0": 325.059,
+   "t1": 326.453,
+   "txt": "further description is"
+  },
+  {
+   "t0": 326.453,
+   "t1": 327.341,
+   "txt": "believed to be"
+  },
+  {
+   "t0": 327.341,
+   "t1": 328.101,
+   "txt": "unnecessary."
+  },
+  {
+   "t0": 328.452,
+   "t1": 329.305,
+   "txt": "A stool."
+  },
+  {
+   "t0": 329.805,
+   "t1": 330.957,
+   "txt": "With suspenders."
+  },
+  {
+   "t0": 331.457,
+   "t1": 332.109,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 332.109,
+   "t1": 334.209,
+   "txt": "October nineteen fifty-three."
+  },
+  {
+   "t0": 334.66,
+   "t1": 335.578,
+   "txt": "Number three."
+  },
+  {
+   "t0": 335.858,
+   "t1": 336.516,
+   "txt": "The coat you"
+  },
+  {
+   "t0": 336.516,
+   "t1": 337.394,
+   "txt": "can sleep under."
+  },
+  {
+   "t0": 337.745,
+   "t1": 338.939,
+   "txt": "Eighteen sixty-one."
+  },
+  {
+   "t0": 339.219,
+   "t1": 339.834,
+   "txt": "A new and"
+  },
+  {
+   "t0": 339.834,
+   "t1": 341.269,
+   "txt": "useful Combination of"
+  },
+  {
+   "t0": 341.269,
+   "t1": 342.363,
+   "txt": "a Portable Tent,"
+  },
+  {
+   "t0": 342.363,
+   "t1": 342.978,
+   "txt": "Overcoat,"
+  },
+  {
+   "t0": 342.978,
+   "t1": 343.593,
+   "txt": "and Cape."
+  },
+  {
+   "t0": 343.944,
+   "t1": 344.878,
+   "txt": "It was designed"
+  },
+  {
+   "t0": 344.878,
+   "t1": 346.248,
+   "txt": "for military purposes."
+  },
+  {
+   "t0": 346.528,
+   "t1": 347.543,
+   "txt": "A soldier's coat"
+  },
+  {
+   "t0": 347.543,
+   "t1": 348.304,
+   "txt": "that is also"
+  },
+  {
+   "t0": 348.304,
+   "t1": 348.938,
+   "txt": "his house."
+  },
+  {
+   "t0": 349.289,
+   "t1": 349.673,
+   "txt": "First,"
+  },
+  {
+   "t0": 349.673,
+   "t1": 350.505,
+   "txt": "the overcoat."
+  },
+  {
+   "t0": 350.785,
+   "t1": 351.588,
+   "txt": "It is formed"
+  },
+  {
+   "t0": 351.588,
+   "t1": 352.258,
+   "txt": "of a piece"
+  },
+  {
+   "t0": 352.258,
+   "t1": 353.663,
+   "txt": "of india-rubber cloth"
+  },
+  {
+   "t0": 353.663,
+   "t1": 354.934,
+   "txt": "or other waterproof"
+  },
+  {
+   "t0": 354.934,
+   "t1": 355.938,
+   "txt": "fabric which is"
+  },
+  {
+   "t0": 355.938,
+   "t1": 357.143,
+   "txt": "light and durable."
+  },
+  {
+   "t0": 357.423,
+   "t1": 358.201,
+   "txt": "Straps go over"
+  },
+  {
+   "t0": 358.201,
+   "t1": 358.98,
+   "txt": "the shoulders."
+  },
+  {
+   "t0": 359.331,
+   "t1": 359.968,
+   "txt": "The coat is"
+  },
+  {
+   "t0": 359.968,
+   "t1": 360.837,
+   "txt": "nearly a square"
+  },
+  {
+   "t0": 360.837,
+   "t1": 361.358,
+   "txt": "of cloth."
+  },
+  {
+   "t0": 361.638,
+   "t1": 362.644,
+   "txt": "Buttons on one"
+  },
+  {
+   "t0": 362.644,
+   "t1": 363.003,
+   "txt": "side."
+  },
+  {
+   "t0": 363.283,
+   "t1": 364.228,
+   "txt": "Armholes on the"
+  },
+  {
+   "t0": 364.228,
+   "t1": 364.606,
+   "txt": "other."
+  },
+  {
+   "t0": 364.957,
+   "t1": 365.665,
+   "txt": "Add the cape"
+  },
+  {
+   "t0": 365.665,
+   "t1": 366.078,
+   "txt": "on top,"
+  },
+  {
+   "t0": 366.078,
+   "t1": 367.2,
+   "txt": "buttoned around the"
+  },
+  {
+   "t0": 367.2,
+   "t1": 367.495,
+   "txt": "neck."
+  },
+  {
+   "t0": 367.846,
+   "t1": 368.624,
+   "txt": "Now take it"
+  },
+  {
+   "t0": 368.624,
+   "t1": 369.19,
+   "txt": "all off."
+  },
+  {
+   "t0": 369.47,
+   "t1": 370.411,
+   "txt": "Prop the collar"
+  },
+  {
+   "t0": 370.411,
+   "t1": 371.101,
+   "txt": "of the coat"
+  },
+  {
+   "t0": 371.101,
+   "t1": 371.54,
+   "txt": "up on a"
+  },
+  {
+   "t0": 371.54,
+   "t1": 372.167,
+   "txt": "pole and a"
+  },
+  {
+   "t0": 372.167,
+   "t1": 372.92,
+   "txt": "cross piece,"
+  },
+  {
+   "t0": 372.92,
+   "t1": 374.112,
+   "txt": "stretch the straps,"
+  },
+  {
+   "t0": 374.112,
+   "t1": 374.864,
+   "txt": "and peg them"
+  },
+  {
+   "t0": 374.864,
+   "t1": 375.742,
+   "txt": "to the ground."
+  },
+  {
+   "t0": 376.093,
+   "t1": 376.821,
+   "txt": "The coat is"
+  },
+  {
+   "t0": 376.821,
+   "t1": 377.416,
+   "txt": "the roof."
+  },
+  {
+   "t0": 377.696,
+   "t1": 378.602,
+   "txt": "The cape buttons"
+  },
+  {
+   "t0": 378.602,
+   "t1": 379.112,
+   "txt": "on at the"
+  },
+  {
+   "t0": 379.112,
+   "t1": 379.339,
+   "txt": "top."
+  },
+  {
+   "t0": 379.619,
+   "t1": 380.383,
+   "txt": "And a double"
+  },
+  {
+   "t0": 380.383,
+   "t1": 381.339,
+   "txt": "part the patent"
+  },
+  {
+   "t0": 381.339,
+   "t1": 382.422,
+   "txt": "calls the blanket"
+  },
+  {
+   "t0": 382.422,
+   "t1": 383.313,
+   "txt": "or bed buttons"
+  },
+  {
+   "t0": 383.313,
+   "t1": 384.205,
+   "txt": "to the bottom."
+  },
+  {
+   "t0": 384.556,
+   "t1": 385.459,
+   "txt": "Two more straps"
+  },
+  {
+   "t0": 385.459,
+   "t1": 386.061,
+   "txt": "on the bed"
+  },
+  {
+   "t0": 386.061,
+   "t1": 386.963,
+   "txt": "are pegged out,"
+  },
+  {
+   "t0": 386.963,
+   "t1": 387.625,
+   "txt": "each on its"
+  },
+  {
+   "t0": 387.625,
+   "t1": 388.588,
+   "txt": "own little prop."
+  },
+  {
+   "t0": 388.868,
+   "t1": 389.922,
+   "txt": "And the inventor"
+  },
+  {
+   "t0": 389.922,
+   "t1": 390.383,
+   "txt": "admits:"
+  },
+  {
+   "t0": 390.383,
+   "t1": 391.041,
+   "txt": "I am aware"
+  },
+  {
+   "t0": 391.041,
+   "t1": 392.292,
+   "txt": "that portable tents"
+  },
+  {
+   "t0": 392.292,
+   "t1": 393.675,
+   "txt": "have been constructed"
+  },
+  {
+   "t0": 393.675,
+   "t1": 394.334,
+   "txt": "to cover a"
+  },
+  {
+   "t0": 394.334,
+   "t1": 395.19,
+   "txt": "single man or"
+  },
+  {
+   "t0": 395.19,
+   "t1": 395.716,
+   "txt": "soldier."
+  },
+  {
+   "t0": 396.067,
+   "t1": 397.523,
+   "txt": "Then everything folds"
+  },
+  {
+   "t0": 397.523,
+   "t1": 397.731,
+   "txt": "up."
+  },
+  {
+   "t0": 398.011,
+   "t1": 398.55,
+   "txt": "It may be"
+  },
+  {
+   "t0": 398.55,
+   "t1": 399.748,
+   "txt": "compactly folded and"
+  },
+  {
+   "t0": 399.748,
+   "t1": 400.467,
+   "txt": "packed in or"
+  },
+  {
+   "t0": 400.467,
+   "t1": 401.425,
+   "txt": "on the knapsack."
+  },
+  {
+   "t0": 401.705,
+   "t1": 402.474,
+   "txt": "The weight of"
+  },
+  {
+   "t0": 402.474,
+   "t1": 403.302,
+   "txt": "the invention,"
+  },
+  {
+   "t0": 403.302,
+   "t1": 404.307,
+   "txt": "about six pounds."
+  },
+  {
+   "t0": 404.658,
+   "t1": 405.33,
+   "txt": "A house you"
+  },
+  {
+   "t0": 405.33,
+   "t1": 406.002,
+   "txt": "can button."
+  },
+  {
+   "t0": 406.502,
+   "t1": 407.104,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 407.104,
+   "t1": 408.977,
+   "txt": "November eighteen sixty-one."
+  },
+  {
+   "t0": 409.428,
+   "t1": 410.303,
+   "txt": "Number two."
+  },
+  {
+   "t0": 410.583,
+   "t1": 411.374,
+   "txt": "The office you"
+  },
+  {
+   "t0": 411.374,
+   "t1": 412.108,
+   "txt": "carry on your"
+  },
+  {
+   "t0": 412.108,
+   "t1": 412.673,
+   "txt": "shoulders."
+  },
+  {
+   "t0": 413.024,
+   "t1": 414.56,
+   "txt": "Nineteen eighty-seven."
+  },
+  {
+   "t0": 414.84,
+   "t1": 415.579,
+   "txt": "A tube frame"
+  },
+  {
+   "t0": 415.579,
+   "t1": 416.626,
+   "txt": "hangs from padded"
+  },
+  {
+   "t0": 416.626,
+   "t1": 417.488,
+   "txt": "straps on your"
+  },
+  {
+   "t0": 417.488,
+   "t1": 418.104,
+   "txt": "shoulders."
+  },
+  {
+   "t0": 418.384,
+   "t1": 419.058,
+   "txt": "In front of"
+  },
+  {
+   "t0": 419.058,
+   "t1": 419.303,
+   "txt": "you,"
+  },
+  {
+   "t0": 419.303,
+   "t1": 419.792,
+   "txt": "a table."
+  },
+  {
+   "t0": 420.072,
+   "t1": 420.858,
+   "txt": "On the table,"
+  },
+  {
+   "t0": 420.858,
+   "t1": 421.523,
+   "txt": "a computer."
+  },
+  {
+   "t0": 421.874,
+   "t1": 422.954,
+   "txt": "The patent calls"
+  },
+  {
+   "t0": 422.954,
+   "t1": 423.561,
+   "txt": "it a hand"
+  },
+  {
+   "t0": 423.561,
+   "t1": 425.45,
+   "txt": "operated instrument platform"
+  },
+  {
+   "t0": 425.45,
+   "t1": 426.597,
+   "txt": "retained over the"
+  },
+  {
+   "t0": 426.597,
+   "t1": 427.745,
+   "txt": "shoulders of ones"
+  },
+  {
+   "t0": 427.745,
+   "t1": 428.082,
+   "txt": "body."
+  },
+  {
+   "t0": 428.433,
+   "t1": 429.532,
+   "txt": "The shoulder straps"
+  },
+  {
+   "t0": 429.532,
+   "t1": 430.168,
+   "txt": "are padded,"
+  },
+  {
+   "t0": 430.168,
+   "t1": 430.862,
+   "txt": "and the hard"
+  },
+  {
+   "t0": 430.862,
+   "t1": 431.672,
+   "txt": "frame does not"
+  },
+  {
+   "t0": 431.672,
+   "t1": 432.828,
+   "txt": "touch your shoulders"
+  },
+  {
+   "t0": 432.828,
+   "t1": 433.233,
+   "txt": "at all."
+  },
+  {
+   "t0": 433.584,
+   "t1": 434.185,
+   "txt": "It is for"
+  },
+  {
+   "t0": 434.185,
+   "t1": 435.856,
+   "txt": "places where conventional"
+  },
+  {
+   "t0": 435.856,
+   "t1": 436.324,
+   "txt": "tables,"
+  },
+  {
+   "t0": 436.324,
+   "t1": 437.326,
+   "txt": "desks and fixed"
+  },
+  {
+   "t0": 437.326,
+   "t1": 439.131,
+   "txt": "workplaces are unavailable."
+  },
+  {
+   "t0": 439.482,
+   "t1": 440.262,
+   "txt": "It lists what"
+  },
+  {
+   "t0": 440.262,
+   "t1": 441.882,
+   "txt": "earlier body-worn platforms"
+  },
+  {
+   "t0": 441.882,
+   "t1": 442.362,
+   "txt": "carried."
+  },
+  {
+   "t0": 442.642,
+   "t1": 443.178,
+   "txt": "Cameras,"
+  },
+  {
+   "t0": 443.178,
+   "t1": 444.453,
+   "txt": "tree boring drills,"
+  },
+  {
+   "t0": 444.453,
+   "t1": 444.789,
+   "txt": "food,"
+  },
+  {
+   "t0": 444.789,
+   "t1": 446.198,
+   "txt": "writing materials and"
+  },
+  {
+   "t0": 446.198,
+   "t1": 446.802,
+   "txt": "the like."
+  },
+  {
+   "t0": 447.153,
+   "t1": 447.992,
+   "txt": "This one was"
+  },
+  {
+   "t0": 447.992,
+   "t1": 449.601,
+   "txt": "for portable computers,"
+  },
+  {
+   "t0": 449.601,
+   "t1": 450.929,
+   "txt": "inventory scanners,"
+  },
+  {
+   "t0": 450.929,
+   "t1": 452.398,
+   "txt": "calculators and field"
+  },
+  {
+   "t0": 452.398,
+   "t1": 453.937,
+   "txt": "surveying instruments."
+  },
+  {
+   "t0": 454.288,
+   "t1": 455.314,
+   "txt": "Because putting a"
+  },
+  {
+   "t0": 455.314,
+   "t1": 456.582,
+   "txt": "computer down outside"
+  },
+  {
+   "t0": 456.582,
+   "t1": 457.125,
+   "txt": "is risky."
+  },
+  {
+   "t0": 457.405,
+   "t1": 458.551,
+   "txt": "Attempting to place"
+  },
+  {
+   "t0": 458.551,
+   "t1": 459.575,
+   "txt": "the instrument on"
+  },
+  {
+   "t0": 459.575,
+   "t1": 460.781,
+   "txt": "a stationary surface"
+  },
+  {
+   "t0": 460.781,
+   "t1": 461.505,
+   "txt": "while in the"
+  },
+  {
+   "t0": 461.505,
+   "t1": 462.409,
+   "txt": "field creates a"
+  },
+  {
+   "t0": 462.409,
+   "t1": 464.338,
+   "txt": "potentially hazardous situation."
+  },
+  {
+   "t0": 464.689,
+   "t1": 465.359,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 465.359,
+   "t1": 466.089,
+   "txt": "frame on its"
+  },
+  {
+   "t0": 466.089,
+   "t1": 466.332,
+   "txt": "own."
+  },
+  {
+   "t0": 466.612,
+   "t1": 467.506,
+   "txt": "The table top"
+  },
+  {
+   "t0": 467.506,
+   "t1": 468.399,
+   "txt": "can be solid,"
+  },
+  {
+   "t0": 468.399,
+   "t1": 469.293,
+   "txt": "or soft woven"
+  },
+  {
+   "t0": 469.293,
+   "t1": 470.874,
+   "txt": "fabric stretched across"
+  },
+  {
+   "t0": 470.874,
+   "t1": 471.561,
+   "txt": "the frame."
+  },
+  {
+   "t0": 471.841,
+   "t1": 472.342,
+   "txt": "It tilts,"
+  },
+  {
+   "t0": 472.342,
+   "t1": 473.008,
+   "txt": "and folds up"
+  },
+  {
+   "t0": 473.008,
+   "t1": 473.675,
+   "txt": "when you are"
+  },
+  {
+   "t0": 473.675,
+   "t1": 473.953,
+   "txt": "done."
+  },
+  {
+   "t0": 474.304,
+   "t1": 475.039,
+   "txt": "A fabric top"
+  },
+  {
+   "t0": 475.039,
+   "t1": 476.08,
+   "txt": "lets the computer"
+  },
+  {
+   "t0": 476.08,
+   "t1": 476.937,
+   "txt": "nest itself in"
+  },
+  {
+   "t0": 476.937,
+   "t1": 477.611,
+   "txt": "the middle."
+  },
+  {
+   "t0": 477.891,
+   "t1": 478.769,
+   "txt": "In one version,"
+  },
+  {
+   "t0": 478.769,
+   "t1": 480.232,
+   "txt": "spring-loaded buttons fit"
+  },
+  {
+   "t0": 480.232,
+   "t1": 480.935,
+   "txt": "the frame to"
+  },
+  {
+   "t0": 480.935,
+   "t1": 481.813,
+   "txt": "your height and"
+  },
+  {
+   "t0": 481.813,
+   "t1": 482.691,
+   "txt": "shoulder width."
+  },
+  {
+   "t0": 482.971,
+   "t1": 483.63,
+   "txt": "The tube is"
+  },
+  {
+   "t0": 483.63,
+   "t1": 484.827,
+   "txt": "preferably aluminum."
+  },
+  {
+   "t0": 485.178,
+   "t1": 485.74,
+   "txt": "And one of"
+  },
+  {
+   "t0": 485.74,
+   "t1": 486.584,
+   "txt": "its objects was"
+  },
+  {
+   "t0": 486.584,
+   "t1": 487.034,
+   "txt": "comfort."
+  },
+  {
+   "t0": 487.314,
+   "t1": 488.525,
+   "txt": "An important object"
+  },
+  {
+   "t0": 488.525,
+   "t1": 489.544,
+   "txt": "of the invention"
+  },
+  {
+   "t0": 489.544,
+   "t1": 490.437,
+   "txt": "is the comfort"
+  },
+  {
+   "t0": 490.437,
+   "t1": 491.201,
+   "txt": "in which the"
+  },
+  {
+   "t0": 491.201,
+   "t1": 491.966,
+   "txt": "table may be"
+  },
+  {
+   "t0": 491.966,
+   "t1": 492.285,
+   "txt": "worn."
+  },
+  {
+   "t0": 492.636,
+   "t1": 493.598,
+   "txt": "Note the hard"
+  },
+  {
+   "t0": 493.598,
+   "t1": 493.894,
+   "txt": "hat."
+  },
+  {
+   "t0": 494.174,
+   "t1": 495.043,
+   "txt": "This desk goes"
+  },
+  {
+   "t0": 495.043,
+   "t1": 495.54,
+   "txt": "to work."
+  },
+  {
+   "t0": 495.891,
+   "t1": 496.571,
+   "txt": "A laptop,"
+  },
+  {
+   "t0": 496.571,
+   "t1": 497.931,
+   "txt": "before laptops sat"
+  },
+  {
+   "t0": 497.931,
+   "t1": 498.536,
+   "txt": "on laps."
+  },
+  {
+   "t0": 499.036,
+   "t1": 499.631,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 499.631,
+   "t1": 501.681,
+   "txt": "December nineteen eighty-seven."
+  },
+  {
+   "t0": 502.132,
+   "t1": 503.007,
+   "txt": "And number one."
+  },
+  {
+   "t0": 503.287,
+   "t1": 504.066,
+   "txt": "The chair you"
+  },
+  {
+   "t0": 504.066,
+   "t1": 504.365,
+   "txt": "wear,"
+  },
+  {
+   "t0": 504.365,
+   "t1": 504.844,
+   "txt": "all day."
+  },
+  {
+   "t0": 505.195,
+   "t1": 505.895,
+   "txt": "It was made"
+  },
+  {
+   "t0": 505.895,
+   "t1": 506.722,
+   "txt": "for farriers,"
+  },
+  {
+   "t0": 506.722,
+   "t1": 507.613,
+   "txt": "the people who"
+  },
+  {
+   "t0": 507.613,
+   "t1": 508.377,
+   "txt": "put shoes on"
+  },
+  {
+   "t0": 508.377,
+   "t1": 508.822,
+   "txt": "horses."
+  },
+  {
+   "t0": 509.102,
+   "t1": 509.97,
+   "txt": "Shoeing a horse"
+  },
+  {
+   "t0": 509.97,
+   "t1": 511.184,
+   "txt": "typically takes about"
+  },
+  {
+   "t0": 511.184,
+   "t1": 511.705,
+   "txt": "one hour."
+  },
+  {
+   "t0": 511.985,
+   "t1": 512.731,
+   "txt": "Crouching."
+  },
+  {
+   "t0": 513.011,
+   "t1": 514.057,
+   "txt": "Holding a hoof."
+  },
+  {
+   "t0": 514.408,
+   "t1": 514.988,
+   "txt": "Normally,"
+  },
+  {
+   "t0": 514.988,
+   "t1": 516.278,
+   "txt": "the farrier crouches"
+  },
+  {
+   "t0": 516.278,
+   "t1": 517.245,
+   "txt": "with no support"
+  },
+  {
+   "t0": 517.245,
+   "t1": 518.083,
+   "txt": "and grips the"
+  },
+  {
+   "t0": 518.083,
+   "t1": 519.308,
+   "txt": "horse's leg between"
+  },
+  {
+   "t0": 519.308,
+   "t1": 520.146,
+   "txt": "his own legs."
+  },
+  {
+   "t0": 520.426,
+   "t1": 521.382,
+   "txt": "The patent says"
+  },
+  {
+   "t0": 521.382,
+   "t1": 522.21,
+   "txt": "it could also"
+  },
+  {
+   "t0": 522.21,
+   "t1": 523.166,
+   "txt": "help with field"
+  },
+  {
+   "t0": 523.166,
+   "t1": 523.485,
+   "txt": "work,"
+  },
+  {
+   "t0": 523.485,
+   "t1": 523.995,
+   "txt": "milking,"
+  },
+  {
+   "t0": 523.995,
+   "t1": 525.269,
+   "txt": "working on vehicles."
+  },
+  {
+   "t0": 525.62,
+   "t1": 526.161,
+   "txt": "So the seat"
+  },
+  {
+   "t0": 526.161,
+   "t1": 526.85,
+   "txt": "is strapped to"
+  },
+  {
+   "t0": 526.85,
+   "t1": 527.391,
+   "txt": "your waist."
+  },
+  {
+   "t0": 527.671,
+   "t1": 528.409,
+   "txt": "When you want"
+  },
+  {
+   "t0": 528.409,
+   "t1": 528.807,
+   "txt": "to sit,"
+  },
+  {
+   "t0": 528.807,
+   "t1": 529.375,
+   "txt": "you pull a"
+  },
+  {
+   "t0": 529.375,
+   "t1": 530.056,
+   "txt": "front strap,"
+  },
+  {
+   "t0": 530.056,
+   "t1": 530.738,
+   "txt": "and the seat"
+  },
+  {
+   "t0": 530.738,
+   "t1": 531.76,
+   "txt": "comes between your"
+  },
+  {
+   "t0": 531.76,
+   "t1": 532.044,
+   "txt": "legs."
+  },
+  {
+   "t0": 532.395,
+   "t1": 533.184,
+   "txt": "The one leg"
+  },
+  {
+   "t0": 533.184,
+   "t1": 533.974,
+   "txt": "telescopes."
+  },
+  {
+   "t0": 534.254,
+   "t1": 534.968,
+   "txt": "Pins set the"
+  },
+  {
+   "t0": 534.968,
+   "t1": 535.384,
+   "txt": "height."
+  },
+  {
+   "t0": 535.664,
+   "t1": 536.225,
+   "txt": "And a coil"
+  },
+  {
+   "t0": 536.225,
+   "t1": 536.954,
+   "txt": "spring in the"
+  },
+  {
+   "t0": 536.954,
+   "t1": 537.852,
+   "txt": "middle keeps the"
+  },
+  {
+   "t0": 537.852,
+   "t1": 538.525,
+   "txt": "foot down on"
+  },
+  {
+   "t0": 538.525,
+   "t1": 539.142,
+   "txt": "the ground."
+  },
+  {
+   "t0": 539.493,
+   "t1": 540.368,
+   "txt": "When you stand"
+  },
+  {
+   "t0": 540.368,
+   "t1": 540.869,
+   "txt": "back up,"
+  },
+  {
+   "t0": 540.869,
+   "t1": 541.932,
+   "txt": "the spring pushes"
+  },
+  {
+   "t0": 541.932,
+   "t1": 542.682,
+   "txt": "the leg back"
+  },
+  {
+   "t0": 542.682,
+   "t1": 542.933,
+   "txt": "out,"
+  },
+  {
+   "t0": 542.933,
+   "t1": 543.683,
+   "txt": "so the stool"
+  },
+  {
+   "t0": 543.683,
+   "t1": 544.746,
+   "txt": "stays right under"
+  },
+  {
+   "t0": 544.746,
+   "t1": 544.997,
+   "txt": "you."
+  },
+  {
+   "t0": 545.348,
+   "t1": 546.45,
+   "txt": "For horse shoeing,"
+  },
+  {
+   "t0": 546.45,
+   "t1": 547.369,
+   "txt": "the whole stool"
+  },
+  {
+   "t0": 547.369,
+   "t1": 548.595,
+   "txt": "is about twenty-nine"
+  },
+  {
+   "t0": 548.595,
+   "t1": 549.82,
+   "txt": "to thirty-six inches"
+  },
+  {
+   "t0": 549.82,
+   "t1": 550.126,
+   "txt": "long."
+  },
+  {
+   "t0": 550.406,
+   "t1": 551.439,
+   "txt": "The height changes"
+  },
+  {
+   "t0": 551.439,
+   "t1": 552.243,
+   "txt": "about one inch"
+  },
+  {
+   "t0": 552.243,
+   "t1": 552.817,
+   "txt": "at a time."
+  },
+  {
+   "t0": 553.168,
+   "t1": 554.073,
+   "txt": "The spring was"
+  },
+  {
+   "t0": 554.073,
+   "t1": 554.848,
+   "txt": "chosen for a"
+  },
+  {
+   "t0": 554.848,
+   "t1": 556.334,
+   "txt": "person weighing between"
+  },
+  {
+   "t0": 556.334,
+   "t1": 557.433,
+   "txt": "about one hundred"
+  },
+  {
+   "t0": 557.433,
+   "t1": 558.208,
+   "txt": "five and two"
+  },
+  {
+   "t0": 558.208,
+   "t1": 559.888,
+   "txt": "hundred forty-five pounds."
+  },
+  {
+   "t0": 560.239,
+   "t1": 561.327,
+   "txt": "Because the horse"
+  },
+  {
+   "t0": 561.327,
+   "t1": 561.711,
+   "txt": "moves."
+  },
+  {
+   "t0": 561.991,
+   "t1": 562.85,
+   "txt": "And the spring"
+  },
+  {
+   "t0": 562.85,
+   "t1": 563.587,
+   "txt": "lets the leg"
+  },
+  {
+   "t0": 563.587,
+   "t1": 564.691,
+   "txt": "follow the farrier"
+  },
+  {
+   "t0": 564.691,
+   "t1": 565.428,
+   "txt": "up and down,"
+  },
+  {
+   "t0": 565.428,
+   "t1": 566.716,
+   "txt": "several inches either"
+  },
+  {
+   "t0": 566.716,
+   "t1": 566.962,
+   "txt": "way."
+  },
+  {
+   "t0": 567.313,
+   "t1": 568.034,
+   "txt": "Beyond that,"
+  },
+  {
+   "t0": 568.034,
+   "t1": 568.876,
+   "txt": "the patent has"
+  },
+  {
+   "t0": 568.876,
+   "t1": 569.297,
+   "txt": "advice."
+  },
+  {
+   "t0": 569.577,
+   "t1": 570.352,
+   "txt": "If the horse"
+  },
+  {
+   "t0": 570.352,
+   "t1": 571.192,
+   "txt": "is moving the"
+  },
+  {
+   "t0": 571.192,
+   "t1": 572.613,
+   "txt": "farrier vertically for"
+  },
+  {
+   "t0": 572.613,
+   "t1": 573.517,
+   "txt": "more than nine"
+  },
+  {
+   "t0": 573.517,
+   "t1": 573.97,
+   "txt": "inches,"
+  },
+  {
+   "t0": 573.97,
+   "t1": 574.745,
+   "txt": "the horse is"
+  },
+  {
+   "t0": 574.745,
+   "t1": 575.714,
+   "txt": "most likely out"
+  },
+  {
+   "t0": 575.714,
+   "t1": 576.425,
+   "txt": "of control."
+  },
+  {
+   "t0": 576.776,
+   "t1": 577.638,
+   "txt": "And the farrier"
+  },
+  {
+   "t0": 577.638,
+   "t1": 578.5,
+   "txt": "had better move"
+  },
+  {
+   "t0": 578.5,
+   "t1": 579.247,
+   "txt": "away from the"
+  },
+  {
+   "t0": 579.247,
+   "t1": 579.592,
+   "txt": "horse."
+  },
+  {
+   "t0": 580.043,
+   "t1": 580.811,
+   "txt": "A chair with"
+  },
+  {
+   "t0": 580.811,
+   "t1": 581.515,
+   "txt": "one leg and"
+  },
+  {
+   "t0": 581.515,
+   "t1": 582.283,
+   "txt": "a seat belt."
+  },
+  {
+   "t0": 582.783,
+   "t1": 583.441,
+   "txt": "Approved,"
+  },
+  {
+   "t0": 583.441,
+   "t1": 585.343,
+   "txt": "July nineteen ninety-nine."
+  },
+  {
+   "t0": 585.794,
+   "t1": 586.405,
+   "txt": "So that is"
+  },
+  {
+   "t0": 586.405,
+   "t1": 587.138,
+   "txt": "the ranking."
+  },
+  {
+   "t0": 587.538,
+   "t1": 588.613,
+   "txt": "But which wearable"
+  },
+  {
+   "t0": 588.613,
+   "t1": 589.389,
+   "txt": "patent is the"
+  },
+  {
+   "t0": 589.389,
+   "t1": 590.226,
+   "txt": "most approved?"
+  },
+  {
+   "t0": 590.777,
+   "t1": 591.603,
+   "txt": "We're going with"
+  },
+  {
+   "t0": 591.603,
+   "t1": 592.223,
+   "txt": "the stool on"
+  },
+  {
+   "t0": 592.223,
+   "t1": 592.739,
+   "txt": "a harness."
+  },
+  {
+   "t0": 593.019,
+   "t1": 593.747,
+   "txt": "Because it is"
+  },
+  {
+   "t0": 593.747,
+   "t1": 594.587,
+   "txt": "the patent that"
+  },
+  {
+   "t0": 594.587,
+   "t1": 595.763,
+   "txt": "most politely decided"
+  },
+  {
+   "t0": 595.763,
+   "t1": 596.659,
+   "txt": "it had explained"
+  },
+  {
+   "t0": 596.659,
+   "t1": 597.051,
+   "txt": "enough."
+  },
+  {
+   "t0": 597.402,
+   "t1": 598.234,
+   "txt": "Every quote in"
+  },
+  {
+   "t0": 598.234,
+   "t1": 599.007,
+   "txt": "this video is"
+  },
+  {
+   "t0": 599.007,
+   "t1": 599.779,
+   "txt": "word for word"
+  },
+  {
+   "t0": 599.779,
+   "t1": 600.73,
+   "txt": "from the patent."
+  },
+  {
+   "t0": 601.01,
+   "t1": 601.83,
+   "txt": "The numbers are"
+  },
+  {
+   "t0": 601.83,
+   "t1": 602.869,
+   "txt": "in the description,"
+  },
+  {
+   "t0": 602.869,
+   "t1": 603.416,
+   "txt": "so you can"
+  },
+  {
+   "t0": 603.416,
+   "t1": 604.509,
+   "txt": "check them yourself."
+  },
+  {
+   "t0": 604.86,
+   "t1": 605.921,
+   "txt": "New weird patents"
+  },
+  {
+   "t0": 605.921,
+   "t1": 606.545,
+   "txt": "every day."
+  },
+  {
+   "t0": 606.825,
+   "t1": 607.397,
+   "txt": "Subscribe,"
+  },
+  {
+   "t0": 607.397,
+   "t1": 608.254,
+   "txt": "and we'll stamp"
+  },
+  {
+   "t0": 608.254,
+   "t1": 608.425,
+   "txt": "it."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 8.936
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.681
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 17.184
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 35.361
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 38.382
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 43.002
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 49.222
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 54.8
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 62.919
+  },
+  {
+   "f": "vo/011.wav",
+   "t": 69.331
+  },
+  {
+   "f": "vo/012.wav",
+   "t": 75.208
+  },
+  {
+   "f": "vo/013.wav",
+   "t": 81.001
+  },
+  {
+   "f": "vo/014.wav",
+   "t": 87.52
+  },
+  {
+   "f": "vo/015.wav",
+   "t": 92.311
+  },
+  {
+   "f": "vo/016.wav",
+   "t": 95.46
+  },
+  {
+   "f": "vo/017.wav",
+   "t": 103.752
+  },
+  {
+   "f": "vo/018.wav",
+   "t": 111.271
+  },
+  {
+   "f": "vo/019.wav",
+   "t": 114.843
+  },
+  {
+   "f": "vo/020.wav",
+   "t": 123.026
+  },
+  {
+   "f": "vo/021.wav",
+   "t": 128.735
+  },
+  {
+   "f": "vo/022.wav",
+   "t": 132.798
+  },
+  {
+   "f": "vo/023.wav",
+   "t": 140.938
+  },
+  {
+   "f": "vo/024.wav",
+   "t": 148.649
+  },
+  {
+   "f": "vo/025.wav",
+   "t": 151.861
+  },
+  {
+   "f": "vo/026.wav",
+   "t": 159.063
+  },
+  {
+   "f": "vo/027.wav",
+   "t": 164.113
+  },
+  {
+   "f": "vo/028.wav",
+   "t": 171.061
+  },
+  {
+   "f": "vo/029.wav",
+   "t": 179.329
+  },
+  {
+   "f": "vo/030.wav",
+   "t": 183.627
+  },
+  {
+   "f": "vo/031.wav",
+   "t": 186.349
+  },
+  {
+   "f": "vo/032.wav",
+   "t": 192.508
+  },
+  {
+   "f": "vo/033.wav",
+   "t": 198.6
+  },
+  {
+   "f": "vo/034.wav",
+   "t": 203.604
+  },
+  {
+   "f": "vo/035.wav",
+   "t": 207.63
+  },
+  {
+   "f": "vo/036.wav",
+   "t": 217.394
+  },
+  {
+   "f": "vo/037.wav",
+   "t": 223.551
+  },
+  {
+   "f": "vo/038.wav",
+   "t": 229.384
+  },
+  {
+   "f": "vo/039.wav",
+   "t": 234.215
+  },
+  {
+   "f": "vo/040.wav",
+   "t": 242.036
+  },
+  {
+   "f": "vo/041.wav",
+   "t": 247.019
+  },
+  {
+   "f": "vo/042.wav",
+   "t": 255.354
+  },
+  {
+   "f": "vo/043.wav",
+   "t": 261.379
+  },
+  {
+   "f": "vo/044.wav",
+   "t": 266.512
+  },
+  {
+   "f": "vo/045.wav",
+   "t": 269.383
+  },
+  {
+   "f": "vo/046.wav",
+   "t": 278.275
+  },
+  {
+   "f": "vo/047.wav",
+   "t": 285.687
+  },
+  {
+   "f": "vo/048.wav",
+   "t": 293.572
+  },
+  {
+   "f": "vo/049.wav",
+   "t": 298.491
+  },
+  {
+   "f": "vo/050.wav",
+   "t": 304.306
+  },
+  {
+   "f": "vo/051.wav",
+   "t": 312.878
+  },
+  {
+   "f": "vo/052.wav",
+   "t": 316.941
+  },
+  {
+   "f": "vo/053.wav",
+   "t": 328.452
+  },
+  {
+   "f": "vo/054.wav",
+   "t": 334.66
+  },
+  {
+   "f": "vo/055.wav",
+   "t": 337.745
+  },
+  {
+   "f": "vo/056.wav",
+   "t": 343.944
+  },
+  {
+   "f": "vo/057.wav",
+   "t": 349.289
+  },
+  {
+   "f": "vo/058.wav",
+   "t": 359.331
+  },
+  {
+   "f": "vo/059.wav",
+   "t": 364.957
+  },
+  {
+   "f": "vo/060.wav",
+   "t": 367.846
+  },
+  {
+   "f": "vo/061.wav",
+   "t": 376.093
+  },
+  {
+   "f": "vo/062.wav",
+   "t": 384.556
+  },
+  {
+   "f": "vo/063.wav",
+   "t": 396.067
+  },
+  {
+   "f": "vo/064.wav",
+   "t": 404.658
+  },
+  {
+   "f": "vo/065.wav",
+   "t": 409.428
+  },
+  {
+   "f": "vo/066.wav",
+   "t": 413.024
+  },
+  {
+   "f": "vo/067.wav",
+   "t": 421.874
+  },
+  {
+   "f": "vo/068.wav",
+   "t": 428.433
+  },
+  {
+   "f": "vo/069.wav",
+   "t": 433.584
+  },
+  {
+   "f": "vo/070.wav",
+   "t": 439.482
+  },
+  {
+   "f": "vo/071.wav",
+   "t": 447.153
+  },
+  {
+   "f": "vo/072.wav",
+   "t": 454.288
+  },
+  {
+   "f": "vo/073.wav",
+   "t": 464.689
+  },
+  {
+   "f": "vo/074.wav",
+   "t": 474.304
+  },
+  {
+   "f": "vo/075.wav",
+   "t": 485.178
+  },
+  {
+   "f": "vo/076.wav",
+   "t": 492.636
+  },
+  {
+   "f": "vo/077.wav",
+   "t": 495.891
+  },
+  {
+   "f": "vo/078.wav",
+   "t": 502.132
+  },
+  {
+   "f": "vo/079.wav",
+   "t": 505.195
+  },
+  {
+   "f": "vo/080.wav",
+   "t": 514.408
+  },
+  {
+   "f": "vo/081.wav",
+   "t": 525.62
+  },
+  {
+   "f": "vo/082.wav",
+   "t": 532.395
+  },
+  {
+   "f": "vo/083.wav",
+   "t": 539.493
+  },
+  {
+   "f": "vo/084.wav",
+   "t": 545.348
+  },
+  {
+   "f": "vo/085.wav",
+   "t": 553.168
+  },
+  {
+   "f": "vo/086.wav",
+   "t": 560.239
+  },
+  {
+   "f": "vo/087.wav",
+   "t": 567.313
+  },
+  {
+   "f": "vo/088.wav",
+   "t": 576.776
+  },
+  {
+   "f": "vo/089.wav",
+   "t": 580.043
+  },
+  {
+   "f": "vo/090.wav",
+   "t": 585.794
+  },
+  {
+   "f": "vo/091.wav",
+   "t": 590.777
+  },
+  {
+   "f": "vo/092.wav",
+   "t": 597.402
+  },
+  {
+   "f": "vo/093.wav",
+   "t": 604.86
+  }
+ ],
+ "hook": "",
+ "hook2": "",
+ "hookSwitch": 1000000,
+ "num": "",
+ "tt": false
+}

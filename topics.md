@@ -15,7 +15,7 @@ Status: todo | done YYYY-MM-DD | skip (reason). Formats rotate by weekday (RUNBO
 | 010 | ONE PATENT | (pick from the pilot's strongest patent) | skip (every pilot patent is in used_patents.json) |
 | 011 | THE SHELF | Bathroom Patents (as "10 Weird Bathroom Inventions That Got Real Patents") | done 2026-11-12 |
 | 012 | DID IT WORK? | Kitchen Gadgets of the 1950s (as "8 Weird Kitchen Gadgets That Got Real Patents. Did They Work?", 1893–1998; strict 1950s not available on the disks) | done 2026-11-13 |
-| 013 | THE SHELF | Wearable Furniture | todo |
+| 013 | THE SHELF | Wearable Furniture (as "8 Wearable Chairs, Desks and Tents That Got Real Patents") | done 2026-11-14 |
 | 014 | THE YEAR FILE | The Weirdest Patents of 1931 | todo |
 | 015 | THE SHELF | Patents to Stop Snoring | todo |
 | 016 | THE SHELF | Bizarre Exercise Machines | todo |

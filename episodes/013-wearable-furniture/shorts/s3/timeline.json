@@ -1,0 +1,273 @@
+{
+ "T": 27.52,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.004,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.694
+    ],
+    [
+     2.194,
+     2.877
+    ],
+    [
+     3.377,
+     5.553
+    ]
+   ],
+   "g": "fig",
+   "fig": "coat33",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "THE COAT",
+     80,
+     166,
+     90,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 6.004,
+   "t1": 11.795,
+   "i": 1,
+   "segs": [
+    [
+     6.004,
+     11.444
+    ]
+   ],
+   "g": "quote",
+   "q": "a new and useful Combination of a Portable Tent, Overcoat, and Cape",
+   "hit": "Portable Tent, Overcoat, and Cape",
+   "src": "US 33,752 \u00b7 description"
+  },
+  {
+   "t0": 11.795,
+   "t1": 14.806,
+   "i": 2,
+   "segs": [
+    [
+     11.795,
+     12.627
+    ],
+    [
+     13.047,
+     14.305
+    ]
+   ],
+   "g": "stamp",
+   "title": "OVERCOAT|AND TENT",
+   "filed": "NOT LISTED",
+   "date": "NOV. 19, 1861",
+   "at": 0.6
+  },
+  {
+   "t0": 14.806,
+   "t1": 27.52,
+   "i": 3,
+   "segs": [
+    [
+     14.806,
+     17.836
+    ],
+    [
+     18.336,
+     19.701
+    ],
+    [
+     20.201,
+     22.462
+    ],
+    [
+     22.962,
+     24.669
+    ]
+   ],
+   "g": "fig",
+   "fig": "tent1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE POLE",
+     68,
+     110,
+     100,
+     -60
+    ],
+    [
+     "THE COAT",
+     340,
+     40,
+     100,
+     70
+    ]
+   ]
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.694,
+   "txt": "A real U.S."
+  },
+  {
+   "t0": 2.194,
+   "t1": 2.877,
+   "txt": "patent."
+  },
+  {
+   "t0": 3.377,
+   "t1": 4.432,
+   "txt": "An overcoat that"
+  },
+  {
+   "t0": 4.432,
+   "t1": 5.223,
+   "txt": "turns into a"
+  },
+  {
+   "t0": 5.223,
+   "t1": 5.553,
+   "txt": "tent."
+  },
+  {
+   "t0": 6.004,
+   "t1": 6.684,
+   "txt": "In its own"
+  },
+  {
+   "t0": 6.684,
+   "t1": 7.092,
+   "txt": "words:"
+  },
+  {
+   "t0": 7.092,
+   "t1": 7.704,
+   "txt": "a new and"
+  },
+  {
+   "t0": 7.704,
+   "t1": 9.132,
+   "txt": "useful Combination of"
+  },
+  {
+   "t0": 9.132,
+   "t1": 10.22,
+   "txt": "a Portable Tent,"
+  },
+  {
+   "t0": 10.22,
+   "t1": 10.832,
+   "txt": "Overcoat,"
+  },
+  {
+   "t0": 10.832,
+   "t1": 11.444,
+   "txt": "and Cape."
+  },
+  {
+   "t0": 11.795,
+   "t1": 12.627,
+   "txt": "Approved."
+  },
+  {
+   "t0": 13.047,
+   "t1": 14.305,
+   "txt": "Eighteen sixty-one."
+  },
+  {
+   "t0": 14.806,
+   "t1": 15.734,
+   "txt": "Prop the collar"
+  },
+  {
+   "t0": 15.734,
+   "t1": 16.166,
+   "txt": "up on a"
+  },
+  {
+   "t0": 16.166,
+   "t1": 16.908,
+   "txt": "pole and peg"
+  },
+  {
+   "t0": 16.908,
+   "t1": 17.836,
+   "txt": "out the straps."
+  },
+  {
+   "t0": 18.336,
+   "t1": 19.087,
+   "txt": "The coat is"
+  },
+  {
+   "t0": 19.087,
+   "t1": 19.701,
+   "txt": "the roof."
+  },
+  {
+   "t0": 20.201,
+   "t1": 21.094,
+   "txt": "The whole thing"
+  },
+  {
+   "t0": 21.094,
+   "t1": 22.046,
+   "txt": "weighs about six"
+  },
+  {
+   "t0": 22.046,
+   "t1": 22.462,
+   "txt": "pounds."
+  },
+  {
+   "t0": 22.962,
+   "t1": 23.422,
+   "txt": "A coat,"
+  },
+  {
+   "t0": 23.422,
+   "t1": 23.881,
+   "txt": "a cape,"
+  },
+  {
+   "t0": 23.881,
+   "t1": 24.669,
+   "txt": "and a house."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.004
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 11.795
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 14.806
+  }
+ ],
+ "hook": "A COAT|OR A [TENT]?",
+ "hook2": "OVERCOAT|AND [TENT] \u00b7 1861",
+ "hookSwitch": 2,
+ "num": "US 33,752",
+ "tt": false
+}

@@ -1,0 +1,616 @@
+{
+ "T": 67.02,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 7.518,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     1.993
+    ],
+    [
+     2.493,
+     3.581
+    ],
+    [
+     4.081,
+     7.067
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE STRAPS",
+     155,
+     225,
+     -120,
+     -40
+    ],
+    [
+     "THE COMPUTER",
+     155,
+     560,
+     140,
+     40
+    ]
+   ]
+  },
+  {
+   "t0": 7.518,
+   "t1": 14.077,
+   "i": 1,
+   "segs": [
+    [
+     7.518,
+     13.726
+    ]
+   ],
+   "g": "quote",
+   "q": "a hand operated instrument platform retained over the shoulders of ones body",
+   "hit": "over the shoulders",
+   "src": "US 4,715,293 \u00b7 description"
+  },
+  {
+   "t0": 14.077,
+   "t1": 19.975,
+   "i": 2,
+   "segs": [
+    [
+     14.077,
+     19.624
+    ]
+   ],
+   "g": "quote",
+   "q": "where conventional tables, desks and fixed workplaces are unavailable.",
+   "hit": "unavailable",
+   "src": "US 4,715,293 \u00b7 description"
+  },
+  {
+   "t0": 19.975,
+   "t1": 23.349,
+   "i": 3,
+   "segs": [
+    [
+     19.975,
+     20.807
+    ],
+    [
+     21.227,
+     22.848
+    ]
+   ],
+   "g": "stamp",
+   "title": "INSTRUMENT|DESK",
+   "filed": "DEC. 9, 1986",
+   "date": "DEC. 29, 1987",
+   "at": 0.6
+  },
+  {
+   "t0": 23.349,
+   "t1": 31.831,
+   "i": 4,
+   "segs": [
+    [
+     23.349,
+     24.267
+    ],
+    [
+     24.547,
+     31.48
+    ]
+   ],
+   "g": "quote",
+   "q": "Attempting to place the instrument on a stationary surface while in the field creates a potentially hazardous situation.",
+   "hit": "potentially hazardous situation",
+   "src": "US 4,715,293 \u00b7 description"
+  },
+  {
+   "t0": 31.831,
+   "t1": 39.502,
+   "i": 5,
+   "segs": [
+    [
+     31.831,
+     34.711
+    ],
+    [
+     34.991,
+     39.151
+    ]
+   ],
+   "g": "quote",
+   "q": "cameras, tree boring drills, food, writing materials and the like.",
+   "hit": "tree boring drills",
+   "src": "US 4,715,293 \u00b7 description"
+  },
+  {
+   "t0": 39.502,
+   "t1": 49.949,
+   "i": 6,
+   "segs": [
+    [
+     39.502,
+     41.145
+    ],
+    [
+     41.425,
+     47.206
+    ],
+    [
+     47.486,
+     49.598
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk2",
+   "figno": "2",
+   "draw": false,
+   "calls": [
+    [
+     "THE TABLE TOP",
+     456,
+     565,
+     110,
+     70
+    ],
+    [
+     "SHOULDER LOOPS",
+     316,
+     113,
+     130,
+     -40
+    ]
+   ]
+  },
+  {
+   "t0": 49.949,
+   "t1": 53.204,
+   "i": 7,
+   "segs": [
+    [
+     49.949,
+     51.208
+    ],
+    [
+     51.488,
+     52.853
+    ]
+   ],
+   "g": "fig",
+   "fig": "desk3",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "THE HARD HAT",
+     240,
+     52,
+     140,
+     20
+    ]
+   ]
+  },
+  {
+   "t0": 53.204,
+   "t1": 60.15,
+   "i": 8,
+   "segs": [
+    [
+     53.204,
+     54.548
+    ],
+    [
+     54.828,
+     59.799
+    ]
+   ],
+   "g": "quote",
+   "q": "An important object of the invention is the comfort in which the table may be worn.",
+   "hit": "the table may be worn",
+   "src": "US 4,715,293 \u00b7 description"
+  },
+  {
+   "t0": 60.15,
+   "t1": 67.02,
+   "i": 9,
+   "segs": [
+    [
+     60.15,
+     62.795
+    ],
+    [
+     63.295,
+     64.17
+    ]
+   ],
+   "g": "stamp",
+   "title": "INSTRUMENT|DESK",
+   "filed": "DEC. 9, 1986",
+   "date": "DEC. 29, 1987",
+   "at": 1.2,
+   "big": true
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.993,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 2.493,
+   "t1": 3.218,
+   "txt": "A desk you"
+  },
+  {
+   "t0": 3.218,
+   "t1": 3.581,
+   "txt": "wear."
+  },
+  {
+   "t0": 4.081,
+   "t1": 4.873,
+   "txt": "It hangs from"
+  },
+  {
+   "t0": 4.873,
+   "t1": 5.787,
+   "txt": "your shoulders,"
+  },
+  {
+   "t0": 5.787,
+   "t1": 6.702,
+   "txt": "with a computer"
+  },
+  {
+   "t0": 6.702,
+   "t1": 7.067,
+   "txt": "on it."
+  },
+  {
+   "t0": 7.518,
+   "t1": 8.598,
+   "txt": "The patent calls"
+  },
+  {
+   "t0": 8.598,
+   "t1": 9.205,
+   "txt": "it a hand"
+  },
+  {
+   "t0": 9.205,
+   "t1": 11.095,
+   "txt": "operated instrument platform"
+  },
+  {
+   "t0": 11.095,
+   "t1": 12.242,
+   "txt": "retained over the"
+  },
+  {
+   "t0": 12.242,
+   "t1": 13.389,
+   "txt": "shoulders of ones"
+  },
+  {
+   "t0": 13.389,
+   "t1": 13.726,
+   "txt": "body."
+  },
+  {
+   "t0": 14.077,
+   "t1": 14.679,
+   "txt": "It is for"
+  },
+  {
+   "t0": 14.679,
+   "t1": 16.349,
+   "txt": "places where conventional"
+  },
+  {
+   "t0": 16.349,
+   "t1": 16.817,
+   "txt": "tables,"
+  },
+  {
+   "t0": 16.817,
+   "t1": 17.82,
+   "txt": "desks and fixed"
+  },
+  {
+   "t0": 17.82,
+   "t1": 19.624,
+   "txt": "workplaces are unavailable."
+  },
+  {
+   "t0": 19.975,
+   "t1": 20.807,
+   "txt": "Approved."
+  },
+  {
+   "t0": 21.227,
+   "t1": 22.848,
+   "txt": "Nineteen eighty-seven."
+  },
+  {
+   "t0": 23.349,
+   "t1": 24.267,
+   "txt": "Why wear it?"
+  },
+  {
+   "t0": 24.547,
+   "t1": 25.692,
+   "txt": "Attempting to place"
+  },
+  {
+   "t0": 25.692,
+   "t1": 26.717,
+   "txt": "the instrument on"
+  },
+  {
+   "t0": 26.717,
+   "t1": 27.923,
+   "txt": "a stationary surface"
+  },
+  {
+   "t0": 27.923,
+   "t1": 28.646,
+   "txt": "while in the"
+  },
+  {
+   "t0": 28.646,
+   "t1": 29.551,
+   "txt": "field creates a"
+  },
+  {
+   "t0": 29.551,
+   "t1": 31.48,
+   "txt": "potentially hazardous situation."
+  },
+  {
+   "t0": 31.831,
+   "t1": 32.611,
+   "txt": "It lists what"
+  },
+  {
+   "t0": 32.611,
+   "t1": 34.231,
+   "txt": "earlier body-worn platforms"
+  },
+  {
+   "t0": 34.231,
+   "t1": 34.711,
+   "txt": "carried."
+  },
+  {
+   "t0": 34.991,
+   "t1": 35.528,
+   "txt": "Cameras,"
+  },
+  {
+   "t0": 35.528,
+   "t1": 36.803,
+   "txt": "tree boring drills,"
+  },
+  {
+   "t0": 36.803,
+   "t1": 37.138,
+   "txt": "food,"
+  },
+  {
+   "t0": 37.138,
+   "t1": 38.547,
+   "txt": "writing materials and"
+  },
+  {
+   "t0": 38.547,
+   "t1": 39.151,
+   "txt": "the like."
+  },
+  {
+   "t0": 39.502,
+   "t1": 40.171,
+   "txt": "Here is the"
+  },
+  {
+   "t0": 40.171,
+   "t1": 40.901,
+   "txt": "frame on its"
+  },
+  {
+   "t0": 40.901,
+   "t1": 41.145,
+   "txt": "own."
+  },
+  {
+   "t0": 41.425,
+   "t1": 42.299,
+   "txt": "The table top"
+  },
+  {
+   "t0": 42.299,
+   "t1": 43.105,
+   "txt": "can be solid"
+  },
+  {
+   "t0": 43.105,
+   "t1": 43.979,
+   "txt": "or soft woven"
+  },
+  {
+   "t0": 43.979,
+   "t1": 44.45,
+   "txt": "fabric,"
+  },
+  {
+   "t0": 44.45,
+   "t1": 45.458,
+   "txt": "so the computer"
+  },
+  {
+   "t0": 45.458,
+   "t1": 46.467,
+   "txt": "nests itself in"
+  },
+  {
+   "t0": 46.467,
+   "t1": 47.206,
+   "txt": "the middle."
+  },
+  {
+   "t0": 47.486,
+   "t1": 47.986,
+   "txt": "It tilts,"
+  },
+  {
+   "t0": 47.986,
+   "t1": 48.653,
+   "txt": "and folds up"
+  },
+  {
+   "t0": 48.653,
+   "t1": 49.32,
+   "txt": "when you are"
+  },
+  {
+   "t0": 49.32,
+   "t1": 49.598,
+   "txt": "done."
+  },
+  {
+   "t0": 49.949,
+   "t1": 50.912,
+   "txt": "Note the hard"
+  },
+  {
+   "t0": 50.912,
+   "t1": 51.208,
+   "txt": "hat."
+  },
+  {
+   "t0": 51.488,
+   "t1": 52.357,
+   "txt": "This desk goes"
+  },
+  {
+   "t0": 52.357,
+   "t1": 52.853,
+   "txt": "to work."
+  },
+  {
+   "t0": 53.204,
+   "t1": 54.053,
+   "txt": "And one more"
+  },
+  {
+   "t0": 54.053,
+   "t1": 54.548,
+   "txt": "object."
+  },
+  {
+   "t0": 54.828,
+   "t1": 56.039,
+   "txt": "An important object"
+  },
+  {
+   "t0": 56.039,
+   "t1": 57.058,
+   "txt": "of the invention"
+  },
+  {
+   "t0": 57.058,
+   "t1": 57.951,
+   "txt": "is the comfort"
+  },
+  {
+   "t0": 57.951,
+   "t1": 58.715,
+   "txt": "in which the"
+  },
+  {
+   "t0": 58.715,
+   "t1": 59.48,
+   "txt": "table may be"
+  },
+  {
+   "t0": 59.48,
+   "t1": 59.799,
+   "txt": "worn."
+  },
+  {
+   "t0": 60.15,
+   "t1": 60.83,
+   "txt": "A laptop,"
+  },
+  {
+   "t0": 60.83,
+   "t1": 62.19,
+   "txt": "before laptops sat"
+  },
+  {
+   "t0": 62.19,
+   "t1": 62.795,
+   "txt": "on laps."
+  },
+  {
+   "t0": 63.295,
+   "t1": 64.17,
+   "txt": "Approved."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 7.518
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 14.077
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 19.975
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 23.349
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 31.831
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 39.502
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 49.949
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 53.204
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 60.15
+  }
+ ],
+ "hook": "APPROVED|OR [DENIED]?",
+ "hook2": "THE WEARABLE|[DESK] \u00b7 1987",
+ "hookSwitch": 3,
+ "num": "US 4,715,293",
+ "tt": true
+}

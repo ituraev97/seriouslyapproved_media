@@ -1,0 +1,14 @@
+{
+ "date": "2026-11-14",
+ "timezone": "America/New_York",
+ "branch": "drop-sat",
+ "posts": [
+  {"file": "t1", "network": "tiktok", "time": "09:30", "title": "The U.S. Approved a Chair You Wear", "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-5544794440475654586"},
+  {"file": "s1", "network": "youtube short", "time": "10:30", "title": "The U.S. Approved a Chair You Wear", "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-8004182291552974929"},
+  {"file": "t2", "network": "tiktok", "time": "14:30", "title": "This Is a Real Patent for a Desk You Wear", "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-763046914665331437"},
+  {"file": "s2", "network": "youtube short", "time": "15:00", "title": "This Is a Real Patent for a Desk You Wear", "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=6786936246404468625"},
+  {"file": "long", "network": "youtube video", "time": "16:00", "title": "8 Wearable Chairs, Desks and Tents That Got Real Patents", "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-1489037345154054358"},
+  {"file": "s3", "network": "youtube short", "time": "19:00", "title": "The U.S. Approved an Overcoat That Is a Tent", "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=2888476974064877821"},
+  {"file": "t3", "network": "tiktok", "time": "20:30", "title": "The U.S. Approved an Overcoat That Is a Tent", "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-4137262083262955132"}
+ ]
+}
