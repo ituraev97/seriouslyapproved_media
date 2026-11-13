@@ -3,6 +3,33 @@
 One run = one long video (10–12 min, 1920×1080) + 6 vertical YouTube Shorts (45–60 s, 1080×1920) + 3 TikTok videos (62–85 s, 1080×1920) for ONE US day, uploaded to a `drop-<weekday>` branch and scheduled in Metricool.
 Read the Projects doc `claude/seriously-approved-bible.md` first (rules, brand, voice, money). Reference Short: `episodes/000-test-kissing-shield/episode.py`.
 
+## Format v2 — "loud" growth mode (owner decision 2026-11-14) — OVERRIDES everything below where they differ
+Why: 13 days, ~3.1k YouTube views, 1 subscriber. Two Shorts (dog watch 1,210, jelly-bean cap 997) made 2/3 of all views; 12 long videos together ~44 views (no custom thumbnails — channel not phone-verified); TikTok ~100 views per post, but captions opening with "Approved or denied?" got 2–3× (cereal slide 330, rocking bathtub 201, rail bike 139).
+
+Schedule (America/New_York):
+- EVERY day: 3 YouTube Shorts (20–35 s) at 10:30, 15:00, 19:00 + 3 TikToks (62–75 s) at 09:30, 14:30, 20:30.
+- Monday, Wednesday, Friday ONLY: + 1 long video (12–15 min, ≥ 12:00) at 16:00. Never a long video on Tue/Thu/Sat/Sun — those days build an episode folder `episodes/NNN-slug/` with shorts/ + tiktok/ + sources.md only (TikTok extra lines then come from your own verified research, not from a long script).
+
+FRESH & LOUD (every run, before choosing anything):
+1. News scan, last 7 days (WebSearch + WebFetch): (a) big-brand patents in the news — Apple, Tesla/SpaceX, Meta, Amazon, Google, Microsoft, Nike, Disney, Sony, Samsung, Nintendo, OpenAI, McDonald's, Starbucks… (Patently Apple, AppleInsider/MacRumors patents, Patentlyze "Big Tech's Seven Most Interesting Patents", The Daily Upside "Patent Drop", Google News "patent"); (b) the loudest US moment of the week (holiday — Thanksgiving, Black Friday, Christmas, Super Bowl…; a viral news story; a big product launch). Save the list in research/YYYY-MM-DD.md.
+2. At least ONE of the day's 3 Shorts + its TikTok is news-tied:
+   - NEW patent lane (needs drawings): only if the shell can download Google Patents figure PNGs (`curl -sI https://patentimages.storage.googleapis.com/<path from WebFetch>` returns 200 — the owner has to allow that domain in Claude settings; never work around a blocked domain). Then the fresh patent itself is the Short ("Apple Just Patented …" — only if the patent/application really exists; say "patent application" when it is not granted).
+   - Otherwise TIE-IN lane: an archive patent (on the disks) that matches the news, with a truthful bridge line ("Before [brand] tried X, somebody patented it in 1895." — the news fact sourced, never implying a link that does not exist).
+3. Seasonal: from 7 days before a holiday, the long video and ≥ 2 Shorts are on its theme (Thanksgiving turkey/kitchen patents, Christmas tree/lights/Santa patents, New Year exercise gadgets, Valentine's).
+4. Brand names may be used factually in titles; no logos or news-site images, ever — only patent drawings.
+
+THUMBNAILS v2 (pipeline/thumb2.html — the default of thumb.mjs; old style only with "tpl":"v1"):
+- Make THREE variants A/B/C per long video, three different angles (object / absurd use / number-or-question). Fields: bg "y"|"r"|"b" (different per variant), tag ("REAL PATENT", "APPROVED?", "100% REAL"), words ≤ 4 words, `[word]` = colour accent, autowrap true (3 lines of huge Anton), fig = transparent drawing PNG from figpng.py (sticker.py turns it into a die-cut sticker automatically), figbox {x,y,w,h,rot}, ring [x,y,d] and/or arrow [tipx,tipy,len,deg] EXACTLY on the absurd detail (check on the full-size render), stamp {"text":"APPROVED","x":44,"y":622}. Bottom-right 260×110 empty.
+- LOOK at all three at full size and at 168×94 (words readable, ring on the detail). Reference: episodes/001-nobody-asked-for/thumb2.json.
+- Until the channel is phone-verified Metricool cannot set thumbnails: send thumb_A/B/C to the owner (SendUserFile) — he sets A in YouTube Studio and B/C in Test & Compare.
+
+TITLES & HOOKS (loud, never untrue):
+- Long (≤ 70): curiosity + number/superlative: "These 10 Patents Should NOT Exist", "The Dumbest Kitchen Patents Ever Approved", "Apple Just Patented What?! (+ 9 Weirder)" — every claim true ("dumbest/weirdest" = opinion, fine; "banned/illegal/secret" only if sourced).
+- Shorts/TikTok (≤ 60): object + absurd twist, animals/food/body/bathroom first (our winners); "The U.S. Approved a…", "This Is a Real Patent for…", "Approved or Denied?".
+- First 0.5 s: drawing + object name + hook text on screen (QA frame). Last line = a question to the viewer ("Approved or denied? Comment.") — comments are our weakest signal.
+- TikTok caption ALWAYS starts "Approved or denied?" then the one-line description.
+- Long video: firstCommentText = one sharp question ("Which one would you actually buy?"); if Metricool rejects it, schedule without.
+
 ## 0. Context
 - Metricool brand "SERIOUSLY APPROVED": blogId **7805767**. Publish timezone **America/New_York**.
 - Schedule per US day: Shorts 08:00, 10:30, 13:00, 15:00, 19:00, 22:00 ET; long video 16:00 ET (YouTube). TikTok (connected 04.11.2026): t1 09:30, t2 14:30, t3 20:30 ET.

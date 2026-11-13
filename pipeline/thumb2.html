@@ -1,0 +1,53 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+/* THUMB v2 "loud" (14.11.2026): saturated burst background, die-cut drawing sticker, huge Anton words, red arrow + ring. Bottom-right 260x110 stays empty (duration). */
+@font-face{font-family:Anton;src:url(node_modules/@fontsource/anton/files/anton-latin-400-normal.woff2)}
+@font-face{font-family:Slab;src:url(node_modules/@fontsource/alfa-slab-one/files/alfa-slab-one-latin-400-normal.woff2)}
+@font-face{font-family:Inter;font-weight:800;src:url(node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2)}
+@font-face{font-family:Mono;font-weight:600;src:url(node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-600-normal.woff2)}
+:root{--red:#E3122B;--ink:#0D0D0D;--hl:#FFE600;--bp:#123A6B;--paper:#FFFBF0}
+*{margin:0;padding:0;box-sizing:border-box}html,body{width:1280px;height:720px;overflow:hidden}
+.t{position:relative;width:1280px;height:720px;overflow:hidden}
+.bg{position:absolute;inset:0}
+.y .bg{background:repeating-conic-gradient(from 0deg at 72% 48%,#FFD000 0 7.5deg,#FFE94A 7.5deg 15deg)}
+.r .bg{background:repeating-conic-gradient(from 0deg at 72% 48%,#E3122B 0 7.5deg,#FF3B3B 7.5deg 15deg)}
+.b .bg{background:repeating-conic-gradient(from 0deg at 72% 48%,#0B5FFF 0 7.5deg,#2C7BFF 7.5deg 15deg)}
+.bg:after{content:"";position:absolute;inset:0;background:radial-gradient(60% 75% at 72% 48%,rgba(255,255,255,.55),rgba(255,255,255,0) 60%),radial-gradient(130% 130% at 50% 50%,transparent 55%,rgba(0,0,0,.35))}
+.fig{position:absolute;left:var(--fx,560px);top:var(--fy,40px);width:var(--fw,660px);height:var(--fh,600px);transform:rotate(var(--rot,-4deg))}
+.fig img{width:100%;height:100%;object-fit:contain;
+ filter:drop-shadow(0 16px 0 rgba(0,0,0,.85)) drop-shadow(0 24px 30px rgba(0,0,0,.35))}
+.fig .card{position:absolute;inset:0;background:var(--paper);border:8px solid #fff;box-shadow:0 0 0 4px var(--ink),0 22px 40px rgba(0,0,0,.45)}
+.fig .card img{filter:none;padding:18px}
+.words{position:absolute;left:44px;top:var(--wy,120px);width:auto;max-width:none;font:var(--ws,150px)/.9 Anton;text-transform:uppercase;color:#fff;letter-spacing:.005em;
+ -webkit-text-stroke:14px var(--ink);paint-order:stroke fill;text-shadow:0 10px 0 var(--ink)}
+.r .words,.b .words{color:#fff}
+.words i{font-style:normal;color:var(--hl)}
+.y .words i{color:var(--red)}
+.tag{position:absolute;left:46px;top:34px;background:var(--red);color:#fff;font:800 38px Inter;padding:8px 22px 10px;transform:rotate(-3deg);border:5px solid #fff;box-shadow:0 0 0 4px var(--ink),0 8px 0 4px var(--ink);letter-spacing:.02em}
+.r .tag{background:var(--ink)}
+.ring{position:absolute;border:13px solid var(--red);border-radius:50%;box-shadow:0 0 0 5px #fff,inset 0 0 0 5px #fff,0 8px 18px rgba(0,0,0,.45);transform:translate(-50%,-50%)}
+.r .ring{border-color:var(--hl)}
+.arrow{position:absolute;width:var(--al,210px);height:70px;transform-origin:100% 50%;transform:translate(-100%,-50%) rotate(var(--aa,0deg))}
+.arrow svg{width:100%;height:100%;overflow:visible}
+.stamp{position:absolute;color:var(--red);border:7px solid var(--red);padding:2px 18px 0;font:60px/1 Slab;transform:rotate(-9deg);background:rgba(255,255,255,.85);box-shadow:0 0 0 4px #fff,0 8px 16px rgba(0,0,0,.35)}
+.num{position:absolute;left:48px;bottom:34px;background:var(--ink);color:#fff;font:600 28px Mono;padding:8px 16px;letter-spacing:.04em}
+</style></head><body><div class="t" id="t"></div>
+<script>
+// v: {bg:"y|r|b", tag, words "A CHAIR|YOU [WEAR]", ws (font px), wy, ww, figsrc, card(bool: drawing on paper card instead of die-cut), fig:{x,y,w,h,rot},
+//     ring:[x,y,d] (px on the 1280x720 canvas), arrow:[tipx,tipy,len,angleDeg], stamp:{text,x,y}|false, num}
+function draw(v){const f=v.figbox||{};const st=[`--fx:${f.x??560}px`,`--fy:${f.y??40}px`,`--fw:${f.w??660}px`,`--fh:${f.h??600}px`,`--rot:${f.rot??-4}deg`].join(';');
+ const ring=v.ring?`<div class="ring" style="left:${v.ring[0]}px;top:${v.ring[1]}px;width:${v.ring[2]}px;height:${v.ring[2]}px"></div>`:'';
+ const ac=v.bg==='r'?'#FFE600':'#E3122B';
+ const arrow=v.arrow?`<div class="arrow" style="left:${v.arrow[0]}px;top:${v.arrow[1]}px;--al:${v.arrow[2]}px;--aa:${v.arrow[3]}deg"><svg viewBox="0 0 210 70" preserveAspectRatio="none"><path d="M0 24 H150 V4 L208 35 L150 66 V46 H0 Z" fill="${ac}" stroke="#fff" stroke-width="7" stroke-linejoin="round" paint-order="stroke"/><path d="M0 24 H150 V4 L208 35 L150 66 V46 H0 Z" fill="none" stroke="#0D0D0D" stroke-width="2.5" stroke-linejoin="round" transform="translate(0,0)"/></svg></div>`:'';
+ const stamp=v.stamp?`<div class="stamp" style="left:${v.stamp.x}px;top:${v.stamp.y}px">${v.stamp.text||'APPROVED'}</div>`:'';
+ document.getElementById('t').className='t '+(v.bg||'y');
+ document.getElementById('t').innerHTML=`<div class="bg"></div><div class="fig" style="${st}">${v.card?'<div class="card">':''}<img src="${v.figsrc}">${v.card?'</div>':''}</div>${ring}${arrow}${stamp}
+ ${v.tag?`<div class="tag">${v.tag}</div>`:''}<div class="words" style="--ws:${v.ws||150}px;--wy:${v.wy??120}px;--ww:${v.ww??600}px">${v.words.replace(/\[(.+?)\]/g,'<i>$1</i>').replace(/\|/g,'<br>')}</div>
+ ${v.num?`<div class="num">${v.num}</div>`:''}`;
+ // auto-fit: keep the words HUGE. 1) given line breaks, shrink to >=124px; 2) else let long lines wrap inside ww; 3) then shrink to fit height.
+ const w=document.querySelector('.words');let fs=v.ws||150;const ww=v.ww??600;const maxH=(v.maxbottom||600)-(v.wy??120);
+ const set=x=>w.style.setProperty('--ws',x+'px');
+ const ok=wrap=>{w.style.whiteSpace=wrap?'normal':'nowrap';w.style.width=wrap?ww+'px':'auto';return w.scrollWidth<=ww+4&&w.getBoundingClientRect().height<=maxH};
+ let wrap=!!v.autowrap;if(!wrap)while(!ok(false)&&fs>124){fs-=4;set(fs)}
+ if(wrap||!ok(false)){wrap=true;fs=v.ws||150;set(fs);while(!ok(true)&&fs>70){fs-=4;set(fs)}}
+ return Promise.all([...document.images].map(i=>i.complete?1:new Promise(r=>i.onload=r)))}
+</script></body></html>

@@ -1,0 +1,5 @@
+{"variants":[
+ {"id":"A","bg":"y","tag":"REAL PATENT","words":"A WATCH FOR [DOGS]","autowrap":true,"ws":176,"ww":580,"maxbottom":600,"fig":"thumb_fig_dog.png","figbox":{"x":650,"y":25,"w":600,"h":650,"rot":3},"ring":[1150,318,130],"arrow":[1085,332,170,6],"stamp":{"text":"APPROVED","x":44,"y":622}},
+ {"id":"B","bg":"r","tag":"APPROVED?","words":"DOG [TIME] IS REAL","autowrap":true,"ws":176,"ww":580,"maxbottom":600,"fig":"thumb_fig_dog.png","figbox":{"x":650,"y":25,"w":600,"h":650,"rot":-3},"ring":[1140,330,130],"stamp":{"text":"APPROVED","x":44,"y":622}},
+ {"id":"C","bg":"b","tag":"100% REAL","words":"12 PATENTS NOBODY [ASKED] FOR","autowrap":true,"ws":176,"ww":580,"maxbottom":600,"fig":"thumb_fig_mask.png","figbox":{"x":660,"y":30,"w":580,"h":640,"rot":3},"stamp":{"text":"APPROVED","x":44,"y":622}}
+]}
