@@ -1,0 +1,11 @@
+# LC002 — 21 Air Flight 7598, MIA, Sept 6 2026 — sources
+- NTSB preliminary report DCA26MA352 (12 pp.): flight timeline, ADS-B/FDR values (threshold 105 ft/177 kt; touchdown ~3,750 ft/160 kt; WOW; brakes 146 kt; release 120 kt/930 ft; idle 117 kt/415 ft; off runway 113 kt; localizer/MALSR ~100 kt; last 65 kt; ~1,200 ft from paved surface), casualties, crew data, airplane/operator, weather (ASOS SPECI 13:13, wind shift 13:37, 13:50 190/16G24, peak 180/26 at 13:52, METAR 13:53 190/17G26), ATC (no wind with clearance; JO 7110.65BB; 4 min earlier 190/19G22; LCS 11 yrs, ~17 min), CVR table, wreckage (flap lever 25, throttles idle, fuel cutoff, fire handles, reverser levers 1st detent, speed brake stowed, brake wear pins, gear), no EMAS. https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf
+- NTSB update Sept 9 2026 (CVR 2h+, FDR 54 h/400+ params, CVR group): https://www.ntsb.gov/news/press-releases/Pages/NR20260909.aspx
+- NTSB investigation page (updated Oct 1 2026): https://www.ntsb.gov/investigations/Pages/DCA26MA352.aspx
+- AirNav / FAA data eff. Oct 29 2026: RWY 30 displaced threshold 945 ft, 299° true. 8,415 ft = 9,360 − 945 (our arithmetic).
+- Wind components: our calculation (190°T vs 299°T: crosswind 16.1 kt / tailwind 5.5 kt; gusts 24.6 / 8.5).
+- Flight Safety Foundation ALAR briefing note 7.1 (stabilized approach: 1,000 ft IMC / 500 ft VMC; path, speed range, configuration, ≤1,000 fpm; go-around).
+- FAA EMAS description: https://www.faa.gov/airports/runways/emas
+- NTSB investigation timing ("generally 12 to 24 months"): NTSB investigative process page.
+- Amazon paused operations with 21 Air: AP via PBS, Sept 14 2026.
+- Footage: DVIDS 665213, 755613, 795973 (KC-46A), 643958, 726826 (USAF towers), 853483 (ARFF vehicle) — public domain, labeled FILE FOOTAGE. NTSB figures 1, 3, 5, 6, 7. USGS imagery.

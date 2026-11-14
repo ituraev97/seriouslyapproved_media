@@ -1,0 +1,709 @@
+[
+{
+"key": "[\"3d\", \"approach\"]",
+"vis": [
+"3d",
+"approach"
+],
+"ids": [
+"o1"
+],
+"start": 0.0,
+"end": 10.654
+},
+{
+"key": "[\"3d\", \"threshold\"]",
+"vis": [
+"3d",
+"threshold"
+],
+"ids": [
+"o2",
+"o3"
+],
+"start": 10.654,
+"end": 25.532
+},
+{
+"key": "[\"3d\", \"overrun_fast\"]",
+"vis": [
+"3d",
+"overrun_fast"
+],
+"ids": [
+"o4"
+],
+"start": 25.532,
+"end": 32.729
+},
+{
+"key": "[\"card\", \"toll\"]",
+"vis": [
+"card",
+"toll"
+],
+"ids": [
+"o5",
+"o6"
+],
+"start": 32.729,
+"end": 51.89
+},
+{
+"key": "[\"card\", \"title\"]",
+"vis": [
+"card",
+"title"
+],
+"ids": [
+"o7"
+],
+"start": 51.89,
+"end": 57.99
+},
+{
+"key": "[\"card\", \"parties\"]",
+"vis": [
+"card",
+"parties"
+],
+"ids": [
+"p1"
+],
+"start": 57.99,
+"end": 73.984
+},
+{
+"key": "[\"clip\", \"dv/665213.mp4\", 12.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/665213.mp4",
+12.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"p2"
+],
+"start": 73.984,
+"end": 81.288
+},
+{
+"key": "[\"clip\", \"dv/795973.mp4\", 1.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/795973.mp4",
+1.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"a1"
+],
+"start": 81.288,
+"end": 87.702
+},
+{
+"key": "[\"clip\", \"dv/795973.mp4\", 30.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/795973.mp4",
+30.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"a2"
+],
+"start": 87.702,
+"end": 97.002
+},
+{
+"key": "[\"card\", \"airframe\"]",
+"vis": [
+"card",
+"airframe"
+],
+"ids": [
+"a3",
+"a4"
+],
+"start": 97.002,
+"end": 118.014
+},
+{
+"key": "[\"clip\", \"dv/755613.mp4\", 9.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/755613.mp4",
+9.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"a5"
+],
+"start": 118.014,
+"end": 121.402
+},
+{
+"key": "[\"card\", \"route\"]",
+"vis": [
+"card",
+"route"
+],
+"ids": [
+"a6",
+"a7"
+],
+"start": 121.402,
+"end": 139.938
+},
+{
+"key": "[\"clip\", \"dv/665213.mp4\", 466.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/665213.mp4",
+466.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"a8"
+],
+"start": 139.938,
+"end": 149.309
+},
+{
+"key": "[\"card\", \"crew\"]",
+"vis": [
+"card",
+"crew"
+],
+"ids": [
+"a9",
+"a10",
+"a11"
+],
+"start": 149.309,
+"end": 175.598
+},
+{
+"key": "[\"photo\", \"pdfimg/f-004.png\", \"FAA AIRPORT DIAGRAM \\u00b7 VIA NTSB PRELIMINARY REPORT, FIGURE 3\"]",
+"vis": [
+"photo",
+"pdfimg/f-004.png",
+"FAA AIRPORT DIAGRAM \u00b7 VIA NTSB PRELIMINARY REPORT, FIGURE 3"
+],
+"ids": [
+"m1"
+],
+"start": 175.598,
+"end": 186.623
+},
+{
+"key": "[\"3d\", \"top\"]",
+"vis": [
+"3d",
+"top"
+],
+"ids": [
+"m2",
+"m3"
+],
+"start": 186.623,
+"end": 212.131
+},
+{
+"key": "[\"clip\", \"dv/755613.mp4\", 27.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/755613.mp4",
+27.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"w1",
+"w2"
+],
+"start": 212.131,
+"end": 221.061
+},
+{
+"key": "[\"card\", \"metar\"]",
+"vis": [
+"card",
+"metar"
+],
+"ids": [
+"w3",
+"w4",
+"w5",
+"w6"
+],
+"start": 221.061,
+"end": 248.911
+},
+{
+"key": "[\"card\", \"wind\"]",
+"vis": [
+"card",
+"wind"
+],
+"ids": [
+"w7",
+"w8",
+"w9"
+],
+"start": 248.911,
+"end": 279.56
+},
+{
+"key": "[\"clip\", \"dv/665213.mp4\", 600.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/665213.mp4",
+600.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"g1"
+],
+"start": 279.56,
+"end": 287.818
+},
+{
+"key": "[\"card\", \"speeds\"]",
+"vis": [
+"card",
+"speeds"
+],
+"ids": [
+"g2",
+"g3"
+],
+"start": 287.818,
+"end": 310.84
+},
+{
+"key": "[\"clip\", \"dv/643958.mp4\", 42.0, \"FILE FOOTAGE \\u00b7 U.S. AIR FORCE CONTROL TOWER, NOT MIAMI \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/643958.mp4",
+42.0,
+"FILE FOOTAGE \u00b7 U.S. AIR FORCE CONTROL TOWER, NOT MIAMI \u00b7 DVIDS"
+],
+"ids": [
+"t1"
+],
+"start": 310.84,
+"end": 312.985
+},
+{
+"key": "[\"clip\", \"dv/643958.mp4\", 47.0, \"FILE FOOTAGE \\u00b7 U.S. AIR FORCE CONTROL TOWER, NOT MIAMI \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/643958.mp4",
+47.0,
+"FILE FOOTAGE \u00b7 U.S. AIR FORCE CONTROL TOWER, NOT MIAMI \u00b7 DVIDS"
+],
+"ids": [
+"t2"
+],
+"start": 312.985,
+"end": 320.735
+},
+{
+"key": "[\"card\", \"atc\"]",
+"vis": [
+"card",
+"atc"
+],
+"ids": [
+"t3",
+"t4",
+"t5"
+],
+"start": 320.735,
+"end": 352.59
+},
+{
+"key": "[\"clip\", \"dv/726826.mp4\", 18.5, \"FILE FOOTAGE \\u00b7 U.S. AIR FORCE CONTROL TOWER, NOT MIAMI \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/726826.mp4",
+18.5,
+"FILE FOOTAGE \u00b7 U.S. AIR FORCE CONTROL TOWER, NOT MIAMI \u00b7 DVIDS"
+],
+"ids": [
+"t6",
+"t7"
+],
+"start": 352.59,
+"end": 367.89
+},
+{
+"key": "[\"card\", \"cvr\"]",
+"vis": [
+"card",
+"cvr"
+],
+"ids": [
+"c1",
+"c2",
+"c3",
+"c4",
+"c5",
+"c6",
+"c7",
+"c8",
+"c9",
+"c10",
+"c11"
+],
+"start": 367.89,
+"end": 453.098
+},
+{
+"key": "[\"clip\", \"dv/665213.mp4\", 605.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/665213.mp4",
+605.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"s1"
+],
+"start": 453.098,
+"end": 461.767
+},
+{
+"key": "[\"card\", \"stable\"]",
+"vis": [
+"card",
+"stable"
+],
+"ids": [
+"s2"
+],
+"start": 461.767,
+"end": 480.824
+},
+{
+"key": "[\"clip\", \"dv/665213.mp4\", 636.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/665213.mp4",
+636.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"s3"
+],
+"start": 480.824,
+"end": 485.735
+},
+{
+"key": "[\"card\", \"stable\"]",
+"vis": [
+"card",
+"stable"
+],
+"ids": [
+"s4"
+],
+"start": 485.735,
+"end": 497.85
+},
+{
+"key": "[\"3d\", \"top\"]",
+"vis": [
+"3d",
+"top"
+],
+"ids": [
+"l1",
+"l2"
+],
+"start": 497.85,
+"end": 513.259
+},
+{
+"key": "[\"3d\", \"end_layout\"]",
+"vis": [
+"3d",
+"end_layout"
+],
+"ids": [
+"x1",
+"x2"
+],
+"start": 513.259,
+"end": 536.794
+},
+{
+"key": "[\"3d\", \"land_follow\"]",
+"vis": [
+"3d",
+"land_follow"
+],
+"ids": [
+"l3",
+"l4",
+"l5"
+],
+"start": 536.794,
+"end": 565.745
+},
+{
+"key": "[\"photo\", \"pdfimg/f-010.png\", \"NTSB PRELIMINARY REPORT \\u00b7 FIGURE 5 \\u00b7 FDR DATA\"]",
+"vis": [
+"photo",
+"pdfimg/f-010.png",
+"NTSB PRELIMINARY REPORT \u00b7 FIGURE 5 \u00b7 FDR DATA"
+],
+"ids": [
+"l6"
+],
+"start": 565.745,
+"end": 571.404
+},
+{
+"key": "[\"card\", \"decel\"]",
+"vis": [
+"card",
+"decel"
+],
+"ids": [
+"d1",
+"d2",
+"d3",
+"d4",
+"d5"
+],
+"start": 571.404,
+"end": 612.665
+},
+{
+"key": "[\"3d\", \"land_follow\"]",
+"vis": [
+"3d",
+"land_follow"
+],
+"ids": [
+"l7"
+],
+"start": 612.665,
+"end": 616.118
+},
+{
+"key": "[\"3d\", \"land_side\"]",
+"vis": [
+"3d",
+"land_side"
+],
+"ids": [
+"l8",
+"l9",
+"l10"
+],
+"start": 616.118,
+"end": 640.022
+},
+{
+"key": "[\"3d\", \"replay\"]",
+"vis": [
+"3d",
+"replay"
+],
+"ids": [
+"r1",
+"r2",
+"r3",
+"r4",
+"r5",
+"r6",
+"r7"
+],
+"start": 640.022,
+"end": 675.276
+},
+{
+"key": "[\"photo\", \"pdfimg/f-001.png\", \"NTSB PRELIMINARY REPORT \\u00b7 FIGURE 1 \\u00b7 BASE IMAGERY: GOOGLE EARTH\"]",
+"vis": [
+"photo",
+"pdfimg/f-001.png",
+"NTSB PRELIMINARY REPORT \u00b7 FIGURE 1 \u00b7 BASE IMAGERY: GOOGLE EARTH"
+],
+"ids": [
+"b1",
+"b2",
+"b3"
+],
+"start": 675.276,
+"end": 700.017
+},
+{
+"key": "[\"photo\", \"pdfimg/f-012.png\", \"NTSB PRELIMINARY REPORT \\u00b7 FIGURE 6\"]",
+"vis": [
+"photo",
+"pdfimg/f-012.png",
+"NTSB PRELIMINARY REPORT \u00b7 FIGURE 6"
+],
+"ids": [
+"b4",
+"b5"
+],
+"start": 700.017,
+"end": 715.468
+},
+{
+"key": "[\"clip\", \"dv/853483.mp4\", 101.0, \"FILE FOOTAGE \\u00b7 U.S. MILITARY AIRCRAFT FIREFIGHTING VEHICLE \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/853483.mp4",
+101.0,
+"FILE FOOTAGE \u00b7 U.S. MILITARY AIRCRAFT FIREFIGHTING VEHICLE \u00b7 DVIDS"
+],
+"ids": [
+"b6"
+],
+"start": 715.468,
+"end": 726.548
+},
+{
+"key": "[\"photo\", \"pdfimg/f-013.png\", \"NTSB PRELIMINARY REPORT \\u00b7 FIGURE 7\"]",
+"vis": [
+"photo",
+"pdfimg/f-013.png",
+"NTSB PRELIMINARY REPORT \u00b7 FIGURE 7"
+],
+"ids": [
+"f1",
+"f2",
+"f3",
+"f4",
+"f5"
+],
+"start": 726.548,
+"end": 766.002
+},
+{
+"key": "[\"clip\", \"dv/795973.mp4\", 44.0, \"FILE FOOTAGE \\u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \\u00b7 DVIDS\"]",
+"vis": [
+"clip",
+"dv/795973.mp4",
+44.0,
+"FILE FOOTAGE \u00b7 KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER \u00b7 DVIDS"
+],
+"ids": [
+"f6"
+],
+"start": 766.002,
+"end": 776.137
+},
+{
+"key": "[\"photo\", \"pdfimg/f-012.png\", \"NTSB PRELIMINARY REPORT \\u00b7 FIGURE 6\"]",
+"vis": [
+"photo",
+"pdfimg/f-012.png",
+"NTSB PRELIMINARY REPORT \u00b7 FIGURE 6"
+],
+"ids": [
+"f7"
+],
+"start": 776.137,
+"end": 783.536
+},
+{
+"key": "[\"photo\", \"pdfimg/f-001.png\", \"NTSB PRELIMINARY REPORT \\u00b7 FIGURE 1 \\u00b7 BASE IMAGERY: GOOGLE EARTH\"]",
+"vis": [
+"photo",
+"pdfimg/f-001.png",
+"NTSB PRELIMINARY REPORT \u00b7 FIGURE 1 \u00b7 BASE IMAGERY: GOOGLE EARTH"
+],
+"ids": [
+"e1"
+],
+"start": 783.536,
+"end": 791.125
+},
+{
+"key": "[\"card\", \"emas\"]",
+"vis": [
+"card",
+"emas"
+],
+"ids": [
+"e2",
+"e3"
+],
+"start": 791.125,
+"end": 809.276
+},
+{
+"key": "[\"card\", \"open\"]",
+"vis": [
+"card",
+"open"
+],
+"ids": [
+"q1",
+"q2",
+"q3",
+"q4",
+"q5",
+"q6",
+"q7",
+"q8"
+],
+"start": 809.276,
+"end": 856.793
+},
+{
+"key": "[\"3d\", \"rest_orbit\"]",
+"vis": [
+"3d",
+"rest_orbit"
+],
+"ids": [
+"n1"
+],
+"start": 856.793,
+"end": 864.187
+},
+{
+"key": "[\"photo\", \"pdfimg/f-012.png\", \"NTSB PRELIMINARY REPORT \\u00b7 FIGURE 6\"]",
+"vis": [
+"photo",
+"pdfimg/f-012.png",
+"NTSB PRELIMINARY REPORT \u00b7 FIGURE 6"
+],
+"ids": [
+"n2"
+],
+"start": 864.187,
+"end": 874.839
+},
+{
+"key": "[\"3d\", \"rest_orbit\"]",
+"vis": [
+"3d",
+"rest_orbit"
+],
+"ids": [
+"n3"
+],
+"start": 874.839,
+"end": 884.245
+},
+{
+"key": "[\"card\", \"status\"]",
+"vis": [
+"card",
+"status"
+],
+"ids": [
+"n4",
+"n5"
+],
+"start": 884.245,
+"end": 903.837
+}
+]

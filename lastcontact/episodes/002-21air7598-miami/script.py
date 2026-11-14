@@ -1,0 +1,136 @@
+# EPISODE 002 — 21 Air Flight 7598, Boeing 767 runway overrun, Miami International (MIA), Sept 6 2026
+# Source of almost every fact: NTSB preliminary report DCA26MA352 (+ NTSB update Sept 9 2026).
+# (id, spoken text, pause_after, speed, visual)
+# visual: ("3d", shot) | ("card", name) | ("photo", file, credit) | ("clip", file, start_s, label)
+KC46 = "FILE FOOTAGE · KC-46A, A BOEING 767-BASED U.S. AIR FORCE TANKER · DVIDS"
+LINES = [
+ # ---- cold open
+ ("o1", "September sixth, two thousand twenty-six. A Boeing seven sixty-seven cargo jet is lining up to land on runway thirty at Miami International Airport.", 0.5, 1.0, ("3d", "approach")),
+ ("o2", "It crosses the runway threshold about one hundred and five feet above the ground, at a groundspeed of one hundred and seventy-seven knots.", 0.45, 1.0, ("3d", "threshold")),
+ ("o3", "According to the N T S B, it touched down about three thousand seven hundred and fifty feet down the runway.", 0.5, 0.98, ("3d", "threshold")),
+ ("o4", "About half a minute later, the airplane is past the end of the runway, through the airport fence, and across a public road.", 0.9, 0.96, ("3d", "overrun_fast")),
+ ("o5", "Five people on the ground were killed. Three were seriously injured. The two pilots survived with minor injuries.", 1.1, 0.94, ("card", "toll")),
+ ("o6", "In this video we go through what the N T S B has published so far: the flight data, the cockpit voice recorder timeline, the weather, air traffic control, and what investigators found at the scene.", 0.5, 1.02, ("card", "toll")),
+ ("o7", "None of this is a finding of cause. The N T S B has not determined one yet.", 1.3, 0.96, ("card", "title")),
+ ("p1", "The N T S B arrived in Miami the next day. The parties to the investigation include the F A A, Boeing, G E Aerospace, 21 Air, the Miami-Dade Aviation Department, and the unions representing air traffic controllers and 21 Air's pilots.", 0.5, 1.0, ("card", "parties")),
+ ("p2", "Their findings so far are in a twelve-page preliminary report, published in October. Let's go through it.", 1.0, 1.0, ("clip", "dv/665213.mp4", 12.0, KC46)),
+
+ # ---- the airplane and the flight
+ ("a1", "The airplane was a Boeing seven sixty-seven, registration November one nine nine seven Alpha.", 0.4, 1.02, ("clip", "dv/795973.mp4", 1.0, KC46)),
+ ("a2", "It was built in nineteen ninety-four as a passenger jet, and converted to a freighter in twenty sixteen. It had General Electric C F six engines.", 0.4, 1.02, ("clip", "dv/795973.mp4", 30.0, KC46)),
+ ("a3", "By the day of the accident it had logged about one hundred and ten thousand flight hours, over more than twenty-four thousand flights.", 0.5, 1.02, ("card", "airframe")),
+ ("a4", "It was operated by 21 Air, a cargo airline headquartered in Greensboro, North Carolina, with its operations based in Miami. The company flew twenty-two airplanes, a mix of seven fifty-sevens and seven sixty-sevens.", 0.4, 1.02, ("card", "airframe")),
+ ("a5", "This flight was operated on behalf of Amazon.", 0.8, 1.0, ("clip", "dv/755613.mp4", 9.0, KC46)),
+ ("a6", "That morning, the same two pilots had flown this airplane from Miami to San Juan, Puerto Rico. According to the N T S B, it was the first time they had flown together.", 0.4, 1.0, ("card", "route")),
+ ("a7", "On that first leg, the first officer was the pilot flying. On the way back, as Flight seventy-five ninety-eight, the captain was flying.", 0.4, 1.0, ("card", "route")),
+ ("a8", "The flight left San Juan at about eleven twenty-four in the morning, eastern time, and was scheduled to land in Miami at two twenty-eight in the afternoon.", 0.6, 1.0, ("clip", "dv/665213.mp4", 466.0, KC46)),
+ ("a9", "According to the N T S B, the captain had about seven thousand three hundred total flight hours, about one hundred fifty of them in the seven sixty-seven. He received his seven sixty-seven type rating in May.", 0.4, 1.0, ("card", "crew")),
+ ("a10", "The first officer had about two thousand eight hundred hours, about eight hundred of them in the seven sixty-seven.", 0.4, 1.0, ("card", "crew")),
+ ("a11", "Those numbers are facts from the report. The N T S B has not said whether experience played any role.", 1.2, 0.97, ("card", "crew")),
+ ("m1", "First, the airport. Miami International has four runways. Runway twelve thirty is the diagonal one: nine thousand three hundred sixty feet long, and one hundred fifty feet wide.", 0.4, 1.0, ("photo", "pdfimg/f-004.png", "FAA AIRPORT DIAGRAM · VIA NTSB PRELIMINARY REPORT, FIGURE 3")),
+ ("m2", "The tower and the approach control share one facility, between runway nine twenty-seven and runway twelve thirty. At the time, two tower controllers split the runways. One handled the northern pair. The other handled runway nine twenty-seven, and runway twelve thirty.", 0.4, 1.0, ("3d", "top")),
+ ("m3", "The airport's main weather sensors sit near the approach end of runway nine. Additional sensors are about six hundred feet southeast of where the airplane came to rest.", 1.0, 1.0, ("3d", "top")),
+
+ # ---- weather
+ ("w1", "Now, the weather.", 0.4, 1.0, ("clip", "dv/755613.mp4", 27.0, KC46)),
+ ("w2", "At one thirteen p m, Miami's automated weather station reported thunderstorms, and scattered cumulonimbus clouds.", 0.4, 1.0, ("clip", "dv/755613.mp4", 27.0, KC46)),
+ ("w3", "At one thirty-seven, it recorded a wind shift.", 0.4, 1.0, ("card", "metar")),
+ ("w4", "At one fifty, three minutes before the accident, the five-minute data showed wind from one hundred ninety degrees at sixteen knots, gusting to twenty-four.", 0.4, 1.0, ("card", "metar")),
+ ("w5", "At one fifty-three came the routine hourly report: wind from one hundred ninety degrees at seventeen knots, gusts to twenty-six, and thunderstorms.", 0.4, 1.0, ("card", "metar")),
+ ("w6", "The peak wind that hour was recorded at one fifty-two: one hundred eighty degrees, at twenty-six knots.", 0.7, 1.0, ("card", "metar")),
+ ("w7", "Runway thirty points to the northwest. A wind from one hundred ninety degrees comes from the left, and slightly from behind, for an airplane landing on it.", 0.4, 1.0, ("card", "wind")),
+ ("w8", "By our own arithmetic, using the reported wind, that is a crosswind of about sixteen knots and a tailwind of five to six knots, with more in the gusts. The N T S B report cites the F A A rule that applies when a tailwind component exists.", 0.4, 1.0, ("card", "wind")),
+ ("w9", "A tailwind raises an airplane's speed over the ground. And a faster touchdown needs more runway to stop.", 1.2, 0.98, ("card", "wind")),
+ ("g1", "Two different speeds matter here. Airspeed is how fast the airplane moves through the air. Groundspeed is how fast it moves over the runway.", 0.4, 1.0, ("clip", "dv/665213.mp4", 600.0, KC46)),
+ ("g2", "With a tailwind, groundspeed is higher than airspeed, roughly by the strength of the tailwind. Every speed the N T S B gives for this landing is a groundspeed.", 0.4, 1.0, ("card", "speeds")),
+ ("g3", "The preliminary report does not state the airplane's airspeed at the threshold, or its target approach speed. The N T S B's performance study is meant to analyze the airplane's state during the approach and landing.", 1.2, 1.0, ("card", "speeds")),
+
+ # ---- air traffic control
+ ("t1", "That leads to air traffic control.", 0.4, 1.0, ("clip", "dv/643958.mp4", 42.0, "FILE FOOTAGE · U.S. AIR FORCE CONTROL TOWER, NOT MIAMI · DVIDS")),
+ ("t2", "Flight seventy-five ninety-eight was cleared to land at about one forty-nine, when it was about twelve nautical miles from the runway.", 0.4, 1.0, ("clip", "dv/643958.mp4", 47.0, "FILE FOOTAGE · U.S. AIR FORCE CONTROL TOWER, NOT MIAMI · DVIDS")),
+ ("t3", "According to the preliminary report, the tower controller issued the landing clearance, but did not issue information about the wind.", 0.4, 1.0, ("card", "atc")),
+ ("t4", "The report cites the F A A's air traffic control order, which requires controllers to state wind direction and velocity when authorizing use of a runway with a tailwind component.", 0.4, 1.0, ("card", "atc")),
+ ("t5", "About four minutes before that clearance, another flight asked for the wind, and the same controller reported one hundred ninety degrees at nineteen knots, gusting to twenty-two. Flight seventy-five ninety-eight was not on that frequency at the time.", 0.4, 1.0, ("card", "atc")),
+ ("t6", "The report also notes the controller had eleven years of experience, and had been on that position for about seventeen minutes.", 0.4, 1.0, ("clip", "dv/726826.mp4", 18.5, "FILE FOOTAGE · U.S. AIR FORCE CONTROL TOWER, NOT MIAMI · DVIDS")),
+ ("t7", "The N T S B has not said whether the absence of wind information in the landing clearance affected what happened next.", 1.2, 0.97, ("clip", "dv/726826.mp4", 18.5, "FILE FOOTAGE · U.S. AIR FORCE CONTROL TOWER, NOT MIAMI · DVIDS")),
+
+ # ---- CVR timeline
+ ("c1", "The cockpit voice recorder held about two hours and four minutes of audio, including the accident flight. The N T S B has released a summary of select events, timed backward from the end of the recording.", 0.5, 1.0, ("card", "cvr")),
+ ("c2", "Six minutes and two seconds before the end, the captain called for flaps one.", 0.35, 1.0, ("card", "cvr")),
+ ("c3", "At four minutes eighteen, the crew checked in with Miami tower and were cleared to land.", 0.35, 1.0, ("card", "cvr")),
+ ("c4", "At two fifty-three, flaps five. At two thirty-seven, the landing gear came down. At two fourteen, flaps fifteen.", 0.45, 1.0, ("card", "cvr")),
+ ("c5", "At one minute forty-two, the captain called for flaps twenty, and according to the N T S B, the first officer cautioned that they were too fast.", 0.4, 0.98, ("card", "cvr")),
+ ("c6", "The report says the first officer made more comments about the airplane's excessive speed through the rest of the recording, and that there was not a consistent verbal response to them.", 0.5, 0.98, ("card", "cvr")),
+ ("c7", "At one twenty-three, sounds consistent with the autopilot disconnecting.", 0.4, 1.0, ("card", "cvr")),
+ ("c8", "Then the automated callouts. One thousand. Sink rate, sink rate. Five hundred. Sink rate, sink rate again. One hundred. Minimums.", 0.4, 0.96, ("card", "cvr")),
+ ("c9", "At forty-eight seconds before the end, the warning system announced too low, terrain. Four times.", 0.4, 0.96, ("card", "cvr")),
+ ("c10", "At forty-one seconds, the captain called for flaps thirty. Then: forty. Too low, terrain. Ten.", 0.4, 0.98, ("card", "cvr")),
+ ("c11", "At thirty-one seconds, sounds similar to the airplane touching down. At fifteen seconds, the captain called for a go-around. At ten seconds, sounds similar to the airplane leaving the paved surface.", 1.2, 0.96, ("card", "cvr")),
+ ("s1", "To put the speed comments and sink rate alerts in context, it helps to know a basic idea in airline flying: the stabilized approach.", 0.4, 1.0, ("clip", "dv/665213.mp4", 605.0, KC46)),
+ ("s2", "Industry guidance from the Flight Safety Foundation recommends that an airliner be stabilized by one thousand feet above the airport in instrument conditions, or five hundred feet in visual conditions. That means on the correct flight path, within a set speed range, in landing configuration, and descending no faster than about one thousand feet per minute.", 0.4, 1.0, ("card", "stable")),
+ ("s3", "If an approach is not stabilized by that point, the guidance calls for a go-around.", 0.4, 1.0, ("clip", "dv/665213.mp4", 636.0, KC46)),
+ ("s4", "Each airline writes its own version of these criteria. The N T S B's preliminary report does not include 21 Air's criteria, and does not say whether this approach met them.", 1.2, 0.98, ("card", "stable")),
+
+ # ---- the landing, from the FDR
+ ("l1", "Now let's put the flight data on the runway.", 0.4, 1.0, ("3d", "top")),
+ ("l2", "Runway thirty is nine thousand three hundred sixty feet long, but its landing threshold is displaced. By the F A A's published numbers, that leaves about eight thousand four hundred feet from the threshold to the far end.", 0.5, 1.0, ("3d", "top")),
+ ("x1", "Look at what lies beyond the northwest end. First, a blast pad, which is not counted as runway. Then the localizer antenna and the approach lights for runway twelve. Then grass, the airport's perimeter road, the fence, and a public street, Northwest sixty-seventh Avenue.", 0.4, 1.0, ("3d", "end_layout")),
+ ("x2", "From the end of the paved surface to the point where the airplane stopped is about twelve hundred feet, according to the N T S B.", 0.9, 1.0, ("3d", "end_layout")),
+ ("l3", "At the threshold, the airplane was about one hundred five feet above the ground, at one hundred seventy-seven knots over the ground.", 0.4, 1.0, ("3d", "land_follow")),
+ ("l4", "The main gear tire marks begin about three thousand seven hundred fifty feet down the runway. The groundspeed there was about one hundred sixty knots, about thirteen seconds after the threshold.", 0.4, 1.0, ("3d", "land_follow")),
+ ("l5", "For about seven seconds, the weight-on-wheels sensors switched back and forth between air and ground. They settled on ground with about two thousand seven hundred thirty feet of runway left.", 0.4, 1.0, ("3d", "land_follow")),
+ ("l6", "The flight data shows the speed brakes stayed stowed, and the thrust reversers did not deploy.", 0.4, 1.0, ("photo", "pdfimg/f-010.png", "NTSB PRELIMINARY REPORT · FIGURE 5 · FDR DATA")),
+ ("d1", "To see why that matters, here is how a jet like this normally stops.", 0.4, 1.0, ("card", "decel")),
+ ("d2", "Three systems share the work: wheel brakes, ground spoilers, and thrust reversers.", 0.4, 1.0, ("card", "decel")),
+ ("d3", "The ground spoilers are panels on top of the wings. On touchdown they rise, dumping lift, so the airplane's weight presses onto the wheels, and the brakes can grip. They also add drag.", 0.4, 1.0, ("card", "decel")),
+ ("d4", "Thrust reversers redirect the engines' thrust forward to help slow the airplane, mostly at high speed.", 0.4, 1.0, ("card", "decel")),
+ ("d5", "On jets like this, the ground spoilers are designed to deploy automatically after touchdown when certain conditions are met. The report says the speed brake lever was found in the down, stowed position. It does not say why the speed brakes did not deploy.", 1.0, 0.98, ("card", "decel")),
+ ("l7", "Wheel brakes were applied at one hundred forty-six knots.", 0.35, 1.0, ("3d", "land_follow")),
+ ("l8", "About eight seconds later, at one hundred twenty knots, the brakes were released, and the throttles moved up to go-around thrust. About nine hundred thirty feet of runway remained.", 0.4, 1.0, ("3d", "land_side")),
+ ("l9", "About four seconds after that, the throttles came back to idle, and the brakes were applied again, at one hundred seventeen knots, with about four hundred fifteen feet left.", 0.4, 1.0, ("3d", "land_side")),
+ ("l10", "The airplane left the end of the runway at one hundred thirteen knots.", 1.0, 0.97, ("3d", "land_side")),
+ ("r1", "Let's watch that last part again, in order.", 1.0, 1.0, ("3d", "replay")),
+ ("r2", "The threshold. One hundred five feet. One hundred seventy-seven knots.", 2.2, 0.96, ("3d", "replay")),
+ ("r3", "Tire marks begin. Three thousand seven hundred fifty feet. One hundred sixty knots.", 1.6, 0.96, ("3d", "replay")),
+ ("r4", "Brakes, at one hundred forty-six.", 1.4, 0.96, ("3d", "replay")),
+ ("r5", "Brakes released. Throttles up, at one hundred twenty. Nine hundred thirty feet left.", 1.0, 0.96, ("3d", "replay")),
+ ("r6", "Idle. Brakes again. One hundred seventeen knots. Four hundred fifteen feet left.", 1.0, 0.96, ("3d", "replay")),
+ ("r7", "The runway end. One hundred thirteen knots.", 2.5, 0.94, ("3d", "replay")),
+
+ # ---- beyond the runway
+ ("b1", "Beyond the runway end, it struck the localizer antenna and the approach light system, at about one hundred knots.", 0.4, 1.0, ("photo", "pdfimg/f-001.png", "NTSB PRELIMINARY REPORT · FIGURE 1 · BASE IMAGERY: GOOGLE EARTH")),
+ ("b2", "It then struck a passenger van on the airport's perimeter road. Five of the seven people in the van were killed, and two were seriously injured.", 0.6, 0.96, ("photo", "pdfimg/f-001.png", "NTSB PRELIMINARY REPORT · FIGURE 1 · BASE IMAGERY: GOOGLE EARTH")),
+ ("b3", "The airplane went through the perimeter fence and across Northwest sixty-seventh Avenue, where it struck an S U V. Its only occupant was seriously injured.", 0.4, 0.98, ("photo", "pdfimg/f-001.png", "NTSB PRELIMINARY REPORT · FIGURE 1 · BASE IMAGERY: GOOGLE EARTH")),
+ ("b4", "The last groundspeed recorded was sixty-five knots. The jet came to rest about twelve hundred feet beyond the end of the paved surface, next to a parking lot.", 0.5, 1.0, ("photo", "pdfimg/f-012.png", "NTSB PRELIMINARY REPORT · FIGURE 6")),
+ ("b5", "The captain got out through the forward left door. The first officer climbed out through the right cockpit window.", 0.4, 1.0, ("photo", "pdfimg/f-012.png", "NTSB PRELIMINARY REPORT · FIGURE 6")),
+ ("b6", "The tower activated the alert phone at about one fifty-three. Miami-Dade Fire Rescue responded with five airport firefighting units, followed by mutual aid.", 1.1, 1.0, ("clip", "dv/853483.mp4", 101.0, "FILE FOOTAGE · U.S. MILITARY AIRCRAFT FIREFIGHTING VEHICLE · DVIDS")),
+
+ # ---- wreckage findings
+ ("f1", "What did investigators find at the scene?", 0.4, 1.0, ("photo", "pdfimg/f-013.png", "NTSB PRELIMINARY REPORT · FIGURE 7")),
+ ("f2", "In the cockpit, the flap lever was in the twenty-five degree position, and the measurements of the flaps and slats were consistent with flaps twenty-five.", 0.4, 1.0, ("photo", "pdfimg/f-013.png", "NTSB PRELIMINARY REPORT · FIGURE 7")),
+ ("f3", "In the N T S B's summary of the voice recorder, the last flap call listed is for thirty. The report records both facts, and does not explain the difference.", 0.5, 0.98, ("photo", "pdfimg/f-013.png", "NTSB PRELIMINARY REPORT · FIGURE 7")),
+ ("f4", "The throttle levers were at idle. The fuel control switches were in cutoff. Both engine fire handles were up and rotated. The thrust reverser levers were in the first detent, and the speed brake lever was stowed.", 0.4, 1.0, ("photo", "pdfimg/f-013.png", "NTSB PRELIMINARY REPORT · FIGURE 7")),
+ ("f5", "The report lists these positions as found. It does not say when, or why, each control was moved.", 0.5, 0.98, ("photo", "pdfimg/f-013.png", "NTSB PRELIMINARY REPORT · FIGURE 7")),
+ ("f6", "The brake wear pins on all eight main wheels still showed remaining service life. The main landing gear was down and locked. The nose gear had been pushed back, under the belly.", 0.4, 1.0, ("clip", "dv/795973.mp4", 44.0, KC46)),
+ ("f7", "The right wing was damaged by a fire after the crash, and the right engine had partially separated from its pylon.", 1.0, 1.0, ("photo", "pdfimg/f-012.png", "NTSB PRELIMINARY REPORT · FIGURE 6")),
+
+ # ---- EMAS
+ ("e1", "One more detail in the report. There was no engineered materials arresting system, or EMAS, at the end of runway thirty.", 0.4, 1.0, ("photo", "pdfimg/f-001.png", "NTSB PRELIMINARY REPORT · FIGURE 1 · BASE IMAGERY: GOOGLE EARTH")),
+ ("e2", "EMAS is a bed of crushable material built past the end of a runway. It is designed to slow an airplane that overruns, by letting its wheels sink in.", 0.4, 1.0, ("card", "emas")),
+ ("e3", "The N T S B noted the absence of EMAS in its preliminary report. It has not said whether EMAS would have changed the outcome here.", 1.1, 0.98, ("card", "emas")),
+ ("q1", "So, what is still unknown? Here is what the preliminary report leaves open.", 0.5, 1.0, ("card", "open")),
+ ("q2", "The airspeed and target speed on final approach, and how the wind changed over the last few miles.", 0.4, 1.0, ("card", "open")),
+ ("q3", "Why the touchdown came so far down the runway, and why the weight-on-wheels sensors switched back and forth.", 0.4, 1.0, ("card", "open")),
+ ("q4", "Why the speed brakes stayed stowed, and the thrust reversers did not deploy.", 0.4, 1.0, ("card", "open")),
+ ("q5", "The go-around call after touchdown, and the return to braking four seconds later.", 0.4, 1.0, ("card", "open")),
+ ("q6", "The flap setting: thirty called, twenty-five found.", 0.4, 1.0, ("card", "open")),
+ ("q7", "And the role, if any, of the wind information that was not included with the landing clearance, and of the absence of an arresting system.", 0.5, 1.0, ("card", "open")),
+ ("q8", "The N T S B's final report is expected to determine a probable cause. Until then, any answer would be speculation, and we will not offer one.", 1.2, 0.97, ("card", "open")),
+
+ # ---- what's next
+ ("n1", "About a week after the accident, Amazon said it had paused its operations with 21 Air, according to news reports.", 0.5, 1.0, ("3d", "rest_orbit")),
+ ("n2", "The investigation is ongoing. The N T S B says flight data and other engineering data will go into an airplane performance study, to refine the sequence of events.", 0.4, 1.0, ("photo", "pdfimg/f-012.png", "NTSB PRELIMINARY REPORT · FIGURE 6")),
+ ("n3", "A probable cause will come in the final report. The N T S B says it generally tries to complete an investigation within twelve to twenty-four months.", 0.4, 1.0, ("3d", "rest_orbit")),
+ ("n4", "When it is published, we will rebuild this landing with the final data.", 0.4, 1.0, ("card", "status")),
+ ("n5", "The facts about this accident in this video come from the N T S B's preliminary report and its September update, unless we said otherwise. In the N T S B's own words, this information is preliminary, and subject to change.", 1.6, 0.96, ("card", "status")),
+]

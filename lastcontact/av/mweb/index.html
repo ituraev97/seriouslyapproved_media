@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-500-normal.woff2);font-weight:500}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-700-normal.woff2);font-weight:700}
+:root{--night:#070B10;--scope:#0E1A16;--green:#3CFF8F;--amber:#FFB020;--red:#FF2E2E;--ink:#EEF2F4;--steel:#7E8A96}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--night);font-family:Int;color:var(--ink)}
+#gl{position:absolute;inset:0}
+.card{position:absolute;inset:0;opacity:0;background:radial-gradient(ellipse at 50% 45%,#0f1d18 0%,#070B10 70%)}
+.card::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(60,255,143,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(60,255,143,.05) 1px,transparent 1px);background-size:80px 80px}
+.k{font-family:Mono;font-weight:700;font-size:24px;letter-spacing:.16em;color:var(--green)}
+.h{font-family:Bar;font-weight:800;text-transform:uppercase;line-height:.95;letter-spacing:.01em}
+.b{font-size:38px;line-height:1.4}
+.m{font-family:Mono;font-weight:500}
+.src{font-family:Mono;font-size:20px;color:var(--steel);letter-spacing:.04em}
+.am{color:var(--amber)} .gr{color:var(--green)} .rd{color:var(--red)} .st{color:var(--steel)}
+.pan{background:rgba(7,11,16,.82);border:1px solid rgba(60,255,143,.18);border-radius:6px}
+[data-from]{opacity:0}
+.row{display:flex;align-items:baseline;gap:28px;padding:14px 0;border-bottom:1px solid rgba(126,138,150,.18)}
+.tag{display:inline-block;font-family:Mono;font-weight:700;font-size:20px;letter-spacing:.14em;padding:7px 13px;border-radius:3px;border:1px solid}
+#hud{position:absolute;right:56px;top:56px;width:470px;padding:22px 26px;opacity:0}
+#hud .v{font-family:Mono;font-weight:700;font-size:46px}
+#hud .l{font-family:Mono;font-size:18px;color:var(--steel);letter-spacing:.12em}
+#ev{position:absolute;left:56px;bottom:120px;opacity:0;padding:18px 26px;font-family:Mono;font-weight:700;font-size:34px}
+#recon{position:absolute;left:56px;top:50px;opacity:0}
+#cred{position:absolute;right:56px;bottom:40px;opacity:0}
+#wm{position:absolute;right:52px;top:44px;opacity:0;font-family:Bar;font-weight:800;font-size:30px;letter-spacing:.06em}
+.lbl{position:absolute;font-family:Mono;font-weight:700;font-size:21px;padding:7px 11px;background:rgba(7,11,16,.85);border-left:4px solid var(--green);white-space:nowrap;transform:translate(-50%,-150%);opacity:0}
+.lbl small{display:block;font-weight:500;font-size:16px;color:var(--steel)}
+.cv{display:flex;gap:26px;padding:10px 18px;border-radius:4px;font-size:30px;align-items:baseline;transition:none}
+.cv .t{font-family:Mono;font-weight:700;width:120px;color:var(--steel)}
+.cv.on{background:rgba(60,255,143,.10)} .cv.on .t{color:var(--amber)}
+</style></head>
+<body>
+<canvas id="gl" width="1920" height="1080"></canvas>
+<div id="recon" class="tag gr" style="border-color:rgba(60,255,143,.5);background:rgba(7,11,16,.8)">RECONSTRUCTION FROM NTSB PRELIMINARY DATA · MOTION BETWEEN DATA POINTS INTERPOLATED</div>
+<div id="cred" class="src pan" style="padding:8px 14px">AERIAL IMAGERY: USGS NATIONAL MAP</div>
+<div id="hud" class="pan">
+  <div class="l">GROUNDSPEED</div><div class="v gr" id="hgs">—</div>
+  <div class="l" style="margin-top:10px">HEIGHT ABOVE RUNWAY</div><div class="v am" id="hh">—</div>
+  <div class="l" style="margin-top:10px">RUNWAY REMAINING</div><div class="v" id="hr">—</div>
+  <div class="src" style="margin-top:12px;font-size:16px">NTSB DCA26MA352 · PRELIMINARY</div>
+</div>
+<div id="ev" class="pan"></div>
+<div id="L_thr" class="lbl">THRESHOLD RWY 30</div>
+<div id="L_td" class="lbl" style="border-color:var(--amber)">TIRE MARKS BEGIN<small>~3,750 FT</small></div>
+<div id="L_end" class="lbl" style="border-color:var(--red)">END OF RUNWAY</div>
+<div id="L_loc" class="lbl">LOCALIZER + APPROACH LIGHTS<small>RWY 12</small></div>
+<div id="L_road" class="lbl">NW 67TH AVENUE</div>
+<div id="L_rest" class="lbl" style="border-color:var(--red)">CAME TO REST<small>~1,200 FT PAST PAVEMENT</small></div>
+<div id="L_rwy" class="lbl">RUNWAY 12/30<small>9,360 × 150 FT</small></div>
+<div id="L_jet" class="lbl" style="border-color:var(--amber)">21 AIR 7598 · B767-300F</div>
+
+<!-- CARDS -->
+<div class="card" id="c_toll">
+  <div style="position:absolute;left:0;right:0;top:300px;text-align:center">
+    <div class="k st">SEPTEMBER 6, 2026 · MIAMI INTERNATIONAL AIRPORT</div>
+    <div class="h" style="font-size:110px;margin-top:30px">5 killed on the ground</div>
+    <div class="h st" style="font-size:64px;margin-top:22px">3 seriously injured · 2 crew, minor injuries</div>
+    <div class="src" style="margin-top:40px">Source: NTSB preliminary report DCA26MA352</div>
+  </div>
+</div>
+<div class="card" id="c_title">
+  <div style="position:absolute;left:0;right:0;top:330px;text-align:center">
+    <span class="tag am" style="border-color:rgba(255,176,32,.6)">PRELIMINARY · NO PROBABLE CAUSE YET</span>
+    <div class="h" style="font-size:170px;margin-top:26px">21 Air <span class="gr">7598</span></div>
+    <div class="k" style="font-size:30px;margin-top:20px;color:var(--ink)">WHAT THE DATA SHOWS</div>
+  </div>
+</div>
+<div class="card" id="c_parties">
+  <div style="position:absolute;left:150px;top:140px;width:1620px">
+    <div class="k">INVESTIGATION DCA26MA352 · CLASS 1</div>
+    <div class="h" style="font-size:88px;margin-top:16px">Who is in the investigation</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px 60px;margin-top:40px" class="b">
+      <div class="row"><span class="gr m">LEAD</span> NTSB</div><div class="row"><span class="st m">PARTY</span> FAA</div>
+      <div class="row"><span class="st m">PARTY</span> Boeing</div><div class="row"><span class="st m">PARTY</span> GE Aerospace</div>
+      <div class="row"><span class="st m">PARTY</span> 21 Air</div><div class="row"><span class="st m">PARTY</span> Miami-Dade Aviation Dept.</div>
+      <div class="row"><span class="st m">PARTY</span> NATCA (controllers' union)</div><div class="row"><span class="st m">PARTY</span> 21 Air Pilots Association</div>
+    </div>
+    <div class="src" style="margin-top:34px">NTSB on scene Sept 7, 2026 · Source: NTSB preliminary report</div>
+  </div>
+</div>
+<div class="card" id="c_airframe">
+  <div style="position:absolute;left:150px;top:130px;width:1620px">
+    <div class="k">THE AIRPLANE · N1997A</div>
+    <div class="h" style="font-size:96px;margin-top:14px">Boeing 767-33A <span class="st">freighter</span></div>
+    <div style="margin-top:40px" class="b">
+      <div class="row"><span class="m st" style="width:420px">BUILT</span>June 1994 — as a passenger jet</div>
+      <div class="row"><span class="m st" style="width:420px">CONVERTED</span>to freighter, June 2016</div>
+      <div class="row"><span class="m st" style="width:420px">ENGINES</span>GE CF6</div>
+      <div class="row" data-from="a3"><span class="m st" style="width:420px">TOTAL TIME</span><span class="am m">≈110,077 hours · 24,505 cycles</span></div>
+      <div class="row" data-from="a4"><span class="m st" style="width:420px">OPERATOR</span>21 Air — Greensboro, NC · ops in Miami · 22 aircraft (757/767)</div>
+      <div class="row" data-from="a4"><span class="m st" style="width:420px">FLOWN FOR</span>Amazon</div>
+    </div>
+    <div class="src" style="margin-top:28px">Source: NTSB preliminary report DCA26MA352</div>
+  </div>
+</div>
+<div class="card" id="c_route">
+  <svg width="1920" height="1080" style="position:absolute;inset:0">
+    <path d="M520 360 Q 980 160 1430 720" fill="none" stroke="#3CFF8F" stroke-width="5" stroke-dasharray="14 12" opacity=".8"/>
+    <circle cx="520" cy="360" r="16" fill="#3CFF8F"/><circle cx="1430" cy="720" r="16" fill="#FFB020"/>
+    <text x="520" y="320" fill="#EEF2F4" font-family="Bar" font-weight="800" font-size="56" text-anchor="middle">MIA</text>
+    <text x="1430" y="800" fill="#EEF2F4" font-family="Bar" font-weight="800" font-size="56" text-anchor="middle">SJU</text>
+    <text x="520" y="420" fill="#7E8A96" font-family="Mono" font-size="22" text-anchor="middle">MIAMI</text>
+    <text x="1430" y="840" fill="#7E8A96" font-family="Mono" font-size="22" text-anchor="middle">SAN JUAN, PUERTO RICO</text>
+  </svg>
+  <div class="k" style="position:absolute;left:120px;top:90px">SEPTEMBER 6 · SAME AIRPLANE, SAME TWO PILOTS · TIMES EDT</div>
+  <div class="pan" style="position:absolute;left:120px;bottom:120px;width:780px;padding:26px 30px">
+    <div class="k st" style="font-size:20px">LEG 1 · FLIGHT 7521 · MIA → SJU</div>
+    <div class="b" style="font-size:32px;margin-top:8px">Dep ≈06:35 · arr ≈08:58<br><span class="am">First officer flying</span></div>
+    <div class="src" style="margin-top:8px;font-size:18px">First time the two had flown together (NTSB)</div>
+  </div>
+  <div class="pan" data-from="a7" style="position:absolute;right:120px;top:150px;width:720px;padding:26px 30px">
+    <div class="k st" style="font-size:20px">LEG 2 · FLIGHT 7598 · SJU → MIA</div>
+    <div class="b" style="font-size:32px;margin-top:8px">Dep ≈11:24 · sched. arr 14:28<br><span class="gr">Captain flying</span></div>
+  </div>
+  <div class="src" style="position:absolute;right:120px;bottom:50px">Source: NTSB preliminary report · map not to scale</div>
+</div>
+<div class="card" id="c_crew">
+  <div style="position:absolute;left:150px;top:130px;width:1620px">
+    <div class="k">THE CREW · AS REPORTED TO NTSB</div>
+    <div style="display:flex;gap:60px;margin-top:40px">
+      <div class="pan" style="flex:1;padding:34px">
+        <div class="h gr" style="font-size:72px">Captain</div>
+        <div class="b m" style="font-size:32px;margin-top:20px;line-height:1.8">≈7,267 h total<br>≈150 h in 767<br>≈2,700 h in 737<br>767 type rating: May 18, 2026<br>Hired by 21 Air: April 2026</div></div>
+      <div class="pan" data-from="a10" style="flex:1;padding:34px">
+        <div class="h am" style="font-size:72px">First officer</div>
+        <div class="b m" style="font-size:32px;margin-top:20px;line-height:1.8">≈2,800 h total<br>≈800 h in 767<br>≈400 h in DC-9<br>767 type rating: April 2, 2025<br>Hired by 21 Air: Feb. 2025</div></div>
+    </div>
+    <div class="tag st" data-from="a11" style="margin-top:34px;border-color:rgba(126,138,150,.5)">FACTS FROM THE PRELIMINARY REPORT · NO FINDING IS IMPLIED</div>
+  </div>
+</div>
+<div class="card" id="c_metar">
+  <div style="position:absolute;left:150px;top:110px;width:1620px">
+    <div class="k">WEATHER · MIA AUTOMATED STATION (ASOS) · TIMES EDT</div>
+    <div class="h" style="font-size:84px;margin-top:14px">Thunderstorms and a wind shift</div>
+    <div style="margin-top:36px" class="b">
+      <div class="row"><span class="m am" style="width:200px">13:13</span>Special report: thunderstorms · cumulonimbus clouds</div>
+      <div class="row" data-from="w3"><span class="m am" style="width:200px">13:37</span>Wind shift recorded</div>
+      <div class="row" data-from="w4"><span class="m am" style="width:200px">13:50</span>Wind <b class="gr m">190° · 16 kt · gusts 24</b> (5-min data)</div>
+      <div class="row" data-from="w6"><span class="m am" style="width:200px">13:52</span>Peak wind of the hour <b class="gr m">180° · 26 kt</b></div>
+      <div class="row" data-from="w5"><span class="m am" style="width:200px">13:53</span>METAR <b class="gr m">190° · 17 kt · gusts 26</b> · thunderstorms</div>
+    </div>
+    <div class="src" style="margin-top:30px">Source: NTSB preliminary report (MIA ASOS) · accident time ≈13:53 EDT</div>
+  </div>
+</div>
+<div class="card" id="c_wind">
+  <svg width="760" height="760" viewBox="-380 -380 760 760" style="position:absolute;left:130px;top:160px">
+    <circle r="330" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="220" fill="none" stroke="#16291f" stroke-width="2"/>
+    <g font-family="Mono" font-size="34" font-weight="700" fill="#7E8A96" text-anchor="middle"><text y="-342">N</text><text x="360" y="12">E</text><text y="372">S</text><text x="-360" y="12">W</text></g>
+    <g transform="rotate(299)"><rect x="-16" y="-260" width="32" height="520" fill="#2b3442"/><polygon points="0,-300 -30,-250 30,-250" fill="#3CFF8F"/><text y="300" font-family="Mono" font-size="24" fill="#3CFF8F" text-anchor="middle">LANDING DIRECTION 299°T</text></g>
+    <g transform="rotate(190)"><line x1="0" y1="-330" x2="0" y2="-70" stroke="#FFB020" stroke-width="14"/><polygon points="0,-30 -30,-86 30,-86" fill="#FFB020"/></g>
+    <text x="40" y="250" font-family="Mono" font-weight="700" font-size="30" fill="#FFB020">WIND FROM 190°</text>
+  </svg>
+  <div style="position:absolute;left:980px;top:200px;width:800px">
+    <div class="k">RUNWAY 30 vs. REPORTED WIND (190° · 17 kt, gusts 26)</div>
+    <div class="row b" data-from="w8" style="margin-top:30px"><span class="m st" style="width:330px">CROSSWIND</span><span class="m gr">≈16 kt <span class="st">(gusts ≈25)</span></span></div>
+    <div class="row b" data-from="w8"><span class="m st" style="width:330px">TAILWIND</span><span class="m am">≈5–6 kt <span class="st">(gusts ≈8–9)</span></span></div>
+    <div class="tag am" data-from="w8" style="margin-top:26px;border-color:rgba(255,176,32,.6)">OUR CALCULATION FROM REPORTED WIND · NOT NTSB</div>
+    <div class="b" data-from="w8" style="margin-top:26px;font-size:32px">NTSB cites the FAA rule that applies <span class="gr">when a tailwind component exists.</span></div>
+    <div class="b" data-from="w9" style="margin-top:26px;font-size:32px;color:#c8d2da">Tailwind → higher groundspeed → more runway needed to stop.</div>
+  </div>
+</div>
+<div class="card" id="c_speeds">
+  <div style="position:absolute;left:150px;top:150px;width:1620px">
+    <div class="k">TWO SPEEDS</div>
+    <div style="margin-top:60px">
+      <div class="m st" style="font-size:24px">AIRSPEED — through the air</div>
+      <div style="height:70px;width:900px;background:#3CFF8F;margin-top:10px;border-radius:3px"></div>
+      <div data-from="g2" style="margin-top:40px"><div class="m st" style="font-size:24px">GROUNDSPEED — over the runway, with a tailwind</div>
+        <div style="display:flex;margin-top:10px"><div style="height:70px;width:900px;background:#3CFF8F;border-radius:3px 0 0 3px"></div><div style="height:70px;width:140px;background:#FFB020;border-radius:0 3px 3px 0"></div><div class="m am" style="font-size:28px;margin:18px 0 0 20px">+ tailwind</div></div></div>
+    </div>
+    <div class="b" data-from="g2" style="margin-top:60px">Every landing speed in the NTSB report is a <span class="gr">groundspeed</span>.</div>
+    <div class="b" data-from="g3" style="margin-top:16px;color:#c8d2da">Airspeed and target approach speed: <span class="am">not stated in the preliminary report.</span></div>
+  </div>
+</div>
+<div class="card" id="c_atc">
+  <div style="position:absolute;left:150px;top:110px;width:1620px">
+    <div class="k">AIR TRAFFIC CONTROL · MIA TOWER, LOCAL CONTROL SOUTH</div>
+    <div class="h" style="font-size:84px;margin-top:14px">Cleared to land — no wind given</div>
+    <div class="b" style="margin-top:34px">
+      <div class="row"><span class="m am" style="width:220px">≈13:49</span>Landing clearance, ≈12 NM from the runway</div>
+      <div class="row"><span class="m st" style="width:220px">WIND INFO</span><span class="rd m">NOT ISSUED</span> <span class="st" style="font-size:28px">(NTSB)</span></div>
+      <div class="row" data-from="t4"><span class="m st" style="width:220px">FAA RULE</span>Order JO 7110.65BB: state wind direction and velocity when authorizing a runway with a tailwind component</div>
+      <div class="row" data-from="t5"><span class="m am" style="width:220px">≈4 MIN EARLIER</span>To another flight: <span class="gr m">190° · 19 kt · gusts 22</span> — 7598 not on that frequency</div>
+    </div>
+    <div class="src" style="margin-top:28px">Source: NTSB preliminary report · no finding of cause implied</div>
+  </div>
+</div>
+<div class="card" id="c_cvr">
+  <div style="position:absolute;left:120px;top:80px;width:1680px">
+    <div class="k">COCKPIT VOICE RECORDER · SELECT EVENTS · TIME TO END OF RECORDING</div>
+    <div class="src" style="margin-top:8px">NTSB summary — not a transcript · times approximate · preliminary</div>
+    <div id="cvrlist" style="margin-top:26px;height:820px;overflow:hidden;position:relative"><div id="cvrin" style="position:absolute;left:0;right:0;top:0"></div></div>
+  </div>
+</div>
+<div class="card" id="c_stable">
+  <div style="position:absolute;left:150px;top:130px;width:1620px">
+    <div class="k">INDUSTRY GUIDANCE · FLIGHT SAFETY FOUNDATION (ALAR)</div>
+    <div class="h" style="font-size:96px;margin-top:14px">The stabilized approach</div>
+    <div class="b" style="margin-top:36px">
+      <div class="row"><span class="m am" style="width:330px">1,000 FT</span>by this height in instrument conditions</div>
+      <div class="row"><span class="m am" style="width:330px">500 FT</span>by this height in visual conditions</div>
+      <div class="row"><span class="m st" style="width:330px">MEANS</span>correct flight path · speed within a set range · landing configuration · descent ≤ ~1,000 ft/min</div>
+      <div class="row"><span class="m st" style="width:330px">IF NOT</span><span class="gr">go around</span></div>
+    </div>
+    <div class="tag st" data-from="s4" style="margin-top:30px;border-color:rgba(126,138,150,.5)">21 AIR'S OWN CRITERIA ARE NOT IN THE PRELIMINARY REPORT</div>
+  </div>
+</div>
+<div class="card" id="c_decel">
+  <svg width="1920" height="1080" style="position:absolute;inset:0">
+    <g transform="translate(260,420)">
+      <path d="M0 60 L1100 60 Q1160 60 1180 80 L1100 100 L0 100 Q-30 80 0 60Z" fill="#c9d1dc"/>
+      <path d="M300 60 L760 20 L800 20 L640 60Z" fill="#dfe5ec"/>
+      <g id="spl" transform="rotate(0 560 40)"><rect x="520" y="34" width="120" height="10" fill="#3CFF8F"/></g>
+      <rect x="420" y="96" width="160" height="44" rx="20" fill="#9aa5b5"/>
+      <g id="rev" opacity="0"><path d="M440 100 L360 60 M440 130 L360 170" stroke="#FFB020" stroke-width="10" fill="none"/><polygon points="350,55 380,58 368,82" fill="#FFB020"/><polygon points="350,175 380,172 368,148" fill="#FFB020"/></g>
+      <circle cx="520" cy="190" r="34" fill="#222"/><circle cx="1020" cy="190" r="26" fill="#222"/>
+      <line x1="520" y1="100" x2="520" y2="160" stroke="#6b7586" stroke-width="12"/><line x1="1020" y1="100" x2="1020" y2="165" stroke="#6b7586" stroke-width="10"/>
+      <line x1="-200" y1="226" x2="1400" y2="226" stroke="#2b3442" stroke-width="4"/>
+    </g>
+  </svg>
+  <div class="k" style="position:absolute;left:150px;top:110px">HOW A JET LIKE THIS NORMALLY STOPS · SIMPLIFIED</div>
+  <div style="position:absolute;left:150px;top:720px;width:1620px;display:flex;gap:30px">
+    <div class="pan" data-from="d2" style="flex:1;padding:22px"><div class="h gr" style="font-size:44px">Ground spoilers</div><div class="b" style="font-size:26px">dump lift → weight on wheels · add drag</div><div class="m rd" data-from="d5" style="font-size:22px;margin-top:10px">7598: STOWED (FDR)</div></div>
+    <div class="pan" data-from="d2" style="flex:1;padding:22px"><div class="h am" style="font-size:44px">Thrust reversers</div><div class="b" style="font-size:26px">redirect thrust forward · most useful at high speed</div><div class="m rd" data-from="d5" style="font-size:22px;margin-top:10px">7598: NOT DEPLOYED (FDR)</div></div>
+    <div class="pan" data-from="d2" style="flex:1;padding:22px"><div class="h" style="font-size:44px">Wheel brakes</div><div class="b" style="font-size:26px">friction · need weight on the wheels</div><div class="m am" data-from="d5" style="font-size:22px;margin-top:10px">7598: APPLIED AT 146 KT</div></div>
+  </div>
+</div>
+<div class="card" id="c_emas">
+  <svg width="1920" height="1080" style="position:absolute;inset:0">
+    <defs><pattern id="hat" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="24" stroke="#FFB020" stroke-width="6"/></pattern></defs>
+    <rect x="120" y="470" width="1000" height="150" fill="#2b3442"/>
+    <g fill="#EEF2F4"><rect x="1040" y="490" width="60" height="12"/><rect x="1040" y="520" width="60" height="12"/><rect x="1040" y="560" width="60" height="12"/><rect x="1040" y="590" width="60" height="12"/></g>
+    <rect x="1120" y="470" width="140" height="150" fill="#1d2430" stroke="#7E8A96" stroke-dasharray="8 6"/>
+    <rect id="emasbed" x="1270" y="470" width="420" height="150" fill="url(#hat)" opacity=".85"/>
+    <text x="620" y="560" fill="#7E8A96" font-family="Mono" font-size="28" text-anchor="middle">RUNWAY</text>
+    <text x="1190" y="660" fill="#7E8A96" font-family="Mono" font-size="22" text-anchor="middle">BLAST PAD</text>
+    <text x="1480" y="660" fill="#FFB020" font-family="Mono" font-weight="700" font-size="24" text-anchor="middle">EMAS BED (EXAMPLE)</text>
+  </svg>
+  <div class="k" style="position:absolute;left:150px;top:110px">ENGINEERED MATERIALS ARRESTING SYSTEM · ILLUSTRATION</div>
+  <div class="h" style="position:absolute;left:150px;top:160px;font-size:84px">Crushable material past the runway end</div>
+  <div class="tag rd" data-from="e1" style="position:absolute;left:150px;top:760px;border-color:rgba(255,46,46,.6);font-size:24px">NOT INSTALLED AT THE END OF RUNWAY 30 (NTSB)</div>
+  <div class="b" data-from="e3" style="position:absolute;left:150px;top:840px;width:1600px;font-size:32px;color:#c8d2da">The NTSB has not said whether EMAS would have changed the outcome.</div>
+</div>
+<div class="card" id="c_open">
+  <div style="position:absolute;left:150px;top:100px;width:1620px">
+    <div class="k">STILL UNKNOWN · OPEN QUESTIONS, NOT FINDINGS</div>
+    <div class="b" style="margin-top:30px;font-size:36px">
+      <div class="row" data-from="q2"><span class="h gr" style="font-size:50px;width:60px">?</span>Airspeed and target speed on final; how the wind changed</div>
+      <div class="row" data-from="q3"><span class="h gr" style="font-size:50px;width:60px">?</span>Why touchdown came ≈3,750 ft down; the weight-on-wheels switching</div>
+      <div class="row" data-from="q4"><span class="h gr" style="font-size:50px;width:60px">?</span>Why speed brakes stayed stowed and reversers did not deploy</div>
+      <div class="row" data-from="q5"><span class="h gr" style="font-size:50px;width:60px">?</span>The go-around call after touchdown, then braking again</div>
+      <div class="row" data-from="q6"><span class="h gr" style="font-size:50px;width:60px">?</span>Flaps: 30 called on the CVR, 25 found in the cockpit</div>
+      <div class="row" data-from="q7"><span class="h gr" style="font-size:50px;width:60px">?</span>Role, if any, of no wind info in the landing clearance, and of no EMAS</div>
+    </div>
+    <div class="tag am" data-from="q8" style="margin-top:28px;border-color:rgba(255,176,32,.6)">PROBABLE CAUSE: EXPECTED IN THE NTSB FINAL REPORT</div>
+  </div>
+</div>
+<div class="card" id="c_status">
+  <div style="position:absolute;left:150px;top:200px;width:1000px">
+    <div class="k">STATUS · NOV 2026</div>
+    <div class="m" style="font-size:36px;line-height:2;margin-top:20px">
+      <div>INVESTIGATION &nbsp;<span class="gr">ONGOING</span></div>
+      <div>PRELIMINARY &nbsp;&nbsp;&nbsp;<span class="gr">PUBLISHED</span></div>
+      <div>PROBABLE CAUSE <span class="am">NOT YET</span></div>
+      <div>NTSB TARGET &nbsp;&nbsp;&nbsp;<span class="am">GENERALLY 12–24 MONTHS</span></div></div>
+  </div>
+  <svg width="560" height="560" viewBox="-280 -280 560 560" style="position:absolute;right:170px;top:200px">
+    <circle r="250" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="170" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="90" fill="none" stroke="#1f3a2d" stroke-width="3"/>
+    <g id="sweep"><path d="M0 0 L0 -250 A250 250 0 0 1 120 -219 Z" fill="rgba(60,255,143,.18)"/></g>
+    <g fill="#3CFF8F"><circle cx="-200" cy="120" r="10"/><circle cx="-140" cy="80" r="10"/><circle cx="-80" cy="40" r="10"/><circle cx="-20" cy="0" r="10"/><circle cx="40" cy="-40" r="10"/></g>
+    <line x1="40" y1="-40" x2="120" y2="-95" stroke="#3CFF8F" stroke-width="4" stroke-dasharray="8 8"/>
+    <circle cx="130" cy="-100" r="34" fill="none" stroke="#FF2E2E" stroke-width="4" stroke-dasharray="8 6"/>
+    <path d="M114 -116 L146 -84 M146 -116 L114 -84" stroke="#FF2E2E" stroke-width="7"/>
+  </svg>
+  <div style="position:absolute;right:170px;top:790px;width:560px;text-align:center" class="h"><span style="font-size:86px">LAST </span><span class="gr" style="font-size:86px">CONTACT</span></div>
+  <div class="src" style="position:absolute;left:150px;bottom:70px">Independent channel · not affiliated with the NTSB, FAA or any airline · NTSB/FAA documents are U.S. government works</div>
+</div>
+
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js"}}</script>
+<script type="module" src="scene.js"></script>
+</body></html>
