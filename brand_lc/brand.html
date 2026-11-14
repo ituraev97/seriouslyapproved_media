@@ -1,0 +1,39 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Barlow;font-weight:800;src:url(../pipeline/node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-800-normal.woff2)}
+@font-face{font-family:Barlow;font-weight:600;src:url(../pipeline/node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff2)}
+@font-face{font-family:Mono;font-weight:500;src:url(../pipeline/node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-500-normal.woff2)}
+@font-face{font-family:Mono;font-weight:700;src:url(../pipeline/node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-700-normal.woff2)}
+:root{--night:#070B10;--scope:#0E1A16;--green:#3CFF8F;--amber:#FFB020;--red:#FF2E2E;--white:#EEF2F4;--steel:#7E8A96}
+*{margin:0;padding:0;box-sizing:border-box}body{background:transparent}
+.art{position:relative;overflow:hidden}
+</style></head><body><div id="root"></div>
+<script>
+// RADAR MARK: scope circle, range rings, sweep wedge, a dotted track of blips that ends in a red X = the last contact.
+function mark(s,{bg=true,sweep=true}={}){const r=s/2;return `<svg width="${s}" height="${s}" viewBox="0 0 200 200">
+<defs><radialGradient id="g" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#12261D"/><stop offset="1" stop-color="#060A0D"/></radialGradient>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3CFF8F" stop-opacity="0"/><stop offset="1" stop-color="#3CFF8F" stop-opacity=".55"/></linearGradient>
+<clipPath id="c"><circle cx="100" cy="100" r="92"/></clipPath></defs>
+${bg?'<circle cx="100" cy="100" r="96" fill="url(#g)" stroke="#3CFF8F" stroke-width="4"/>':''}
+<g clip-path="url(#c)" fill="none" stroke="#3CFF8F" stroke-opacity=".35" stroke-width="1.6"><circle cx="100" cy="100" r="30"/><circle cx="100" cy="100" r="60"/><circle cx="100" cy="100" r="90"/><path d="M100 4V196M4 100H196"/></g>
+${sweep?'<path d="M100 100 L100 8 A92 92 0 0 1 165 35 Z" fill="url(#sw)" clip-path="url(#c)" transform="rotate(20 100 100)"/>':''}
+<g fill="#3CFF8F"><circle cx="40" cy="146" r="4.2" opacity=".35"/><circle cx="58" cy="128" r="4.6" opacity=".5"/><circle cx="77" cy="111" r="5" opacity=".7"/><circle cx="97" cy="96" r="5.6" opacity=".9"/><circle cx="118" cy="84" r="6.4"/></g>
+<path d="M118 84 L136 72" stroke="#3CFF8F" stroke-width="3" stroke-dasharray="3 5" stroke-linecap="round"/>
+<g stroke="#FF2E2E" stroke-width="8" stroke-linecap="round"><path d="M138 54 L162 78M162 54 L138 78"/></g>
+<circle cx="150" cy="66" r="22" fill="none" stroke="#FF2E2E" stroke-width="3" stroke-dasharray="5 4"/></svg>`}
+function wordmark(h,color='#EEF2F4'){return `<div style="display:inline-flex;align-items:center;gap:${h*.28}px">${mark(h*1.15)}<div style="font:800 ${h}px/0.86 Barlow;letter-spacing:.02em;color:${color}">LAST<br><span style="color:#3CFF8F">CONTACT</span></div></div>`}
+const V={
+ avatar:()=>`<div class="art" style="width:800px;height:800px;background:#070B10;display:flex;align-items:center;justify-content:center">${mark(700)}</div>`,
+ logo:()=>`<div class="art" style="display:inline-block;padding:30px">${wordmark(170)}</div>`,
+ logo_dark:()=>`<div class="art" style="display:inline-block;padding:30px">${wordmark(170,'#070B10')}</div>`,
+ watermark:()=>`<div class="art" style="width:300px;height:300px;display:flex;align-items:center;justify-content:center">${mark(290)}</div>`,
+ banner:()=>`<div class="art" style="width:2560px;height:1440px;background:radial-gradient(60% 80% at 50% 50%,#10221A,#070B10 70%)">
+  <svg width="2560" height="1440" style="position:absolute;inset:0" fill="none" stroke="#3CFF8F" stroke-opacity=".12" stroke-width="2">
+   ${[160,320,480,640,800,960].map(r=>`<circle cx="1280" cy="720" r="${r}"/>`).join('')}<path d="M0 720H2560M1280 0V1440"/></svg>
+  <div style="position:absolute;left:507px;top:508px;width:1546px;height:423px;display:flex;align-items:center;justify-content:center;gap:70px">
+   ${mark(360)}<div><div style="font:800 190px/.86 Barlow;color:#EEF2F4;letter-spacing:.02em">LAST <span style="color:#3CFF8F">CONTACT</span></div>
+   <div style="font:500 40px Mono;color:#EEF2F4;opacity:.85;margin-top:22px;letter-spacing:.04em">Every crash leaves a record.</div>
+   <div style="font:700 30px Mono;color:#FFB020;margin-top:14px;letter-spacing:.06em">NEW CRASH BREAKDOWNS · NTSB FILES · LAST SECONDS</div></div></div></div>`,
+ tiktok_bg:()=>`<div class="art" style="width:1080px;height:1920px;background:#070B10"></div>`
+};
+window.render=k=>{document.getElementById('root').innerHTML=V[k]();return document.fonts.ready.then(()=>true)};
+</script></body></html>
