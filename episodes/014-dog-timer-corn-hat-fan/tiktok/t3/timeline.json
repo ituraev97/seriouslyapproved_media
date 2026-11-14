@@ -1,0 +1,627 @@
+{
+ "T": 65.78,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.12,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.953
+    ],
+    [
+     3.453,
+     4.669
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE FAN",
+     108,
+     234,
+     40,
+     -170
+    ]
+   ]
+  },
+  {
+   "t0": 5.12,
+   "t1": 16.119,
+   "i": 1,
+   "segs": [
+    [
+     5.12,
+     11.114
+    ],
+    [
+     11.394,
+     15.768
+    ]
+   ],
+   "g": "title",
+   "kicker": "NEWS",
+   "title": "SONY: A NECKBAND|THAT BLOWS AIR",
+   "lines": [
+    "Patent application US 2026/0357800 A1",
+    "published Nov. 12, 2026 \u00b7 via Patentlyze"
+   ]
+  },
+  {
+   "t0": 16.119,
+   "t1": 24.643,
+   "i": 2,
+   "segs": [
+    [
+     16.119,
+     19.511
+    ],
+    [
+     19.791,
+     24.292
+    ]
+   ],
+   "g": "title",
+   "kicker": "NEWS",
+   "title": "SONY: A NECKBAND|THAT BLOWS AIR",
+   "lines": [
+    "Door opens: front blowers",
+    "Enemy behind: stronger puffs"
+   ]
+  },
+  {
+   "t0": 24.643,
+   "t1": 29.099,
+   "i": 3,
+   "segs": [
+    [
+     24.643,
+     25.475
+    ],
+    [
+     25.895,
+     27.452
+    ],
+    [
+     27.872,
+     28.598
+    ]
+   ],
+   "g": "stamp",
+   "title": "HAT-MOUNTED|FAN",
+   "filed": "SEP. 4, 1992",
+   "date": "JUNE 20, 1995",
+   "at": 0.6
+  },
+  {
+   "t0": 29.099,
+   "t1": 35.255,
+   "i": 4,
+   "segs": [
+    [
+     29.099,
+     30.805
+    ],
+    [
+     31.085,
+     34.904
+    ]
+   ],
+   "g": "quote",
+   "q": "Such a fan is held in the user's hand and therefore that hand is occupied during such use, leaving only one hand free for normal use.",
+   "hit": "only one hand free",
+   "src": "US 5,425,620 \u00b7 col. 1"
+  },
+  {
+   "t0": 35.255,
+   "t1": 41.878,
+   "i": 5,
+   "segs": [
+    [
+     35.255,
+     41.527
+    ]
+   ],
+   "g": "quote",
+   "q": "Furthermore, some degree of concentration is needed to maintain the direction of air-flow towards the face",
+   "hit": "some degree of concentration",
+   "src": "US 5,425,620 \u00b7 col. 1"
+  },
+  {
+   "t0": 41.878,
+   "t1": 48.29,
+   "i": 6,
+   "segs": [
+    [
+     41.878,
+     42.667
+    ],
+    [
+     42.947,
+     47.939
+    ]
+   ],
+   "g": "quote",
+   "q": "To prepare a hat for use with a fan unit a hole 5 is first cut in the peak or brim.",
+   "hit": "a hole 5 is first cut",
+   "src": "US 5,425,620 \u00b7 col. 3"
+  },
+  {
+   "t0": 48.29,
+   "t1": 54.145,
+   "i": 7,
+   "segs": [
+    [
+     48.29,
+     53.794
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat7",
+   "figno": "7",
+   "draw": false,
+   "calls": [
+    [
+     "THE FAN UNIT",
+     300,
+     120,
+     -40,
+     -60
+    ]
+   ]
+  },
+  {
+   "t0": 54.145,
+   "t1": 57.718,
+   "i": 8,
+   "segs": [
+    [
+     54.145,
+     57.367
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat9",
+   "figno": "9",
+   "draw": false,
+   "calls": [
+    [
+     "FAN ON TOP",
+     252,
+     45,
+     60,
+     -30
+    ],
+    [
+     "SOLAR PANEL",
+     153,
+     369,
+     60,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 57.718,
+   "t1": 65.78,
+   "i": 9,
+   "segs": [
+    [
+     57.718,
+     59.851
+    ],
+    [
+     60.251,
+     61.68
+    ],
+    [
+     62.08,
+     62.827
+    ]
+   ],
+   "g": "stamp",
+   "title": "HAT-MOUNTED|FAN",
+   "filed": "SEP. 4, 1992",
+   "date": "JUNE 20, 1995",
+   "at": 0.2,
+   "big": true,
+   "hook": "APPROVED|OR [DENIED]?"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.429,
+   "txt": "Before Sony's air"
+  },
+  {
+   "t0": 1.429,
+   "t1": 2.0,
+   "txt": "neckband,"
+  },
+  {
+   "t0": 2.0,
+   "t1": 2.953,
+   "txt": "there was this."
+  },
+  {
+   "t0": 3.453,
+   "t1": 4.025,
+   "txt": "A fan on"
+  },
+  {
+   "t0": 4.025,
+   "t1": 4.669,
+   "txt": "your hat."
+  },
+  {
+   "t0": 5.12,
+   "t1": 6.052,
+   "txt": "Just days ago,"
+  },
+  {
+   "t0": 6.052,
+   "t1": 7.717,
+   "txt": "Sony's patent application"
+  },
+  {
+   "t0": 7.717,
+   "t1": 8.65,
+   "txt": "for a neckband"
+  },
+  {
+   "t0": 8.65,
+   "t1": 9.582,
+   "txt": "that blows air"
+  },
+  {
+   "t0": 9.582,
+   "t1": 10.448,
+   "txt": "at gamers was"
+  },
+  {
+   "t0": 10.448,
+   "t1": 11.114,
+   "txt": "published."
+  },
+  {
+   "t0": 11.394,
+   "t1": 11.917,
+   "txt": "A row of"
+  },
+  {
+   "t0": 11.917,
+   "t1": 13.091,
+   "txt": "tiny blowers lines"
+  },
+  {
+   "t0": 13.091,
+   "t1": 13.679,
+   "txt": "the band,"
+  },
+  {
+   "t0": 13.679,
+   "t1": 14.527,
+   "txt": "aimed at your"
+  },
+  {
+   "t0": 14.527,
+   "t1": 14.854,
+   "txt": "neck,"
+  },
+  {
+   "t0": 14.854,
+   "t1": 15.768,
+   "txt": "face and head."
+  },
+  {
+   "t0": 16.119,
+   "t1": 16.872,
+   "txt": "A door opens"
+  },
+  {
+   "t0": 16.872,
+   "t1": 17.626,
+   "txt": "in the game,"
+  },
+  {
+   "t0": 17.626,
+   "t1": 18.317,
+   "txt": "and the two"
+  },
+  {
+   "t0": 18.317,
+   "t1": 19.511,
+   "txt": "front blowers fire."
+  },
+  {
+   "t0": 19.791,
+   "t1": 20.716,
+   "txt": "An enemy sneaks"
+  },
+  {
+   "t0": 20.716,
+   "t1": 21.641,
+   "txt": "up from behind,"
+  },
+  {
+   "t0": 21.641,
+   "t1": 22.442,
+   "txt": "and the puffs"
+  },
+  {
+   "t0": 22.442,
+   "t1": 23.429,
+   "txt": "get stronger and"
+  },
+  {
+   "t0": 23.429,
+   "t1": 24.292,
+   "txt": "more frequent."
+  },
+  {
+   "t0": 24.643,
+   "t1": 25.475,
+   "txt": "Approved."
+  },
+  {
+   "t0": 25.895,
+   "t1": 27.452,
+   "txt": "Nineteen ninety-five."
+  },
+  {
+   "t0": 27.872,
+   "t1": 28.598,
+   "txt": "The hat."
+  },
+  {
+   "t0": 29.099,
+   "t1": 29.746,
+   "txt": "The hat had"
+  },
+  {
+   "t0": 29.746,
+   "t1": 30.805,
+   "txt": "a simpler problem."
+  },
+  {
+   "t0": 31.085,
+   "t1": 32.146,
+   "txt": "A hand-held fan"
+  },
+  {
+   "t0": 32.146,
+   "t1": 33.207,
+   "txt": "leaves only one"
+  },
+  {
+   "t0": 33.207,
+   "t1": 34.126,
+   "txt": "hand free for"
+  },
+  {
+   "t0": 34.126,
+   "t1": 34.904,
+   "txt": "normal use."
+  },
+  {
+   "t0": 35.255,
+   "t1": 35.585,
+   "txt": "Also,"
+  },
+  {
+   "t0": 35.585,
+   "t1": 36.509,
+   "txt": "some degree of"
+  },
+  {
+   "t0": 36.509,
+   "t1": 38.028,
+   "txt": "concentration is needed"
+  },
+  {
+   "t0": 38.028,
+   "t1": 39.018,
+   "txt": "to maintain the"
+  },
+  {
+   "t0": 39.018,
+   "t1": 40.405,
+   "txt": "direction of air-flow"
+  },
+  {
+   "t0": 40.405,
+   "t1": 41.527,
+   "txt": "towards the face."
+  },
+  {
+   "t0": 41.878,
+   "t1": 42.667,
+   "txt": "Step one."
+  },
+  {
+   "t0": 42.947,
+   "t1": 43.746,
+   "txt": "To prepare a"
+  },
+  {
+   "t0": 43.746,
+   "t1": 44.478,
+   "txt": "hat for use"
+  },
+  {
+   "t0": 44.478,
+   "t1": 45.144,
+   "txt": "with a fan"
+  },
+  {
+   "t0": 45.144,
+   "t1": 45.477,
+   "txt": "unit,"
+  },
+  {
+   "t0": 45.477,
+   "t1": 46.076,
+   "txt": "a hole is"
+  },
+  {
+   "t0": 46.076,
+   "t1": 46.874,
+   "txt": "first cut in"
+  },
+  {
+   "t0": 46.874,
+   "t1": 47.607,
+   "txt": "the peak or"
+  },
+  {
+   "t0": 47.607,
+   "t1": 47.939,
+   "txt": "brim."
+  },
+  {
+   "t0": 48.29,
+   "t1": 49.085,
+   "txt": "The fan's two"
+  },
+  {
+   "t0": 49.085,
+   "t1": 50.247,
+   "txt": "clamping rings snap"
+  },
+  {
+   "t0": 50.247,
+   "t1": 51.47,
+   "txt": "together through the"
+  },
+  {
+   "t0": 51.47,
+   "t1": 51.776,
+   "txt": "brim,"
+  },
+  {
+   "t0": 51.776,
+   "t1": 52.694,
+   "txt": "and the battery"
+  },
+  {
+   "t0": 52.694,
+   "t1": 53.427,
+   "txt": "rides in the"
+  },
+  {
+   "t0": 53.427,
+   "t1": 53.794,
+   "txt": "crown."
+  },
+  {
+   "t0": 54.145,
+   "t1": 54.803,
+   "txt": "Or put the"
+  },
+  {
+   "t0": 54.803,
+   "t1": 55.526,
+   "txt": "fan on top,"
+  },
+  {
+   "t0": 55.526,
+   "t1": 56.249,
+   "txt": "and a solar"
+  },
+  {
+   "t0": 56.249,
+   "t1": 57.038,
+   "txt": "panel on the"
+  },
+  {
+   "t0": 57.038,
+   "t1": 57.367,
+   "txt": "brim."
+  },
+  {
+   "t0": 57.718,
+   "t1": 58.408,
+   "txt": "Fan on your"
+  },
+  {
+   "t0": 58.408,
+   "t1": 58.659,
+   "txt": "hat,"
+  },
+  {
+   "t0": 58.659,
+   "t1": 59.224,
+   "txt": "or air on"
+  },
+  {
+   "t0": 59.224,
+   "t1": 59.851,
+   "txt": "your neck?"
+  },
+  {
+   "t0": 60.251,
+   "t1": 61.68,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 62.08,
+   "t1": 62.827,
+   "txt": "Comment."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.12
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 16.119
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 24.643
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 29.099
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 35.255
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 41.878
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 48.29
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 54.145
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 57.718
+  }
+ ],
+ "hook": "A FAN ON|YOUR [HAT]",
+ "hook2": "HAT-MOUNTED|[FAN] \u00b7 1995",
+ "hookSwitch": 3,
+ "num": "US 5,425,620",
+ "tt": true
+}

@@ -1,0 +1,684 @@
+{
+ "T": 70.17,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.333,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.377
+    ],
+    [
+     2.877,
+     4.882
+    ]
+   ],
+   "g": "fig",
+   "fig": "pet1a",
+   "figno": "1A",
+   "draw": false,
+   "calls": [
+    [
+     "THE TIMER",
+     306,
+     375,
+     120,
+     170
+    ],
+    [
+     "IT BEEPS",
+     315,
+     60,
+     110,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 5.333,
+   "t1": 14.324,
+   "i": 1,
+   "segs": [
+    [
+     5.333,
+     13.973
+    ]
+   ],
+   "g": "quote",
+   "q": "one cannot tell a dog to be back in twenty minutes, let the dog out and expect it to return at the desired time.",
+   "hit": "be back in twenty minutes",
+   "src": "US 4,785,433 \u00b7 col. 1"
+  },
+  {
+   "t0": 14.324,
+   "t1": 20.892,
+   "i": 2,
+   "segs": [
+    [
+     14.324,
+     15.156
+    ],
+    [
+     15.576,
+     18.221
+    ],
+    [
+     18.641,
+     20.391
+    ]
+   ],
+   "g": "stamp",
+   "title": "PET WATCH|PROCESS AND CIRCUIT",
+   "filed": "JAN. 19, 1988",
+   "date": "NOV. 15, 1988",
+   "at": 0.6
+  },
+  {
+   "t0": 20.892,
+   "t1": 26.299,
+   "i": 3,
+   "segs": [
+    [
+     20.892,
+     25.948
+    ]
+   ],
+   "g": "quote",
+   "q": "One of the features of the timer of the present invention is that it is both rugged and waterproof.",
+   "hit": "rugged and waterproof",
+   "src": "US 4,785,433 \u00b7 col. 1"
+  },
+  {
+   "t0": 26.299,
+   "t1": 33.14,
+   "i": 4,
+   "segs": [
+    [
+     26.299,
+     27.515
+    ],
+    [
+     27.795,
+     30.355
+    ],
+    [
+     30.635,
+     32.789
+    ]
+   ],
+   "g": "fig",
+   "fig": "pet1b",
+   "figno": "1B",
+   "draw": false,
+   "calls": [
+    [
+     "THE BUTTONS",
+     300,
+     60,
+     40,
+     100
+    ]
+   ]
+  },
+  {
+   "t0": 33.14,
+   "t1": 42.249,
+   "i": 5,
+   "segs": [
+    [
+     33.14,
+     34.911
+    ],
+    [
+     35.191,
+     38.562
+    ],
+    [
+     38.842,
+     39.482
+    ],
+    [
+     39.762,
+     40.978
+    ],
+    [
+     41.258,
+     41.898
+    ]
+   ],
+   "g": "fig",
+   "fig": "pet1a",
+   "figno": "1A",
+   "draw": false,
+   "calls": [
+    [
+     "TEST BUTTON",
+     315,
+     60,
+     110,
+     60
+    ]
+   ]
+  },
+  {
+   "t0": 42.249,
+   "t1": 47.274,
+   "i": 6,
+   "segs": [
+    [
+     42.249,
+     46.003
+    ],
+    [
+     46.283,
+     46.923
+    ]
+   ],
+   "g": "fig",
+   "fig": "pet1a",
+   "figno": "1A",
+   "draw": false,
+   "calls": [
+    [
+     "5 TO 10 MINUTES",
+     306,
+     375,
+     60,
+     170
+    ]
+   ]
+  },
+  {
+   "t0": 47.274,
+   "t1": 53.303,
+   "i": 7,
+   "segs": [
+    [
+     47.274,
+     48.618
+    ],
+    [
+     48.898,
+     52.952
+    ]
+   ],
+   "g": "quote",
+   "q": "The owner sets the timer for a short interval and lets the animal out.",
+   "hit": "lets the animal out",
+   "src": "US 4,785,433 \u00b7 col. 2"
+  },
+  {
+   "t0": 53.303,
+   "t1": 62.79,
+   "i": 8,
+   "segs": [
+    [
+     53.303,
+     54.22
+    ],
+    [
+     54.5,
+     60.687
+    ],
+    [
+     60.967,
+     62.439
+    ]
+   ],
+   "g": "quote",
+   "q": "the owner must maintain the conditioning by rewarding the animal every time it responds correctly",
+   "hit": "every time",
+   "src": "US 4,785,433 \u00b7 col. 2"
+  },
+  {
+   "t0": 62.79,
+   "t1": 70.17,
+   "i": 9,
+   "segs": [
+    [
+     62.79,
+     64.24
+    ],
+    [
+     64.64,
+     66.07
+    ],
+    [
+     66.47,
+     67.216
+    ]
+   ],
+   "g": "stamp",
+   "title": "PET WATCH|PROCESS AND CIRCUIT",
+   "filed": "JAN. 19, 1988",
+   "date": "NOV. 15, 1988",
+   "at": 0.2,
+   "big": true,
+   "hook": "APPROVED|OR [DENIED]?"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.161,
+   "txt": "Here's a timer"
+  },
+  {
+   "t0": 1.161,
+   "t1": 1.971,
+   "txt": "for your dog's"
+  },
+  {
+   "t0": 1.971,
+   "t1": 2.377,
+   "txt": "collar."
+  },
+  {
+   "t0": 2.877,
+   "t1": 3.754,
+   "txt": "When it beeps,"
+  },
+  {
+   "t0": 3.754,
+   "t1": 4.569,
+   "txt": "the dog comes"
+  },
+  {
+   "t0": 4.569,
+   "t1": 4.882,
+   "txt": "home."
+  },
+  {
+   "t0": 5.333,
+   "t1": 5.873,
+   "txt": "Because,"
+  },
+  {
+   "t0": 5.873,
+   "t1": 6.953,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 6.953,
+   "t1": 7.966,
+   "txt": "one cannot tell"
+  },
+  {
+   "t0": 7.966,
+   "t1": 8.506,
+   "txt": "a dog to"
+  },
+  {
+   "t0": 8.506,
+   "t1": 9.181,
+   "txt": "be back in"
+  },
+  {
+   "t0": 9.181,
+   "t1": 10.193,
+   "txt": "twenty minutes,"
+  },
+  {
+   "t0": 10.193,
+   "t1": 10.936,
+   "txt": "let the dog"
+  },
+  {
+   "t0": 10.936,
+   "t1": 11.881,
+   "txt": "out and expect"
+  },
+  {
+   "t0": 11.881,
+   "t1": 12.691,
+   "txt": "it to return"
+  },
+  {
+   "t0": 12.691,
+   "t1": 13.636,
+   "txt": "at the desired"
+  },
+  {
+   "t0": 13.636,
+   "t1": 13.973,
+   "txt": "time."
+  },
+  {
+   "t0": 14.324,
+   "t1": 15.156,
+   "txt": "Approved."
+  },
+  {
+   "t0": 15.576,
+   "t1": 16.802,
+   "txt": "November fifteenth,"
+  },
+  {
+   "t0": 16.802,
+   "t1": 18.221,
+   "txt": "nineteen eighty-eight."
+  },
+  {
+   "t0": 18.641,
+   "t1": 20.016,
+   "txt": "Thirty-eight years ago"
+  },
+  {
+   "t0": 20.016,
+   "t1": 20.391,
+   "txt": "today."
+  },
+  {
+   "t0": 20.892,
+   "t1": 21.508,
+   "txt": "It goes on"
+  },
+  {
+   "t0": 21.508,
+   "t1": 22.186,
+   "txt": "the collar,"
+  },
+  {
+   "t0": 22.186,
+   "t1": 22.803,
+   "txt": "and one of"
+  },
+  {
+   "t0": 22.803,
+   "t1": 23.728,
+   "txt": "its features is"
+  },
+  {
+   "t0": 23.728,
+   "t1": 24.345,
+   "txt": "that it is"
+  },
+  {
+   "t0": 24.345,
+   "t1": 25.269,
+   "txt": "both rugged and"
+  },
+  {
+   "t0": 25.269,
+   "t1": 25.948,
+   "txt": "waterproof."
+  },
+  {
+   "t0": 26.299,
+   "t1": 26.805,
+   "txt": "You set it"
+  },
+  {
+   "t0": 26.805,
+   "t1": 27.515,
+   "txt": "with a button."
+  },
+  {
+   "t0": 27.795,
+   "t1": 28.755,
+   "txt": "Each push adds,"
+  },
+  {
+   "t0": 28.755,
+   "t1": 29.523,
+   "txt": "for example,"
+  },
+  {
+   "t0": 29.523,
+   "t1": 30.355,
+   "txt": "five minutes."
+  },
+  {
+   "t0": 30.635,
+   "t1": 31.629,
+   "txt": "The battery should"
+  },
+  {
+   "t0": 31.629,
+   "t1": 32.237,
+   "txt": "last one to"
+  },
+  {
+   "t0": 32.237,
+   "t1": 32.789,
+   "txt": "two years."
+  },
+  {
+   "t0": 33.14,
+   "t1": 34.255,
+   "txt": "The training runs"
+  },
+  {
+   "t0": 34.255,
+   "t1": 34.911,
+   "txt": "on treats."
+  },
+  {
+   "t0": 35.191,
+   "t1": 35.559,
+   "txt": "First,"
+  },
+  {
+   "t0": 35.559,
+   "t1": 36.601,
+   "txt": "the owner presses"
+  },
+  {
+   "t0": 36.601,
+   "t1": 37.52,
+   "txt": "the test button"
+  },
+  {
+   "t0": 37.52,
+   "t1": 38.317,
+   "txt": "and calls the"
+  },
+  {
+   "t0": 38.317,
+   "t1": 38.562,
+   "txt": "pet."
+  },
+  {
+   "t0": 38.842,
+   "t1": 39.482,
+   "txt": "Treat."
+  },
+  {
+   "t0": 39.762,
+   "t1": 40.594,
+   "txt": "Then the beep"
+  },
+  {
+   "t0": 40.594,
+   "t1": 40.978,
+   "txt": "alone."
+  },
+  {
+   "t0": 41.258,
+   "t1": 41.898,
+   "txt": "Treat."
+  },
+  {
+   "t0": 42.249,
+   "t1": 43.14,
+   "txt": "Then the timer"
+  },
+  {
+   "t0": 43.14,
+   "t1": 43.84,
+   "txt": "goes on the"
+  },
+  {
+   "t0": 43.84,
+   "t1": 44.285,
+   "txt": "collar,"
+  },
+  {
+   "t0": 44.285,
+   "t1": 45.049,
+   "txt": "set for five"
+  },
+  {
+   "t0": 45.049,
+   "t1": 46.003,
+   "txt": "to ten minutes."
+  },
+  {
+   "t0": 46.283,
+   "t1": 46.923,
+   "txt": "Treat."
+  },
+  {
+   "t0": 47.274,
+   "t1": 48.245,
+   "txt": "And the final"
+  },
+  {
+   "t0": 48.245,
+   "t1": 48.618,
+   "txt": "exam."
+  },
+  {
+   "t0": 48.898,
+   "t1": 49.758,
+   "txt": "The owner sets"
+  },
+  {
+   "t0": 49.758,
+   "t1": 50.557,
+   "txt": "the timer for"
+  },
+  {
+   "t0": 50.557,
+   "t1": 51.539,
+   "txt": "a short interval"
+  },
+  {
+   "t0": 51.539,
+   "t1": 52.276,
+   "txt": "and lets the"
+  },
+  {
+   "t0": 52.276,
+   "t1": 52.952,
+   "txt": "animal out."
+  },
+  {
+   "t0": 53.303,
+   "t1": 54.22,
+   "txt": "One warning."
+  },
+  {
+   "t0": 54.5,
+   "t1": 55.421,
+   "txt": "The owner must"
+  },
+  {
+   "t0": 55.421,
+   "t1": 57.067,
+   "txt": "maintain the conditioning"
+  },
+  {
+   "t0": 57.067,
+   "t1": 58.12,
+   "txt": "by rewarding the"
+  },
+  {
+   "t0": 58.12,
+   "t1": 59.239,
+   "txt": "animal every time"
+  },
+  {
+   "t0": 59.239,
+   "t1": 60.687,
+   "txt": "it responds correctly."
+  },
+  {
+   "t0": 60.967,
+   "t1": 61.151,
+   "txt": "So,"
+  },
+  {
+   "t0": 61.151,
+   "t1": 62.132,
+   "txt": "the treats never"
+  },
+  {
+   "t0": 62.132,
+   "t1": 62.439,
+   "txt": "stop."
+  },
+  {
+   "t0": 62.79,
+   "t1": 63.636,
+   "txt": "Would your dog"
+  },
+  {
+   "t0": 63.636,
+   "t1": 64.24,
+   "txt": "come home?"
+  },
+  {
+   "t0": 64.64,
+   "t1": 66.07,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 66.47,
+   "t1": 67.216,
+   "txt": "Comment."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.333
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 14.324
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 20.892
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 26.299
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 33.14
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 42.249
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 47.274
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 53.303
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 62.79
+  }
+ ],
+ "hook": "A [TIMER]|FOR YOUR DOG",
+ "hook2": "COME-HOME|[ALARM] \u00b7 1988",
+ "hookSwitch": 2,
+ "num": "US 4,785,433",
+ "tt": true
+}

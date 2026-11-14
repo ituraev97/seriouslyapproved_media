@@ -1,0 +1,302 @@
+{
+ "T": 32.71,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 5.12,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.953
+    ],
+    [
+     3.453,
+     4.669
+    ]
+   ],
+   "g": "fig",
+   "fig": "hat1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE FAN",
+     108,
+     234,
+     40,
+     -170
+    ]
+   ]
+  },
+  {
+   "t0": 5.12,
+   "t1": 15.18,
+   "i": 1,
+   "segs": [
+    [
+     5.12,
+     11.114
+    ],
+    [
+     11.394,
+     14.829
+    ]
+   ],
+   "g": "title",
+   "kicker": "NEWS",
+   "title": "SONY: A NECKBAND|THAT BLOWS AIR",
+   "lines": [
+    "Patent application US 2026/0357800 A1",
+    "published Nov. 12, 2026 \u00b7 via Patentlyze"
+   ]
+  },
+  {
+   "t0": 15.18,
+   "t1": 21.336,
+   "i": 2,
+   "segs": [
+    [
+     15.18,
+     16.887
+    ],
+    [
+     17.167,
+     20.985
+    ]
+   ],
+   "g": "quote",
+   "q": "Such a fan is held in the user's hand and therefore that hand is occupied during such use, leaving only one hand free for normal use.",
+   "hit": "only one hand free",
+   "src": "US 5,425,620 \u00b7 col. 1"
+  },
+  {
+   "t0": 21.336,
+   "t1": 24.647,
+   "i": 3,
+   "segs": [
+    [
+     21.336,
+     22.168
+    ],
+    [
+     22.588,
+     24.146
+    ]
+   ],
+   "g": "stamp",
+   "title": "HAT-MOUNTED|FAN",
+   "filed": "SEP. 4, 1992",
+   "date": "JUNE 20, 1995",
+   "at": 0.6
+  },
+  {
+   "t0": 24.647,
+   "t1": 32.71,
+   "i": 4,
+   "segs": [
+    [
+     24.647,
+     26.78
+    ],
+    [
+     27.18,
+     28.609
+    ],
+    [
+     29.009,
+     29.756
+    ]
+   ],
+   "g": "stamp",
+   "title": "HAT-MOUNTED|FAN",
+   "filed": "SEP. 4, 1992",
+   "date": "JUNE 20, 1995",
+   "at": 0.2,
+   "big": true,
+   "hook": "APPROVED|OR [DENIED]?"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.429,
+   "txt": "Before Sony's air"
+  },
+  {
+   "t0": 1.429,
+   "t1": 2.0,
+   "txt": "neckband,"
+  },
+  {
+   "t0": 2.0,
+   "t1": 2.953,
+   "txt": "there was this."
+  },
+  {
+   "t0": 3.453,
+   "t1": 4.025,
+   "txt": "A fan on"
+  },
+  {
+   "t0": 4.025,
+   "t1": 4.669,
+   "txt": "your hat."
+  },
+  {
+   "t0": 5.12,
+   "t1": 6.052,
+   "txt": "Just days ago,"
+  },
+  {
+   "t0": 6.052,
+   "t1": 7.717,
+   "txt": "Sony's patent application"
+  },
+  {
+   "t0": 7.717,
+   "t1": 8.65,
+   "txt": "for a neckband"
+  },
+  {
+   "t0": 8.65,
+   "t1": 9.582,
+   "txt": "that blows air"
+  },
+  {
+   "t0": 9.582,
+   "t1": 10.448,
+   "txt": "at gamers was"
+  },
+  {
+   "t0": 10.448,
+   "t1": 11.114,
+   "txt": "published."
+  },
+  {
+   "t0": 11.394,
+   "t1": 12.192,
+   "txt": "When an enemy"
+  },
+  {
+   "t0": 12.192,
+   "t1": 13.05,
+   "txt": "sneaks up from"
+  },
+  {
+   "t0": 13.05,
+   "t1": 13.48,
+   "txt": "behind,"
+  },
+  {
+   "t0": 13.48,
+   "t1": 14.277,
+   "txt": "the puffs get"
+  },
+  {
+   "t0": 14.277,
+   "t1": 14.829,
+   "txt": "stronger."
+  },
+  {
+   "t0": 15.18,
+   "t1": 15.827,
+   "txt": "The hat had"
+  },
+  {
+   "t0": 15.827,
+   "t1": 16.887,
+   "txt": "a simpler problem."
+  },
+  {
+   "t0": 17.167,
+   "t1": 18.227,
+   "txt": "A hand-held fan"
+  },
+  {
+   "t0": 18.227,
+   "t1": 19.288,
+   "txt": "leaves only one"
+  },
+  {
+   "t0": 19.288,
+   "t1": 20.207,
+   "txt": "hand free for"
+  },
+  {
+   "t0": 20.207,
+   "t1": 20.985,
+   "txt": "normal use."
+  },
+  {
+   "t0": 21.336,
+   "t1": 22.168,
+   "txt": "Approved."
+  },
+  {
+   "t0": 22.588,
+   "t1": 24.146,
+   "txt": "Nineteen ninety-five."
+  },
+  {
+   "t0": 24.647,
+   "t1": 25.337,
+   "txt": "Fan on your"
+  },
+  {
+   "t0": 25.337,
+   "t1": 25.588,
+   "txt": "hat,"
+  },
+  {
+   "t0": 25.588,
+   "t1": 26.153,
+   "txt": "or air on"
+  },
+  {
+   "t0": 26.153,
+   "t1": 26.78,
+   "txt": "your neck?"
+  },
+  {
+   "t0": 27.18,
+   "t1": 28.609,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 29.009,
+   "t1": 29.756,
+   "txt": "Comment."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 5.12
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 15.18
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 21.336
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 24.647
+  }
+ ],
+ "hook": "A FAN ON|YOUR [HAT]",
+ "hook2": "HAT-MOUNTED|[FAN] \u00b7 1995",
+ "hookSwitch": 3,
+ "num": "US 5,425,620",
+ "tt": false
+}

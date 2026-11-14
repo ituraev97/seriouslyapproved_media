@@ -1,0 +1,674 @@
+{
+ "T": 72.55,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.601,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.739
+    ],
+    [
+     3.239,
+     4.967
+    ],
+    [
+     5.467,
+     6.15
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE CORN",
+     252,
+     708,
+     160,
+     220
+    ],
+    [
+     "THE MOTOR",
+     540,
+     300,
+     -40,
+     -160
+    ]
+   ]
+  },
+  {
+   "t0": 6.601,
+   "t1": 16.28,
+   "i": 1,
+   "segs": [
+    [
+     6.601,
+     11.657
+    ],
+    [
+     11.937,
+     14.348
+    ],
+    [
+     14.628,
+     15.929
+    ]
+   ],
+   "g": "title",
+   "kicker": "NEWS",
+   "title": "THANKSGIVING|DINNER: \u221217%",
+   "lines": [
+    "Turkey: \u221248%",
+    "Self Financial study,",
+    "via ConsumerAffairs, Nov. 11, 2026"
+   ]
+  },
+  {
+   "t0": 16.28,
+   "t1": 25.487,
+   "i": 2,
+   "segs": [
+    [
+     16.28,
+     19.821
+    ],
+    [
+     20.101,
+     25.136
+    ]
+   ],
+   "g": "quote",
+   "q": "results in an uneven coating and often the lack of a coating in certain areas.",
+   "hit": "the lack of a coating",
+   "src": "US 3,736,152 \u00b7 col. 1"
+  },
+  {
+   "t0": 25.487,
+   "t1": 28.84,
+   "i": 3,
+   "segs": [
+    [
+     25.487,
+     26.319
+    ],
+    [
+     26.739,
+     28.339
+    ]
+   ],
+   "g": "stamp",
+   "title": "METHOD OF|BUTTERING CORN EARS",
+   "filed": "MAR. 13, 1972",
+   "date": "MAY 29, 1973",
+   "at": 0.6
+  },
+  {
+   "t0": 28.84,
+   "t1": 34.828,
+   "i": 4,
+   "segs": [
+    [
+     28.84,
+     30.205
+    ],
+    [
+     30.485,
+     32.64
+    ],
+    [
+     32.92,
+     34.477
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn3",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "BUTTER",
+     684,
+     165,
+     -60,
+     -150
+    ],
+    [
+     "HOT WATER",
+     396,
+     400,
+     140,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 34.828,
+   "t1": 42.755,
+   "i": 5,
+   "segs": [
+    [
+     34.828,
+     37.218
+    ],
+    [
+     37.498,
+     42.404
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE RINGS",
+     180,
+     546,
+     -60,
+     -200
+    ],
+    [
+     "THE MOTOR",
+     540,
+     300,
+     -40,
+     -160
+    ]
+   ]
+  },
+  {
+   "t0": 42.755,
+   "t1": 51.282,
+   "i": 6,
+   "segs": [
+    [
+     42.755,
+     43.886
+    ],
+    [
+     44.166,
+     49.265
+    ],
+    [
+     49.545,
+     50.931
+    ]
+   ],
+   "g": "quote",
+   "q": "the thickness or quantity of the coating can be selectively controlled as desired",
+   "hit": "selectively controlled",
+   "src": "US 3,736,152 \u00b7 col. 1"
+  },
+  {
+   "t0": 51.282,
+   "t1": 58.143,
+   "i": 7,
+   "segs": [
+    [
+     51.282,
+     53.458
+    ],
+    [
+     53.738,
+     57.792
+    ]
+   ],
+   "g": "quote",
+   "q": "Any tendency of the ears to rotate within the rings is immaterial",
+   "hit": "immaterial",
+   "src": "US 3,736,152 \u00b7 col. 2"
+  },
+  {
+   "t0": 58.143,
+   "t1": 63.912,
+   "i": 8,
+   "segs": [
+    [
+     58.143,
+     63.561
+    ]
+   ],
+   "g": "quote",
+   "q": "the remaining butter congeals and may be readily recovered for reuse.",
+   "hit": "recovered for reuse",
+   "src": "US 3,736,152 \u00b7 col. 2"
+  },
+  {
+   "t0": 63.912,
+   "t1": 72.55,
+   "i": 9,
+   "segs": [
+    [
+     63.912,
+     66.622
+    ],
+    [
+     67.022,
+     68.451
+    ],
+    [
+     68.851,
+     69.598
+    ]
+   ],
+   "g": "stamp",
+   "title": "METHOD OF|BUTTERING CORN EARS",
+   "filed": "MAR. 13, 1972",
+   "date": "MAY 29, 1973",
+   "at": 0.2,
+   "big": true,
+   "hook": "APPROVED|OR [DENIED]?"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.642,
+   "txt": "This machine butters"
+  },
+  {
+   "t0": 1.642,
+   "t1": 2.481,
+   "txt": "your corn for"
+  },
+  {
+   "t0": 2.481,
+   "t1": 2.739,
+   "txt": "you."
+  },
+  {
+   "t0": 3.239,
+   "t1": 4.19,
+   "txt": "It's from a"
+  },
+  {
+   "t0": 4.19,
+   "t1": 4.967,
+   "txt": "real U.S."
+  },
+  {
+   "t0": 5.467,
+   "t1": 6.15,
+   "txt": "patent."
+  },
+  {
+   "t0": 6.601,
+   "t1": 7.974,
+   "txt": "Thanksgiving dinner is"
+  },
+  {
+   "t0": 7.974,
+   "t1": 9.41,
+   "txt": "about seventeen percent"
+  },
+  {
+   "t0": 9.41,
+   "t1": 10.533,
+   "txt": "cheaper this year,"
+  },
+  {
+   "t0": 10.533,
+   "t1": 11.345,
+   "txt": "one new study"
+  },
+  {
+   "t0": 11.345,
+   "t1": 11.657,
+   "txt": "says."
+  },
+  {
+   "t0": 11.937,
+   "t1": 12.741,
+   "txt": "Turkey alone is"
+  },
+  {
+   "t0": 12.741,
+   "t1": 13.919,
+   "txt": "down about forty-eight"
+  },
+  {
+   "t0": 13.919,
+   "t1": 14.348,
+   "txt": "percent."
+  },
+  {
+   "t0": 14.628,
+   "t1": 14.814,
+   "txt": "So,"
+  },
+  {
+   "t0": 14.814,
+   "t1": 15.495,
+   "txt": "spend it on"
+  },
+  {
+   "t0": 15.495,
+   "t1": 15.929,
+   "txt": "butter."
+  },
+  {
+   "t0": 16.28,
+   "t1": 17.039,
+   "txt": "Before this,"
+  },
+  {
+   "t0": 17.039,
+   "t1": 18.051,
+   "txt": "the patent says,"
+  },
+  {
+   "t0": 18.051,
+   "t1": 19.315,
+   "txt": "people buttered corn"
+  },
+  {
+   "t0": 19.315,
+   "t1": 19.821,
+   "txt": "by hand."
+  },
+  {
+   "t0": 20.101,
+   "t1": 21.121,
+   "txt": "Which results in"
+  },
+  {
+   "t0": 21.121,
+   "t1": 22.204,
+   "txt": "an uneven coating"
+  },
+  {
+   "t0": 22.204,
+   "t1": 23.033,
+   "txt": "and often the"
+  },
+  {
+   "t0": 23.033,
+   "t1": 23.606,
+   "txt": "lack of a"
+  },
+  {
+   "t0": 23.606,
+   "t1": 24.754,
+   "txt": "coating in certain"
+  },
+  {
+   "t0": 24.754,
+   "t1": 25.136,
+   "txt": "areas."
+  },
+  {
+   "t0": 25.487,
+   "t1": 26.319,
+   "txt": "Approved."
+  },
+  {
+   "t0": 26.739,
+   "t1": 28.339,
+   "txt": "Nineteen seventy-three."
+  },
+  {
+   "t0": 28.84,
+   "t1": 29.591,
+   "txt": "Here is how"
+  },
+  {
+   "t0": 29.591,
+   "t1": 30.205,
+   "txt": "it works."
+  },
+  {
+   "t0": 30.485,
+   "t1": 31.791,
+   "txt": "Melted butter floats"
+  },
+  {
+   "t0": 31.791,
+   "t1": 32.64,
+   "txt": "on hot water."
+  },
+  {
+   "t0": 32.92,
+   "t1": 33.764,
+   "txt": "A heater sits"
+  },
+  {
+   "t0": 33.764,
+   "t1": 34.477,
+   "txt": "underneath."
+  },
+  {
+   "t0": 34.828,
+   "t1": 35.586,
+   "txt": "Each ear sits"
+  },
+  {
+   "t0": 35.586,
+   "t1": 36.11,
+   "txt": "in a pair"
+  },
+  {
+   "t0": 36.11,
+   "t1": 36.751,
+   "txt": "of rings on"
+  },
+  {
+   "t0": 36.751,
+   "t1": 37.218,
+   "txt": "a shaft."
+  },
+  {
+   "t0": 37.498,
+   "t1": 38.326,
+   "txt": "A motor turns"
+  },
+  {
+   "t0": 38.326,
+   "t1": 38.963,
+   "txt": "the shaft,"
+  },
+  {
+   "t0": 38.963,
+   "t1": 39.728,
+   "txt": "and each ear"
+  },
+  {
+   "t0": 39.728,
+   "t1": 40.811,
+   "txt": "rolls through the"
+  },
+  {
+   "t0": 40.811,
+   "t1": 41.257,
+   "txt": "butter,"
+  },
+  {
+   "t0": 41.257,
+   "t1": 42.404,
+   "txt": "around and around."
+  },
+  {
+   "t0": 42.755,
+   "t1": 43.886,
+   "txt": "How much butter?"
+  },
+  {
+   "t0": 44.166,
+   "t1": 45.212,
+   "txt": "The thickness or"
+  },
+  {
+   "t0": 45.212,
+   "t1": 46.192,
+   "txt": "quantity of the"
+  },
+  {
+   "t0": 46.192,
+   "t1": 47.108,
+   "txt": "coating can be"
+  },
+  {
+   "t0": 47.108,
+   "t1": 48.742,
+   "txt": "selectively controlled as"
+  },
+  {
+   "t0": 48.742,
+   "t1": 49.265,
+   "txt": "desired."
+  },
+  {
+   "t0": 49.545,
+   "t1": 50.208,
+   "txt": "Just let it"
+  },
+  {
+   "t0": 50.208,
+   "t1": 50.931,
+   "txt": "spin longer."
+  },
+  {
+   "t0": 51.282,
+   "t1": 52.114,
+   "txt": "Does the corn"
+  },
+  {
+   "t0": 52.114,
+   "t1": 53.074,
+   "txt": "spin inside its"
+  },
+  {
+   "t0": 53.074,
+   "t1": 53.458,
+   "txt": "rings?"
+  },
+  {
+   "t0": 53.738,
+   "t1": 54.703,
+   "txt": "Any tendency of"
+  },
+  {
+   "t0": 54.703,
+   "t1": 55.411,
+   "txt": "the ears to"
+  },
+  {
+   "t0": 55.411,
+   "t1": 56.505,
+   "txt": "rotate within the"
+  },
+  {
+   "t0": 56.505,
+   "t1": 57.792,
+   "txt": "rings is immaterial."
+  },
+  {
+   "t0": 58.143,
+   "t1": 58.865,
+   "txt": "And when you"
+  },
+  {
+   "t0": 58.865,
+   "t1": 59.588,
+   "txt": "turn it off,"
+  },
+  {
+   "t0": 59.588,
+   "t1": 60.792,
+   "txt": "the remaining butter"
+  },
+  {
+   "t0": 60.792,
+   "t1": 61.755,
+   "txt": "congeals and may"
+  },
+  {
+   "t0": 61.755,
+   "t1": 62.959,
+   "txt": "be readily recovered"
+  },
+  {
+   "t0": 62.959,
+   "t1": 63.561,
+   "txt": "for reuse."
+  },
+  {
+   "t0": 63.912,
+   "t1": 64.759,
+   "txt": "A butter Ferris"
+  },
+  {
+   "t0": 64.759,
+   "t1": 65.549,
+   "txt": "wheel for your"
+  },
+  {
+   "t0": 65.549,
+   "t1": 66.622,
+   "txt": "Thanksgiving table."
+  },
+  {
+   "t0": 67.022,
+   "t1": 68.451,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 68.851,
+   "t1": 69.598,
+   "txt": "Comment."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.601
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 16.28
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 25.487
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 28.84
+  },
+  {
+   "f": "vo/006.wav",
+   "t": 34.828
+  },
+  {
+   "f": "vo/007.wav",
+   "t": 42.755
+  },
+  {
+   "f": "vo/008.wav",
+   "t": 51.282
+  },
+  {
+   "f": "vo/009.wav",
+   "t": 58.143
+  },
+  {
+   "f": "vo/010.wav",
+   "t": 63.912
+  }
+ ],
+ "hook": "A MACHINE THAT|BUTTERS [CORN]",
+ "hook2": "CORN BUTTER|[MACHINE] \u00b7 1973",
+ "hookSwitch": 3,
+ "num": "US 3,736,152",
+ "tt": true
+}

@@ -1,0 +1,331 @@
+{
+ "T": 32.33,
+ "fmt": "short",
+ "W": 1080,
+ "H": 1920,
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 6.601,
+   "i": 0,
+   "segs": [
+    [
+     0.35,
+     2.739
+    ],
+    [
+     3.239,
+     4.967
+    ],
+    [
+     5.467,
+     6.15
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn1",
+   "figno": "1",
+   "draw": false,
+   "calls": [
+    [
+     "THE CORN",
+     252,
+     708,
+     160,
+     220
+    ],
+    [
+     "THE MOTOR",
+     540,
+     300,
+     -40,
+     -160
+    ]
+   ]
+  },
+  {
+   "t0": 6.601,
+   "t1": 13.589,
+   "i": 1,
+   "segs": [
+    [
+     6.601,
+     11.657
+    ],
+    [
+     11.937,
+     13.238
+    ]
+   ],
+   "g": "title",
+   "kicker": "NEWS",
+   "title": "THANKSGIVING|DINNER: \u221217%",
+   "lines": [
+    "Self Financial study,",
+    "via ConsumerAffairs, Nov. 11, 2026"
+   ]
+  },
+  {
+   "t0": 13.589,
+   "t1": 20.343,
+   "i": 2,
+   "segs": [
+    [
+     13.589,
+     15.744
+    ],
+    [
+     16.024,
+     19.992
+    ]
+   ],
+   "g": "fig",
+   "fig": "corn3",
+   "figno": "3",
+   "draw": false,
+   "calls": [
+    [
+     "BUTTER",
+     684,
+     165,
+     -60,
+     -150
+    ],
+    [
+     "CORN",
+     396,
+     102,
+     -260,
+     -60
+    ],
+    [
+     "HOT WATER",
+     396,
+     400,
+     140,
+     120
+    ]
+   ]
+  },
+  {
+   "t0": 20.343,
+   "t1": 23.696,
+   "i": 3,
+   "segs": [
+    [
+     20.343,
+     21.175
+    ],
+    [
+     21.595,
+     23.195
+    ]
+   ],
+   "g": "stamp",
+   "title": "METHOD OF|BUTTERING CORN EARS",
+   "filed": "MAR. 13, 1972",
+   "date": "MAY 29, 1973",
+   "at": 0.6
+  },
+  {
+   "t0": 23.696,
+   "t1": 32.33,
+   "i": 4,
+   "segs": [
+    [
+     23.696,
+     26.405
+    ],
+    [
+     26.805,
+     28.235
+    ],
+    [
+     28.635,
+     29.381
+    ]
+   ],
+   "g": "stamp",
+   "title": "METHOD OF|BUTTERING CORN EARS",
+   "filed": "MAR. 13, 1972",
+   "date": "MAY 29, 1973",
+   "at": 0.2,
+   "big": true,
+   "hook": "APPROVED|OR [DENIED]?"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 1.642,
+   "txt": "This machine butters"
+  },
+  {
+   "t0": 1.642,
+   "t1": 2.481,
+   "txt": "your corn for"
+  },
+  {
+   "t0": 2.481,
+   "t1": 2.739,
+   "txt": "you."
+  },
+  {
+   "t0": 3.239,
+   "t1": 4.19,
+   "txt": "It's from a"
+  },
+  {
+   "t0": 4.19,
+   "t1": 4.967,
+   "txt": "real U.S."
+  },
+  {
+   "t0": 5.467,
+   "t1": 6.15,
+   "txt": "patent."
+  },
+  {
+   "t0": 6.601,
+   "t1": 7.974,
+   "txt": "Thanksgiving dinner is"
+  },
+  {
+   "t0": 7.974,
+   "t1": 9.41,
+   "txt": "about seventeen percent"
+  },
+  {
+   "t0": 9.41,
+   "t1": 10.533,
+   "txt": "cheaper this year,"
+  },
+  {
+   "t0": 10.533,
+   "t1": 11.345,
+   "txt": "one new study"
+  },
+  {
+   "t0": 11.345,
+   "t1": 11.657,
+   "txt": "says."
+  },
+  {
+   "t0": 11.937,
+   "t1": 12.123,
+   "txt": "So,"
+  },
+  {
+   "t0": 12.123,
+   "t1": 12.805,
+   "txt": "spend it on"
+  },
+  {
+   "t0": 12.805,
+   "t1": 13.238,
+   "txt": "butter."
+  },
+  {
+   "t0": 13.589,
+   "t1": 14.895,
+   "txt": "Melted butter floats"
+  },
+  {
+   "t0": 14.895,
+   "t1": 15.744,
+   "txt": "on hot water."
+  },
+  {
+   "t0": 16.024,
+   "t1": 16.794,
+   "txt": "The ears ride"
+  },
+  {
+   "t0": 16.794,
+   "t1": 17.505,
+   "txt": "on a turning"
+  },
+  {
+   "t0": 17.505,
+   "t1": 17.86,
+   "txt": "shaft,"
+  },
+  {
+   "t0": 17.86,
+   "t1": 18.571,
+   "txt": "and each one"
+  },
+  {
+   "t0": 18.571,
+   "t1": 19.577,
+   "txt": "rolls through the"
+  },
+  {
+   "t0": 19.577,
+   "t1": 19.992,
+   "txt": "butter."
+  },
+  {
+   "t0": 20.343,
+   "t1": 21.175,
+   "txt": "Approved."
+  },
+  {
+   "t0": 21.595,
+   "t1": 23.195,
+   "txt": "Nineteen seventy-three."
+  },
+  {
+   "t0": 23.696,
+   "t1": 24.543,
+   "txt": "A butter Ferris"
+  },
+  {
+   "t0": 24.543,
+   "t1": 25.333,
+   "txt": "wheel for your"
+  },
+  {
+   "t0": 25.333,
+   "t1": 26.405,
+   "txt": "Thanksgiving table."
+  },
+  {
+   "t0": 26.805,
+   "t1": 28.235,
+   "txt": "Approved or denied?"
+  },
+  {
+   "t0": 28.635,
+   "t1": 29.381,
+   "txt": "Comment."
+  }
+ ],
+ "vo": [
+  {
+   "f": "vo/001.wav",
+   "t": 0.35
+  },
+  {
+   "f": "vo/002.wav",
+   "t": 6.601
+  },
+  {
+   "f": "vo/003.wav",
+   "t": 13.589
+  },
+  {
+   "f": "vo/004.wav",
+   "t": 20.343
+  },
+  {
+   "f": "vo/005.wav",
+   "t": 23.696
+  }
+ ],
+ "hook": "A MACHINE THAT|BUTTERS [CORN]",
+ "hook2": "CORN BUTTER|[MACHINE] \u00b7 1973",
+ "hookSwitch": 3,
+ "num": "US 3,736,152",
+ "tt": false
+}
