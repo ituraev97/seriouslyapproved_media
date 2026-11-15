@@ -1,0 +1,37 @@
+Salida de pista de un Boeing 767 de Amazon en Miami (vuelo 7598 de 21 Air, 6 de septiembre de 2026), explicada con datos preliminares del NTSB: registrador de datos de vuelo, cronología de la grabadora de voz de cabina, meteorología, control aéreo y hallazgos en los restos.
+
+El carguero Boeing 767 tocó tierra a unos 3.750 pies de la cabecera de la pista 30, salió del final de la pista a 113 nudos y cruzó una vía pública. Murieron cinco personas en tierra. Esto es un análisis de lo que el NTSB ha publicado hasta ahora, no una conclusión sobre la causa. El NTSB no ha determinado una causa probable.
+
+Capítulos
+0:00 Qué pasó
+0:57 La investigación
+1:21 El avión y el vuelo
+2:55 Aeropuerto Internacional de Miami, pista 30
+3:32 El tiempo
+5:10 Control de tráfico aéreo
+6:07 Cronología de la grabadora de voz
+7:33 Qué es una aproximación estabilizada
+8:17 El aterrizaje, según los datos de vuelo
+9:31 Cómo se detiene un avión así
+10:40 Repetición: la parte final del aterrizaje
+11:15 Más allá de la pista
+12:06 Lo que encontraron los investigadores
+13:03 EMAS
+13:29 Lo que aún se desconoce
+14:16 Próximos pasos
+
+Fuentes
+• Informe preliminar del NTSB DCA26MA352: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf
+• Actualización de la investigación del NTSB, 9 de septiembre de 2026: https://www.ntsb.gov/news/press-releases/Pages/NR20260909.aspx
+• Página de la investigación del NTSB: https://www.ntsb.gov/investigations/Pages/DCA26MA352.aspx
+• Datos de aeropuerto de la FAA (pista 12/30, umbral desplazado): https://www.airnav.com/airport/KMIA
+• Nota informativa ALAR de la Flight Safety Foundation (aproximación estabilizada)
+• FAA — EMAS: https://www.faa.gov/airports/runways/emas
+• Imágenes de archivo: DVIDS (Departamento de Defensa de EE. UU.), KC-46A (avión cisterna basado en el Boeing 767), no es el avión del accidente
+• Imágenes aéreas: USGS The National Map. La reconstrucción 3D es ilustrativa; el movimiento entre puntos de datos del NTSB está interpolado. Las componentes del viento son cálculo propio a partir del viento reportado.
+
+Toda la información es preliminar y puede cambiar.
+
+LAST CONTACT es un canal independiente y no está afiliado ni respaldado por el NTSB, la FAA ni ninguna aerolínea. Documentos e imágenes oficiales: obras del Gobierno de EE. UU. (dominio público). La música y los efectos de sonido son originales.
+
+#accidenteaereo #aviacion #NTSB #seguridadaerea #Miami

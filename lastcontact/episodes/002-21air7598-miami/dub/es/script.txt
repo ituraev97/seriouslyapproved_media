@@ -1,0 +1,110 @@
+Seis de septiembre de dos mil veintiséis. Un avión de carga [[Boeing seven sixty-seven]] se alinea para aterrizar en la pista treinta del Aeropuerto Internacional de [[Miami]].
+Cruza el umbral de la pista a unos ciento cinco pies sobre el suelo, con una velocidad respecto al suelo de ciento setenta y siete nudos.
+Según la [[NTSB]], tocó tierra a unos tres mil setecientos cincuenta pies dentro de la pista.
+Medio minuto después, el avión ya pasó el final de la pista, atravesó la cerca del aeropuerto y cruzó una calle pública.
+Cinco personas en tierra murieron. Tres resultaron gravemente heridas. Los dos pilotos sobrevivieron con lesiones leves.
+En este video repasamos lo que la [[NTSB]] ha publicado hasta ahora: los datos de vuelo, la cronología de la grabadora de voz de cabina, el clima, el control aéreo y lo que los investigadores encontraron en el lugar.
+Nada de esto es una conclusión sobre la causa. La [[NTSB]] todavía no ha determinado ninguna.
+La [[NTSB]] llegó a [[Miami]] al día siguiente. En la investigación participan la [[FAA]], [[Boeing]], [[GE Aerospace]], [[21 Air]], el departamento de aviación de [[Miami-Dade]] y los sindicatos de los controladores aéreos y de los pilotos de [[21 Air]].
+Sus hallazgos hasta ahora están en un informe preliminar de doce páginas, publicado en octubre. Vamos a revisarlo.
+El avión era un [[Boeing seven sixty-seven]], matrícula [[November one nine nine seven Alpha]].
+Se construyó en mil novecientos noventa y cuatro como avión de pasajeros y se convirtió en carguero en dos mil dieciséis. Tenía motores [[General Electric CF6]].
+Hasta el día del accidente había acumulado unas ciento diez mil horas de vuelo, en más de veinticuatro mil vuelos.
+Lo operaba [[21 Air]], una aerolínea de carga con sede en [[Greensboro, North Carolina]], y con operaciones en [[Miami]]. La empresa tenía veintidós aviones, entre [[seven fifty-sevens]] y [[seven sixty-sevens]].
+Este vuelo se operaba para [[Amazon]].
+Esa mañana, los mismos dos pilotos habían volado este avión de [[Miami]] a San Juan, Puerto Rico. Según la [[NTSB]], era la primera vez que volaban juntos.
+En ese primer tramo, el primer oficial era el piloto a los mandos. En el regreso, como vuelo setenta y cinco noventa y ocho, volaba el capitán.
+El vuelo salió de San Juan cerca de las once y veinticuatro de la mañana, hora del este, y debía aterrizar en [[Miami]] a las dos y veintiocho de la tarde.
+Según la [[NTSB]], el capitán tenía unas siete mil trescientas horas de vuelo, unas ciento cincuenta en el [[seven sixty-seven]]. Obtuvo su habilitación de tipo en mayo.
+El primer oficial tenía unas dos mil ochocientas horas, unas ochocientas en el [[seven sixty-seven]].
+Esas cifras son hechos del informe. La [[NTSB]] no ha dicho si la experiencia tuvo algún papel.
+Primero, el aeropuerto. [[Miami]] Internacional tiene cuatro pistas. La pista doce treinta es la diagonal: nueve mil trescientos sesenta pies de largo y ciento cincuenta de ancho.
+La torre y el control de aproximación comparten una instalación, entre la pista nueve veintisiete y la doce treinta. En ese momento, dos controladores de torre se repartían las pistas. Uno llevaba el par del norte. El otro, la pista nueve veintisiete y la doce treinta.
+Los sensores meteorológicos principales están cerca de la cabecera de la pista nueve. Hay otros sensores a unos seiscientos pies al sureste de donde se detuvo el avión.
+Ahora, el clima.
+A la una y trece de la tarde, la estación automática de [[Miami]] reportó tormentas y cumulonimbos dispersos.
+A la una y treinta y siete, registró un cambio de viento.
+A la una y cincuenta, tres minutos antes del accidente, los datos de cinco minutos mostraban viento de ciento noventa grados a dieciséis nudos, con ráfagas de veinticuatro.
+A la una y cincuenta y tres llegó el reporte horario: viento de ciento noventa grados a diecisiete nudos, ráfagas de veintiséis, y tormentas.
+El viento máximo de esa hora se registró a la una y cincuenta y dos: ciento ochenta grados, a veintiséis nudos.
+La pista treinta apunta al noroeste. Un viento de ciento noventa grados llega por la izquierda, y un poco desde atrás, para un avión que aterriza en ella.
+Según nuestro propio cálculo, con el viento reportado, eso es un viento cruzado de unos dieciséis nudos y un viento de cola de cinco a seis nudos, más en las ráfagas. El informe de la [[NTSB]] cita la norma de la [[FAA]] que se aplica cuando existe una componente de viento de cola.
+El viento de cola aumenta la velocidad del avión respecto al suelo. Y un aterrizaje más rápido necesita más pista para frenar.
+Aquí importan dos velocidades. La aerodinámica: lo rápido que el avión va por el aire. La de suelo: lo rápido que va sobre la pista.
+Con viento de cola, la velocidad respecto al suelo es mayor, más o menos en la fuerza de ese viento. Todas las velocidades que da la [[NTSB]] para este aterrizaje son respecto al suelo.
+El informe preliminar no indica la velocidad aerodinámica en el umbral ni la velocidad objetivo de aproximación. El estudio de rendimiento de la [[NTSB]] debe analizar el estado del avión durante la aproximación y el aterrizaje.
+Eso nos lleva al control aéreo.
+El vuelo setenta y cinco noventa y ocho recibió autorización para aterrizar cerca de la una y cuarenta y nueve, a unas doce millas náuticas de la pista.
+Según el informe preliminar, el controlador de torre dio la autorización de aterrizaje, pero no dio información sobre el viento.
+El informe cita la orden de control aéreo de la [[FAA]], que obliga a los controladores a indicar la dirección y la velocidad del viento al autorizar una pista con componente de viento de cola.
+Unos cuatro minutos antes de esa autorización, otro vuelo preguntó por el viento, y el mismo controlador informó ciento noventa grados a diecinueve nudos, con ráfagas de veintidós. El vuelo setenta y cinco noventa y ocho no estaba en esa frecuencia en ese momento.
+El informe también señala que el controlador tenía once años de experiencia y llevaba unos diecisiete minutos en esa posición.
+La [[NTSB]] no ha dicho si la falta de información de viento en la autorización influyó en lo que pasó después.
+La grabadora de voz de cabina tenía unas dos horas y cuatro minutos de audio, incluido el vuelo del accidente. La [[NTSB]] publicó un resumen de eventos seleccionados, contados hacia atrás desde el final de la grabación.
+Seis minutos y dos segundos antes del final, el capitán pidió flaps uno.
+A los cuatro dieciocho, la tripulación contactó con la torre de [[Miami]] y fue autorizada a aterrizar.
+A los dos cincuenta y tres, flaps cinco. A los dos treinta y siete, se bajó el tren de aterrizaje. A los dos catorce, flaps quince.
+A un minuto cuarenta y dos, el capitán pidió flaps veinte y, según la [[NTSB]], el primer oficial advirtió que iban demasiado rápido.
+El informe dice que el primer oficial hizo más comentarios sobre la velocidad excesiva durante el resto de la grabación, y que no hubo una respuesta verbal constante.
+A un minuto veintitrés, sonidos compatibles con la desconexión del piloto automático.
+Luego, los avisos automáticos. Mil. [[Sink rate, sink rate]]. Quinientos. [[Sink rate]] otra vez. Cien. Mínimos.
+A cuarenta y ocho segundos del final, el sistema de alerta anunció [[too low, terrain]]. Cuatro veces.
+A cuarenta y un segundos, el capitán pidió flaps treinta. Luego: cuarenta. [[Too low, terrain]]. Diez.
+A treinta y un segundos, sonidos parecidos al contacto con la pista. A quince segundos, el capitán pidió motor y al aire. A diez segundos, sonidos parecidos a la salida del pavimento.
+Para poner en contexto esos comentarios de velocidad y esas alertas, ayuda conocer una idea básica de la aviación comercial: la aproximación estabilizada.
+La guía de la [[Flight Safety Foundation]] recomienda que un avión de línea esté estabilizado a mil pies sobre el aeropuerto en condiciones instrumentales, o a quinientos pies en condiciones visuales. Es decir: en la trayectoria correcta, dentro de un rango de velocidad fijado, en configuración de aterrizaje, y descendiendo a no más de unos mil pies por minuto.
+Si la aproximación no está estabilizada en ese punto, la guía indica hacer motor y al aire.
+Cada aerolínea escribe su propia versión de estos criterios. El informe preliminar no incluye los criterios de [[21 Air]], ni dice si esta aproximación los cumplió.
+Ahora pongamos los datos de vuelo sobre la pista.
+La pista treinta mide nueve mil trescientos sesenta pies, pero su umbral de aterrizaje está desplazado. Según las cifras publicadas por la [[FAA]], quedan unos ocho mil cuatrocientos pies desde el umbral hasta el otro extremo.
+Miren lo que hay más allá del extremo noroeste. Primero, una zona de protección contra chorro, que no cuenta como pista. Luego el localizador y las luces de aproximación de la pista doce. Después césped, la vía perimetral, la cerca y una calle pública, la [[Northwest sixty-seventh Avenue]].
+Desde el final del pavimento hasta donde se detuvo el avión hay unos mil doscientos pies, según la [[NTSB]].
+En el umbral, el avión estaba a unos ciento cinco pies sobre el suelo, a ciento setenta y siete nudos respecto al suelo.
+Las marcas de los neumáticos del tren principal empiezan a unos tres mil setecientos cincuenta pies. La velocidad respecto al suelo era de unos ciento sesenta nudos, unos trece segundos después del umbral.
+Durante unos siete segundos, los sensores de peso sobre ruedas alternaron entre aire y tierra. Se fijaron en tierra cuando quedaban unos dos mil setecientos treinta pies de pista.
+Los datos de vuelo muestran que los frenos aerodinámicos siguieron retraídos y que los inversores de empuje no se desplegaron.
+Para ver por qué importa, así es como se detiene normalmente un avión como este.
+Tres sistemas se reparten el trabajo: frenos, spoilers de tierra e inversores.
+Los spoilers de tierra son paneles sobre las alas. Al tocar tierra se levantan, eliminan la sustentación, el peso del avión carga sobre las ruedas y los frenos pueden agarrar. También añaden resistencia.
+Los inversores de empuje dirigen el empuje de los motores hacia adelante para ayudar a frenar, sobre todo a alta velocidad.
+En aviones como este, los spoilers de tierra están diseñados para desplegarse solos tras el contacto cuando se cumplen ciertas condiciones. El informe dice que la palanca de frenos aerodinámicos estaba abajo, en posición retraída. No dice por qué no se desplegaron.
+Los frenos de las ruedas se aplicaron a ciento cuarenta y seis nudos.
+Unos ocho segundos después, a ciento veinte nudos, se soltaron los frenos y los aceleradores avanzaron a empuje de motor y al aire. Quedaban unos novecientos treinta pies de pista.
+Unos cuatro segundos más tarde, los aceleradores volvieron a ralentí y se frenó de nuevo, a ciento diecisiete nudos, con unos cuatrocientos quince pies restantes.
+El avión salió del final de la pista a ciento trece nudos.
+Veamos esa última parte otra vez, en orden.
+El umbral. Ciento cinco pies. Ciento setenta y siete nudos.
+Empiezan las marcas. Tres mil setecientos cincuenta pies. Ciento sesenta nudos.
+Frenos, a ciento cuarenta y seis.
+Frenos sueltos. Aceleradores adelante, a ciento veinte. Quedan novecientos treinta pies.
+Ralentí. Frenos otra vez. Ciento diecisiete nudos. Quedan cuatrocientos quince pies.
+El final de la pista. Ciento trece nudos.
+Más allá del final de la pista, golpeó la antena del localizador y el sistema de luces de aproximación, a unos cien nudos.
+Después golpeó una camioneta de pasajeros en la vía perimetral del aeropuerto. Cinco de las siete personas en la camioneta murieron, y dos resultaron gravemente heridas.
+El avión atravesó la cerca perimetral y cruzó la [[Northwest sixty-seventh Avenue]], donde golpeó un todoterreno. Su único ocupante resultó gravemente herido.
+La última velocidad registrada fue de sesenta y cinco nudos. El avión se detuvo a unos mil doscientos pies del final del pavimento, junto a un estacionamiento.
+El capitán salió por la puerta delantera izquierda. El primer oficial salió por la ventana derecha de la cabina.
+La torre activó el teléfono de alerta cerca de la una y cincuenta y tres. [[Miami-Dade Fire Rescue]] respondió con cinco unidades de bomberos aeroportuarios, y luego con ayuda mutua.
+¿Qué encontraron los investigadores en el lugar?
+En la cabina, la palanca de flaps estaba en la posición de veinticinco grados, y las mediciones de flaps y slats coincidían con flaps veinticinco.
+En el resumen de la grabadora de la [[NTSB]], el último pedido de flaps que aparece es treinta. El informe registra ambos hechos y no explica la diferencia.
+Las palancas de empuje, en ralentí. Los interruptores de combustible, en corte. Las dos manijas de fuego, levantadas y giradas. Las palancas de inversores, en el primer tope, y la de frenos aerodinámicos, retraída.
+El informe lista estas posiciones tal como se encontraron. No dice cuándo ni por qué se movió cada control.
+Los indicadores de desgaste de frenos de las ocho ruedas principales aún mostraban vida útil. El tren principal estaba abajo y asegurado. El tren de nariz había sido empujado hacia atrás, bajo el fuselaje.
+El ala derecha sufrió daños por un incendio posterior al choque, y el motor derecho se separó en parte de su soporte.
+Un detalle más del informe. No había un sistema de detención de materiales diseñados, llamado [[EMAS]], al final de la pista treinta.
+El [[EMAS]] es una capa de material que se aplasta, construida más allá del final de la pista. Está diseñado para frenar a un avión que se sale, dejando que sus ruedas se hundan.
+La [[NTSB]] señaló la ausencia de [[EMAS]] en su informe preliminar. No ha dicho si habría cambiado el resultado.
+Entonces, ¿qué sigue sin saberse? Esto es lo que el informe preliminar deja abierto.
+La velocidad aerodinámica y la velocidad objetivo en la aproximación final, y cómo cambió el viento en las últimas millas.
+Por qué el contacto fue tan adentro de la pista, y por qué los sensores de peso sobre ruedas alternaron.
+Por qué los frenos aerodinámicos siguieron retraídos y los inversores no se desplegaron.
+La orden de motor y al aire tras el contacto, y la vuelta a frenar cuatro segundos después.
+Flaps: pedidos treinta, encontrados veinticinco.
+Y el papel, si lo hubo, de la información de viento que no se incluyó en la autorización, y de la ausencia de un sistema de detención.
+Se espera que el informe final de la [[NTSB]] determine una causa probable. Hasta entonces, cualquier respuesta sería especulación, y no la vamos a ofrecer.
+Una semana después del accidente, [[Amazon]] dijo que había pausado sus operaciones con [[21 Air]], según la prensa.
+La investigación continúa. La [[NTSB]] dice que los datos de vuelo y otros datos técnicos irán a un estudio de rendimiento del avión, para precisar la secuencia de hechos.
+La causa probable llegará en el informe final. La [[NTSB]] dice que en general intenta terminar una investigación en doce a veinticuatro meses.
+Cuando se publique, reconstruiremos este aterrizaje con los datos finales.
+Los datos de este accidente en el video vienen del informe preliminar de la [[NTSB]] y de su actualización de septiembre, salvo que dijéramos otra cosa. En palabras de la [[NTSB]], esta información es preliminar y puede cambiar.

@@ -1,0 +1,37 @@
+Uscita di pista di un Boeing 767 di Amazon a Miami (volo 7598 di 21 Air, 6 settembre 2026), spiegata con i dati preliminari dell'NTSB: registratore dei dati di volo, cronologia del registratore vocale di cabina, meteo, controllo del traffico aereo e rilievi sul relitto.
+
+Il cargo Boeing 767 ha toccato la pista 30 a circa 3.750 piedi dalla soglia, è uscito dal fondo pista a 113 nodi e ha attraversato una strada pubblica. Cinque persone a terra sono morte. Questa è un'analisi di ciò che l'NTSB ha pubblicato finora, non una conclusione sulla causa. L'NTSB non ha stabilito una causa probabile.
+
+Capitoli
+0:00 Cosa è successo
+0:57 L'indagine
+1:21 L'aereo e il volo
+2:55 Aeroporto internazionale di Miami, pista 30
+3:32 Il meteo
+5:10 Controllo del traffico aereo
+6:07 Cronologia del registratore vocale
+7:33 Cos'è un avvicinamento stabilizzato
+8:17 L'atterraggio, dai dati di volo
+9:31 Come si ferma un jet così
+10:40 Replay: la parte finale dell'atterraggio
+11:15 Oltre la pista
+12:06 Cosa hanno trovato gli investigatori
+13:03 EMAS
+13:29 Cosa non si sa ancora
+14:16 Prossimi passi
+
+Fonti
+• Rapporto preliminare NTSB DCA26MA352: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf
+• Aggiornamento dell'indagine NTSB, 9 settembre 2026: https://www.ntsb.gov/news/press-releases/Pages/NR20260909.aspx
+• Pagina dell'indagine NTSB: https://www.ntsb.gov/investigations/Pages/DCA26MA352.aspx
+• Dati aeroportuali FAA (pista 12/30, soglia spostata): https://www.airnav.com/airport/KMIA
+• Nota ALAR della Flight Safety Foundation (avvicinamento stabilizzato)
+• FAA — EMAS: https://www.faa.gov/airports/runways/emas
+• Filmati d'archivio: DVIDS (Dipartimento della Difesa USA), KC-46A (aerocisterna derivata dal Boeing 767), non è l'aereo dell'incidente
+• Immagini aeree: USGS The National Map. La ricostruzione 3D è illustrativa; il movimento tra i punti dati NTSB è interpolato. Le componenti del vento sono un nostro calcolo dal vento riportato.
+
+Tutte le informazioni sono preliminari e possono cambiare.
+
+LAST CONTACT è un canale indipendente, non affiliato né approvato da NTSB, FAA o compagnie aeree. Documenti e immagini ufficiali: opere del governo USA (pubblico dominio). Musica ed effetti sonori originali.
+
+#incidenteaereo #aviazione #NTSB #sicurezzavolo #Miami

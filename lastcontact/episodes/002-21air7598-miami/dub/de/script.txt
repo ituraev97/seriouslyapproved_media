@@ -1,0 +1,110 @@
+Sechster September zweitausendsechsundzwanzig. Ein Frachtjet vom Typ [[Boeing seven sixty-seven]] richtet sich zur Landung auf Piste dreißig des internationalen Flughafens [[Miami]] aus.
+Er überfliegt die Pistenschwelle in etwa einhundertfünf Fuß Höhe, mit einer Geschwindigkeit über Grund von einhundertsiebenundsiebzig Knoten.
+Laut [[NTSB]] setzte er etwa dreitausendsiebenhundertfünfzig Fuß hinter der Schwelle auf.
+Eine halbe Minute später hat das Flugzeug das Pistenende überrollt, den Flughafenzaun durchbrochen und eine öffentliche Straße überquert.
+Fünf Menschen am Boden kamen ums Leben. Drei wurden schwer verletzt. Die beiden Piloten überlebten leicht verletzt.
+In diesem Video gehen wir durch, was das [[NTSB]] bisher veröffentlicht hat: die Flugdaten, den Ablauf laut Cockpit-Stimmenrekorder, das Wetter, die Flugsicherung und die Funde der Ermittler vor Ort.
+Nichts davon ist eine Feststellung zur Ursache. Das [[NTSB]] hat noch keine festgelegt.
+Das [[NTSB]] traf am nächsten Tag in [[Miami]] ein. Beteiligt sind die [[FAA]], [[Boeing]], [[GE Aerospace]], [[21 Air]], die Luftfahrtbehörde von [[Miami-Dade]] sowie die Gewerkschaften der Fluglotsen und der Piloten von [[21 Air]].
+Die bisherigen Ergebnisse stehen in einem zwölfseitigen vorläufigen Bericht vom Oktober. Gehen wir ihn durch.
+Das Flugzeug war eine [[Boeing seven sixty-seven]] mit dem Kennzeichen [[November one nine nine seven Alpha]].
+Sie wurde neunzehnhundertvierundneunzig als Passagierflugzeug gebaut und zweitausendsechzehn zum Frachter umgebaut. Sie hatte Triebwerke vom Typ [[General Electric CF6]].
+Bis zum Unfalltag hatte sie etwa einhundertzehntausend Flugstunden, auf über vierundzwanzigtausend Flügen.
+Betreiber war [[21 Air]], eine Frachtfluggesellschaft mit Sitz in [[Greensboro, North Carolina]], und Betrieb in [[Miami]]. Die Firma hatte zweiundzwanzig Flugzeuge, [[seven fifty-sevens]] und [[seven sixty-sevens]].
+Dieser Flug wurde für [[Amazon]] durchgeführt.
+Am Morgen hatten dieselben beiden Piloten das Flugzeug von [[Miami]] nach San Juan, Puerto Rico, geflogen. Laut [[NTSB]] flogen sie zum ersten Mal zusammen.
+Auf dem ersten Abschnitt flog der Erste Offizier. Auf dem Rückflug, als Flug fünfundsiebzig achtundneunzig, flog der Kapitän.
+Der Flug startete gegen elf Uhr vierundzwanzig Ostküstenzeit in San Juan und sollte um vierzehn Uhr achtundzwanzig in [[Miami]] landen.
+Laut [[NTSB]] hatte der Kapitän etwa siebentausenddreihundert Flugstunden, davon etwa einhundertfünfzig auf der [[seven sixty-seven]]. Die Musterberechtigung erhielt er im Mai.
+Der Erste Offizier hatte etwa zweitausendachthundert Stunden, davon etwa achthundert auf der [[seven sixty-seven]].
+Diese Zahlen sind Fakten aus dem Bericht. Das [[NTSB]] hat nicht gesagt, ob die Erfahrung eine Rolle spielte.
+Zuerst der Flughafen. [[Miami]] International hat vier Pisten. Piste zwölf dreißig ist die diagonale: neuntausenddreihundertsechzig Fuß lang und einhundertfünfzig breit.
+Tower und Anflugkontrolle sitzen in einem Gebäude, zwischen Piste neun siebenundzwanzig und zwölf dreißig. Damals teilten sich zwei Towerlotsen die Pisten. Einer betreute das nördliche Paar. Der andere die Piste neun siebenundzwanzig und die zwölf dreißig.
+Die wichtigsten Wettersensoren stehen nahe der Schwelle von Piste neun. Weitere Sensoren liegen etwa sechshundert Fuß südöstlich der Stelle, an der das Flugzeug zum Stehen kam.
+Nun zum Wetter.
+Um dreizehn Uhr dreizehn meldete die automatische Station in [[Miami]] Gewitter und vereinzelte Cumulonimben.
+Um dreizehn Uhr siebenunddreißig registrierte sie eine Winddrehung.
+Um dreizehn Uhr fünfzig, drei Minuten vor dem Unfall, zeigten die Fünf-Minuten-Daten Wind aus einhundertneunzig Grad mit sechzehn Knoten, in Böen vierundzwanzig.
+Um dreizehn Uhr dreiundfünfzig kam die stündliche Meldung: Wind aus einhundertneunzig Grad mit siebzehn Knoten, Böen sechsundzwanzig, und Gewitter.
+Der stärkste Wind dieser Stunde wurde um dreizehn Uhr zweiundfünfzig gemessen: einhundertachtzig Grad, sechsundzwanzig Knoten.
+Piste dreißig zeigt nach Nordwesten. Wind aus einhundertneunzig Grad kommt für ein landendes Flugzeug von links und leicht von hinten.
+Nach unserer eigenen Rechnung mit dem gemeldeten Wind ergibt das etwa sechzehn Knoten Seitenwind und fünf bis sechs Knoten Rückenwind, in Böen mehr. Der [[NTSB]]-Bericht zitiert die [[FAA]]-Regel, die bei einer Rückenwindkomponente gilt.
+Rückenwind erhöht die Geschwindigkeit über Grund. Und ein schnelleres Aufsetzen braucht mehr Piste zum Anhalten.
+Hier zählen zwei Geschwindigkeiten. Die Fluggeschwindigkeit ist, wie schnell sich das Flugzeug durch die Luft bewegt. Die Geschwindigkeit über Grund ist, wie schnell es sich über die Piste bewegt.
+Bei Rückenwind ist die Geschwindigkeit über Grund höher, etwa um die Stärke des Rückenwinds. Alle Geschwindigkeiten des [[NTSB]] zu dieser Landung sind Geschwindigkeiten über Grund.
+Der vorläufige Bericht nennt weder die Fluggeschwindigkeit an der Schwelle noch die geplante Anfluggeschwindigkeit. Die Leistungsstudie des [[NTSB]] soll den Zustand des Flugzeugs im Anflug und bei der Landung analysieren.
+Damit zur Flugsicherung.
+Flug fünfundsiebzig achtundneunzig erhielt gegen dreizehn Uhr neunundvierzig die Landefreigabe, etwa zwölf Seemeilen vor der Piste.
+Laut vorläufigem Bericht erteilte der Towerlotse die Landefreigabe, gab aber keine Windinformation.
+Der Bericht zitiert die Flugsicherungsvorschrift der [[FAA]]: Lotsen müssen Windrichtung und Windstärke nennen, wenn sie eine Piste mit Rückenwindkomponente freigeben.
+Etwa vier Minuten vor dieser Freigabe fragte ein anderer Flug nach dem Wind, und derselbe Lotse meldete einhundertneunzig Grad, neunzehn Knoten, Böen zweiundzwanzig. Flug fünfundsiebzig achtundneunzig war damals nicht auf dieser Frequenz.
+Der Bericht nennt auch, dass der Lotse elf Jahre Erfahrung hatte und seit etwa siebzehn Minuten auf dieser Position saß.
+Das [[NTSB]] hat nicht gesagt, ob die fehlende Windinformation in der Landefreigabe den weiteren Verlauf beeinflusste.
+Der Cockpit-Stimmenrekorder enthielt etwa zwei Stunden und vier Minuten Audio, einschließlich des Unfallflugs. Das [[NTSB]] veröffentlichte eine Zusammenfassung ausgewählter Ereignisse, rückwärts gezählt vom Ende der Aufnahme.
+Sechs Minuten und zwei Sekunden vor dem Ende forderte der Kapitän Klappen eins.
+Bei vier Minuten achtzehn meldete sich die Crew beim Tower [[Miami]] und erhielt die Landefreigabe.
+Bei zwei dreiundfünfzig, Klappen fünf. Bei zwei siebenunddreißig wurde das Fahrwerk ausgefahren. Bei zwei vierzehn, Klappen fünfzehn.
+Bei einer Minute zweiundvierzig forderte der Kapitän Klappen zwanzig, und laut [[NTSB]] warnte der Erste Offizier, sie seien zu schnell.
+Laut Bericht äußerte sich der Erste Offizier bis zum Ende der Aufnahme weiter zur überhöhten Geschwindigkeit, ohne eine durchgehende verbale Antwort.
+Bei einer Minute dreiundzwanzig: Geräusche, die zum Abschalten des Autopiloten passen.
+Dann die automatischen Ansagen. Eintausend. [[Sink rate, sink rate]]. Fünfhundert. Wieder [[sink rate]]. Einhundert. Minimum.
+Achtundvierzig Sekunden vor dem Ende meldete das Warnsystem [[too low, terrain]]. Viermal.
+Bei einundvierzig Sekunden forderte der Kapitän Klappen dreißig. Dann: vierzig. [[Too low, terrain]]. Zehn.
+Bei einunddreißig Sekunden: Geräusche wie beim Aufsetzen. Bei fünfzehn Sekunden forderte der Kapitän ein Durchstarten. Bei zehn Sekunden: Geräusche wie beim Verlassen der befestigten Fläche.
+Um diese Geschwindigkeitshinweise und Warnungen einzuordnen, hilft ein Grundprinzip der Linienfliegerei: der stabilisierte Anflug.
+Die Empfehlungen der [[Flight Safety Foundation]] sehen vor, dass ein Verkehrsflugzeug tausend Fuß über dem Flughafen bei Instrumentenbedingungen stabilisiert ist, oder fünfhundert Fuß bei Sichtbedingungen. Das heißt: auf dem richtigen Pfad, in einem festgelegten Geschwindigkeitsbereich, in Landekonfiguration, und mit nicht mehr als etwa tausend Fuß pro Minute Sinkrate.
+Ist der Anflug an diesem Punkt nicht stabilisiert, sehen die Empfehlungen ein Durchstarten vor.
+Jede Airline schreibt ihre eigene Fassung dieser Kriterien. Der vorläufige Bericht enthält die Kriterien von [[21 Air]] nicht und sagt nicht, ob dieser Anflug sie erfüllte.
+Jetzt legen wir die Flugdaten auf die Piste.
+Piste dreißig ist neuntausenddreihundertsechzig Fuß lang, aber ihre Landeschwelle ist versetzt. Nach den von der [[FAA]] veröffentlichten Zahlen bleiben von der Schwelle bis zum Ende etwa achttausendvierhundert Fuß.
+Schauen Sie, was hinter dem Nordwestende liegt. Zuerst eine Abstrahlfläche, die nicht als Piste zählt. Dann die Localizer-Antenne und die Anflugbefeuerung der Piste zwölf. Dann Gras, die Ringstraße des Flughafens, der Zaun und eine öffentliche Straße, die [[Northwest sixty-seventh Avenue]].
+Vom Ende der befestigten Fläche bis zum Stillstand des Flugzeugs sind es laut [[NTSB]] etwa zwölfhundert Fuß.
+An der Schwelle war das Flugzeug etwa einhundertfünf Fuß hoch, mit einhundertsiebenundsiebzig Knoten über Grund.
+Die Reifenspuren des Hauptfahrwerks beginnen etwa dreitausendsiebenhundertfünfzig Fuß hinter der Schwelle. Die Geschwindigkeit über Grund lag dort bei etwa einhundertsechzig Knoten, etwa dreizehn Sekunden nach der Schwelle.
+Etwa sieben Sekunden lang wechselten die Bodenkontaktsensoren zwischen Luft und Boden. Auf Boden blieben sie, als noch etwa zweitausendsiebenhundertdreißig Fuß Piste übrig waren.
+Die Flugdaten zeigen, dass die Störklappen eingefahren blieben und die Schubumkehr nicht ausfuhr.
+Warum das wichtig ist: So hält ein solches Flugzeug normalerweise an.
+Drei Systeme teilen sich die Arbeit: die Radbremsen, die Bodenspoiler und die Schubumkehr.
+Die Bodenspoiler sind Klappen oben auf den Tragflächen. Beim Aufsetzen stellen sie sich auf, vernichten Auftrieb, das Gewicht drückt auf die Räder, und die Bremsen können greifen. Sie erhöhen auch den Widerstand.
+Die Schubumkehr lenkt den Triebwerksschub nach vorn und hilft beim Abbremsen, vor allem bei hoher Geschwindigkeit.
+Bei solchen Flugzeugen sollen die Bodenspoiler nach dem Aufsetzen automatisch ausfahren, wenn bestimmte Bedingungen erfüllt sind. Laut Bericht stand der Störklappenhebel unten, in eingefahrener Stellung. Warum sie nicht ausfuhren, sagt der Bericht nicht.
+Die Radbremsen wurden bei einhundertsechsundvierzig Knoten betätigt.
+Etwa acht Sekunden später, bei einhundertzwanzig Knoten, wurden die Bremsen gelöst und die Schubhebel auf Durchstartschub geschoben. Es blieben etwa neunhundertdreißig Fuß Piste.
+Etwa vier Sekunden danach gingen die Schubhebel zurück auf Leerlauf, und es wurde wieder gebremst, bei einhundertsiebzehn Knoten, mit etwa vierhundertfünfzehn Fuß Rest.
+Das Flugzeug verließ das Pistenende mit einhundertdreizehn Knoten.
+Sehen wir uns diesen letzten Teil noch einmal an, der Reihe nach.
+Die Schwelle. Einhundertfünf Fuß. Einhundertsiebenundsiebzig Knoten.
+Reifenspuren beginnen. Dreitausendsiebenhundertfünfzig Fuß. Einhundertsechzig Knoten.
+Bremsen, bei einhundertsechsundvierzig.
+Bremsen gelöst. Schubhebel vor, bei einhundertzwanzig. Noch neunhundertdreißig Fuß.
+Leerlauf. Wieder Bremsen. Einhundertsiebzehn Knoten. Noch vierhundertfünfzehn Fuß.
+Das Pistenende. Einhundertdreizehn Knoten.
+Hinter dem Pistenende traf es die Localizer-Antenne und die Anflugbefeuerung, mit etwa einhundert Knoten.
+Danach traf es einen Kleinbus auf der Ringstraße des Flughafens. Fünf der sieben Insassen des Kleinbusses kamen ums Leben, zwei wurden schwer verletzt.
+Das Flugzeug durchbrach den Zaun und überquerte die [[Northwest sixty-seventh Avenue]], wo es einen Geländewagen traf. Der einzige Insasse wurde schwer verletzt.
+Die letzte aufgezeichnete Geschwindigkeit über Grund betrug fünfundsechzig Knoten. Der Jet kam etwa zwölfhundert Fuß hinter dem Ende der befestigten Fläche zum Stehen, neben einem Parkplatz.
+Der Kapitän verließ das Flugzeug durch die vordere linke Tür. Der Erste Offizier kletterte durch das rechte Cockpitfenster.
+Der Tower löste gegen dreizehn Uhr dreiundfünfzig das Alarmtelefon aus. Die Feuerwehr von [[Miami-Dade]] rückte mit fünf Flughafenlöschfahrzeugen aus, gefolgt von Nachbarschaftshilfe.
+Was fanden die Ermittler vor Ort?
+Im Cockpit stand der Klappenhebel auf fünfundzwanzig Grad, und die Messungen an Klappen und Vorflügeln passten zu Klappen fünfundzwanzig.
+In der [[NTSB]]-Zusammenfassung des Stimmenrekorders ist die letzte Klappenforderung dreißig. Der Bericht hält beides fest und erklärt den Unterschied nicht.
+Die Schubhebel standen auf Leerlauf. Die Kraftstoffschalter auf Aus. Beide Triebwerks-Feuergriffe waren gezogen und gedreht. Die Schubumkehrhebel standen in der ersten Raste, der Störklappenhebel eingefahren.
+Der Bericht listet diese Stellungen so, wie sie gefunden wurden. Er sagt nicht, wann oder warum ein Bedienelement bewegt wurde.
+Die Verschleißstifte der Bremsen an allen acht Haupträdern zeigten noch Restlebensdauer. Das Hauptfahrwerk war ausgefahren und verriegelt. Das Bugfahrwerk war nach hinten unter den Rumpf gedrückt.
+Die rechte Tragfläche wurde durch ein Feuer nach dem Unfall beschädigt, und das rechte Triebwerk hatte sich teilweise vom Pylon gelöst.
+Noch ein Detail aus dem Bericht. Am Ende von Piste dreißig gab es kein Notstoppsystem aus zerdrückbarem Material, kurz [[EMAS]].
+[[EMAS]] ist ein Bett aus zerdrückbarem Material hinter dem Pistenende. Es soll ein überrollendes Flugzeug abbremsen, indem die Räder darin einsinken.
+Das [[NTSB]] hat das Fehlen von [[EMAS]] im vorläufigen Bericht vermerkt. Ob es den Ausgang verändert hätte, hat es nicht gesagt.
+Was ist also noch unbekannt? Das lässt der vorläufige Bericht offen.
+Fluggeschwindigkeit und Sollgeschwindigkeit im Endanflug, und wie sich der Wind auf den letzten Meilen änderte.
+Warum so weit hinten aufgesetzt wurde, und warum die Bodenkontaktsensoren wechselten.
+Warum die Störklappen eingefahren blieben und die Schubumkehr nicht ausfuhr.
+Das Durchstartkommando nach dem Aufsetzen, und die Rückkehr zum Bremsen vier Sekunden später.
+Die Klappen: dreißig gefordert, fünfundzwanzig gefunden.
+Und die Rolle, falls es eine gab, der Windinformation, die nicht in der Landefreigabe stand, und des fehlenden Notstoppsystems.
+Der Abschlussbericht des [[NTSB]] soll eine wahrscheinliche Ursache bestimmen. Bis dahin wäre jede Antwort Spekulation, und wir bieten keine an.
+Etwa eine Woche nach dem Unfall erklärte [[Amazon]], die Zusammenarbeit mit [[21 Air]] ausgesetzt zu haben, so Medienberichte.
+Die Untersuchung läuft. Laut [[NTSB]] fließen die Flugdaten und weitere technische Daten in eine Leistungsstudie, um den Ablauf genauer zu bestimmen.
+Die wahrscheinliche Ursache kommt im Abschlussbericht. Das [[NTSB]] sagt, es versuche eine Untersuchung meist in zwölf bis vierundzwanzig Monaten abzuschließen.
+Wenn er erscheint, rekonstruieren wir diese Landung mit den endgültigen Daten.
+Die Fakten zu diesem Unfall stammen aus dem vorläufigen [[NTSB]]-Bericht und seinem Update vom September, sofern nicht anders gesagt. In den Worten des [[NTSB]]: Diese Informationen sind vorläufig und können sich ändern.
