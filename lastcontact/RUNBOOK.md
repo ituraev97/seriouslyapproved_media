@@ -62,3 +62,15 @@ Scripts assume episode work dir /home/claude/av/mia and web dir /home/claude/av/
 15. Metricool createScheduledPost (blogId 7805767): long (description with chapters, sources, independence line, hashtags; firstCommentText = one question), Shorts (text + "Full breakdown on the channel." + #planecrash #aviation #NTSB #shorts), TikToks (no links; #planecrash #aviation #NTSB #aviationtiktok #fyp). Then getScheduledPosts to confirm.
 16. Commit episode folder (script.py, sources.md, meta.json, research.md) to main under lastcontact/episodes/NNN-slug/ and add case to used_cases.json. Never commit media to main.
 17. Report to owner in Russian (SendUserMessage): case and why, titles, durations, times ET + Tashkent, Metricool links, fact-check result, QA, problems.
+
+## 3D aircraft models (added 2026-11-17, owner request: more realistic 3D)
+- Real CC BY 4.0 models from Sketchfab are on the orphan branch `lc-models` of this repo:
+  `git clone --depth 1 --branch lc-models https://github.com/ituraev97/seriouslyapproved_media /home/claude/lc-models`
+  Types: b767, b767_detail, learjet45, b737, a320, b777, crj900, citationx, c172, sr22 (`<type>/model.glb`, credits in CREDITS.json).
+- Load with three.js GLTFLoader instead of the procedural airplane; normalise scale from the bounding box to the real length of the type.
+- Lighting: HDRI from Poly Haven (CC0), e.g. `kloofendal_48d_partly_cloudy_puresky` 2k
+  (`curl -A "Mozilla/5.0" https://api.polyhaven.com/files/<id>` → hdri.2k.hdr.url), RGBELoader, ACES tone mapping, shadows on.
+- Liveries: NEVER show airline/company logos. Use "clean" mode (remove base-color maps, paint #eceef0) unless the model is already plain white (b767, citationx).
+- If a new type is needed: search Sketchfab API (downloadable=true, license CC Attribution or CC0, no NonCommercial/NoDerivs);
+  download needs the owner's Sketchfab API token — it is NOT stored anywhere; if no model fits, use the closest type and say "illustrative model" on screen.
+- Description must credit every model used: "3D model: <title> by <author> (Sketchfab), CC BY 4.0, <url>".
