@@ -1,4 +1,20 @@
 [
- {"ep": "001-test", "case": "Cessna 172 overturned behind United 2611, SNA, 2026-11-07", "status": "test only, not published"},
- {"ep": "002", "case": "21 Air Flight 7598 B767 overrun, MIA, 2026-09-06 (NTSB DCA26MA352)", "published": "2026-11-14", "youtube": "https://www.youtube.com/watch?v=_M1-RE_wTyw"}
+ {
+  "ep": "001-test",
+  "case": "Cessna 172 overturned behind United 2611, SNA, 2026-11-07",
+  "status": "test only, not published"
+ },
+ {
+  "ep": "002",
+  "case": "21 Air Flight 7598 B767 overrun, MIA, 2026-09-06 (NTSB DCA26MA352)",
+  "published": "2026-11-14",
+  "youtube": "https://www.youtube.com/watch?v=_M1-RE_wTyw"
+ },
+ {
+  "ep": "003",
+  "case": "Learjet 60 (Aurora Aviation dba Upper Jet) in-flight breakup and crash near Greenacres, Palm Beach County FL, 2026-11-01 (NTSB ERA27MA026)",
+  "scheduled": "2026-11-16 14:00 ET",
+  "basis": "NTSB page updates Nov 5/8/9, NTSB briefings Nov 2-3, FAA statement; no prelim yet — do an 'NTSB update' episode when the preliminary report or CVR info is published",
+  "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-5588209627400548419"
+ }
 ]
