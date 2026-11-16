@@ -1,0 +1,82 @@
+{
+ "b767": {
+  "title": "Boeing 767-200ER",
+  "author": "beanz_ncheese",
+  "profile": "https://sketchfab.com/beanzncheese",
+  "url": "https://sketchfab.com/3d-models/boeing-767-200er-41d1b62ed48c4212bf3ef7cd1fca3995",
+  "license": "CC Attribution",
+  "faces": 16247
+ },
+ "learjet45": {
+  "title": "Bombardier Learjet 45",
+  "author": "KarimFatatry",
+  "profile": "https://sketchfab.com/KarimFatatry",
+  "url": "https://sketchfab.com/3d-models/bombardier-learjet-45-6dff41e3621e4c00843314f0a3d83215",
+  "license": "CC Attribution",
+  "faces": 917116
+ },
+ "b737": {
+  "title": "Boeing737",
+  "author": "manilov.ap",
+  "profile": "https://sketchfab.com/manilov.ap",
+  "url": "https://sketchfab.com/3d-models/boeing737-259de41be0c7410e86b7e79be33d6b3a",
+  "license": "CC Attribution",
+  "faces": 28480
+ },
+ "a320": {
+  "title": "A320-200 with cockpit (ver VIII)",
+  "author": "TonyWony",
+  "profile": "https://sketchfab.com/TonyWony",
+  "url": "https://sketchfab.com/3d-models/a320-200-with-cockpit-ver-viii-8006237df31a4b1c8fd5f692194328e9",
+  "license": "CC Attribution",
+  "faces": 51028
+ },
+ "b777": {
+  "title": "boeing 777",
+  "author": "1883",
+  "profile": "https://sketchfab.com/1883",
+  "url": "https://sketchfab.com/3d-models/boeing-777-df830e5199634ae2955bf5b618ba6ab3",
+  "license": "CC Attribution",
+  "faces": 87290
+ },
+ "crj900": {
+  "title": "Airplane CRJ-900 Cityjet",
+  "author": "CityJet Training",
+  "profile": "https://sketchfab.com/artoud",
+  "url": "https://sketchfab.com/3d-models/airplane-crj-900-cityjet-02c4fa44604243c2bb48db64506a39af",
+  "license": "CC Attribution",
+  "faces": 8254
+ },
+ "citationx": {
+  "title": "Cessna Citation X",
+  "author": "SnowCrow",
+  "profile": "https://sketchfab.com/SnowCrow",
+  "url": "https://sketchfab.com/3d-models/cessna-citation-x-1d7bb0b48301482f8145cb121268dd7f",
+  "license": "CC Attribution",
+  "faces": 43787
+ },
+ "c172": {
+  "title": "FREE Cessna 172SP",
+  "author": "NLM",
+  "profile": "https://sketchfab.com/NLM-Group",
+  "url": "https://sketchfab.com/3d-models/free-cessna-172sp-c9cadc2f026946da8cf9715a683739e9",
+  "license": "CC Attribution",
+  "faces": 187484
+ },
+ "sr22": {
+  "title": "Cirrus SR22",
+  "author": "KOG_THORNS",
+  "profile": "https://sketchfab.com/ioai25312",
+  "url": "https://sketchfab.com/3d-models/cirrus-sr22-cba602c99c524cd4b40e5c2e5f9c5b4f",
+  "license": "CC Attribution",
+  "faces": 57917
+ },
+ "b767_detail": {
+  "title": "Boeing767",
+  "author": "manilov.ap",
+  "profile": "https://sketchfab.com/manilov.ap",
+  "url": "https://sketchfab.com/3d-models/boeing767-cc2c62f56cd94a7c8b2c586515b378e7",
+  "license": "CC Attribution",
+  "faces": 32690
+ }
+}
