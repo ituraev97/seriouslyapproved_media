@@ -78,5 +78,14 @@
   "url": "https://sketchfab.com/3d-models/boeing767-cc2c62f56cd94a7c8b2c586515b378e7",
   "license": "CC Attribution",
   "faces": 32690
+ },
+ "b737_800": {
+  "title": "B737-800 Blank Livery",
+  "author": "someone353",
+  "profile": "https://sketchfab.com/someone353",
+  "url": "https://sketchfab.com/3d-models/b737-800-blank-livery-1ba5534c77c746028e64cc80c07149bc",
+  "license": "CC Attribution",
+  "faces": 117730,
+  "notes": "Blank (white) livery, winglets. Nose -X after loading in three.js; hide mesh Object_19 (text atlas). Used in LC004."
  }
 }
