@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-500-normal.woff2);font-weight:500}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-700-normal.woff2);font-weight:700}
+:root{--night:#070B10;--scope:#0E1A16;--green:#3CFF8F;--amber:#FFB020;--red:#FF2E2E;--ink:#EEF2F4;--steel:#7E8A96}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--night);font-family:Int;color:var(--ink)}
+#gl{position:absolute;inset:0}
+.card{position:absolute;inset:0;opacity:0;background:radial-gradient(ellipse at 50% 45%,#0f1d18 0%,#070B10 70%)}
+.card::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(60,255,143,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(60,255,143,.05) 1px,transparent 1px);background-size:80px 80px}
+.k{font-family:Mono;font-weight:700;font-size:24px;letter-spacing:.16em;color:var(--green)}
+.h{font-family:Bar;font-weight:800;text-transform:uppercase;line-height:.95;letter-spacing:.01em}
+.b{font-size:38px;line-height:1.4}
+.m{font-family:Mono;font-weight:500}
+.src{font-family:Mono;font-size:20px;color:var(--steel);letter-spacing:.04em}
+.am{color:var(--amber)} .gr{color:var(--green)} .rd{color:var(--red)} .st{color:var(--steel)}
+.pan{background:rgba(7,11,16,.82);border:1px solid rgba(60,255,143,.18);border-radius:6px}
+[data-from]{opacity:0}
+.row{display:flex;align-items:baseline;gap:28px;padding:14px 0;border-bottom:1px solid rgba(126,138,150,.18)}
+.tag{display:inline-block;font-family:Mono;font-weight:700;font-size:20px;letter-spacing:.14em;padding:7px 13px;border-radius:3px;border:1px solid}
+#hud{position:absolute;right:56px;top:56px;width:470px;padding:22px 26px;opacity:0}
+#hud .v{font-family:Mono;font-weight:700;font-size:46px}
+#hud .l{font-family:Mono;font-size:18px;color:var(--steel);letter-spacing:.12em}
+#ev{position:absolute;left:56px;bottom:120px;opacity:0;padding:18px 26px;font-family:Mono;font-weight:700;font-size:34px}
+#recon{position:absolute;left:56px;top:50px;opacity:0}
+#cred{position:absolute;right:56px;bottom:40px;opacity:0}
+#wm{position:absolute;right:52px;top:44px;opacity:0;font-family:Bar;font-weight:800;font-size:30px;letter-spacing:.06em}
+.lbl{position:absolute;font-family:Mono;font-weight:700;font-size:21px;padding:7px 11px;background:rgba(7,11,16,.85);border-left:4px solid var(--green);white-space:nowrap;transform:translate(-50%,-150%);opacity:0}
+.lbl small{display:block;font-weight:500;font-size:16px;color:var(--steel)}
+.cv{display:flex;gap:26px;padding:10px 18px;border-radius:4px;font-size:30px;align-items:baseline;transition:none}
+.cv .t{font-family:Mono;font-weight:700;width:120px;color:var(--steel)}
+.cv.on{background:rgba(60,255,143,.10)} .cv.on .t{color:var(--amber)}
+
+.alt{font-family:Mono;font-weight:700;font-size:44px}
+.qt{font-family:Bar;font-weight:600;font-size:76px;line-height:1.08}
+.qt{font-family:Bar;font-weight:600;font-size:70px;line-height:1.1}
+.dim{font-family:Mono;font-weight:700;font-size:26px}
+</style></head>
+<body>
+<canvas id="gl" width="1920" height="1080"></canvas>
+<div id="recon" class="tag gr" style="border-color:rgba(60,255,143,.5);background:rgba(7,11,16,.8)">ILLUSTRATION · GENERIC TAXIWAY INTERSECTION · POSITIONS NOT PUBLISHED</div>
+<div id="cred" class="src pan" style="padding:8px 14px">3D MODELS (ILLUSTRATIVE, CC BY 4.0): “BOEING767” BY MANILOV.AP · “B737-800 BLANK LIVERY” BY SOMEONE353 · SKY: POLY HAVEN</div>
+<div id="hud" class="pan">
+  <div class="l">SATURDAY, NOV 14, 2026</div><div class="v am" id="htm">~9:00–9:15 P.M.</div>
+  <div class="l" style="margin-top:10px">PLACE</div><div class="v gr" style="font-size:34px">MIAMI INTL (MIA)</div>
+  <div class="l" style="margin-top:10px">AIRPLANES</div><div class="v" style="font-size:28px;line-height:1.35">COPA 427 · B737-800<br>UPS 358 · B767-300F</div>
+  <div class="src" style="margin-top:12px;font-size:16px">FAA STATEMENT · NTSB · AIRPORT</div>
+</div>
+<div id="ev" class="pan"></div>
+<div id="L_cmp" class="lbl">COPA 427 · B737-800<small>TO THE GATE · ARRIVED FROM PANAMA CITY</small></div>
+<div id="L_ups" class="lbl" style="border-color:var(--amber)">UPS 358 · B767-300F<small>TO THE RUNWAY · FOR BOGOTÁ</small></div>
+<div id="L_hit" class="lbl" style="border-color:var(--red)">LEFT WINGLET → NOSE<small>NTSB · EXACT GEOMETRY NOT PUBLISHED</small></div>
+<div id="L_wl" class="lbl" style="border-color:var(--amber)">WINGLET<small>737-800 · LEFT WING</small></div>
+<div id="L_d767" class="lbl" style="border-color:var(--amber);transform:translate(-50%,0)">767-300F<small>≈ 180 FT 3 IN LONG · 156 FT 1 IN SPAN · BOEING</small></div>
+<div id="L_d737" class="lbl" style="transform:translate(-50%,0)">737-800<small>≈ 129 FT 6 IN LONG · 117 FT 5 IN SPAN (WINGLETS) · BOEING</small></div>
+<div id="L_tip" class="lbl" style="border-color:var(--amber)">WINGTIP<small>NOT VISIBLE FROM THE COCKPIT ON LARGE JETS · NTSB, 2012</small></div>
+
+<!-- CARDS -->
+<div class="card" id="c_toll">
+  <div style="position:absolute;left:0;right:0;top:270px;text-align:center">
+    <div class="k st">NOV 14, 2026 · ~9 P.M. EST · MIAMI INTERNATIONAL AIRPORT</div>
+    <div class="h" style="font-size:112px;margin-top:30px">172 on board Copa 427</div>
+    <div class="h am" style="font-size:66px;margin-top:22px">2 minor injuries · no one seriously hurt</div>
+    <div class="h st" style="font-size:56px;margin-top:18px">UPS 767: substantial damage (NTSB)</div>
+    <div class="src" style="margin-top:40px">Sources: FAA statement Nov 14 · NTSB · Copa Airlines · Miami-Dade Aviation Department</div>
+  </div>
+</div>
+<div class="card" id="c_title">
+  <div style="position:absolute;left:0;right:0;top:290px;text-align:center">
+    <span class="tag am" style="border-color:rgba(255,176,32,.6)">INVESTIGATION OPENED · NO PROBABLE CAUSE</span>
+    <div class="h" style="font-size:150px;margin-top:26px">Two jets. <span class="gr">One intersection.</span></div>
+    <div class="k" style="font-size:30px;margin-top:20px;color:var(--ink)">UPS 358 · COPA 427 · WHAT THE FAA AND NTSB HAVE SAID</div>
+  </div>
+</div>
+<div class="card" id="c_rules">
+  <div style="position:absolute;left:150px;top:170px;width:1620px">
+    <div class="k">HOW WE BUILT THIS VIDEO</div>
+    <div class="h" style="font-size:88px;margin-top:16px">Official record only</div>
+    <div class="b" style="margin-top:40px">
+      <div class="row" data-from="r3"><span class="am m" style="width:260px">NOT USED</span>Recordings of the radio calls circulating online</div>
+      <div class="row" data-from="r3"><span class="gr m" style="width:260px">USED</span>FAA statement · NTSB statements · Copa · UPS · the airport</div>
+      <div class="row" data-from="r4"><span class="st m" style="width:260px">3D</span>Illustrations only · intersection and positions not published</div>
+    </div>
+  </div>
+</div>
+<div class="card" id="c_flights">
+  <div style="position:absolute;left:150px;top:150px;width:1620px">
+    <div class="k">THE TWO FLIGHTS · SATURDAY, NOV 14, 2026</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:40px">
+      <div class="pan" style="padding:30px 34px" data-from="f2"><div class="k">ARRIVING</div><div class="h" style="font-size:84px;margin-top:10px">Copa 427</div>
+        <div class="b" style="font-size:32px;margin-top:14px">Boeing 737-800 · HP-1826CMP<br>From Panama City · to the gate<br>166 passengers + 6 crew</div></div>
+      <div class="pan" style="padding:30px 34px;border-color:rgba(255,176,32,.35)" data-from="f2"><div class="k am">DEPARTING</div><div class="h" style="font-size:84px;margin-top:10px">UPS 358</div>
+        <div class="b" style="font-size:32px;margin-top:14px">Boeing 767-300F · N336UP<br>Freighter · to the runway<br>For Bogotá, Colombia</div></div>
+    </div>
+    <div class="src" style="margin-top:34px">Sources: FAA statement · NTSB (registrations) · Copa Airlines (passengers and crew) · FAA registry (N336UP)</div>
+  </div>
+</div>
+<div class="card" id="c_asdex">
+  <div style="position:absolute;left:150px;top:170px;width:1620px">
+    <div class="k">PRINTED ON THE FAA AIRPORT DIAGRAM: “ASDE-X IN USE”</div>
+    <div class="h" style="font-size:74px;margin-top:16px">Airport Surface Detection Equipment, Model X</div>
+    <div class="b" style="margin-top:34px">
+      <div class="row"><span class="gr m" style="width:240px">WHAT</span>Radar, multilateration and satellite technology</div>
+      <div class="row"><span class="gr m" style="width:240px">SHOWS</span>Aircraft and vehicles on the airport surface</div>
+      <div class="row"><span class="gr m" style="width:240px">FAA</span>“Particularly beneficial at night or during inclement weather”</div>
+      <div class="row"><span class="gr m" style="width:240px">BUILT TO</span>Help reduce runway incursions</div>
+    </div>
+    <div class="src" style="margin-top:30px">Source: FAA, faa.gov/air_traffic/technology/asde-x</div>
+  </div>
+</div>
+<div class="card" id="c_context">
+  <div style="position:absolute;left:150px;top:160px;width:1620px">
+    <div class="k">THE DAY BEFORE · FRIDAY, NOV 13, 2026</div>
+    <div class="h" style="font-size:88px;margin-top:16px">Nationwide ground stop</div>
+    <div class="b" style="margin-top:34px">
+      <div class="row" data-from="c2"><span class="am m" style="width:220px">~3:30 PM</span>Technical problem · FAA issues nationwide ground stop</div>
+      <div class="row" data-from="c3"><span class="st m" style="width:220px">FAA</span>Legacy equipment unstable as data flooded its network</div>
+      <div class="row" data-from="c3"><span class="am m" style="width:220px">8:15 PM</span>Air traffic resumes · “no indication” of a cyberattack</div>
+      <div class="row" data-from="c5"><span class="gr m" style="width:220px">LINK?</span>Not linked to the Miami collision by the FAA or NTSB</div>
+    </div>
+    <div class="src" style="margin-top:30px">Source: FAA, “Nationwide Ground Stop: Questions and Answers,” Nov 15, 2026 · times ET</div>
+  </div>
+</div>
+<div class="card" id="c_faa">
+  <div style="position:absolute;left:170px;top:190px;width:1580px">
+    <div class="k">FAA STATEMENT · NOV 14, 2026</div>
+    <div class="qt" style="margin-top:30px" data-from="s2">“The wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767 while the airplanes were taxiing at Miami International Airport.</div>
+    <div class="qt" style="margin-top:20px" data-from="s3"><span class="am">Air traffic controllers had told the UPS crew to give way to the Copa flight.</span>”</div>
+    <div class="src" style="margin-top:30px" data-from="s4">FAA: around 9 p.m. local time · Airport: about 9:15 p.m.</div>
+  </div>
+</div>
+<div class="card" id="c_ntsb">
+  <div style="position:absolute;left:170px;top:170px;width:1580px">
+    <div class="k">NTSB · AS QUOTED BY GLOBAL NEWS, NOV 15, 2026</div>
+    <div class="b" style="margin-top:28px;font-size:34px" data-from="s5">UPS 358 was taxiing to the runway and was instructed to give way to the Copa 737 (HP-1826CMP), which was taxiing to the gate.</div>
+    <div class="qt" style="margin-top:24px" data-from="s6">“UPS358 did not stop, and the left winglet of CMP427 <span class="am">impacted the nose of UPS358.</span>”</div>
+    <div class="b" style="margin-top:24px;font-size:34px" data-from="s7">Substantial damage to the UPS airplane · Copa damage assessment not yet completed</div>
+    <div class="tag am" style="margin-top:26px;border-color:rgba(255,176,32,.6)" data-from="s8">DESCRIBES THE SEQUENCE · NO CAUSE · NO RESPONSIBILITY ASSIGNED</div>
+  </div>
+</div>
+<div class="card" id="c_after">
+  <div style="position:absolute;left:150px;top:170px;width:1620px">
+    <div class="k">AFTER THE CONTACT</div>
+    <div class="b" style="margin-top:34px">
+      <div class="row" data-from="g2"><span class="gr m" style="width:260px">COPA</span>Left wingtip involved · “minor collision” · 2 passengers treated at the scene · all deplaned at the terminal</div>
+      <div class="row" data-from="g3"><span class="gr m" style="width:260px">AIRPORT</span>Miami-Dade Fire Rescue treated 2 people on scene · no hospital transport</div>
+      <div class="row" data-from="g4"><span class="gr m" style="width:260px">OPERATIONS</span>Flights redirected to other taxiways · operations not affected</div>
+    </div>
+    <div class="src" style="margin-top:30px">Sources: Copa Airlines · Greg Chin, Miami-Dade Aviation Department (via Fox News)</div>
+  </div>
+</div>
+<div class="card" id="c_aim">
+  <div style="position:absolute;left:170px;top:200px;width:1580px">
+    <div class="k">FAA AERONAUTICAL INFORMATION MANUAL · 4-3-18, TAXIING</div>
+    <div class="b" style="margin-top:30px;font-size:34px" data-from="t4">“ATC clearances or instructions pertaining to taxiing are predicated on known traffic and known physical airport conditions.”</div>
+    <div class="qt" style="margin-top:30px" data-from="t5">“Although an ATC clearance is issued for taxiing purposes, when operating in accordance with the CFRs, <span class="am">it is the responsibility of the pilot to avoid collision with other aircraft.</span>”</div>
+    <div class="src" style="margin-top:30px">Applies to every pilot on the airport · general guidance, not a finding about this event</div>
+  </div>
+</div>
+<div class="card" id="c_terms">
+  <div style="position:absolute;left:150px;top:140px;width:1620px">
+    <div class="k">49 CFR 830.2 · NTSB DEFINITIONS</div>
+    <div class="b" style="margin-top:30px;font-size:33px">
+      <div class="row" data-from="d2"><span class="gr m" style="width:330px">ACCIDENT</span>From boarding to deplaning: death or serious injury, OR the aircraft receives substantial damage</div>
+      <div class="row" data-from="d3"><span class="gr m" style="width:330px">SUBSTANTIAL DAMAGE</span>Adversely affects structural strength, performance or flight characteristics · would normally require major repair or replacement of the affected component</div>
+      <div class="row" data-from="d4"><span class="am m" style="width:330px">NOT SUBSTANTIAL</span>The rule's exclusions include damage to wingtips</div>
+      <div class="row" data-from="d5"><span class="st m" style="width:330px">THIS EVENT</span>NTSB: substantial damage to the UPS airplane</div>
+    </div>
+  </div>
+</div>
+<div class="card" id="c_letter">
+  <div style="position:absolute;left:150px;top:190px;width:1620px">
+    <div class="k">NTSB SAFETY RECOMMENDATION LETTER · SEPT 4, 2012</div>
+    <div class="h" style="font-size:120px;margin-top:20px"><span class="am">12</span> wingtip accidents during taxi</div>
+    <div class="b" style="margin-top:24px">Investigated by the NTSB since 1993 · a large airplane's wingtip collided with another airplane or an object on the taxiway</div>
+    <div class="src" style="margin-top:30px">Source: NTSB, Safety Recommendations A-12-48 and -49</div>
+  </div>
+</div>
+<div class="card" id="c_cases">
+  <div style="position:absolute;left:150px;top:170px;width:1620px">
+    <div class="k">CASES DESCRIBED IN THE NTSB LETTER</div>
+    <div class="b" style="margin-top:34px;font-size:34px">
+      <div class="row" data-from="w4"><span class="am m" style="width:300px">BOS · 2011</span>Delta 767-300ER left winglet struck the horizontal stabilizer of a CRJ900 waiting on a perpendicular taxiway</div>
+      <div class="row" data-from="w5"><span class="am m" style="width:300px">JFK · 2011</span>Air France A380 wingtip struck the tail of a Comair CRJ701</div>
+      <div class="row" data-from="w5"><span class="am m" style="width:300px">ORD · 2012</span>EVA Air 747 wingtip struck the tail of an American Eagle Embraer 135</div>
+    </div>
+    <div class="src" style="margin-top:30px">Source: NTSB letter A-12-48/-49 · background only, not an explanation of the Miami event</div>
+  </div>
+</div>
+<div class="card" id="c_recs">
+  <div style="position:absolute;left:150px;top:170px;width:1620px">
+    <div class="k">WHAT THE NTSB RECOMMENDED · A-12-48 / A-12-49</div>
+    <div class="b" style="margin-top:34px;font-size:34px">
+      <div class="row" data-from="w8"><span class="gr m" style="width:240px">NEW</span>Require an anti-collision aid, such as a camera system, on newly manufactured and newly type-certificated large airplanes</div>
+      <div class="row" data-from="w8"><span class="gr m" style="width:240px">EXISTING</span>Retrofit existing large airplanes where the wingtips are not easily visible from the cockpit</div>
+      <div class="row" data-from="w9"><span class="am m" style="width:240px">FAA, 2013</span>Rejected the recommendation to mandate the aids (Aviation Week)</div>
+    </div>
+  </div>
+</div>
+<div class="card" id="c_timeline">
+  <div style="position:absolute;left:150px;top:150px;width:1620px">
+    <div class="k">THE SEQUENCE · AS DESCRIBED BY THE FAA, NTSB AND AIRPORT</div>
+    <div class="b" style="margin-top:30px;font-size:34px">
+      <div class="row" data-from="x2"><span class="gr m" style="width:120px">01</span>Copa 427 lands from Panama City, taxis toward the gate · UPS 358 taxis toward the runway</div>
+      <div class="row" data-from="x3"><span class="gr m" style="width:120px">02</span>ATC instructs UPS 358 to give way to the Copa flight (FAA)</div>
+      <div class="row" data-from="x4"><span class="gr m" style="width:120px">03</span>UPS 358 does not stop · Copa left winglet strikes the UPS nose (NTSB)</div>
+      <div class="row" data-from="x4"><span class="gr m" style="width:120px">04</span>~9:00 p.m. (FAA) · ~9:15 p.m., intersection of two taxiways (airport)</div>
+    </div>
+  </div>
+</div>
+<div class="card" id="c_status_mid">
+  <div style="position:absolute;left:150px;top:220px;width:1620px">
+    <div class="k">WHAT THE NTSB HAS NOT YET RELEASED</div>
+    <div class="m" style="font-size:36px;line-height:2;margin-top:24px">
+      <div>RADIO RECORDINGS ANALYSIS <span class="am">NOT RELEASED</span></div>
+      <div>SURFACE SURVEILLANCE DATA &nbsp;<span class="am">NOT RELEASED</span></div>
+      <div>RECORDERS (CVR / FDR) &nbsp;&nbsp;&nbsp;&nbsp;<span class="am">NOT STATED</span></div>
+      <div>SPEEDS · POSITIONS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="am">NOT PUBLISHED</span></div>
+    </div>
+  </div>
+</div>
+<div class="card" id="c_miami">
+  <div style="position:absolute;left:150px;top:200px;width:1620px">
+    <div class="k">A SEPARATE EVENT · SAME AIRPORT</div>
+    <div class="h" style="font-size:88px;margin-top:16px">21 Air flight 7598 · Sept 6, 2026</div>
+    <div class="b" style="margin-top:30px">Boeing 767 freighter overran runway 30 · crossed a public road · struck two vehicles · 5 people on the ground killed</div>
+    <div class="src" style="margin-top:30px">Source: NTSB preliminary report DCA26MA352 · investigation ongoing · not connected to the Nov 14 collision</div>
+  </div>
+</div>
+<div class="card" id="c_open">
+  <div style="position:absolute;left:150px;top:130px;width:1620px">
+    <div class="k">OPEN QUESTIONS · NOT FINDINGS</div>
+    <div class="b" style="margin-top:30px">
+      <div class="row" data-from="q2"><span class="h gr" style="font-size:50px;width:60px">?</span>When the give-way instruction was issued, and what was said in reply</div>
+      <div class="row" data-from="q3"><span class="h gr" style="font-size:50px;width:60px">?</span>Why the UPS airplane did not stop</div>
+      <div class="row" data-from="q4"><span class="h gr" style="font-size:50px;width:60px">?</span>Each airplane's speed at the moment of contact</div>
+      <div class="row" data-from="q5"><span class="h gr" style="font-size:50px;width:60px">?</span>What surface surveillance showed · any alert</div>
+      <div class="row" data-from="q6"><span class="h gr" style="font-size:50px;width:60px">?</span>The damage to the Copa airplane's wing</div>
+    </div>
+    <div class="tag am" data-from="q7" style="margin-top:28px;border-color:rgba(255,176,32,.6)">PROBABLE CAUSE: EXPECTED IN THE NTSB FINAL REPORT</div>
+  </div>
+</div>
+<div class="card" id="c_status">
+  <div style="position:absolute;left:150px;top:200px;width:1000px">
+    <div class="k">STATUS · NOV 18, 2026</div>
+    <div class="m" style="font-size:36px;line-height:2;margin-top:20px">
+      <div>INVESTIGATION &nbsp;<span class="gr">NTSB · OPEN</span></div>
+      <div>INJURIES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gr">2 MINOR</span></div>
+      <div>PRELIMINARY &nbsp;&nbsp;&nbsp;<span class="am">EXPECTED WITHIN 30 DAYS</span></div>
+      <div>FINAL REPORT &nbsp;&nbsp;<span class="am">TYPICALLY 12–24 MONTHS</span></div></div>
+  </div>
+  <svg width="560" height="560" viewBox="-280 -280 560 560" style="position:absolute;right:170px;top:200px">
+    <circle r="250" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="170" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="90" fill="none" stroke="#1f3a2d" stroke-width="3"/>
+    <g id="sweep"><path d="M0 0 L0 -250 A250 250 0 0 1 120 -219 Z" fill="rgba(60,255,143,.18)"/></g>
+    <g fill="#3CFF8F"><circle cx="-200" cy="120" r="10"/><circle cx="-140" cy="80" r="10"/><circle cx="-80" cy="40" r="10"/><circle cx="-20" cy="0" r="10"/><circle cx="40" cy="-40" r="10"/></g>
+    <line x1="40" y1="-40" x2="120" y2="-95" stroke="#3CFF8F" stroke-width="4" stroke-dasharray="8 8"/>
+    <circle cx="130" cy="-100" r="34" fill="none" stroke="#FF2E2E" stroke-width="4" stroke-dasharray="8 6"/>
+    <path d="M114 -116 L146 -84 M146 -116 L114 -84" stroke="#FF2E2E" stroke-width="7"/>
+  </svg>
+  <div style="position:absolute;right:170px;top:790px;width:560px;text-align:center" class="h"><span style="font-size:86px">LAST </span><span class="gr" style="font-size:86px">CONTACT</span></div>
+  <div class="src" style="position:absolute;left:150px;bottom:70px">Independent channel · not affiliated with the NTSB, FAA or any airline · NTSB/FAA material: U.S. government works</div>
+</div>
+
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module" src="scene.js"></script>
+</body></html>
