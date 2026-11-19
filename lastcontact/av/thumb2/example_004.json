@@ -1,0 +1,4 @@
+{"A":{"left":{"img":"img/hit.png","cover":true,"pos":"50% 50%","chip":"3D RECONSTRUCTION"},"split":1,"tag":"NTSB","circle":{"x":632,"y":318,"r":95},
+ "line1":"UPS 767 vs COPA 737","line2":"MIAMI TAXIWAY COLLISION","line2color":"red","size1":104,"size2":96,"seal":false,"capBottom":20},
+ "B":{"left":{"img":"img/hit.png","zoom":1.9,"pos":"52% 42%","chip":"3D RECONSTRUCTION"},"right":{"number":"GIVE WAY","label":"WHAT ATC TOLD UPS"},"split":0.52,
+ "tag":"NTSB","line1":"UPS 767 vs COPA 737","line2":"WHAT THE NTSB SAID","line2color":"yellow","size1":100,"size2":92,"seal":false}}

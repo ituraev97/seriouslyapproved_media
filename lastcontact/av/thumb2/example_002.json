@@ -1,0 +1,3 @@
+{"A":{"left":{"img":"img/mia_plane.jpg","cover":true,"pos":"45% 55%"},"right":{"number":"113 KTS","label":"OFF THE RUNWAY END"},
+ "split":0.52,"tag":"NTSB DATA","line1":"AMAZON 767 IN MIAMI","line2":"WHAT THE FLIGHT DATA SHOWS","line2color":"red","size1":104,"size2":84,"seal":false},
+ "B":{"left":{"q":["WHY","DIDN'T IT","STOP?"]},"right":{"img":"img/mia_plane.jpg","cover":true,"pos":"40% 55%"},"split":0.5,"tag":"NTSB","seal":false}}

@@ -1,0 +1,3 @@
+{"A":{"left":{"img":"img/lj_ntsb.jpg","cover":true,"pos":"60% 40%"},"right":{"number":"4 MIN","label":"FROM 35,000 FT"},
+ "split":0.52,"tag":"NTSB UPDATE","line1":"FLORIDA LEARJET 60 CRASH","line2":"WHAT THE NTSB SAYS","line2color":"red","size1":98,"size2":96,"seal":false},
+ "B":{"left":{"q":["WHAT","HAPPENED AT","35,000 FT?"]},"right":{"img":"img/lj_ntsb.jpg","cover":true,"pos":"62% 40%"},"split":0.5,"tag":"NTSB","seal":false}}
