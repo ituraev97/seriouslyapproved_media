@@ -1,0 +1,1 @@
+{"A": {"left": {"img": "img/tire.png", "cover": true, "pos": "50% 45%", "vignette": false}, "right": {"number": "144 KT", "label": "GROUND SPEED"}, "split": 0.56, "tag": "NTSB", "line1": "LEARJET 60 \u00b7 4 TIRES FAILED", "line2": "WHAT THE NTSB FOUND", "line2color": "yellow", "size1": 88, "size2": 86, "seal": false, "capBottom": 22, "circle": {"x": 505, "y": 150, "r": 95}}}

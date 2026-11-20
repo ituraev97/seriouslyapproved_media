@@ -1,0 +1,566 @@
+[
+ {
+  "id": "o1",
+  "start": 0.6,
+  "end": 7.447,
+  "text": "September nineteenth, two thousand eight. Just before midnight, at Columbia Metropolitan Airport, in South Carolina."
+ },
+ {
+  "id": "o2",
+  "start": 7.947,
+  "end": 16.177,
+  "text": "A Learjet sixty is accelerating down runway one one, on a charter flight to Van Nuys, California. Two pilots, four passengers."
+ },
+ {
+  "id": "o3",
+  "start": 16.577,
+  "end": 22.104,
+  "text": "The first officer calls, V one. The speed after which, by their training, the takeoff continues."
+ },
+ {
+  "id": "o4",
+  "start": 22.504,
+  "end": 30.167,
+  "text": "About one and a half seconds later, the cockpit voice recorder picks up a loud rumbling sound. A main landing gear tire has come apart."
+ },
+ {
+  "id": "o5",
+  "start": 30.567,
+  "end": 36.549,
+  "text": "The first officer says, go. Then, go, go, go. The captain asks, go? And then the takeoff is rejected."
+ },
+ {
+  "id": "o6",
+  "start": 37.049,
+  "end": 42.867,
+  "text": "The jet goes off the end of the runway, and through the safety area beyond it, at more than one hundred knots."
+ },
+ {
+  "id": "o7",
+  "start": 43.667,
+  "end": 49.105,
+  "text": "Both pilots and two passengers were killed. Two passengers survived, with serious injuries."
+ },
+ {
+  "id": "o8",
+  "start": 49.705,
+  "end": 60.741,
+  "text": "In this video: what the N T S B found, second by second. Four tires. A decision made after V one. And a thrust reverser system that, at the worst moment, pushed the airplane forward."
+ },
+ {
+  "id": "n1",
+  "start": 61.941,
+  "end": 70.207,
+  "text": "One note first. The Learjet sixty is in the news again, after the crash near Greenacres, Florida, on November first, two thousand twenty-six."
+ },
+ {
+  "id": "n2",
+  "start": 70.607,
+  "end": 79.871,
+  "text": "This is not that case. That investigation is still open, and the N T S B has not said what caused it. Nothing in this video is an explanation of that crash."
+ },
+ {
+  "id": "n3",
+  "start": 80.271,
+  "end": 89.777,
+  "text": "This is a different accident, from two thousand eight, and the investigation is finished. The N T S B adopted its final report in April two thousand ten."
+ },
+ {
+  "id": "t1",
+  "start": 90.777,
+  "end": 97.664,
+  "text": "Last contact. Learjet sixty, November nine nine nine Lima Juliet. The rejected takeoff at Columbia."
+ },
+ {
+  "id": "h1",
+  "start": 99.064,
+  "end": 107.615,
+  "text": "Everything in this video comes from the N T S B accident report, number A A R ten, oh two, and its cockpit voice recorder transcript."
+ },
+ {
+  "id": "h2",
+  "start": 108.015,
+  "end": 114.828,
+  "text": "This airplane had no flight data recorder. It was not required to have one, because it had fewer than ten passenger seats."
+ },
+ {
+  "id": "h3",
+  "start": 115.228,
+  "end": 128.281,
+  "text": "So the speeds you will see come from a sound spectrum study. The N T S B measured the hum of the tires rolling over the grooves cut into the runway, and the pitch of the engines, and turned those sounds into ground speed and engine speed."
+ },
+ {
+  "id": "h4",
+  "start": 128.681,
+  "end": 141.132,
+  "text": "The three D scenes are built on those numbers, over today's aerial imagery. Motion in between is interpolated. The model is a Learjet fifty-five, the type the Learjet sixty prototype was modified from."
+ },
+ {
+  "id": "a1",
+  "start": 142.132,
+  "end": 156.852,
+  "text": "The Learjet sixty is a twin-engine business jet. This one, serial number sixty, three fourteen, was owned by Inter Travel and Services, and operated by Global Exec Aviation, under Part one thirty-five, the rules for on-demand charter flights."
+ },
+ {
+  "id": "a2",
+  "start": 157.252,
+  "end": 169.284,
+  "text": "The type was certificated in nineteen ninety-three. But not on a new type certificate. It was approved as a changed product, added to the certificate first issued in nineteen sixty-six for the Learjet twenty-four."
+ },
+ {
+  "id": "a4",
+  "start": 169.684,
+  "end": 176.203,
+  "text": "The flight that night was the crew's second of the day, a nonscheduled passenger flight from Columbia to Van Nuys."
+ },
+ {
+  "id": "p1",
+  "start": 176.803,
+  "end": 186.337,
+  "text": "The captain, who was the pilot flying, was thirty-one years old. She held an airline transport pilot certificate and had about three thousand one hundred forty hours in total."
+ },
+ {
+  "id": "p2",
+  "start": 186.637,
+  "end": 192.104,
+  "text": "But in the Learjet sixty, she had about thirty-five hours. About eight of them as pilot in command."
+ },
+ {
+  "id": "p3",
+  "start": 192.504,
+  "end": 199.685,
+  "text": "The first officer was fifty-two, with about eight thousand two hundred hours in total, and about three hundred in the Learjet sixty."
+ },
+ {
+  "id": "p4",
+  "start": 200.085,
+  "end": 207.024,
+  "text": "Both were qualified, with no previous accidents, incidents or enforcement actions. They had flown together twice before."
+ },
+ {
+  "id": "r1",
+  "start": 207.824,
+  "end": 219.017,
+  "text": "Columbia Metropolitan. Runway one one was eight thousand six hundred one feet long and one hundred fifty feet wide. Beyond its far end, a runway safety area, one thousand feet long."
+ },
+ {
+  "id": "r3",
+  "start": 219.417,
+  "end": 228.17,
+  "text": "The crew turned the wrong way at first. The controller amended the clearance, and the jet back-taxied on runway one one and turned around on the runway for takeoff."
+ },
+ {
+  "id": "r4",
+  "start": 228.57,
+  "end": 235.666,
+  "text": "The weather was clear. When the captain asked for a wind check, the controller gave, zero seven zero at eight, gusting fourteen."
+ },
+ {
+  "id": "b1",
+  "start": 236.466,
+  "end": 241.089,
+  "text": "At eleven fifty-one and twenty-two seconds, the captain briefed the rejected takeoff."
+ },
+ {
+  "id": "b2",
+  "start": 241.389,
+  "end": 251.676,
+  "text": "She said they would abort for anything below eighty knots. And then, after V one and before V two, for engine failure, fire, malfunction, or loss of directional control."
+ },
+ {
+  "id": "b3",
+  "start": 252.076,
+  "end": 261.03,
+  "text": "That is not what she had been trained to do. Her training said: after V one, the takeoff continues, unless the airplane is seriously in doubt as controllable."
+ },
+ {
+  "id": "b4",
+  "start": 261.43,
+  "end": 277.057,
+  "text": "The N T S B concluded there was no sign her understanding of the rule was deficient. She most likely misspoke. The N T S B noted that the rejected takeoff criteria rarely change from one takeoff to the next, so a briefing like this can be recited on autopilot."
+ },
+ {
+  "id": "b5",
+  "start": 277.457,
+  "end": 284.621,
+  "text": "The first officer added that they were, quote, pretty heavy. The N T S B found no evidence that weight and balance contributed."
+ },
+ {
+  "id": "y1",
+  "start": 285.621,
+  "end": 291.456,
+  "text": "Now, the four main landing gear tires. This is the part of the story nobody in the cockpit could see."
+ },
+ {
+  "id": "y2",
+  "start": 291.856,
+  "end": 304.578,
+  "text": "Each tire was rated at two hundred twenty pounds per square inch. The certification standard allows an aircraft tire to lose up to five percent of its pressure per day. This model was tested at about two point two percent a day."
+ },
+ {
+  "id": "y3",
+  "start": 304.978,
+  "end": 313.372,
+  "text": "The maintenance manual said to measure cold tire pressure before the first flight of every day. Or every ten days, on an airplane that is not flying."
+ },
+ {
+  "id": "y4",
+  "start": 313.772,
+  "end": 326.219,
+  "text": "The tires were new in December two thousand seven and had twenty landings. In the twelve days before the accident, the airplane flew on five of them. None of the facilities that handled it serviced the tires, or were asked to."
+ },
+ {
+  "id": "y5",
+  "start": 326.619,
+  "end": 332.332,
+  "text": "The operator's director of maintenance estimated that the pressures may not have been checked for about three weeks."
+ },
+ {
+  "id": "y6",
+  "start": 332.732,
+  "end": 344.55,
+  "text": "And checking them is not easy. On the Learjet sixty, someone has to crouch, or lie on the ground, under the wing, to reach the valves. An underinflated tire generally cannot be detected by looking at it."
+ },
+ {
+  "id": "y7",
+  "start": 345.35,
+  "end": 353.288,
+  "text": "An underinflated tire flexes too far with every turn. Heat builds inside, and the nylon cords that give it strength can melt."
+ },
+ {
+  "id": "l1",
+  "start": 354.088,
+  "end": 361.491,
+  "text": "The takeoff roll began normally. At eleven fifty-five and zero seconds, the first officer called, eighty knots, crosscheck."
+ },
+ {
+  "id": "l2",
+  "start": 361.791,
+  "end": 371.423,
+  "text": "At ten and a half seconds, V one. For this takeoff, V one was about one hundred thirty-six knots indicated airspeed. Rotation speed, about one forty-five."
+ },
+ {
+  "id": "l3",
+  "start": 371.723,
+  "end": 383.072,
+  "text": "At twelve seconds, the rumbling begins. Ground speed about one hundred thirty-eight knots. The airplane is more than two thousand five hundred feet down the runway, with about six thousand one hundred feet left."
+ },
+ {
+  "id": "l4",
+  "start": 383.472,
+  "end": 388.363,
+  "text": "That matches where the first pieces of the right outboard tire were later found on the runway."
+ },
+ {
+  "id": "l5",
+  "start": 388.763,
+  "end": 395.951,
+  "text": "Skid marks and gouges show the jet veering right, across the centerline, before the captain brought it back in line with the runway."
+ },
+ {
+  "id": "l6",
+  "start": 396.451,
+  "end": 403.041,
+  "text": "Four tenths of a second after the rumbling starts, the first officer says, go. At thirteen seconds: go, go, go."
+ },
+ {
+  "id": "l7",
+  "start": 403.341,
+  "end": 410.276,
+  "text": "At fourteen seconds, the captain asks, go? The ground speed peaks around this moment, at about one hundred forty-four knots."
+ },
+ {
+  "id": "l8",
+  "start": 410.576,
+  "end": 418.076,
+  "text": "The N T S B found that she reduced engine power for about one second, increased it again for about one second, and then reduced it."
+ },
+ {
+  "id": "l9",
+  "start": 418.376,
+  "end": 425.281,
+  "text": "The first officer: no? Alright. Then he asks what that was. At seventeen seconds, the captain: I don't know. We're not goin' though."
+ },
+ {
+  "id": "l10",
+  "start": 425.781,
+  "end": 434.893,
+  "text": "At nineteen and a half seconds, she calls, full out. The thrust reversers deploy, the brakes are applied, and the airplane slows to about one hundred twenty-eight knots."
+ },
+ {
+  "id": "l11",
+  "start": 435.293,
+  "end": 441.565,
+  "text": "By then, debris shows that all four main gear tires had failed. Within about nine seconds of the first one."
+ },
+ {
+  "id": "s2",
+  "start": 442.365,
+  "end": 452.46,
+  "text": "Investigators measured the spacing of the grooves in runway one one. Each time a tire crosses a groove, it makes a tiny sound. The faster the airplane, the higher the pitch."
+ },
+ {
+  "id": "s4",
+  "start": 452.76,
+  "end": 460.565,
+  "text": "The engines did the same. Their fan speed held near ninety-three percent until the noise burst, then wavered, dropped, and later rose again."
+ },
+ {
+  "id": "f1",
+  "start": 461.365,
+  "end": 463.939,
+  "text": "And that rise is the second half of this accident."
+ },
+ {
+  "id": "f2",
+  "start": 464.339,
+  "end": 472.276,
+  "text": "On the Learjet sixty, the thrust reverser levers sit piggyback on top of the thrust levers. Pilots lift them to command reverse thrust."
+ },
+ {
+  "id": "f3",
+  "start": 472.676,
+  "end": 481.054,
+  "text": "The reversers only stay deployed while the system knows the airplane is on the ground. That signal comes from squat switches on the main landing gear."
+ },
+ {
+  "id": "f4",
+  "start": 481.454,
+  "end": 488.283,
+  "text": "If the system loses that signal, the reversers are designed to stow. That protects against a reverser opening in flight."
+ },
+ {
+  "id": "f5",
+  "start": 488.683,
+  "end": 500.353,
+  "text": "But here is the trap. The engine computers then switch to the forward thrust schedule, while the levers in the cockpit are still raised to full reverse. And full reverse lever travel then means high forward thrust."
+ },
+ {
+  "id": "f6",
+  "start": 500.853,
+  "end": 512.637,
+  "text": "At twenty-one point six seconds, the recorder captured the nosewheel steering disconnect tone. The system had switched to air mode. The shredded tires had damaged the components and wiring in the main gear area."
+ },
+ {
+  "id": "f7",
+  "start": 513.037,
+  "end": 526.428,
+  "text": "The reversers stowed. There was no warning light telling the crew that their engines were now pushing them forward. The airplane was about two thousand five hundred feet from the end of the runway, at about one hundred twenty-three knots, and it began to accelerate."
+ },
+ {
+  "id": "f8",
+  "start": 526.828,
+  "end": 539.515,
+  "text": "To stop that thrust, a pilot would have had to push the reverse levers back down to stow. In the middle of a high speed stop, when maximum reverse is exactly what you want, the N T S B called that likely counterintuitive."
+ },
+ {
+  "id": "e1",
+  "start": 540.315,
+  "end": 541.984,
+  "text": "This failure mode was not new."
+ },
+ {
+  "id": "e3",
+  "start": 542.384,
+  "end": 553.397,
+  "text": "In nineteen ninety-eight, a Learjet sixty rejecting a takeoff at Washington Dulles lost both right main gear tires. The reversers stowed, and it went off the side of the runway, near the end."
+ },
+ {
+  "id": "e4",
+  "start": 553.797,
+  "end": 566.211,
+  "text": "In two thousand one, at Troy, Alabama, a Learjet sixty hit deer on landing. A squat switch was damaged, the reversers were found stowed, and the sound study showed the engines above any reverse thrust setting."
+ },
+ {
+  "id": "e5",
+  "start": 566.611,
+  "end": 584.697,
+  "text": "After that, Learjet revised a procedure and offered a modification, which the F A A did not require. The accident airplane already had it, from the factory. The N T S B later found that Learjet's safety analysis, and the F A A's review of it, failed to effectively address uncommanded forward thrust during a rejected takeoff."
+ },
+ {
+  "id": "x1",
+  "start": 585.497,
+  "end": 596.31,
+  "text": "Back on runway one one. At twenty-eight point seven seconds, the first officer says, shut 'em off. The engine speed had climbed to about nine thousand one hundred sixty-five r p m."
+ },
+ {
+  "id": "x2",
+  "start": 596.61,
+  "end": 605.269,
+  "text": "At thirty-two point four seconds: they're shut off, they're shut off. At thirty-six seconds, on the tower frequency: roll the equipment, we're goin' off the end."
+ },
+ {
+  "id": "x3",
+  "start": 605.669,
+  "end": 608.518,
+  "text": "The recording ends at forty-one point one seconds."
+ },
+ {
+  "id": "x4",
+  "start": 609.118,
+  "end": 623.403,
+  "text": "The jet crossed the one thousand foot safety area still traveling at more than one hundred knots. It struck approach lights and antennas, went down a steep slope, through the perimeter fence, across a five-lane road, and stopped against an embankment on the far side."
+ },
+ {
+  "id": "x5",
+  "start": 623.803,
+  "end": 635.103,
+  "text": "A fire broke out. All three of the airport's firefighting trucks and all four firefighters on duty arrived within five minutes of being alerted. The fire was under control about ten minutes later."
+ },
+ {
+  "id": "x6",
+  "start": 635.703,
+  "end": 648.255,
+  "text": "The two passengers who survived had been seated in the rear of the cabin. One of them remembered the captain pointing out the exits. He went straight to the emergency exit behind him, opened it, and both got out through the fire."
+ },
+ {
+  "id": "x7",
+  "start": 648.655,
+  "end": 655.713,
+  "text": "The N T S B found that the captain's passenger safety briefing contributed to the survival of those two passengers."
+ },
+ {
+  "id": "w1",
+  "start": 656.713,
+  "end": 661.327,
+  "text": "In the lab, investigators rebuilt about eighty percent of the right outboard tire."
+ },
+ {
+  "id": "w2",
+  "start": 661.627,
+  "end": 673.024,
+  "text": "The damage ran around the entire tire, at a generally uniform distance from the rim, on both sidewalls. The nylon fibers had melted and hardened into strands as stiff as broom bristles."
+ },
+ {
+  "id": "w3",
+  "start": 673.324,
+  "end": 679.271,
+  "text": "To bend a sidewall that far, a loaded tire would need to be about thirty-six percent underinflated."
+ },
+ {
+  "id": "w4",
+  "start": 679.571,
+  "end": 685.941,
+  "text": "There was no puncture, no impact damage, and no brake lockup. Tire design and manufacture were not factors."
+ },
+ {
+  "id": "c1",
+  "start": 686.741,
+  "end": 693.666,
+  "text": "In April two thousand ten, the N T S B adopted its final report. Its probable cause has two parts."
+ },
+ {
+  "id": "c2",
+  "start": 694.066,
+  "end": 703.638,
+  "text": "First, the operator's inadequate maintenance of the airplane's tires, which resulted in multiple tire failures during takeoff roll, due to severe underinflation."
+ },
+ {
+  "id": "c3",
+  "start": 704.038,
+  "end": 712.61,
+  "text": "Second, the captain's execution of a rejected takeoff after V one, which was inconsistent with her training and standard operating procedures."
+ },
+ {
+  "id": "c4",
+  "start": 713.21,
+  "end": 728.175,
+  "text": "Contributing: deficiencies in Learjet's design, and the F A A's certification, of the thrust reverser system, which permitted the failure of critical systems in the wheel well area to result in uncommanded forward thrust that increased the severity of the accident."
+ },
+ {
+  "id": "c5",
+  "start": 728.475,
+  "end": 740.417,
+  "text": "The inadequacy of the safety analysis and its review after the two thousand one accident. Inadequate industry training standards for tire failures. And the flight crew's poor crew resource management."
+ },
+ {
+  "id": "c6",
+  "start": 740.817,
+  "end": 754.267,
+  "text": "The board also found that the uncommanded forward thrust substantially increased the speed at which the airplane left the runway, and made the accident more severe. Whether the jet could have stopped without it, the N T S B said, cannot be determined."
+ },
+ {
+  "id": "v1",
+  "start": 755.267,
+  "end": 757.02,
+  "text": "Why does V one matter so much?"
+ },
+ {
+  "id": "v2",
+  "start": 757.32,
+  "end": 771.849,
+  "text": "V one is the last moment to begin a stop and still be able to stop on the remaining runway, under the conditions it was calculated for. Past it, crews are trained to fly the problem into the air, where there is time to think, and then come back to a full length runway."
+ },
+ {
+  "id": "v3",
+  "start": 772.249,
+  "end": 781.863,
+  "text": "That is why training programs, including hers, emphasized that the pilot flying take a hand off the thrust levers at the V one call. The decision is already made."
+ },
+ {
+  "id": "v4",
+  "start": 782.263,
+  "end": 794.048,
+  "text": "The N T S B also found that these pilots would have been better prepared if they had practiced tire failures on takeoff in a simulator, with realistic sound and motion. That training did not exist for them."
+ },
+ {
+  "id": "k1",
+  "start": 794.848,
+  "end": 795.711,
+  "text": "What changed."
+ },
+ {
+  "id": "k2",
+  "start": 796.011,
+  "end": 809.269,
+  "text": "In October two thousand eight, Learjet reminded operators that tire inflation cannot be judged by eye. In February two thousand nine, the F A A issued a safety alert on the dangers of improperly inflated tires."
+ },
+ {
+  "id": "k3",
+  "start": 809.569,
+  "end": 822.162,
+  "text": "Learjet's revised flight manual made tire pressure checks a limitation: within ninety-six hours before takeoff. And it added a warning in bold: the absence of any thrust reverser lights indicates forward thrust."
+ },
+ {
+  "id": "k4",
+  "start": 822.462,
+  "end": 837.538,
+  "text": "The N T S B asked the F A A to make the cockpit reverser levers match what the reversers are actually doing, to require tire pressure checks often enough to stay within limits, and to require tire pressure monitoring systems on all transport category airplanes."
+ },
+ {
+  "id": "z2",
+  "start": 837.938,
+  "end": 846.553,
+  "text": "Once more, the whole roll. Eighty knots. V one. The first tire. Go, go, go. Go? The reject. Full reverse, brakes, all four tires gone."
+ },
+ {
+  "id": "z3",
+  "start": 846.953,
+  "end": 852.004,
+  "text": "Air mode. The reversers stow. Forward thrust, with two thousand five hundred feet left."
+ },
+ {
+  "id": "z4",
+  "start": 852.404,
+  "end": 856.848,
+  "text": "Shut them off. The end of the runway. And then the safety area, the slope and the road."
+ },
+ {
+  "id": "q1",
+  "start": 857.848,
+  "end": 866.897,
+  "text": "Two things failed that night, and neither of them was visible from the cockpit. The pressure inside four tires, and the logic inside a thrust reverser system."
+ },
+ {
+  "id": "q2",
+  "start": 867.297,
+  "end": 882.377,
+  "text": "And less than two seconds after V one came an unknown noise, likely with shaking and vibration. What followed was a rejected takeoff after V one, which the N T S B found was inconsistent with the captain's training and standard operating procedures."
+ },
+ {
+  "id": "q4",
+  "start": 882.777,
+  "end": 886.792,
+  "text": "This was LAST CONTACT. Every crash leaves a record. Next file soon."
+ }
+]

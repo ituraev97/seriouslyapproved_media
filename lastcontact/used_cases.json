@@ -23,5 +23,12 @@
   "scheduled": "2026-11-18 14:00 ET",
   "basis": "FAA statement Nov 14; NTSB statement Nov 15 (via Global News/AP); no prelim yet \u2014 do an 'NTSB update' episode when the preliminary report (expected within 30 days) is out",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=7561906682967181101"
+ },
+ {
+  "ep": "005",
+  "case": "Global Exec Aviation Learjet 60 N999LJ, runway overrun during rejected takeoff, Columbia SC (CAE), 2008-09-19 (NTSB/AAR-10/02, final)",
+  "scheduled": "2026-11-20 14:00 ET",
+  "basis": "Fallback (no fresh case with official material); NTSB final report AAR-10/02; rides Learjet 60 demand with explicit 'not the 2026 Greenacres crash' disclaimer",
+  "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=7532407498094169455"
  }
 ]

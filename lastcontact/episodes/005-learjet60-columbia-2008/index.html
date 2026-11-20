@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-500-normal.woff2);font-weight:500}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-700-normal.woff2);font-weight:700}
+:root{--night:#070B10;--scope:#0E1A16;--green:#3CFF8F;--amber:#FFB020;--red:#FF2E2E;--ink:#EEF2F4;--steel:#7E8A96}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--night);font-family:Int;color:var(--ink)}
+#gl{position:absolute;inset:0}
+.card{position:absolute;inset:0;opacity:0;background:radial-gradient(ellipse at 50% 45%,#0f1d18 0%,#070B10 70%)}
+.card::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(60,255,143,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(60,255,143,.05) 1px,transparent 1px);background-size:80px 80px}
+.k{font-family:Mono;font-weight:700;font-size:24px;letter-spacing:.16em;color:var(--green)}
+.h{font-family:Bar;font-weight:800;text-transform:uppercase;line-height:.95;letter-spacing:.01em}
+.b{font-size:38px;line-height:1.4}
+.m{font-family:Mono;font-weight:500}
+.src{font-family:Mono;font-size:20px;color:var(--steel);letter-spacing:.04em}
+.am{color:var(--amber)} .gr{color:var(--green)} .rd{color:var(--red)} .st{color:var(--steel)}
+.pan{background:rgba(7,11,16,.82);border:1px solid rgba(60,255,143,.18);border-radius:6px}
+[data-from]{opacity:0}
+.row{display:flex;align-items:baseline;gap:28px;padding:14px 0;border-bottom:1px solid rgba(126,138,150,.18)}
+.tag{display:inline-block;font-family:Mono;font-weight:700;font-size:20px;letter-spacing:.14em;padding:7px 13px;border-radius:3px;border:1px solid}
+#hud{position:absolute;right:56px;top:56px;width:470px;padding:22px 26px;opacity:0}
+#hud .v{font-family:Mono;font-weight:700;font-size:46px}
+#hud .l{font-family:Mono;font-size:18px;color:var(--steel);letter-spacing:.12em}
+#ev{position:absolute;left:56px;bottom:120px;opacity:0;padding:18px 26px;font-family:Mono;font-weight:700;font-size:34px}
+#recon{position:absolute;left:56px;top:50px;opacity:0}
+#cred{position:absolute;right:56px;bottom:40px;opacity:0}
+#wm{position:absolute;right:52px;top:44px;opacity:0;font-family:Bar;font-weight:800;font-size:30px;letter-spacing:.06em}
+.lbl{position:absolute;font-family:Mono;font-weight:700;font-size:21px;padding:7px 11px;background:rgba(7,11,16,.85);border-left:4px solid var(--green);white-space:nowrap;transform:translate(-50%,-150%);opacity:0}
+.lbl small{display:block;font-weight:500;font-size:16px;color:var(--steel)}
+.cv{display:flex;gap:26px;padding:10px 18px;border-radius:4px;font-size:30px;align-items:baseline;transition:none}
+.cv .t{font-family:Mono;font-weight:700;width:120px;color:var(--steel)}
+.cv.on{background:rgba(60,255,143,.10)} .cv.on .t{color:var(--amber)}
+
+.big{font-family:Bar;font-weight:800;font-size:150px;line-height:1}
+.q{font-size:44px;line-height:1.35;font-family:Int;font-weight:600}
+.hl{background:rgba(255,176,32,.16);padding:0 8px}
+.cvr{display:flex;gap:30px;font-size:36px;padding:12px 18px;align-items:baseline;border-bottom:1px solid rgba(126,138,150,.15)}
+.cvr .t{font-family:Mono;font-weight:700;width:150px;color:var(--amber)}
+.cvr .w{font-family:Mono;font-weight:700;width:120px;color:var(--steel);font-size:24px}
+</style></head><body>
+<canvas id="gl" width="1920" height="1080"></canvas>
+<div id="recon" class="tag gr" style="border-color:rgba(60,255,143,.5);background:rgba(7,11,16,.8)">RECONSTRUCTION FROM NTSB AAR-10/02 DATA · MOTION BETWEEN DATA POINTS INTERPOLATED</div>
+<div id="cred" class="src pan" style="padding:8px 14px">ILLUSTRATIVE MODEL: LEARJET 55 · IMAGERY: USGS (CURRENT, NOT 2008) · NIGHT LIGHTING SIMPLIFIED</div>
+<div id="hud" class="pan">
+  <div class="l">GROUND SPEED (NTSB SOUND STUDY, ≈)</div><div class="v gr" id="hgs">—</div>
+  <div class="l" style="margin-top:10px">RUNWAY 11 REMAINING (≈)</div><div class="v" id="hr">—</div>
+  <div class="l" style="margin-top:10px">TIME AFTER 23:55:00 EDT</div><div class="v am" id="ht">—</div>
+  <div class="src" style="margin-top:12px;font-size:16px">NTSB/AAR-10/02 · FIG. 5–6, SEC. 1.1, 2.2</div>
+</div>
+<div id="ev" class="pan"></div>
+<div id="L_rwy" class="lbl">RUNWAY 11 · CAE<small>8,601 × 150 FT (2008)</small></div>
+<div id="L_start" class="lbl">TAKEOFF ROLL STARTS<small>RUNWAY 11</small></div>
+<div id="L_tire" class="lbl" style="border-color:var(--amber)">FIRST TIRE DEBRIS<small>>2,500 FT · ~6,100 FT LEFT</small></div>
+<div id="L_fwd" class="lbl" style="border-color:var(--red)">FORWARD THRUST BEGINS<small>~2,500 FT FROM THE END · ~123 KT</small></div>
+<div id="L_end" class="lbl" style="border-color:var(--red)">END OF RUNWAY 11</div>
+<div id="L_rsa" class="lbl">END OF 1,000-FT SAFETY AREA<small>&gt;100 KT (NTSB)</small></div>
+<div id="L_road" class="lbl">FIVE-LANE ROAD</div>
+<div id="L_rest" class="lbl" style="border-color:var(--red)">CAME TO REST (APPROX.)<small>EMBANKMENT, FAR SIDE OF ROAD</small></div>
+<div id="L_jet" class="lbl" style="border-color:var(--amber)">LEARJET 60 · N999LJ</div>
+
+<div class="card" id="c_toll"><div style="position:absolute;left:0;right:0;top:290px;text-align:center">
+  <div class="k st">SEPTEMBER 19, 2008 · COLUMBIA METROPOLITAN AIRPORT, SOUTH CAROLINA</div>
+  <div class="h" style="font-size:120px;margin-top:30px">4 killed · 2 seriously injured</div>
+  <div class="h st" style="font-size:60px;margin-top:22px">6 on board: 2 pilots, 4 passengers</div>
+  <div class="src" style="margin-top:40px">Source: NTSB Aircraft Accident Report NTSB/AAR-10/02</div></div></div>
+
+<div class="card" id="c_notthis"><div style="position:absolute;left:180px;top:220px;width:1560px">
+  <span class="tag am" style="border-color:rgba(255,176,32,.6)">NOT THE NOV. 1, 2026 GREENACRES, FL CRASH</span>
+  <div class="h" style="font-size:96px;margin-top:30px">Greenacres, FL · 2026</div>
+  <div class="b" style="margin-top:10px">Investigation <span class="am">ongoing</span> (NTSB ERA27MA026) · <span class="am">no probable cause</span></div>
+  <div class="h" style="font-size:96px;margin-top:60px" data-from="n3">Columbia, SC · 2008</div>
+  <div class="b" style="margin-top:10px" data-from="n3">Investigation <span class="gr">closed</span> · final report NTSB/AAR-10/02 · adopted <span class="gr">April 6, 2010</span></div></div></div>
+
+<div class="card" id="c_title"><div style="position:absolute;left:0;right:0;top:300px;text-align:center">
+  <span class="tag gr" style="border-color:rgba(60,255,143,.6)">NTSB FINAL REPORT · AAR-10/02</span>
+  <div class="h" style="font-size:170px;margin-top:26px">Learjet <span class="gr">60</span> · N999LJ</div>
+  <div class="k" style="font-size:32px;margin-top:20px;color:var(--ink)">THE REJECTED TAKEOFF AT COLUMBIA</div></div></div>
+
+<div class="card" id="c_how"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">HOW WE KNOW</div><div class="h" style="font-size:90px;margin-top:14px">The record</div>
+  <div class="b" style="margin-top:30px">
+   <div class="row"><span class="gr m">✓</span> NTSB Aircraft Accident Report NTSB/AAR-10/02 (2010)</div>
+   <div class="row"><span class="gr m">✓</span> Cockpit voice recorder transcript (Appendix B)</div>
+   <div class="row" data-from="h2"><span class="rd m">✗</span> No flight data recorder — not required (&lt;10 passenger seats, 14 CFR 135.152)</div>
+   <div class="row" data-from="h2"><span class="am m">≈</span> Speeds: NTSB sound spectrum + airplane performance study</div></div></div></div>
+
+<div class="card" id="c_crew"><div style="position:absolute;left:180px;top:160px;width:1560px">
+  <div class="k">THE CREW · NTSB SEC. 1.5</div><div class="h" style="font-size:90px;margin-top:14px">Two pilots</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:40px">
+   <div class="pan" style="padding:30px"><div class="k am">CAPTAIN · PILOT FLYING</div><div class="m" style="font-size:34px;line-height:1.8;margin-top:14px">AGE 31 · ATP<br>≈3,140 H TOTAL<br><span class="am" data-from="p2">≈35 H LEARJET 60</span><br><span class="am" data-from="p2">≈8 H AS PIC IN TYPE</span></div></div>
+   <div class="pan" style="padding:30px" data-from="p3"><div class="k st">FIRST OFFICER</div><div class="m" style="font-size:34px;line-height:1.8;margin-top:14px">AGE 52 · ATP<br>≈8,200 H TOTAL<br>≈300 H LEARJET 60</div></div></div>
+  <div class="b" style="margin-top:40px" data-from="p4">Both qualified · no previous accidents, incidents or enforcement actions</div></div></div>
+
+<div class="card" id="c_brief"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">23:51:22 · PRE-TAKEOFF BRIEFING · CVR</div>
+  <div class="q pan" style="padding:34px;margin-top:26px">“we’ve got plenty of runway so we’ll abort for anything below eighty knots <span class="hl" data-from="b2">after V-one and before V-two engine failure fire malfunction loss of directional control</span>…”</div>
+  <div class="b" style="margin-top:34px" data-from="b3"><span class="am m">TRAINING:</span> above V1, reject only if control is seriously in doubt</div>
+  <div class="b" data-from="b4"><span class="gr m">NTSB:</span> she “likely misspoke”</div>
+  <div class="b" data-from="b5"><span class="st m">FO:</span> “we’re pretty heavy” · est. up to 300 lb over max gross weight — no evidence it contributed (NTSB)</div></div></div>
+
+<div class="card" id="c_tires"><div style="position:absolute;left:180px;top:140px;width:1560px">
+  <div class="k">MAIN GEAR TIRES · GOODYEAR FLIGHT EAGLE 17.5 × 5.75-8 · NTSB SEC. 1.6.1</div>
+  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:40px;margin-top:40px">
+   <div><div class="big gr">220</div><div class="m st" style="font-size:24px">PSI RATED PRESSURE</div></div>
+   <div><div class="big am">5%</div><div class="m st" style="font-size:24px">MAX LOSS/DAY ALLOWED (TSO-C62c)</div></div>
+   <div><div class="big">2.2%</div><div class="m st" style="font-size:24px">TESTED LOSS/DAY</div></div></div>
+  <div class="b" style="margin-top:40px" data-from="y3">Manual: check cold pressure <span class="gr">before the first flight of every day</span> (or every 10 days if parked)</div>
+  <div class="b" data-from="y4">New Dec 2007 · 20 landings · flew 5 of the last 12 days · no facility serviced the tires in that period</div>
+  <div class="b" data-from="y5"><span class="rd">Director of maintenance:</span> possibly <span class="am">not checked for ~3 weeks</span></div></div></div>
+
+<div class="card" id="c_cvr"><div style="position:absolute;left:180px;top:120px;width:1560px">
+  <div class="k">CVR · SECONDS AFTER 23:55:00 EDT · NTSB AAR-10/02</div>
+  <div style="margin-top:30px">
+   <div class="cvr"><span class="t">00.1</span><span class="w">FO</span>“eighty knots. Crosscheck”</div>
+   <div class="cvr"><span class="t">10.5</span><span class="w">FO</span>“V-one”</div>
+   <div class="cvr"><span class="t">12.0</span><span class="w">CAM</span>[loud rumbling begins] · ≈138 kt</div>
+   <div class="cvr" data-from="l6"><span class="t">12.4</span><span class="w">FO</span>“go”</div>
+   <div class="cvr" data-from="l6"><span class="t">13.0</span><span class="w">FO</span>“go go go”</div>
+   <div class="cvr" data-from="l7"><span class="t">14.0</span><span class="w">CAPT</span>“go?” · peak ≈144 kt</div>
+   <div class="cvr" data-from="l9"><span class="t">14.6</span><span class="w">FO</span>“no? ar- alright. Get ah what the [expletive] was that?”</div>
+   <div class="cvr" data-from="l9"><span class="t">17.0</span><span class="w">CAPT</span>“I don’t know. We’re not goin’ though.”</div></div>
+  <div class="src" style="margin-top:22px" data-from="l8">NTSB: power reduced ≈1 s, increased ≈1 s, then reduced again</div></div></div>
+
+<div class="card" id="c_spectrum"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">NTSB SOUND SPECTRUM STUDY · SEC. 1.16.1</div><div class="h" style="font-size:90px;margin-top:14px">Speed from sound</div>
+  <svg width="1560" height="330" viewBox="0 0 1560 330" style="margin-top:30px">
+   <rect x="0" y="200" width="1560" height="60" fill="#2a2f35"/>
+   <g fill="#11151a"><rect x="20" y="200" width="6" height="60"/><rect x="60" y="200" width="6" height="60"/><rect x="100" y="200" width="6" height="60"/><rect x="140" y="200" width="6" height="60"/><rect x="180" y="200" width="6" height="60"/><rect x="220" y="200" width="6" height="60"/><rect x="260" y="200" width="6" height="60"/><rect x="300" y="200" width="6" height="60"/><rect x="340" y="200" width="6" height="60"/><rect x="380" y="200" width="6" height="60"/><rect x="420" y="200" width="6" height="60"/><rect x="460" y="200" width="6" height="60"/><rect x="500" y="200" width="6" height="60"/><rect x="540" y="200" width="6" height="60"/><rect x="580" y="200" width="6" height="60"/><rect x="620" y="200" width="6" height="60"/><rect x="660" y="200" width="6" height="60"/><rect x="700" y="200" width="6" height="60"/><rect x="740" y="200" width="6" height="60"/><rect x="780" y="200" width="6" height="60"/><rect x="820" y="200" width="6" height="60"/><rect x="860" y="200" width="6" height="60"/><rect x="900" y="200" width="6" height="60"/><rect x="940" y="200" width="6" height="60"/><rect x="980" y="200" width="6" height="60"/><rect x="1020" y="200" width="6" height="60"/><rect x="1060" y="200" width="6" height="60"/><rect x="1100" y="200" width="6" height="60"/><rect x="1140" y="200" width="6" height="60"/><rect x="1180" y="200" width="6" height="60"/><rect x="1220" y="200" width="6" height="60"/><rect x="1260" y="200" width="6" height="60"/><rect x="1300" y="200" width="6" height="60"/><rect x="1340" y="200" width="6" height="60"/><rect x="1380" y="200" width="6" height="60"/><rect x="1420" y="200" width="6" height="60"/><rect x="1460" y="200" width="6" height="60"/><rect x="1500" y="200" width="6" height="60"/><rect x="1540" y="200" width="6" height="60"/></g>
+   <circle id="wheel" cx="300" cy="150" r="48" fill="#20252b" stroke="#7E8A96" stroke-width="6"/>
+   <path id="wave" d="" stroke="#3CFF8F" stroke-width="4" fill="none"/>
+   <text x="0" y="310" font-family="Mono" font-size="24" fill="#7E8A96">RUNWAY GROOVES · MEASURED SPACING</text>
+  </svg>
+  <div class="b" style="margin-top:10px">Each groove → a pulse of sound · pulses per second → <span class="gr">ground speed</span></div></div></div>
+
+<div class="card" id="c_trlogic"><div style="position:absolute;left:150px;top:120px;width:1620px">
+  <div class="k">LEARJET 60 THRUST REVERSER LOGIC · NTSB SEC. 1.6.2.3, 1.16.4, 2.2.2</div>
+  <div style="display:flex;gap:26px;margin-top:40px;align-items:stretch">
+   <div class="pan" style="padding:26px;flex:1"><div class="k st">1 · LEVERS</div><div class="b" style="margin-top:10px">Pilot lifts reverser levers to <span class="gr">full reverse</span></div></div>
+   <div class="pan" style="padding:26px;flex:1" data-from="f3"><div class="k st">2 · SQUAT SWITCHES</div><div class="b" style="margin-top:10px">“On the ground” signal from main gear</div></div>
+   <div class="pan" style="padding:26px;flex:1;border-color:rgba(255,46,46,.6)" data-from="f4"><div class="k rd">3 · SIGNAL LOST</div><div class="b" style="margin-top:10px">Reversers <span class="am">stow</span> (fail-safe for flight)</div></div>
+   <div class="pan" style="padding:26px;flex:1;border-color:rgba(255,46,46,.9)" data-from="f5"><div class="k rd">4 · RESULT</div><div class="b" style="margin-top:10px">Levers still raised → <span class="rd">forward thrust</span>, near takeoff power</div></div></div>
+  <div class="b" style="margin-top:40px" data-from="f5"><span class="rd m">NO WARNING</span> — all reverser lights simply go out</div></div></div>
+
+<div class="card" id="c_history"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">EARLIER EVENTS · NTSB SEC. 1.16.4.2</div><div class="h" style="font-size:90px;margin-top:14px">It had happened before</div>
+  <div class="b" style="margin-top:30px">
+   <div class="row" data-from="e3"><span class="am m">1994</span> Learjet 60 prototype · suspected flat tire · reversers gave no deceleration · off the runway end</div>
+   <div class="row" data-from="e3"><span class="am m">1998</span> Washington Dulles · rejected takeoff · both right main tires failed · reversers stowed</div>
+   <div class="row" data-from="e4"><span class="am m">2001</span> Troy, Alabama · deer strike on landing · squat switch damaged · reversers stowed</div>
+   <div class="row" data-from="e5"><span class="gr m">2005</span> Learjet service bulletin 60-78-7 · <span class="st">not required by the FAA</span></div></div></div></div>
+
+<div class="card" id="c_survive"><div style="position:absolute;left:0;right:0;top:360px;text-align:center">
+  <div class="k">NTSB FINDING 24</div>
+  <div class="h" style="font-size:84px;margin-top:24px;padding:0 160px">“The captain’s passenger safety briefing contributed to the survival of two passengers.”</div></div></div>
+
+<div class="card" id="c_cause"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">NTSB PROBABLE CAUSE · ADOPTED APRIL 6, 2010</div>
+  <div class="q pan" style="padding:36px;margin-top:30px">“…the <span class="hl" data-from="c2">operator’s inadequate maintenance of the airplane’s tires, which resulted in multiple tire failures during takeoff roll due to severe underinflation</span>, and <span class="hl" data-from="c3">the captain’s execution of a rejected takeoff (RTO) after V1, which was inconsistent with her training and standard operating procedures</span>.”</div></div></div>
+
+<div class="card" id="c_contrib"><div style="position:absolute;left:180px;top:140px;width:1560px">
+  <div class="k">CONTRIBUTING TO THE ACCIDENT · NTSB</div>
+  <div class="b" style="margin-top:30px;font-size:34px">
+   <div class="row"><span class="am m">1</span> Deficiencies in Learjet’s design of and the FAA’s certification of the thrust reverser system, which increased the severity of the accident</div>
+   <div class="row" data-from="c5"><span class="am m">2</span> The inadequacy of Learjet’s safety analysis and the FAA’s review of it after a 2001 uncommanded forward thrust accident</div>
+   <div class="row" data-from="c5"><span class="am m">3</span> Inadequate industry training standards for tire failure scenarios</div>
+   <div class="row" data-from="c5"><span class="am m">4</span> The flight crew’s poor crew resource management</div></div>
+  <div class="b" style="margin-top:30px" data-from="c6"><span class="gr m">NTSB:</span> uncommanded forward thrust increased the severity · whether it could have stopped without it: <span class="am">cannot be determined</span></div></div></div>
+
+<div class="card" id="c_v1"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">TAKEOFF SPEEDS FOR THIS FLIGHT · NTSB SEC. 2.2.1</div>
+  <svg width="1560" height="300" viewBox="0 0 1560 300" style="margin-top:40px">
+   <line x1="40" y1="150" x2="1520" y2="150" stroke="#7E8A96" stroke-width="4"/>
+   <rect x="40" y="130" width="560" height="40" fill="rgba(60,255,143,.25)"/><rect x="600" y="130" width="920" height="40" fill="rgba(255,176,32,.18)"/>
+   <g font-family="Mono" font-weight="700" font-size="30" fill="#EEF2F4">
+    <line x1="300" y1="100" x2="300" y2="200" stroke="#EEF2F4" stroke-width="3"/><text x="250" y="80">80 KT</text>
+    <line x1="600" y1="90" x2="600" y2="210" stroke="#3CFF8F" stroke-width="5"/><text x="540" y="70" fill="#3CFF8F">V1 ≈136</text>
+    <line x1="900" y1="100" x2="900" y2="200" stroke="#EEF2F4" stroke-width="3"/><text x="840" y="80">VR ≈145</text>
+    <line x1="1200" y1="100" x2="1200" y2="200" stroke="#EEF2F4" stroke-width="3"/><text x="1140" y="80">V2 ≈153</text>
+    <text x="120" y="260" fill="#3CFF8F" font-size="26">STOP POSSIBLE (CALCULATED)</text><text x="760" y="260" fill="#FFB020" font-size="26">CONTINUE — UNLESS CONTROL SERIOUSLY IN DOUBT</text></g></svg>
+  <div class="src">Speeds in knots indicated airspeed, as given by the NTSB</div></div></div>
+
+<div class="card" id="c_changes"><div style="position:absolute;left:180px;top:120px;width:1560px">
+  <div class="k">WHAT CHANGED · NTSB SEC. 1.18, 4</div>
+  <div class="b" style="margin-top:26px;font-size:32px">
+   <div class="row" data-from="k2"><span class="am m">OCT 2008</span> Learjet advisory wire AW 32-045: tire inflation can’t be judged visually</div>
+   <div class="row" data-from="k2"><span class="am m">FEB 2009</span> FAA SAFO 09005 “Dangers of Improperly Inflated Tires”</div>
+   <div class="row" data-from="k3"><span class="am m">MAR 2009</span> Learjet 60 flight manual: tire check within 96 hours · “absence of any [TR] lights indicates forward thrust”</div>
+   <div class="row" data-from="k4"><span class="gr m">2009–10</span> NTSB recs: reverser levers must match reversers (A-09-55/56) · tire checks (A-10-47) · tire pressure monitoring (A-10-50)</div>
+   <div class="row" data-from="k4"><span class="gr m">2010</span> NTSB recs: Part 135 experience in type (A-10-57/58) · realistic tire tests (A-10-59) · tire-failure simulator training (A-10-55/56)</div></div></div></div>
+
+<div class="card" id="c_status">
+  <div style="position:absolute;left:150px;top:200px;width:1000px">
+    <div class="k">CASE FILE · N999LJ</div>
+    <div class="m" style="font-size:36px;line-height:2;margin-top:20px">
+      <div>INVESTIGATION &nbsp;<span class="gr">CLOSED</span></div>
+      <div>FINAL REPORT &nbsp;&nbsp;<span class="gr">NTSB/AAR-10/02</span></div>
+      <div>ADOPTED &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gr">APRIL 6, 2010</span></div>
+      <div>NTSB RECS &nbsp;&nbsp;&nbsp;&nbsp;<span class="am">A-09-55…60 · A-10-46…59</span></div></div></div>
+  <svg width="560" height="560" viewBox="-280 -280 560 560" style="position:absolute;right:170px;top:200px">
+    <circle r="250" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="170" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="90" fill="none" stroke="#1f3a2d" stroke-width="3"/>
+    <g id="sweep"><path d="M0 0 L0 -250 A250 250 0 0 1 120 -219 Z" fill="rgba(60,255,143,.18)"/></g>
+    <g fill="#3CFF8F"><circle cx="-200" cy="120" r="10"/><circle cx="-140" cy="80" r="10"/><circle cx="-80" cy="40" r="10"/><circle cx="-20" cy="0" r="10"/><circle cx="40" cy="-40" r="10"/></g>
+    <line x1="40" y1="-40" x2="120" y2="-95" stroke="#3CFF8F" stroke-width="4" stroke-dasharray="8 8"/>
+    <circle cx="130" cy="-100" r="34" fill="none" stroke="#FF2E2E" stroke-width="4" stroke-dasharray="8 6"/>
+    <path d="M114 -116 L146 -84 M146 -116 L114 -84" stroke="#FF2E2E" stroke-width="7"/>
+  </svg>
+  <div style="position:absolute;right:170px;top:790px;width:560px;text-align:center" class="h"><span style="font-size:86px">LAST </span><span class="gr" style="font-size:86px">CONTACT</span></div>
+  <div class="src" style="position:absolute;left:150px;bottom:70px">Independent channel · not affiliated with the NTSB, FAA or any airline · NTSB/FAA documents are U.S. government works</div>
+
+</div>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module" src="scene.js"></script>
+</body></html>
