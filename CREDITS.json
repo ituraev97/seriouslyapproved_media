@@ -87,5 +87,14 @@
   "license": "CC Attribution",
   "faces": 117730,
   "notes": "Blank (white) livery, winglets. Nose -X after loading in three.js; hide mesh Object_19 (text atlas). Used in LC004."
+ },
+ "learjet55": {
+  "title": "Learjet-55",
+  "author": "aarohan.das",
+  "profile": "https://sketchfab.com/aarohan.das",
+  "url": "https://sketchfab.com/3d-models/learjet-55-ee63b26a22bd496d9b6fbb53fb43908d",
+  "license": "CC Attribution",
+  "faces": 112790,
+  "note": "No textures; red/white paint via material colors - render with clean #eceef0. Nose +Z. Used as closest CC-BY stand-in for Learjet 60 (LJ60 prototype was a modified LJ55)."
  }
 }
