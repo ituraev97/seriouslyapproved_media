@@ -66,7 +66,8 @@ Scripts assume episode work dir /home/claude/av/mia and web dir /home/claude/av/
 ## 3D aircraft models (added 2026-11-17, owner request: more realistic 3D)
 - Real CC BY 4.0 models from Sketchfab are on the orphan branch `lc-models` of this repo:
   `git clone --depth 1 --branch lc-models https://github.com/ituraev97/seriouslyapproved_media /home/claude/lc-models`
-  Types: b767, b767_detail, learjet45, b737, a320, b777, crj900, citationx, c172, sr22 (`<type>/model.glb`, credits in CREDITS.json).
+  Types: b767, b767_detail, learjet45, learjet55, b737, b737_800, a320, b777, crj900, citationx, c172, sr22 (`<type>/model.glb`, credits in CREDITS.json).
+- Render speed (2026-11-20): SwiftShader on 2 cores ≈ 0.7 s/frame for 3D with HDRI env; never run other heavy jobs (music synth, x264) in parallel with build.py browser. Background jobs die when a turn ends — run long encodes in the foreground (timeout ≤ 600 s).
 - Load with three.js GLTFLoader instead of the procedural airplane; normalise scale from the bounding box to the real length of the type.
 - Lighting: HDRI from Poly Haven (CC0), e.g. `kloofendal_48d_partly_cloudy_puresky` 2k
   (`curl -A "Mozilla/5.0" https://api.polyhaven.com/files/<id>` → hdri.2k.hdr.url), RGBELoader, ACES tone mapping, shadows on.
