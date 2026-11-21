@@ -75,3 +75,4 @@ Scripts assume episode work dir /home/claude/av/mia and web dir /home/claude/av/
 - If a new type is needed: search Sketchfab API (downloadable=true, license CC Attribution or CC0, no NonCommercial/NoDerivs);
   download needs the owner's Sketchfab API token — it is NOT stored anywhere; if no model fits, use the closest type and say "illustrative model" on screen.
 - Description must credit every model used: "3D model: <title> by <author> (Sketchfab), CC BY 4.0, <url>".
+- b777 model (2026-11-21, ep 006): long axis is z, nose faces −z → rotate yaw 180°; registration text "HL7742" is dark-material geometry on the wing → paint every material white except glass (see episodes/006 scene.js). Airborne-approach scene template (glidepath ribbon, PAPI sprites, HUD with A/T mode + PAPI) in episodes/006 scene.js.
