@@ -1,0 +1,500 @@
+[
+ {
+  "id": "o1",
+  "start": 0.6,
+  "end": 5.913,
+  "text": "July sixth, two thousand thirteen. Late morning, clear skies over San Francisco Bay."
+ },
+ {
+  "id": "o2",
+  "start": 6.413,
+  "end": 16.287,
+  "text": "A Boeing seven seven seven, Asiana Airlines flight two fourteen from Seoul, is on a visual approach to runway two eight left. Three hundred seven people on board."
+ },
+ {
+  "id": "o3",
+  "start": 16.687,
+  "end": 28.309,
+  "text": "The weather is good. The runway is in sight. The airplane is not broken. And yet, about a minute from the runway, the autothrottle has stopped controlling the airspeed, and none of the three pilots will notice the change."
+ },
+ {
+  "id": "o4",
+  "start": 28.709,
+  "end": 35.698,
+  "text": "Just below two hundred feet, the instructor says, it's low. At ninety feet, he says, speed. The thrust levers go forward."
+ },
+ {
+  "id": "o5",
+  "start": 36.098,
+  "end": 41.702,
+  "text": "Seven seconds later, the main landing gear and the rear fuselage hit the seawall, short of the runway."
+ },
+ {
+  "id": "o6",
+  "start": 42.502,
+  "end": 48.271,
+  "text": "Three passengers were killed. One hundred eighty-seven people were injured, forty-nine of them seriously."
+ },
+ {
+  "id": "o7",
+  "start": 48.871,
+  "end": 61.541,
+  "text": "In this video: what the N T S B found, second by second. A visual approach without a glideslope. An autothrottle that, without the crew realizing it, was no longer controlling speed. And a go-around that came too late."
+ },
+ {
+  "id": "t1",
+  "start": 62.741,
+  "end": 67.434,
+  "text": "Last contact. Asiana flight two fourteen. The approach to San Francisco."
+ },
+ {
+  "id": "h1",
+  "start": 68.834,
+  "end": 77.135,
+  "text": "Everything here comes from the N T S B accident report, number A A R fourteen, oh one, adopted in June two thousand fourteen."
+ },
+ {
+  "id": "h2",
+  "start": 77.535,
+  "end": 87.983,
+  "text": "The airplane had a flight data recorder and a cockpit voice recorder, and both were read out. The times you will see are Pacific daylight time, to a tenth of a second where the report gives it."
+ },
+ {
+  "id": "h3",
+  "start": 88.383,
+  "end": 100.297,
+  "text": "The three D scenes are built on those numbers, over today's aerial imagery. Motion in between is interpolated. The model is a generic Boeing seven seven seven, shown without any airline markings."
+ },
+ {
+  "id": "a1",
+  "start": 101.297,
+  "end": 110.745,
+  "text": "The airplane was a Boeing seven seven seven, two hundred E R, Korean registration H L seven seven four two. A twin engine wide body."
+ },
+ {
+  "id": "a2",
+  "start": 111.145,
+  "end": 121.6,
+  "text": "Flight two fourteen left Incheon, near Seoul, for a scheduled flight of about ten and a half hours. On board, two hundred ninety-one passengers, twelve flight attendants and four pilots."
+ },
+ {
+  "id": "a3",
+  "start": 122.0,
+  "end": 132.503,
+  "text": "Two of the pilots were relief crew. The two who flew the approach were a training pair. This was an operating experience flight: a captain in training, flying under the supervision of an instructor."
+ },
+ {
+  "id": "p1",
+  "start": 133.103,
+  "end": 144.171,
+  "text": "In the left seat, the pilot flying. Forty-five years old, nine thousand six hundred eighty-four hours in total. He had flown the Airbus A three twenty and the Boeing seven thirty-seven as a captain."
+ },
+ {
+  "id": "p2",
+  "start": 144.471,
+  "end": 157.121,
+  "text": "But in the seven seven seven, he had thirty-three hours. He was about halfway through his operating experience, and this was the first time he flew a visual approach without a glideslope in the seven seven seven outside a simulator."
+ },
+ {
+  "id": "p3",
+  "start": 157.521,
+  "end": 168.027,
+  "text": "In the right seat, the pilot monitoring. An experienced seven seven seven captain with three thousand two hundred eight hours in the type. And this was his first flight as an instructor pilot."
+ },
+ {
+  "id": "p4",
+  "start": 168.427,
+  "end": 172.471,
+  "text": "A relief first officer sat in the jump seat behind them, as an observer."
+ },
+ {
+  "id": "r1",
+  "start": 173.271,
+  "end": 180.887,
+  "text": "San Francisco International. Runway two eight left points west, and its approach end sits right at the edge of the bay, behind a seawall."
+ },
+ {
+  "id": "r2",
+  "start": 181.287,
+  "end": 195.781,
+  "text": "That summer, the airport was in the middle of a project to enlarge its runway safety areas, and the threshold of two eight left had been moved. Because of that work, the electronic glideslope for the runway was out of service. The F A A had published that in a notice to airmen."
+ },
+ {
+  "id": "r3",
+  "start": 196.181,
+  "end": 208.82,
+  "text": "A glideslope is a radio beam that gives pilots, and the autopilot, a precise vertical path down to the runway. Without it, the crew had to manage the descent themselves, using the airplane's automation and their own judgment."
+ },
+ {
+  "id": "r4",
+  "start": 209.22,
+  "end": 220.377,
+  "text": "They still had a lateral guide, the localizer, and a row of four lights next to the runway, called the P A P I. Two white and two red means on the path. All white means high. All red means low."
+ },
+ {
+  "id": "r4b",
+  "start": 220.777,
+  "end": 233.362,
+  "text": "The P A P I lights for two eight left had been relocated in that same project. On July second, four days before the accident, an F A A flight check certified them at a glidepath of two point nine eight degrees."
+ },
+ {
+  "id": "r5",
+  "start": 233.762,
+  "end": 243.978,
+  "text": "The weather was suitable for a visual approach. Wind from two one zero at about six or seven knots, ten miles visibility, a few clouds at one thousand six hundred feet."
+ },
+ {
+  "id": "e1",
+  "start": 244.778,
+  "end": 255.945,
+  "text": "At eleven twenty-one and forty-nine seconds, the approach controller asked if they had the airport in sight. The instructor replied, okay, runway in sight. They were cleared for the visual approach."
+ },
+ {
+  "id": "e1b",
+  "start": 256.345,
+  "end": 269.55,
+  "text": "At eleven twenty-two and fifty-two seconds, the autopilot captured the localizer, about fifteen point four miles from the runway. The airplane was descending through about five thousand three hundred feet, at about two hundred ten knots."
+ },
+ {
+  "id": "e2",
+  "start": 269.95,
+  "end": 279.684,
+  "text": "At eleven twenty-three seventeen, about fourteen miles out, the controller asked them to slow to one hundred eighty knots, and hold that speed until five miles from the airport."
+ },
+ {
+  "id": "e3",
+  "start": 280.084,
+  "end": 292.212,
+  "text": "The N T S B found the speed restriction was standard, and there was ample distance to get onto the right path. But the descent was not managed well, and the airplane drifted well above the desired three degree glidepath."
+ },
+ {
+  "id": "e4",
+  "start": 292.612,
+  "end": 307.352,
+  "text": "At eleven twenty-four and fifty-three seconds, as the landing gear came down, the instructor said, this seems a little high. The pilot flying asked, do you mean it's too high? Then: I will descend more. These words were spoken in Korean; this is the N T S B's translation."
+ },
+ {
+  "id": "e5",
+  "start": 307.752,
+  "end": 312.401,
+  "text": "He set a descent rate of one thousand five hundred feet per minute on the autopilot."
+ },
+ {
+  "id": "e6",
+  "start": 312.801,
+  "end": 321.16,
+  "text": "At five miles from the runway, the airplane was still about four hundred feet above the three degree path. Speed about one hundred seventy-four knots."
+ },
+ {
+  "id": "e7",
+  "start": 321.56,
+  "end": 331.685,
+  "text": "At eleven twenty-six and twelve seconds, the pilot flying called for flaps thirty. The airspeed, one hundred seventy-four knots, was above the flaps thirty limit of one hundred seventy."
+ },
+ {
+  "id": "m1",
+  "start": 332.285,
+  "end": 339.581,
+  "text": "And now, the moment the N T S B spent much of its report on. Eleven twenty-six and twenty-five point seven seconds."
+ },
+ {
+  "id": "m2",
+  "start": 339.981,
+  "end": 356.569,
+  "text": "The autopilot pitch mode changed to flight level change speed. F L C H. Nobody called it out. In a post accident interview, the pilot flying said he had considered pressing that button to get a higher descent rate, but could not recall whether he did. The N T S B concluded it is likely that he selected it."
+ },
+ {
+  "id": "m3",
+  "start": 356.969,
+  "end": 368.436,
+  "text": "Here is the problem. The altitude selected on the mode control panel was three thousand feet, the missed approach altitude. The airplane was below it. So in that mode, the automation started to climb."
+ },
+ {
+  "id": "m4",
+  "start": 368.836,
+  "end": 376.713,
+  "text": "Three seconds later, the pilot flying disconnected the autopilot. He pulled the thrust levers back to idle, overriding the autothrottle."
+ },
+ {
+  "id": "m5",
+  "start": 377.113,
+  "end": 388.64,
+  "text": "And when the thrust levers reached idle, the autothrottle went into a mode called HOLD. In HOLD, the autothrottle does not move the thrust levers, and it does not control airspeed. The thrust stayed at idle."
+ },
+ {
+  "id": "m6",
+  "start": 389.04,
+  "end": 398.568,
+  "text": "The change was shown on the flight mode annunciator, the row of mode labels at the top of each pilot's primary flight display. None of the three pilots recalled seeing it."
+ },
+ {
+  "id": "m7",
+  "start": 398.968,
+  "end": 417.277,
+  "text": "The N T S B found that, because of complexities in the seven seven seven's automatic flight control system and gaps in the related training and documentation, the pilot flying had an inaccurate understanding of how the autopilot and autothrottle interacted to control airspeed. He believed the autothrottle would keep controlling his speed. In HOLD, it would not."
+ },
+ {
+  "id": "l1",
+  "start": 418.077,
+  "end": 432.562,
+  "text": "Eleven twenty-six and fifty-five seconds. One thousand feet above the ground, two point one miles out. Airspeed about one hundred fifty-one knots, and falling. Descent rate one thousand five hundred feet per minute. The P A P I shows four white lights. Still high."
+ },
+ {
+  "id": "l2",
+  "start": 432.962,
+  "end": 438.263,
+  "text": "The observer in the jump seat says, sink rate, sir. A few seconds later, again: sink rate, sir."
+ },
+ {
+  "id": "l3",
+  "start": 438.663,
+  "end": 447.949,
+  "text": "Eleven twenty-seven fifteen. Five hundred feet. This is the point where, under Asiana's procedures, the approach had to be stabilized. Otherwise, a go-around."
+ },
+ {
+  "id": "l4",
+  "start": 448.349,
+  "end": 463.725,
+  "text": "The airspeed has just reached the target, one hundred thirty-seven knots. The lights show three white and one red, slightly high. But the thrust levers are at idle, and the airplane is descending at about one thousand two hundred feet per minute, when about seven hundred was needed to stay on the path."
+ },
+ {
+  "id": "l5",
+  "start": 464.125,
+  "end": 481.107,
+  "text": "Two signs, the N T S B said, that the approach was not stabilized. The crew should have gone around. There was no five hundred foot callout, and they continued. The N T S B noted that this is not unusual: industry statistics show about ninety-seven percent of unstable approaches are continued to landing."
+ },
+ {
+  "id": "l6",
+  "start": 481.707,
+  "end": 490.513,
+  "text": "Eleven twenty-seven and twenty seconds. The instructor says, on glide path, sir. Two white, two red. For a moment, the picture out the window looks right."
+ },
+ {
+  "id": "l7",
+  "start": 490.913,
+  "end": 501.049,
+  "text": "But the engines are at idle, and nothing is holding the speed. Three seconds later, the airspeed drops below the reference speed of one hundred thirty-two knots. One white, three red."
+ },
+ {
+  "id": "l8",
+  "start": 501.449,
+  "end": 507.304,
+  "text": "Eleven twenty-seven thirty-one. Four red lights. Two hundred nineteen feet, one hundred twenty-two knots."
+ },
+ {
+  "id": "l9",
+  "start": 507.704,
+  "end": 513.184,
+  "text": "The nose keeps rising as the pilot flying pulls back to stay up. The airplane keeps slowing."
+ },
+ {
+  "id": "x1",
+  "start": 513.784,
+  "end": 519.055,
+  "text": "At about one hundred eighty feet, the instructor says, it's low. The pilot flying answers, yeah."
+ },
+ {
+  "id": "x2",
+  "start": 519.455,
+  "end": 525.702,
+  "text": "At one hundred twenty-four feet, a master caution chime sounds. Airspeed about one hundred fourteen knots."
+ },
+ {
+  "id": "x3",
+  "start": 526.102,
+  "end": 532.171,
+  "text": "At ninety feet, the instructor says, speed. Less than a second later, he pushes both thrust levers forward."
+ },
+ {
+  "id": "x4",
+  "start": 532.571,
+  "end": 544.815,
+  "text": "The engines respond within their design specification, but from idle they need six to seven seconds to approach full power. The stick shaker starts. The lowest airspeed of the approach, about one hundred three knots."
+ },
+ {
+  "id": "x5",
+  "start": 545.215,
+  "end": 559.581,
+  "text": "At eleven twenty-seven and forty-seven point eight seconds, the instructor calls, go around. Two and a half seconds before impact. Once the airplane was below one hundred feet, the N T S B found, it no longer had the performance to complete a go-around."
+ },
+ {
+  "id": "x6",
+  "start": 559.981,
+  "end": 572.9,
+  "text": "Eleven twenty-seven and fifty seconds. The main landing gear, then the underside of the rear fuselage, strike the seawall. Engine fan speed is passing about ninety-two percent. Airspeed about one hundred six knots."
+ },
+ {
+  "id": "s1",
+  "start": 573.9,
+  "end": 585.654,
+  "text": "The tail broke off at the aft pressure bulkhead. The airplane slid along the runway, its rear lifted, and it spun about three hundred thirty degrees before coming down a final time, off the left side of the runway."
+ },
+ {
+  "id": "s2",
+  "start": 586.054,
+  "end": 591.931,
+  "text": "It stopped about two thousand four hundred feet from the seawall, at about eleven twenty-eight and six seconds."
+ },
+ {
+  "id": "s3",
+  "start": 592.331,
+  "end": 608.773,
+  "text": "The impact forces exceeded certification limits. Inside the cabin, two slide rafts inflated, injuring and temporarily trapping two flight attendants. Four flight attendants seated in the aft galley were ejected when that part of the airplane was destroyed. They had been wearing their restraints."
+ },
+ {
+  "id": "s4",
+  "start": 609.173,
+  "end": 619.272,
+  "text": "Two of the three passengers who died were ejected. They were not wearing their seatbelts. The N T S B said they would likely have remained in the cabin and survived if they had been."
+ },
+ {
+  "id": "s5",
+  "start": 619.872,
+  "end": 626.412,
+  "text": "Then, fire. It started inside the separated right engine, which had come to rest against the right side of the fuselage."
+ },
+ {
+  "id": "s6",
+  "start": 626.812,
+  "end": 633.313,
+  "text": "When a flight attendant saw it, he started the evacuation. Ninety-eight percent of the passengers got out on their own."
+ },
+ {
+  "id": "s7",
+  "start": 633.713,
+  "end": 641.321,
+  "text": "As the fire spread into the fuselage, firefighters entered the airplane and brought out five passengers who were injured and unable to leave."
+ },
+ {
+  "id": "s8",
+  "start": 641.721,
+  "end": 645.106,
+  "text": "In the end, ninety-nine percent of the people on board survived."
+ },
+ {
+  "id": "w1",
+  "start": 645.906,
+  "end": 650.046,
+  "text": "So why did three experienced pilots not see the airspeed fall for so long?"
+ },
+ {
+  "id": "w2",
+  "start": 650.446,
+  "end": 666.466,
+  "text": "The N T S B said their insufficient monitoring of airspeed likely resulted from four things. Expectancy: they believed the autothrottle was controlling speed, and what they saw seemed to confirm it. Increased workload, from the high approach and the tasks squeezed into its final minute."
+ },
+ {
+  "id": "w3",
+  "start": 666.866,
+  "end": 677.593,
+  "text": "Fatigue: they had crossed eight time zones, and the approach came at a time when they would normally have been asleep. The N T S B found all three were likely fatigued. And automation reliance."
+ },
+ {
+  "id": "w4",
+  "start": 677.993,
+  "end": 692.147,
+  "text": "The report also looked at the crew dynamic. The instructor was on his first flight supervising a trainee in line operations. The N T S B said he had not had the chance, during his own training, to practice that under an experienced instructor's eye."
+ },
+ {
+  "id": "w5",
+  "start": 692.547,
+  "end": 707.763,
+  "text": "And the pilot flying told investigators that at five hundred feet he worried that letting the lights go to four red would mean failing his flight, and being embarrassed. It was not a check flight. The N T S B found he had not received enough training on planning and flying visual approaches."
+ },
+ {
+  "id": "c1",
+  "start": 708.563,
+  "end": 715.068,
+  "text": "In June two thousand fourteen, the board adopted its findings. The probable cause, in the N T S B's words:"
+ },
+ {
+  "id": "c2",
+  "start": 715.368,
+  "end": 724.715,
+  "text": "the flight crew's mismanagement of the airplane's descent during the visual approach, the pilot flying's unintended deactivation of automatic airspeed control,"
+ },
+ {
+  "id": "c3",
+  "start": 724.915,
+  "end": 736.657,
+  "text": "the flight crew's inadequate monitoring of airspeed, and the flight crew's delayed execution of a go-around after they became aware that the airplane was below acceptable glidepath and airspeed tolerances."
+ },
+ {
+  "id": "c4",
+  "start": 737.257,
+  "end": 752.629,
+  "text": "Contributing, the N T S B listed five factors. The first: the complexities of the autothrottle and autopilot flight director systems, which were inadequately described in Boeing's documentation and Asiana's pilot training, increasing the likelihood of mode error."
+ },
+ {
+  "id": "c5",
+  "start": 753.029,
+  "end": 767.447,
+  "text": "Then, the crew's nonstandard communication and coordination about the automation. The pilot flying's inadequate training on visual approaches. The instructor's inadequate supervision. And flight crew fatigue, which likely degraded their performance."
+ },
+ {
+  "id": "k1",
+  "start": 768.247,
+  "end": 771.922,
+  "text": "The N T S B made twenty-seven new safety recommendations."
+ },
+ {
+  "id": "k2",
+  "start": 772.222,
+  "end": 787.164,
+  "text": "To the F A A: require better seven seven seven training on autothrottle modes, and a demonstration of the situations in which the autothrottle does not protect against low speed. And a special design review of how the seven seven seven controls airspeed."
+ },
+ {
+  "id": "k3",
+  "start": 787.564,
+  "end": 802.559,
+  "text": "Also, design requirements for low energy alerting systems, a warning when an airplane is getting too slow or too low. And to Boeing: develop and evaluate a change to its wide body autoflight systems, to help keep the airplane above its minimum energy state."
+ },
+ {
+  "id": "k4",
+  "start": 802.959,
+  "end": 818.545,
+  "text": "To Asiana: reinforce, in training, the standard procedures for mode control panel inputs and the callouts that go with them. Have new instructors supervised by a more experienced instructor until they are proficient. And allow more manual flying, in training and on the line."
+ },
+ {
+  "id": "k5",
+  "start": 818.945,
+  "end": 831.026,
+  "text": "And for airport firefighters: a minimum staffing level that allows crews to fight a fire inside an airplane and rescue the people in it, and minimum training for every officer placed in command at an accident scene."
+ },
+ {
+  "id": "z1",
+  "start": 831.826,
+  "end": 838.975,
+  "text": "Once more, the last minute. One thousand feet: four white, sink rate. Five hundred feet, target speed, but idle thrust."
+ },
+ {
+  "id": "z2",
+  "start": 839.375,
+  "end": 846.705,
+  "text": "On glide path. Below reference speed. Four red. It's low. Chime. Speed. Thrust levers forward. Stick shaker. Go around."
+ },
+ {
+  "id": "z3",
+  "start": 847.105,
+  "end": 847.855,
+  "text": "The seawall."
+ },
+ {
+  "id": "q1",
+  "start": 849.055,
+  "end": 863.226,
+  "text": "There was no mechanical failure on flight two fourteen. The N T S B found no evidence of any structural, engine, or system failure before impact, and no problem with the autoflight system. The automation behaved as it was designed to."
+ },
+ {
+  "id": "q2",
+  "start": 863.626,
+  "end": 876.147,
+  "text": "What failed was the link between the people and the machine: what the pilots expected the autothrottle was doing, and what it was actually doing. Two pilots watching the runway, a third watching the descent rate, and no one watching the speed."
+ },
+ {
+  "id": "q3",
+  "start": 876.547,
+  "end": 880.562,
+  "text": "This was LAST CONTACT. Every crash leaves a record. Next file soon."
+ }
+]

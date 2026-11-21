@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-500-normal.woff2);font-weight:500}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-700-normal.woff2);font-weight:700}
+:root{--night:#070B10;--scope:#0E1A16;--green:#3CFF8F;--amber:#FFB020;--red:#FF2E2E;--ink:#EEF2F4;--steel:#7E8A96}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--night);font-family:Int;color:var(--ink)}
+#gl{position:absolute;inset:0}
+.card{position:absolute;inset:0;opacity:0;background:radial-gradient(ellipse at 50% 45%,#0f1d18 0%,#070B10 70%)}
+.card::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(60,255,143,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(60,255,143,.05) 1px,transparent 1px);background-size:80px 80px}
+.k{font-family:Mono;font-weight:700;font-size:24px;letter-spacing:.16em;color:var(--green)}
+.h{font-family:Bar;font-weight:800;text-transform:uppercase;line-height:.95;letter-spacing:.01em}
+.b{font-size:38px;line-height:1.4}
+.m{font-family:Mono;font-weight:500}
+.src{font-family:Mono;font-size:20px;color:var(--steel);letter-spacing:.04em}
+.am{color:var(--amber)} .gr{color:var(--green)} .rd{color:var(--red)} .st{color:var(--steel)}
+.pan{background:rgba(7,11,16,.82);border:1px solid rgba(60,255,143,.18);border-radius:6px}
+[data-from]{opacity:0}
+.row{display:flex;align-items:baseline;gap:28px;padding:14px 0;border-bottom:1px solid rgba(126,138,150,.18)}
+.tag{display:inline-block;font-family:Mono;font-weight:700;font-size:20px;letter-spacing:.14em;padding:7px 13px;border-radius:3px;border:1px solid}
+#hud{position:absolute;right:56px;top:56px;width:470px;padding:22px 26px;opacity:0}
+#hud .v{font-family:Mono;font-weight:700;font-size:46px}
+#hud .l{font-family:Mono;font-size:18px;color:var(--steel);letter-spacing:.12em}
+#ev{position:absolute;left:56px;bottom:120px;opacity:0;padding:18px 26px;font-family:Mono;font-weight:700;font-size:34px}
+#recon{position:absolute;left:56px;top:50px;opacity:0}
+#cred{position:absolute;right:56px;bottom:40px;opacity:0}
+#wm{position:absolute;right:52px;top:44px;opacity:0;font-family:Bar;font-weight:800;font-size:30px;letter-spacing:.06em}
+.lbl{position:absolute;font-family:Mono;font-weight:700;font-size:21px;padding:7px 11px;background:rgba(7,11,16,.85);border-left:4px solid var(--green);white-space:nowrap;transform:translate(-50%,-150%);opacity:0}
+.lbl small{display:block;font-weight:500;font-size:16px;color:var(--steel)}
+.cv{display:flex;gap:26px;padding:10px 18px;border-radius:4px;font-size:30px;align-items:baseline;transition:none}
+.cv .t{font-family:Mono;font-weight:700;width:120px;color:var(--steel)}
+.cv.on{background:rgba(60,255,143,.10)} .cv.on .t{color:var(--amber)}
+
+.big{font-family:Bar;font-weight:800;font-size:150px;line-height:1}
+.q{font-size:44px;line-height:1.35;font-family:Int;font-weight:600}
+.hl{background:rgba(255,176,32,.16);padding:0 8px}
+.cvr{display:flex;gap:30px;font-size:36px;padding:12px 18px;align-items:baseline;border-bottom:1px solid rgba(126,138,150,.15)}
+.cvr .t{font-family:Mono;font-weight:700;width:150px;color:var(--amber)}
+.cvr .w{font-family:Mono;font-weight:700;width:120px;color:var(--steel);font-size:24px}
+</style></head><body>
+<canvas id="gl" width="1920" height="1080"></canvas>
+<div id="recon" class="tag gr" style="border-color:rgba(60,255,143,.5);background:rgba(7,11,16,.8)">RECONSTRUCTION FROM NTSB AAR-14/01 DATA · MOTION BETWEEN DATA POINTS INTERPOLATED</div>
+<div id="cred" class="src pan" style="padding:8px 14px">GENERIC 777 MODEL, NO AIRLINE MARKINGS · IMAGERY: USGS (CURRENT, NOT 2013) · POSITIONS APPROXIMATE</div>
+<div id="hud" class="pan">
+  <div class="l">AIRSPEED (FDR, ≈)</div><div class="v gr" id="hias">—</div>
+  <div class="l" style="margin-top:8px">RADIO ALTITUDE (≈)</div><div class="v" id="hra">—</div>
+  <div class="l" style="margin-top:8px">PAPI</div><div id="hpapi" style="display:flex;gap:14px;margin-top:6px"><i></i><i></i><i></i><i></i></div>
+  <div class="l" style="margin-top:10px">AUTOTHROTTLE MODE</div><div class="v am" id="hat" style="font-size:36px">—</div>
+  <div class="l" style="margin-top:8px">TIME (PDT) · TO IMPACT</div><div class="v am" id="ht" style="font-size:36px">—</div>
+  <div class="src" style="margin-top:10px;font-size:16px">NTSB/AAR-14/01 · SEC. 1.1, TABLE 1</div>
+</div>
+<style>#hpapi i{width:34px;height:34px;border-radius:50%;background:#333;display:block;box-shadow:0 0 10px rgba(255,255,255,.2)} #hpapi i.w{background:#f4f6ff} #hpapi i.r{background:#ff3030}</style>
+<div id="ev" class="pan"></div>
+<div id="L_rwy" class="lbl">RUNWAY 28L · SFO<small>LANDING WEST</small></div>
+<div id="L_sea" class="lbl" style="border-color:var(--red)">SEAWALL<small>FIRST IMPACT · 11:27:50</small></div>
+<div id="L_thr" class="lbl">28L THRESHOLD (APPROX.)<small>DISPLACED 300 FT IN 2013</small></div>
+<div id="L_rest" class="lbl" style="border-color:var(--amber)">CAME TO REST (APPROX.)<small>≈2,400 FT FROM SEAWALL</small></div>
+<div id="L_jet" class="lbl" style="border-color:var(--amber)">BOEING 777-200ER · HL7742</div>
+<div id="L_path" class="lbl">DESIRED 3° GLIDEPATH</div>
+<div id="L_papi" class="lbl">PAPI LIGHTS<small>POSITION ILLUSTRATIVE</small></div>
+<div id="L_bay" class="lbl">SAN FRANCISCO BAY</div>
+
+<div class="card" id="c_toll"><div style="position:absolute;left:0;right:0;top:270px;text-align:center">
+  <div class="k st">JULY 6, 2013 · SAN FRANCISCO INTERNATIONAL AIRPORT · RUNWAY 28L</div>
+  <div class="h" style="font-size:120px;margin-top:30px">3 killed · 49 seriously injured</div>
+  <div class="h st" style="font-size:60px;margin-top:22px">138 minor injuries · 307 on board · 99% survived</div>
+  <div class="src" style="margin-top:40px">Source: NTSB Aircraft Accident Report NTSB/AAR-14/01, table 2 and executive summary</div></div></div>
+
+<div class="card" id="c_title"><div style="position:absolute;left:0;right:0;top:300px;text-align:center">
+  <span class="tag gr" style="border-color:rgba(60,255,143,.6)">NTSB FINAL REPORT · AAR-14/01</span>
+  <div class="h" style="font-size:170px;margin-top:26px">Asiana <span class="gr">214</span> · Boeing 777</div>
+  <div class="k" style="font-size:32px;margin-top:20px;color:var(--ink)">THE APPROACH TO SAN FRANCISCO</div></div></div>
+
+<div class="card" id="c_how"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">HOW WE KNOW</div><div class="h" style="font-size:90px;margin-top:14px">The record</div>
+  <div class="b" style="margin-top:30px">
+   <div class="row"><span class="gr m">✓</span> NTSB Aircraft Accident Report NTSB/AAR-14/01 · adopted June 24, 2014</div>
+   <div class="row" data-from="h2"><span class="gr m">✓</span> Flight data recorder + quick access recorder</div>
+   <div class="row" data-from="h2"><span class="gr m">✓</span> Cockpit voice recorder (NTSB transcript; Korean speech in NTSB translation)</div>
+   <div class="row" data-from="h2"><span class="am m">≈</span> Times: Pacific daylight time · values rounded as in the report</div></div></div></div>
+
+<div class="card" id="c_crew"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">THE FLIGHT CREW · NTSB SEC. 1.5</div><div class="h" style="font-size:90px;margin-top:14px">A training flight</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:40px">
+   <div class="pan" style="padding:30px"><div class="k am">LEFT SEAT · PILOT FLYING</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">CAPTAIN IN 777 TRAINING · AGE 45<br>9,684 H TOTAL<br><span class="am" data-from="p2">33 H IN THE 777</span><br><span class="am" data-from="p2">1ST VISUAL APPROACH W/O GLIDESLOPE IN THE 777 (OUTSIDE SIM)</span></div></div>
+   <div class="pan" style="padding:30px" data-from="p3"><div class="k st">RIGHT SEAT · PILOT MONITORING</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">INSTRUCTOR PILOT · PIC<br>12,307 H TOTAL<br>3,208 H IN THE 777<br><span class="am">1ST FLIGHT AS INSTRUCTOR</span></div></div></div>
+  <div class="b" style="margin-top:36px" data-from="p4">Jump seat: relief first officer, acting as observer</div></div></div>
+
+<div class="card" id="c_nogs"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">RUNWAY 28L · JULY 2013 · NTSB SEC. 1.10</div><div class="h" style="font-size:90px;margin-top:14px">No glideslope</div>
+  <div class="b" style="margin-top:30px">
+   <div class="row"><span class="am m">RSA</span> Runway safety area project · 28L threshold moved, displaced 300 ft</div>
+   <div class="row"><span class="rd m">✗</span> ILS glideslope out of service (FAA NOTAM, June 1, 2013)</div>
+   <div class="row" data-from="r3"><span class="gr m">✓</span> Localizer working · PAPI certified at 2.98° on July 2, 2013</div>
+   <div class="row" data-from="r3"><span class="am m">→</span> Vertical path: flown by the crew, using the automation and judgment</div></div></div></div>
+
+<div class="card" id="c_papi"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">PRECISION APPROACH PATH INDICATOR (PAPI)</div><div class="h" style="font-size:90px;margin-top:14px">Four lights</div>
+  <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:20px;margin-top:50px;text-align:center" class="m">
+   <div><div class="pp">○○○○</div><div class="st" style="font-size:26px;margin-top:14px">ABOVE</div></div>
+   <div><div class="pp">○○○<span class="rd">●</span></div><div class="st" style="font-size:26px;margin-top:14px">SLIGHTLY ABOVE</div></div>
+   <div><div class="pp">○○<span class="rd">●●</span></div><div class="gr" style="font-size:26px;margin-top:14px">ON GLIDEPATH</div></div>
+   <div><div class="pp">○<span class="rd">●●●</span></div><div class="st" style="font-size:26px;margin-top:14px">SLIGHTLY BELOW</div></div>
+   <div><div class="pp rd">●●●●</div><div class="st" style="font-size:26px;margin-top:14px">BELOW</div></div></div>
+  <div class="src" style="margin-top:50px">○ white · ● red · NTSB AAR-14/01 footnote 17</div></div></div>
+<style>.pp{font-size:64px;letter-spacing:.08em}</style>
+
+<div class="card" id="c_cvr1"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">CVR · NTSB AAR-14/01 SEC. 1.1 · ≈8.5 NM FROM THE RUNWAY</div>
+  <div style="margin-top:30px">
+   <div class="cvr"><span class="t">11:24:51</span><span class="w">PF</span>[calls for landing gear down] · ≈3,500 FT · 188 KT</div>
+   <div class="cvr"><span class="t">11:24:53</span><span class="w">PM</span>“this seems a little high”</div>
+   <div class="cvr"><span class="t">11:24:55</span><span class="w">PF</span>“yeah”</div>
+   <div class="cvr"><span class="t">11:24:56</span><span class="w">PM</span>“this should be a bit high”</div>
+   <div class="cvr"><span class="t">11:24:59</span><span class="w">PF</span>“do you mean it’s too high?”</div>
+   <div class="cvr"><span class="t">11:25:02</span><span class="w">PF</span>“I will descend more”</div>
+   <div class="cvr" data-from="e5"><span class="t">11:25:04</span><span class="w">MCP</span>vertical speed set to −1,500 FT/MIN</div></div>
+  <div class="src" style="margin-top:22px">PF = pilot flying (trainee captain) · PM = pilot monitoring (instructor) · translated from Korean as published by the NTSB</div></div></div>
+
+<div class="card" id="c_modes"><div style="position:absolute;left:140px;top:120px;width:1640px">
+  <div class="k">AUTOFLIGHT MODES · NTSB SEC. 1.1, 1.6.3, 2.2.2</div><div class="h" style="font-size:84px;margin-top:14px">How speed control was lost</div>
+  <div style="display:flex;gap:22px;margin-top:40px;align-items:stretch">
+   <div class="pan" style="padding:24px;flex:1"><div class="k st">11:26:25.7 · 1</div><div class="b" style="margin-top:10px;font-size:32px">FLCH SPD engaged (NTSB: likely selected by the PF) · MCP altitude <span class="am">3,000 ft</span> (above the airplane) → automation starts a <span class="am">climb</span></div></div>
+   <div class="pan" style="padding:24px;flex:1" data-from="m4"><div class="k st">11:26:28.8 · 2</div><div class="b" style="margin-top:10px;font-size:32px">Autopilot disconnected · thrust levers pulled back by hand</div></div>
+   <div class="pan" style="padding:24px;flex:1;border-color:rgba(255,46,46,.7)" data-from="m4"><div class="k rd">11:26:33 · 3</div><div class="b" style="margin-top:10px;font-size:32px">Levers at idle → autothrottle in <span class="rd">HOLD</span>: no airspeed control</div></div>
+   <div class="pan" style="padding:24px;flex:1" data-from="m7"><div class="k am">4 · NTSB</div><div class="b" style="margin-top:10px;font-size:32px">PF had an <span class="am">inaccurate understanding</span> of how the 777 A/P and A/T interacted to control airspeed (Finding 10)</div></div></div>
+  <div class="b" style="margin-top:36px" data-from="m4"><span class="st m">CREW:</span> none of the three recalled seeing the mode change on the flight mode annunciator</div></div></div>
+
+<div class="card" id="c_gate"><div style="position:absolute;left:180px;top:140px;width:1560px">
+  <div class="k">11:27:14.8 · 500 FT · ASIANA STABILIZED-APPROACH GATE</div><div class="h" style="font-size:90px;margin-top:14px">Stabilized?</div>
+  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:34px;margin-top:40px">
+   <div><div class="big gr" style="font-size:120px">137</div><div class="m st" style="font-size:22px">KT · TARGET SPEED REACHED</div></div>
+   <div><div class="big" style="font-size:120px">○○○<span class="rd">●</span></div><div class="m st" style="font-size:22px">PAPI · SLIGHTLY HIGH</div></div>
+   <div data-from="l4"><div class="big rd" style="font-size:120px">IDLE</div><div class="m st" style="font-size:22px">THRUST LEVERS</div></div>
+   <div data-from="l4"><div class="big rd" style="font-size:120px">1,200</div><div class="m st" style="font-size:22px">FT/MIN DESCENT · ≈700 NEEDED</div></div></div>
+  <div class="b" style="margin-top:46px" data-from="l5"><span class="gr m">NTSB:</span> two indications the approach was <span class="am">not stabilized</span> → a go-around was required · the approach continued</div></div></div>
+
+<div class="card" id="c_cvr2"><div style="position:absolute;left:180px;top:110px;width:1560px">
+  <div class="k">LAST 20 SECONDS · NTSB TABLE 1 · RADIO ALTITUDE · AIRSPEED</div>
+  <div style="margin-top:24px">
+   <div class="cvr"><span class="t">27:32.3</span><span class="w">198 FT</span>EGPWS: “two hundred” · 120 kt</div>
+   <div class="cvr"><span class="t">27:33.6</span><span class="w">180 FT</span>PM: “it’s low” · PF: “yeah”</div>
+   <div class="cvr" data-from="x2"><span class="t">27:39.3</span><span class="w">124 FT</span>quadruple chime (master caution) · 114 kt</div>
+   <div class="cvr" data-from="x3"><span class="t">27:41.6</span><span class="w">102 FT</span>EGPWS: “one hundred”</div>
+   <div class="cvr" data-from="x3"><span class="t">27:42.8</span><span class="w">90 FT</span>PM: “speed”</div>
+   <div class="cvr" data-from="x3"><span class="t">27:43.2</span><span class="w">86 FT</span>thrust levers advanced</div>
+   <div class="cvr" data-from="x3"><span class="t">27:46.4</span><span class="w">46 FT</span>stick shaker · lowest speed ≈103 kt</div>
+   <div class="cvr" data-from="x3"><span class="t">27:47.8</span><span class="w">29 FT</span>PM: “go around”</div>
+   <div class="cvr" data-from="x3"><span class="t rd">27:50.3</span><span class="w">—</span>impact with the seawall · ≈106 kt</div></div></div></div>
+
+<div class="card" id="c_why"><div style="position:absolute;left:180px;top:160px;width:1560px">
+  <div class="k">NTSB · INSUFFICIENT MONITORING OF AIRSPEED LIKELY RESULTED FROM</div><div class="h" style="font-size:90px;margin-top:14px">Why nobody saw it</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:40px">
+   <div class="pan" style="padding:28px" data-from="w2"><div class="k am">EXPECTANCY</div><div class="b" style="font-size:32px;margin-top:8px">belief the autothrottle was maintaining speed</div></div>
+   <div class="pan" style="padding:28px" data-from="w2"><div class="k am">WORKLOAD</div><div class="b" style="font-size:32px;margin-top:8px">a high, compressed approach</div></div>
+   <div class="pan" style="padding:28px" data-from="w3"><div class="k am">FATIGUE</div><div class="b" style="font-size:32px;margin-top:8px">8 time zones · normal sleep time (circadian low)</div></div>
+   <div class="pan" style="padding:28px" data-from="w3"><div class="k am">AUTOMATION RELIANCE</div><div class="b" style="font-size:32px;margin-top:8px">trust in the system to manage speed</div></div></div></div></div>
+
+<div class="card" id="c_cause"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">NTSB PROBABLE CAUSE · ADOPTED JUNE 24, 2014</div>
+  <div class="q pan" style="padding:36px;margin-top:30px;font-size:40px">“…<span class="hl" data-from="c2">the flight crew’s mismanagement of the airplane’s descent during the visual approach, the pilot flying’s unintended deactivation of automatic airspeed control,</span> <span class="hl" data-from="c3">the flight crew’s inadequate monitoring of airspeed, and the flight crew’s delayed execution of a go-around after they became aware that the airplane was below acceptable glidepath and airspeed tolerances.</span>”</div></div></div>
+
+<div class="card" id="c_contrib"><div style="position:absolute;left:180px;top:120px;width:1560px">
+  <div class="k">CONTRIBUTING TO THE ACCIDENT · NTSB</div>
+  <div class="b" style="margin-top:26px;font-size:31px">
+   <div class="row"><span class="am m">1</span> Complexities of the autothrottle and autopilot flight director systems, inadequately described in Boeing’s documentation and Asiana’s pilot training → more likely mode error</div>
+   <div class="row" data-from="c5"><span class="am m">2</span> The flight crew’s nonstandard communication and coordination on the A/T and AFDS</div>
+   <div class="row" data-from="c5"><span class="am m">3</span> The pilot flying’s inadequate training on planning and executing visual approaches</div>
+   <div class="row" data-from="c5"><span class="am m">4</span> The pilot monitoring/instructor pilot’s inadequate supervision of the pilot flying</div>
+   <div class="row" data-from="c5"><span class="am m">5</span> Flight crew fatigue, which likely degraded their performance</div></div></div></div>
+
+<div class="card" id="c_recs"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">NTSB SAFETY RECOMMENDATIONS A-14-37 … A-14-63 (27)</div><div class="h" style="font-size:84px;margin-top:14px">What the NTSB asked for</div>
+  <div class="b" style="margin-top:24px;font-size:32px">
+   <div class="row" data-from="k2"><span class="am m">FAA</span> Better 777 autothrottle training · demo of when A/T gives no low-speed protection · design review (A-14-37…42)</div>
+   <div class="row" data-from="k3"><span class="am m">FAA</span> Design requirements for low energy alerting (A-14-43) · <span class="am m">BOEING</span> wide-body autoflight change (A-14-57)</div>
+   <div class="row" data-from="k4"><span class="am m">ASIANA</span> MCP callouts · supervised new instructors · more manual flight (A-14-52, 53, 55)</div>
+   <div class="row" data-from="k5"><span class="am m">ARFF</span> Minimum staffing for interior rescue · training for officers in command (A-14-48, 49, 60, 61)</div></div></div></div>
+
+<div class="card" id="c_status">
+  <div style="position:absolute;left:150px;top:200px;width:1000px">
+    <div class="k">CASE FILE · HL7742</div>
+    <div class="m" style="font-size:36px;line-height:2;margin-top:20px">
+      <div>INVESTIGATION &nbsp;<span class="gr">CLOSED</span></div>
+      <div>FINAL REPORT &nbsp;&nbsp;<span class="gr">NTSB/AAR-14/01</span></div>
+      <div>ADOPTED &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gr">JUNE 24, 2014</span></div>
+      <div>NTSB RECS &nbsp;&nbsp;&nbsp;&nbsp;<span class="am">A-14-37 … A-14-63</span></div></div></div>
+  <svg width="560" height="560" viewBox="-280 -280 560 560" style="position:absolute;right:170px;top:200px">
+    <circle r="250" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="170" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="90" fill="none" stroke="#1f3a2d" stroke-width="3"/>
+    <g id="sweep"><path d="M0 0 L0 -250 A250 250 0 0 1 120 -219 Z" fill="rgba(60,255,143,.18)"/></g>
+    <g fill="#3CFF8F"><circle cx="-200" cy="120" r="10"/><circle cx="-140" cy="80" r="10"/><circle cx="-80" cy="40" r="10"/><circle cx="-20" cy="0" r="10"/><circle cx="40" cy="-40" r="10"/></g>
+    <line x1="40" y1="-40" x2="120" y2="-95" stroke="#3CFF8F" stroke-width="4" stroke-dasharray="8 8"/>
+    <circle cx="130" cy="-100" r="34" fill="none" stroke="#FF2E2E" stroke-width="4" stroke-dasharray="8 6"/>
+    <path d="M114 -116 L146 -84 M146 -116 L114 -84" stroke="#FF2E2E" stroke-width="7"/>
+  </svg>
+  <div style="position:absolute;right:170px;top:790px;width:560px;text-align:center" class="h"><span style="font-size:86px">LAST </span><span class="gr" style="font-size:86px">CONTACT</span></div>
+  <div class="src" style="position:absolute;left:150px;bottom:70px">Independent channel · not affiliated with the NTSB, FAA, Boeing or any airline · NTSB/FAA documents are U.S. government works</div>
+</div>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module" src="scene.js"></script>
+</body></html>

@@ -30,5 +30,12 @@
   "scheduled": "2026-11-20 14:00 ET",
   "basis": "Fallback (no fresh case with official material); NTSB final report AAR-10/02; rides Learjet 60 demand with explicit 'not the 2026 Greenacres crash' disclaimer",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=7532407498094169455"
+ },
+ {
+  "ep": "006",
+  "case": "Asiana Airlines flight 214, Boeing 777-200ER HL7742, descent below visual glidepath and impact with seawall, SFO runway 28L, 2013-07-06 (NTSB/AAR-14/01, final)",
+  "scheduled": "2026-11-21 14:00 ET",
+  "basis": "Fallback (no fresh case with enough official material); NTSB final report AAR-14/01; strong evergreen Shorts demand",
+  "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=7053693156047013771"
  }
 ]
