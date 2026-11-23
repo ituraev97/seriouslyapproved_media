@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-500-normal.woff2);font-weight:500}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-700-normal.woff2);font-weight:700}
+:root{--night:#070B10;--scope:#0E1A16;--green:#3CFF8F;--amber:#FFB020;--red:#FF2E2E;--ink:#EEF2F4;--steel:#7E8A96}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--night);font-family:Int;color:var(--ink)}
+#gl{position:absolute;inset:0}
+.card{position:absolute;inset:0;opacity:0;background:radial-gradient(ellipse at 50% 45%,#0f1d18 0%,#070B10 70%)}
+.card::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(60,255,143,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(60,255,143,.05) 1px,transparent 1px);background-size:80px 80px}
+.k{font-family:Mono;font-weight:700;font-size:24px;letter-spacing:.16em;color:var(--green)}
+.h{font-family:Bar;font-weight:800;text-transform:uppercase;line-height:.95;letter-spacing:.01em}
+.b{font-size:38px;line-height:1.4}
+.m{font-family:Mono;font-weight:500}
+.src{font-family:Mono;font-size:20px;color:var(--steel);letter-spacing:.04em}
+.am{color:var(--amber)} .gr{color:var(--green)} .rd{color:var(--red)} .st{color:var(--steel)}
+.pan{background:rgba(7,11,16,.82);border:1px solid rgba(60,255,143,.18);border-radius:6px}
+[data-from]{opacity:0}
+.row{display:flex;align-items:baseline;gap:28px;padding:14px 0;border-bottom:1px solid rgba(126,138,150,.18)}
+.tag{display:inline-block;font-family:Mono;font-weight:700;font-size:20px;letter-spacing:.14em;padding:7px 13px;border-radius:3px;border:1px solid}
+#hud{position:absolute;right:56px;top:116px;width:470px;padding:22px 26px;opacity:0}
+#hud .v{font-family:Mono;font-weight:700;font-size:46px}
+#hud .l{font-family:Mono;font-size:18px;color:var(--steel);letter-spacing:.12em}
+#ev{position:absolute;left:56px;bottom:120px;opacity:0;padding:18px 26px;font-family:Mono;font-weight:700;font-size:34px}
+#recon{position:absolute;left:56px;top:50px;opacity:0}
+#cred{position:absolute;right:56px;bottom:40px;opacity:0}
+#wm{position:absolute;right:52px;top:44px;opacity:0;font-family:Bar;font-weight:800;font-size:30px;letter-spacing:.06em}
+.lbl{position:absolute;font-family:Mono;font-weight:700;font-size:21px;padding:7px 11px;background:rgba(7,11,16,.85);border-left:4px solid var(--green);white-space:nowrap;transform:translate(-50%,-150%);opacity:0}
+.lbl small{display:block;font-weight:500;font-size:16px;color:var(--steel)}
+.cv{display:flex;gap:26px;padding:10px 18px;border-radius:4px;font-size:30px;align-items:baseline;transition:none}
+.cv .t{font-family:Mono;font-weight:700;width:120px;color:var(--steel)}
+.cv.on{background:rgba(60,255,143,.10)} .cv.on .t{color:var(--amber)}
+
+.big{font-family:Bar;font-weight:800;font-size:150px;line-height:1}
+.q{font-size:44px;line-height:1.35;font-family:Int;font-weight:600}
+.hl{background:rgba(255,176,32,.16);padding:0 8px}
+.cvr{display:flex;gap:30px;font-size:36px;padding:12px 18px;align-items:baseline;border-bottom:1px solid rgba(126,138,150,.15)}
+.cvr .t{font-family:Mono;font-weight:700;width:150px;color:var(--amber)}
+.cvr .w{font-family:Mono;font-weight:700;width:120px;color:var(--steel);font-size:24px}
+</style></head><body>
+<canvas id="gl" width="1920" height="1080"></canvas>
+<div id="recon" class="tag gr" style="border-color:rgba(60,255,143,.5);background:rgba(7,11,16,.8)">RECONSTRUCTION FROM NTSB AAR-10/03 + DOCKET RADAR DATA · MOTION BETWEEN DATA POINTS INTERPOLATED</div>
+<div id="cred" class="src pan" style="padding:8px 14px">GENERIC A320 MODEL, NO AIRLINE MARKINGS · IMAGERY: USGS (CURRENT, NOT 2009) · TRACK AND HEIGHTS APPROXIMATE</div>
+<div id="hud" class="pan">
+  <div class="l">ALTITUDE (≈, FT)</div><div class="v" id="halt">—</div>
+  <div class="l" style="margin-top:8px">AIRSPEED (≈, KCAS)</div><div class="v gr" id="hias">—</div>
+  <div class="l" style="margin-top:8px">ENGINES</div><div class="v" id="heng" style="font-size:32px">—</div>
+  <div class="l" style="margin-top:8px">TIME (EST) · SINCE BIRD STRIKE</div><div class="v am" id="ht" style="font-size:34px">—</div>
+  <div class="src" style="margin-top:10px;font-size:16px">NTSB AAR-10/03 SEC. 1.1, 1.16 · DOCKET: PERFORMANCE STUDY</div>
+</div>
+<div id="ev" class="pan"></div>
+<div id="L_lga" class="lbl">LAGUARDIA (LGA)<small>RUNWAY 4 · TAKEOFF 15:25</small></div>
+<div id="L_teb" class="lbl">TETERBORO (TEB)<small>NEW JERSEY</small></div>
+<div id="L_bird" class="lbl" style="border-color:var(--red)">BIRD STRIKE · 15:27:11<small>2,818 FT AGL · ≈4.5 MI NNW OF LGA</small></div>
+<div id="L_hud" class="lbl">HUDSON RIVER</div>
+<div id="L_td" class="lbl" style="border-color:var(--amber)">TOUCHDOWN · 15:30:43<small>NTSB DOCKET POSITION (≈)</small></div>
+<div id="L_jet" class="lbl" style="border-color:var(--amber)">AIRBUS A320-214 · N106US</div>
+<div id="L_man" class="lbl">MANHATTAN</div>
+<div id="L_nj" class="lbl">NEW JERSEY</div>
+
+<div class="card" id="c_toll"><div style="position:absolute;left:0;right:0;top:250px;text-align:center">
+  <div class="k st">JANUARY 15, 2009 · HUDSON RIVER · NEW YORK / NEW JERSEY</div>
+  <div class="h" style="font-size:150px;margin-top:30px"><span class="gr">155</span> on board · <span class="gr">155</span> survived</div>
+  <div class="h st" style="font-size:60px;margin-top:22px">5 serious injuries · 95 minor · 55 not injured</div>
+  <div class="src" style="margin-top:40px">Source: NTSB Aircraft Accident Report NTSB/AAR-10/03, table 1 (injury chart)</div></div></div>
+
+<div class="card" id="c_title"><div style="position:absolute;left:0;right:0;top:300px;text-align:center">
+  <span class="tag gr" style="border-color:rgba(60,255,143,.6)">NTSB FINAL REPORT · AAR-10/03</span>
+  <div class="h" style="font-size:170px;margin-top:26px">Flight <span class="gr">1549</span> · Airbus A320</div>
+  <div class="k" style="font-size:32px;margin-top:20px;color:var(--ink)">BOTH ENGINES, 2,818 FEET, THE HUDSON RIVER</div></div></div>
+
+<div class="card" id="c_how"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">HOW WE KNOW</div><div class="h" style="font-size:90px;margin-top:14px">The record</div>
+  <div class="b" style="margin-top:30px">
+   <div class="row"><span class="gr m">✓</span> NTSB Aircraft Accident Report NTSB/AAR-10/03 · adopted May 4, 2010</div>
+   <div class="row" data-from="h2"><span class="gr m">✓</span> Flight data recorder + cockpit voice recorder (NTSB transcript)</div>
+   <div class="row" data-from="h2"><span class="gr m">✓</span> Docket DCA09MA026: Newark ASR-9 radar track · performance study · photos</div>
+   <div class="row" data-from="h2"><span class="am m">≈</span> Times: eastern standard time · values rounded as in the report</div></div></div></div>
+
+<div class="card" id="c_plane"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">THE AIRPLANE · NTSB SEC. 1.6</div><div class="h" style="font-size:90px;margin-top:14px">N106US</div>
+  <div class="m" style="font-size:36px;line-height:1.9;margin-top:30px">
+   <div>AIRBUS A320-214 · DELIVERED NEW TO US AIRWAYS, 1999</div>
+   <div>25,241 FLIGHT HOURS · 16,299 CYCLES</div>
+   <div data-from="a2">2 × CFM56-5B4/P TURBOFAN ENGINES</div>
+   <div data-from="a2" class="am">150 PASSENGERS (INCL. 1 LAP-HELD CHILD) · 3 FLIGHT ATTENDANTS · 2 PILOTS</div>
+   <div data-from="a2" class="st">LGA → CLT (CHARLOTTE) · SCHEDULED PART 121 FLIGHT</div></div></div></div>
+
+<div class="card" id="c_crew"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">THE FLIGHT CREW · NTSB SEC. 1.5</div><div class="h" style="font-size:90px;margin-top:14px">Two pilots</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:40px">
+   <div class="pan" style="padding:30px"><div class="k st">CAPTAIN · PILOT MONITORING AT TAKEOFF</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">AGE 57 · 19,663 H TOTAL<br>4,765 H IN THE A320<br>FORMER USAF F-4 PILOT</div></div>
+   <div class="pan" style="padding:30px" data-from="p2"><div class="k am">FIRST OFFICER · PILOT FLYING AT TAKEOFF</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">AGE 49 · 15,643 H TOTAL<br><span class="am">37 H IN THE A320</span><br>HAD JUST COMPLETED A320 TRAINING</div></div></div>
+  <div class="b" style="margin-top:36px" data-from="p3">Last day of a 4-day trip · first trip flown together</div></div></div>
+
+<div class="card" id="c_cvr1"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">CVR + FDR · NTSB AAR-10/03 SEC. 1.1, 1.16.1</div>
+  <div style="margin-top:30px">
+   <div class="cvr"><span class="t">15:27:10.4</span><span class="w">CAPT</span>“birds”</div>
+   <div class="cvr" data-from="b2"><span class="t">15:27:11.4</span><span class="w">CAM</span>[thumps and thuds, then a shuddering sound]</div>
+   <div class="cvr" data-from="b2"><span class="t">—</span><span class="w">FDR</span>N1: left 82 % → 35 % · right 82 % → 15 %</div>
+   <div class="cvr" data-from="b3"><span class="t">15:27:14</span><span class="w">F/O</span>“uh oh” · 15:27:15 CAPT: “we got one rol- both of ’em rolling back”</div>
+   <div class="cvr" data-from="b4"><span class="t">15:27:19</span><span class="w">CAPT</span>“ignition, start” · 15:27:21 “I’m starting the APU”</div>
+   <div class="cvr" data-from="b4"><span class="t">15:27:23</span><span class="w">CAPT</span>“my aircraft”</div></div>
+  <div class="src" style="margin-top:22px">CAPT = captain · F/O = first officer · CAM = cockpit area microphone · N1 = fan speed</div></div></div>
+
+<div class="card" id="c_cvr2"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">ATC · NTSB AAR-10/03 SEC. 1.1</div>
+  <div style="margin-top:30px">
+   <div class="cvr"><span class="t">15:27:33</span><span class="w">CAPT</span>“…Cactus fifteen thirty nine hit birds, we’ve lost thrust in both engines, we’re turning back towards LaGuardia”</div>
+   <div class="cvr" data-from="r4"><span class="t">—</span><span class="w">DEP</span>turn left heading 220</div>
+   <div class="cvr" data-from="r4"><span class="t">15:28:05</span><span class="w">DEP</span>runway 13 at LGA, if available?</div>
+   <div class="cvr" data-from="r5"><span class="t">—</span><span class="w">CAPT</span>“we’re unable. we may end up in the Hudson”</div></div>
+  <div class="src" style="margin-top:22px">“mayday mayday mayday” was not received: another pilot was transmitting at the same time (NTSB footnote 7) · flight number was 1549</div></div></div>
+
+<div class="card" id="c_cvr3"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">ATC + PA · NTSB AAR-10/03 SEC. 1.1</div>
+  <div style="margin-top:30px">
+   <div class="cvr"><span class="t">15:28:31</span><span class="w">DEP</span>left traffic for runway 31 · CAPT: “unable”</div>
+   <div class="cvr"><span class="t">15:28:46</span><span class="w">DEP</span>runway 4 available · CAPT: “I’m not sure we can make any runway… maybe Teterboro?”</div>
+   <div class="cvr"><span class="t">15:29:11</span><span class="w">PA</span>“this is the Captain, brace for impact”</div>
+   <div class="cvr" data-from="r9"><span class="t">15:29:21</span><span class="w">DEP</span>turn right 280, runway 1 at Teterboro · CAPT: “we can’t do it”</div>
+   <div class="cvr" data-from="r9"><span class="t">15:29:28</span><span class="w">CAPT</span>“we’re gonna be in the Hudson” · ≈700 FT</div></div></div></div>
+
+<div class="card" id="c_qrh"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">QRH · ENGINE DUAL FAILURE CHECKLIST · NTSB SEC. 1.1, 2</div><div class="h" style="font-size:90px;margin-top:14px">Built for altitude</div>
+  <div class="b" style="margin-top:30px">
+   <div class="row"><span class="am m">1</span> Engine relight attempts (fuel remaining)</div>
+   <div class="row" data-from="c2"><span class="rd m">✗</span> “optimum relight · 300 kt” — F/O: “we don’t have that” · max after strike: <span class="am m">214 KT</span></div>
+   <div class="row" data-from="c3"><span class="am m">≈</span> 30–40 s spent on relight steps</div>
+   <div class="row" data-from="c3"><span class="rd m">✗</span> Ditching portion: never reached</div>
+   <div class="row" data-from="c4"><span class="gr m">NTSB</span> most applicable checklist available · a low-altitude version would more likely have been completed</div></div></div></div>
+
+<div class="card" id="c_cert"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">ENGINE BIRD-INGESTION CERTIFICATION · 14 CFR 33.77 (CFM56-5B4/P, 1996)</div><div class="h" style="font-size:90px;margin-top:14px">Tested vs. what hit</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:40px">
+   <div class="pan" style="padding:30px"><div class="k st">REQUIRED</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">7 MEDIUM BIRDS × 1.5 LB (VOLLEY)<br>1 LARGE BIRD × 4 LB<br>LARGE BIRD INTO THE FAN, NOT THE CORE</div></div>
+   <div class="pan" style="padding:30px;border-color:rgba(255,46,46,.7)" data-from="k3"><div class="k rd">FLIGHT 1549 · EACH ENGINE</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">≥ 2 CANADA GEESE × ≈8 LB<br>1 INTO EACH CORE<br><span class="am">NTSB: WELL EXCEEDED THE STANDARDS</span></div></div></div></div></div>
+
+<div class="card" id="c_sim"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">NTSB SIMULATIONS · AIRBUS TRAINING CENTER, TOULOUSE · APRIL 14–16, 2009</div><div class="h" style="font-size:90px;margin-top:14px">Back to a runway?</div>
+  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:30px;margin-top:40px">
+   <div data-from="s3"><div class="big gr" style="font-size:110px">5/7</div><div class="m st" style="font-size:22px">LGA RWY 13 · IMMEDIATE TURN</div></div>
+   <div data-from="s3"><div class="big am" style="font-size:110px">2/6</div><div class="m st" style="font-size:22px">LGA RWY 22 · IMMEDIATE TURN</div></div>
+   <div data-from="s3"><div class="big am" style="font-size:110px">1/2</div><div class="m st" style="font-size:22px">TEB RWY 19 · IMMEDIATE TURN</div></div>
+   <div data-from="s4"><div class="big rd" style="font-size:110px">0/1</div><div class="m st" style="font-size:22px">LGA RWY 13 · AFTER 35 S DELAY</div></div></div>
+  <div class="b" style="margin-top:46px" data-from="s5"><span class="gr m">NTSB:</span> immediate turns did not reflect real-world recognition and decision time · ditching on the Hudson gave the <span class="am">highest probability</span> of survival (Finding 15)</div></div></div>
+
+<div class="card" id="c_cvr4"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">FINAL 41 SECONDS · CVR · NTSB AAR-10/03 SEC. 1.1</div>
+  <div style="margin-top:30px">
+   <div class="cvr"><span class="t">15:30:03</span><span class="w">F/O</span>“two hundred fifty feet in the air” · “hundred and seventy knots”</div>
+   <div class="cvr"><span class="t">—</span><span class="w">F/O</span>“got no power on either one? try the other one”</div>
+   <div class="cvr" data-from="d6"><span class="t">15:30:17</span><span class="w">F/O</span>“got flaps two, you want more?” · CAPT: “no, let’s stay at two”</div>
+   <div class="cvr" data-from="d6"><span class="t">—</span><span class="w">CAPT</span>“got any ideas?” · F/O: “actually not”</div>
+   <div class="cvr" data-from="d6"><span class="t">15:30:24</span><span class="w">GPWS</span>“terrain, terrain” · “pull up” (to end of recording)</div></div></div></div>
+
+<div class="card" id="c_touch"><div style="position:absolute;left:180px;top:140px;width:1560px">
+  <div class="k">15:30:43 · TOUCHDOWN · NTSB AAR-10/03 SEC. 1.16.1, 1.16.3</div><div class="h" style="font-size:90px;margin-top:14px">3 min 32 s after the strike</div>
+  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:34px;margin-top:40px">
+   <div><div class="big gr" style="font-size:120px">125</div><div class="m st" style="font-size:22px">KCAS</div></div>
+   <div><div class="big" style="font-size:120px">9.5°</div><div class="m st" style="font-size:22px">PITCH (NOSE UP)</div></div>
+   <div><div class="big am" style="font-size:120px">12.5</div><div class="m st" style="font-size:22px">FT/S DESCENT (≈750 FT/MIN)</div></div>
+   <div data-from="x5"><div class="big rd" style="font-size:120px">−3.4°</div><div class="m st" style="font-size:22px">FLIGHT PATH · CERT. ASSUMED ≈ −0.5°</div></div></div>
+  <div class="b" style="margin-top:46px" data-from="x6"><span class="gr m">NTSB:</span> attaining all ditching parameters without power is possible but unlikely · airspeed difficulty under task saturation contributed to the descent rate and fuselage damage</div></div></div>
+
+<div class="card" id="c_evac"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">EVACUATION · NTSB VIDEO ANALYSIS · SEC. 1.15.5</div>
+  <div style="margin-top:30px">
+   <div class="cvr"><span class="t">15:30:43</span><span class="w">FDR</span>touchdown</div>
+   <div class="cvr"><span class="t">15:30:58</span><span class="w">WING</span>left overwing exits open · first passenger out</div>
+   <div class="cvr"><span class="t">15:31:06</span><span class="w">1L</span>forward left door opens</div>
+   <div class="cvr"><span class="t">15:31:11</span><span class="w">1R</span>forward right door opens</div>
+   <div class="cvr"><span class="t">15:31:16</span><span class="w">1R</span>slide/raft fully deployed</div>
+   <div class="cvr"><span class="t rd">AFT</span><span class="w">2L/2R</span>aft slide/rafts not usable: water entering the aft fuselage</div></div></div></div>
+
+<div class="card" id="c_rescue"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">EMERGENCY RESPONSE · NTSB SEC. 1.15.6</div><div class="h" style="font-size:90px;margin-top:14px">The boats</div>
+  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:40px;margin-top:40px">
+   <div><div class="big gr" style="font-size:120px">15:34:40</div><div class="m st" style="font-size:22px">FIRST VESSEL ON SCENE</div></div>
+   <div><div class="big gr" style="font-size:120px">7</div><div class="m st" style="font-size:22px">NY WATERWAY FERRIES RECOVERED OCCUPANTS</div></div>
+   <div><div class="big am" style="font-size:120px">15:54:43</div><div class="m st" style="font-size:22px">LAST VESSEL DEPARTS WITH LAST RESCUED</div></div></div>
+  <div class="b" style="margin-top:46px">Water 41 °F · triage at Port Imperial ferry terminal, Weehawken NJ</div></div></div>
+
+<div class="card" id="c_cause"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">NTSB PROBABLE CAUSE · ADOPTED MAY 4, 2010</div>
+  <div class="q pan" style="padding:40px;margin-top:30px;font-size:46px">“…<span class="hl" data-from="q2">the ingestion of large birds into each engine, which resulted in an almost total loss of thrust in both engines and the subsequent ditching on the Hudson River.</span>”</div></div></div>
+
+<div class="card" id="c_contrib"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">CONTRIBUTING TO THE FUSELAGE DAMAGE AND RESULTING UNAVAILABILITY OF THE AFT SLIDE/RAFTS · NTSB</div>
+  <div class="b" style="margin-top:30px;font-size:33px">
+   <div class="row"><span class="am m">1</span> FAA approval of ditching certification without determining whether pilots could attain the ditching parameters without engine thrust</div>
+   <div class="row"><span class="am m">2</span> Lack of industry flight crew training and guidance on ditching techniques</div>
+   <div class="row"><span class="am m">3</span> The captain’s resulting difficulty maintaining his intended airspeed on final approach due to the task saturation resulting from the emergency situation</div></div></div></div>
+
+<div class="card" id="c_surv"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">CONTRIBUTING TO SURVIVABILITY · NTSB</div>
+  <div class="b" style="margin-top:30px;font-size:33px">
+   <div class="row"><span class="gr m">1</span> Flight crew decision-making and crew resource management</div>
+   <div class="row"><span class="gr m">2</span> An airplane equipped for extended overwater flight (forward slide/rafts), though not required</div>
+   <div class="row"><span class="gr m">3</span> Cabin crew performance in expediting the evacuation</div>
+   <div class="row"><span class="gr m">4</span> Proximity of emergency responders and their immediate, appropriate response</div></div></div></div>
+
+<div class="card" id="c_recs"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">NTSB SAFETY RECOMMENDATIONS A-10-62 … A-10-95 (34)</div><div class="h" style="font-size:84px;margin-top:14px">What the NTSB asked for</div>
+  <div class="b" style="margin-top:24px;font-size:32px">
+   <div class="row" data-from="n2"><span class="am m">ENGINES</span> Technology to show pilots an engine’s continuing status · lower-fan-speed flocking-bird tests · core ingestion for smaller engines</div>
+   <div class="row" data-from="n3"><span class="am m">CREWS</span> Low-altitude dual-engine-failure checklist · ditching training · alpha-protection training</div>
+   <div class="row" data-from="n4"><span class="am m">CABIN</span> Life vests + flotation cushions on all flights · better life vests · briefings</div>
+   <div class="row" data-from="n4"><span class="am m">AIRPORTS</span> Proactive wildlife hazard assessments</div></div></div></div>
+
+<div class="card" id="c_status">
+  <div style="position:absolute;left:150px;top:200px;width:1000px">
+    <div class="k">CASE FILE · N106US</div>
+    <div class="m" style="font-size:36px;line-height:2;margin-top:20px">
+      <div>INVESTIGATION &nbsp;<span class="gr">CLOSED</span></div>
+      <div>FINAL REPORT &nbsp;&nbsp;<span class="gr">NTSB/AAR-10/03</span></div>
+      <div>ADOPTED &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gr">MAY 4, 2010</span></div>
+      <div>NTSB RECS &nbsp;&nbsp;&nbsp;&nbsp;<span class="am">A-10-62 … A-10-95</span></div></div></div>
+  <svg width="560" height="560" viewBox="-280 -280 560 560" style="position:absolute;right:170px;top:200px">
+    <circle r="250" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="170" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="90" fill="none" stroke="#1f3a2d" stroke-width="3"/>
+    <g id="sweep"><path d="M0 0 L0 -250 A250 250 0 0 1 120 -219 Z" fill="rgba(60,255,143,.18)"/></g>
+    <g fill="#3CFF8F"><circle cx="-200" cy="120" r="10"/><circle cx="-140" cy="80" r="10"/><circle cx="-80" cy="40" r="10"/><circle cx="-20" cy="0" r="10"/><circle cx="40" cy="-40" r="10"/></g>
+    <line x1="40" y1="-40" x2="120" y2="-95" stroke="#3CFF8F" stroke-width="4" stroke-dasharray="8 8"/>
+    <circle cx="130" cy="-100" r="34" fill="none" stroke="#FF2E2E" stroke-width="4" stroke-dasharray="8 6"/>
+    <path d="M114 -116 L146 -84 M146 -116 L114 -84" stroke="#FF2E2E" stroke-width="7"/>
+  </svg>
+  <div style="position:absolute;right:170px;top:790px;width:560px;text-align:center" class="h"><span style="font-size:86px">LAST </span><span class="gr" style="font-size:86px">CONTACT</span></div>
+  <div class="src" style="position:absolute;left:150px;bottom:70px">Independent channel · not affiliated with the NTSB, FAA, Airbus or any airline · NTSB/FAA documents are U.S. government works</div>
+</div>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module" src="scene.js"></script>

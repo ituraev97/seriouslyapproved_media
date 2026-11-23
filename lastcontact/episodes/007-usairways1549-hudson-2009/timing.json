@@ -1,0 +1,548 @@
+[
+ {
+  "id": "o1",
+  "start": 0.6,
+  "end": 6.988,
+  "text": "January fifteenth, two thousand nine. Three twenty-seven in the afternoon, just north of LaGuardia, New York."
+ },
+ {
+  "id": "o2",
+  "start": 7.388,
+  "end": 16.862,
+  "text": "An Airbus A three twenty, US Airways flight fifteen forty-nine, is climbing out of LaGuardia, bound for Charlotte. One hundred fifty-five people on board."
+ },
+ {
+  "id": "o3",
+  "start": 17.262,
+  "end": 27.397,
+  "text": "Two thousand eight hundred eighteen feet above the ground. The captain says one word: birds. One second later, thumps, and a shudder. Both engines lose almost all of their thrust."
+ },
+ {
+  "id": "o4",
+  "start": 27.897,
+  "end": 35.827,
+  "text": "There is no runway they can be sure of reaching. Three and a half minutes later, the airplane is on the Hudson River, between Manhattan and New Jersey."
+ },
+ {
+  "id": "o5",
+  "start": 36.627,
+  "end": 42.404,
+  "text": "Everyone on board survived. Five people were seriously injured, and ninety-five had minor injuries."
+ },
+ {
+  "id": "o6",
+  "start": 42.904,
+  "end": 51.535,
+  "text": "In this video: what the N T S B found, second by second. Why the engines could not be brought back. And whether the airplane could have made it back to an airport."
+ },
+ {
+  "id": "t1",
+  "start": 52.735,
+  "end": 56.224,
+  "text": "Last contact. Flight fifteen forty-nine. The Hudson River."
+ },
+ {
+  "id": "h1",
+  "start": 57.624,
+  "end": 68.507,
+  "text": "Everything here comes from the N T S B accident report, number A A R ten, oh three, adopted on May fourth, two thousand ten, and from the investigation's public docket."
+ },
+ {
+  "id": "h2",
+  "start": 68.907,
+  "end": 77.361,
+  "text": "Both recorders were recovered and read out. Times are eastern standard time. The track comes from Newark radar data in the N T S B docket."
+ },
+ {
+  "id": "h3",
+  "start": 77.761,
+  "end": 88.978,
+  "text": "The three D scenes are built on those numbers, over today's aerial imagery. Motion in between is interpolated. The model is a generic A three twenty, shown without any airline markings."
+ },
+ {
+  "id": "a1",
+  "start": 89.978,
+  "end": 99.512,
+  "text": "The airplane was an Airbus A three twenty, two fourteen, registration N one oh six U S. It was delivered new to US Airways in nineteen ninety-nine."
+ },
+ {
+  "id": "a2",
+  "start": 99.912,
+  "end": 109.984,
+  "text": "It had two C F M fifty-six turbofan engines. On board, one hundred fifty passengers, including a child held on a lap, three flight attendants and two pilots."
+ },
+ {
+  "id": "p1",
+  "start": 110.384,
+  "end": 118.606,
+  "text": "The captain was fifty-seven, with nineteen thousand six hundred sixty-three flight hours. He had flown F four fighters for the U.S. Air Force."
+ },
+ {
+  "id": "p2",
+  "start": 118.906,
+  "end": 131.65,
+  "text": "The first officer was forty-nine, with fifteen thousand six hundred forty-three hours. But only thirty-seven of them were in the A three twenty. He had recently completed his training on the type, and on this leg, he was the pilot flying."
+ },
+ {
+  "id": "p3",
+  "start": 132.05,
+  "end": 136.414,
+  "text": "It was the last day of a four-day trip, and the first trip the two had flown together."
+ },
+ {
+  "id": "w1",
+  "start": 137.214,
+  "end": 146.97,
+  "text": "The weather was cold, with good visibility. Ten miles, a light wind, minus six degrees Celsius in Central Park. The Hudson was about forty-one degrees Fahrenheit."
+ },
+ {
+  "id": "w2",
+  "start": 147.37,
+  "end": 154.383,
+  "text": "At three twenty-four and fifty-four seconds, LaGuardia tower cleared flight fifteen forty-nine for takeoff on runway four."
+ },
+ {
+  "id": "w3",
+  "start": 154.783,
+  "end": 160.896,
+  "text": "The takeoff and the first part of the climb were normal. The departure controller cleared them to fifteen thousand feet."
+ },
+ {
+  "id": "w4",
+  "start": 161.296,
+  "end": 171.422,
+  "text": "At three twenty-seven and five seconds, climbing through about two thousand five hundred feet, the flaps were retracted. The airplane was heading north, at about two hundred nineteen knots."
+ },
+ {
+  "id": "b1",
+  "start": 172.222,
+  "end": 176.042,
+  "text": "Three twenty-seven and ten point four seconds. The captain: birds."
+ },
+ {
+  "id": "b2",
+  "start": 176.342,
+  "end": 190.145,
+  "text": "At eleven point four, the cockpit voice recorder captures thumps and thuds, then a shuddering sound. In the same second, both engines start to run down. The left one from eighty-two to thirty-five percent fan speed. The right one, to fifteen percent."
+ },
+ {
+  "id": "b3",
+  "start": 190.545,
+  "end": 195.116,
+  "text": "The first officer: uh oh. The captain: we got one rol, both of 'em rolling back."
+ },
+ {
+  "id": "b4",
+  "start": 195.416,
+  "end": 207.828,
+  "text": "At three twenty-seven nineteen, the captain calls for engine ignition, and two seconds later, he starts the A P U, the small auxiliary power unit in the tail. At twenty-three seconds, he takes the controls: my aircraft."
+ },
+ {
+  "id": "b5",
+  "start": 208.228,
+  "end": 220.253,
+  "text": "The N T S B found this early A P U start mattered. It kept primary electrical power on line, so the airplane stayed in normal law, with its flight envelope protections, including protection against a stall."
+ },
+ {
+  "id": "g1",
+  "start": 221.053,
+  "end": 232.474,
+  "text": "What hit them? Investigators collected feathers, tissue and bone from both engines, the left wing and the fuselage, and sent them to the Smithsonian Institution's Feather Identification Laboratory."
+ },
+ {
+  "id": "g2",
+  "start": 232.874,
+  "end": 242.114,
+  "text": "The D N A matched Canada geese. Each engine had ingested at least two large birds, weighing about eight pounds each. One went into the core of each engine."
+ },
+ {
+  "id": "g3",
+  "start": 242.514,
+  "end": 250.698,
+  "text": "A chemical analysis of the feathers showed something else. These were not the geese that live around New York all year. They matched migratory geese."
+ },
+ {
+  "id": "g4",
+  "start": 251.098,
+  "end": 265.229,
+  "text": "The strike happened about four and a half miles from LaGuardia, at almost three thousand feet. That, the N T S B found, was beyond the range of the airport's wildlife hazard responsibilities, so the airport's wildlife management would not have mitigated it."
+ },
+ {
+  "id": "r1",
+  "start": 266.029,
+  "end": 276.784,
+  "text": "The airplane keeps climbing for a few seconds on momentum. At three twenty-seven thirty, it peaks at about three thousand sixty feet, at one hundred eighty-five knots. Then it starts down."
+ },
+ {
+  "id": "r2",
+  "start": 277.184,
+  "end": 287.818,
+  "text": "At three twenty-seven thirty-three, the captain calls New York departure. Cactus fifteen thirty-nine, hit birds, we've lost thrust in both engines, we're turning back towards LaGuardia."
+ },
+ {
+  "id": "r3",
+  "start": 288.118,
+  "end": 303.152,
+  "text": "Cactus fifteen forty-nine was the flight's radio call sign. He said fifteen thirty-nine; the flight number was fifteen forty-nine. And the words mayday, mayday, mayday never reached the controller. Another pilot was transmitting on the same frequency at the same moment."
+ },
+ {
+  "id": "r4",
+  "start": 303.552,
+  "end": 313.049,
+  "text": "The controller gives them a left turn to heading two two zero, back toward LaGuardia. At three twenty-eight and five seconds, he asks if they want to try runway one three."
+ },
+ {
+  "id": "r5",
+  "start": 313.349,
+  "end": 316.183,
+  "text": "The captain: we're unable. We may end up in the Hudson."
+ },
+ {
+  "id": "r6",
+  "start": 316.783,
+  "end": 326.501,
+  "text": "Runway three one? Unable. Runway four is available. The captain: I'm not sure we can make any runway. What's over to our right, anything in New Jersey, maybe Teterboro?"
+ },
+ {
+  "id": "r7",
+  "start": 326.901,
+  "end": 334.689,
+  "text": "Teterboro is off your right side, the controller says. At three twenty-nine and three seconds, the captain says yes, they want to try Teterboro."
+ },
+ {
+  "id": "r8",
+  "start": 335.089,
+  "end": 340.263,
+  "text": "At three twenty-nine eleven, over the public address: this is the captain, brace for impact."
+ },
+ {
+  "id": "r9",
+  "start": 340.663,
+  "end": 353.831,
+  "text": "At three twenty-nine twenty-one, the controller offers runway one at Teterboro. The captain: we can't do it. Then: we're gonna be in the Hudson. The airplane is descending through about seven hundred feet, near the west shore of the river."
+ },
+ {
+  "id": "c1",
+  "start": 354.631,
+  "end": 362.521,
+  "text": "While the captain flew and talked to A T C, the first officer was working through the quick reference handbook. The engine dual failure checklist."
+ },
+ {
+  "id": "c2",
+  "start": 362.921,
+  "end": 379.117,
+  "text": "Its first steps assume a dual engine failure at high altitude, with time to work. One item is a target speed for a windmill relight: three hundred knots. The first officer read it out: three hundred knots, we don't have that. The highest speed the airplane reached after the strike was two hundred fourteen knots."
+ },
+ {
+  "id": "c3",
+  "start": 379.517,
+  "end": 387.53,
+  "text": "The first officer spent about thirty to forty seconds on the relight steps. The ditching part of the checklist came after them, and the crew never reached it."
+ },
+ {
+  "id": "c4",
+  "start": 387.93,
+  "end": 399.649,
+  "text": "The N T S B found the checklist did not fully apply, but it was the most applicable one the crew had. A checklist for a dual engine failure at low altitude, the board said, would more likely have been completed."
+ },
+ {
+  "id": "e1",
+  "start": 400.449,
+  "end": 402.934,
+  "text": "Could the pilots have brought the engines back? No."
+ },
+ {
+  "id": "e2",
+  "start": 403.234,
+  "end": 412.003,
+  "text": "The right engine was still on its wing. The left one had separated, and was found in the river eight days later, near the point where the airplane first touched the water."
+ },
+ {
+  "id": "e3",
+  "start": 412.403,
+  "end": 425.8,
+  "text": "In both, the N T S B found bird remains in the core and mechanical damage that prevented the engine from producing enough thrust to sustain flight. No evidence of any engine, system or structural problem before the strike."
+ },
+ {
+  "id": "e4",
+  "start": 426.2,
+  "end": 437.353,
+  "text": "The left engine kept turning at a reduced level. At three twenty-eight twenty-five, the captain said, the left one's coming back up a little bit. But neither engine could produce enough thrust to sustain flight."
+ },
+ {
+  "id": "e5",
+  "start": 437.753,
+  "end": 451.951,
+  "text": "The engines' control system had no way to tell the pilots that thrust could not be restored. If it had, the N T S B said, they would not have spent valuable time trying to relight engines that were too damaged for any pilot action to make operational."
+ },
+ {
+  "id": "k1",
+  "start": 452.751,
+  "end": 456.516,
+  "text": "Were these engines tested for birds? Yes, under the rules of the time."
+ },
+ {
+  "id": "k2",
+  "start": 456.816,
+  "end": 469.605,
+  "text": "To be certificated, this engine type had to pass two bird tests: a volley of seven medium birds, one and a half pounds each, two of them aimed at the core, and a single large bird of four pounds, fired into the fan, but not into the core."
+ },
+ {
+  "id": "k3",
+  "start": 470.005,
+  "end": 481.62,
+  "text": "Flight fifteen forty-nine took in at least two birds of about eight pounds per engine, with one in each core. The N T S B found the size and number of the birds well exceeded the certification standards."
+ },
+ {
+  "id": "s1",
+  "start": 482.42,
+  "end": 484.507,
+  "text": "So, could they have made it back to LaGuardia?"
+ },
+ {
+  "id": "s2",
+  "start": 484.807,
+  "end": 495.974,
+  "text": "In April two thousand nine, the N T S B ran simulations at the Airbus training center in Toulouse. The pilots were briefed in advance, and turned for an airport immediately after the strike."
+ },
+ {
+  "id": "s3",
+  "start": 496.374,
+  "end": 506.876,
+  "text": "Of fifteen valid runs with an immediate turn, eight landed successfully. Five of seven to LaGuardia runway one three. Two of six to runway two two. One of two to Teterboro."
+ },
+ {
+  "id": "s4",
+  "start": 507.276,
+  "end": 516.693,
+  "text": "Then they added a thirty-five second delay, to account for recognizing what had happened and deciding what to do. One run, to runway one three. It did not make it."
+ },
+ {
+  "id": "s5",
+  "start": 517.093,
+  "end": 531.518,
+  "text": "The N T S B noted the immediate turns did not reflect real world considerations. Its finding was that the captain's decision to ditch on the Hudson, rather than attempt an airport, provided the highest probability that the accident would be survivable."
+ },
+ {
+  "id": "d1",
+  "start": 532.318,
+  "end": 543.021,
+  "text": "Down the river. At three twenty-nine forty-five, the captain says, put the flaps out. The airplane is a few hundred feet above the Hudson, at about one hundred ninety knots, tracking south down the river."
+ },
+ {
+  "id": "d2",
+  "start": 543.421,
+  "end": 556.133,
+  "text": "At three twenty-nine fifty-three, the controller tells them radar contact is lost. Radar needs a clear line of sight, and that low, buildings or other obstructions can block it. He keeps transmitting anyway, offering Newark."
+ },
+ {
+  "id": "d4",
+  "start": 556.533,
+  "end": 563.174,
+  "text": "The ground proximity warning system sounds fifteen alerts in the last minute and a half. Too low, terrain. Pull up."
+ },
+ {
+  "id": "d5",
+  "start": 563.574,
+  "end": 570.74,
+  "text": "The first officer: two hundred fifty feet in the air. Hundred and seventy knots. Got no power on either one? Try the other one."
+ },
+ {
+  "id": "d6",
+  "start": 571.04,
+  "end": 577.641,
+  "text": "Got flaps two, you want more? The captain: no, let's stay at two. Got any ideas? The first officer: actually not."
+ },
+ {
+  "id": "x1",
+  "start": 578.041,
+  "end": 581.552,
+  "text": "Three thirty and thirty-eight seconds. The captain: we're gonna brace."
+ },
+ {
+  "id": "x2",
+  "start": 581.952,
+  "end": 595.269,
+  "text": "From about one hundred feet, he pulls the sidestick back, harder and harder, and below fifty feet, all the way to its stop. But the airplane is slow, and in its alpha protection mode, the flight controls soften the effect of his nose up inputs."
+ },
+ {
+  "id": "x3",
+  "start": 595.669,
+  "end": 606.489,
+  "text": "Three thirty and forty-three seconds. The A three twenty touches the Hudson at one hundred twenty-five knots, nose up nine and a half degrees, descending at about seven hundred fifty feet per minute."
+ },
+ {
+  "id": "x4",
+  "start": 607.489,
+  "end": 610.092,
+  "text": "Three minutes and thirty-two seconds after the thumps."
+ },
+ {
+  "id": "x5",
+  "start": 611.092,
+  "end": 629.794,
+  "text": "For certification, Airbus's ditching tests assumed a very shallow flight path, about minus half a degree, with engine power available. Flight fifteen forty-nine came in at minus three point four. In the simulator, briefed pilots aiming for minus half a degree came in between minus one and a half and minus three point six degrees in eleven of twelve runs."
+ },
+ {
+  "id": "x6",
+  "start": 630.194,
+  "end": 647.533,
+  "text": "The N T S B found it is possible, but unlikely, for pilots to hit all of the ditching parameters with no engine power. And it found the captain's difficulty holding his intended airspeed on final, under high workload, stress and task saturation, contributed to the high descent rate and the fuselage damage."
+ },
+ {
+  "id": "m1",
+  "start": 648.333,
+  "end": 655.609,
+  "text": "The impact was hardest at the tail. The lower rear fuselage was torn open, and water began to pour into the back of the cabin."
+ },
+ {
+  "id": "m2",
+  "start": 656.009,
+  "end": 664.207,
+  "text": "A vertical beam in the floor structure punched up through the cabin floor right beneath the rear flight attendant's jump seat. She was seriously injured."
+ },
+ {
+  "id": "m3",
+  "start": 664.607,
+  "end": 669.323,
+  "text": "Because the rear of the airplane was flooding, the two rear slide rafts could not be used."
+ },
+ {
+  "id": "v1",
+  "start": 670.123,
+  "end": 677.268,
+  "text": "Within seconds of the airplane stopping, people were moving. The N T S B reconstructed the evacuation from videos."
+ },
+ {
+  "id": "v2",
+  "start": 677.668,
+  "end": 691.436,
+  "text": "At three thirty fifty-eight, fifteen seconds after touchdown, the left overwing exits open. At three thirty-one oh six, the front left door. Five seconds later, the front right door. Its slide raft is fully deployed five seconds after that."
+ },
+ {
+  "id": "v3",
+  "start": 691.836,
+  "end": 704.471,
+  "text": "Passengers stood on both wings. Within two minutes, many of them were in water up to their waists. Forty-one degree water, and a wind chill of two degrees Fahrenheit. About sixty-four people got into the two front slide rafts."
+ },
+ {
+  "id": "v4",
+  "start": 704.871,
+  "end": 717.825,
+  "text": "The flight was not required to carry equipment for an extended flight over water. But this airplane happened to be equipped for it, and so the front slide rafts were there. The N T S B said that contributed to the lack of fatalities."
+ },
+ {
+  "id": "v5",
+  "start": 718.225,
+  "end": 735.388,
+  "text": "Many passengers left without life vests. The board concluded that most passengers will not wait the seven to eight seconds it takes on average to retrieve a vest before giving up. The captain said he and the first officer took vests from under the seats and handed them out, then checked the cabin for anyone left, before leaving themselves."
+ },
+ {
+  "id": "y1",
+  "start": 735.788,
+  "end": 744.834,
+  "text": "Then the boats came. The airplane was near the New York Waterway ferry terminal at Port Imperial, in Weehawken, New Jersey. Some ferry captains saw it come down."
+ },
+ {
+  "id": "y2",
+  "start": 745.234,
+  "end": 759.565,
+  "text": "At three thirty-four and forty seconds, less than four minutes after touchdown, the first vessel arrived. Seven New York Waterway ferries recovered people from the water, the wings and the rafts. A fire department rescue boat and two Coast Guard boats followed."
+ },
+ {
+  "id": "y3",
+  "start": 759.965,
+  "end": 769.332,
+  "text": "At three fifty-four and forty-three seconds, the last vessel left, carrying the last people rescued from the left wing's slide. Everyone was off the airplane, alive."
+ },
+ {
+  "id": "y4",
+  "start": 769.732,
+  "end": 778.158,
+  "text": "The N T S B called the emergency response timely and efficient, because the responders were close, moved immediately, and had trained before."
+ },
+ {
+  "id": "q1",
+  "start": 778.958,
+  "end": 785.196,
+  "text": "In May two thousand ten, the board adopted its report. The probable cause, in the N T S B's words:"
+ },
+ {
+  "id": "q2",
+  "start": 785.496,
+  "end": 794.821,
+  "text": "the ingestion of large birds into each engine, which resulted in an almost total loss of thrust in both engines and the subsequent ditching on the Hudson River."
+ },
+ {
+  "id": "q3",
+  "start": 795.421,
+  "end": 817.173,
+  "text": "Contributing to the fuselage damage, and to the resulting unavailability of the rear slide rafts: the F A A's approval of ditching certification without determining whether pilots could attain the ditching parameters without engine thrust. The lack of industry flight crew training and guidance on ditching techniques. And the captain's resulting difficulty maintaining his intended airspeed on final approach, due to the task saturation resulting from the emergency situation."
+ },
+ {
+  "id": "q4",
+  "start": 817.773,
+  "end": 832.203,
+  "text": "And contributing to survival: the crew's decision making and crew resource management. The airplane's overwater equipment, though not required. The cabin crew's performance in the evacuation. And the emergency responders' proximity and immediate response."
+ },
+ {
+  "id": "n1",
+  "start": 833.003,
+  "end": 836.381,
+  "text": "The N T S B made thirty-four safety recommendations."
+ },
+ {
+  "id": "n2",
+  "start": 836.681,
+  "end": 850.263,
+  "text": "Develop technology to tell pilots whether an engine can still run. Test engines against birds at the low fan speeds of a minimum climb, and consider large flocking bird tests, including the core, for smaller engines like this one."
+ },
+ {
+  "id": "n3",
+  "start": 850.663,
+  "end": 862.627,
+  "text": "Require a checklist and procedure for a dual engine failure at low altitude. Train pilots on ditching, on the visual illusions of landing on water, and on how alpha protection can limit pitch response."
+ },
+ {
+  "id": "n4",
+  "start": 863.027,
+  "end": 871.835,
+  "text": "Life vests and flotation cushions on all flights. Better life vest designs. And a more proactive approach to wildlife hazards around airports."
+ },
+ {
+  "id": "z1",
+  "start": 872.635,
+  "end": 878.977,
+  "text": "Once more. Two thousand eight hundred eighteen feet. Birds. Both engines rolling back. My aircraft. A P U."
+ },
+ {
+  "id": "z2",
+  "start": 879.377,
+  "end": 884.651,
+  "text": "Turning back. Unable. Teterboro. We're gonna be in the Hudson. Brace for impact. Flaps two."
+ },
+ {
+  "id": "z3",
+  "start": 885.051,
+  "end": 885.709,
+  "text": "The river."
+ },
+ {
+  "id": "f1",
+  "start": 886.909,
+  "end": 899.419,
+  "text": "The N T S B wrote that this was not a typical bird strike. It happened higher and farther from the airport than most, and it took both engines at once. A bird strike, the board said, does not need to be typical to be hazardous."
+ },
+ {
+  "id": "f2",
+  "start": 899.819,
+  "end": 916.513,
+  "text": "One hundred fifty-five people survived. The N T S B's findings point to many things that went right in a short window: the crew's decisions, an early A P U start, an airplane that happened to carry slide rafts it was not required to have, a cabin crew that moved fast, and rescue boats that were close by."
+ },
+ {
+  "id": "f3",
+  "start": 916.913,
+  "end": 920.928,
+  "text": "This was LAST CONTACT. Every crash leaves a record. Next file soon."
+ }
+]

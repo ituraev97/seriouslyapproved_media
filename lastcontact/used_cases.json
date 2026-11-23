@@ -37,5 +37,12 @@
   "scheduled": "2026-11-21 14:00 ET",
   "basis": "Fallback (no fresh case with enough official material); NTSB final report AAR-14/01; strong evergreen Shorts demand",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=7053693156047013771"
+ },
+ {
+  "ep": "007",
+  "case": "US Airways flight 1549, Airbus A320-214 N106US, loss of thrust in both engines after a bird strike and ditching on the Hudson River, 2009-01-15 (NTSB/AAR-10/03, final; docket DCA09MA026)",
+  "scheduled": "2026-11-23 14:00 ET",
+  "basis": "Fallback (no fresh case with enough official material; Greenacres Learjet 60 and UPS/Copa still without preliminary reports); NTSB final report + docket radar track; strong demand ('Miracle on the Hudson' 5.3M views in 30 days)",
+  "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-2927798853481446444"
  }
 ]
