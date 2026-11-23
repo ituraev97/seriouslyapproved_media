@@ -26,6 +26,20 @@ The cloud sandbox cannot reach youtube.com; a relay on the owner's server downlo
 - Real footage 30–50% of runtime; ≤ ~12 s of one external clip at a time; mostly muted under narration, original audio only for short key quotes (≤ 15 s, speaker named on screen); on-screen source label on every clip ("NTSB MEDIA BRIEFING", "NEWS REPORT · <outlet>", …); list all footage sources (title, channel, URL) in the description and sources.md.
 - LOOK at every received clip (contact sheet with exact `-ss` timestamps) before using it; drop anything that breaks the NEVER list.
 
+## Voice = Chatterbox via TTS relay — owner decision 2026-11-23 (overrides "Voice (current)" in Environment and pipeline step 4)
+Why: long videos are the weak spot (median 32 views) and the Kokoro narrator is the clearest "AI" tell. Chatterbox with the channel's own calm male voice (`lc`) runs on the owner's server, ~3–5 h per episode, so a run publishes the episode whose voice was ordered in the PREVIOUS run, and writes + orders the next one.
+Tools: `tools/lc_voice.py` (wraps `tools/tts_client.py`; read both docstrings). Creds = the same `/tmp/drive_creds.json` as the footage relay. RUN id = `lc-<NNN>` (episode number).
+
+**Run order:**
+1. **Publish the voiced episode.** If the newest `lastcontact/episodes/NNN-slug/` has `VOICING` in its folder (a file with the RUN id), check `python3 tools/lc_voice.py status lc-NNN --creds /tmp/drive_creds.json`.
+   - `ready` → setup, copy that episode's script.py (and research.md/sources.md) into /home/claude/av/mia, `python3 tools/lc_voice.py fetch lc-NNN /home/claude/av/mia --creds /tmp/drive_creds.json`, get the relay footage (`footage_client.py wait lc-NNN …`, clips stay 7 days), then pipeline steps 4–17 as usual (`tts.py` must not voice any line — if it does, the text changed after ordering: mixed voices, say so in the report). Delete `VOICING` in the commit.
+   - `pending` (server still working) → build this run's episode with Kokoro (old flow, steps 1–17) so the schedule never slips, and keep `VOICING` for the next run.
+   - `failed` or older than 72 h → build it now with Kokoro, delete `VOICING`.
+   - No `VOICING` episode (first run after this change) → old flow with Kokoro for today.
+2. **Write the next episode** (topic choice, research, script.py, independent fact-check with all fixes applied). Its LINES are final after the fact-check.
+3. **Order its voice:** `python3 tools/lc_voice.py request lc-NNN lastcontact/episodes/NNN-slug/script.py --creds /tmp/drive_creds.json --hint "<airline, airport, aircraft type, place names>"`; order its footage (`footage_client.py request lc-NNN clips.json`). Commit script.py + research.md + sources.md + a `VOICING` file (content: lc-NNN) to main. Do NOT build it now.
+**Writing for Chatterbox:** spoken text uses real spellings (no respellings; put names in `--hint`), numbers as words, short sentences; "!" only on real reveals; per-line speed still works (it becomes tempo); keep the pause column as before. ~2,300 words → ~15 min.
+
 ## Schedule (owner decision 2026-11-14)
 - 4 long videos per week, ~15 min each (14:30–15:30 min of narration): Mon, Wed, Fri, Sat at 14:00 America/New_York.
 - YouTube Shorts: 1–2 per day (20–40 s), the best-scoring of the day's candidates (owner 2026-11-23, see "Shorts: cadence + hook rules" at the top) + 3 TikToks per day (61–90 s), every day. Each run schedules Shorts/TikToks for its own day AND the following days until the next run day (Mon run → Mon+Tue, Wed → Wed+Thu, Fri → Fri, Sat → Sat+Sun).
@@ -53,7 +67,7 @@ The cloud sandbox cannot reach youtube.com; a relay on the owner's server downlo
 - Reachable: ntsb.gov, data.ntsb.gov, faa.gov, whitehouse.gov, aviationweather.gov, api.weather.gov, api.dvidshub.net (key-6ae3182ef3840), USGS basemap/elevation (basemap.nationalmap.gov export endpoint, max cached zoom 16 — use `export?bbox=…&bboxSR=3857&imageSR=3857&size=4096,4096`), raw.githubusercontent.com (OurAirports runways.csv), api.adsb.lol (live only, no history), flickr.com pages (but live.staticflickr.com returns 429 to the cloud — take NTSB photos from report PDFs via `pdfimages` and from ntsb.gov PublishingImages).
 - Blocked: youtube.com (→ real footage only via the relay, see top), FlightAware/FR24/ADS-B Exchange/OpenSky (also licence issues — do not use), NOAA NCEI.
 - Kokoro: `pip install --break-system-packages kokoro-onnx soundfile scipy brotli`; models from github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/{kokoro-v1.0.onnx,voices-v1.0.bin} into /home/claude/models.
-- Voice (current): `am_puck:0.7+am_echo:0.3`, speed = per-line speed ×1.0.
+- Voice: Chatterbox `lc` via TTS relay (see "Voice = Chatterbox via TTS relay"). Kokoro fallback: `am_puck:0.7+am_echo:0.3`, speed = per-line speed ×1.0 (keep it: it is part of tts.py cache file names).
 - Chrome + Playwright preinstalled; three.js via npm. SwiftShader WebGL: ~0.3 s/frame for 3D at pixelRatio 0.7, ~0.1 s for cards.
 
 ## Setup (fresh container)
