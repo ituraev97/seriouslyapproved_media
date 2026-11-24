@@ -1,5 +1,11 @@
 # LAST CONTACT — production runbook (episode = 15-min long video + Shorts + TikToks)
 
+> **LATEST OWNER DECISIONS — read first, they override older sections below (2026-11-24)**
+> - Thumbnails v6 (section "Thumbnails v6" near the end): thumb_A and thumb_B are made with `tools/thumbkit/thumbkit.py` + AI pictures from `tools/img_client.py` (request them at the START of the run); only thumb_C uses this channel's old generator. Every run must at least request the AI pictures; if they do not arrive in time, say so in the report.
+> - EMOTION FIRST: every thumbnail shows a strong emotion (rage, shock, fear, disbelief) — never a calm face; the AI may only re-light a real face, never change it.
+> - Promise rule + subtitles + minimal bleeps (section "Promise, clips & subtitles" at the end).
+
+
 Owner speaks Russian: all reports to him in Russian. Channel bible: Projects doc `claude/last-contact-bible.md` (read first).
 Reference episode: `lastcontact/episodes/002-21air7598-miami/` (published 2026-11-14, https://www.youtube.com/watch?v=_M1-RE_wTyw).
 
