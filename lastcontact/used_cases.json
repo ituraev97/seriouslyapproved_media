@@ -44,5 +44,12 @@
   "scheduled": "2026-11-23 14:00 ET",
   "basis": "Fallback (no fresh case with enough official material; Greenacres Learjet 60 and UPS/Copa still without preliminary reports); NTSB final report + docket radar track; strong demand ('Miracle on the Hudson' 5.3M views in 30 days)",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-2927798853481446444"
+ },
+ {
+  "ep": "008",
+  "case": "Southwest Airlines flight 1380, Boeing 737-7H4 N772SW, CFM56-7B fan blade failure, fan cowl separation and cabin window loss, 2018-04-17 (NTSB/AAR-19/03, final; docket DCA18MA142)",
+  "scheduled": "2026-11-25 14:00 ET",
+  "basis": "Fallback (no fresh case with enough new official material); NTSB final report + docket FDR track + board-meeting clips; demand \"Southwest 1380 engine\" 2.20M views/30 days",
+  "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=2585448900613262120"
  }
 ]

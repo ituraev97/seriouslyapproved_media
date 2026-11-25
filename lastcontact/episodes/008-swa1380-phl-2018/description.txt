@@ -1,0 +1,39 @@
+April 17, 2018: Southwest Airlines flight 1380, a Boeing 737-700, loses its left engine at 32,648 feet over Pennsylvania. A fan blade has separated, and parts of the engine's cover break away. One strikes the fuselage beside a cabin window, and the cabin depressurizes. About 17 minutes after the engine failure, the airplane lands in Philadelphia. One passenger died; eight others had minor injuries. This video walks through what the NTSB found, second by second, using only the NTSB's own final report (NTSB/AAR-19/03) and its public docket.
+
+Chapters
+0:00 Cold open
+1:05 How we know
+1:38 The airplane and the crew
+2:32 Takeoff to the engine failure
+3:39 The emergency descent
+4:26 Why Philadelphia
+4:59 The descent to Philadelphia
+5:32 The cabin
+6:09 The landing
+6:54 What broke
+7:49 The inspections
+9:27 The engine cover
+10:44 Certification: tested vs. what happened
+11:30 Crew actions
+12:10 The NTSB's probable cause
+12:53 Safety recommendations
+13:38 Once more
+
+NTSB probable cause (quoted from the report, adopted November 19, 2019): "...a low-cycle fatigue crack in the dovetail of fan blade No. 13, which resulted in the fan blade separating in flight and impacting the engine fan case at a location that was critical to the structural integrity and performance of the fan cowl structure. This impact led to the in-flight separation of fan cowl components, including the inboard fan cowl aft latch keeper, which struck the fuselage near a cabin window and caused the window to depart from the airplane, the cabin to rapidly depressurize, and the passenger fatality."
+
+Sources
+- NTSB Aircraft Accident Report NTSB/AAR-19/03, "Engine Failure and Subsequent Depressurization, Southwest Airlines Flight 1380, Boeing 737-7H4, N772SW, Philadelphia, Pennsylvania, April 17, 2018"
+- NTSB investigation docket DCA18MA142 (flight data recorder data)
+- NTSB board meeting, November 19, 2019 (slides and meeting video clips, credited on screen)
+
+Credits
+- Figures from the NTSB report are credited on screen as published by the NTSB. Some figures originate from third parties and are credited as published in the report.
+- 3D reconstruction built from NTSB flight data. Generic Boeing 737 model, no airline markings; it is not the accident airplane. Imagery: USGS (current, not 2018). Track and heights approximate.
+- 3D model: Boeing737 by manilov.ap (Sketchfab), CC BY 4.0 (https://sketchfab.com/3d-models/boeing737-259de41be0c7410e86b7e79be33d6b3a)
+- Sky: Poly Haven HDRI (CC0)
+- File footage from DVIDS (U.S. Air Force), labelled on screen; not footage of the accident engine or of Philadelphia.
+- Narration is a synthetic voice. Music is an original synthesized bed.
+
+LAST CONTACT is an independent channel. It is not affiliated with the NTSB, the FAA, Boeing, CFM or any airline. We don't state or imply cause or blame beyond what the NTSB itself reported.
+
+#SouthwestAirlines #Flight1380 #NTSB #planecrash #aviation #aviationsafety

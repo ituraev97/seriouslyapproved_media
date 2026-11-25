@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:Bar;src:url(node_modules/@fontsource/barlow-condensed/files/barlow-condensed-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:Int;src:url(node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-500-normal.woff2);font-weight:500}
+@font-face{font-family:Mono;src:url(node_modules/@fontsource/jetbrains-mono/files/jetbrains-mono-latin-700-normal.woff2);font-weight:700}
+:root{--night:#070B10;--scope:#0E1A16;--green:#3CFF8F;--amber:#FFB020;--red:#FF2E2E;--ink:#EEF2F4;--steel:#7E8A96}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:var(--night);font-family:Int;color:var(--ink)}
+#gl{position:absolute;inset:0}
+.card{position:absolute;inset:0;opacity:0;background:radial-gradient(ellipse at 50% 45%,#0f1d18 0%,#070B10 70%)}
+.card::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(60,255,143,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(60,255,143,.05) 1px,transparent 1px);background-size:80px 80px}
+.k{font-family:Mono;font-weight:700;font-size:24px;letter-spacing:.16em;color:var(--green)}
+.h{font-family:Bar;font-weight:800;text-transform:uppercase;line-height:.95;letter-spacing:.01em}
+.b{font-size:38px;line-height:1.4}
+.m{font-family:Mono;font-weight:500}
+.src{font-family:Mono;font-size:20px;color:var(--steel);letter-spacing:.04em}
+.am{color:var(--amber)} .gr{color:var(--green)} .rd{color:var(--red)} .st{color:var(--steel)}
+.pan{background:rgba(7,11,16,.82);border:1px solid rgba(60,255,143,.18);border-radius:6px}
+[data-from]{opacity:0}
+.row{display:flex;align-items:baseline;gap:28px;padding:14px 0;border-bottom:1px solid rgba(126,138,150,.18)}
+.tag{display:inline-block;font-family:Mono;font-weight:700;font-size:20px;letter-spacing:.14em;padding:7px 13px;border-radius:3px;border:1px solid}
+#hud{position:absolute;right:56px;top:116px;width:470px;padding:22px 26px;opacity:0}
+#hud .v{font-family:Mono;font-weight:700;font-size:46px}
+#hud .l{font-family:Mono;font-size:18px;color:var(--steel);letter-spacing:.12em}
+#ev{position:absolute;left:56px;bottom:120px;opacity:0;padding:18px 26px;font-family:Mono;font-weight:700;font-size:34px}
+#recon{position:absolute;left:56px;top:50px;opacity:0}
+#cred{position:absolute;right:56px;bottom:40px;opacity:0}
+#wm{position:absolute;right:52px;top:44px;opacity:0;font-family:Bar;font-weight:800;font-size:30px;letter-spacing:.06em}
+.lbl{position:absolute;font-family:Mono;font-weight:700;font-size:21px;padding:7px 11px;background:rgba(7,11,16,.85);border-left:4px solid var(--green);white-space:nowrap;transform:translate(-50%,-150%);opacity:0}
+.lbl small{display:block;font-weight:500;font-size:16px;color:var(--steel)}
+.cv{display:flex;gap:26px;padding:10px 18px;border-radius:4px;font-size:30px;align-items:baseline;transition:none}
+.cv .t{font-family:Mono;font-weight:700;width:120px;color:var(--steel)}
+.cv.on{background:rgba(60,255,143,.10)} .cv.on .t{color:var(--amber)}
+
+.big{font-family:Bar;font-weight:800;font-size:150px;line-height:1}
+.q{font-size:44px;line-height:1.35;font-family:Int;font-weight:600}
+.hl{background:rgba(255,176,32,.16);padding:0 8px}
+.cvr{display:flex;gap:30px;font-size:36px;padding:12px 18px;align-items:baseline;border-bottom:1px solid rgba(126,138,150,.15)}
+.cvr .t{font-family:Mono;font-weight:700;width:150px;color:var(--amber)}
+.cvr .w{font-family:Mono;font-weight:700;width:120px;color:var(--steel);font-size:24px}
+</style></head><body>
+</head><body>
+<canvas id="gl" width="1920" height="1080"></canvas>
+<div id="recon" class="tag gr" style="border-color:rgba(60,255,143,.5);background:rgba(7,11,16,.8)">RECONSTRUCTION FROM NTSB AAR-19/03 + DOCKET FDR DATA · MOTION BETWEEN DATA POINTS INTERPOLATED</div>
+<div id="cred" class="src pan" style="padding:8px 14px">GENERIC BOEING 737 MODEL, NO AIRLINE MARKINGS · IMAGERY: USGS (CURRENT, NOT 2018) · TRACK AND HEIGHTS APPROXIMATE</div>
+<div id="hud" class="pan">
+  <div class="l">ALTITUDE (≈, FT)</div><div class="v" id="halt">—</div>
+  <div class="l" style="margin-top:8px">AIRSPEED (KT, FDR)</div><div class="v gr" id="hias">—</div>
+  <div class="l" style="margin-top:8px">FAN SPEED N1 · LEFT / RIGHT</div><div class="v" id="heng" style="font-size:32px">—</div>
+  <div class="l" style="margin-top:8px">TIME (EDT) · SINCE ENGINE FAILURE</div><div class="v am" id="ht" style="font-size:34px">—</div>
+  <div class="src" style="margin-top:10px;font-size:16px">NTSB AAR-19/03 SEC. 1.1 · DOCKET DCA18MA142: FDR DATA</div>
+</div>
+<div id="ev" class="pan"></div>
+<div id="L_lga" class="lbl">LAGUARDIA (LGA)<small>TAKEOFF 10:43</small></div>
+<div id="L_fbo" class="lbl" style="border-color:var(--red)">ENGINE FAILURE · 11:03:33<small>32,648 FT · NEAR BERNVILLE, PA</small></div>
+<div id="L_mdt" class="lbl">HARRISBURG (MDT)<small>29 NM AT THE TIME OF THE FAILURE</small></div>
+<div id="L_phl" class="lbl" style="border-color:var(--amber)">PHILADELPHIA (PHL)<small>RUNWAY 27L · LANDING 11:20:30</small></div>
+<div id="L_td" class="lbl" style="border-color:var(--amber)">TOUCHDOWN · 11:20:30<small>≈171 KT · FLAPS 5°</small></div>
+<div id="L_jet" class="lbl" style="border-color:var(--amber)">BOEING 737-7H4 · N772SW</div>
+<div id="L_riv" class="lbl">DELAWARE RIVER</div>
+
+<div class="card" id="c_toll"><div style="position:absolute;left:0;right:0;top:230px;text-align:center">
+  <div class="k st">APRIL 17, 2018 · NEAR BERNVILLE, PA → PHILADELPHIA</div>
+  <div class="h" style="font-size:150px;margin-top:30px"><span class="gr">149</span> on board · <span class="gr">17</span> minutes</div>
+  <div class="h st" style="font-size:60px;margin-top:22px">1 passenger died · 8 passengers with minor injuries</div>
+  <div class="src" style="margin-top:40px">Source: NTSB Aircraft Accident Report NTSB/AAR-19/03, executive summary · 144 passengers, 5 crew</div></div></div>
+
+<div class="card" id="c_title"><div style="position:absolute;left:0;right:0;top:300px;text-align:center">
+  <span class="tag gr" style="border-color:rgba(60,255,143,.6)">NTSB FINAL REPORT · AAR-19/03</span>
+  <div class="h" style="font-size:170px;margin-top:26px">Flight <span class="gr">1380</span> · Boeing 737</div>
+  <div class="k" style="font-size:32px;margin-top:20px;color:var(--ink)">A FAN BLADE · AN ENGINE COVER · A WINDOW</div></div></div>
+
+<div class="card" id="c_how"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">HOW WE KNOW</div><div class="h" style="font-size:90px;margin-top:14px">The record</div>
+  <div class="b" style="margin-top:30px">
+   <div class="row"><span class="gr m">✓</span> NTSB Aircraft Accident Report NTSB/AAR-19/03 · adopted November 19, 2019</div>
+   <div class="row" data-from="h2"><span class="gr m">✓</span> Flight data recorder + cockpit voice recorder (NTSB transcript)</div>
+   <div class="row" data-from="h2"><span class="gr m">✓</span> Docket DCA18MA142: FDR table with latitude, longitude, altitude, speed</div>
+   <div class="row" data-from="h2"><span class="am m">≈</span> Times: eastern daylight time · values rounded as in the report</div></div></div></div>
+
+<div class="card" id="c_plane"><div style="position:absolute;left:180px;top:170px;width:1560px">
+  <div class="k">THE AIRPLANE · NTSB SEC. 1.3</div><div class="h" style="font-size:90px;margin-top:14px">N772SW</div>
+  <div class="m" style="font-size:36px;line-height:1.9;margin-top:30px">
+   <div>BOEING 737-7H4 · DELIVERED NEW TO SOUTHWEST, JULY 2000</div>
+   <div>63,521 FLIGHT HOURS · 37,021 CYCLES</div>
+   <div data-from="a2">2 × CFM56-7B24 TURBOFAN ENGINES</div>
+   <div data-from="a2" class="am">LEFT ENGINE LAST OVERHAULED NOV 2012 · 18,088 H · 10,712 CYCLES SINCE</div>
+   <div data-from="a2" class="st">LGA → DAL (DALLAS LOVE FIELD) · SCHEDULED PART 121 FLIGHT</div></div></div></div>
+
+<div class="card" id="c_crew"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">THE FLIGHT CREW · NTSB SEC. 1.2</div><div class="h" style="font-size:90px;margin-top:14px">Two pilots</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:40px">
+   <div class="pan" style="padding:30px"><div class="k st">CAPTAIN · PILOT MONITORING</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">AGE 56 · ≈11,700 H TOTAL<br>≈10,500 H IN THE 737<br>FORMER U.S. NAVY PILOT</div></div>
+   <div class="pan" style="padding:30px" data-from="p2"><div class="k am">FIRST OFFICER · PILOT FLYING</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">AGE 44 · ≈9,500 H TOTAL<br><span class="am">≈6,900 H IN THE 737</span><br>FORMER U.S. AIR FORCE PILOT</div></div></div>
+  <div class="b" style="margin-top:36px" data-from="p2">NTSB: crew qualifications and medical conditions were not factors · 2nd day of a 4-day pairing</div></div></div>
+
+<div class="card" id="c_cvr1"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">CVR + FDR · NTSB AAR-19/03 SEC. 1.1</div>
+  <div style="margin-top:30px">
+   <div class="cvr"><span class="t">11:03:33</span><span class="w">FDR</span>FL320 · 32,648 FT · left engine fan speed 99.5 % → 61.5 %</div>
+   <div class="cvr"><span class="t">11:03:39</span><span class="w">CAM</span>cabin altitude warning horn</div>
+   <div class="cvr" data-from="e1"><span class="t">11:03:58</span><span class="w">FDR</span>both engines to idle · emergency descent begins</div>
+   <div class="cvr" data-from="e2"><span class="t">11:04:49</span><span class="w">CAM</span>sounds of oxygen masks</div>
+   <div class="cvr" data-from="e2"><span class="t">11:04:50</span><span class="w">CTR</span>“…if you’re trying to get me all I hear is static”</div>
+   <div class="cvr" data-from="e4"><span class="t">11:04:54</span><span class="w">CAPT</span>“…has an engine fire descending”</div>
+   <div class="cvr" data-from="e4"><span class="t">11:05:02</span><span class="w">CAPT</span>“we’re single engine descending have fire in number one”</div></div>
+  <div class="src" style="margin-top:22px">CAPT = captain · CTR = New York Center controller · CAM = cockpit area microphone · FDR = flight data recorder</div></div></div>
+
+<div class="card" id="c_cvr2"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">CVR + ATC · NTSB AAR-19/03 SEC. 1.1</div>
+  <div style="margin-top:30px">
+   <div class="cvr" data-from="e5"><span class="t">11:05:16</span><span class="w">CTR</span>Middletown airport, heading 250 · CAPT: “we’re looking at ah Philly”</div>
+   <div class="cvr" data-from="e6"><span class="t">11:05:52</span><span class="w">CTR</span>cleared direct to Philadelphia</div>
+   <div class="cvr" data-from="c1"><span class="t">11:09:30</span><span class="w">CAPT</span>“tell you what I’m gonna take it” · 13,600 FT</div>
+   <div class="cvr" data-from="k1"><span class="t">11:15:14</span><span class="w">FA</span>“…the window is completely out”</div>
+   <div class="cvr" data-from="k2"><span class="t">11:15:54</span><span class="w">CAPT</span>“let’s get it turned in”</div>
+   <div class="cvr" data-from="k3"><span class="t">11:16:15</span><span class="w">CAPT</span>5° of flaps for the landing · approach speed ≈180 KT</div></div></div></div>
+
+<div class="card" id="c_pns"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">PREVIOUS EVENT · NTSB SEC. 1.10.1</div><div class="h" style="font-size:90px;margin-top:14px">Southwest flight 3472</div>
+  <div class="m" style="font-size:36px;line-height:1.9;margin-top:30px">
+   <div>AUG 27, 2016 · BOEING 737-700 · CFM56-7B ENGINES</div>
+   <div>LEFT ENGINE FAILURE CLIMBING THROUGH FL310 · NEAR PASCAGOULA, MS</div>
+   <div class="am">DIVERTED TO PENSACOLA · UNEVENTFUL SINGLE-ENGINE LANDING</div>
+   <div>104 OCCUPANTS · NONE INJURED</div>
+   <div class="gr" data-from="n4">AFTERWARD: EDDY CURRENT TEST AT OVERHAUL (NOV 2016) + ON-WING ULTRASONIC TEST</div></div></div></div>
+
+<div class="card" id="c_sb"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">BLADE INSPECTION DOCUMENTS · NTSB SEC. 1.10.2</div><div class="h" style="font-size:80px;margin-top:14px">Paper trail</div>
+  <div class="b" style="margin-top:20px;font-size:32px">
+   <div class="row" data-from="n5"><span class="am m">MAR 2017</span> CFM service bulletin 72-1019: one-time ultrasonic test (as revised June 2017: &gt; 15,000 cycles since shop visit)</div>
+   <div class="row" data-from="n5"><span class="am m">ACCIDENT ENGINE</span> 8,483 cycles since shop visit at the time → not covered</div>
+   <div class="row" data-from="n6"><span class="am m">AUG 2017</span> FAA proposed rule (NPRM) based on the bulletin · NTSB: would have applied to the accident engine</div>
+   <div class="row" data-from="n7"><span class="rd m">APR 17, 2018</span> Accident</div>
+   <div class="row" data-from="n7"><span class="gr m">APR 20, 2018</span> New CFM bulletin 72-1033 · FAA emergency AD: ultrasonic test within 20 days (≥ 30,000 cycles)</div></div></div></div>
+
+<div class="card" id="c_cert"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">CERTIFICATION · ENGINE DEC 1996 · AIRPLANE DEC 1997 · NTSB SEC. 1.3.5, 2.2, 2.3</div><div class="h" style="font-size:90px;margin-top:14px">Tested vs. what happened</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:40px">
+   <div class="pan" style="padding:30px"><div class="k st">ENGINE CERTIFICATION TEST</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">BLADE RELEASED AT 12 O’CLOCK<br>FAN COWL NOT ON THE ENGINE<br>BOEING USED A FINITE-ELEMENT ANALYSIS FOR COWL LOADS</div></div>
+   <div class="pan" style="padding:30px;border-color:rgba(255,46,46,.7)" data-from="q2"><div class="k rd">FLIGHT 1380 · PER NTSB</div><div class="m" style="font-size:32px;line-height:1.8;margin-top:14px">BLADE HIT THE FAN CASE AT 6 O’CLOCK<br>NEAR THE RADIAL RESTRAINT FITTING<br><span class="am">LOAD PATH THROUGH THE RADIAL RESTRAINT FITTING NOT ACCOUNTED FOR IN THE FAN COWL’S DESIGN (NTSB)</span></div></div></div>
+  <div class="b" style="margin-top:46px" data-from="q3"><span class="gr m">NTSB:</span> given the certification results, the events after the blade failure could not have been predicted</div></div></div>
+
+<div class="card" id="c_chk"><div style="position:absolute;left:180px;top:150px;width:1560px">
+  <div class="k">CREW ACTIONS · NTSB SEC. 2.4 · FINDINGS</div><div class="h" style="font-size:90px;margin-top:14px">Checklists and decisions</div>
+  <div class="b" style="margin-top:30px;font-size:34px">
+   <div class="row" data-from="r1"><span class="am m">≈</span> Most, but not all, items of the engine fire / severe damage checklist performed · three other non-normal checklists not initiated</div>
+   <div class="row" data-from="r2"><span class="gr m">NTSB</span> appropriately balanced procedures with high workload · decision to land at Philadelphia appropriate</div>
+   <div class="row" data-from="r3"><span class="am m">NTSB</span> flight attendants should have been secured in jump seats (not a factor in the outcome)</div></div></div></div>
+
+<div class="card" id="c_cause"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">NTSB PROBABLE CAUSE · ADOPTED NOVEMBER 19, 2019</div>
+  <div class="q pan" style="padding:36px;margin-top:26px;font-size:36px">“…<span class="hl" data-from="s2">a low-cycle fatigue crack in the dovetail of fan blade No. 13, which resulted in the fan blade separating in flight and impacting the engine fan case at a location that was critical to the structural integrity and performance of the fan cowl structure.</span> <span data-from="s3">This impact led to the in-flight separation of fan cowl components, including the inboard fan cowl aft latch keeper, which struck the fuselage near a cabin window and caused the window to depart from the airplane, the cabin to rapidly depressurize, and the passenger fatality.</span>”</div></div></div>
+
+<div class="card" id="c_recs"><div style="position:absolute;left:180px;top:130px;width:1560px">
+  <div class="k">NTSB SAFETY RECOMMENDATIONS A-19-17 … A-19-23 (7)</div><div class="h" style="font-size:84px;margin-top:14px">What the NTSB asked for</div>
+  <div class="b" style="margin-top:24px;font-size:32px">
+   <div class="row" data-from="u2"><span class="am m">FAA</span> Require Boeing to determine the critical fan blade impact location(s) and redesign the fan cowl on 737NG · then require it on new airplanes and retrofit</div>
+   <div class="row" data-from="u3"><span class="am m">FAA · EASA</span> Engine and airplane makers to analyze all critical blade impact locations together</div>
+   <div class="row" data-from="u4"><span class="am m">FAA</span> Guidance on helping passengers after a loss of seating capacity</div>
+   <div class="row" data-from="u4"><span class="am m">SOUTHWEST</span> Flight attendant training: stay secured in a jump seat during emergency landings</div></div></div></div>
+
+<div class="card" id="c_status">
+  <div style="position:absolute;left:150px;top:200px;width:1000px">
+    <div class="k">CASE FILE · N772SW</div>
+    <div class="m" style="font-size:36px;line-height:2;margin-top:20px">
+      <div>FINAL REPORT &nbsp;&nbsp;<span class="gr">NTSB/AAR-19/03</span></div>
+      <div>ADOPTED &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gr">NOV 19, 2019</span></div>
+      <div>DOCKET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gr">DCA18MA142</span></div>
+      <div>NTSB RECS &nbsp;&nbsp;&nbsp;&nbsp;<span class="am">A-19-17 … A-19-23</span></div></div></div>
+  <svg width="560" height="560" viewBox="-280 -280 560 560" style="position:absolute;right:170px;top:200px">
+    <circle r="250" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="170" fill="none" stroke="#1f3a2d" stroke-width="3"/><circle r="90" fill="none" stroke="#1f3a2d" stroke-width="3"/>
+    <g id="sweep"><path d="M0 0 L0 -250 A250 250 0 0 1 120 -219 Z" fill="rgba(60,255,143,.18)"/></g>
+    <g fill="#3CFF8F"><circle cx="-200" cy="120" r="10"/><circle cx="-140" cy="80" r="10"/><circle cx="-80" cy="40" r="10"/><circle cx="-20" cy="0" r="10"/><circle cx="40" cy="-40" r="10"/></g>
+    <line x1="40" y1="-40" x2="120" y2="-95" stroke="#3CFF8F" stroke-width="4" stroke-dasharray="8 8"/>
+      </svg>
+  <div style="position:absolute;right:170px;top:790px;width:560px;text-align:center" class="h"><span style="font-size:86px">LAST </span><span class="gr" style="font-size:86px">CONTACT</span></div>
+  <div class="src" style="position:absolute;left:150px;bottom:70px">Independent channel · not affiliated with the NTSB, FAA, Boeing, CFM or any airline · NTSB report text is a U.S. government work; some figures originate from third parties and are credited as published in the report</div>
+</div>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module" src="scene.js"></script>
+</body></html>

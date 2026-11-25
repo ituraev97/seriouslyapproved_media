@@ -1,0 +1,446 @@
+[
+ {
+  "id": "o1",
+  "start": 0.6,
+  "end": 7.806,
+  "text": "April seventeenth, two thousand eighteen. Eleven oh three in the morning, thirty-two thousand feet over eastern Pennsylvania."
+ },
+ {
+  "id": "o2",
+  "start": 8.906,
+  "end": 18.324,
+  "text": "Southwest Airlines flight thirteen eighty, a Boeing seven thirty-seven, is climbing out of New York, bound for Dallas. One hundred forty-nine people on board."
+ },
+ {
+  "id": "o3",
+  "start": 19.424,
+  "end": 31.336,
+  "text": "At eleven oh three and thirty-three seconds, the left engine fails. A fan blade has broken off at its root. Pieces of the engine's cover tear away, and one of them strikes the fuselage beside a cabin window."
+ },
+ {
+  "id": "o4",
+  "start": 32.436,
+  "end": 39.923,
+  "text": "The airplane begins an uncommanded roll to the left, to forty-one degrees. The window is gone, and the cabin loses its pressure."
+ },
+ {
+  "id": "o5",
+  "start": 43.023,
+  "end": 50.256,
+  "text": "Seventeen minutes later, the airplane lands safely in Philadelphia. One passenger died. Eight others had minor injuries."
+ },
+ {
+  "id": "o6",
+  "start": 51.456,
+  "end": 58.409,
+  "text": "In this video: what the N T S B found, second by second. Why one blade broke. And why the engine cover came apart."
+ },
+ {
+  "id": "t1",
+  "start": 60.309,
+  "end": 63.097,
+  "text": "Last contact. Southwest flight thirteen eighty."
+ },
+ {
+  "id": "h1",
+  "start": 65.197,
+  "end": 76.678,
+  "text": "Everything here comes from the N T S B final report, number A A R nineteen, oh three, adopted on November nineteenth, two thousand nineteen, and from the investigation's public docket."
+ },
+ {
+  "id": "h2",
+  "start": 77.778,
+  "end": 85.26,
+  "text": "Times are eastern daylight time. The track comes from the flight data recorder: latitude, longitude, altitude and speed."
+ },
+ {
+  "id": "h3",
+  "start": 86.36,
+  "end": 96.427,
+  "text": "The three D scenes are built on those numbers, over today's aerial imagery. Motion in between is interpolated. The model is generic, shown without airline markings."
+ },
+ {
+  "id": "a1",
+  "start": 98.127,
+  "end": 108.22,
+  "text": "The airplane was a Boeing seven thirty-seven, seven H four, registration N seven seven two S W, delivered new to Southwest in July, two thousand."
+ },
+ {
+  "id": "a2",
+  "start": 109.32,
+  "end": 122.732,
+  "text": "It had two C F M fifty-six, seven B engines. The left engine was last overhauled in November, two thousand twelve. Since then, it had flown eighteen thousand eighty-eight hours, in ten thousand seven hundred twelve flights."
+ },
+ {
+  "id": "p1",
+  "start": 123.832,
+  "end": 136.484,
+  "text": "Both pilots were experienced. The captain had about ten thousand five hundred hours in the seven thirty-seven, and had flown for the U.S. Navy. The first officer had almost seven thousand, and had flown for the Air Force."
+ },
+ {
+  "id": "p2",
+  "start": 137.584,
+  "end": 150.547,
+  "text": "It was the second day of a four-day trip. On this leg, the first officer was the pilot flying, and the captain was the pilot monitoring. The N T S B found that neither crew qualifications nor medical conditions were factors."
+ },
+ {
+  "id": "w1",
+  "start": 152.047,
+  "end": 157.647,
+  "text": "The airplane took off from LaGuardia at ten forty-three. The takeoff and the climb were uneventful."
+ },
+ {
+  "id": "w2",
+  "start": 158.747,
+  "end": 166.499,
+  "text": "At ten fifty-seven, New York Center cleared them to climb to flight level three eight zero, thirty-eight thousand feet. They did not reach it."
+ },
+ {
+  "id": "f1",
+  "start": 167.999,
+  "end": 176.368,
+  "text": "Eleven oh three and thirty-three seconds. Thirty-two thousand six hundred forty-eight feet. The cockpit voice recorder picks up increased background noise."
+ },
+ {
+  "id": "f2",
+  "start": 177.368,
+  "end": 189.118,
+  "text": "The recorder shows the left engine's fan speed falling from ninety-nine and a half percent to sixty-one and a half, and its vibration climbing. The crew later described a loud bang, and significant vibration."
+ },
+ {
+  "id": "f3",
+  "start": 190.218,
+  "end": 203.224,
+  "text": "At the same moment, the airplane begins to roll to the left, on its own. At eleven oh three forty-four, the bank reaches forty-one degrees. The first officer rolls it back, and within about six seconds the airplane is nearly level again."
+ },
+ {
+  "id": "f4",
+  "start": 204.324,
+  "end": 215.317,
+  "text": "The cabin altitude warning horn sounds about six seconds after the failure. The cabin has lost its pressure. The N T S B found that the window at row fourteen had departed the airplane."
+ },
+ {
+  "id": "e1",
+  "start": 218.617,
+  "end": 229.479,
+  "text": "At eleven oh three fifty-eight, both engines are brought to idle. The emergency descent begins. Eleven seconds later, the left engine's fuel is cut off, and it windmills for the rest of the flight."
+ },
+ {
+  "id": "e2",
+  "start": 230.579,
+  "end": 242.804,
+  "text": "On the cockpit recording, the next two minutes are mostly unintelligible. At eleven oh four forty-nine, the sound of oxygen masks. The controller: Southwest thirteen eighty, if you're trying to get me, all I hear is static."
+ },
+ {
+  "id": "e4",
+  "start": 243.904,
+  "end": 253.366,
+  "text": "At eleven oh four fifty-four, the captain: Southwest thirteen eighty has an engine fire, descending. Then: we're single engine, descending, have fire in number one."
+ },
+ {
+  "id": "e5",
+  "start": 254.466,
+  "end": 264.826,
+  "text": "The airplane is now descending at more than five thousand feet a minute, a peak of five thousand two hundred twenty-eight. The controller suggests Harrisburg. The captain: we're looking at Philly."
+ },
+ {
+  "id": "e6",
+  "start": 265.926,
+  "end": 272.89,
+  "text": "At eleven oh five fifty-two, the controller clears the flight direct to Philadelphia. Two and a half minutes after the failure."
+ },
+ {
+  "id": "d1",
+  "start": 275.69,
+  "end": 283.225,
+  "text": "Why Philadelphia? When the engine failed, the airplane was twenty-nine nautical miles from Harrisburg, and fifty-seven from Philadelphia."
+ },
+ {
+  "id": "d2",
+  "start": 284.325,
+  "end": 297.896,
+  "text": "But Harrisburg had one runway and a firefighting index of B. Philadelphia had four runways, the longest twelve thousand feet, and the highest index, E. The N T S B found the decision to land in Philadelphia was appropriate."
+ },
+ {
+  "id": "c1",
+  "start": 299.396,
+  "end": 311.941,
+  "text": "At eleven oh nine thirty, thirteen thousand six hundred feet. The captain: tell you what, I'm gonna take it. She becomes the pilot flying. Southwest's manual says the captain must make the landing if an engine has been shut down."
+ },
+ {
+  "id": "c2",
+  "start": 313.041,
+  "end": 318.974,
+  "text": "Then the captain slowed down. From two hundred seventy-two knots to two hundred thirty-two in forty seconds."
+ },
+ {
+  "id": "c3",
+  "start": 320.074,
+  "end": 330.58,
+  "text": "Why? She told investigators she wanted to reduce the airframe vibration. The captain said she was slowing down on purpose. At eleven thirteen twenty-two, she had the controls again."
+ },
+ {
+  "id": "k1",
+  "start": 331.68,
+  "end": 341.341,
+  "text": "At eleven fifteen oh four, a flight attendant reaches the first officer on the interphone. She says a window is completely out, and that they are helping an injured passenger."
+ },
+ {
+  "id": "k2",
+  "start": 342.441,
+  "end": 349.613,
+  "text": "At eleven fifteen fifty-four, the captain changes her plan. She decides to expedite the approach. Let's get it turned in."
+ },
+ {
+  "id": "k3",
+  "start": 350.713,
+  "end": 367.748,
+  "text": "She also decides to land with five degrees of flaps, because she did not know how controllable the airplane would be. The company's quick reference handbook had no guidance for a single-engine landing with that setting. She takes the speed for fifteen degrees of flaps, one hundred sixty knots, adds twenty, and aims for one hundred eighty."
+ },
+ {
+  "id": "l1",
+  "start": 369.248,
+  "end": 379.234,
+  "text": "At eleven eighteen fifty-nine, the tower clears them to land on runway two seven left. The wind: two eight zero degrees at nineteen knots, gusting to twenty-five."
+ },
+ {
+  "id": "l3",
+  "start": 380.334,
+  "end": 398.226,
+  "text": "Eleven twenty and thirty seconds. The approach speed is about one hundred eighty-five knots. For a normal two-engine approach in those conditions, it would have been one hundred forty-nine to one hundred fifty-two. The airplane touches down at about one hundred seventy-one knots, with reverse thrust on the right engine. It is seventeen minutes after the failure."
+ },
+ {
+  "id": "l4",
+  "start": 399.926,
+  "end": 410.828,
+  "text": "The airplane leaves the runway by a high-speed taxiway, and stops near a fire truck. The rescue crews report no smoke or fire. Only one passenger needs immediate medical help."
+ },
+ {
+  "id": "b1",
+  "start": 414.128,
+  "end": 416.632,
+  "text": "Now the question that matters most. What broke?"
+ },
+ {
+  "id": "b2",
+  "start": 417.632,
+  "end": 422.449,
+  "text": "The fan has twenty-four titanium blades, each weighing a little under eleven pounds."
+ },
+ {
+  "id": "b3",
+  "start": 423.549,
+  "end": 432.054,
+  "text": "Blade number thirteen broke off at its root, just outside the dovetail, the part that slides into the fan disk. The dovetail itself stayed in its slot."
+ },
+ {
+  "id": "b4",
+  "start": 433.154,
+  "end": 444.561,
+  "text": "Under the microscope, the fracture surface told the story. A smooth area, with six curved lines, the marks of a fatigue crack. A crack that grew by about one mark per flight, for about twenty thousand flights."
+ },
+ {
+  "id": "b5",
+  "start": 445.661,
+  "end": 454.035,
+  "text": "The crack started in the dovetail, on the convex side, about point six inch behind the leading edge. It was almost half an inch deep when the blade let go."
+ },
+ {
+  "id": "b6",
+  "start": 455.135,
+  "end": 467.451,
+  "text": "The N T S B found the crack began because the stresses in the dovetail, in normal operation, were higher than expected. And that it likely began before the blades' last overhaul, in October, two thousand twelve."
+ },
+ {
+  "id": "n1",
+  "start": 468.951,
+  "end": 480.936,
+  "text": "At that overhaul, the blades were inspected with a fluorescent penetrant inspection, which detects cracks at the surface. The crack on blade thirteen was not found, for reasons the N T S B could not determine."
+ },
+ {
+  "id": "n2",
+  "start": 482.036,
+  "end": 493.64,
+  "text": "The N T S B concluded this crack was most likely not detectable by that test, or by the visual checks done every time the blade roots were relubricated. The blades were not a life-limited part."
+ },
+ {
+  "id": "n3",
+  "start": 494.74,
+  "end": 506.027,
+  "text": "On August twenty-seventh, two thousand sixteen, another Southwest seven thirty-seven lost a fan blade near Pascagoula, Mississippi, and landed safely in Pensacola. Nobody was hurt."
+ },
+ {
+  "id": "n4",
+  "start": 507.127,
+  "end": 521.02,
+  "text": "After that, the engine maker developed two new inspections: an eddy current test at overhaul, and an ultrasonic test of the blade roots, with the blades still on the engine. Eddy current became required at overhaul in November two thousand sixteen."
+ },
+ {
+  "id": "n5",
+  "start": 522.12,
+  "end": 538.29,
+  "text": "In March, two thousand seventeen, a service bulletin recommended a one-time ultrasonic test of high-time blades. As revised in June, it applied above fifteen thousand flights since the last shop visit. The accident engine had eight thousand four hundred eighty-three, so it was not covered."
+ },
+ {
+  "id": "n6",
+  "start": 539.39,
+  "end": 551.906,
+  "text": "In August, two thousand seventeen, the F A A proposed a rule to require the test. The N T S B noted that it would have applied to this engine. The agency was still working on the final rule at the time of the accident."
+ },
+ {
+  "id": "n7",
+  "start": 553.006,
+  "end": 566.287,
+  "text": "Three days after the accident, the engine maker issued a new bulletin recommending ultrasonic inspections, and the F A A issued an emergency directive requiring them within twenty days, for engines with thirty thousand flights or more."
+ },
+ {
+  "id": "m1",
+  "start": 567.387,
+  "end": 573.286,
+  "text": "Boeing's design intent was that a blade failure would not cause the inlet or the fan cowl to come apart."
+ },
+ {
+  "id": "m2",
+  "start": 574.286,
+  "end": 581.534,
+  "text": "The fan case held, and no blade material passed through it. The inlet and the fan cowl, parts of the nacelle, are what came apart."
+ },
+ {
+  "id": "m3",
+  "start": 582.634,
+  "end": 594.574,
+  "text": "The blade hit the fan case at the six o'clock position, at the very bottom of the engine. Fragments flew forward, at a larger angle than in the certification tests, and into the engine inlet. The inlet came apart."
+ },
+ {
+  "id": "m4",
+  "start": 595.674,
+  "end": 607.131,
+  "text": "The impact also sent a heavy load into the fan cowl, the engine's outer cover, through a fitting at the bottom called the radial restraint. Cracks ran along the cowl, and it tore apart at its three latches."
+ },
+ {
+  "id": "m5",
+  "start": 608.231,
+  "end": 616.198,
+  "text": "One piece that came off was the aft latch keeper, part of the cowl's own latch. It struck the fuselage just below the window at row fourteen."
+ },
+ {
+  "id": "m6",
+  "start": 617.298,
+  "end": 628.816,
+  "text": "That window is about ten and a half inches wide and a little over fourteen inches tall. The N T S B found it was the first known complete passenger window loss on the Boeing seven thirty-seven fleet."
+ },
+ {
+  "id": "m7",
+  "start": 629.916,
+  "end": 642.345,
+  "text": "The regulation covering the window's outer pane did not require it to withstand impact. The N T S B found the impact of the latch keeper caused the window to depart, and the cabin to depressurize rapidly."
+ },
+ {
+  "id": "q1",
+  "start": 643.845,
+  "end": 659.062,
+  "text": "Were these parts tested for a blade failure? The engine was, in tests that ended in December, nineteen ninety-six. The cowl was not on the engine in those tests. Boeing analyzed it instead, and the airplane was certificated in December, nineteen ninety-seven."
+ },
+ {
+  "id": "q2",
+  "start": 660.162,
+  "end": 674.424,
+  "text": "In the engine's certification test, the blade was released at the twelve o'clock position, the top. Boeing's analyses after the accident found that the fan cowl is more sensitive to an impact near the bottom of the engine, close to the radial restraint fitting."
+ },
+ {
+  "id": "q3",
+  "start": 675.524,
+  "end": 688.598,
+  "text": "The certification analysis assumed that fitting would fail completely and carry no load to the cowl. The stresses in the cowl were higher than calculated. The board found that, given those results, what happened could not have been predicted."
+ },
+ {
+  "id": "r1",
+  "start": 690.098,
+  "end": 702.7,
+  "text": "What about the pilots? The N T S B looked at the checklists. The crew performed most, but not all, of the items on the engine fire or severe damage checklist, and did not start three other checklists the company required."
+ },
+ {
+  "id": "r2",
+  "start": 703.8,
+  "end": 717.764,
+  "text": "The board's finding: given the emergency, the crew's performance of most checklist items, and not all, allowed it to appropriately balance procedure with a high workload. Its finding on the diversion: the decision to land in Philadelphia was appropriate."
+ },
+ {
+  "id": "r3",
+  "start": 718.864,
+  "end": 728.361,
+  "text": "One more finding. Although it was not a factor in the outcome, the flight attendants should have been secured in their jump seats, in case an evacuation after landing had been needed."
+ },
+ {
+  "id": "s1",
+  "start": 729.861,
+  "end": 736.627,
+  "text": "In November, two thousand nineteen, the board adopted its report. The probable cause, in the N T S B's words:"
+ },
+ {
+  "id": "s2",
+  "start": 737.627,
+  "end": 752.334,
+  "text": "a low-cycle fatigue crack in the dovetail of fan blade number thirteen, which resulted in the fan blade separating in flight and impacting the engine fan case at a location that was critical to the structural integrity and performance of the fan cowl structure."
+ },
+ {
+  "id": "s3",
+  "start": 753.534,
+  "end": 769.325,
+  "text": "This impact led to the in-flight separation of fan cowl components, including the inboard fan cowl aft latch keeper, which struck the fuselage near a cabin window and caused the window to depart from the airplane, the cabin to rapidly depressurize, and the passenger fatality."
+ },
+ {
+  "id": "u1",
+  "start": 773.125,
+  "end": 776.204,
+  "text": "The N T S B made seven safety recommendations."
+ },
+ {
+  "id": "u2",
+  "start": 777.204,
+  "end": 790.671,
+  "text": "To the F A A: require Boeing to find the critical blade impact locations on this engine, redesign the fan cowl on all seven thirty-seven next generation airplanes, install it on new airplanes, and retrofit the existing ones."
+ },
+ {
+  "id": "u3",
+  "start": 791.771,
+  "end": 803.111,
+  "text": "Require engine and airplane makers to analyze every critical blade impact location together, and to account for the results in the design. The European regulator got the same recommendation."
+ },
+ {
+  "id": "u4",
+  "start": 804.211,
+  "end": 816.683,
+  "text": "And two more. To the F A A: guidance on helping passengers affected by a loss of seating capacity. To Southwest: training for flight attendants on staying secured in a jump seat during emergency landings."
+ },
+ {
+  "id": "z1",
+  "start": 818.183,
+  "end": 825.962,
+  "text": "Once more. Thirty-two thousand six hundred forty-eight feet. Blade thirteen. The left engine. The window. Forty-one degrees of bank."
+ },
+ {
+  "id": "z3",
+  "start": 827.062,
+  "end": 828.114,
+  "text": "Seventeen minutes."
+ },
+ {
+  "id": "x1",
+  "start": 830.014,
+  "end": 846.267,
+  "text": "The N T S B found that this accident demonstrated the fan cowl's susceptibility to a blade impact near the radial restraint fitting. That the crack was most likely not detectable by the inspections of the time. And that the loads that reached the cowl had not been accounted for in its design."
+ },
+ {
+  "id": "x2",
+  "start": 847.467,
+  "end": 852.808,
+  "text": "One passenger died. The airplane landed safely in Philadelphia, seventeen minutes later."
+ },
+ {
+  "id": "x3",
+  "start": 855.908,
+  "end": 859.922,
+  "text": "This was LAST CONTACT. Every crash leaves a record. Next file soon."
+ }
+]
