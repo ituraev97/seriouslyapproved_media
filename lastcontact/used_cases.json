@@ -51,5 +51,12 @@
   "scheduled": "2026-11-25 14:00 ET",
   "basis": "Fallback (no fresh case with enough new official material); NTSB final report + docket FDR track + board-meeting clips; demand \"Southwest 1380 engine\" 2.20M views/30 days",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=2585448900613262120"
+ },
+ {
+  "ep": "009",
+  "case": "REMAKE of 007: US Airways flight 1549 (A320 N106US) Hudson ditching, 2009-01-15 (NTSB/AAR-10/03) with 59 % real footage",
+  "scheduled": "2026-11-26 14:00 ET",
+  "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=6403636037444978552",
+  "basis": "remakes.json item 1; no fresh official material"
  }
 ]
