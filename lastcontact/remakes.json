@@ -1,0 +1,6 @@
+{
+ "why": "Owner 2026-11-26: every long video must have >= 60% real footage. Published episodes 002-008 had 26-36% (computed from script.py visuals + timing.json). Remake each with 60-70% real footage and publish as a NEW upload; the owner hides the old video in YouTube Studio.",
+ "order": ["007-usairways1549-hudson-2009", "006-asiana214-sfo-2013", "008-swa1380-phl-2018", "003-learjet60-greenacres", "004-ups358-copa427-miami", "002-21air7598-miami", "005-learjet60-columbia-2008"],
+ "old_share_percent": {"002": 26, "003": 27, "004": 32, "005": 36, "006": 26, "007": 33, "008": 26},
+ "done": {}
+}
