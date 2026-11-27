@@ -96,5 +96,13 @@
   "license": "CC Attribution",
   "faces": 112790,
   "note": "No textures; red/white paint via material colors - render with clean #eceef0. Nose +Z. Used as closest CC-BY stand-in for Learjet 60 (LJ60 prototype was a modified LJ55)."
+ },
+ "md11": {
+  "title": "MD-11 fedex",
+  "author": "zairiq zairiq",
+  "url": "https://sketchfab.com/3d-models/md-11-fedex-270ad9ec21e34d7d917886e63b6bb8be",
+  "license": "CC Attribution",
+  "faces": 47246,
+  "note": "repaint all materials white (logo letters are geometry); wheels dark; nose +z; left +x; scale to 61.6 m length"
  }
 }
