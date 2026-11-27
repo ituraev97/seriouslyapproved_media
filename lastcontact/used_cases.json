@@ -14,14 +14,14 @@
   "ep": "003",
   "case": "Learjet 60 (Aurora Aviation dba Upper Jet) in-flight breakup and crash near Greenacres, Palm Beach County FL, 2026-11-01 (NTSB ERA27MA026)",
   "scheduled": "2026-11-16 14:00 ET",
-  "basis": "NTSB page updates Nov 5/8/9, NTSB briefings Nov 2-3, FAA statement; no prelim yet \u2014 do an 'NTSB update' episode when the preliminary report or CVR info is published",
+  "basis": "NTSB page updates Nov 5/8/9, NTSB briefings Nov 2-3, FAA statement; no prelim yet — do an 'NTSB update' episode when the preliminary report or CVR info is published",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-5588209627400548419"
  },
  {
   "ep": "004",
   "case": "UPS 358 (B767-300F N336UP) / Copa 427 (B737-800 HP-1826CMP) taxiway collision, Miami Intl, 2026-11-14 (NTSB investigation; FAA statement)",
   "scheduled": "2026-11-18 14:00 ET",
-  "basis": "FAA statement Nov 14; NTSB statement Nov 15 (via Global News/AP); no prelim yet \u2014 do an 'NTSB update' episode when the preliminary report (expected within 30 days) is out",
+  "basis": "FAA statement Nov 14; NTSB statement Nov 15 (via Global News/AP); no prelim yet — do an 'NTSB update' episode when the preliminary report (expected within 30 days) is out",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=7561906682967181101"
  },
  {
@@ -58,5 +58,12 @@
   "scheduled": "2026-11-26 14:00 ET",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=6403636037444978552",
   "basis": "remakes.json item 1; no fresh official material"
+ },
+ {
+  "ep": "010",
+  "case": "UPS flight 2976, MD-11F N259UP, Louisville SDF, 2025-11-04 (NTSB DCA26MA024, investigation ongoing, no cause stated)",
+  "scheduled": "2026-11-27 14:00 ET",
+  "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-8463184910208056421",
+  "basis": "NTSB prelim report, Jan 2026 update, May 2026 hearing docket, NTSB animation; 62 % real footage"
  }
 ]

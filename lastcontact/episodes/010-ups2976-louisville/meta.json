@@ -1,0 +1,29 @@
+{
+ "title": "UPS 2976: 29 Feet — What the NTSB Has Found So Far (MD-11, Louisville)",
+ "description": "November 4, 2025: UPS flight 2976, a McDonnell Douglas MD-11F, lifts off from Louisville and never climbs higher than 29 feet. Three crew members and eleven people on the ground were killed. This video walks through what the NTSB has published so far: the preliminary report, the January 2026 investigative update, the public docket of the May 2026 investigative hearing, the NTSB's own animation, and the board's media briefings.\n\nThe investigation (NTSB DCA26MA024) is NOT finished. The NTSB has not determined a probable cause, and neither do we. Everything here is attributed to the NTSB as \"so far\", and every document or image from a party to the investigation is labelled as theirs. We do not say what caused the accident.\n\nChapters\n0:00 Takeoff: the last 25 seconds\n1:07 How we know\n1:50 The airplane and the crew\n2:47 Weather and clearance\n3:14 The surveillance video and the flight data\n5:00 Why did the airplane not climb?\n6:01 The investigation begins\n6:44 The failed attachment\n8:17 The NTSB animation\n9:07 The bearing in the records\n10:16 This airplane\n10:57 After the crash: fleet inspections\n11:40 The investigative hearing\n12:57 What the NTSB said at the close\n13:34 Four open questions\n14:16 Replay\n\nSources\n• NTSB investigation DCA26MA024: https://www.ntsb.gov/investigations/Pages/DCA26MA024.aspx\n• NTSB public docket (flight data recorder factual report and data, Structures, Materials, Maintenance, Hazardous Materials and Video group reports, hearing exhibits): https://data.ntsb.gov/Docket/?NTSBNumber=DCA26MA024\n• NTSB preliminary report and investigative update (January 14, 2026), NTSB investigative hearing presentations and exhibits (May 19-20, 2026).\n• Real footage, all from the NTSB's official YouTube channel (U.S. government work), labelled on screen: animation of the pylon failure sequence and airport surveillance video (source: UPS) shown in it: https://youtu.be/iWkLZjJXaos · aerial and on-scene B-roll, November 2025: https://youtu.be/uq3SmmMptx0 · media briefing 1, November 5, 2025: https://youtu.be/Rw6CtQJckzE · media briefing 2, November 6, 2025: https://youtu.be/srB2ezbnP24 · media briefing 3, November 7, 2025: https://youtu.be/hSB75gTV6XA · investigative hearing day 1, May 19, 2026: https://youtu.be/O2l-LicDYAw · day 2, May 20, 2026: https://youtu.be/MfExVsVARVk\n• 3D reconstruction scenes: built from the NTSB's flight data recorder data in the public docket (1 Hz); motion between data points is interpolated, track and heights are approximate, and the engine separation and fire are illustrative. Aerial imagery: USGS The National Map (current imagery, not 2025). Sky: Poly Haven (CC0).\n• 3D model: MD-11 fedex by zairiq zairiq (Sketchfab), CC BY 4.0, https://sketchfab.com/3d-models/md-11-fedex-270ad9ec21e34d7d917886e63b6bb8be - shown as a generic MD-11 in plain white, without any airline markings.\n\nWe do not use unofficial ATC recordings or flight-tracking data, we do not use the cockpit recording, and we do not name the crew or the victims.\n\nLAST CONTACT is an independent channel and is not affiliated with or endorsed by the NTSB, the FAA, Boeing, UPS or any airline. Official documents and images: U.S. government works (public domain). Music and sound effects are original.\n\n#planecrash #aviation #NTSB #aircrashinvestigation #aviationsafety",
+ "tags": [
+  "UPS 2976",
+  "UPS flight 2976",
+  "MD-11",
+  "MD-11F",
+  "Louisville crash",
+  "UPS crash Louisville",
+  "NTSB",
+  "NTSB investigation",
+  "NTSB hearing",
+  "engine separation",
+  "pylon",
+  "spherical bearing",
+  "Boeing service letter",
+  "air crash investigation",
+  "aviation safety",
+  "plane crash explained",
+  "last contact"
+ ],
+ "firstComment": "The NTSB says it hopes to have answers no later than May 2027. Until then, four questions are still open: why the airplane did not climb, how the bearing race and lugs came to be in that condition, what reached operators over the years, and what the FAA's design rules require when a pylon fails. Which one do you most want the board to answer?",
+ "real_footage_percent": 62.0,
+ "duration": "14:39",
+ "case": "UPS 2976, MD-11F N259UP, Louisville, Nov 4 2025 (NTSB DCA26MA024, ongoing)",
+ "voice": "Kokoro am_puck:0.7+am_echo:0.3 (no Chatterbox voice was pre-ordered)",
+ "model_credit": "MD-11 fedex by zairiq zairiq (Sketchfab), CC BY 4.0"
+}
