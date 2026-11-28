@@ -23,6 +23,14 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 - Not the same template every time (inauthentic-content risk) — rotate 3–4 layouts.
 - Never AI-generated faces of real people; real photos only (government releases, archive), AI may only relight/extend.
 
+## Voice (all channels)
+- Long narration 150–170 words/min, Shorts 160–180. No silence > 0.6 s inside narration except one deliberate beat before a reveal.
+- Use tone tags: ~25% "hype" on reveals/numbers/verdicts, ~15% "calm" for context, the rest "normal". Short punchy sentences, rhetorical questions, one dry joke per chapter.
+- Never ElevenLabs (owner 2026-11-28). Chatterbox (relay) or the livelier Kokoro method only.
+
 ## This channel
 - Fresh incidents first: crashes ≤ 7 days old with an NTSB preliminary are what the niche watches now (competitors 0.3–2 M views); evergreen classics second.
 - Thumbnails: the aircraft at the critical moment + a RED CIRCLE on the failure point + 2–4 words or a plain question ('WHAT HAPPENED?'). Less HUD/telemetry text — it is unreadable on a phone.
+
+## Voice
+- Voice audit 2026-11-28: long narration too calm (pitch variation 3.2). Use tone "hype" for the emergency moments (engine failure, impact, the mayday call) on ~25% of paragraphs; keep context calm. Target 150–165 wpm, no pause > 0.6 s.
