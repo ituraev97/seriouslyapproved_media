@@ -31,6 +31,7 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 ## This channel
 - Fresh incidents first: crashes ≤ 7 days old with an NTSB preliminary are what the niche watches now (competitors 0.3–2 M views); evergreen classics second.
 - Thumbnails: the aircraft at the critical moment + a RED CIRCLE on the failure point + 2–4 words or a plain question ('WHAT HAPPENED?'). Less HUD/telemetry text — it is unreadable on a phone.
+- MONETIZATION PUSH: channel is 4 weeks old; first goal 1,000 subs via Shorts (1–2/day, best-first by the HOOK scorecard), each Short linked to its long.
 
 ## Voice
 - Voice audit 2026-11-28: long narration too calm (pitch variation 3.2). Use tone "hype" for the emergency moments (engine failure, impact, the mayday call) on ~25% of paragraphs; keep context calm. Target 150–165 wpm, no pause > 0.6 s.
