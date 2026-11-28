@@ -23,10 +23,24 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 - Not the same template every time (inauthentic-content risk) — rotate 3–4 layouts.
 - Never AI-generated faces of real people; real photos only (government releases, archive), AI may only relight/extend.
 
-## Voice (all channels)
-- Long narration 150–170 words/min, Shorts 160–180. No silence > 0.6 s inside narration except one deliberate beat before a reveal.
-- Use tone tags: ~25% "hype" on reveals/numbers/verdicts, ~15% "calm" for context, the rest "normal". Short punchy sentences, rhetorical questions, one dry joke per chapter.
-- Never ElevenLabs (owner 2026-11-28). Chatterbox (relay) or the livelier Kokoro method only.
+## Voice (all channels) — owner 2026-11-28: work HARD on intonation, pace and pronunciation; every channel has its OWN voice
+Engine: Chatterbox **Turbo** on the office PC / relay since 2026-11-28 (≈4.5× faster than the old Chatterbox, same quality). Never ElevenLabs for the English channels.
+
+**Own voice per channel (never borrow another channel's voice):** use exactly the voice listed under "This channel's voice" below. Chatterbox voices are named reference clips (relay spec `"voice": "<name>"`); Kokoro fallbacks are channel-specific blends — the first (largest) voice of a blend is reserved for that channel. A new channel gets a new voice that is checked against all existing ones.
+
+**Intonation (read the script aloud in your head before voicing):**
+- Tag every paragraph with a tone: ~25% "hype" (reveals, numbers, verdicts, twists), ~15% "calm" (context, aftermath, sad facts), rest "normal". Never a whole video in one tone.
+- Write for the ear: short sentences, vary sentence length, questions where the viewer would ask one, the key word at the END of the sentence. Commas where a speaker breathes; no semicolons/parentheses/colons in narration.
+- Turbo understands a few sound tags — `[sigh]` `[chuckle]` `[gasp]` `[clear throat]` — at most one per minute, only where a human narrator would really do it.
+- After voicing, LISTEN-CHECK by measurement: pitch variation ≥ 4 semitones, loudness range ≥ 6 LU; a flat take is re-voiced with more hype/calm contrast, not shipped.
+
+**Pace:** long narration 150–165 wpm, Shorts 160–180 wpm. Never speed long narration up with atempo to fit a duration — cut words. No silence > 0.6 s inside narration except one deliberate beat before a reveal. Sentence gaps 0.3–0.45 s.
+
+**Pronunciation:**
+- Numbers, dates, money and units are written OUT in words in the TTS text ("twenty twenty-four", "fifty billion dollars", "forty percent").
+- Every name, place, brand or foreign/rare word gets a phonetic respelling in the TTS text the first time it is unclear, e.g. `Jaquan` → `Jay-kwahn`, `Huwaitat` → `Hoo-why-tat`, `Riyadh` → `Ree-yahd`; keep the real spelling in subtitles/titles. Keep a per-channel list in `voice_lexicon.md` (word → respelling) and reuse it every episode.
+- Acronyms: letters with hyphens when spelled (`F-B-I`), as a word only if people say it as a word (NASA).
+- Check the Whisper QA report: any line with similarity < 0.86 or a misread name is re-voiced before rendering.
 
 ## This channel
 - Fresh incidents first: crashes ≤ 7 days old with an NTSB preliminary are what the niche watches now (competitors 0.3–2 M views); evergreen classics second.
@@ -34,4 +48,5 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 - MONETIZATION PUSH: channel is 4 weeks old; first goal 1,000 subs via Shorts (1–2/day, best-first by the HOOK scorecard), each Short linked to its long.
 
 ## Voice
+- This channel's voice: Chatterbox Turbo, relay voice "lc" (=lc_a), calm male; Kokoro fallback ONLY this blend: am_echo:0.6+am_liam:0.4. Do not use any other channel's voice.
 - Voice audit 2026-11-28: long narration too calm (pitch variation 3.2). Use tone "hype" for the emergency moments (engine failure, impact, the mayday call) on ~25% of paragraphs; keep context calm. Target 150–165 wpm, no pause > 0.6 s.
