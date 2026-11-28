@@ -10,6 +10,13 @@
 Owner speaks Russian: all reports to him in Russian. Channel bible: Projects doc `claude/last-contact-bible.md` (read first).
 Reference episode: `lastcontact/episodes/002-21air7598-miami/` (published 2026-11-14, https://www.youtube.com/watch?v=_M1-RE_wTyw).
 
+## IDEAS FROM DASHBOARD — owner decision 2026-11-28 (applies to every topic choice)
+Before choosing a topic, read `ideas/next.md`. It is rewritten every morning by the owner's analytics dashboard from this channel's
+YouTube/Metricool numbers, competitor videos that are breaking out right now, and fresh news. Take the highest-priority idea that fits
+this channel's rules, sourcing/fact standards and available footage (P1 first). If none fits, choose as usual and say in the run report
+which idea was skipped and why. The idea is the TOPIC only — research, script and visuals stay our own; never copy a competitor's video.
+After publishing, append one line to `ideas/used.md`: `<idea id> | <date> | <published title>`.
+
 ## Shorts: cadence + hook rules — owner decision 2026-11-23 (OVERRIDES every other YouTube Shorts count/slot: the old "3 per day" of this file, the root SERIOUSLY APPROVED RUNBOOK's 3/6 per day and the bible)
 Evidence (Metricool, 2026-10-23 → 11-22): 81 YouTube Shorts here got a median of 15 views with a median average view duration of 4 s. The three "The U.S. Approved a …" patent Shorts passed 1000 views (1210, 1041, 1014) but were watched only 1–2 s on average — feed impressions swiped away, which teaches YouTube to stop showing the channel. The NTSB aviation Shorts since Nov 14 have a higher floor (Nov 16–22 median 54 vs 12–13 before; Learjet 60 286 views, 13 s watched), and on TikTok aviation (1019, 811) beats patents (~92–330).
 - **Cadence: 1–2 YouTube Shorts per day, never more.** The run still cuts its usual candidates (3 per day in vert.py), scores each with the scorecard below, and schedules only the best 1–2 per day on YouTube at 09:00 and 17:30 ET (≥ 6 h apart, different visual templates). On a long-video day (Mon/Wed/Fri/Sat) the 17:30 Short is a trailer for that day's long video (last line "Full story on the channel."). A candidate not used on YouTube may be extended to 61–90 s and used as one of the TikToks; **TikTok stays exactly 3 per day at 10:00, 15:30, 20:00 ET.**
