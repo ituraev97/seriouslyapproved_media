@@ -1,0 +1,5 @@
+{
+ "A": "real NTSB aerial frame (br2@25s) + text '76 ABOARD. / 20 SECONDS.'",
+ "B": "3D reconstruction frame (23:37:20) + 'LAST 7 SECONDS / AT LAGUARDIA'",
+ "note": "AI plates not delivered by relay; PIL builder in run session"
+}

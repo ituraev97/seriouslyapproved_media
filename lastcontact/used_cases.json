@@ -65,5 +65,12 @@
   "scheduled": "2026-11-27 14:00 ET",
   "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=-8463184910208056421",
   "basis": "NTSB prelim report, Jan 2026 update, May 2026 hearing docket, NTSB animation; 62 % real footage"
+ },
+ {
+  "ep": "011",
+  "case": "Jazz Aviation 646 (Air Canada Express 8646), CRJ-900 C-GNJZ, LaGuardia, 2026-03-22 (NTSB DCA26MA161, investigation ongoing, no cause stated)",
+  "scheduled": "2026-11-28 14:00 ET",
+  "metricool_long": "https://app.metricool.com/planner/calendar?blogId=7805767&openWithPostUuid=6371565206530838148",
+  "basis": "NTSB prelim report + NTSB briefings/B-roll + FAA announcement; 60 % real footage"
  }
 ]
